@@ -1,45 +1,25 @@
-### Anlage
+### Anlage 1
 
-### (§ 373c Abs. 2 § 373i Abs. 2)
+### Richtlinien des Rats sowie des Europäischen Parlaments und des Rats der Europäischen Wirtschaftsgemeinschaft über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs
 
-### Richtlinien des Rates der Europäischen Wirtschaftsgemeinschaft über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs
+77/92/EWG des Rates vom 13. Dezember 1976 über Maßnahmen zur Erleichterung der tatsächlichen Ausübung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die Tätigkeiten des Versicherungsagenten und des Versicherungsmaklers (aus ISIC-Gruppe 630), insbesondere Übergangsmaßnahmen für solche Tätigkeiten, Amtsblatt der Europäischen Gemeinschaften vom 31. Jänner 1977, L 26/14
 
-- – 64/222/EWG: Richtlinie des Rates vom 25. Februar 1964 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der Tätigkeiten des Großhandels sowie der Vermittlertätigkeiten in Handel, Industrie und Handwerk, ABl. Nr. L 56 vom 4. April 1964, S 857 – Anhang VII Z 20 des EWR-Abkommens,
+85/384/EWG des Rates vom 10. Juni 1985 für die gegenseitige Anerkennung der Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise auf dem Gebiet der Architektur und für Maßnahmen zur Erleichterung der tatsächlichen Ausübung des Niederlassungsrechts und des Rechts auf freien Dienstleistungsverkehr, Amtsblatt der Europäischen Gemeinschaften vom 21. August 1985, L 223/15
 
-- – 64/223/EWG: Richtlinie des Rates vom 25. Februar 1964 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für Tätigkeiten im Großhandel, ABl. Nr. L 56 vom 4. April 1964, S 863 – Anhang VII Z 21 des EWR-Abkommens,
+89/48/EWG des Rates vom 21. Dezember 1988 über eine allgemeine Regelung zur Anerkennung der Hochschuldiplome, die eine mindestens dreijährige Berufsausbildung abschließen, Amtsblatt der Europäischen Gemeinschaften vom 24. Jänner 1989, L 19/16
 
-- – 64/224/EWG: Richtlinie des Rates vom 25. Februar 1964 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für Vermittlertätigkeiten in Handel, Industrie und Handwerk, ABl. Nr. L 56 vom 4. April 1964, S 869 – Anhang VII Z 22 des EWR-Abkommens,
+92/51/EWG des Rates vom 18. Juni 1992 des Rates über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG, Amtsblatt der Europäischen Gemeinschaften vom 24. Juli 1992, L 209/25
 
-- – 64/427/EWG: Richtlinie des Rates vom 7. Juli 1964 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der selbständigen Tätigkeiten der be- und verarbeitenden Gewerbe der CITI-Hauptgruppen 23–40 (Industrie und Handwerk), ABl. Nr. L 117 vom 23. Juli 1964, S 1863/64 – Anhang VII Z 31 des EWR-Abkommens,
+94/38/EG der Kommission vom 26. Juli 1994 zur Änderung der Anhänge C und D der Richtlinie 92/51/EWG des Rates über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG, Amtsblatt der Europäischen Gemeinschaften vom 23. August 1994, L 217/8
 
-- – 64/429/EWG: Richtlinie des Rates vom 7. Juli 1964 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für selbständige Tätigkeiten der be- und verarbeitenden Gewerbe der CITI-Hauptgruppen 23–40 (Industrie und Handwerk), ABl. Nr. L 117 vom 23. Juli 1964, S 1880 – Anhang VII Z 32 des EWR-Abkommens,
+95/43/EG der Kommission vom 20. Juli 1995 zur Änderung der Anhänge C und D der Richtlinie 92/51/EWG des Rates über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG, Amtsblatt der Europäischen Gemeinschaften vom 3. August 1995, L 184/21
 
-- – 68/363/EWG: Richtlinie des Rates vom 15. Oktober 1968 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die selbständigen Tätigkeiten des Einzelhandels (aus CITI-Gruppe 612), ABl. Nr. L 260 vom 22. Oktober 1968, S 1 – Anhang VII Z 23 des EWR-Abkommens,
+97/38/EG der Kommission vom 20. Juni 1997 zur Änderung des Anhangs C der Richtlinie 92/51/EWG des Rates über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG, Amtsblatt der Europäischen Gemeinschaften vom 12. Juli 1997, L 184/31
 
-- – 68/364/EWG: Richtlinie des Rates vom 15. Oktober 1968 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der selbständigen Tätigkeiten des Einzelhandels (aus CITI-Gruppe 612), ABl. Nr. L 260 vom 22. Oktober 1968, S 6 – Anhang VII Z 24 des EWR-Abkommens,
+1999/42/EG des Europäischen Parlaments und des Rates vom 7. Juni 1999 über ein Verfahren zur Anerkennung der Befähigungsnachweise für die unter die Liberalisierungs- und Übergangsrichtlinien fallenden Berufstätigkeiten in Ergänzung der allgemeinen Regelung zur Anerkennung der Befähigungsnachweise, Amtsblatt der Europäischen Gemeinschaften vom 31. Juli 1999, L 201/77
 
-- – 68/365/EWG: Richtlinie des Rates vom 15. Oktober 1968 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die selbständigen Tätigkeiten der Nahrungs- und Genußmittelgewerbe und der Getränkeherstellung (CITI-Hauptgruppen 20 und 21), ABl. Nr. L 260 vom 22. Oktober 1968, S 9 – Anhang VII Z 35 des EWR-Abkommens,
+2000/5/EG der Kommission vom 25. Februar 2002 zur Änderung der Anhänge C und D der Richtlinie 92/51/EWG des Rates über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG, Amtsblatt der Europäischen Gemeinschaften vom 26. Februar 2000, L 54/42
 
-- – 68/366/EWG: Richtlinie des Rates vom 15. Oktober 1968 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der selbständigen Tätigkeiten der Nahrungs- und Genußmittelgewerbe und der Getränkeherstellung (CITI-Hauptgruppen 20 und 21), ABl. Nr. L 260 vom 22. Oktober 1968, S 12 – Anhang VII Z 36 des EWR-Abkommens,
+2001/19/EG des Europäischen Parlamentes und des Rates vom 14. Mai 2001 zur Änderung der Richtlinien 89/48/EWG und 92/51/EWG des Rates über eine allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise und der Richtlinien 77/452/EWG, 77/453/EWG, 78/686/EWG, 78/687/EWG, 78/1026/EWG, 78/1027/EWG, 80/154/EWG, 80/155/EWG, 85/384/EWG, 85/432/EWG, 85/433/EWG und 93/16/EWG des Rates über die Tätigkeiten der Krankenschwester und des Krankenpflegers, die für die allgemeine Pflege verantwortlich sind, des Zahnarztes, des Tierarztes, der Hebamme, des Architekten, des Apothekers und des Arztes, Amtsblatt der Europäischen Gemeinschaften vom 31. Juli 2001, L 206/1
 
-- – 68/367/EWG: Richtlinie des Rates vom 15. Oktober 1968 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die selbständigen Tätigkeiten der persönlichen Dienste (aus CITI-Hauptgruppen 85): 1. Restaurations- und Schankgewerbe (CITI-Gruppe 852), 2. Beherbergungsgewerbe und Zeltplatzbetriebe (CITI-Gruppe 853), ABl. Nr. L 260 vom 22. Oktober 1968, S 16 – Anhang VII Z 44 des EWR-Abkommens,
-
-- – 68/368/EWG: Richtlinie des Rates vom 15. Oktober 1968 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der selbständigen Tätigkeiten der persönlichen Dienste (aus CITI-Hauptgruppe 85): 1. Restaurations- und Schankgewerbe (CITI-Gruppe 852), 2. Beherbergungsgewerbe und Zeltplatzbetriebe (CITI-Gruppe 853), ABl. Nr. L 260 vom 22. Oktober 1968, S 19 – Anhang VII Z 45 des EWR-Abkommens,
-
-- – 70/522/EWG: Richtlinie des Rates vom 30. November 1970 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für selbständige Tätigkeiten des Kohlengroßhandels und für Vermittlungstätigkeiten auf dem Sektor Kohle (ex CITI-Gruppe 6112), ABl. Nr. L 267 vom 10. Dezember 1970, S 14 – Anhang VII Z 25 des EWR-Abkommens,
-
-- – 70/523/EWG: Richtlinie des Rates vom 30. November 1970 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der selbständigen Tätigkeiten des Kohlengroßhandels und der Vermittlertätigkeiten auf dem Sektor Kohle (ex CITI-Gruppe 6112), ABl. Nr. L 267 vom 10. Dezember 1970, S 18 – Anhang VII Z 26 des EWR-Abkommens,
-
-- – 74/556/EWG: Richtlinie des Rates vom 4. Juni 1974 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der Tätigkeiten des Handels mit und der Verteilung von Giftstoffen und der Tätigkeiten, die die berufliche Verwendung dieser Stoffe umfassen, einschließlich der Vermittlertätigkeiten, ABl. Nr. L 307 vom 18. Dezember 1974, S 1 – Anhang VII Z 27 des EWR-Abkommens,
-
-- – 74/557/EWG: Richtlinie des Rates vom 4. Juni 1974 über die Verwirklichung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für selbständige Tätigkeiten und Vermittlertätigkeiten des Handels mit und der Verteilung von Giftstoffen, ABl. Nr. L 307 vom 18. Dezember 1974, S 5 – Anhang VII Z 28 des EWR-Abkommens,
-
-- – 75/368/EWG: Richtlinie des Rates vom 16. Juni 1975 über Maßnahmen zur Erleichterung der tatsächlichen Ausübung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für einige Tätigkeiten (aus ISIC-Hauptgruppe 01 bis ISIC-Hauptgruppe 85), insbesondere Übergangsmaßnahmen für diese Tätigkeiten, ABl. Nr. L 167 vom 30. Juni 1975, S 22 – Anhang VII Z 46 des EWR-Abkommens,
-
-- – 75/369/EWG: Richtlinie des Rates vom 16. Juni 1975 über Maßnahmen zur Vereinfachung der tatsächlichen Ausübung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die Tätigkeiten des Reisegewerbes, insbesondere Übergangsmaßnahmen für diese Tätigkeiten, ABl. Nr. L 167 vom 30. Juni 1975, S 29 – Anhang VII Z 29 des EWR-Abkommens,
-
-- – 77/92/EWG: Richtlinie des Rates vom 13. Dezember 1976 über Maßnahmen zur Erleichterung der tatsächlichen Ausübung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die Tätigkeiten des Versicherungsagenten und des Versicherungsmaklers (aus ISIC-Gruppe 630), insbesondere Übergangsmaßnahmen für solche Tätigkeiten, ABl. Nr. L 26 vom 31. Jänner 1977, S 14 – Anhang IX Z 13 des EWR-Abkommens,
-
-- – 82/470/EWG: Richtlinie des Rates vom 29. Juni 1982 über Maßnahmen zur Förderung der tatsächlichen Ausübung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs für die selbständigen Tätigkeiten bestimmter Hilfsgewerbetreibender des Verkehrs und der Reisevermittler (ISIC-Gruppe 718) sowie der Lagerhalter (ISIC-Gruppe 720), ABl. Nr. L 213 vom 21. Juli 1982, S 1 – Anhang VII Z 38 des EWR-Abkommens und
-
-- – 82/489/EWG: Richtlinie des Rates vom 19. Juli 1982 über Maßnahmen zur Erleichterung der tatsächlichen Ausübung des Niederlassungsrechts und des Rechts auf freien Dienstleistungsverkehr für Friseure, ABl. Nr. L 218 vom 27. Juli 1982, S 24 – Anhang VII Z 47 des EWR-Abkommens.
+2001/97/EG des Europäischen Parlaments und des Rates vom 4. Dezember 2001 zur Änderung der Richtlinie 91/308/EWG des Rates zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche
