@@ -1,4 +1,4 @@
-Art. 49a. (1) Der Bundeskanzler ist gemeinsam mit den zuständigen Bundesministern ermächtigt, Bundesgesetze mit verbindlicher Wirkung in der geltenden Fassung durch Kundmachung im Bundesgesetzblatt wiederzuverlautbaren.
+Art. 49a. (1) Der Bundeskanzler ist gemeinsam mit den zuständigen Bundesministern ermächtigt, Bundesgesetze, mit Ausnahme dieses Gesetzes, und im Bundesgesetzblatt kundgemachte Staatsverträge mit verbindlicher Wirkung in der geltenden Fassung durch Kundmachung im Bundesgesetzblatt wiederzuverlautbaren.
 
 (2) Anläßlich der Wiederverlautbarung können
 
@@ -14,4 +14,4 @@ Art. 49a. (1) Der Bundeskanzler ist gemeinsam mit den zuständigen Bundesministe
 
 - 6. Übergangsbestimmungen sowie noch anzuwendende frühere Fassungen des betreffenden Bundesgesetzes unter Angabe ihres Geltungsbereiches zusammengefaßt und gleichzeitig mit der Wiederverlautbarung gesondert kundgemacht werden.
 
-(3) Von dem der Herausgabe der Wiederverlautbarung folgenden Tag an sind alle Gerichte und Verwaltungsbehörden für die danach verwirklichten Tatbestände an den wiederverlautbarten Text des Bundesgesetzes gebunden.
+(3) Von dem der Herausgabe der Wiederverlautbarung folgenden Tag an sind alle Gerichte und Verwaltungsbehörden für die danach verwirklichten Tatbestände an den wiederverlautbarten Text gebunden.
