@@ -3,3 +3,5 @@ Art. 9a. (1) Österreich bekennt sich zur umfassenden Landesverteidigung. Ihre A
 (2) Zur umfassenden Landesverteidigung gehören die militärische, die geistige, die zivile und die wirtschaftliche Landesverteidigung.
 
 (3) Jeder männliche österreichische Staatsbürger ist wehrpflichtig. Wer aus Gewissensgründen die Erfüllung der Wehrpflicht verweigert und hievon befreit wird, hat einen Ersatzdienst zu leisten. Das Nähere bestimmen die Gesetze.
+
+(4) Österreichische Staatsbürgerinnen können freiwillig Dienst im Bundesheer als Soldatinnen leisten und haben das Recht, diesen Dienst zu beenden.
