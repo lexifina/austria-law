@@ -1,0 +1,3 @@
+Artikel 23f. (1) Österreich wirkt an der Gemeinsamen Außen- und Sicherheitspolitik der Europäischen Union auf Grund des Titels V des Vertrages über die Europäische Union mit. Dies schließt die Mitwirkung an Maßnahmen ein, mit denen die Wirtschaftsbeziehungen zu einem oder mehreren dritten Ländern ausgesetzt, eingeschränkt oder vollständig eingestellt werden.
+
+(2) Für Beschlüsse im Rahmen der Gemeinsamen Außen- und Sicherheitspolitik der Europäischen Union auf Grund des Titels V sowie für Beschlüsse im Rahmen der Zusammenarbeit in den Bereichen Justiz und Inneres auf Grund des Titels VI des Vertrages über die Europäische Union gilt Art. 23e Abs. 2 bis 5.
