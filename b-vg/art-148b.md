@@ -1,0 +1,3 @@
+Art. 148b. (1) Alle Organe des Bundes, der Länder und der Gemeinden haben die Volksanwaltschaft bei der Besorgung ihrer Aufgaben zu unterstützen, ihr Akteneinsicht zu gewähren und auf Verlangen die erforderlichen Auskünfte zu erteilen. Amtsverschwiegenheit besteht nicht gegenüber der Volksanwaltschaft.
+
+(2) Die Volksanwaltschaft unterliegt der Amtsverschwiegenheit im gleichen Umfang wie das Organ, an das die Volksanwaltschaft in Erfüllung ihrer Aufgaben herangetreten ist. Bei der Erstattung der Berichte an den Nationalrat ist die Volksanwaltschaft zur Wahrung der Amtsverschwiegenheit aber nur insoweit verpflichtet, als dies im Interesse der Parteien oder der nationalen Sicherheit geboten ist.
