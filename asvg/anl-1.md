@@ -20,9 +20,9 @@
 
 | 8 | Erkrankungen durch Chrom oder seine Verbindungen | Alle Unternehmen |
 
-| 9 | Erkrankungen durch Benzol oder seine Homologen | Alle Unternehmen |
+| 9 | Erkrankungen durch Benzol oder seine Homologe oder durch Styrol | Alle Unternehmen |
 
-| 10 | Erkrankungen durch Nitro- und Aminoverbindungen des Benzols oder seiner Homologen und deren Abkömmlinge | Alle Unternehmen |
+| 10 | Erkrankungen durch Nitro- und Aminoverbindungen des Benzols oder seiner Homologe und deren Abkömmlinge | Alle Unternehmen |
 
 | 11 | Erkrankungen durch Halogen-Kohlenwasserstoffe | Alle Unternehmen |
 
@@ -78,7 +78,7 @@
 
 | 37 | Tropenkrankheiten, Fleckfieber | Alle Unternehmen |
 
-| 38 | Infektionskrankheiten | Krankenhäuser, Heil- und Pflegeanstalten, Entbindungsheime und sonstige Anstalten, die Personen zur Kur und Pflege aufnehmen, öffentliche Apotheken, ferner Einrichtungen und Beschäftigungen in der öffentlichen und privaten Fürsorge, in Schulen, Kindergärten und Säuglingskrippen und im Gesundheitsdienst sowie in Laboratorien für wissenschaftliche und medizinische Untersuchungen und Versuche sowie in Justizanstalten und Hafträumen der Verwaltungsbehörden bzw. in Unternehmen, in denen eine vergleichbare Gefährdung besteht |
+| 38 | Infektionskrankheiten | Krankenhäuser, Heil- und Pflegeanstalten, Entbindungsheime und sonstige Anstalten, die Personen zur Kur und Pflege aufnehmen, öffentliche Apotheken, ferner Einrichtungen und Beschäftigungen in der öffentlichen und privaten Fürsorge, in Schulen, Kindergärten und Säuglingskrippen und im Gesundheitsdienst sowie in Laboratorien für wissenschaftliche und medizinische Untersuchungen und Versuche sowie in Justizanstalten und Hafträumen der Verwaltungsbehörden bzw. in Unternehmen, in denen eine vergleichbare Gefährung besteht |
 
 | 39 | Von Tieren auf Menschen übertragbare Krankheiten | Tätigkeiten, die durch Umgang oder Berührung mit Tieren, tierischen Teilen, Erzeugnissen, Abgängen und mit kontaminiertem Material zur Erkrankung Anlaß geben, bzw. Tätigkeiten, bei denen eine vergleichbare Gefährdung besteht |
 
