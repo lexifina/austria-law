@@ -36,7 +36,7 @@ Der Reibungskoeffizient zwischen den Rollen und den Fahrzeugrädern darf unter a
 
 - 4. ein Rollenbremsprüfstand gemäß Z 3, bei dem jedoch die Registriermöglichkeit der Bremskräfte und die Anzeige der Pedalkraft oder des bei Druckluftbremsen eingesteuerten Überdruckes nicht erforderlich sind, oder ein wenigstens gleichwertiger Plattenbremsprüfstand; die Anzeige des Messwertes während der Prüfung eines Anhängers muss vom Lenkerplatz des Zugfahrzeuges aus nicht ablesbar sein; (nicht erforderlich für die besondere Überprüfung)
 
-- 5. ein Rollenbremsprüfstand gemäß Z 3, bei dem jedoch die Registriermöglichkeit der Bremskräfte nicht erforderlich ist, oder ein mindestens gleichwertiger Plattenbremsprüfstand; (nicht erforderlich für die besondere Überprüfung)
+- 5. ein Rollenbremsprüfstand gemäß Z 3, bei dem jedoch die Registriermöglichkeit der Bremskräfte und der Pedalkraft nicht erforderlich ist, oder ein mindestens gleichwertiger Plattenbremsprüfstand (nicht erforderlich für die besondere Überprüfung);
 
 - 6. ein schreibendes Bremsverzögerungsmessgerät; bei Messgeräten mit nicht kontinuierlicher Erfassung der Messgrößen müssen diese mindestens 10-mal pro Sekunde erfasst werden;
 
@@ -60,7 +60,7 @@ Der Reibungskoeffizient zwischen den Rollen und den Fahrzeugrädern darf unter a
 
 - 16. ein Gerät für das Messen der Profiltiefe der Reifen;
 
-- 17. ein Gerät zur Prüfung der Bremsflüssigkeit (optional);
+- 17. ein Gerät zur Prüfung der Bremsflüssigkeit;
 
 - 18. ein Plakettenstanzgerät.
 
