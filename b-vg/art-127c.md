@@ -1,0 +1,3 @@
+Artikel 127c
+
+Schaffen die Länder für ihren Bereich dem Rechnungshof gleichartige Einrichtungen, so kann durch Landesverfassungsgesetz eine dem Art. 126a erster Satz entsprechende Regelung getroffen werden. Art. 126a zweiter bis vierter Satz gilt auch in diesem Fall.
