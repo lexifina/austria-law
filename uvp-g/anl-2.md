@@ -1,91 +1,89 @@
-## ANHANG 2
+Anhang 2
 
-Bürgerbeteiligung
+Einteilung der schutzwürdigen Gebiete in folgende Kategorien:
 
-(Soweit nicht bereits durch Anhang 1 erfaßt)
+____________________________________________________________________
 
-  - 1. a) Anlagen zur Behandlung von gefährlichen Abfällen oder zur mehr als 12monatigen Lagerung von mehr als 5.000 Tonnen gefährlicher Abfälle,
+schutzwürdiges
 
-  - b) Anlagen zur sonstigen Behandlung von nicht gefährlichen Abfällen oder Altölen, ausgenommen Anlagen zur Sortierung oder Aufbereitung, oder Anlagen zur Kompostierung biogener Abfälle mit einer Kapazität von mindestens 10.000 Tonnen pro Jahr,
+Kategorie Gebiet Anwendungsbereich
 
-im abfallrechtlichen Verfahren.
+____________________________________________________________________
 
-- 2. Anlagen mit einer Brennstoffwärmeleistung von mindestens 100 MW im Verfahren nach dem Luftreinhaltegesetz für Kesselanlagen.
+A besonderes nach der RL 79/409/EWG des Rates über
 
-  - 3. a) Der Bau von Eisenbahntrassen mit einer Länge von mehr als 2 km und die Änderung von Eisenbahntrassen auf einer Länge von mehr als 2 km, wenn die Mitte des äußersten Gleises der geänderten Trasse von der Mitte des äußersten Gleises der bestehenden Trasse mehr als 100 m entfernt ist;
+Schutzgebiet die Erhaltung der wild lebenden
 
-  - b) der Neubau von Verschub- oder Frachtenbahnhöfen;
+Vogelarten (Vogelschutzrichtlinie),
 
-  - c) die Erweiterung bestehender Schigebiete mit Seilbahnen oder Schleppliften, wenn damit ein Flächenverbrauch durch Pistenneubau mit Geländeveränderungen von mehr als 10 Hektar verbunden ist,
+ABl. Nr. L 103/1, zuletzt geändert
 
-im eisenbahnrechtlichen Verfahren.
+durch die Richtlinie 94/24/EG des
 
-  - 4. a) Wasserkraftanlagen (Talsperren, Flußstaue, Ausleitungen) mit einer Engpaßleistung von mehr als 10 MW;
+Rates vom 8. Juni 1994, ABl.
 
-  - b) Abwasserreinigungsanlagen mit einer Auslegung von mehr als 100.000 Einwohnergleichwerten (EGW 100) CSB;
+Nr. L 164/9, sowie nach der
 
-  - c) Anlagen zur Erzeugung von Papier mit einer Produktionskapazität von mindestens 150.000 Tonnen pro Jahr;
+Richtlinie 92/43/EWG des Rates zur
 
-  - d) Massentierhaltung ab folgender Größe:
+Erhaltung der natürlichen Lebensräume
 
-    - - 21.000 Legehennenplätze
+sowie der wild lebenden Tiere und
 
-    - - 42.000 Junghennenplätze
+Pflanzen
 
-    - - 42.000 Mastgeflügelplätze
+(Flora-Fauna-Habitat-Richtlinie), ABl.
 
-    - - 700 Mastschweineplätze
+Nr. L 206/7, in der Liste der Gebiete
 
-    - - 250 Sauenplätze
+von gemeinschaftlicher Bedeutung nach
 
-bei gemischten Beständen werden die Prozentsätze der jeweils erreichten Platzzahlen addiert, ab einer Summe von 100% ist eine Bürgerbeteiligung durchzuführen; Bestände bis 5% der Platzzahlen bleiben unberücksichtigt,
+Artikel 4 Abs. 2 dieser Richtlinie
 
-im wasserrechtlichen Verfahren.
+genannte Schutzgebiete; Bannwälder
 
-  - 5. a) Anlagen zur Herstellung oder Verarbeitung von Stoffen durch chemische Umwandlung oder Chemikalienlager, mit einer Herstellungs- oder Lagerkapazität
+gemäß § 27 ForstG; bestimmte nach
 
-    - - bei krebserzeugenden Stoffen der Kategorie 1 oder 2 mit
+landesrechtlichen Vorschriften als
 
-R 45, fruchtschädigenden Stoffen mit R 47 oder erbgutschädigenden Stoffen der Kategorie 1 oder 2 mit R 46 (§ 2 Abs. 5 Z 12, 13 oder 14 ChemG, BGBl. Nr. 326/1987) von mehr als 250 Tonnen,
+Nationalpark *1) oder durch
 
-    - - bei krebserzeugenden oder erbgutverändernden Stoffen der Kategorie 3 mit R 40 oder sehr giftige Stoffe (§ 2 Abs. 5 Z 12, 14 oder Z 6 ChemG) von mehr als 500 Tonnen oder
+Verwaltungsakt ausgewiesene, genau
 
-    - - bei giftigen Stoffen (§ 2 Abs. 5 Z 7 ChemG) von mehr als
+abgegrenzte Gebiete im Bereich des
 
-1.250 Tonnen.
+Naturschutzes oder durch Verordnung
 
-  - b) Gießereien
+ausgewiesene, gleichartige
 
-    - - für Eisen mit einer Produktionskapazität von mehr als 100.000 Tonnen pro Jahr,
+kleinräumige Schutzgebiete oder
 
-    - - für Nichteisen mit einer Produktionskapazität von mehr als 50.000 Tonnen pro Jahr;
+ausgewiesene einzigartige Naturgebilde
 
-  - c) Anlagen zum Aufbringen von metallischen Schutzschichten auf Metalloberflächen mit einem Jahresverbrauch von mehr als 15.000 Tonnen an Beschichtungsstoffen;
+____________________________________________________________________
 
-  - d) Anlagen zur Holzfaser- und Spanplattenproduktion mit einer Produktionskapazität von mehr als 125.000 Tonnen pro Jahr;
+B Alpinregion Untergrenze der Alpinregion ist die
 
-  - e) Anlagen zur Herstellung von Ziegeln mit einer Produktionskapazität von mehr als 150.000 Tonnen pro Jahr;
+Grenze des geschlossenen
 
-  - f) Anlagen zur Herstellung von Zement, einschließlich Faserzement, mit einer Produktionskapazität von mehr als 150.000 Tonnen pro Jahr;
+Baumbewuchses, dh. der Beginn der
 
-  - g) Anlagen zur Herstellung von Glas oder Glasfasern mit einer Produktionskapazität von mehr als 100.000 Tonnen pro Jahr;
+Kampfzone des Waldes (siehe § 2 ForstG
 
-  - h) Anlagen zur oberirdischen Lagerung von Erdöl, Erdölprodukten oder Erdgas mit einem geometrischen Fassungsvermögen von mindestens 100.000 m3;
+1975)
 
-  - i) Anlagen zur Herstellung von Bleiakkumulatoren mit einer Leistung von mindestens 500.000 Starterbatterien oder Industriezellen pro Jahr;
+____________________________________________________________________
 
-  - j) Anlagen zum Extrahieren pflanzlicher Fette oder Öle mit einer Verarbeitungskapazität von mehr als 50.000 Tonnen ölhaltigem Saatgutes pro Jahr;
+C Wasserschutz- Wasserschutz- und Schongebiete gemäß
 
-  - k) Anlagen zur Gewinnung von Biotreibstoffen mit einer Produktionskapazität von mehr als 10.000 Tonnen pro Jahr;
+und Schongebiet §§ 34, 35 und 37 WRG 1959
 
-  - l) Anlagen zur Herstellung oder Raffination von Zucker mit einer Produktionskapazität von mindestens 60.000 Tonnen pro Jahr,
+____________________________________________________________________
 
-im gewerberechtlichen Verfahren, soweit jedoch bergrechtliche Vorschriften Anwendung finden, in dem nach diesen Vorschriften maßgeblichen Verfahren.
+D belastetes gemäß § 3 Abs. 8 festgelegte Gebiete
 
-- 6. Rodungen ab einer Fläche von 10 Hektar, im forstrechtlichen Verfahren.
+Gebiet (Luft)
 
-- 7. Errichtung von Beherbergungsbetrieben samt Nebeneinrichtungen mit einer Bettenanzahl von mehr als 500 Betten oder einem Flächenbedarf von mehr als 5 Hektar, außerhalb bestehender geschlossener Siedlungssysteme,
+____________________________________________________________________
 
-im baurechtlichen Verfahren.
-
-- 9. Ständige Anlagen für Motorsportveranstaltungen, im veranstaltungsrechtlichen Verfahren.
+*1) Gebiete, die wegen ihrer charakteristischen Geländeformen oder ihrer Tier- und Pflanzenwelt überregionale Bedeutung haben.
