@@ -86,7 +86,7 @@ III. Umlaufvermögen:
 
 - 13. Kassenbestand, Postscheckguthaben und Giroguthaben bei der Oesterreichischen Nationalbank;
 
-- 14. andere Guthaben bei Banken;
+- 14. andere Guthaben bei Kreditinstituten;
 
 - 15. sonstige Forderungen.
 
@@ -150,7 +150,7 @@ VII. Verbindlichkeiten:
 
   - b) langfristige;
 
-- 8. Verbindlichkeiten gegenüber Banken;
+- 8. Verbindlichkeiten gegenüber Kreditinstituten;
 
 - 9. sonstige Verbindlichkeiten.
 
