@@ -1,1 +1,0 @@
-Artikel 126a. Der Rechnungshof hat auf Ersuchen der Bundesregierung oder eines Bundesministers in seinen Wirkungsbereich (Artikel 121, Absatz 1) fallende besondere Akte der Gebarungsüberprüfung durchzuführen und das Ergebnis der ersuchenden Stelle mitzuteilen.
