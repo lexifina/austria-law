@@ -1,0 +1,5 @@
+Artikel 118a
+
+(1) Durch Bundes- oder Landesgesetz kann bestimmt werden, daß die Angehörigen eines Gemeindewachkörpers mit Zustimmung der Gemeinde zur Besorgung des Exekutivdienstes für die zuständige Behörde ermächtigt werden können.
+
+(2) Mit Zustimmung der Gemeinde kann die Bezirksverwaltungsbehörde Angehörige eines Gemeindewachkörpers ermächtigen, an der Handhabung des Verwaltungsstrafgesetzes im selben Umfang mitzuwirken wie die übrigen Organe des öffentlichen Sicherheitsdienstes. Diese Ermächtigung kann nur erteilt werden, soweit die Organe des öffentlichen Sicherheitsdienstes in der den Gegenstand des Verwaltungsstrafverfahrens bildenden Angelegenheit die Einhaltung der Verwaltungsvorschriften zu überwachen haben oder soweit diese Angelegenheit im Wirkungsbereich der Gemeinde zu besorgen ist.

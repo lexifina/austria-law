@@ -1,3 +1,3 @@
 Artikel 78d. (1) Wachkörper sind bewaffnete oder uniformierte oder sonst nach militärischem Muster eingerichtete Formationen, denen Aufgaben polizeilichen Charakters übertragen sind. Zu den Wachkörpern sind insbesondere nicht zu zählen: Das zum Schutz einzelner Zweige der Landeskultur, wie der Land- und Forstwirtschaft (Feld-, Flur- und Forstschutz), des Bergbaues, der Jagd, der Fischerei oder anderer Wasserberechtigungen aufgestellte Wachpersonal, die Organe der Marktaufsicht, der Feuerwehr.
 
-(2) Eine Neuerrichtung eines Gemeindewachkörpers oder eine Änderung seiner Organisation obliegt der Gemeinde; sie sind der Bundesregierung anzuzeigen.
+(2) Im örtlichen Wirkungsbereich einer Bundespolizeidirektion, der eine Bundessicherheitswache beigegeben ist, darf von einer anderen Gebietskörperschaft ein Wachkörper nicht aufgestellt oder unterhalten werden.
