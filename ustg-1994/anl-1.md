@@ -50,9 +50,9 @@
 
   - c) Hopfen (Blütenzapfen), frisch oder getrocknet, auch gemahlen, sonst zerkleinert oder in Form von Pellets; Lupulin (Position 1210 der Kombinierten Nomenklatur),
 
-  - d) Minze, Lindenblüten und -blätter, Salbei, Kamillenblüten, Holunderblüten und anderer Haustee (Unterpositionen 1211 90 40, 1211 90 60 und 1211 90 75 sowie aus Unterposition 1211 90 80 der Kombinierten Nomenklatur),
+  - d) Minze, Lindenblüten und -blätter, Salbei, Kamillenblüten, Holunderblüten und anderer Haustee (Unterposition 1211 90 75 sowie aus Unterposition 1211 90 95 der Kombinierten Nomenklatur),
 
-  - e) Rosmarin, Beifuß, Basilikum und Dost in Aufmachungen für den Einzelverkauf als Gewürz (aus Unterpositionen 1211 90 70 und 1211 90 80 der Kombinierten Nomenklatur),
+  - e) Rosmarin, Beifuß, Basilikum und Dost in Aufmachungen für den Einzelverkauf als Gewürz (aus Unterpositionen 1211 90 70 und 1211 90 95 der Kombinierten Nomenklatur),
 
   - f) Johannisbrot, Zuckerrüben, frisch oder getrocknet, auch gemahlen; Steine und Kerne von Früchten sowie andere pflanzliche Waren (einschließlich nicht gerösteter Zichorienwurzeln der Varietät Cichorium intybus sativum) der hauptsächlich zur menschlichen Ernährung verwendeten Art, anderweit weder genannt noch inbegriffen (Unterpositionen 1212 10, 1212 30, 1212 91 und 1212 99 der Kombinierten Nomenklatur),
 
@@ -70,7 +70,7 @@
 
   - c) Oleomargarin (aus Unterposition 1503 00 90 der Kombinierten Nomenklatur),
 
-  - d) genießbare pflanzliche Öle sowie deren Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert (Unterpositionen 1507 10 90, 1507 90 90, 1508 10 90, 1508 90 90, 1509 10, 1509 90, 1510 00, 1511 10 90, 1511 90 11, 1511 90 19, 1511 90 99, 1512 11 91, 1512 11 99, 1512 19 91, 1512 19 99, 1512 21 90, 1512 29 90, 1513 11 91, 1513 11 99, 1513 19 11, 1513 19 19, 1513 19 91, 1513 19 99, 1513 21 30, 1513 21 90, 1513 29 11, 1513 29 19, 1513 29 50, 1513 29 91, 1513 29 99, 1514 10 90, 1514 90 90, 1515 19 90, 1515 21 90, 1515 29 90, 1515 30 90, 1515 40 00, 1515 50 19, 1515 50 99, 1515 90 10, 1515 90 29, 1515 90 39, 1515 90 51, 1515 90 59, 1515 90 91 und 1515 90 99 der Kombinierten Nomenklatur)
+  - d) genießbare pflanzliche Öle sowie deren Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert (Unterpositionen 1507 10 90, 1507 90 90, 1508 10 90, 1508 90 90, Positionen 1509 und 1510, Unterpositionen 1511 10 90, 1511 90 11, 1511 90 19, 1511 90 99, 1512 11 91, 1512 11 99, 1512 19 91, 1512 19 99, 1512 21 90, 1512 29 90, 1513 11 91, 1513 11 99, 1513 19 11, 1513 19 19, 1513 19 91, 1513 19 99, 1513 21 30, 1513 21 90, 1513 29 11, 1513 29 19, 1513 29 50, 1513 29 91, 1513 29 99, 1514 10 90, 1514 90 90, 1515 19 90, 1515 21 90, 1515 29 90, 1515 30 90, 1515 40 00, 1515 50 19, 1515 50 99, 1515 90 10, 1515 90 29, 1515 90 39, 1515 90 51, 1515 90 59, 1515 90 91 und 1515 90 99 der Kombinierten Nomenklatur)
 
   - e) genießbare tierische oder pflanzliche Fette und Öle sowie deren Fraktionen, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht weiterverarbeitet (aus Unterpositionen 1516 10 und 1516 20 der Kombinierten Nomenklatur),
 
@@ -118,7 +118,7 @@
 
 - 40. Zubereitete Enzyme, die Nährstoffe enthalten (aus Unterposition 3507 90 00 der Kombinierten Nomenklatur).
 
-  - 40. a) Süßungsmittel (aus Unterposition 3823 90 98 der Kombinierten Nomenklatur).
+  - 40. a) Süßungsmittel (aus Unterposition 3824 90 95 der Kombinierten Nomenklatur)
 
 - 41. Rohe, ganze Häute und Felle, frisch, gesalzen oder getrocknet (aus Positionen 4101, 4102 und 4103 der Kombinierten Nomenklatur).
 
@@ -126,7 +126,7 @@
 
   - a) Brennholz, in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen; Holz in Form von Plättchen oder Schnitzeln; Sägespäne, Holzabfälle und Holzausschuß, auch zu Pellets, Briketts, Scheiten oder ähnlichen Formen zusammengepreßt (Position 4401 der Kombinierten Nomenklatur),
 
-  - b) Rohholz, auch entrindet, vom Splint befreit oder zwei- oder vierseitig grob zugerichtet, ausgenommen tropische Hölzer (aus Unterpositionen 4403 10, 4403 20 00, 4403 91 00, 4403 92 00, sowie Unterpositionen 4403 99 10, 4403 99 20, 4403 99 30 und 4403 99 80 der Kombinierten Nomenklatur),
+  - b) Rohholz, auch entrindet, vom Splint befreit oder zwei- oder vierseitig grob zugerichtet, ausgenommen tropische Hölzer (aus Unterpositionen 4403 10, 4403 20, 4403 91, 4403 92 00 sowie Unterpositionen 4403 99 10, 4403 99 30 und 4403 99 98 der Kombinierten Nomenklatur),
 
   - c) Holzpfähle, gespalten; Pfähle und Pflöcke aus Holz, gespitzt, nicht in der Längsrichtung gesägt (aus Unterpositionen 4404 10 00 und 4404 20 00 der Kombinierten Nomenklatur).
 
