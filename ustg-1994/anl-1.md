@@ -92,7 +92,7 @@
 
 - 29. Wasser (aus Unterposition 2201 90 00 der Kombinierten Nomenklatur).
 
-  - 30. a) Kaffee-, Kaffee-Ersatz-, Mate- oder Tee-Getränke sowie „Tees“ aus Früchten, Kräutern oder aus anderen Pflanzen oder Pflanzenteilen (aus Unterposition 2202 90 10 der Kombinierten Nomenklatur),
+  - 30. a) Kaffee-, Kaffee-Ersatz-, Mate- oder Tee-Getränke sowie „Tees“ aus Früchten, Kräutern oder aus anderen Pflanzen oder Pflanzenteilen (aus Unterpositionen 2202 90 10, 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur),
 
   - b) Milch und Milcherzeugnisse der Positionen 0401, 0402 und 0404, mit Zusatz von Früchten oder Kakao (aus Unterpositionen 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur).
 
@@ -111,6 +111,8 @@
 - 37. Saccharin und seine Salze (Unterposition 2925 11 00 der Kombinierten Nomenklatur).
 
 - 38. Tierische und pflanzliche Düngemittel (ausgenommen Guano), auch untereinander gemischt, nicht chemisch behandelt (aus Position 3101 der Kombinierten Nomenklatur).
+
+- 38a. Mischungen von Riechstoffen und Mischungen (einschließlich alkoholischer Lösungen) auf der Grundlage eines oder mehrerer dieser Stoffe, von der in der Lebensmittelindustrie verwendeten Art in Aufmachungen für den Einzelverkauf (aus Unterposition 3302 10 der Kombinierten Nomenklatur).
 
 - 39. Gelatine (aus Unterposition 3503 00 10 der Kombinierten Nomenklatur).
 
@@ -154,8 +156,6 @@
 
   - 45. a) Briefmarken, Stempelmarken, Steuerzeichen, Ersttagsbriefe, Ganzsachen und dergleichen, entwertet oder nicht entwertet, jedoch im Bestimmungsland weder gültig noch zum Umlauf vorgesehen (Position 9704 der Kombinierten Nomenklatur),
 
-  - b) zoologische, botanische, mineralogische oder anatomische Sammlungsstücke und Sammlungen; Sammlungsstücke von geschichtlichem, archäologischem, und Sammlungen; Sammlungsstücke von geschichtlichem, archäologischem, paläontologischem, völkerkundlichem oder münzkundlichem Wert
-
-(Position 9705 der Kombinierten Nomenklatur),
+  - b) zoologische, botanische, mineralogische oder anatomische Sammlungsstücke und Sammlungen; Sammlungsstücke von geschichtlichem, archäologischem, paläontologischem, völkerkundlichem oder münzkundlichem Wert (Position 9705 der Kombinierten Nomenklatur).
 
 - 46. Antiquitäten, mehr als 100 Jahre alt (Position 9706 der Kombinierten Nomenklatur).
