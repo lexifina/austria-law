@@ -4,8 +4,6 @@
 
 ## Verzeichnis der Gewässer zu § 2 Abs. 1 lit. a
 
-und zu § 99 Abs. 1 lit. a
-
 - 1. Im Burgenland:
 
   - a) die Leitha, der Neusiedler See, die Raab;

@@ -2,9 +2,9 @@
 
 zum Wasserrechtsgesetz
 
-Abwasserherkunftsbereiche gemäß § 99 Abs. 1 lit. e
+Abwasserherkunftsbereiche gemäß § 99 Abs. 1 lit. d
 
-Die direkte Einleitung von Abwasser (§ 32) aus Anlagen und Betrieben der nachstehend genannten Herkunftsbereiche fällt in die Zuständigkeit des Landeshauptmannes als Wasserrechtsbehörde erster Instanz nach § 99 Abs. 1 lit. e.
+Die direkte Einleitung von Abwasser (§ 32) aus Anlagen und Betrieben der nachstehend genannten Herkunftsbereiche fällt in die Zuständigkeit des Landeshauptmannes als Wasserrechtsbehörde erster Instanz nach § 99 Abs. 1 lit. d.
 
 - 1. Schwerpunktkrankenanstalten und Zentralkrankenanstalten gemäß § 2a Krankenanstaltengesetz, BGBl. Nr. 1/1957, idF BGBl. Nr. 801/1993;
 
@@ -28,7 +28,7 @@ Die direkte Einleitung von Abwasser (§ 32) aus Anlagen und Betrieben der nachst
 
 - 11. Erzeugung von Zucker und Stärke;
 
-- 12. Herstellung von Kohlenwasserstoffen und organischen Lösungsmitteln;
+- 12. Herstellung von Kohlenwasserstoffen und organischen Grundchemikalien;
 
 - 13. Herstellung von anorganischen Pigmenten und Mineralfarben;
 
