@@ -1,4 +1,4 @@
-Art. 9a. (1) Österreich bekennt sich zur umfassenden Landesverteidigung. Ihre Aufgabe ist es, die Unabhängigkeit nach außen sowie die Unverletzlichkeit und Einheit des Bundesgebietes zu bewahren, insbesondere zur Aufrechterhaltung und Verteidigung der immerwährenden Neutralität. Hiebei sind auch die verfassungsmäßigen Einrichtungen und ihre Handlungsfähigkeit sowie die demokratischen Freiheiten der Einwohner vor gewaltsamen Angriffen von außen zu schützen und zu verteidigen.
+Artikel 9a. (1) Österreich bekennt sich zur umfassenden Landesverteidigung. Ihre Aufgabe ist es, die Unabhängigkeit nach außen sowie die Unverletzlichkeit und Einheit des Bundesgebietes zu bewahren, insbesondere zur Aufrechterhaltung und Verteidigung der immerwährenden Neutralität. Hiebei sind auch die verfassungsmäßigen Einrichtungen und ihre Handlungsfähigkeit sowie die demokratischen Freiheiten der Einwohner vor gewaltsamen Angriffen von außen zu schützen und zu verteidigen.
 
 (2) Zur umfassenden Landesverteidigung gehören die militärische, die geistige, die zivile und die wirtschaftliche Landesverteidigung.
 

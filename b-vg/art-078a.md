@@ -1,4 +1,4 @@
-3. Sicherheitsbehörden des Bundes
+## 3. Sicherheitsbehörden des Bundes
 
 Artikel 78a. (1) Oberste Sicherheitsbehörde ist der Bundesminister für Inneres. Ihm sind die Sicherheitsdirektionen, ihnen nachgeordnet die Bezirksverwaltungsbehörden und die Bundespolizeidirektionen als Sicherheitsbehörden nachgeordnet.
 

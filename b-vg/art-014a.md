@@ -1,6 +1,4 @@
-### Artikel14a
-
-(1) Auf dem Gebiete des land- und forstwirtschaftlichen Schulwesens sowie auf dem Gebiete des land- und forstwirtschaftlichen Erziehungswesens in den Angelegenheiten der Schülerheime, ferner in den Angelegenheiten des Dienstrechtes und des Personalvertretungsrechtes der Lehrer und Erzieher an den unter diesen Artikel fallenden Schulen und Schülerheimen sind Gesetzgebung und Vollziehung Landessache, soweit in den folgenden Absätzen nicht anderes bestimmt ist. Angelegenheiten des Hochschulwesens gehören nicht zum land- und forstwirtschaftlichen Schulwesen.
+Artikel14a. (1) Auf dem Gebiet des land- und forstwirtschaftlichen Schulwesens sowie auf dem Gebiet des land- und forstwirtschaftlichen Erziehungswesens in den Angelegenheiten der Schülerheime, ferner in den Angelegenheiten des Dienstrechtes und des Personalvertretungsrechtes der Lehrer und Erzieher an den unter diesen Artikel fallenden Schulen und Schülerheimen sind Gesetzgebung und Vollziehung Landessache, soweit in den folgenden Absätzen nicht anderes bestimmt ist. Angelegenheiten des Hochschulwesens gehören nicht zum land- und forstwirtschaftlichen Schulwesen.
 
 (2) Bundessache ist die Gesetzgebung und Vollziehung in folgenden Angelegenheiten:
 
