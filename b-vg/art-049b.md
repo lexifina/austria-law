@@ -2,4 +2,4 @@ Artikel49b. (1) Eine Volksbefragung über eine Angelegenheit von grundsätzliche
 
 (2) Ein Antrag gemäß Abs.1 hat einen Vorschlag für die der Volksbefragung zugrunde zu legende Fragestellung zu enthalten. Diese hat entweder aus einer mit „ja“ oder „nein“ zu beantwortenden Frage oder aus zwei alternativen Lösungsvorschlägen zu bestehen.
 
-(3) Volksbefragungen sind unter sinngemäßer Anwendung von Art.45 und 46 durchzuführen. Die Bundeswahlbehörde hat das Ergebnis einer Volksbefragung dem Nationalrat sowie der Bundesregierung vorzulegen.
+(3) Volksbefragungen sind unter sinngemäßer Anwendung von Art.45 und 46 durchzuführen. Stimmberechtigt bei Volksbefragungen ist, wer am Stichtag das Wahlrecht zum Nationalrat besitzt und in einer Gemeinde des Bundesgebietes den Hauptwohnsitz hat. Die Bundeswahlbehörde hat das Ergebnis einer Volksbefragung dem Nationalrat sowie der Bundesregierung vorzulegen.
