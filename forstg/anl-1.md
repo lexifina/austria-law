@@ -1,28 +1,28 @@
-Anhang
+### Anhang
 
-Holzgewächse gemäß § 1 Abs. 1 sind:
+Holzgewächse gemäß § 1a Abs. 1 sind:
 
-1. Nadelgehölze
+- 1. Nadelgehölze
 
-Bergkiefer Pinus mugo
+| Abies alba | Tanne |
 
-Eibe Taxus baccata
+| Juniperus communis | Gemeiner Wacholder |
 
-Fichte Picea abies
+| Larix decidua | Lärche |
 
-Kiefer Pinus silvestris
+| Picea abies | Fichte |
 
-Lärche Larix decidua
+| Pinus cembra | Zirbe |
 
-Schwarzkiefer Pinus nigra var. austriaca
+| Pinus mugo | Bergkiefer |
 
-Tanne Abies alba
+| Pinus nigra var. austriaca | Schwarzkiefer |
 
-Zirbelkiefer Pinus cembra
+| Pinus silvestris | Weiß-(Rot-)kiefer |
 
-und für die inländische forstliche Nutzung geeignete, fremdländische,
+| Taxus baccata | Eibe |
 
-bestandesbildende Arten der Gattungen
+und für die inländische forstliche Nutzung geeignete, fremdländische, bestandesbildende Arten der Gattungen
 
 Abies
 
@@ -46,93 +46,93 @@ Thuja
 
 Tsuga
 
-2. Laubgehölze
+- 2. Laubgehölze
 
-Bergahorn Acer pseudoplatanus
+| Acer campestre | Feldahorn |
 
-Bergulme Ulmus glabra
+| Acer platanoides | Spitzahorn |
 
-Birke Betula pendula
+| Acer pseudoplatanus | Bergahorn |
 
-Schmalblättrige Esche Fraxinus angustifolia
+| Aesculus hippocastanum | Roßkastanie |
 
-Eberesche Sorbus aucuparia
+| Alnus glutinosa | Schwarzerle |
 
-Edelkastanie Castanea sativa
+| Alnus incana | Weiß-(Grau-)erle |
 
-Elsbeere Sorbus torminalis
+| Alnus viridis | Grünerle |
 
-Esche Fraxinus excelsior
+| Betula pendula | Birke |
 
-Feldahorn Acer campestre
+| Betula pubescens | Moorbirke |
 
-Flaumhaarige Eiche Quercus pubescens
+| Carpinus betulus | Hainbuche |
 
-Feldulme Ulmus minor
+| Castanea sativa | Edelkastanie |
 
-Flatterulme Ulmus laevis
+| Corylus avellana | Hasel |
 
-Graupappel Populus canescens
+| Fagus sylvatica | Rotbuche |
 
-Grünerle Alnus viridis
+| Fraxinus angustifolia | Quirlesche (Schmalblättrige Esche) |
 
-Hainbuche Carpinus betulus
+| Fraxinus excelsior | Esche |
 
-Hasel Corylus avellana
+| Fraxinus ornus | Mannaesche |
 
-Hopfenbuche Ostrya carpinifolia
+| Juglans regia | Walnuss |
 
-Mehlbeere Sorbus aria
+| Malus sylvestris | Wildapfel |
 
-Moorbirke Betula pubescens
+| Ostrya carpinifolia | Hopfenbuche |
 
-Robinie Robinia pseudo-acacia
+| Populus alba | Silberpappel |
 
-Roßkastanie Aesculus hippocastanum
+| Populus canescens | Graupappel |
 
-Rotbuche Fagus silvatica
+| Populus nigra | Schwarzpappel |
 
-Schwarzerle Alnus glutinosa
+| Populus tremula | Zitterpappel |
 
-Schwarzpappel Populus nigra
+| Prunus avium | Vogelkirsche |
 
-Silberpappel Populus alba
+| Prunus padus | Traubenkirsche |
 
-Sommerlinde Tilia platyphyllos
+| Pyrus pyraster | Wildbirne |
 
-Speierling Sorbus domestica
+| Quercus cerris | Zerreiche |
 
-Spitzahorn Acer platanoides
+| Quercus petraea | Traubeneiche |
 
-Stieleiche Quercus robur
+| Quercus pubescens | Flaumeiche |
 
-Traubeneiche Quercus petraea
+| Quercus robur | Stieleiche |
 
-Traubenkirsche Prunus padus
+| Robinia pseudacacia | Robinie |
 
-Vogelkirsche Prunus avium
+| Sorbus aria | Mehlbeere |
 
-Walnuß Juglans regia
+| Sorbus aucuparia | Eberesche (Vogelbeere) |
 
-Weißerle Alnus incana
+| Sorbus domestica | Speierling |
 
-Winterlinde Tilia cordata
+| Sorbus torminalis | Elsbeere |
 
-Zerreiche Quercus cerris
+| Tilia cordata | Winterlinde |
 
-Zitterpappel Populus tremula
+| Tilia platyphyllos | Sommerlinde |
 
-und für die forstliche Nutzung geeignete, bestandesbildende Arten und
+| Ulmus glabra | Bergulme |
 
-Hybriden der Gattung
+| Ulmus laevis | Flatterulme |
 
-Populus
+| Ulmus minor | Feldulme |
+
+und bestandesbildende Arten der Gattung
 
 Salix
 
-und für die inländische forstliche Nutzung geeignete, fremdländische,
-
-bestandesbildende Arten der Gattungen
+und für die inländische forstliche Nutzung geeignete, fremdländische, bestandesbildende Arten und Hybriden der Gattungen
 
 Acer
 
@@ -140,11 +140,17 @@ Ailanthus
 
 Betula
 
-Eleagnus
+Carya
+
+Corylus
+
+Elaeagnus
 
 Fagus
 
 Fraxinus
+
+Gleditsia
 
 Juglans
 
@@ -157,3 +163,5 @@ Populus
 Prunus
 
 Quercus
+
+und für die Waldrand- und Biotopgestaltung geeignete Wildobstgehölze und Straucharten
