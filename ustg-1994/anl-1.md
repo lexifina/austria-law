@@ -30,7 +30,7 @@
 
 - 13. Genießbare Früchte und Nüsse (Positionen 0801 bis 0813 der Kombinierten Nomenklatur).
 
-- 14. Kaffee, Tee, Mate und Gewürze (Kapitel 9 der Kombinierten Nomenklatur).
+- 14. Gewürze (Positionen 0904 bis 0910 der Kombinierten Nomenklatur).
 
 - 15. Getreide (Kapitel 10 der Kombinierten Nomenklatur).
 
@@ -88,13 +88,11 @@
 
 - 27. Zubereitungen von Gemüse, Früchten, Nüssen oder anderen Pflanzenteilen, ausgenommen Frucht- und Gemüsesäfte (Positionen 2001 bis 2008 der Kombinierten Nomenklatur).
 
-- 28. Verschiedene Lebensmittelzubereitungen (Kapitel 21 der Kombinierten Nomenklatur).
+- 28. Verschiedene Lebensmittelzubereitungen (Unterposition 2101 30 und Positionen 2102 bis 2106 der Kombinierten Nomenklatur.
 
 - 29. Wasser (aus Unterposition 2201 90 00 der Kombinierten Nomenklatur).
 
-  - 30. a) Kaffee-, Kaffee-Ersatz-, Mate- oder Tee-Getränke sowie „Tees“ aus Früchten, Kräutern oder aus anderen Pflanzen oder Pflanzenteilen (aus Unterpositionen 2202 90 10, 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur),
-
-  - b) Milch und Milcherzeugnisse der Positionen 0401, 0402 und 0404, mit Zusatz von Früchten oder Kakao (aus Unterpositionen 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur).
+- 30. Milch und Milcherzeugnisse der Positionen 0401, 0402 und 0404, mit Zusatz von Früchten oder Kakao (aus Unterpositionen 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur).
 
 - 31. Speiseessig (Position 2209 der Kombinierten Nomenklatur).
 
