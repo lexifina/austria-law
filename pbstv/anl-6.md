@@ -1,12 +1,20 @@
-### Anlage 6
+Anlage 6
 
-### (§ 10)
+(§ 10)
 
-## Katalog der Prüfpositionen
+Katalog der Prüfpositionen
 
-Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung des für die Prüfung oder Begutachtung verantwortlichen Organs.
+Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in
 
-Prüfnummern für Formblatt
+eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die
+
+entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung
+
+des für die Prüfung oder Begutachtung verantwortlichen Organs.
+
+Prüfnummern
+
+für Formblatt
 
 Anlage 1 Anlage 2 Position Zuordnung Anmerkung
 
@@ -288,13 +296,25 @@ offensichtlich
 
 verschmutzt SM
 
-- Bremsflüssigkeit
+- Siedepunkt niedriger als
 
-Siedepunkt (unter
+180° C/Wassergehalt größer
 
-150 ºC bzw.
+als 1,5% LM
 
-Wasseranteil 2%) SM
+Siedepunkt niedriger als
+
+150° C/Wassergehalt größer
+
+als 2% SM
+
+Bremsflüssigkeit
+
+unbrauchbar (zB Verwendung
+
+nicht geeigneter
+
+Flüssigkeiten) GV
 
 1.1.11 621 Bremsleitungen
 
@@ -519,6 +539,8 @@ selbstlösend SM,GV
 Abreißseil schadhaft oder
 
 fehlt SM
+
+Betätigungsweg zu groß SM
 
 1.2 Betriebsbremse
 
@@ -1080,7 +1102,7 @@ zu großes Spiel SM
 
 Lenksäule gelockert oder
 
-Ausfallgefahr SM, GV
+Ausfallgefahr SM,GV
 
 Höhenverstellung nicht
 
@@ -1210,9 +1232,19 @@ Sonnenblende LM
 
 stark behindernde
 
-Aufkleber an Front- und
+Aufkleber an der Front- und
 
-Heckscheibe SM,VM
+den vorderen Seitenscheiben
+
+(bei mehr als 10% der
+
+Scheibenfläche oder bei
+
+weniger als 10% wenn im
+
+Hauptsichtbereich des
+
+Lenkers befindlich SM,VM
 
 Beeinträchtigung des
 
@@ -1252,13 +1284,13 @@ Genehmigung) SM,VM
 
 Windschutzscheibe
 
-geringfügig gesprungen
+außerhalb des
 
-oder zerkratzt, außerhalb
+Hauptsichtbereiches des
 
-des Sichtfeldes des
+Lenkers zerkratzt oder
 
-Fahrers LM
+gesprungen LM,SM
 
 Heckscheibe u./o. hintere
 
@@ -1269,6 +1301,22 @@ beeinträchtigt und
 zweiter Außenspiegel
 
 nicht vorhanden LM,VM
+
+Windschutzscheibe mit
+
+Folien oder Folienstreifen SM,GV,VM gilt auch
+
+beklebt für getönte
+
+Sonnenschutz-
+
+folien am
+
+oberen Bereich
+
+der Windschutz-
+
+scheibe
 
 3.3 241 Rückspiegel (Innen- oder
 
@@ -1292,7 +1340,7 @@ Risse oder Sprünge LM
 
 Spiegel beschädigt oder
 
-blind LM weniger als
+blind LM,SM mehr als
 
 10% der Fläche
 
@@ -1312,6 +1360,8 @@ Anfahrspiegel fehlt SM,VM 7,5 t, N3 und
 
 M3
 
+Genehmigungszeichen fehlt VM
+
 3.4 221 Scheibenwischer
 
 Wischer arbeitet zu
@@ -1330,7 +1380,9 @@ stark ausgeschlagen SM
 
 Heckscheibenwischer
 
-defekt oder unwirksam LM
+defekt, fehlt oder
+
+unwirksam LM
 
 3.5 221 Scheibenwascher
 
@@ -1397,6 +1449,14 @@ zu niedrig SM
 Leuchtweitenregulierung
 
 defekt LM,SM
+
+Leuchtweitenregulierung
+
+fehlt/defekt bei
+
+Fahrzeugen mit
+
+Gasentladungsscheinwerfern SM
 
 4.1.3 102 Schalter
 
@@ -1466,6 +1526,14 @@ verschiedener Farbe SM,VM
 
 Abdeckung durch Anbauten SM,VM
 
+Scheinwerferreinigungsanlage
+
+fehlt/defekt bei
+
+Fahrzeugen mit
+
+Gasentladungsscheinwerfern SM
+
 4.2 Begrenzungs-, Umriß-,
 
 Seitenmarkierungs- und
@@ -1505,6 +1573,22 @@ Fahrzeugteile ragen um
 mehr als 40 cm seitlich
 
 über die Leuchten hinaus SM,VM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+50% oder mehr der
+
+Lichtquellen ausgefallen SM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+weniger als 50% der
+
+Lichtquellen ausgefallen LM
 
 4.2.2 103) Lichtfarbe und optischer
 
@@ -1576,6 +1660,22 @@ beeinträchtigt durch
 
 Anbauten SM,VM
 
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+50% oder mehr der
+
+Lichtquellen ausgefallen SM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+weniger als 50% der
+
+Lichtquellen ausgefallen LM
+
 4.3.2 107 Lichtfarbe und optischer
 
 Wirkungsgrad
@@ -1637,6 +1737,22 @@ Schaltfehler SM
 Warnblinklicht
 
 (Warnblinkanlage) LM,SM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+50% oder mehr der
+
+Lichtquellen ausgefallen SM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+weniger als 50% der
+
+Lichtquellen ausgefallen LM
 
 4.4.2 106 Lichtfarbe und optischer
 
@@ -1712,6 +1828,22 @@ keine Kontrolleuchte SM,VM
 
 109 Schaltfehler SM
 
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+50% oder mehr der
+
+Lichtquellen ausgefallen SM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+weniger als 50% der
+
+Lichtquellen ausgefallen LM
+
 4.5.3 Lichtfarbe und optischer
 
 Wirkungsgrad
@@ -1785,6 +1917,22 @@ sonstige Mängel zB nicht
 vorschriftsmäßig LM,SM,
 
 VM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+50% oder mehr der
+
+Lichtquellen ausgefallen SM
+
+bei Leuchten mit
+
+mehreren Lichtquellen:
+
+weniger als 50% der
+
+Lichtquellen ausgefallen LM
 
 4.6.2 110 Lichtfarbe und optischer
 
@@ -2422,7 +2570,7 @@ vo/hi
 
 fehlt oder unbrauchbar
 
-(falls erforderlich) VM
+(falls erforderlich) LM
 
 6.2 Führerhaus und Karosserie
 
@@ -2430,7 +2578,7 @@ fehlt oder unbrauchbar
 
 351 gefährdende Fahrzeugteile
 
-innen oder außen LM,SM
+innen oder außen LM,SM,GV
 
 nicht genehmigte
 
@@ -2630,7 +2778,7 @@ fehlen oder unbrauchbar SM,VM
 
 beschädigt LM,SM
 
-unzul. Anbringung VM
+unzul. Anbringung VM,SM
 
 7.1.3 271 Betrieb
 
@@ -2705,6 +2853,10 @@ Betätigungsvorrichtung SM
 Rückfahrwarner ohne für Fahrzeuge der
 
 Funktion, fehlt SM Klassen N2, N3, M3
+
+Rückfahrwarner nicht
+
+rückschaltbar VM
 
 7.8 261 Geschwindigkeitsmesser
 
@@ -2900,6 +3052,8 @@ Prüfnachweis fehlt SM,VM
 
 offensichtliche Mängel LM,SM
 
+Tragfähigkeitsschild fehlt VM
+
 7.17 111 Anlaßvorrichtung
 
 ohne Funktion SM,GV
@@ -2950,7 +3104,25 @@ Fahrgeräusch
 
 offensichtlich erheblich
 
-über dem zulässigen Wert SM
+über dem zulässigen Wert SM Nahfeldpegel
+
+(gemessen) um
+
+mehr als 6 dB(A)
+
+über dem
+
+genehmigten Wert
+
+GV Nahfeldpegel
+
+(gemessen) um
+
+mehr als 12 dB(A)
+
+über dem
+
+genehmigten Wert
 
 Sonstige lärmrelevante
 
@@ -2964,243 +3136,207 @@ oder abgelaufen VM
 
 8.2 Auspuffabgase
 
-8.2.1 562) Kraftfahrzeuge mit
+8.2.1 501 Kraftfahrzeuge mit Motoren mit Fremdzündung:
 
-561 Motoren mit Fremdzündung
+erforderliche Bauteile zur Emissionsminderung
 
-(Ottomotoren)
+schadhaft, fehlen zur Gänze oder
 
-a) ohne moderne
+unvollständig SM,GV
 
-Abgasreinigungsanlage
+Auspuffanlage undicht, schadhaft SM
 
-wie zB
+565 übermäßige Rauchentwicklung SM
 
-Dreiwege-Katalysator
+531 Zündanlage
 
-mit
+Fliehkraftverstellung/Unterdruckverstellung/
 
-Lambdasondenregelung
+Kondensator/Zündspule/Verteiler/Zündkabel/
 
-Auspuffanlage undicht SM
+Kerzenstecker/Kerze defekt SM
 
-CO-Gehalt über vom
+Zündkerze offensichtlich falscher Wärmewert SM
 
-Hersteller angegebenen
+Unterbrecher stark verschlissen SM
 
-Wert bzw. über
+Unterdruckschläuche porös/undicht LM,SM
 
-3,5 Vol.% SM
+Zündzeitpunkt mehr als 3 °abweichend
 
-564 Verdichtung/HC-Gehalt
+(Anmerkung: vom Sollwert bei
 
-über vom Hersteller
+Herstellerangabe) SM
 
-angegebenen Wert bzw.
+Schließwinkel mehr als 5 ° abweichend
 
-über 600 ppm SM
+(Anmerkung: vom Sollwert bei Herstellerangabe) SM
 
-563) b) mit moderner
+542 Luftfilter
 
-561) Abgasreinigungsanlage
+unsachgemäßbefestigt/lose LM,SM
 
-562) wie zB
-
-Dreiwege-Katalysator
-
-mit
-
-Lambdasondenregelung
-
-Auspuffanlage undicht
-
-oder unvollständig SM
-
-erforderliche
-
-Ausrüstung zur
-
-Abgasreinigung fehlt
-
-zur Gänze oder
-
-teilweise SM
-
-CO-Gehalt im Leerlauf
-
-höher als 0,5 Vol.% SM
-
-bei erhöhter
-
-Leerlaufdrehzahl ohne
-
-Last von mind.
-
-2 000 min hoch -1:
-
-CO-Gehalt von mehr als
-
-0,3 Vol.% SM
-
-Lambda kleiner
-
-als 0,97 oder größer
-
-als 1,03 SM
-
-564 Verdichtung/HC-Gehalt
-
-über 60 ppm SM
-
-562 c) Krafträder außer
-
-Motorfahrräder
-
-CO-Gehalt im Leerlauf
-
-höher als 4,5 Vol.% SM
-
-Ausgenommen Motoren
-
-mit
-
-Kurbelgehäusespülung
-
-565 d) übermäßige
-
-Rauchentwicklung SM
-
-531 e) Zündanlage
-
-Fliehkraftverstellung/
-
-Unterdruckverstellung
-
-Kondensator/Zündspule/
-
-Verteiler/Zündkabel
-
-Kerzenstecker/
-
-Zündkerze defekt SM
-
-Zündkerze offensichtl.
-
-falscher Wärmewert SM
-
-Unterbrecher stark
-
-verschlissen SM
-
-Unterdruckschläuche
-
-porös/undicht LM,SM
-
-Zündzeitpunkt mehr als
-
-3 Grad abweichend SM von Sollwert
-
-bei Herstel-
-
-lerangabe
-
-Schließwinkel mehr als
-
-5 Grad abweichend SM von Sollwert
-
-bei Herstel-
-
-lerangabe
-
-542 f) Luftfilter Anmerkung
-
-siehe Pos. 542
-
-unsachgemäß
-
-befestigt/lose LM,SM
-
-Filtereinsatz fehlt
-
-oder nicht
+Filtereinsatz fehlt oder nicht
 
 funktionstüchtig SM
 
-Filtereinsatz
+Filtereinsatz verschmutzt LM,SM
 
-verschmutzt LM,SM
+a.) Bei Kraftfahrzeugen mit Motoren mit Fremdzündung, ausgenommen Fahrzeuge der Klasse L:
 
-g) Fahrzeuge mit
+a.1) ohne moderne Abgasreinigungsanlage wie z. B.
 
-OBD-Diagnosesystem
+Dreiwege-Katalysator mit Lambdasondenregelung *1)
 
-- bei Einschalten der
+561,562 a.1.1.) CO-Gehalt über dem vom Hersteller
 
-Zündung leuchtet
+angegebenen Wert bzw. wenn keine entsprechenden
 
-OBD-Kontrollleuchte
+Werte vorliegen über 3,5 Vol-% SM
 
-nicht SM
+564 a.1.2.) HC-Gehalt über dem vom Hersteller
 
-- bei laufendem Motor
+angegebenen Wert bzw. wenn keine entsprechenden
 
-blinkt diese bzw.
+Werte vorliegen über 600 ppm, sofern auf mangelnde
 
-leuchtet ständig SM
+Verdichtung zurückzuführen SM
 
-8.2.2 502 Kraftfahrzeuge mit
+a.2.) mit moderner Abgasreinigungsanlage wie z. B.
 
-Motoren mit Selbstzündung
+Dreiwege-Katalysator mit Lambdasondenregelung *1)
 
-(Dieselmotoren)
+561,562 a.2.1.) CO-Gehalt über dem vom Hersteller
 
-Absorptionsbeiwert
+angegebenen Wert SM
 
-bei Saugmotoren über
+Liegen hierzu keine Werte vor, gilt für
 
-2,5 m hoch -1 SM
+a.2.2.) CO-Gehalt im Leerlauf:
 
-bei Turbomotoren über
+- - Für Kraftfahrzeuge mit erstmaliger Zulassung
 
-3,0 m hoch -1 SM
+nach dem 1. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220/EWG
 
-bei Fahrzeugen mit
+idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO III) genehmigt wurden, bei einem Wert höher als 0,3 Vol.-% SM
 
-erstmaliger Zulassung vor
+- In allen anderen Fällen Wert höher als 0,5 Vol.-% SM
 
-dem 1. Jänner 1980:
+a.2.3.) CO-Gehalt bei erhöhter Leerlaufdrehzahl (ohne Last) von mindestens 2000 1/min:
 
-mehr als
+- Für Kraftfahrzeuge mit erstmaliger Zulassung nach
 
-1 Bacharacheinheit über
+dem 1. Juli 2002 oder solchen, welche gemäß den
 
-dem Genehmigungswert,
+Grenzwerten der Richtlinie 70/220/EWG idF. 98/69/EG
 
-ohne Genehmigungswert
+oder später geänderten Fassungen ( d.h. ab
 
-mehr als
+EURO III) genehmigt wurden, bei einem Wert höher
+
+als 0,2 Vol.-% SM
+
+- In allen anderen Fällen Wert höher als 0,3 Vol.-% SM
+
+563 a.2.4.) Lambda kleiner als 0,97 oder größer als
+
+1,03 SM
+
+564 a.2.5.) HC-Wert über 60 ppm, sofern auf mangelnde
+
+Verdichtung zurückzuführen SM
+
+a.3.) mit On-Board-Diagnosesystemen (OBD)*1):
+
+a.3.1.) - bei Einschalten der Zündung leuchtet
+
+OBD-Kontrollleuchte nicht SM
+
+- bei laufendem Motor blinkt diese bzw. leuchtet
+
+ständig SM
+
+a.3.2.) Bei Kraftfahrzeugen, welche mit On-Board-Diagnosesystemen ausgerüstet sind, kann alternativ zu den Prüfungen nach a.2.2. ein angemessenes Auslesen des OBD-Gerätes bei gleichzeitiger Prüfung des ordnungsgemäßen Funktionierens des OBD-Systems erfolgen:
+
+Abgassystem bzw. OBD-System funktioniert nicht ordnungsgemäß SM
+
+*1) Anmerkung: ausgenommen Fahrzeuge mit Motoren mit Kurbelgehäusespülung
+
+b.) Bei Kraftfahrzeugen der Klasse L mit Motoren mit Fremdzündung, ausgenommen solche mit Kurbelgehäusespülung:
+
+CO-Gehalt im Leerlauf höher als 4,5 Vol.-% SM
+
+8.2.2. 502 Kraftfahrzeuge mit Motoren mit Selbstzündung:
+
+erforderliche Bauteile zur Emissionsminderung
+
+schadhaft, fehlen zur Gänze oder unvollständig SM
+
+Auspuffanlage undicht, schadhaft SM
+
+565 übermäßige Rauchentwicklung SM
+
+542 Luftfilter
+
+unsachgemäß befestigt/lose LM,SM
+
+Filtereinsatz fehlt oder nicht
+
+funktionstüchtig SM
+
+Filtereinsatz verschmutzt LM,SM
+
+c.) Messung der Abgastrübung:
+
+c.1.) Gemessener Wert der Abgastrübung liegt um
+
+0,5 m hoch -1 über dem vom Fahrzeughersteller
+
+angegebenen Wert (Anmerkung: gemäß der
+
+Richtlinie 72/306/EWG oder 77/537/EWG) SM
+
+Überschreitet der um 0,5 m-1 erhöhte gemessene Wert
+
+die Grenzen nach c.2., c.3. oder c.4. (wo zutreffend) SM
+
+Liegen vom Fahrzeughersteller keine Werte vor, gilt:
+
+c.2.) für Kraftfahrzeuge mit Saugmotoren Absorptionsbeiwert
+
+über 2,5 m hoch -1 SM
+
+c.3.) für Kraftfahrzeuge mit Turbomotoren
+
+Absorptionsbeiwert über 3,0 m hoch -1 SM
+
+c.4.) für Kraftfahrzeuge
+
+- welche gem. den Grenzwerten Zeile B, Anh. I,
+
+Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG
+
+idF. 98/69/EG oder später geänderten Fassungen (d.h.
+
+ab EURO IV) genehmigt wurden oder
+
+- - welche zumindest gemäß den Grenzwerten Zeile B1,
+
+Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder
+
+- - mit erstmaliger Zulassung nach dem 1. Juli 2008:
+
+Absorptionsbeiwert über 1,5 m hoch -1 SM
+
+c.5.) für Kraftfahrzeuge mit erstmaliger Zulassung vor dem
+
+1. Jänner 1980: mehr als 1 Bacharacheinheit über dem
+
+Genehmigungswert SM
+
+Liegen hierzu keine Werte vor, gilt: mehr als
 
 6 Bacharacheinheiten SM
-
-565 b) Übermäßige
-
-Rauchentwicklung SM
-
-542 c) Luftfilter
-
-unsachgemäß
-
-befestigt/lose LM,SM
-
-Filtereinsatz fehlt
-
-oder nicht
-
-funktionstüchtig SM
-
-Filtereinsatz
-
-verschmutzt LM,SM
 
 8.3 531 Funkentstörung
 
@@ -3264,7 +3400,7 @@ Sitzbezüge beschädigt LM
 
 Sitzplatzanzahl über der
 
-genehmigten GV
+genehmigten GV,VM
 
 9.5 - Innenbeleuchtung
 
@@ -3278,19 +3414,15 @@ ausgefallen LM
 
 Fahrzeuges
 
-10.1 - Kennzeichentafeln
+10.1 Kennzeichentafeln
 
-nicht fest angebracht
+schlecht lesbar, umgebogen,
 
-oder schlecht lesbar LM,SM
+beschädigt LM,SM
 
-nicht annähernd senkrecht
+nicht fest oder nicht
 
-angebracht SM
-
-Kennzeichen bildet Teil
-
-der Radabdeckung (Krad) LM,SM
+ordnungsgemäß angebracht LM,SM
 
 10.2 001 Fahrgestellnummer
 
@@ -3312,4 +3444,4 @@ entsprechend SM,VM
 
 Anmerkung:
 
-Eintragung von „-” unter Spalte „Anlage 2” wenn Position nicht vorgesehen
+Eintragung von “-” unter Spalte “Anlage 2” wenn Position nicht vorgesehen
