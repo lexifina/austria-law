@@ -1,5 +1,5 @@
 Artikel 23b. (1) Öffentlich Bediensteten ist, wenn sie sich um ein Mandat im Europäischen Parlament bewerben, die für die Bewerbung um das Mandat erforderliche freie Zeit zu gewähren. Öffentlich Bedienstete, die zu Mitgliedern des Europäischen Parlaments gewählt wurden, sind für die Dauer der Mandatsausübung unter Entfall der Dienstbezüge außer Dienst zu stellen. Das Nähere wird durch Gesetz geregelt.
 
-(2) Hochschullehrer können eine Tätigkeit in Forschung und Lehre und die Prüfungstätigkeit auch während der Zugehörigkeit zum Europäischen Parlament fortsetzen. Die Dienstbezüge für diese Tätigkeit sind entsprechend den tatsächlich erbrachten Leistungen zu bemessen, dürfen aber 25% der Bezüge eines Hochschullehrers nicht übersteigen.
+(2) Universitätslehrer können eine Tätigkeit in Forschung und Lehre und die Prüfungstätigkeit auch während der Zugehörigkeit zum Europäischen Parlament fortsetzen. Die Dienstbezüge für diese Tätigkeit sind entsprechend den tatsächlich erbrachten Leistungen zu bemessen, dürfen aber 25% der Bezüge eines Universitätslehrers nicht übersteigen.
 
 (3) Insoweit dieses Bundesverfassungsgesetz die Unvereinbarkeit von Funktionen mit der Zugehörigkeit oder mit der ehemaligen Zugehörigkeit zum Nationalrat vorsieht, sind diese Funktionen auch mit der Zugehörigkeit oder mit der ehemaligen Zugehörigkeit zum Europäischen Parlament unvereinbar.
