@@ -290,7 +290,7 @@ Inhaltsverzeichnis
 
 ### Medienöffentliche und vertrauliche Sitzungen
 
-§ 17. (1) Bei der Anhörung von Auskunftspersonen und Sachverständigen wird Medienvertretern vom Präsidenten nach Maßgabe der räumlichen Möglichkeiten Zutritt gewährt. Ton- und Bildaufnahmen sind ausschließlich für Zwecke der Protokollierung gemäß § 19 und der Übertragung innerhalb der Parlamentsgebäude gestattet.
+§ 17. (1) Bei der Anhörung von Auskunftspersonen und Sachverständigen wird vom Präsidenten nach Maßgabe der räumlichen Möglichkeiten Zutritt gewährt. Ton- und Bildaufnahmen sind ausschließlich für Zwecke der Protokollierung gemäß § 19 und der Übertragung innerhalb der Parlamentsgebäude gestattet.
 
 (2) Die Öffentlichkeit ist auszuschließen, wenn
 
