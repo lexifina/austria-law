@@ -34,7 +34,7 @@ Villach (A 10, A 11) - Staatsgrenze bei
 
 Arnoldstein, einschließlich Graz/Ost -
 
-Graz/Liebenau (ehemalige B 73)
+Graz/Liebenau (Sternäckerweg)
 
 ____________________________________________________________________
 
