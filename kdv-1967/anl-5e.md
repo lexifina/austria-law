@@ -70,11 +70,11 @@
 
 | C. | Entgelte für Typen von Kennzeichentafeln |
 
-### A. Kennzeichentafelarten und Formate
+A. Kennzeichentafeln und Formate
 
 | KENNZEICHENARTEN |
 
-| Kennzeichen | EU-Emblem | Grundfarbe | Schriftfarbe | Wappen Anhang A2 | Vormerkzeichen Anzahl=/siehe KDV § 26 | Muster entsprechend A.1. |
+| Kennzeichen | EU-Emblem | Grundfarbe | Schriftfarbe | Wappen Anhang A2 | Vormerkzeichen Anzahl=/siehe § 26 | Muster entsprechend A.1. |
 
 | Gewöhnliches Kennzeichen (GKT) einzeilig | + | weiß | schwarz | + | 6 | I |
 
@@ -92,35 +92,35 @@
 
 | Motorfahrräder (MFT) | – | rot | weiß | – | 6 *) | VI |
 
-| Motorrad (MRT) | + | weiß | schwarz | + | 4 **) | VII |
+| Motorrad (MRT) | + | weiß | schwarz | + | 4 **) | VII,VIII |
 
-*) Anzahl der Zeichen insgesamt (Zulassungsbereich + Vormerkzeichen)
-
-**) Anzahl der Vormerkzeichen bei Nachbestellungen und Wunschkennzeichen bis zu sechs Zeichen
+| *) Anzahl der Zeichen insgesamt (Zulassungsbereich + Vormerkzeichen) **) Anzahl der Vormerkzeichen bei Nachbestellungen und Wunschkennzeichen bis zu 6 Zeichen |
 
 | KENNZEICHENFORMATE |
 
 | Muster: | Format: |
 
-| I | 520 x 120 mm × 120 mm |
+| I | 520 x 120 mm |
 
-| III | 300 x 200 mm × 200 mm |
+| III | 300 x 200 mm |
 
-| Ia | 520 x 120 mm × 120 mm |
+| Ia | 520 x 120 mm |
 
-| IIIa | 270 x 200 mm × 200 mm |
+| IIIa | 270 x 200 mm |
 
-| IV | 520 x 120 mm × 120 mm |
+| IV | 520 x 120 mm |
 
-| V | 270 x 200 mm × 200 mm |
+| V | 270 x 200 mm |
 
-| VI | 150 x 115 mm × 115 mm |
+| VI | 150 x 115 mm |
 
-| VII | 250 x 200 mm × 200 mm |
+| VII | 250 x 200 mm |
+
+| VIII | 210 x 170 mm |
 
 ### A.1. Maße und Schriftfelder
 
-/Dokumente/Bundesnormen/NOR40039917/image001.jpg
+/Dokumente/Bundesnormen/NOR40061249/image001.jpg
 
 | a: Breite des Feldes A (mm) |
 
@@ -146,17 +146,25 @@
 
 | – mit einem Zeichen : 32 (bei W : 44, A:35, I : 9, L : 28) | – mit zwei Zeichen: max. 90 |
 
-/Dokumente/Bundesnormen/NOR40039917/image002.png
+/Dokumente/Bundesnormen/NOR40061249/image002.png
 
-/Dokumente/Bundesnormen/NOR40039917/image003.png
+/Dokumente/Bundesnormen/NOR40061249/image003.png
 
-/Dokumente/Bundesnormen/NOR40039917/image004.png
+/Dokumente/Bundesnormen/NOR40061249/image004.png
 
-/Dokumente/Bundesnormen/NOR40039917/image005.png
+/Dokumente/Bundesnormen/NOR40061249/image005.png
 
 Bei Nachbestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten mit sechs Vormerkzeichen steht die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile.
 
-/Dokumente/Bundesnormen/NOR40039917/image006.png
+/Dokumente/Bundesnormen/NOR40061249/image006.jpg
+
+m: Breite des Feldes MI (mm):
+
+- – mit einem Zeichen : 26 (bei W: 36, A:28, L: 26 )
+
+- – mit zwei Zeichen. max 78
+
+/Dokumente/Bundesnormen/NOR40061249/image007.png
 
 Für VZT Muster VI: Untergrund der Tafel blau mit roten Feld mit Angabe der letzten zwei Ziffern der Jahreszahl des Kalenderjahres in dem die Zulassung erlischt.
 
@@ -164,63 +172,65 @@ Für PKT Muster VI: Untergrund der Tafel blau.
 
 ### Überstellungskennzeichen ÜKT einzeilig, Maße wie Muster IV
 
-/Dokumente/Bundesnormen/NOR40039917/image007.png
+/Dokumente/Bundesnormen/NOR40061249/image008.png
 
 ### Überstellungskennzeichen ÜKT zweizeilig, Maße wie Muster V
 
-/Dokumente/Bundesnormen/NOR40039917/image008.png
+/Dokumente/Bundesnormen/NOR40061249/image009.png
 
 ### A.1.1. EU-Emblem
 
-/Dokumente/Bundesnormen/NOR40039917/image009.png
+/Dokumente/Bundesnormen/NOR40061249/image010.png
 
-### A.2. Inhalte der Felder
+/Dokumente/Bundesnormen/NOR40061249/image011.jpg
+
+A.2. Inhalte der Felder
 
 | Kenn-zeichenfeld | Muster | Raum für |
 
-| EU | I,III, VII | EU-Emblem, (siehe Muster EU) |
+| EU | I, III, VII, VIII | EU-Emblem, (siehe Muster EU) |
 
-| A | I, III | /Dokumente/Bundesnormen/NOR40039917/image010.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
+| A | I, III | /Dokumente/Bundesnormen/NOR40061249/image012.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
 
 | AI | Ia, IIIa, IV, V |
 
 | G | VI |
 
-| M | VII |
+| M, MI | VII, VIII |
 
-| B | I,III, VII | Bundeswappen oder Wappen des Bundeslandes mit unterhalb ausgeschriebenem Namen des Bundeslandes (Blockbuchstaben, Höhe: 4 mm oder 5 mm je nach Wortlänge thermoplastisch aufgebracht. |
+| B | I ,III, VII, VIII | Bundeswappen oder Wappen des Bundeslandes mit unterhalb ausgeschriebenem Namen des Bundeslandes (Blockbuchstaben, Höhe: 4 mm oder 5 mm je nach Wortlänge) thermoplastisch aufgebracht. |
 
-| BI | Ia, IIIa, IV, V | Bundeswappen oder Wappen des Bundeslandes mit unterhalb ausgeschriebenem Namen des Bundeslandes (Blockbuchstaben, Höhe: 4 mm oder 5 mm (je nach Wortlänge). Wappen und ausgeschriebenem Namen des Bundeslandes auf ebener Hochprägefläche (Prägehöhe 0,2 mm bis 0,5 mm) aufgebracht. Nur bei Kennzeichentafeln ohne Wappen: Hochprägung P (Muster Ib) |
+| BI | Ia, IIIa, IV ,V | Bundeswappen oder Wappen des Bundeslandes mit unterhalb ausgeschriebenem Namen des Bundeslandes (Blockbuchstaben. Höhe: 4 mm oder 5 mm je nach Wortlänge). Wappen und ausgeschriebenem Namen des Bundeslandes auf ebener Hochprägefläche (Prägehöhe 0,2 mm bis 0,5 mm) aufgebracht. Nur bei Kennzeichentafeln ohne Wappen: Hochprägung P (Muster Ib) |
 
-| DI | IIIa | Die ersten zwei Zeichen des Vormerkzeichen mit sechs Zeichen. Erstes Zeichen des Vormerkzeichen mit fünf Zeichen. |
+| DI | IIIa | Die ersten zwei Zeichen des Vormerkzeichen mit 6 Zeichen Erstes Zeichen des Vormerkzeichen mit 5 Zeichen |
 
-| C, CI | I | Vormerkzeichen |
+| C,CI | I | Vormerkzeichen |
 
-| D | III | Erstes Zeichen des Vormerkzeichens mit sechs Zeichen. |
+| D | III | Erstes Zeichen des Vormerkzeichens mit 6 Zeichen. |
 
-| DI | V | Erstes Zeichen des Vormerkzeichens mit vier Zeichen. Ersten zwei Zeichen des Vormerkzeichens mit fünf Zeichen. |
+| DI | V | Erstes Zeichen des Vormerkzeichens mit 4 Zeichen. Ersten zwei Zeichen des Vormerkzeichens mit 5 Zeichen |
 
-| E | III | Vormerkzeichen mit nicht mehr als fünf Zeichen. Bei Vormerkzeichen mit sechs Zeichen die letzten fünf Zeichen. |
+| E | III | Vormerkzeichen mit nicht mehr als 5 Zeichen. bei Vormerkzeichen mit 6 Zeichen die letzten 5 Zeichen. |
 
-| EI | V | Vormerkzeichen mit nicht mehr als drei Zeichen. Bei Vormerkzeichen mit vier Zeichen sowie mit fünf Zeichen die letzten drei Zeichen. |
+| EI | V | Vormerkzeichen mit nicht mehr als 3 Zeichen. Bei Vormerkzeichen mit 4 Zeichen sowie mit 5 Zeichen die letzten 3 Zeichen. |
 
-| EI | IIIa | Vormerkzeichen mit nicht mehr als vier Zeichen. Bei Vormerkzeichen mit fünf Zeichen sowie mit sechs Zeichen die letzten vier Zeichen. |
+| EI | IIIa | Vormerkzeichen mit nicht mehr als 4 Zeichen Bei Vormerkzeichen mit 5 Zeichen sowie mit 6 Zeichen die letzten 4 Zeichen |
 
-| F | IV, V | Bei VZT die letzten zwei Ziffern der Jahreszahl des Ablaufjahres der vorläufigen Zulassung. Bei ÜKT Ablaufplakette. |
+| F | IV.V | Bei VZT die letzten 2 Ziffern der Jahreszahl des Ablaufjahres der vorläufigen Zulassung. Bei ÜKT Ablaufplakette. |
 
-| H | VI | Erstes Zeichen des Vormerkzeichens mit vier Zeichen bzw. die ersten zwei Zeichen des Vormerkzeichens mit fünf Zeichen. |
+| H | VI | Erstes Zeichen des Vormerkzeichens mit 4 Zeichen bzw. die ersten 2 Zeichen des Vormerkzeichens mit 5 Zeichen |
 
-| K | VI | Die letzten drei Zeichen des Vormerkzeichens. |
+| K | VI | Die letzten 3 Zeichen des Vormerkzeichens |
 
-| L | VII | Vormerkzeichen mit max. vier Zeichen. (Bei Nachbestellungen und Wunschkennzeichen auch fünf Zeichen; bei Nach- und Neubestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten auch sechs Vormerkzeichen, wobei die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile sind.) |
+| L, LI | VII, VIII | Vormerkzeichen mit max. 4 Zeichen (Bei Nachbestellungen und Wunschkennzeichen auch 5 Zeichen; bei Nach- und Neubestellungen von Wunschkennzeichen für Motorräder als Muster VIII in Landeshauptstädten auch 6 Vormerkzeichen, wobei die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen 5 Stellen des Vormerkzeichens in der unteren Zeile sind.) |
 
 Der Abstand der Buchstaben und Ziffern untereinander muss graphisch ausgewogen sein und soll zwischen 8 und 15 mm betragen, wobei zwischen benachbarten Schriftzeichen eingetragenen Zahlen die zweckmäßigen Abstände in Millimeter angegeben;
 
-zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – möglichst das Eineinhalbfache des größten im Vormerkzeichen auftretenden Schriftzeichenabstandes einzuhalten. Die Buchstaben und Ziffern sind unter Ausnutzung der Kennzeichenfelder so anzuordnen, dass sich gute Lesbarkeit und ein harmonisches, wenigstens annähernd symmetrisch liegendes Schriftbild ergeben; bei kurzem Schriftbild auf Tafeln nach Muster I, Ia sind die Schriftzeichen im Tafelmittelfeld anzuordnen.
+Zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – möglichst das Eineinhalbfache des größten im Vormerkzeichen auftretenden Schriftzeichenabstandes einzuhalten. Die Buchstaben und Ziffern sind unter Ausnutzung der Kennzeichenfelder so anzuordnen, dass sich gute Lesbarkeit und ein harmonisches, wenigstens annähernd symmetrisch liegendes Schriftbild ergeben; bei kurzen Schriftbild auf Tafeln nach Muster I , Ia sind die Schriftzeichen im Tafelmittelfeld anzuordnen.
 
 ### A.2.1. Herstellerzeichen
 
-/Dokumente/Bundesnormen/NOR40039917/image011.png
+/Dokumente/Bundesnormen/NOR40061249/image013.png
 
 Das Herstellerzeichen besteht aus einer vereinfachten Darstellung des Bundeswappens mit der Umschrift „Republik Österreich“ in Blockbuchstaben mit mindestens 1 mm Höhe und mit der dem Kennzeichentafelhersteller verliehenen Kontrollnummer unterhalb der Umschrift. Wappen und Kontrollnummer müssen von einer elliptischen Prägeleiste mit den Hauptdurchmessern 12 mm × 18 mm umgeben sein.
 
@@ -240,7 +250,7 @@ Abmessungen und Aussehen der Wappen und der Schriftzeichen sind gemäß den beim
 
 ### A.2.3. Ablaufvignette
 
-/Dokumente/Bundesnormen/NOR40039917/image012.png
+/Dokumente/Bundesnormen/NOR40061249/image014.png
 
 Auf den Kennzeichentafeln für Überstellungskennzeichen ist der Aufdruck „gültig bis“ bzw. „valid until“ anzubringen und Raum für die aufzuklebende Etikette freizulassen; diese ist mit dem Ablaufdatum zu lochen. Die Etikette ist dann auf die Kennzeichentafel an der dafür vorgesehenen Stelle aufzukleben.
 
@@ -248,21 +258,21 @@ Material der Ablaufvignette: Selbstklebende, retroreflektierende, mit Wasserzeic
 
 ### A.3. Form und Größe der Schriftzeichen
 
-### Schriftzeichen für Felder A, C, D, E, L, M
+### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1
 
-/Dokumente/Bundesnormen/NOR40039917/image013.png
+/Dokumente/Bundesnormen/NOR40061249/image015.png
 
 ### Schriftzeichen für Felder AI, CI, DI, EI
 
-/Dokumente/Bundesnormen/NOR40039917/image014.png
+/Dokumente/Bundesnormen/NOR40061249/image016.png
 
 ### Schriftzeichen für Felder F, G, H, K
 
-/Dokumente/Bundesnormen/NOR40039917/image015.png
+/Dokumente/Bundesnormen/NOR40061249/image017.png
 
 ### Schriftzeichen für Felder L, M (nur bei mehr als vier Vormerkzeichen)
 
-/Dokumente/Bundesnormen/NOR40039917/image016.png
+/Dokumente/Bundesnormen/NOR40061249/image018.png
 
 Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarzer biegefester thermischer Beschichtungsfolie versehen sein, dass die auf den geprägten Schriftzeichen vorhandenen schwarzen Flächen folgende Maße (in mm, Toleranz + 0,5 / – 1,0 mm) ergeben:
 
@@ -345,6 +355,32 @@ Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarze
 | 3, 4, 6, 8, 9, 0 | 9 | 72 | 32 |
 
 | 2, 5, 7 | 9 | 71 | 32 |
+
+| Muster VIII |
+
+| Schriftzeichen |
+
+| A | 7,5 | 58 | 28 |
+
+| B, D, E, Z | 7,5 | 56 | 26 |
+
+| I | 7,5 | 58 | 7,5 |
+
+| L | 7,5 | 57 | 22 *) oder 18 |
+
+| F, J, P, R, T | 7,5 | 57 | 26 |
+
+| C, G, H, K, N, O, S, U, V, X, Y | 7,5 | 58 | 26 |
+
+| M | 7,5 | 58 | 29 *) oder 26 |
+
+| W | 7,5 | 58 | 36 *) oder 28 |
+
+| 1 | 7,5 | 58 | 17 |
+
+| 3, 4, 6, 8, 9, 0 | 7,5 | 58 | 26 |
+
+| 2, 5, 7 | 7,5 | 57 | 26 |
 
 _____________
 
@@ -616,7 +652,7 @@ Als nicht sachgemäße Verwendung gelten insbesondere mechanische Beschädigunge
 
 - – Einzeltafel nach Muster Ia oder IIIa 8,50 €
 
-- 6. Kennzeichentafel für Motorräder (MRT) retroreflektierend, PVC-frei, Muster VII 9,80 €
+- 6. Kennzeichentafel für Motorräder (MRT) retroreflektierend, PVC-frei, Muster VII, Muster VIII 9,80 €
 
 - 7. Kennzeichentafel für Motorfahrräder (MFT) retroreflektierend, PVC-frei, Muster VI 5,50 €
 
