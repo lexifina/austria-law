@@ -6,7 +6,7 @@
 
 - 1. Lebende Tiere der Positionen 0101 bis 0105 der Kombinierten Nomenklatur.
 
-- 2. Bienen und ausgebildete Blindenführhunde (aus Unterposition 0106 00 90 der Kombinierten Nomenklatur).
+- 2. Bienen und ausgebildete Blindenführhunde (aus Unterposition 0106 9000 der Kombinierten Nomenklatur).
 
 - 3. Fleisch und genießbare Schlachtnebenerzeugnisse (Kapitel 2 der Kombinierten Nomenklatur).
 
