@@ -1,0 +1,3 @@
+Artikel 138a. (1) Auf Antrag der Bundesregierung oder einer beteiligten Landesregierung stellt der Verfassungsgerichtshof fest, ob eine Vereinbarung im Sinne des Artikels 15a Absatz 1 vorliegt und ob von einem Land oder dem Bund die aus einer solchen Vereinbarung folgenden Verpflichtungen, soweit es sich nicht um vermögensrechtliche Ansprüche handelt, erfüllt worden sind.
+
+(2) Wenn es in einer Vereinbarung im Sinne des Artikels 15a Absatz 2 vorgesehen ist, stellt der Verfassungsgerichtshof ferner auf Antrag einer beteiligten Landesregierung fest, ob eine solche Vereinbarung vorliegt und ob die aus einer solchen Vereinbarung folgenden Verpflichtungen, soweit es sich nicht um vermögensrechtliche Ansprüche handelt, erfüllt worden sind.
