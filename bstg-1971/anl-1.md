@@ -1,129 +1,157 @@
-VERZEICHNIS 1
+Verzeichnis 1
 
 Bundesstraßen A (Bundesautobahnen)
 
+--------------------------------------------------------------------
+
 Nr. Bezeichnung Beschreibung der Strecke
 
-A 1 West Autobahn Wien/Auhof (B 1) - St. Pölten -
+--------------------------------------------------------------------
 
-Knoten Linz (A 7) - Knoten Haid
+A 1 West Autobahn Wien/Auhof (B 1) - Knoten Steinhäusl
 
-(A 25) - Sattledt (A 8, A 9) -
+(A 21) - Knoten St.Pölten (S 33, S 34) -
 
-Knoten Salzburg (A 10) -
+Knoten Linz (A 7) - Knoten Haid (A 25) -
 
-Staatsgrenze am Walserberg.
+Knoten Voralpenkreuz (A 8, A 9) - Knoten
 
-A 2 Süd Autobahn Wien/Inzersdorf (A 23, B 17) -
+Salzburg (A 10) - Staatsgrenze am
 
-Wiener Neustadt - Wechsel -
+Walserberg
 
-Hartberg - Knoten Graz/West
+--------------------------------------------------------------------
 
-(A 9) - Pack - Klagenfurt -
+A 2 Süd Autobahn Knoten Wien/Inzersdorf (A 23, B 17) -
 
-Knoten Villach (A 10, A 11) -
+Knoten Wiener Neustadt (S 4, B 17) -
 
-Staatsgrenze bei Arnoldstein,
+Wechsel - Hartberg - Knoten Graz/West
 
-einschließlich Graz/Ost -
+(A 9) - Pack - Klagenfurt - Knoten Villach
 
-Graz/Liebenau (B 73).
+(A 10, A 11) - Staatsgrenze bei
 
-A 3 Südost Autobahn Traiskirchen (A 2) - Ebreichsdorf
+Arnoldstein, einschließlich Graz/Ost -
 
-- Knoten Eisenstadt (S 31).
+Graz/Liebenau (B 73)
 
-A 4 Ost Autobahn Wien/Prater (A 23) - Schwechat -
+--------------------------------------------------------------------
 
-Anschluß Flughafen Schwechat -
+A 3 Südost Autobahn Knoten Guntramsdorf (A 2) - Ebreichsdorf -
 
-Parndorf - Staatsgrenze bei
+Knoten Eisenstadt (S 31) -
 
-Nickelsdorf.
+Wulkaprodersdorf (B 16, B 308)
 
-A 7 Mühlkreis Autobahn Knoten Linz (A 1) -
+--------------------------------------------------------------------
 
-Unterweitersdorf (B 125).
+A 4 Ost Autobahn Knoten Wien/Prater (A 23) - Schwechat -
 
-A 8 Innkreis Autobahn Sattledt (A 1, A 9) - Knoten Wels
+Anschluß Flughafen Schwechat - Parndorf -
 
-(A 25) - Staatsgrenze bei Suben.
+Staatsgrenze bei Nickelsdorf
 
-A 9 Pyhrn Autobahn Sattledt (A 1, A 8) -
+--------------------------------------------------------------------
 
-Windischgarsten - Selzthal - St.
+A 5 Nord Autobahn Großebersdorf (B 7, B 305) - Wolkersdorf -
 
-Michael/Leoben - Knoten Graz/West
+Staatsgrenze bei Drasenhofen
 
-(A 2) - Staatsgrenze bei
+--------------------------------------------------------------------
 
-Spielfeld.
+A 7 Mühlkreis Knoten Linz (A 1) - Unterweitersdorf
 
-A 10 Tauern Autobahn Knoten Salzburg (A 1) -
+Autobahn (B 125, B 310)
 
-Altenmarkt/Pongau - Katschberg -
+--------------------------------------------------------------------
 
-Knoten Spittal-Millstätter See -
+A 8 Innkreis Autobahn Knoten Voralpenkreuz (A 1, A 9) - Knoten
 
-Knoten Villach (A 2, A 11),
+Wels (A 25) - Staatsgrenze bei Suben
 
-einschließlich Lieserhofen (B 98)
+--------------------------------------------------------------------
 
-- Knoten Spittal-Millstätter See
+A 9 Pyhrn Autobahn Knoten Voralpenkreuz (A 1, A 8) -
 
-- Lendorf (B 100).
+Windischgarsten - Selzthal - Knoten St.
 
-A 11 Karawanken Autobahn Knoten Villach (A 2, A 10) -
+Michael (S 6, S 36) - Knoten Graz/West
 
-Staatsgrenze im Karawankentunnel.
+(A 2) - Staatsgrenze bei Spielfeld
 
-A 12 Inntal Autobahn Staatsgrenze bei Kufstein -
+--------------------------------------------------------------------
 
-Innsbruck (A 13) - Zams (S 16).
+A 10 Tauern Autobahn Knoten Salzburg (A 1) - Altenmarkt/Pongau
 
-A 13 Brenner Autobahn Innsbruck/Amras (A 12) -
+- Katschbergtunnel - Knoten Spittal -
 
-Staatsgrenze am Brennerpaß,
+Millstätter See - Knoten Villach (A 2,
 
-einschließlich Innsbruck/Süd -
+A 11), einschließlich Lieserhofen (B 98) -
 
-Innsbruck/West (A 12).
+Knoten Spittal-Millstätter See - Lendorf
 
-A 14 Rheintal Autobahn Staatsgrenze bei Hörbranz -
+(B 100)
 
-Pfändertunnel - Lauterach -
+--------------------------------------------------------------------
 
-Feldkirch - Bludenz (S 16),
+A 11 Karawanken Knoten Villach (A 2, A 10) - Staatsgrenze
 
-einschließlich Bregenz/Weidach -
+Autobahn im Karawankentunnel
 
-Bregenz (B 202).
+--------------------------------------------------------------------
 
-A 21 Wiener Außenring Autobahn Knoten Steinhäusl (A 1) - Knoten
+A 12 Inntal Autobahn Staatsgrenze bei Kufstein - Innsbruck
 
-Vösendorf (A 2, B 301).
+(A 13) - Zams (S 16)
 
-A 22 Donauufer Autobahn Wien (Kaisermühlen (A 23) -
+--------------------------------------------------------------------
 
-Anschluß IAKW - Donaupark -
+A 13 Brenner Autobahn Innsbruck/Amras (A 12) - Staatsgrenze am
+
+Brennerpaß, einschließlich Innsbruck/Süd -
+
+Innsbruck/West (A 12)
+
+--------------------------------------------------------------------
+
+A 14 Rheintal Autobahn Staatsgrenze bei Hörbranz - Pfändertunnel
+
+- Lauterach - Feldkirch- Bludenz (S 16),
+
+einschließlich Bregenz/Weidach - Bregenz
+
+(B 202)
+
+--------------------------------------------------------------------
+
+A 21 Wiener Außenring Knoten Steinhäusl (A 1) - Knoten Vösendorf
+
+Autobahn (A 2, B 301)
+
+--------------------------------------------------------------------
+
+A 22 Donauufer Wien (Knoten Kaisermühlen (A 23, B 3b,
+
+Autobahn B 301) - Anschluß IAKW-Donaupark -
 
 Strebersdorf) - Langenzersdorf -
 
-Korneuburg - Stockerau (B 3,
+Korneuburg - Stockerau (B 303, B 304)
 
-B 303).
+--------------------------------------------------------------------
 
-A 23 Autobahn Südosttangente Wien (Altmannsdorfer Straße
+A 23 Autobahn Wien (Altmannsdorfer Straße (B 224) -
 
-Wien (B 222, B 224) - Inzersdorf (A 2)
+Südosttangente Knoten Inzersdorf (A 2) - Knoten Prater
 
-- Arsenal - Landstraße - Prater
+Wien (A 4) - Knoten Kaisermühlen (A 22) -
 
-(A 4) - Kaisermühlen (A 22) -
+Hirschstetten (B 302))
 
-Stadlau - Hirschstetten (B 302)).
+--------------------------------------------------------------------
 
-A 25 Linzer Autobahn Knoten Haid (A 1) - Knoten Wels
+A 25 Linzer Autobahn Knoten Haid (A 1) - Knoten Wels (A 8)
 
-(A 8).
+--------------------------------------------------------------------

@@ -1,49 +1,75 @@
-VERZEICHNIS 2
+Verzeichnis 2
 
 Bundesstraßen S (Bundesschnellstraßen)
 
+--------------------------------------------------------------------
+
 Nr. Bezeichnung Beschreibung der Strecke
 
-S 4 Mattersburger Mattersburg (S 31) - Wiener
+--------------------------------------------------------------------
 
-Schnellstraße Neustadt (A 2).
+S 4 Mattersburger Mattersburg (B 50) - Knoten Mattersburg
 
-S 6 Semmering Schnellstraße Seebenstein (B 54) - Knoten
+Schnellstraße (S 31) - Knoten Wiener Neustadt (A 2,
 
-Seebenstein (A 2) - Semmering -
+B 17)
 
-Bruck/Mur (S 35) - St.
+--------------------------------------------------------------------
 
-Michael/Leoben (A 9, S 36).
+S 6 Semmering Seebenstein (B 54) - Knoten Seebenstein
 
-S 16 Arlberg Schnellstraße Zams (A 12) - Arlbergtunnel -
+Schnellstraße (A 2) - Semmeringtunnel - Knoten Bruck/Mur
 
-Bludenz/Ost (A 14).
+(S 35) - Knoten St. Michael (A 9, S 36)
 
-S 18 Bodensee Schnellstraße A 14 - Staatsgrenze bei Höchst.
+--------------------------------------------------------------------
 
-S 31 Burgenland Schnellstraße Eisenstadt (B 50) - Knoten
+S 16 Arlberg Zams (A 12) - Arlbergtunnel - Bludenz/Ost
 
-Eisenstadt (A 3) - Hirm -
+Schnellstraße (A 14)
 
-Mattersburg (S 4) - Weppersdorf -
+--------------------------------------------------------------------
 
-Oberpullendorf (B 50).
+S 18 Bodensee Lauterach (A 14) - Staatsgrenze bei Höchst
 
-S 33 Kremser Schnellstraße St. Pölten (A 1, S 34) -
+Schnellstraße
 
-Herzogenburg - Traismauer -
+--------------------------------------------------------------------
 
-Krems/Süd (B 33, B 37).
+S 31 Burgenland Eisenstadt/Ost (B 50) - Knoten Eisenstadt
 
-S 34 Traisental Schnellstraße St. Pölten (A 1, S 33) -
+Schnellstraße (A 3) - Knoten Mattersburg (S 4) -
 
-Wilhelmsburg (B 20).
+Weppersdorf - Steinberg-Dörfl (B 50, B 61)
 
-S 35 Brucker Schnellstraße Deutschfeistritz (A 9) -
+--------------------------------------------------------------------
 
-Bruck/Mur (S 6).
+S 33 Kremser Knoten St. Pölten (A 1, S 34) -
 
-S 36 Murtal Schnellstraße St. Michael/Leoben (A 9, S 6) -
+Schnellstraße Herzogenburg - Donaubrücke Traismauer -
 
-Judenburg (B 96).
+B 304, einschließlich Traismauer -
+
+Krems/Süd (B 33, B 37) (siehe
+
+Anmerkung 15)
+
+--------------------------------------------------------------------
+
+S 34 Traisental Knoten St. Pölten (A 1, S 33) -
+
+Schnellstraße Wilhelmsburg (B 20)
+
+--------------------------------------------------------------------
+
+S 35 Brucker Knoten Deutschfeistritz (A 9) - Knoten
+
+Schnellstraße Bruck/Mur (S 6)
+
+--------------------------------------------------------------------
+
+S 36 Murtal Knoten St. Michael (A 9, S 6) - Judenburg
+
+Schnellstraße (B 317)
+
+--------------------------------------------------------------------
