@@ -76,10 +76,6 @@ imposta sul reddito delle persone giuridiche in Italien, impot sur le revenu des
 
 imposto sobre o rendimento das pessoas colectivas in Portugal, corporation tax im Vereinigten Königreich, Körperschaftsteuer in Österreich,
 
-Yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
-
-Skatt av alminnelig inntekt in Norwegen,
-
-Statlig inkomstskatt in Schweden,
+Yhteisöjen tulovero/inkomstskatten för samfund in Finnland, Statlig inkomstskatt in Schweden,
 
 oder irgendeiner Steuer, die eine dieser Steuern ersetzt, unterliegt, ohne davon befreit zu sein.
