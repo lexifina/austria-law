@@ -1,0 +1,3 @@
+Artikel 88a
+
+Die Gerichtsverfassung kann bestimmen, daß bei einem übergeordneten Gericht Stellen für Sprengelrichter vorgesehen werden können. Die Zahl der Sprengelrichterstellen darf 2 vH der bei den nachgeordneten Gerichten bestehenden Richterstellen nicht übersteigen. Die Verwendung der Sprengelrichter bei den nachgeordneten Gerichten wird von dem durch die Gerichtsverfassung hiezu berufenen Senat des übergeordneten Gerichtes bestimmt. Sprengelrichter dürfen nur mit der Vertretung von Richtern nachgeordneten Gerichte und nur im Falle der Verhinderung dieser Richter oder dann betraut werden, wenn diese Richter wegen des Umfangs ihrer Aufgaben an deren Erledigung innerhalb einer angemessenen Frist gehindert sind.
