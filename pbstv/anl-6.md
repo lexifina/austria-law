@@ -1,20 +1,12 @@
-Anlage 6
+### Anlage 6
 
-(§ 10)
+### (§ 10)
 
-Katalog der Prüfpositionen
+## Katalog der Prüfpositionen
 
-Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in
+Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung des für die Prüfung oder Begutachtung verantwortlichen Organs.
 
-eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die
-
-entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung
-
-des für die Prüfung oder Begutachtung verantwortlichen Organs.
-
-Prüfnummern
-
-für Formblatt
+Prüfnummern für Formblatt
 
 Anlage 1 Anlage 2 Position Zuordnung Anmerkung
 
@@ -214,7 +206,7 @@ befestigt/unsachgemäß
 
 montiert SM
 
-übermäßige Leckage SM
+Leckage SM
 
 1.1.9 811 Energievorratsbehälter,
 
@@ -348,6 +340,8 @@ unter Druck GV
 
 Porosität SM,GV
 
+unsachgemäß repariert SM,GV
+
 1.1.13 621 Bremsbeläge, -klötze
 
 übermäßiger Verschleiß SM,GV
@@ -427,6 +421,12 @@ Gestängewege infolge
 falscher Einstellung oder
 
 übermäßigen Verschleißes SM
+
+Bremswellenlager
+
+ausgeschlagen oder
+
+schwergängig SM
 
 1.1.16 621 Radbremszylinder
 
@@ -686,117 +686,21 @@ anzunehmen.
 
 1.2.2 601 Wirksamkeit Anmerkung:
 
-Abbremswirkung, bezogen Die Abbrems-
+Abbremswirkung, bezogen Hochrechnung
 
-auf die zulässige wirkung
+auf die zulässige bzw. Balla-
 
-Höchstmasse oder, im Fall bezieht sich
+Höchstmasse oder, im Fall stierung ist
 
-von Sattelanhängern, auf Fahrzeugen
+von Sattelanhängern, auf nicht
 
-die Summe der zulässigen der
+die Summe der zulässigen erforderlich
 
-Achslasten, wenn - Klassen M1
+Achslasten, wenn bei Fahrzeugen
 
-durchführbar, von weniger und N1 auf
+durchführbar, von weniger der Klassen M1,
 
-als den folgenden Werten: SM das Höchst-
-
-gewicht
-
-(Pedalkraft-
-
-messung und
-
-Hochrechnung
-
-erforder-
-
-lich)
-
-- Klassen M2,
-
-M3, N2, N3,
-
-O3 und O4
-
-und
-
-Zugmaschinen
-
-auf das
-
-Höchst-
-
-gewicht, bei
-
-Sattelan-
-
-hängern auf
-
-die Summe
-
-der Achs-
-
-höchstlasten
-
-(Hochrech-
-
-nung oder
-
-Ballastie-
-
-rung bzw.
-
-Niederspan-
-
-nen erfor-
-
-derlich,
-
-Hochrechnung
-
-siehe ÖNORM
-
-V5046),
-
-- Klasse O mit
-
-Auflauf-
-
-bremsanlage
-
-auf das
-
-Höchst-
-
-gewicht
-
-(Ballastie-
-
-rung oder
-
-Niederspan-
-
-nen erfor-
-
-derlich),
-
-- Klassen L
-
-auf das
-
-tatsächliche
-
-Gesamtge-
-
-wicht zum
-
-Zeitpunkt
-
-der Prüfung.
-
-Die
+als den folgenden Werten: SM N1, O1 und O2.
 
 Hochrechnung
 
@@ -804,23 +708,21 @@ bzw. Balla-
 
 stierung ist
 
-nicht
+außerdem nicht
 
 erforderlich
 
 bei Fahrzeugen
 
-der
+der Klassen M2,
 
-Klassen N2,
+M3, N2, N3, O3
 
-N3, O3 und O4,
-
-wenn
+und O4, wenn
 
 nachgewiesen
 
-wird, daß das
+wird, dass das
 
 Fahrzeug zum
 
@@ -854,11 +756,51 @@ vorgeführten
 
 Zustand
 
-einhält („EG-
+einhält
 
-Brems-
+(“EG-
 
-bänder”).
+Bremsbänder”).
+
+Die Balla-
+
+stierung oder
+
+Niederspannung
+
+ist außerdem
+
+nicht
+
+erforderlich,
+
+wenn beim
+
+tatsächlichen
+
+Gesamtgewicht
+
+die für die
+
+Erzielung der
+
+geforderten
+
+Abbremsung
+
+beim höchsten
+
+zulässigen
+
+Gesamtgewicht
+
+erforderlichen
+
+Bremskräfte
+
+erreicht
+
+werden.
 
 Mindestbremswirksamkeit:
 
@@ -1180,7 +1122,7 @@ locker SM
 
 Sicherung der
 
-Lenkungsteile SM
+Lenkungsteile SM,GV
 
 Spiel LM,SM
 
@@ -1198,7 +1140,7 @@ Spurstange, Lenkhebel
 
 Risse SM,GV
 
-mangelhafte Befestigung SM
+mangelhafte Befestigung SM,GV
 
 sonstige Beschädigungen LM,SM,
 
@@ -1362,6 +1304,14 @@ gesprungen SM
 
 Befestigung mangelhaft LM,SM
 
+großwinkeliger für Fahrzeuge
+
+Außenspiegel/ der Klassen N2
+
+Anfahrspiegel fehlt SM,VM 7,5 t, N3 und
+
+M3
+
 3.4 221 Scheibenwischer
 
 Wischer arbeitet zu
@@ -1450,9 +1400,9 @@ defekt LM,SM
 
 4.1.3 102 Schalter
 
-beschädigt LM
+beschädigt, LM
 
-Schaltfehler SM
+Lichthupe defekt SM
 
 101 Fernlichtkontrolleuchte
 
@@ -1536,7 +1486,7 @@ sind ohne Funktion SM
 
 104 Schlußleuchten fehlen
 
-oder sind ohne Funktion SM
+oder sind ohne Funktion SM,GV
 
 104 Erhebliche Abweichungen
 
@@ -1666,7 +1616,7 @@ Funktion oder in der
 
 Wirkung erheblich
 
-beeinträchtigt SM
+beeinträchtigt SM,GV
 
 eine fehlt, ohne Funktion
 
@@ -1848,7 +1798,9 @@ blendet SM
 
 4.7 108 Beleuchtung für das
 
-hintere Kennzeichen fehlt LM
+hintere Kennzeichen fehlt,
+
+ohne Funktion LM
 
 sonstige Mängel zB nicht
 
@@ -2018,11 +1970,19 @@ gebrochen, stark
 
 korrodiert oder locker SM,GV
 
-unsachgemäße
+unsachgemäße Veränderungen
 
-Veränderungen am Fahrwerk
+am Fahrwerk Tieferlegung,
 
-(Tieferlegungen) SM,GV
+Unterschreitung der
+
+Bodenfreiheit von 11 cm
+
+ohne entsprechende
+
+Genehmigung, Kontrollmaß
+
+nicht eingehalten SM,GV
 
 5.1.4 323 Stoßdämpfer
 
@@ -2510,6 +2470,22 @@ Radabdeckungen nicht
 
 ausreichend wirksam LM,SM
 
+Spritzschutz für Fahrzeuge
+
+fehlt oder ohne der Klassen
+
+entsprechende N2 7,5 t, N3
+
+Genehmigung SM und M3 mit
+
+Genehmigung
+
+nach dem
+
+8. September
+
+1999
+
 6.2.2 307 Befestigung
 
 Kippmechanismus des
@@ -2550,7 +2526,7 @@ Tür schließt schlecht LM
 
 Fronthaubenfanghaken
 
-funktionslos oder fehlt SM,VM
+funktionslos oder fehlt SM
 
 Scharniere beschädigt SM
 
@@ -2632,9 +2608,11 @@ Befestigungsschrauben
 
 fehlen SM,GV
 
-Halbachsmaschetten fehlen
+Antriebswellenmanschetten
 
-oder durchgehend gerissen SM
+fehlen oder durchgehend
+
+gerissen SM
 
 7 Sonstige Ausstattungen
 
@@ -2668,6 +2646,10 @@ Gurtstrammer
 
 offensichtlich defekt LM,SM
 
+7.1.4 - Airbag
+
+deaktiviert/ausgebaut LM
+
 7.2 - Feuerlöscher, falls
 
 erforderlich
@@ -2679,6 +2661,8 @@ Befestigung mangelhaft LM,SM
 Überprüfungsfrist
 
 abgelaufen LM,SM
+
+Plombierung fehlt SM
 
 7.3 306 Schlösser und
 
@@ -2717,6 +2701,10 @@ Einsatzfahrzeuge) SM
 falsche Lage der
 
 Betätigungsvorrichtung SM
+
+Rückfahrwarner ohne für Fahrzeuge der
+
+Funktion, fehlt SM Klassen N2, N3, M3
 
 7.8 261 Geschwindigkeitsmesser
 
@@ -2842,7 +2830,7 @@ Gasanlage SM
 
 Rückholfeder fehlt,
 
-gebrochen oder zu schwach SM
+gebrochen oder zu schwach GV
 
 Kippständer fehlt oder
 
@@ -2914,7 +2902,7 @@ offensichtliche Mängel LM,SM
 
 7.17 111 Anlaßvorrichtung
 
-ohne Funktion SM
+ohne Funktion SM,GV
 
 7.18 342 Haltegriffe
 
@@ -3141,6 +3129,24 @@ funktionstüchtig SM
 Filtereinsatz
 
 verschmutzt LM,SM
+
+g) Fahrzeuge mit
+
+OBD-Diagnosesystem
+
+- bei Einschalten der
+
+Zündung leuchtet
+
+OBD-Kontrollleuchte
+
+nicht SM
+
+- bei laufendem Motor
+
+blinkt diese bzw.
+
+leuchtet ständig SM
 
 8.2.2 502 Kraftfahrzeuge mit
 
