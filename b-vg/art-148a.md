@@ -6,4 +6,6 @@ Art. 148a. (1) Jedermann kann sich bei der Volksanwaltschaft wegen behaupteter M
 
 (2) Die Volksanwaltschaft ist berechtigt, von ihr vermutete Mißstände in der Verwaltung des Bundes einschließlich dessen Tätigkeit als Träger von Privatrechten von Amts wegen zu prüfen.
 
-(3) Die Volksanwaltschaft ist in Ausübung ihres Amtes unabhängig.
+(3) Der Volksanwaltschaft obliegt ferner die Mitwirkung an der Erledigung der an den Nationalrat gerichteten Petitionen und Bürgerinitiativen. Näheres bestimmt das Bundesgesetz über die Geschäftsordnung des Nationalrates.
+
+(4) Die Volksanwaltschaft ist in Ausübung ihres Amtes unabhängig.
