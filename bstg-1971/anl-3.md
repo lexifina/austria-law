@@ -4,9 +4,9 @@ Bundesstraßen B
 
 Nr. Bezeichnung Beschreibung der Strecke
 
-B 1 Wiener Straße Wien (Uraniabrücke (B 227) -
+B 1 Wiener Straße Wien [Uraniabrücke (B 227) -
 
-Wienzeile - Gaudenzdorf - Auhof)
+Wienzeile - Gaudenzdorf - Auhof]
 
 - Purkersdorf - St. Pölten - Melk
 
@@ -14,13 +14,9 @@ Wienzeile - Gaudenzdorf - Auhof)
 
 Vöcklabruck - Straßwalchen -
 
-Eugendorf - Salzburg (beiderseits
+Eugendorf - Salzburg -
 
-der A 1 West Autobahn) -
-
-Staatsgrenze am Walserberg (siehe
-
-Anmerkung 6).
+Staatsgrenze am Walserberg
 
 B 1 a Wiener Straße Abzweigung St. Pölten (B 1) - St. Pölten
 
@@ -30,15 +26,15 @@ B 1 b Wiener Straße Abzweigung Linz (B 1) - Linz (A 7).
 
 Linz
 
-B 2 Znaimer Straße Hollabrunn (B 303) - Staatsgrenze
+B 2 Znaimer Straße Schöngrabern (B 303) -
 
-bei Kleinhaugsdorf.
+Staatsgrenze bei Kleinhaugsdorf.
 
 B 3 Donau Straße Engelhartstetten (B 49) -
 
-Großenzersdorf - Wien (Aspern -
+Großenzersdorf - Wien [Aspern -
 
-Stadlau - Kagran - Floridsdorf) -
+Stadlau - Kagran - Floridsdorf] -
 
 Langenzersdorf - Stockerau -
 
@@ -54,17 +50,13 @@ B 3 a Melker Straße Melk (A 1, B 1) - Donaubrücke -
 
 Emmersdorf (B 3).
 
-B 3 b Donau Straße Abzweigung Wien (Kaisermühlen (A 22, A 23) -
+B 3 b Donau Straße Abzweigung Wien [Kaisermühlen (A 22, A 23) -
 
-Kaisermühlen Kagran (B 3)).
+Kaisermühlen Kagran (B 3)].
 
-B 3 c Donau Straße Abzweigung B 3 - Donaubrücke bei Tulln -
+B 3 d Donau Straße Abzweigung Wien [Hirschstetten (A 23, B 302)
 
-Tulln B 19.
-
-B 3 d Donau Straße Abzweigung Wien (Hirschstetten (A 23, B 302)
-
-Hirschstetten - Eßling) - Großenzersdorf (B 3).
+Hirschstetten - Eßling] - Großenzersdorf (B 3).
 
 B 4 Horner Straße Stockerau (B 303) - Maissau
 
@@ -82,17 +74,17 @@ B 6 Laaer Straße Korneuburg (B 3) - Ernstbrunn -
 
 Hanfthal bei Laa/Thaya (B 45).
 
-B 7 Brünner Straße Wien (Floridsdorf/Spitz (B 226) -
+B 7 Brünner Straße Wien [Floridsdorf/Spitz (B 226) -
 
-Stammersdorf) - Wolkersdorf -
+Stammersdorf] - Wolkersdorf -
 
 Poysdorf - Staatsgrenze bei
 
 Drasenhofen.
 
-B 8 Angerner Straße Wien (Franzensbrücke (B 227) -
+B 8 Angerner Straße Wien [Franzensbrücke (B 227) -
 
-Reichsbrücke - Wagramer Straße) -
+Reichsbrücke - Wagramer Straße] -
 
 Gänserndorf - Staatsgrenze bei
 
@@ -102,45 +94,31 @@ B 8 a Angerner Straße Weikersdorf (B 8) - Zwerndorf
 
 Abzweigung Zwerndorf (B 49).
 
-B 9 Preßburger Straße Kledering (B 301) - Kugelkreuz -
+B 9 Preßburger Straße Schwechat (B 301) - Flughafen
 
-Flughafen Schwechat - Hainburg -
+Schwechat - Hainburg -
 
 Staatsgrenze bei Berg.
 
-B 10 Budapester Straße Wien (Donaukanal (B 14, B 227) -
-
-Handelskai) - Schwechat -
-
-Kugelkreuz - Bruck/Leitha -
+B 10 Budapester Straße Schwechat (B 9) - Bruck/Leitha -
 
 Parndorf - Gattendorf -
 
-Staatsgrenze bei Nickelsdorf.
+Nickelsdorf (A 4) ( siehe
 
-B 10 a Budapester Straße Kugelkreuz (B 9, B 10) -
+Anmerkung 11).
 
-Abzweigung Schwechat Schwechat (A 4) - Wien (Freudenau
+B 11 Mödlinger Straße Achau (B 16) - Wiener Neudorf -
 
-(B 10)), einschließlich
+Mödling - Gaaden - Alland -
 
-Anbindung Alberner Hafen (siehe
+Weißenbach/Triesting (B 18)
 
-Anmerkung 10)
+(siehe Anmerkung 12).
 
-B 11 Mödlinger Straße Schwechat (B 10) - Maria
+B 12 Brunner Straße Wien [Margaretengürtel (B 221) -
 
-Lanzendorf - Achau - Wiener
-
-Neudorf - Mödling - Gaaden -
-
-Alland - Weißenbach/Triesting
-
-(B 18).
-
-B 12 Brunner Straße Wien (Margaretengürtel (B 221) -
-
-Atzgersdorf) - Brunn/Gebirge -
+Atzgersdorf] - Brunn/Gebirge -
 
 Mödling (B 11).
 
@@ -166,11 +144,31 @@ B 13 a Liesingtal Straße Wien (Rodaun (B 13) - Liesing -
 
 Erlaa - Neu-Erlaa (B 17)).
 
-B 14 Klosterneuburger Straße Wien (Donaukanal (B 10, B 227) -
+B 14 Klosterneuburger Straße Schwechat/Rannersdorf (B 301) -
 
-Nußdorf) - Klosterneuburg - St.
+Wien (Simmering - Handelskai -
 
-Andrä - Tulln (B 19).
+Nußdorf) - Klosterneuburg -
+
+St. Andrä - alte Donaubrücke
+
+Tulln (B 19).
+
+B 14 a Klosterneuburger Straße Wien (Handelskai (B 14) -
+
+Abzweigung Anschluß Donaupark (A 22)).
+
+Brigittenauer Brücke
+
+B 14 b Klosterneuburger Straße Schwechat (B 9) - Schwechat (A 4)
+
+Abzweigung Schwechat - Wien (Freudenau (B 10)),
+
+einschließlich Anbindung
+
+Alberner Hafen (siehe
+
+Anmerkung 10).
 
 B 15 Mannersdorfer Straße Leopoldsdorf (B 16) - Himberg -
 
@@ -186,10 +184,6 @@ Hornstein - Wulkaprodersdorf -
 
 Staatsgrenze bei Klingenbach.
 
-B 16 a Ebreichsdorfer Straße Ebreichsdorf (A 3, B 16) - A 2
-
-(siehe Anmerkung 7).
-
 B 17 Wiener Neustädter Straße Wien (Matzleinsdorf (B 221) -
 
 Inzersdorf) - Vösendorf - Wiener
@@ -202,7 +196,9 @@ Hainfeld - Traisen (B 20).
 
 B 19 Tullner Straße Altlengbach (A 1) - Neulengbach -
 
-Tulln - Göllersdorf (B 303),
+neue Donaubrücke bei Tulln -
+
+Göllersdorf (B 303),
 
 einschließlich St. Christophen
 
@@ -286,7 +282,7 @@ B 32 Gföhler Straße B 37 - Gföhl - Neupölla (B 303).
 
 B 33 Aggsteiner Straße Melk (B 1) - Aggsbach/Dorf -
 
-Mautern - Krems/Süd (S 33).
+Mautern - Krems/Süd (S 33, B 37).
 
 B 34 Kamptal Straße Kollersdorf (B 3) - Fels/Wagram
 
@@ -310,9 +306,9 @@ Waidhofen/Thaya - Dobersberg
 
 (B 30).
 
-B 37 Kremser Straße Krems (B 35) - Marbach -
+B 37 Kremser Straße Krems/Süd (S 33, B 33) -
 
-Rastenfeld (B 38).
+Donaubrücke - Rastenfeld (B 38).
 
 B 38 Böhmerwald Straße Horn (B 303) - Neupölla -
 
@@ -336,7 +332,7 @@ Kirchberg/Pielach - Winterbach
 
 (B 28).
 
-B 40 Mistelbacher Straße Hollabrunn (B 2) - Ernstbrunn -
+B 40 Mistelbacher Straße Hollabrunn (B 303) - Ernstbrunn -
 
 Mistelbach - Zistersdorf -
 
@@ -412,9 +408,9 @@ Staatsgrenze bei Pamhagen.
 
 B 52 Ruster Straße Eisenstadt (B 59) - St.
 
-Margarethen - Rust - Staatsgrenze
+Margarethen - Rust - Mörbisch
 
-bei Mörbisch.
+(Kreuzung Hauptstraße/Seestraße).
 
 B 53 Pöttschinger Straße Wiener Neustadt (B 17) - Neudörfl
 
@@ -432,7 +428,7 @@ Ludersdorf/Wilfersdorf (B 65).
 
 B 55 Kirchschlager Straße Grimmenstein (B 54) - Edlitz -
 
-Krumbach - Kirschlag -
+Krumbach - Kirchschlag -
 
 Pilgersdorf - Lockenhaus -
 
@@ -498,11 +494,9 @@ B 64 Rechberg Straße Frohnleiten (S 35) - Passail -
 
 Weiz - Gleisdorf (B 54).
 
-B 65 Gleisdorfer Straße Graz (B 67 a) - Gleisdorf - Ilz -
+B 65 Gleisdorfer Straße Graz (B 67 a) - Gleisdorf - Ilz
 
-Fürstenfeld - Staatsgrenze bei
-
-Heiligenkreuz.
+(A 2) (siehe Anmerkung 13).
 
 B 66 Gleichenberger Straße Ilz (B 65) - Riegersburg -
 
@@ -540,7 +534,7 @@ Straße Eibiswald - Leutschach - Gosdorf
 
 B 70 Packer Straße Graz/Gürtelturmplatz (B 67) -
 
-Lieboch -Köflach - Pack -
+Lieboch - Köflach - Pack -
 
 Twimberg - Wolfsberg -
 
@@ -598,11 +592,7 @@ Obdacher Sattel - Bad St.
 
 Leonhard - Twimberg (B 70).
 
-B 79 Voitsberg-Köflacher Voitsberg - Bärnbach (B 70) -
-
-Straße Anschlußstelle Langmann (A 2).
-
-B 80 Lavamünder Straße Lindenhof (B 70) - Ruden (A 2) -
+B 80 Lavamünder Straße Lindenhof (B 70) - Ruden -
 
 Lavamünd - Staatsgrenze bei
 
@@ -614,7 +604,7 @@ Lavamünd (B 80).
 
 B 82 Seeberg Straße St. Veit/Glan (B 83) - Brückl -
 
-Völkermarkt - Eisenkappl -
+Völkermarkt - Bad Eisenkappl -
 
 Staatsgrenze am Seeberg.
 
@@ -630,7 +620,7 @@ B 84 Faakersee Straße Villach (B 83) - Egg - Ledenitzen
 
 (B 85).
 
-B 85 Rosental Straße Hart (B 83) - Ledenitzen -
+B 85 Rosental Straße Fürnitz (B 83) - Ledenitzen -
 
 Feistritz - Ferlach - Miklauzhof
 
@@ -650,13 +640,17 @@ Kleinkirchheim - Patergassen
 
 (B 95).
 
+B 89 Fürstenfelder Straße Riegersdorf (A 2) - Fürstenfeld -
+
+Staatsgrenze bei Heiligenkreuz.
+
 B 90 Naßfeld Straße Tröpolach (B 111) - Staatsgrenze
 
 am Naßfeld.
 
 B 91 Loiblpaß Straße Klagenfurt (B 83) - Unterloibl -
 
-Staatsgrenze am Loibltunnel.
+Staatsgrenze im Loibltunnel.
 
 B 92 Görtschitztal Straße Klagenfurt (A 2) - Pischeldorf -
 
@@ -716,11 +710,11 @@ Mallnitz/Bahnhof.
 
 B 106 Mölltal Straße Möllbrücke (B 100) - Obervellach
 
--Winklern (B 107).
+- Winklern (B 107).
 
-B 107 Großglockner Straße Heiligenblut/Mautstraße-Winklern-
+B 107 Großglockner Straße Heiligenblut/Mautstraße -
 
-Dölsach (B 100).
+Winklern - Dölsach (B 100).
 
 B 107 a Großglockner Straße Dölsach (B 107) - Dölsach
 
@@ -780,7 +774,7 @@ Weng - Admont (B 146).
 
 B 119 Greiner Straße Oiden (B 1) - Ardagger -
 
-Donaubrücke - Grein (B3) -
+Donaubrücke - Grein (B 3) -
 
 Dimbach - St. Georgen - Arbesbach
 
@@ -852,7 +846,7 @@ Aigen.
 
 B 127 a Rohrbacher Straße Linz (Urfahr/West (B 127) -
 
-Abzweigung Donaubrücke Linz/West (B129)).
+Abzweigung Donaubrücke Linz/West (B 129)).
 
 St. Margarethen
 
@@ -966,11 +960,11 @@ B 149 Subener Straße St. Florian/Inn (B 137) - Suben -
 
 St. Marienkirchen (A 8).
 
-B 150 Salzburger Straße Salzburg (Salzburg/Nord (A 1) -
+B 150 Salzburger Straße Salzburg (Salzburg/Nord (A 1,
 
-Schallmoos) - Anif - Salzburg/Süd
+B 156) - Schallmoos) - Anif -
 
-(A 10).
+Salzburg/Süd (A 10).
 
 B 151 Attersee Straße Timelkam (B 1) - Seewalchen -
 
@@ -992,19 +986,17 @@ Mondsee - Scharfling - St. Gilgen
 
 (B 158).
 
-B 155 Münchener Straße Salzburg/Liefering (B 1) -
+B 155 Münchener Straße Salzburg (Lehen (B 1) -
 
-Staatsgrenze bei Freilassing
+Liefering) - Staatsgrenze bei
 
-(siehe Anmerkung 6).
+Freilassing.
 
-B 156 Lamprechtshausener Straße Salzburg/Hagenau (B 1) -
+B 156 Lamprechtshausener Straße Salzburg/Nord (A 1, B 150) -
 
 Oberndorf - Lamprechtshausen -
 
-Umfahrung Braunau/Inn (B 148)
-
-(siehe Anmerkung 6).
+Umfahrung Braunau/Inn (B 148).
 
 B 156 a Lamprechtshausener Straße Oberndorf (B 156) - Staatsgrenze
 
@@ -1026,7 +1018,7 @@ Hangendenstein.
 
 B 161 Paß Thurn Straße Mittersill (B 168) - Paß Thurn -
 
-Kitzbühel - St.Johann/Tirol
+Kitzbühel - St. Johann/Tirol
 
 (B 312).
 
@@ -1098,13 +1090,13 @@ Kössen - Walchsee - Staatsgrenze
 
 auf Niederndorfer Innbrücke.
 
-B 173 Eiberg Straße Söll/Bocking (B 312) - Kufstein
+B 173 Eiberg Straße Söll/Bocking (B 312) -
 
-(B 171).
+Kufstein/Süd (A 12).
 
-B 174 Innsbrucker Straße Thaur (B 171) - Rum -
+B 174 Innsbrucker Straße Innsbruck/Ost (A 12)
 
-Innsbruck/Höttingerau (B 171).
+Innsbruck/Höttinger-Au (B 171).
 
 B 175 Wildbichler Straße Kufstein (B 171) -
 
@@ -1206,7 +1198,7 @@ B 200 Bregenzerwald Straße Dornbirn (B 190) - Bezau -
 
 Schoppernau - Schröcken - Warth
 
-(B 198).
+(B 198) (siehe Anmerkung 14).
 
 B 201 Kleinwalsertal Straße Staatsgrenze bei Walserschanz -
 
@@ -1234,7 +1226,7 @@ B 208 Eibesbrunner Straße Eibesbrunn (B 7) - Leobendorf
 
 (A 22).
 
-B 209 Pöchlarner Straße Pöchlarn (A 1) - Donaubrücke -
+B 209 Pöchlarner Straße Pöchlarn (B 1) - Donaubrücke -
 
 Klein-Pöchlarn (B 3).
 
@@ -1250,7 +1242,7 @@ B 212 Bad Vöslauer Straße Guntramsdorf (B 17) - Baden -
 
 Berndorf (B 18).
 
-B 213 Tullnerfeld Straße Tulln (B 19) - Staasdorf -
+B 213 Tullnerfeld Straße Tulln (B 14) - Staasdorf -
 
 Ried/Riederberg (B 1).
 
@@ -1302,7 +1294,7 @@ Bitterlichstraße (A 23) -
 
 Weichseltalweg - Simmeringer
 
-Hauptstraße (B 10)).
+Hauptstraße (B 14)).
 
 B 226 Floridsdorfer Straße Wien (Gürtelbrücke (B 221, B 227)
 
@@ -1314,7 +1306,7 @@ Floridsdorfer Hauptstraße -
 
 Prager Straße (B 3)).
 
-B 227 Donaukanal Straße Wien (Prater (A4, A23) -
+B 227 Donaukanal Straße Wien (Prater (A 4, A 23) -
 
 Donaukanal - Nordbrücke - Groß
 
@@ -1324,7 +1316,7 @@ B 228 Simmeringer Straße Wien (Schlachthausgasse (B 221) -
 
 Simmering (A 4) - Zinnergasse
 
-(B 10)).
+(B 14)).
 
 B 229 Groß Jedlersdorfer Straße Wien (Groß Jedlersdorf (B 227) -
 
@@ -1342,7 +1334,7 @@ B 232 Donaufeld Straße Wien (Donaufeld (B 3) - Leopoldau
 
 B 301 Wiener Südrand Straße Vösendorf (A 2, A 21) - Schwechat
 
-- Wien (Kaiserebersdorf (B 10) -
+(A 4) - Wien (Albern -
 
 Lobau/Ölhafen - Knoten
 
@@ -1376,13 +1368,13 @@ B 314 Fernpaß Straße Haiming (A 12) - Tschirganttunnel
 
 Staatsgrenze bei Vils.
 
-B 315 Reschen Straße Landeck (B 171) - Staatsgrenze am
+B 315 Reschen Straße Zams (B 171) - Staatsgrenze am
 
 Reschenpaß.
 
-B 318 Himberger Straße B 301 - Himberg - Ebreichsdorf
+B 318 Himberger Straße Schwechat (B 301) - Himberg -
 
-(A 3).
+Ebreichsdorf (A 3).
 
 Anmerkung 1: (Anm.: Aufgehoben durch BGBl. Nr. 165/1986.)
 
@@ -1390,36 +1382,30 @@ Anmerkung 2: (Anm.: Aufgehoben durch BGBl. Nr. 165/1986.)
 
 Anmerkung 3: (Anm.: Aufgehoben durch BGBl. Nr. 165/1986.)
 
-Anmerkung 4:
-
-Die Teilstrecke zwischen Antiesenhofen (B 142) und Ort (A 8) wird mit Verkehrsübergabe der Teilstrecke der Innkreisautobahn zwischen Ort und der Staatsgrenze bei Suben als Bundesstraße aufgelassen.
-
-§ 33 Abs. 3, erster Satz, findet auf diesen Straßenzug Anwendung.
+Anmerkung 4: Die Teilstrecke zwischen Antiesenhofen (B 142) und Ort (A 8) wird mit Verkehrsübergabe der Teilstrecke der Innkreisautobahn zwischen Ort und der Staatsgrenze bei Suben als Bundesstraße aufgelassen. § 33 Abs. 3, erster Satz, findet auf diesen Straßenzug Anwendung.
 
 Anmerkung 5: (Anm.: Aufgehoben durch BGBl. Nr. 165/1986.)
 
-Anmerkung 6:
+Anmerkung 6: (Anm.: Aufgehoben durch BGBl. I Nr. 31/1997)
 
-Bis zur Verkehrsübergabe des Abschnittes der B 1 Wiener Straße in Salzburg (beiderseits der A 1 West Autobahn) verläuft
-
-- a) die B 1 Wiener Straße in Salzburg (Gnigl - Schallmoos - Lehen - Maxglan),
-
-- b) die B 155 Münchener Straße in Salzburg (Lehen - Liefering) zur Staatsgrenze bei Freilassing,
-
-- c) die B 156 Lamprechtshausener Straße: Salzburg/Nord (A 1, B 150) - Oberndorf - Lamprechtshausen - Umfahrung Braunau/Inn (B 148).
-
-Anmerkung 7:
-
-Dieser Straßenzug wird mit Verkehrsübergabe der Teilstrecke der A 3 Südost Autobahn zwischen Traiskirchen und Ebreichsdorf als Bundesstraße aufgelassen.
+Anmerkung 7: (Anm.: Aufgehoben durch BGBl. I Nr. 31/1997)
 
 Anmerkung 8: (Anm.: wurde nicht vergeben)
 
-Anmerkung 9:
+Anmerkung 9: Dieser Straßenzug wird mit Verkehrsübergabe der B 302 Wiener Nordrand Straße als Bundesstraße aufgelassen.
 
-Dieser Straßenzug wird mit Verkehrsübergabe der B 302 Wiener
+Anmerkung 10: Dieser Straßenzug wird mit Verkehrsübergabe der B 301 Wiener Südrand Straße zwischen Donau und A 4 Ost Autobahn als Bundesstraße aufgelassen, sofern über die B 301 Wiener Südrand Straße die Anbindung des Alberner Hafens gewährleistet ist.
 
-Nordrand Straße als Bundesstraße aufgelassen.
+Anmerkung 11: Bis zur Verkehrsübergabe der B 301 Wiener Südrand
 
-Anmerkung 10:
+Straße verläuft die B 10 Budapester Straße: Wien (B 14, B 225) - Schwechat - Bruck/Leitha-Parndorf-Gattendorf-Nickelsdorf (A 4).
 
-Dieser Straßenzug wird mit Verkehrsübergabe der B 301 Wiener Südrand Straße zwischen Donau und A 4 Ost Autobahn als Bundesstraße aufgelassen, sofern über die B 301 Wiener Südrand Straße die Anbindung des Alberner Hafens gewährleistet ist.
+Anmerkung 12: Bis zur Verkehrsübergabe der B 301 Wiener Südrand
+
+Straße verläuft die B 11 Mödlinger Straße: Schwechat (B 10)-Maria Lanzendorf-Achau-Wiener Neudorf-Mödling-Gaaden-Alland-Weißenbach/Triesting (B 18).
+
+Anmerkung 13: Bis zur Verkehrsübergabe der Umfahrung
+
+Großwilfersdorf verläuft die B 65 Gleisdorfer Straße: Graz (B 67a)-Gleisdorf-Ilz-Fürstenfeld-Staatsgrenze bei Heiligenkreuz.
+
+Anmerkung 14: Der Bund (Bundesstraßenverwaltung) wird ermächtigt, Zuschüsse vom Land Vorarlberg zur vorzeitigen Fertigstellung des Bauabschnittes Dornbirn/Nord-Schwarzachtobel entgegenzunehmen.

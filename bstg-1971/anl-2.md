@@ -28,13 +28,13 @@ Eisenstadt (A 3) - Hirm -
 
 Mattersburg (S 4) - Weppersdorf -
 
-Dörfl (B 50).
+Oberpullendorf (B 50).
 
 S 33 Kremser Schnellstraße St. Pölten (A 1, S 34) -
 
 Herzogenburg - Traismauer -
 
-Krems/Nord (B 35).
+Krems/Süd (B 33, B 37).
 
 S 34 Traisental Schnellstraße St. Pölten (A 1, S 33) -
 

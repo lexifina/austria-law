@@ -112,11 +112,7 @@ Strebersdorf) - Langenzersdorf -
 
 Korneuburg - Stockerau (B 3,
 
-B 303), einschließlich Wien
-
-(Donauturmstraße - Donaupark
-
-(A 22) - Handelskai (B 10)).
+B 303).
 
 A 23 Autobahn Südosttangente Wien (Altmannsdorfer Straße
 
