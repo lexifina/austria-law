@@ -1,20 +1,16 @@
-Anlage 1
+### Anlage 1
 
-[Papierfarbe blau]
+| [Papierfarbe blau] |
 
-REPUBLIK ÖSTERREICH
-
-Bundesministerium für Wissenschaft
-
-und Verkehr
+| REPUBLIK ÖSTERREICH Bundesministerium für Verkehr, Innovation und Technologie |
 
 Zl.
 
-(Bundeswappen)
+| (Bundeswappen) |
 
-KONZESSIONSURKUNDE
+### KONZESSIONSURKUNDE
 
-Das Bundesministerium für Wissenschaft und Verkehr bescheinigt hiemit gemäß § 19 Abs. 2 Kraftfahrliniengesetz, BGBl. I Nr. 203/1999, daß (Name und Vorname, Geburtsdatum und Wohnadresse oder Firmenbezeichnung sowie Betriebssitz des Konzessionsinhabers)
+Das Bundesministerium für Verkehr, Innovation und Technologie bescheinigt hiemit gemäß § 19 Abs. 2 Kraftfahrliniengesetz, BGBl. I Nr. 203/1999, daß (Name und Vorname, Geburtsdatum und Wohnadresse oder Firmenbezeichnung sowie Betriebssitz des Konzessionsinhabers)
 
 die Konzession zum Betrieb der Kraftfahrlinie auf der Strecke
 
@@ -22,8 +18,6 @@ bis zum besitzt.
 
 Für die Ausübung der Konzession bestehen die nachstehenden Auflagen:
 
-Wien, am
+| Wien, am |
 
-L. S. Für den Bundesminister:
-
-(Trockenstempel)
+| L. S. (Trockenstempel) | Für den Bundesminister: |
