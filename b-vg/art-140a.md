@@ -1,0 +1,5 @@
+Artikel 140a. (1) Der Verfassungsgerichtshof erkennt über die Rechtswidrigkeit von Staatsverträgen. Dabei ist auf die mit Genehmigung des Nationalrates gemäß Artikel 50 abgeschlossenen Staatsverträge Artikel 140, auf alle anderen Staatsverträge
+
+Artikel 139 entsprechend mit der Maßgabe anzuwenden, daß Staatsverträge, deren Gesetz- oder Verfassungswidrigkeit der Verfassungsgerichtshof feststellt, vom Tage der Kundmachung des Erkenntnisses an von den zu ihrer Vollziehung berufenen Organen nicht anzuwenden sind, wenn der Verfassungsgerichtshof nicht eine Frist bestimmt, innerhalb welcher ein solcher Staatsvertrag weiter anzuwenden ist. Diese Frist darf bei den im Artikel 50 bezeichneten Staatsverträgen zwei Jahre, bei allen anderen Staatsverträgen ein Jahr nicht überschreiten.
+
+(2) Stellt der Verfassungsgerichtshof die Gesetz- oder Verfassungswidrigkeit eines Staatsvertrages fest, der durch Erlassung von Gesetzen oder Verordnungen zu erfüllen ist, so erlischt die Wirksamkeit des Beschlusses nach Artikel 50 Absatz 2 oder der Anordnung nach Artikel 65 Absatz 1 zweiter Satz.
