@@ -4,6 +4,6 @@ Artikel 126b. (1) Der Rechnungshof hat die gesamte Staatswirtschaft des Bundes, 
 
 (3) Der Rechnungshof ist befugt, die Gebarung öffentlich-rechtlicher Körperschaften mit Mitteln des Bundes zu überprüfen.
 
-(4) Der Rechnungshof hat auf begründetes Ersuchen der Bundesregierung oder eines Bundesministers in seinen Wirkungsbereich fallende besondere Akte der Gebarungsüberprüfung durchzuführen und das Ergebnis der ersuchenden Stelle mitzuteilen.
+(4) Der Rechnungshof hat auf Beschluß des Nationalrates oder auf Verlangen von Mitgliedern des Nationalrates in seinen Wirkungsbereich fallende besondere Akte der Gebarungsüberprüfung durchzuführen. Die nähere Regelung wird durch das Bundesgesetz über die Geschäftsordnung des Nationalrates getroffen. Desgleichen hat der Rechnungshof auf begründetes Ersuchen der Bundesregierung oder eines Bundesministers solche Akte durchzuführen und das Ergebnis der ersuchenden Stelle mitzuteilen.
 
 (5) Die Überprüfung des Rechnungshofes hat sich auf die ziffernmäßige Richtigkeit, die Übereinstimmung mit den bestehenden Vorschriften, ferner auf die Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit zu erstrecken.

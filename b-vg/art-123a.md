@@ -1,0 +1,3 @@
+Artikel 123a. (1) Der Präsident und der Vizepräsident des Rechnungshofes sind berechtigt, an den Verhandlungen über die Berichte des Rechnungshofes, die Bundesrechnungsabschlüsse und die den Rechnungshof betreffenden Kapitel des Entwurfes des Bundesfinanzgesetzes im Nationalrat sowie in seinen Ausschüssen (Unterausschüssen) teilzunehmen.
+
+(2) Der Präsident des Rechnungshofes hat nach den näheren Bestimmungen des Bundesgesetzes über die Geschäftsordnung des Nationalrates das Recht, auf sein Verlangen in den Verhandlungen zu den in Absatz 1 angeführten Gegenständen jedesmal gehört zu werden.
