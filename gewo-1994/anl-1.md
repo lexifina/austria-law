@@ -23,3 +23,5 @@
 2001/19/EG des Europäischen Parlamentes und des Rates vom 14. Mai 2001 zur Änderung der Richtlinien 89/48/EWG und 92/51/EWG des Rates über eine allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise und der Richtlinien 77/452/EWG, 77/453/EWG, 78/686/EWG, 78/687/EWG, 78/1026/EWG, 78/1027/EWG, 80/154/EWG, 80/155/EWG, 85/384/EWG, 85/432/EWG, 85/433/EWG und 93/16/EWG des Rates über die Tätigkeiten der Krankenschwester und des Krankenpflegers, die für die allgemeine Pflege verantwortlich sind, des Zahnarztes, des Tierarztes, der Hebamme, des Architekten, des Apothekers und des Arztes, Amtsblatt der Europäischen Gemeinschaften vom 31. Juli 2001, L 206/1
 
 2001/97/EG des Europäischen Parlaments und des Rates vom 4. Dezember 2001 zur Änderung der Richtlinie 91/308/EWG des Rates zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche
+
+Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9. Dezember 2002 über Versicherungsvermittlung, ABl. Nr. L 9 vom 15. Jänner 2003 S. 3.
