@@ -18,7 +18,7 @@ Kohlenstoffmonoxid 10
 
 Stickstoffdioxid 200 30 *2)
 
-Schwebestaub 150
+Schwebestaub (Anm.: tritt am 31. 12. 2004 außer Kraft)
 
 PM tief 10 50 *3) 40
 

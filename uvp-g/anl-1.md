@@ -6,41 +6,35 @@ In Spalte 1 und 2 finden sich jene Vorhaben, die jedenfalls UVP-pflichtig sind u
 
 In Spalte 3 sind jene Vorhaben angeführt, die nur bei Zutreffen besonderer Voraussetzungen der UVP-Pflicht unterliegen. Für diese Vorhaben hat ab den angegebenen Mindestschwellen eine Einzelfallprüfung zu erfolgen. Ergibt diese Einzelfallprüfung eine UVP-Pflicht, so ist nach dem vereinfachten Verfahren vorzugehen.
 
-Die in der Spalte 3 genannten Kategorien schutzwürdiger Gebiete werden in Anhang 2 definiert. Gebiete der Kategorien A, C und D sind für die UVP-Pflicht eines Vorhabens jedoch nur dann zu berücksichtigen, wenn sie am Tag der Antragstellung ausgewiesen sind.
+Die in der Spalte 3 genannten Kategorien schutzwürdiger Gebiete werden in Anhang 2 definiert. Gebiete der Kategorien A, C, D und E sind für die UVP-Pflicht eines Vorhabens jedoch nur dann zu berücksichtigen, wenn sie am Tag der Antragstellung ausgewiesen sind.
 
-____________________________________________________________________
+___________________________________________________________________
 
 UVP UVP im vereinfachten Verfahren
 
-________________________________________________________________
+___________________________________________________________________
 
 Spalte 1 Spalte 2 Spalte 3
 
-____________________________________________________________________
+___________________________________________________________________
 
 Abfallwirtschaft
 
-____________________________________________________________________
+___________________________________________________________________
 
-Z 1 a) Untertage-
-
-deponien für
+Z 1 a) Deponien für
 
 gefährliche
 
 Abfälle;
 
-Berechnungs-
+Berechnungsgrundlage
 
-grundlage
+(§ 3a Abs. 3) für
 
-(§ 3a Abs. 2)
+Änderungen ist
 
-für Änderungen
-
-ist das
-
-bescheidmäßig
+das bescheidmäßig
 
 genehmigte
 
@@ -48,83 +42,43 @@ Gesamtvolumen;
 
 b) Anlagen zur
 
-biologischen
+biologischen,
+
+physikalischen
 
 oder
 
-mechanisch-
+mechanisch-biologischen
 
-biologischen
+Behandlung von
 
-Behandlung
+gefährlichen Abfällen
 
-von
+mit einer Kapazität
 
-gefährlichen
-
-Abfällen oder
-
-von Altölen
-
-mit einer
-
-Kapazität von
-
-mindestens
+von mindestens
 
 20 000 t/a;
 
-c) sonstige
+c) sonstige Anlagen
+
+zur Behandlung
+
+(thermisch, chemisch)
+
+von gefährlichen
+
+Abfällen;
+
+ausgenommen sind
 
 Anlagen zur
-
-Behandlung
-
-(thermisch,
-
-chemisch,
-
-physikalisch)
-
-von
-
-gefährlichen
-
-Abfällen oder
-
-von Altölen
-
-mit einer
-
-Kapazität von
-
-mindestens
-
-1 000 t/a;
-
-ausgenommen
-
-sind Anlagen
-
-zur
 
 ausschließlich
 
 stofflichen
 
-Verwertung;
-
-Änderungen ab
-
-einer
-
-Kapazitäts-
-
-ausweitung
-
-von mindestens
-
-10 000 t/a.
+Verwertung.
 
 ____________________________________________________________________
 
@@ -192,7 +146,9 @@ Kapazität von
 
 mindestens
 
-35 000 t/a,
+35 000 t/a
+
+oder 100 t/d,
 
 ausgenommen
 
@@ -508,79 +464,177 @@ projekte
 
 ____________________________________________________________________
 
-Z 9 a) Neubau von d) Neubau e) Ausbaumaßnahmen
+Z 9 a) Neubau von d) Neubau g) Ausbaumaßnahmen
 
-Schnellstraßen sonstiger sonstiger Art an
+Schnellstraßen zusätzlicher sonstiger Art an
 
-*1) oder ihrer Straßen oder Schnellstraßen oder
+oder ihrer Anschluss- Schnellstraßen *1)
 
-Teilabschnitte; ihrer Neubau sonstiger
+Teilabschnitte, stellen an oder Neubau
 
-als Neubau gilt Teilabschnitte Straßen oder ihrer
+ausgenommen Schnellstraßen sonstiger Straßen
 
-auch die mit einer Teilabschnitte,
+zusätzliche *1), wenn auf oder ihrer
 
-Zulegung von durchgehenden wenn ein
+Anschluss- allen Rampen Teilabschnitte,
 
-zwei oder mehr Länge von schutzwürdiges
+stellen; insgesamt eine wenn ein
 
-Fahrstreifen mindestens Gebiet der
+als Neubau durchschnitt- schutzwürdiges
 
-auf einer 5 km, wenn auf Kategorien A, B
+gilt auch liche tägliche Gebiet der
 
-durchgehenden der neuen oder D berührt wird
+die Zulegung Verkehrsbe- Kategorien A oder C
 
-Länge von Straße eine und eine
+von zwei auf lastung (DTV) berührt wird und
 
-mindestens durchschnitt- durchschnittliche
+vier oder von mindestens eine
 
-10 km; liche tägliche tägliche
+mehr 8 000 Kraft- durchschnittliche
 
-b) Neubau Verkehrsbe- Verkehrsbelastung
+Fahrstreifen fahrzeugen in tägliche
 
-sonstiger lastung (DTV) (DTV) von
+auf einer einem Progno- Verkehrsbelastung
 
-Straßen oder von mindestens mindestens
+durchgehenden sezeitraum von (DTV) von
 
-ihrer 15 000 Kraft- 2 000 Kraftfahr-
+Länge von fünf Jahren zu mindestens
 
-Teilabschnitte fahrzeugen in zeugen in einem
+mindestens erwarten ist; 2 000 Kraftfahr-
 
-mit einer einem Prognose- Prognosezeitraum
+10 km; e) Neubau zeugen in einem
 
-durchgehenden zeitraum von von fünf Jahren zu
+b) Neubau sonstiger Prognosezeitraum
 
-Länge von fünf Jahren zu erwarten ist;
+sonstiger Straßen oder von fünf Jahren zu
 
-mindestens erwarten ist; ausgenommen ist die
+Straßen oder ihrer Teilab- erwarten ist;
 
-10 km; als Berührung von
+ihrer Teilab- schnitte mit h) Ausbaumaßnahmen
 
-Neubau gilt Schutzgebieten
+schnitte mit einer sonstiger Art an
 
-auch die ausschließlich
+einer durchgehenden Schnellstraßen *1),
 
-Zulegung von durch Schutzbauten
+durchgehenden Länge von Neubau sonstiger
 
-zwei oder mehr zur Beseitigung von
+Länge von mindestens Straßen oder ihrer
 
-Fahrstreifen; Gefahrenbereichen
+mindestens 5 km, wenn auf Teilabschnitte mit
 
-c) Errichtung oder durch auf
+10 km, wenn der neuen einer durchgehenden
 
-einer zweiten Grund von
+auf der neuen Straße eine Länge von
 
-Richtungsfahr- Katastrophenfällen,
+Straße eine durchschnitt- mindestens 500 m,
 
-bahn auf einer durch die
+durchschnitt- liche tägliche jeweils wenn ein
 
-durchgehenden Niveaufreimachung
+liche tägliche Verkehrsbe- schutzwürdiges
 
-Länge von von
+Verkehrsbe- lastung (DTV) Gebiet der
 
-mindestens Eisenbahnkreuzungen
+lastung (DTV) von mindestens Kategorien B oder D
 
-10 km; oder durch
+von mindestens 15 000 Kraft- berührt wird und
+
+2 000 Kraft- fahrzeugen in eine
+
+fahrzeugen in einem Progno- durchschnittliche
+
+einem Progno- sezeitraum von tägliche
+
+sezeitraum von fünf Jahren zu Verkehrsbelastung
+
+fünf Jahren zu erwarten ist; (DTV) von
+
+erwarten ist; f) Vorhaben der mindestens
+
+als Neubau gilt lit. a, b, c 2 000 Kraftfahr-
+
+auch die oder e, wenn zeugen in einem
+
+Zulegung von das Längenkri- Prognosezeitraum
+
+zwei auf vier terium der von fünf Jahren
+
+oder mehr jeweiligen lit. zu erwarten ist;
+
+Fahrstreifen; nur gemeinsam i) Neubau sonstiger
+
+c) Neuerrichtung mit daran Straßen oder ihrer
+
+einer zweiten unmittelbar Teilabschnitte,
+
+Richtungsfahr- angrenzenden, wenn ein
+
+bahn auf einer noch nicht oder schutzwürdiges
+
+durchgehenden in den letzten Gebiet der
+
+Länge von 10 Jahren dem Kategorie E berührt
+
+mindestens Verkehr frei wird und eine
+
+10 km; gegebenen durchschnittliche
+
+Teilstücken tägliche
+
+erreicht wird; Verkehrsbelastung
+
+(DTV) von
+
+mindestens
+
+15 000 Kraftfahr-
+
+zeugen in einem
+
+Prognosezeitraum
+
+von fünf Jahren zu
+
+erwarten ist;
+
+Als Neubau im Sinn
+
+der lit. g bis i gilt
+
+auch die Zulegung von
+
+zwei auf vier oder
+
+mehr Fahrstreifen;
+
+ausgenommen von lit. g
+
+bis i ist die
+
+Berührung von
+
+schutzwürdigen
+
+Gebieten
+
+ausschließlich durch
+
+Schutzbauten zur
+
+Beseitigung von
+
+Gefahrenbereichen oder
+
+durch auf Grund von
+
+Katastrophenfällen,
+
+durch die
+
+Niveaufreimachung von
+
+Eisenbahnkreuzungen
+
+oder durch
 
 Brückenneubauten
 
@@ -590,215 +644,365 @@ von bestehenden
 
 Straßen.
 
-Bei lit. e ist § 3a
+Bei lit. g und h ist
 
-Abs. 5 nicht
+§ 3a Abs. 5 nicht
 
 anzuwenden.
 
 Von Z 9 sind
 
-Bundesstraßen,
+Bundesstraßen (§ 23a)
 
-Forststraßen und
+nicht erfasst.
 
-Güterwege nicht
+____________________________________________________________________
+
+Z 10 a) Neubau von d) Vorhaben der e) Neubau von
+
+Eisenbahn-Fern- lit. b und c, Eisenbahnstrecken
+
+verkehrs- wenn das oder ihrer
+
+strecken oder Längenkriterium Teilabschnitte wenn
+
+ihrer nur gemeinsam ein schutzwürdiges
+
+Teilabschnitte; mit daran Gebiet der
+
+b) Neubau von unmittelbar Kategorien A, B, C
+
+sonstigen angrenzenden, oder E berührt
+
+Eisenbahn- noch nicht oder wird;
+
+strecken oder in den letzten f) Änderung von
+
+ihrer 10 Jahren dem Eisenbahnstrecken
+
+Teilabschnitte Verkehr frei oder ihrer
+
+auf einer gegebenen Teilabschnitte wenn
+
+durchgehenden Teilstücken die Mitte des
+
+Länge von erfüllt ist und äußersten Gleises
+
+mindestens die Behörde im der geänderten
+
+10 km; Einzelfall Trasse von der
+
+c) Änderung von feststellt, Mitte des äußersten
+
+Eisenbahn- dass auf Grund Gleises der
+
+strecken oder einer bestehenden Trasse
+
+ihrer Kumulierung der mehr als 100 m
+
+Teilabschnitte Auswirkungen entfernt ist und
+
+auf einer der Teilstücke ein schutzwürdiges
+
+durchgehenden mit erheblichen Gebiet der
+
+Länge von schädlichen, Kategorien A, B, C
+
+mindestens belästigenden oder E berührt
+
+10 km, sofern oder wird;
+
+die Mitte des belastenden g) Änderung von
+
+äußersten Auswirkungen Eisenbahnstrecken
+
+Gleises der auf die Umwelt durch Zulegung
+
+geänderten zu rechnen und eines Gleises auf
+
+Trasse von der daher eine einer durchgehenden
+
+Mitte des Umweltverträg- Länge von
+
+äußersten lichkeitsprü- mindestens 2,5 km,
+
+Gleises der fung für das wenn ein
+
+bestehenden geplante schutzwürdiges
+
+Trasse mehr als Vorhaben Gebiet der
+
+100 m entfernt durchzuführen Kategorien A, B
+
+ist; ist; oder C berührt
+
+wird;
+
+h) Änderung von
+
+Eisenbahnstrecken
+
+oder ihrer
+
+Teilabschnitte mit
+
+einem
+
+Verkehrsaufkommen
+
+(vor oder nach der
+
+Kapazitätserhöhung)
+
+von mindestens
+
+60 000 Zügen/Jahr
+
+durch Erhöhung der
+
+Zugkapazität um
+
+mindestens 25%,
+
+wenn ein
+
+schutzwürdiges
+
+Gebiet der
+
+Kategorie E berührt
+
+wird.
+
+Ausgenommen von
+
+lit. e bis h sind
+
+Straßenbahnen,
+
+Stadtschnellbahnen
+
+in Hochlage,
+
+Untergrundbahnen,
+
+Hängebahnen und
+
+ähnliche Bahnen
+
+besonderer Bauart,
+
+die ausschließlich
+
+oder vorwiegend
+
+der Personenbeför-
+
+derung dienen,
+
+innerhalb
+
+geschlossener
+
+Siedlungsgebiete,
+
+sowie
+
+Anschlussbahnen;
+
+ausgenommen ist
+
+auch die Berührung
+
+von schutzwürdigen
+
+Gebieten
+
+ausschließlich
+
+durch Schutzbauten
+
+zur Beseitigung
+
+von
+
+Gefahrenbereichen
+
+oder durch auf
+
+Grund von
+
+Katastrophenfällen
+
+bedingte
+
+Umlegungen.
+
+Bei lit. c, f, g
+
+und h ist § 3a
+
+Abs. 5 nicht
+
+anzuwenden. Von
+
+Z 10 sind Hoch-
+
+leistungsstrecken
+
+(§ 23b) nicht
 
 erfasst.
 
 ____________________________________________________________________
 
-Z 10 a) Neubau von d) Neubau von
+Z 11 a) Verschubbahn- c) Verschubbahnhöfe in
 
-Eisenbahn-Fern- Eisenbahnstrecken
+höfe mit einer schutzwürdigen
 
-verkehrs- oder ihrer
+Flächeninan- Gebieten der
 
-strecken oder Teilabschnitte auf
+spruchnahme von Kategorien A oder C
 
-ihrer einer durchgehenden
+mindestens mit einer Flächen-
 
-Teilabschnitte; Länge von
+75 ha; inanspruchnahme von
 
-b) Neubau von mindestens 5 km,
+b) Frachtenbahn- mindestens 30 ha;
 
-sonstigen sofern ein
+höfe, d) Frachtenbahnhöfe,
 
-Eisenbahn- schutzwürdiges
+Güterterminals Güterterminals oder
 
-strecken oder Gebiet der
+oder Güterver- Güterverkehrs-
 
-ihrer Kategorien A oder B
+kehrszentren zentren in
 
-Teilabschnitte berührt wird;
+mit einer schutzwürdigen
 
-auf einer e) Änderung von
+Flächeninan- Gebieten der
 
-durchgehenden Eisenbahnstrecken
+spruchnahme von Kategorien A oder C
 
-Länge von oder ihrer
+mindestens mit einer Flächen-
 
-mindestens Teilabschnitte auf
+50 ha; inanspruchnahme von
 
-10 km; einer durchgehenden
-
-c) Änderung von Länge von
-
-Eisenbahn- mindestens 5 km,
-
-strecken oder wenn die Mitte des
-
-ihrer äußersten Gleises
-
-Teilabschnitte der geänderten
-
-auf einer Trasse von der
-
-durchgehenden Mitte des äußersten
-
-Länge von Gleises der
-
-mindestens bestehenden Trasse
-
-10 km, sofern mehr als 100 m
-
-die Mitte des entfernt ist und
-
-äußersten ein schutzwürdiges
-
-Gleises der Gebiet der
-
-geänderten Kategorien A oder B
-
-Trasse von der berührt wird;
-
-Mitte des
-
-äußersten ausgenommen ist die
-
-Gleises der Berührung von
-
-bestehenden Schutzgebieten der
-
-Trasse mehr als Kategorie B
-
-100 m entfernt ausschließlich durch
-
-ist; Schutzbauten zur
-
-Beseitigung von
-
-Gefahrenbereichen oder
-
-durch auf Grund von
-
-Katastrophenfällen
-
-bedingte Umlegungen.
-
-Bei lit. c und e ist
-
-§ 3a Abs. 5 nicht
-
-anzuwenden. Von Z 10
-
-sind
-
-Hochleistungsstrecken
-
-(§ 23b) nicht erfasst.
-
-____________________________________________________________________
-
-Z 11 a) Verschubbahn-
-
-höfe mit einer
-
-Flächeninan-
-
-spruchnahme von
-
-mindestens
-
-75 ha;
-
-b) Frachtenbahn-
-
-höfe,
-
-Güterterminals
-
-oder Güterver-
-
-kehrszentren
-
-mit einer
-
-Flächeninan-
-
-spruchnahme von
-
-mindestens
-
-50 ha.
+mindestens 25 ha.
 
 ____________________________________________________________________
 
 Z 12 a) Neuerschließung c) Neuerschließung
 
-von Gletscher- oder Änderung
+oder Änderung oder Änderung
 
-schigebieten; (Erweiterung) von
+(Erweiterung) (Erweiterung) von
 
-b) Neuerschließung Schigebieten durch
+von Gletscher- Schigebieten *1a)
 
-oder Änderung Errichtung von
+schigebieten, durch Errichtung
 
-(Erweiterung) Seilförderanlagen
+wenn damit von
 
-von zur
+eine Flächenin- Seilförderanlagen
 
-Schigebieten Personenbeförderung
+anspruchnahme zur
 
-durch oder Schleppliften
+durch Personenbeförderung
 
-Errichtung von oder Errichtung von
+Pistenneubau oder Schleppliften
 
-Seilförder- Pisten in
+oder durch oder Errichtung von
 
-anlagen zur schutzwürdigen
+Lifttrassen Pisten in
 
-Personenbeför- Gebieten der
+verbunden ist; schutzwürdigen
 
-derung oder Kategorie A, wenn
+b) Neuerschließung Gebieten der
 
-Schleppliften damit eine Flächen-
+oder Änderung Kategorie A, wenn
 
-oder Errichtung inanspruchnahme
+(Erweiterung) damit eine Flächen-
 
-von Pisten, durch Pistenneubau
+von inanspruchnahme
 
-wenn damit eine oder durch
+Schigebieten durch Pistenneubau
 
-Flächeninan- Lifttrassen von
+*1a) durch oder durch
 
-spruchnahme mit mindestens 10 ha
+Errichtung von Lifttrassen von
 
-Geländeverän- verbunden ist.
+Seilförder- mindestens 10 ha
 
-derung durch
+anlagen zur verbunden ist.
 
-Pistenneubau
+Personenbeför-
 
-oder durch
+derung oder Bei Z 12 sind § 3
 
-Lifttrassen von
+Schleppliften Abs. 2 und § 3a Abs. 6
 
-mindestens
+oder Errichtung mit der Maßgabe
 
-20 ha verbunden
+von Pisten, anzuwenden, dass die
 
-ist;
+wenn damit eine Behörde im Einzelfall
+
+Flächeninan- festzustellen hat, ob
+
+spruchnahme mit auf Grund einer
+
+Geländeverän- Kumulierung der
+
+derung durch Auswirkungen mit
+
+Pistenneubau erheblichen
+
+oder durch schädlichen,
+
+Lifttrassen von belästigenden oder
+
+mindestens belastenden
+
+20 ha verbunden Auswirkungen auf die
+
+ist; Umwelt zu rechnen und
+
+daher eine Umweltver-
+
+träglichkeitsprüfung
+
+durchzuführen ist,
+
+wenn mit dem
+
+beantragten Vorhaben
+
+oder der beantragten
+
+Änderung eine
+
+Flächeninanspruchnahme
+
+durch Pistenneubau
+
+oder durch Lifttrassen
+
+von mindestens 5 ha
+
+verbunden ist und
+
+dieses Vorhaben mit
+
+einem oder mehreren
+
+anderen derartigen
+
+Vorhaben in einem
+
+räumlichen
+
+Zusammenhang steht.
 
 ____________________________________________________________________
 
@@ -816,9 +1020,9 @@ Chemikalien schutzwürdigen
 
 oder Gas mit Gebieten der
 
-einem Innen- Kategorie A mit
+einem Innen- Kategorien A oder C
 
-durchmesser von einem
+durchmesser von mit einem
 
 mindestens Innendurchmesser
 
@@ -842,213 +1046,181 @@ Leitungslänge.
 
 ____________________________________________________________________
 
-Z 14 a) Neubau von
+Z 14 a) Neubau von e) Neuerrichtung von
 
-Flugplätzen,
+Flugplätzen, Pisten in
 
-ausgenommen
+ausgenommen schutzwürdigen
 
-Segelflugfelder
+Segelflugfelder Gebieten der
 
-und Flugplätze
+und Flugplätze Kategorien A, D
 
-für
+für oder E mit einer
 
-Hubschrauber,
+Hubschrauber, Grundlänge von
 
-die überwiegend
+die überwiegend mindestens 1 050 m;
 
-Rettungsein-
+Rettungsein- f) Änderungen von
 
-sätzen,
+sätzen, Flugplätzen durch
 
-Einsätzen der
+Einsätzen der Neuerrichtung oder
 
-Sicherheitsver-
+Sicherheitsver- Verlängerung von
 
-waltung, der
+waltung, der Pisten in
 
-Erfüllung von
+Erfüllung von schutzwürdigen
 
-Aufgaben der
+Aufgaben der Gebieten der
 
-Landesverteidi-
+Landesverteidi- Kategorien A, D
 
-gung oder der
+gung oder der oder E, wenn durch
 
-Verkehrsüber-
+Verkehrsüber- die Neuerrichtung
 
-wachung mit
+wachung mit oder Verlängerung
 
-Hubschraubern
+Hubschraubern die
 
-dienen;
+dienen; Gesamtpistenlänge
 
-b) Neuerrichtung
+b) Neuerrichtung um mindestens 12,5%
 
-von Pisten mit
+von Pisten mit erweitert wird;
 
-einer
+einer g) Änderungen von
 
-Grundlänge von
+Grundlänge von Flugplätzen in
 
-mindestens
+mindestens schutzwürdigen
 
-2 100 m;
+2 100 m; Gebieten der
 
-c) Änderungen von
+c) Änderungen von Kategorien A, D
 
-Flugplätzen
+Flugplätzen oder E, wenn
 
-durch
+durch dadurch eine
 
-Neuerrichtung
+Neuerrichtung Erhöhung der Anzahl
 
-oder
+oder der Flugbewegungen
 
-Verlängerung
+Verlängerung (mit
 
-von Pisten,
+von Pisten, Motorflugzeugen,
 
-wenn durch die
+wenn durch die Motorseglern im
 
-Neuerrichtung
+Neuerrichtung Motorflug oder
 
-oder
+oder Hubschraubern) um
 
-Verlängerung
+Verlängerung mindestens 12,5% in
 
-die Gesamt-
+die Gesamt- einem
 
-pistenlänge um
+pistenlänge um Prognosezeitraum
 
-mindestens 25%
+mindestens 25% von 5 Jahren zu
 
-erweitert wird;
+erweitert wird; erwarten ist.
 
 d) Änderungen von
 
-Flugplätzen,
+Flugplätzen, Von lit. b bis g
 
-wenn dadurch
+wenn dadurch ausgenommen ist die
 
-eine Erhöhung
+eine Erhöhung Errichtung von Pisten
 
-der Anzahl der
+der Anzahl der für Zwecke der
 
-Flugbewegungen
+Flugbewegungen Militärluftfahrt aus
 
-(mit Motorflug-
+(mit Motorflug- Anlass eines Einsatzes
 
-zeugen,
+zeugen, des Bundesheeres gemäß
 
-Motorseglern im
+Motorseglern im § 2 Abs. 1 des
 
-Motorflug oder
+Motorflug oder Wehrgesetzes 2001
 
-Hubschraubern)
+Hubschraubern) (WG 2001), BGBl. I
 
-um mindestens
+um mindestens Nr. 146.
 
-20 000 pro Jahr
+15.000 in einem
 
-oder mehr zu
+Prognosezeit- Von lit. c und f
 
-erwarten ist.
+raum von ausgenommen sind
 
-Von lit. b, c und
+5 Jahren zu weiters Vorhaben, die
 
-d ausgenommen ist
+erwarten ist. ausschließlich der
 
-die Errichtung von
+Erhöhung der
 
-Pisten für Zwecke
-
-der
-
-Militärluftfahrt
-
-aus Anlass eines
-
-Einsatzes des
-
-Bundesheeres gemäß
-
-§ 2 Abs. 1 des
-
-Wehrgesetzes 1990
-
-(WG), BGBl.
-
-Nr. 305.
-
-Von lit. c
-
-ausgenommen sind
-
-weiters Vorhaben,
-
-die ausschließlich
-
-der Erhöhung der
-
-Flugsicherheit
-
-dienen.
+Flugsicherheit dienen.
 
 ____________________________________________________________________
 
-Z 15 a) Häfen, Kohle-
+Z 15 a) Neubau von d) Neubau von
 
-oder Ölländen,
+Häfen, Kohle- Häfen, Kohle- oder
 
-die Schiffen
+oder Ölländen, Ölländen in
 
-mit einer
+die Schiffen schutzwürdigen
 
-Tragfähigkeit
+mit einer Gebieten der
 
-von mehr als
+Tragfähigkeit Kategorien A
 
-1 350 t
+von mehr als oder C;
 
-zugänglich
+1 350 t e) Änderungen von
 
-sind;
+zugänglich Häfen in
 
-b) Neubau von
+sind; schutzwürdigen
 
-Wasserstraßen,
+b) Änderungen von Gebieten der
 
-die Schiffen
+Häfen durch Kategorien A oder C
 
-mit einer
+Erweiterung der durch Erweiterung
 
-Tragfähigkeit
+Wasserfläche der Wasserfläche
 
-von mehr als
+oder Vertiefung oder Vertiefung
+
+jeweils um jeweils um
+
+mindestens 25%; mindestens 12,5%;
+
+c) Neubau von f) Neubau von
+
+Wasserstraßen, Wasserstraßen in
+
+die Schiffen schutzwürdigen
+
+mit einer Gebieten der
+
+Tragfähigkeit Kategorien A
+
+von mehr als oder C.
 
 1 350 t
 
 zugänglich
 
 sind.
-
-Berechnungsgrund-
-
-lage für
-
-Änderungen (§ 3a
-
-Abs. 2) von lit. a
-
-ist die
-
-bescheidmäßig
-
-genehmigte
-
-Umschlagkapazität.
 
 ____________________________________________________________________
 
@@ -1086,61 +1258,115 @@ ____________________________________________________________________
 
 Z 17 a) Freizeit- oder b) Freizeit- oder
 
-Vergnügungs- Vergnügungsparks *2)
+Vergnügungs- Vergnügungsparks
 
-parks *2) mit in
+parks *2), *2), Sportstadien
 
-einer Flächen- schutzwürdigen
+Sportstadien oder Golfplätze in
 
-inanspruchnahme Gebieten der
+oder Golfplätze schutzwürdigen
 
-von mindestens Kategorien A oder D
+mit einer Gebieten der
+
+Flächeninan- Kategorien A oder D
+
+spruchnahme von mit einer Flächen-
+
+mindestens inanspruchnahme
+
+10 ha oder von mindestens 5 ha
+
+mindestens oder mindestens
+
+1 500 750 Stellplätzen
+
+Stellplätzen für Kraftfahrzeuge.
+
+für
+
+Kraftfahrzeuge; Bei lit. a und b ist
+
+§ 3a Abs. 5 mit der
+
+Maßgabe anzuwenden,
+
+dass die beantragte
+
+Änderung eine Kapazi-
+
+tätsausweitung von 25%
+
+des Schwellenwertes
+
+nicht erreichen muss.
+
+____________________________________________________________________
+
+Z 18 a) Industrie- oder c) Industrie- oder
+
+Gewerbeparks Gewerbeparks *3) in
+
+*3) mit einer schutzwürdigen
+
+Flächeninan- Gebieten der
+
+spruchnahme von Kategorien A oder D
+
+mindestens mit einer Flächen-
+
+50 ha; inanspruchnahme von
+
+b) Städtebauvor- mindestens 25 ha.
+
+haben *3a) mit
+
+einer
+
+Nutzfläche von
+
+mehr als
+
+100.000 m2;
+
+____________________________________________________________________
+
+Z 19 a) Einkaufszentren b) Einkaufszentren
+
+*4) mit einer *4) in
+
+Flächeninan- schutzwürdigen
+
+spruchnahme von Gebieten der
+
+mindestens Kategorien A oder D
 
 10 ha oder mit einer Flächen-
 
 mindestens inanspruchnahme von
 
-1 500 von mindestens
+1 000 Stell- mindestens 5 ha
 
-Stellplätzen 5 ha oder
+plätzen für oder mindestens
 
-für mindestens
-
-Kraftfahrzeuge; 750 Stellplätzen
+Kraftfahrzeuge; 500 Stellplätzen
 
 für Kraftfahrzeuge.
 
-____________________________________________________________________
+Bei lit. a und b ist
 
-Z 18 Industrie- oder
+§ 3a Abs. 5 mit der
 
-Gewerbeparks *3)
+Maßgabe anzuwenden,
 
-mit einer
+dass die beantragte
 
-Flächeninan-
+Änderung eine Kapazi-
 
-spruchnahme von
+tätsausweitung von 25%
 
-mindestens 50 ha.
+des Schwellenwertes
 
-____________________________________________________________________
-
-Z 19 Einkaufszentren *4)
-
-mit einer Flächen-
-
-inanspruchnahme
-
-von mehr als 10 ha
-
-oder mit mehr als
-
-1 000 Stellplätzen
-
-für
-
-Kraftfahrzeuge.
+nicht erreichen muss.
 
 ____________________________________________________________________
 
@@ -1188,19 +1414,21 @@ zugängliche zugängliche
 
 Parkplätze oder Parkplätze oder
 
-Parkgaragen für Parkgaragen für
+Parkgaragen *4a) Parkgaragen *4a)
 
-Kraftfahrzeuge Kraftfahrzeuge in
+für für Kraftfahrzeuge
 
-mit mehr als schutzwürdigen
+Kraftfahrzeuge in schutzwürdigen
 
-1 500 Gebieten der
+mit mindestens Gebieten der
 
-Stellplätzen Kategorie A, B oder
+1 500 Stell- Kategorie A, B
 
-für D mit mehr als
+plätzen für oder D mit
 
-Kraftfahrzeuge; 750 Stellplätzen
+Kraftfahrzeuge; mindestens
+
+750 Stellplätzen
 
 für Kraftfahrzeuge.
 
@@ -1246,15 +1474,17 @@ Siedlungsgebiete.
 
 ____________________________________________________________________
 
-Z 24 Ständige
+Z 24 a) Ständige Renn- b) ständige Renn- oder
 
-Freiluftanlagen
+oder Teststrecken für
 
-für Motorsport-
+Teststrecken Kraftfahrzeuge in
 
-veranstaltungen ab
+für schutzwürdigen
 
-2 km Länge.
+Kraftfahrzeuge Gebieten der
+
+ab 2 km Länge; Kategorie A.
 
 ____________________________________________________________________
 
@@ -1270,107 +1500,141 @@ Rohstoffen im Rohstoffen im
 
 Tagbau Tagbau
 
-(Lockergestein, (Lockergestein,
+(Lockergestein (Lockergestein -
+
+- Nass- oder - Nass- oder
+
+Trocken- Trocken-
+
+baggerung, baggerung,
 
 Festgestein im Festgestein im
 
-Trichterabbau Trichterabbau
+Kulissenabbau Kulissenabbau
 
 mit mit
 
 Sturzschacht, Sturzschacht,
 
-plattenförmige plattenförmige
+Schlauchband- Schlauchband-
 
-Festgesteins- Festgesteins-
+förderung oder förderung oder
 
-vorkommen) oder vorkommen) oder
+einer in ihren einer in ihren
 
-Torfgewinnung Torfgewinnung in
+Umweltaus- Umweltaus-
 
-mit einer schutzwürdigen
+wirkungen wirkungen
+
+gleichartigen gleichartigen
+
+Fördertechnik) Fördertechnik)
+
+oder oder
+
+Torfgewinnung Torfgewinnung
+
+mit einer in schutzwürdigen
 
 Fläche *5) von Gebieten der
 
-mindestens Kategorie A oder in
+mindestens Kategorien A oder E
 
-20 ha; oder nahe
+20 ha; und für
 
-b) Erweiterungen Siedlungsgebieten
+b) Erweiterungen Nassbaggerung und
 
-einer Entnahme *6) mit einer Fläche
+einer Entnahme Torfgewinnung auch
 
-von *5) von mindestens
+von Kategorie C, mit
 
-mineralischen 10 ha;
+mineralischen einer Fläche *5)
 
-Rohstoffen im d) Erweiterungen einer
+Rohstoffen im von mindestens
 
-Tagbau Entnahme von
+Tagbau 10 ha;
 
-(Lockergestein, mineralischen
+(Lockergestein d) Erweiterungen einer
 
-Festgestein im Rohstoffen im
+- Nass- oder Entnahme von
 
-Trichterabbau Tagbau
+Trocken- mineralischen
 
-mit (Lockergestein,
+baggerung, Rohstoffen im
 
-Sturzschacht, Festgestein im
+Festgestein im Tagbau
 
-plattenförmige Trichterabbau mit
+Kulissenabbau (Lockergestein -
 
-Festgesteins- Sturzschacht,
+mit Nass- oder
 
-vorkommen) oder plattenförmige
+Sturzschacht, Trockenbaggerung,
 
-einer Festgesteins-
+Schlauchband- Festgestein im
 
-Torfgewinnung, vorkommen) oder
+förderung oder Kulissenabbau mit
+
+einer in ihren Sturzschacht,
+
+Umweltaus- Schlauchbandförde-
+
+wirkungen rung oder einer in
+
+gleichartigen ihren
+
+Fördertechnik) Umweltauswirkungen
+
+oder einer gleichartigen
+
+Torfgewinnung, Fördertechnik) oder
 
 wenn die Fläche einer Torfgewinnung
 
 *5) der in den in schutzwürdigen
 
-letzten zehn Gebieten der
+letzten Gebieten der
 
-Jahren Kategorie A oder in
+10 Jahren Kategorien A oder E
 
-bestehenden oder nahe
+bestehenden und für
 
-oder Siedlungsgebieten
+oder Nassbaggerung und
 
-genehmigten *6), wenn die Fläche
+genehmigten Torfgewinnung auch
 
-Abbaue und der *5) der in den
+Abbaue und der Kategorie C, wenn
 
-beantragten letzten Jahren
+beantragten die Fläche *5) der
 
-Erweiterung bestehenden oder
+Erweiterung in den letzten
 
-mindestens genehmigten Abbau
+mindestens 10 Jahren
 
-20 ha und die und der beantragten
+20 ha und die bestehenden oder
 
-zusätzliche Erweiterung
+zusätzliche genehmigten Abbaue
 
-Flächeninan- mindestens 10 ha
+Flächeninan- und der beantragten
 
-spruchnahme *5) und die zusätzliche
+spruchnahme *5) Erweiterung
 
-mindestens 5 ha Flächeninanspruch-
+mindestens 5 ha mindestens 10 ha
 
-beträgt; nahme *5) mindestens
+beträgt; und die zusätzliche
 
-2,5 ha beträgt;
+Flächeninanspruch-
 
-ausgenommen von Z 25
+nahme *5)
 
-sind die unter den
+mindestens 2,5 ha
 
-Z 37 und 38 erfassten
+beträgt;
 
-Tätigkeiten.
+Ausgenommen von Z 25
+
+sind die unter Z 37
+
+erfassten Tätigkeiten.
 
 ____________________________________________________________________
 
@@ -1388,65 +1652,57 @@ mit einer schutzwürdigen
 
 Fläche *5) von Gebieten der
 
-mindestens Kategorie A oder in
+mindestens Kategorie A oder E
 
-10 ha; oder nahe
+10 ha; mit einer Fläche
 
-b) Erweiterungen Siedlungsgebieten
+b) Erweiterungen *5) von mindestens
 
-einer Entnahme *6) mit einer Fläche
+einer Entnahme 5 ha;
 
-von *5) von mindestens
+von d) Erweiterungen einer
 
-mineralischen 5 ha;
+mineralischen Entnahme von
 
-Rohstoffen im d) Erweiterungen einer
+Rohstoffen im mineralischen
 
-Tagbau Entnahme von
+Tagbau Rohstoffen im
 
-(Festgestein), mineralischen
+(Festgestein), Tagbau
 
-wenn die Fläche Rohstoffen im
+wenn die Fläche (Festgestein) in
 
-*5) der in den Tagbau
+*5) der in den schutzwürdigen
 
-letzten zehn (Festgestein) in
+letzten zehn Gebieten der
 
-Jahren schutzwürdigen
+Jahren Kategorie A oder E,
 
-bestehenden Gebieten der
+bestehenden wenn die Fläche *5)
 
-oder Kategorie A oder in
+oder der in den letzten
 
-genehmigten oder nahe
+genehmigten zehn Jahren
 
-Abbaue und der Siedlungsgebieten
+Abbaue und der bestehenden oder
 
-beantragten *6), wenn die Fläche
+beantragten genehmigten Abbaue
 
-Erweiterung *5) der in den
+Erweiterung und der beantragten
 
-mindestens letzten zehn Jahren
+mindestens Erweiterung
 
-13 ha und die bestehenden oder
+13 ha und die mindestens 7,5 ha
 
-zusätzliche genehmigten Abbaue
+zusätzliche und die zusätzliche
 
-Flächeninan- und der beantragten
+Flächeninan- Flächeninanspruch-
 
-spruchnahme *5) Erweiterung
+spruchnahme *5) nahme *5)
 
-mindestens 3 ha mindestens 7,5 ha
+mindestens 3 ha mindestens 1,5 ha
 
-beträgt; und die zusätzliche
-
-Flächeninan-
-
-spruchnahme *5)
-
-mindestens 1,5 ha
-
-beträgt.
+beträgt; beträgt.
 
 ____________________________________________________________________
 
@@ -1832,29 +2088,7 @@ diesem Fluss.
 
 ____________________________________________________________________
 
-Z 38 a) Nassbaggerungen b) Nassbaggerungen in
-
-mit einer schutzwürdigen
-
-Flächeninan- Gebieten der
-
-spruchnahme Kategorien A oder C
-
-(für die oder in oder nahe
-
-Baggerung und Siedlungsgebieten
-
-die *6) mit einer
-
-Transportwege) Flächeninanspruch-
-
-von mehr als nahme (für die
-
-25 ha; Baggerung und die
-
-Transportwege) von
-
-mehr als 10 ha.
+Z 38 (Anm.: aufgehoben durch BGBl. I Nr. 153/2004)
 
 ____________________________________________________________________
 
@@ -1948,9 +2182,9 @@ mit einem schutzwürdigen
 
 Bemessungswert Gebieten der
 
-von mindestens Kategorien A oder
+von mindestens Kategorien A oder C
 
-150 000 Einwoh- C mit einem
+150 000 Einwoh- mit einem
 
 nerwerten *10); Bemessungswert von
 
@@ -2062,43 +2296,45 @@ Tieren ab schutzwürdigen
 
 folgender Gebieten der
 
-Größe: Kategorie C oder
+Größe: Kategorie C
 
-48 000 Lege- in bzw. nahe
+48 000 Lege- oder E ab folgender
 
-hennen-, Siedlungsgebieten
+hennen-, Größe:
 
-Jung- *11) ab folgender
+Jung- 40 000 Lege-
 
-hennen- Größe:
+hennen-, hennen-,
 
-oder 40 000 Lege-
+Mast- Junghennen-,
 
-Trut- hennen-,
+eltern- Masteltern-
 
-hühner- Junghennen-
+tier- tier- oder
 
-plätze oder Trut-
+oder Truthühner-
 
-65 000 Mastge- hühnerplätze
+Trut- plätze
 
-flügel- 42 500 Mastgeflü-
+hühner- 42 500 Mastgeflü-
 
 plätze gelplätze
 
-2 500 Mast- 1 400 Mastschwei-
+65 000 Mastge- 1 400 Mastschwei-
 
-schwei- neplätze
+flügel- neplätze
 
-neplätze 450 Sauenplätze;
+plätze 450 Sauenplätze
 
-700 Sauen- betreffend lit. a
+2 500 Mast-
 
-plätze; und b gilt: bei
+schweine- Betreffend lit. a
 
-gemischten Beständen
+plätze und b gilt: Bei
 
-werden die
+700 Sauen- gemischten Beständen
+
+plätze; werden die
 
 Prozentsätze der
 
@@ -3092,6 +3328,8 @@ tionskapazität
 
 von mehr als
 
+200 t/d oder
+
 72 000 t/a;
 
 b) sonstige
@@ -3144,19 +3382,21 @@ Z 63 a) Anlagen zum b) Anlagen zum Gerben
 
 Gerben von von Tierhäuten oder
 
-Tierhäuten oder Tierfellen in oder
+Tierhäuten oder Tierfellen in
 
-Tierfellen mit nahe
+Tierfellen mit schutzwürdigen
 
-einer Verarbei- Siedlungsgebieten
+einer Verarbei- Gebieten der
 
-tungskapazität *21) mit einer
+tungskapazität Kategogorie E mit
 
-von mehr als Verarbeitungs-
+von mehr als einer Verarbei-
 
-20 000 t/a; kapazität von mehr
+20 000 t/a; tungskapazität von
 
-als 10 000 t/a.
+mehr als
+
+10 000 t/a.
 
 ____________________________________________________________________
 
@@ -3178,31 +3418,31 @@ b) Anlagen zum einer Produktions-
 
 Rösten und kapazität von mehr
 
-Sintern von als 250 000 t/a.
+Sintern von als 250 000 t/a;
 
-Erzen;
+Erzen; f) Anlagen zur
 
-c) Anlagen zur
+c) Anlagen zur Verarbeitung von
 
-Herstellung von
+Herstellung von Eisenmetallen
 
-Roheisen oder
+Roheisen oder (Warmwalzen,
 
-Rohstahl mit
+Rohstahl mit Schmieden mit
 
-einer Produk-
+einer Produk- Hämmern) in
 
-tionskapazität
+tionskapazität schutzwürdigen
 
-von mehr als
+von mehr als Gebieten der
 
-500 000 t/a;
+500 000 t/a; Kategorie D mit
 
-d) Anlagen zur
+d) Anlagen zur einer Produktions-
 
-Verarbeitung
+Verarbeitung kapazität von mehr
 
-von
+von als 250 000 t/a.
 
 Eisenmetallen
 
@@ -3656,23 +3896,29 @@ mehr als als 150 000 t/a.
 
 ____________________________________________________________________
 
-Z 79 Raffinerien für
+Z 79 a) Raffinerien für b) Neuerrichtung von
 
-Erdöl (ausgenommen
+Erdöl Anlagen in einer
 
-Anlagen, die
+(ausgenommen Raffinerie für
 
-ausschließlich
+Anlagen, die Erdöl (ausgenommen
 
-Schmierstoffe
+ausschließlich Anlagen, die
 
-herstellen).
+Schmierstoffe ausschließlich
 
-Berechnungsgrund-
+herstellen); Schmierstoffe
 
-lage für
+herstellen) in
 
-Änderungen (§ 3a
+Berechnungs- schutzwürdigen
+
+grundlage für Gebieten der
+
+Änderungen der Kategorie D.
+
+lit. a (§ 3a
 
 Abs. 3) ist die
 
@@ -3680,7 +3926,7 @@ Verarbeitungs-
 
 kapazität an Rohöl
 
-in Tonnen.
+in Tonnen;
 
 ____________________________________________________________________
 
@@ -3748,7 +3994,33 @@ kapazität von
 
 mehr als
 
-500 000 t.
+500 000 t;
+
+d) Anlagen zur
+
+Lagerung von
+
+Erdöl,
+
+petrochemischen
+
+oder chemischen
+
+Erzeugnissen in
+
+schutzwürdigen
+
+Gebieten der
+
+Kategorie C mit
+
+einer Gesamt-
+
+lagerkapazität
+
+von mehr als
+
+100 000 t.
 
 ____________________________________________________________________
 
@@ -3806,7 +4078,13 @@ Tierkörpern oder
 
 tierischen
 
-Abfällen.
+Abfällen mit einer
+
+Verarbeitungskapa-
+
+zität von mehr als
+
+10 t/d.
 
 ____________________________________________________________________
 
@@ -4008,19 +4286,27 @@ ____________________________________________________________________
 
 *1) Schnellstraßen gemäß den Begriffsbestimmungen des Europäischen Übereinkommens über die Hauptstraßen des internationalen Verkehrs vom 15. November 1975.
 
-*2) Freizeit- oder Vergnügungsparks sind dauernde Einrichtungen zur Unterhaltung einer großen Anzahl von Besuchern, gleichgültig, ob sie in einer Zusammenfassung verschiedener Stände, Buden und Spiele bestehen (klassische Vergnügungsparks mit Ringelspielen, Hochschaubahnen, Schießbuden u. dgl.) oder unter ein bestimmtes Thema gestellt sind. Erfasst sind insbesondere auch multifunktionale, einem umfassenden Bedürfnis nach Freizeitbeschäftigung dienende Einrichtungskomplexe, die Sport-, Gastronomie- und sonstige Dienstleistungseinrichtungen umfassen und die eine funktionelle Einheit bilden. Zur Berechnung der Flächeninanspruchnahme ist die gesamte Fläche heranzuziehen, die mit dem Vorhaben in einem funktionellen Zusammenhang steht, insbesondere die überdachte Nutzfläche und die Flächen für Kfz-Parkplätze oder Parkgaragen.
+*1a) Ein Schigebiet umfasst einen Bereich aus einzelnen oder zusammenhängenden technischen Aufstiegshilfen und dazugehörigen präparierten oder gekennzeichneten Schipisten, in dem ein im Wesentlichen durchgehendes Befahren mit Wintersportgeräten möglich ist und das eine Grundausstattung mit notwendiger Infrastruktur (wie z. B. Verkehrserschließung, Versorgungsbetriebe, Übernachtungsmöglichkeiten, Wasserversorgung und Kanalisation usw.) aufweist.
 
-*3) Industrie- oder Gewerbeparks sind Flächen, die von einem Errichter und Betreiber zum Zweck der gemeinsamen industriellen oder gewerblichen Nutzung durch mehrere Betriebe aufgeschlossen und mit der dafür notwendigen Infrastruktur ausgestattet werden, die in einem räumlichen Naheverhältnis stehen und eine betriebsorganisatorische oder funktionelle Einheit bilden. *4) Einkaufszentren sind Gebäude und Gebäudekomplexe mit Verkaufs- und Ausstellungsräumen von Handels- und Gewerbebetrieben samt den damit in Zusammenhang stehenden Dienstleistungs- und Freizeiteinrichtungen, die in einem räumlichen Naheverhältnis stehen und eine betriebsorganisatorische oder funktionelle Einheit bilden. Zur Berechnung der Flächeninanspruchnahme ist die gesamte Fläche heranzuziehen, die mit dem Vorhaben in einem funktionellen Zusammenhang steht, insbesondere die überdachte Nutzfläche und die Flächen für Kfz-Parkplätze oder Parkgaragen.
+Begrenzt wird das Schigebiet entweder
+
+- a) morphologisch nach Talräumen: Bei Talräumen handelt es sich um
+
+geschlossene, durch markante natürliche Geländelinien und Geländeformen (z. B. Grate, Kämme usw.) abgrenzbare Landschaftsräume, die in sich eine topographische Einheit darstellen. Ist keine eindeutige Abgrenzung durch markante natürliche Geländelinien und Geländeformen möglich, so kann ein Schigebiet auch mehrere Talräume umfassen; oder
+
+- b) nach Einzugs- bzw. Teileinzugsgebieten der Fließgewässer: Dieses Wassereinzugsgebiet ist bis zum vorhandenen Talsammler zu berücksichtigen.
+
+*2) Freizeit- oder Vergnügungsparks sind dauernde Einrichtungen zur Unterhaltung einer großen Anzahl von Besuchern, gleichgültig, ob sie in einer Zusammenfassung verschiedener Stände, Buden und Spiele bestehen (klassische Vergnügungsparks mit Ringelspielen, Hochschaubahnen, Schießbuden u. dgl.) oder unter ein bestimmtes Thema gestellt sind. Erfasst sind insbesondere auch multifunktionale, einem umfassenden Bedürfnis nach Freizeitbeschäftigung dienende Einrichtungskomplexe, die Sport-, Gastronomie- und sonstige Dienstleistungseinrichtungen umfassen und die eine funktionelle Einheit bilden. Zur Berechnung der Flächeninanspruchnahme ist die gesamte Fläche heranzuziehen, die mit dem Vorhaben in einem funktionellen Zusammenhang steht, insbesondere die überdachte Grundfläche und die Flächen für Kfz-Parkplätze oder Parkgaragen.
+
+*3) Industrie- oder Gewerbeparks sind Flächen, die von einem Errichter oder Betreiber zum Zweck der gemeinsamen industriellen oder gewerblichen Nutzung durch mehrere Betriebe aufgeschlossen und mit der dafür notwendigen Infrastruktur ausgestattet werden, die in einem räumlichen Naheverhältnis stehen und eine betriebsorganisatorische oder funktionelle Einheit bilden. *3a) Städtebauvorhaben sind Wohn- oder Geschäftsbauten einschließlich der zugehörigen Infrastruktureinrichtungen wie Einkaufszentren, Einrichtungen zur Nahversorgung, Kindergärten, Schulen, Veranstaltungsflächen, Hotels und Gastronomie, Parkplätze udgl.
+
+*4) Einkaufszentren sind Gebäude und Gebäudekomplexe mit Verkaufs- und Ausstellungsräumen von Handels- und Gewerbebetrieben samt den damit in Zusammenhang stehenden Dienstleistungs- und Freizeiteinrichtungen, die in einem räumlichen Naheverhältnis stehen und eine betriebsorganisatorische oder funktionelle Einheit bilden. Zur Berechnung der Flächeninanspruchnahme ist die gesamte Fläche heranzuziehen, die mit dem Vorhaben in einem funktionellen Zusammenhang steht, insbesondere die überdachte Grundfläche und die Flächen für Kfz-Parkplätze oder Parkgaragen.
+
+*4a) Öffentlich zugängliche Parkplätze sind solche, die ausschließlich für Parkzwecke (wie Parkhaus, Park- and Rideanlage) oder im Zusammenhang mit einem anderen Vorhaben errichtet werden (wie Kundenparkplätze zu einem Einkaufszentrum, Besucherparkplätze eines Freizeitparks etc.), und ohne weitere Zugangsbeschränkung der Allgemeinheit zugänglich sind (auch beispielsweise wenn eine Parkgebühr zu entrichten ist oder Parkplätze auf Dauer an jedermann vermietet werden). Parkplätze, die hingegen nur einem von vornherein eingeschränkten Nutzerkreis zugänglich sind (etwa für Lieferanten/Lieferantinnen oder Beschäftigte des Betriebes – d.h. es muss eine Zugangsbeschränkung vorgesehen sein, die die Allgemeinheit von der Benutzung dieses Parkplatzes ausschließt), sind demnach nicht öffentlich zugängliche Parkplätze.
 
 *5) Bei Entnahmen von mineralischen Rohstoffen im Tagbau sind zur Berechnung der Fläche die in den Lageplänen gemäß § 80 Abs. 2 Z 8 bzw. 113 Abs. 2 Z 1 MinroG (BGBl. I Nr. 38/1999) bekannt zu gebenden Aufschluss- und Abbauabschnitte heranzuziehen.
 
-*6) Als Nahebereich eines Siedlungsgebietes gilt ein Umkreis von 300 m um das Vorhaben, in dem Grundstücke wie folgt festgelegt oder ausgewiesen sind:
-
-- 1. Bauland, in dem Wohnbauten errichtet werden dürfen (ausgenommen Einzelgehöfte oder Einzelbauten),
-
-- 2. erweitertes Wohngebiet: das sind Bauhoffnungsgebiete und Flächen für die künftige Errichtung von Wohnhäusern, Appartementhäusern, Ferienhäusern, Wochenendhäusern und Wochenendsiedlungen, Garten- und Kleingartensiedlungen,
-
-- 3. Gebiete für Kinderbetreuungseinrichtungen, Kinderspielplätze, Schulen oder ähnliche Einrichtungen, Krankenhäuser, Kuranstalten, Seniorenheime, Friedhöfe, Kirchen und gleichwertige Einrichtungen anerkannter Religionsgemeinschaften, Parkanlagen, Campingplätze und Freibeckenbäder.
+*6) (Anm.: aufgehoben durch BGBl. I Nr. 153/2004)
 
 *7) Unter einer Kraftwerkskette ist eine Aneinanderreihung von zwei oder mehreren Stauhaltungen zur Nutzung der Wasserkraft ohne dazwischenliegende freie Fließstrecke, berechnet auf Basis der Ausbauwassermenge, von zumindest 2 km Länge zu verstehen. *8) Die Berechnung hat unabhängig davon zu erfolgen, aus welchem Horizont das Grundwasser entnommen werden soll.
 
@@ -4028,7 +4314,7 @@ ____________________________________________________________________
 
 *10) Definition Einwohnerwert (EW) gemäß Art. 2 Pkt. 6 der Richtlinie des Rates 91/271/EWG: 1 EW entspricht der organisch-biologisch abbaubaren Belastung mit einem biochemischen Sauerstoffbedarf in fünf Tagen [BSB tief 5] von 60 g Sauerstoff pro Tag.
 
-*11) Siehe Fußnote 6.
+*11) (Anm.: aufgehoben durch BGBl. I Nr. 153/2004)
 
 *12) Unter intensiver Fischzucht sind Fischhaltungen zu verstehen, bei denen durch Maßnahmen wie kohlenhydratreiche Beifütterung, Belüftung oder Begasung oder durch Wasseraufbereitung die Fischproduktion erhöht wird.
 
@@ -4036,7 +4322,7 @@ ____________________________________________________________________
 
 *14) Unter intensiver Landwirtschaftsnutzung ist eine Form der Landwirtschaft mit hohem Einsatz von Produktionsmitteln je Flächeneinheit (dh. meist hohem Düngemitteleinsatz, relativ großem Aufwand an synthetisch hergestellten Pflanzenschutz-, Pflanzenbehandlungs- und Unkrautbekämpfungsmitteln und intensiven künstlichen Bewässerungsmethoden) zu verstehen.
 
-*15) Flächen, auf denen eine Rodungsbewilligung (§ 18 Abs. 1 lit. a ForstG) zum Antragszeitpunkt erloschen ist, sowie Flächen, für die Ersatzaufforstungen gemäß § 18 Abs. 2 ForstG vorgeschrieben wurden, sind nicht einzurechnen.
+*15) Flächen, auf denen eine Rodungsbewilligung zum Antragszeitpunkt erloschen ist (§ 18 Abs. 1 Z 1 ForstG) sowie Flächen, für die Ersatzaufforstungen gemäß § 18 Abs. 2 ForstG vorgeschrieben wurden, sind nicht einzurechnen.
 
 *16) Hier sind Anlagen gemeint, die stabile chemische Zwischen- oder Endprodukte (insbesondere marktfähige Produkte) herstellen. *17) Unter Verbund in funktioneller Hinsicht ist zu verstehen, dass der Output einer Anlage als Input einer weiteren Anlage dient (unabhängig von der Art der Beförderung zwischen den Anlagen). Infrastrukturleitungen sowie ein Rohstoff- oder Reststoffverbund stellen keinen Verbund in funktioneller Hinsicht dar. Als Rohstoffe gelten typischerweise Erdöl (zB Naphtha), Erdgas, Erze, Luft, Mineralien, Kohle. Chemische Grundstoffe (zB Ammoniak, Schwefelsäure, Ethylen) gelten nicht als Rohstoffe, dh. Anlagen, die chemische Grundstoffe herstellen, sind bei der Prüfung des Verbundes in funktioneller Hinsicht zu berücksichtigen. Als Reststoffe gelten Stoffe, deren Herstellung nicht primärer Zweck der Anlage ist, die jedoch verfahrenstechnisch bedingt (zB durch unvollständige Umsetzung) anfallen.
 
@@ -4044,4 +4330,4 @@ ____________________________________________________________________
 
 *19) Die Produktionskapazitäten dieser Ziffer sind jeweils auf die in den Unterpunkten genannten Stoffgruppen zu beziehen, dh. die Produktionskapazitäten von Chemikalien ein und derselben Stoffgruppe sind zu addieren (zB sauerstoffhaltige Kohlenwasserstoffe). *20) Hier sind jene Mehrzweck- bzw. Mehrprodukteanlagen erfasst, die Feinchemikalien bzw. Arzneimittel, Biozide oder Pflanzenschutzmittel herstellen. Die Produktionskapazitäten sind auf Einzelanlagen zu beziehen.
 
-*21) Siehe Fußnote 6.
+*21) (Anm.: aufgehoben durch BGBl. I Nr. 153/2004)
