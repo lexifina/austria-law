@@ -18,4 +18,4 @@ Artikel 119a.
 
 (9) Die Gemeinde hat im aufsichtsbehördlichen Verfahren Parteistellung; sie ist berechtigt, gegen die Aufsichtsbehörde vor dem Verwaltungsgerichtshof (Artikel 131 und 132) und vor dem Verfassungsgerichtshof (Artikel 144) Beschwerde zu führen.
 
-(10) Die Bestimmungen dieses Artikels sind auf die Aufsicht über Gemeindeverbände, soweit diese Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde besorgen (Artikel 116 Absatz 4), entsprechend anzuwenden.
+(10) Die Bestimmungen dieses Artikels sind auf die Aufsicht über Gemeindeverbände, soweit diese Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde besorgen, entsprechend anzuwenden.
