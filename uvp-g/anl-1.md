@@ -1136,25 +1136,25 @@ Flugplätzen, Von lit. b bis g
 
 wenn dadurch ausgenommen ist die
 
-eine Erhöhung Errichtung von Pisten
+eine Erhöhung Errichtung und
 
-der Anzahl der für Zwecke der
+der Verlängerung von
 
-Flugbewegungen Militärluftfahrt aus
+Flugbewegungen Pisten sowie sonstige
 
-(mit Motorflug- Anlass eines Einsatzes
+(mit Motorflug- Änderungen von
 
-zeugen, des Bundesheeres gemäß
+zeugen, Flugplätzen, die im
 
-Motorseglern im § 2 Abs. 1 des
+Motorseglern im überwiegenden Ausmaß
 
-Motorflug oder Wehrgesetzes 2001
+Motorflug oder für Zwecke der
 
-Hubschraubern) (WG 2001), BGBl. I
+Hubschraubern) Militärluftfahrt
 
-um mindestens Nr. 146.
+um mindestens genützt werden.
 
-15.000 in einem
+20.000 in einem
 
 Prognosezeit- Von lit. c und f
 
@@ -1299,6 +1299,58 @@ tätsausweitung von 25%
 des Schwellenwertes
 
 nicht erreichen muss.
+
+c) Vorhaben nach lit.
+
+a und b und damit
+
+in Zusammenhang
+
+stehende Anlagen,
+
+die auf Grund von
+
+Vereinbarungen mit
+
+internationalen
+
+Organisationen für
+
+Großveranstaltungen
+
+(zB Olympische
+
+Spiele, Welt- oder
+
+Europa-
+
+meisterschaften,
+
+Formel 1-Rennen)
+
+errichtet,
+
+verändert oder
+
+erweitert werden,
+
+nach Durchführung
+
+einer
+
+Einzelfallprüfung
+
+gemäß § 3 Abs. 4a;
+
+Lit. a und b sind
+
+nicht anzuwenden, wenn
+
+die besonderen
+
+Voraussetzungen der
+
+lit. c vorliegen.
 
 ____________________________________________________________________
 
@@ -1485,6 +1537,86 @@ für schutzwürdigen
 Kraftfahrzeuge Gebieten der
 
 ab 2 km Länge; Kategorie A.
+
+c) die
+
+Wiedererrichtung,
+
+Erweiterung oder
+
+Adaption von
+
+Rennstrecken nach
+
+lit. a und b, die
+
+mindestens 20 Jahre
+
+bestehen oder
+
+Bestand gehabt
+
+haben, sowie
+
+Strecken nach lit. a
+
+und b zum Zweck der
+
+Fahr- und
+
+Sicherheits-
+
+qualitätschecks von
+
+Fahrzeug-
+
+herstellern, bei
+
+denen gesetzlich
+
+zwingend
+
+vorgeschriebene
+
+Sicherheits-
+
+überprüfungen
+
+(Funktions-
+
+tüchtigkeit, etwa
+
+von Lenkung,
+
+Bremsen), die einen
+
+integrierten
+
+Bestandteil des
+
+Produktionszyklus
+
+darstellen,
+
+durchgeführt
+
+werden, nach
+
+Durchführung einer
+
+Einzelfallprüfung
+
+gemäß § 3 Abs. 4a;
+
+Lit. a und b sind
+
+nicht anzuwenden, wenn
+
+die besonderen
+
+Voraussetzungen der
+
+lit. c vorliegen.
 
 ____________________________________________________________________
 
