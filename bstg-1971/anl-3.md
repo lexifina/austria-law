@@ -884,9 +884,11 @@ Staatsgrenze am Plöckenpaß
 
 --------------------------------------------------------------------
 
-B 111 Gailtal Straße Arnoldstein (A 2) - Hermagor - Kötschach -
+B 111 Gailtal Straße Arnoldstein (B 83) - Arnoldstein (A 2) -
 
-Maria Luggau - Strassen (B 100)
+Hermagor - Kötschach - Maria Luggau -
+
+Strassen (B 100)
 
 --------------------------------------------------------------------
 
