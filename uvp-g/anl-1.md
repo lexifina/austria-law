@@ -1800,7 +1800,9 @@ ____________________________________________________________________
 
 Z 37 Gewinnung von
 
-Mineralien durch
+mineralischen
+
+Rohstoffen durch
 
 Baggerung in einem
 
