@@ -1,4 +1,4 @@
-## 4. Schulbehörden des Bundes.
+## 5. Schulbehörden des Bundes.
 
 Artikel81a. (1) Die Verwaltung des Bundes auf dem Gebiete des Schulwesens und auf dem Gebiete des Erziehungswesens in den Angelegenheiten der Schülerheime ist vom zuständigen Bundesminister und - soweit es sich nicht um das Hochschul- und Kunstakademiewesen sowie um das land- und forstwirtschaftliche Schulwesen und das land- und forstwirtschaftliche Erziehungswesen in den Angelegenheiten der Schülerheime handelt - von den dem zuständigen Bundesminister unterstehenden Schulbehörden des Bundes zu besorgen. Zur Führung von Verzeichnissen der Schulpflichtigen können im übertragenen Wirkungsbereich des Bundes die Gemeinden herangezogen werden.
 
