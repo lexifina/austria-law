@@ -86,4 +86,50 @@ Gebiet (Luft)
 
 ____________________________________________________________________
 
+E Siedlungsgebiet in oder nahe Siedlungsgebieten.
+
+Als Nahebereich eines
+
+Siedlungsgebietes gilt ein Umkreis
+
+von 300 m um das Vorhaben, in dem
+
+Grundstücke wie folgt festgelegt
+
+oder ausgewiesen sind:
+
+1. Bauland, in dem Wohnbauten
+
+errichtet werden dürfen (ausgenommen
+
+reine Gewerbe-, Betriebs- oder
+
+Industriegebiete, Einzelgehöfte oder
+
+Einzelbauten),
+
+2. Gebiete für
+
+Kinderbetreuungseinrichtungen,
+
+Kinderspielplätze, Schulen oder
+
+ähnliche Einrichtungen,
+
+Krankenhäuser, Kuranstalten,
+
+Seniorenheime, Friedhöfe, Kirchen
+
+und gleichwertige Einrichtungen
+
+anerkannter Religionsgemeinschaften,
+
+Parkanlagen, Campingplätze und
+
+Freibeckenbäder, Garten- und
+
+Kleingartensiedlungen.
+
+____________________________________________________________________
+
 *1) Gebiete, die wegen ihrer charakteristischen Geländeformen oder ihrer Tier- und Pflanzenwelt überregionale Bedeutung haben.
