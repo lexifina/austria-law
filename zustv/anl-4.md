@@ -28,12 +28,6 @@ bestimmt
 
 --------------------------------------------------------------------
 
-21 zur Verwendung für die entgeltliche
-
-Personenbeförderung bestimmt
-
---------------------------------------------------------------------
-
 22 zur Verwendung für die gewerbsmäßige Vermietung ohne
 
 Beistellung eines Lenkers gemäß § 103 Abs. 1 lit. c
@@ -50,6 +44,10 @@ Z 22 der GewO 1973 bestimmt
 
 --------------------------------------------------------------------
 
+25 zur Verwendung im Rahmen des Taxigewerbes bestimmt
+
+--------------------------------------------------------------------
+
 26 zur Verwendung von Möbeltransporten bestimmt (§ 106
 
 Abs. 8)
@@ -57,6 +55,22 @@ Abs. 8)
 --------------------------------------------------------------------
 
 27 zur Verwendung als Schulfahrzeug gemäß § 112 Abs. 3
+
+bestimmt
+
+--------------------------------------------------------------------
+
+28 zur Verwendung im Rahmen des Schaustellergewerbes
+
+bestimmt
+
+--------------------------------------------------------------------
+
+29 zur Verwendung für die entgeltliche
+
+Personenbeförderung im Rahmen des Ausflugswagen-,
+
+Stadtrundfahrten-, Mietwagen-, oder Gästewagengewerbes
 
 bestimmt
 
