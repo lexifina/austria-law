@@ -1,6 +1,6 @@
 Anlage 5
 
-(§ 84a Abs. 2, § 84b Z 3 und 5)
+(§ 84a Abs. 2, § 84b Z 3 und 5, § 84c Abs. 2)
 
 Stoffliste zum Abschnitt 8a betreffend die Beherrschung der Gefahren
 
@@ -31,6 +31,8 @@ Einleitung
 Teil 1
 
 Namentlich genannte Stoffe und Zubereitungen
+
+Fällt ein in Teil 1 genannter Stoff oder eine in Teil 1 genannte Gruppe von Stoffen auch unter eine oder mehrere Kategorien von in Teil 2 genannten Stoffen, so sind die in Teil 1 festgelegten Mengenschwellen anzuwenden.
 
 ____________________________________________________________________
 

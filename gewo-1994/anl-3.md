@@ -1,14 +1,14 @@
 Anlage 3
 
-(§ 77a Abs. 1, 3, 4, 5, 6 und 9,
+(§ 77a Abs. 1, 3, 4 und 5, § 81a,
 
-§ 81a, § 81b Abs. 1 und 3,
+§ 81b Abs. 1 und 3, § 81c,
 
-§ 81c, § 81d, § 334 Z 9,
-
-§ 359b Abs. 1 letzter Satz)
+§ 81d, § 359b Abs. 1 letzter Satz)
 
 IPPC-Betriebsanlagen
+
+Die im Folgenden genannten Schwellenwerte beziehen sich allgemein auf die Produktionskapazitäten oder Leistungen. Werden mehrere Tätigkeiten derselben Kategorie in ein- und derselben Betriebsanlage durchgeführt, so sind die Kapazitäten dieser Tätigkeiten zusammenzurechnen.
 
 ____________________________________________________________________
 
