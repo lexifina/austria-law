@@ -1,1 +1,0 @@
-Art. 131a. Gegen die Ausübung unmittelbarer behördlicher Befehls- und Zwangsgewalt gegen eine bestimmte Person kann diese Person Beschwerde erheben, wenn sie durch die betreffende Maßnahme in ihren Rechten verletzt zu sein behauptet.
