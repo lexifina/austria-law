@@ -54,11 +54,7 @@ societa per azioni, societa in accomandita per azioni, societa a responsabilita 
 
 osakeyhtiö/aktiebolag, osuuskunta/andelslag, säästöpankki/sparbank and vakuutusyhtiö/försäktingsbolag;
 
-  - o) die Gesellschaften norwegischen Rechts mit der Bezeichnung:
-
-aksjeselskap;
-
-  - p) die Gesellschaften schwedischen Rechts mit der Bezeichnung:
+  - o) die Gesellschaften schwedischen Rechts mit der Bezeichnung:
 
 aktiebolag, bankaktiebolag, försäkringsaktiebolag.
 
