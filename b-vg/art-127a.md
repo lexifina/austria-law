@@ -6,9 +6,9 @@ Artikel 127a. (1) Der Kontrolle durch den Rechnungshof unterliegt die Gebarung d
 
 (4) Der Rechnungshof ist befugt, die Gebarung öffentlich-rechtlicher Körperschaften mit Mitteln einer Gemeinde mit mindestens 20.000 Einwohnern zu überprüfen.
 
-(5) Das Ergebnis seiner Überprüfung hat der Rechnungshof dem Bürgermeister zur Vorlage an den Gemeinderat und zur allfälligen Abgabe einer Äußerung mitzuteilen, die binnen drei Wochen zu erstatten ist. Nach Ablauf dieser Frist übermittelt der Rechnungshof das Prüfungsergebnis samt einer allenfalls abgegebenen Äußerung der Landesregierung, die die Vorlage dem Landtag mitteilt. Der Bürgermeister hat die auf Grund des Prüfungsergebnisses getroffenen Maßnahmen innerhalb von drei Monaten dem Rechnungshof mitzuteilen.
+(5) Der Rechnungshof gibt das Ergebnis seiner Überprüfung dem Bürgermeister bekannt. Der Bürgermeister hat hiezu Stellung zu nehmen und die auf Grund des Prüfungsergebnisses getroffenen Maßnahmen innerhalb von drei Monaten dem Rechnungshof mitzuteilen. Der Rechnungshof hat das Ergebnis seiner Gebarungsüberprüfung samt einer allenfalls abgegebenen Äußerung des Bürgermeisters der Landesregierung und der Bundesregierung mitzuteilen.
 
-(6) Der Rechnungshof hat das Ergebnis seiner Gebarungsüberprüfung auch der Bundesregierung mitzuteilen.
+(6) Der Rechnungshof erstattet dem Gemeinderat über seine Tätigkeit im vorausgegangenen Jahr, soweit sie sich auf die betreffende Gemeinde bezieht, spätestens bis 31. Dezember Bericht. Er hat jeden Bericht gleichzeitig mit der Vorlage an den Gemeinderat auch der Landesregierung sowie der Bundesregierung mitzuteilen. Die Berichte des Rechnungshofes sind nach Vorlage an den Gemeinderat zu veröffentlichen.
 
 (7) Der Rechnungshof hat auf begründetes Ersuchen der zuständigen Landesregierung auch die Gebarung von Gemeinden mit weniger als 20.000 Einwohnern fallweise zu überprüfen und das Ergebnis dieser Überprüfung der Landesregierung mitzuteilen. Die Absätze 1 und 3 dieses Artikels finden Anwendung.
 
