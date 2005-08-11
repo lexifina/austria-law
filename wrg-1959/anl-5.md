@@ -1,87 +1,437 @@
-### Anhang E
+Anhang E
 
-## Kriterien für die Herleitung von Umweltqualitätsnormen gemäß
+Liste der Schadstoffe, prioritären Stoffe sowie prioritären
 
-§ 30a Abs. 2
+gefährlichen Stoffe gemäß § 30a Abs. 3
 
-Bei der Herleitung von Umweltqualitätsnormen für synthetische und nicht-synthetische Schadstoffe sind folgende Kriterien zu beachten (Richtlinie 2000/60/EG, Anhang V, 1.2.6):
+Abschnitt I
 
-Es können Umweltqualitätsnormen für Wasser, Sedimente oder Biota festgelegt werden.
+Nichterschöpfendes Verzeichnis der wichtigsten Schadstoffe gemäß
 
-Wenn dies möglich ist, sollten für die unten genannten Taxa, die für den betreffenden Wasserkörpertyp von Belang sind, wie auch für alle anderen aquatischen Taxa, für die Daten verfügbar sind, sowohl akute als auch chronische Daten beschafft werden. Der Grundbestand an Taxa umfasst
+Anhang VIII der Richtlinie 2000/60/EG
 
-- - Algen und/oder Makrophyten,
+____________________________________________________________________
 
-- - Daphnien oder Organismen, die für salzhaltiges Wasser repräsentativ sind,
+1. Organohalogenverbindungen und Stoffe, die im Wasser derartige
 
-- - Fische.
+Verbindungen bilden können
 
-Die Umweltqualitätsnorm ist in Form der maximalen jahresbezogenen Durchschnittskonzentration nach folgendem Verfahren festzulegen:
+____________________________________________________________________
 
-- i) Es sind geeignete Sicherheitsfaktoren festzulegen, die in jedem Einzelfall mit der Art und Qualität der verfügbaren Daten und den Leitlinien in Teil II Abschnitt 3.3.1 des Technischen Leitfadens zu der Richtlinie der Kommission 93/67/EWG über die Bewertung des Risikos von neuen notifizierten Stoffen und der Verordnung der Kommission (EG) Nr. 1488/94 über die Bewertung des von Altstoffen ausgehenden Risikos und den Sicherheitsfaktoren in der folgenden Tabelle kohärent sind.
+2. Organische Phosphorverbindungen
 
-_____________________________________________________________
+____________________________________________________________________
 
-Sicherheitsfaktor
+3. Organische Zinnverbindungen
 
-_____________________________________________________________
+____________________________________________________________________
 
-Zumindest jeweils eine akute L(E)C50 von
+4. Stoffe und Zubereitungen oder deren Abbauprodukte, deren
 
-drei trophischen Ebenen des
+karzinogene oder mutagene Eigenschaften bzw. steroidogene,
 
-Grundbestandes 1 000
+thyreoide, reproduktive oder andere Funktionen des endokrinen
 
-_____________________________________________________________
+Systems beeinträchtigende Eigenschaften im oder durch das
 
-Eine chronische NOEC (von Fischen oder
+Wasser erwiesen sind
 
-Daphnien oder einen Organismus, der für
+____________________________________________________________________
 
-salzhaltiges Wasser repräsentativ ist) 100
+5. Persistente Kohlenwasserstoffe sowie persistente und
 
-_____________________________________________________________
+bioakkumulierende organische toxische Stoffe
 
-Zwei chronische NOECs von Arten, die
+____________________________________________________________________
 
-zwei trophische Ebenen darstellen
+6. Cyanide
 
-(Fische und/oder Daphnien oder ein
+____________________________________________________________________
 
-Organismus, der für salzhaltiges Wasser
+7. Metalle und Metallverbindungen
 
-repräsentativ ist, und/oder Algen) 50
+____________________________________________________________________
 
-_____________________________________________________________
+8. Arsen und Arsenverbindungen
 
-Chronische NOECs von mindestens drei
+____________________________________________________________________
 
-Arten (in der Regel Fische, Daphnien
+9. Biozide und Pflanzenschutzmittel
 
-oder ein Organismus, der für
+____________________________________________________________________
 
-salzhaltiges Wasser repräsentativ ist,
+10. Schwebstoffe
 
-und Algen), die drei trophische Ebenen
+____________________________________________________________________
 
-darstellen 10
+11. Stoffe, die zur Eutrophierung beitragen (insbesondere Nitrate
 
-_____________________________________________________________
+und Phosphate)
 
-Andere Fälle einschließlich von
+____________________________________________________________________
 
-Felddaten oder Modell-Ökosystemen, die
+12. Stoffe mit nachhaltigem Einfluss auf die Sauerstoffbilanz (und
 
-es erlauben, präzisere
+die anhand von Parametern wie BSB, CSB usw. gemessen werden
 
-Sicherheitsfaktoren zu berechnen und
+können)
 
-zugrunde zu legen Einzelfallbewertung
+____________________________________________________________________
 
-_____________________________________________________________
+Abschnitt II
 
-- ii) Falls Daten zur Persistenz und Bioakkumulation vorliegen, sollten diese bei der Ableitung des endgültigen Wertes für die Umweltqualitätsnorm herangezogen werden.
+Liste der prioritären Stoffe gemäß Anhang X der Richtlinie 60/2000/EG (festgelegt durch die Entscheidung des Europäischen Parlaments und des Rates Nr. 2455/2001/EG, ABL.
 
-iii) Die derart abgeleitete Norm sollte mit allen aus Felduntersuchungen vorliegenden Ergebnissen verglichen werden. Falls Anomalien festgestellt werden, sollte die Ableitung überprüft werden, damit ein präziserer Sicherheitsfaktor berechnet werden kann.
+NR. L 331 vom 15. Dezember 2001, S 1)
 
-- iv) Die abgeleitete Norm sollte einer Evaluierung durch Gutachter und einer öffentlichen Anhörung unterworfen werden, damit unter anderem ein präziserer Sicherheitsfaktor berechnet werden kann.
+__________________________________________________________
+
+Nr. CAS-Nr. Bezeichnung
+
+__________________________________________________________
+
+1 15972-60-8 Alachlor
+
+__________________________________________________________
+
+2 120-12-7 Anthracen
+
+__________________________________________________________
+
+3 1912-24-9 Atrazin
+
+__________________________________________________________
+
+4 71-43-2 Benzol
+
+__________________________________________________________
+
+5 nicht anwendbar Bromierte Diphenylether
+
+__________________________________________________________
+
+6 7440-43-9 Cadmium und Cadmiumverbindungen
+
+__________________________________________________________
+
+7 85535-84-8 C tief 10-13-Chloralkane
+
+__________________________________________________________
+
+8 470-90-6 Chlorfenvinphos
+
+__________________________________________________________
+
+9 2921-88-2 Chlorpyrifos
+
+__________________________________________________________
+
+10 107-06-2 1,2-Dichlorethan
+
+__________________________________________________________
+
+11 75-09-2 Dichlormethan
+
+__________________________________________________________
+
+12 117-81-7 Di(2-ethylhexyl)phthalat
+
+__________________________________________________________
+
+13 330-54-1 Diuron
+
+__________________________________________________________
+
+14 115-29-7 Endosulfan
+
+__________________________________________________________
+
+959-98-8 (alpha-Endosulfan)
+
+__________________________________________________________
+
+15 206-44-0 Fluoranthen
+
+__________________________________________________________
+
+16 118-74-1 Hexachlorbenzol
+
+__________________________________________________________
+
+17 87-68-3 Hexachlorbutadien
+
+__________________________________________________________
+
+18 608-73-1 Hexachlorcyclohexan
+
+__________________________________________________________
+
+58-89-9 (gamma-Isomer, Lindan)
+
+__________________________________________________________
+
+19 34123-59-6 Isoproturon
+
+__________________________________________________________
+
+20 7439-92-1 Blei und Bleiverbindungen
+
+__________________________________________________________
+
+21 7439-97-6 Quecksilber und
+
+Quecksilberverbindungen
+
+__________________________________________________________
+
+22 91-20-3 Naphthalin
+
+__________________________________________________________
+
+23 7440-02-0 Nickel und Nickelverbindungen
+
+__________________________________________________________
+
+24 25154-52-3 Nonylphenole
+
+__________________________________________________________
+
+104-40-5 (p-Nonylphenol)
+
+__________________________________________________________
+
+25 1806-26-4 Octylphenole
+
+__________________________________________________________
+
+140-66-9 (para-tert-Octylphenol)
+
+__________________________________________________________
+
+26 608-93-5 Pentachlorbenzol
+
+__________________________________________________________
+
+27 87-86-5 Pentachlorphenol
+
+__________________________________________________________
+
+28 nicht anwendbar Polyzyklische aromatische
+
+Kohlenwasserstoffe
+
+__________________________________________________________
+
+50-32-8 (Benzo(a)pyren)
+
+__________________________________________________________
+
+205-99-2 (Benzo(b)fluoranthen)
+
+__________________________________________________________
+
+191-24-2 (Benzo(ghi)perylen)
+
+__________________________________________________________
+
+207-08-9 (Benzo(k)fluoranthen)
+
+__________________________________________________________
+
+193-39-5 (Indeno[1,2,3-cd]pyren)
+
+__________________________________________________________
+
+29 122-34-9 Simazin
+
+__________________________________________________________
+
+30 688-73-3 Tributylzinnverbindungen
+
+__________________________________________________________
+
+36643-28-4 (Tributylzinn-Kation)
+
+__________________________________________________________
+
+31 12002-48-1 Trichlorbenzole
+
+__________________________________________________________
+
+120-82-1 (1,2,4-Trichlorbenzol)
+
+__________________________________________________________
+
+32 67-66-3 Trichlormethan (Chloroform)
+
+__________________________________________________________
+
+33 1582-09-8 Trifluralin
+
+__________________________________________________________
+
+Abschnitt III
+
+Liste der [möglichen *1)] prioritären gefährlichen Stoffe gemäß
+
+Anhang X der Richtlinie 60/2000/EG (festgelegt durch die
+
+Entscheidung des Europäischen Parlaments und des Rates
+
+Nr. 2455/2001/EG, ABL. NR. L 331 vom 15. Dezember 2001, S 1)
+
+__________________________________________________________
+
+Nr. CAS-Nr. Bezeichnung
+
+__________________________________________________________
+
+2 120-12-7 Anthracen *1)
+
+__________________________________________________________
+
+3 1912-24-9 Atrazin *1)
+
+__________________________________________________________
+
+5 32534-81-9 Pentabromierte Diphenylether
+
+__________________________________________________________
+
+6 7440-43-9 Cadmium und Cadmiumverbindungen
+
+__________________________________________________________
+
+7 85535-84-8 C tief 10-13-Chloralkane
+
+__________________________________________________________
+
+9 2921-88-2 Chlorpyrifos*1)
+
+__________________________________________________________
+
+12 117-81-7 Di(2-ethylhexyl)phthalat
+
+__________________________________________________________
+
+13 330-54-1 Diuron *1)
+
+__________________________________________________________
+
+14 115-29-7 Endosulfan *1)
+
+__________________________________________________________
+
+959-98-8 (alpha-Endosulfan)
+
+__________________________________________________________
+
+16 118-74-1 Hexachlorbenzol
+
+__________________________________________________________
+
+17 87-68-3 Hexachlorbutadien
+
+__________________________________________________________
+
+18 608-73-1 Hexachlorcyclohexan
+
+__________________________________________________________
+
+58-89-9 (gamma-Isomer, Lindan)
+
+__________________________________________________________
+
+19 34123-59-6 Isoproturon *1)
+
+__________________________________________________________
+
+20 7439-92-1 Blei und Bleiverbindungen *1)
+
+__________________________________________________________
+
+21 7439-97-6 Quecksilber und
+
+Quecksilberverbindungen
+
+__________________________________________________________
+
+22 91-20-3 Naphthalin *1)
+
+__________________________________________________________
+
+24 25154-52-3 Nonylphenole
+
+__________________________________________________________
+
+104-40-5 (p-Nonylphenol)
+
+__________________________________________________________
+
+25 1806-26-4 Octylphenole *1)
+
+__________________________________________________________
+
+140-66-9 (para-tert-Octylphenol)
+
+__________________________________________________________
+
+26 608-93-5 Pentachlorbenzol
+
+__________________________________________________________
+
+27 87-86-5 Pentachlorphenol *1)
+
+__________________________________________________________
+
+28 nicht anwendbar Polyzyklische aromatische
+
+Kohlenwasserstoffe
+
+__________________________________________________________
+
+50-32-8 (Benzo(a)pyren)
+
+__________________________________________________________
+
+205-99-2 (Benzo(b)fluoranthen)
+
+__________________________________________________________
+
+191-24-2 (Benzo(ghi)perylen)
+
+__________________________________________________________
+
+207-08-9 (Benzo(k)fluoranthen)
+
+__________________________________________________________
+
+193-39-5 (Indeno[1,2,3-cd]pyren)
+
+__________________________________________________________
+
+29 122-34-9 Simazin *1)
+
+__________________________________________________________
+
+30 688-73-3 Tributylzinnverbindungen
+
+__________________________________________________________
+
+36643-28-4 (Tributylzinn-Kation)
+
+__________________________________________________________
+
+31 12002-48-1 Trichlorbenzole *1)
+
+__________________________________________________________
+
+120-82-1 (1,2,4-Trichlorbenzol)
+
+__________________________________________________________
+
+33 1582-09-8 Trifluralin *1)
+
+__________________________________________________________
+
+*1) Die markierten Stoffe wurden als mögliche prioritäre gefährliche Stoffe ausgewiesen. Ihre definitive Einstufung wurde auf Gemeinschaftsebene noch nicht festgelegt.
