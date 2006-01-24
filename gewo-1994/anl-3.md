@@ -1,12 +1,14 @@
 Anlage 3
 
-(§ 77a Abs. 1, 3, 4 und 5, § 81a,
+(§ 2 Abs. 16, § 77a Abs. 1, 3, 4
 
-§ 81b Abs. 1, 3 und 4, § 81c,
+und 5, § 81a, § 81b Abs. 1, 3 und
 
-§ 81d, § 356a Abs. 1, § 356b Abs. 7,
+4, § 81c, § 81d, § 356a Abs. 1, 356b
 
-§ 359b Abs. 1 letzter Satz)
+Abs. 7, § 359b Abs. 1 letzter
+
+Satz, § 376 Z 48 Abs. 16)
 
 IPPC-Betriebsanlagen
 

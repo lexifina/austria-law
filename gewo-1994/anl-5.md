@@ -1,12 +1,10 @@
-Anlage 5
+### Anlage 5
 
-(§ 84a Abs. 2, § 84b Z 3 und 5, § 84c Abs. 2, § 84f Abs. 3)
+### (§ 2 Abs. 16, § 84a Abs. 2, § 84b Z 3 und 5, § 84c Abs. 2, § 84f Abs. 3)
 
-Stoffliste zum Abschnitt 8a betreffend die Beherrschung der Gefahren
+## Stoffliste zum Abschnitt 8a betreffend die Beherrschung der Gefahren bei schweren Unfällen
 
-bei schweren Unfällen
-
-Einleitung
+## Einleitung
 
 - 1. Die für die Anwendung der §§ 84a bis 84d zu berücksichtigenden Mengen sind Höchstmengen, die nach den technischen Möglichkeiten eines Betriebes vorhanden sein können; die in Teil 1 und 2 genannten Mengen gelten pro Betrieb. Mengen bis zu 2% der jeweiligen Mengenschwelle können unbeschadet des § 84c Abs. 5 unberücksichtigt bleiben, wenn sie auf Grund ihrer Verwahrung oder des Abstandes zu anderen Betriebsteilen nicht als Auslöser eines schweren Unfalles in Frage kommen.
 
@@ -36,243 +34,85 @@ Einleitung
 
 - 8) Im Sinne dieser Anlage wird als Gas jeder Stoff bezeichnet, der bei einer Temperatur von 20°C einen absoluten Dampfdruck von mindestens 101,3 kPa hat. Im Sinne dieser Anlage wird als Flüssigkeit jeder Stoff bezeichnet, der nicht als Gas definiert ist und sich bei einer Temperatur von 20°C und einem Standarddruck von 101,3 kPa nicht im festen Zustand befindet.
 
-Teil 1
+## Teil 1
 
-Namentlich genannte Stoffe und Zubereitungen
+## Namentlich genannte Stoffe und Zubereitungen
 
 Fällt ein in Teil 1 genannter Stoff oder eine in Teil 1 genannte Zubereitung oder eine in Teil 1 genannte Gruppe von Stoffen oder Zubereitungen auch unter eine oder mehrere Kategorien von in Teil 2 genannten Stoffen oder Zubereitungen, so sind die in Teil 1 festgelegten Mengenschwellen anzuwenden.
 
-____________________________________________________________________
+| Ziffer | Spalte 1 | Spalte 2 | Spalte 3 |
 
-Ziffer Spalte 1 Spalte 2 Spalte 3
+| Bezeichnung der gefährlichen Stoffe und Zubereitungen | Mengenschwelle in Tonnen für die Verwendung von |
 
-Bezeichnung der gefährlichen _____________________________
+| § 84a Abs. 2 Z 1 | § 84a Abs. 2 Z 2 |
 
-Stoffe und Zubereitungen Mengenschwelle in Tonnen für
+| 1.1 | Ammoniumnitrat | 5000 | 10000 |
 
-die Verwendung
+| 1.2 | Ammoniumnitrat | 1250 | 5000 |
 
-von
+| 1.3 | Ammoniumnitrat | 350 | 2500 |
 
-_____________________________
+| 1.4 | Ammoniumnitrat | 10 | 50 |
 
-§ 84a Abs. 2 § 84a Abs. 2
+| 2.1 | Kaliumnitrat | 5000 | 10000 |
 
-Z 1 Z 2
+| 2.2 | Kaliumnitrat | 1250 | 5000 |
 
-____________________________________________________________________
+| 3 | Diarsenpentaoxid, Arsensäure oder ihre Salze | 1 | 2 |
 
-1.1 Ammoniumnitrat 5000 10000
+| 4 | Arsentrioxid (Diarsentrioxid), arsenige Säure und ihre Salze | 0,1 | 0,1 |
 
-____________________________________________________________________
+| 5 | Brom | 20 | 20 |
 
-1.2 Ammoniumnitrat 1250 5000
+| 6 | Chlor | 10 | 25 |
 
-____________________________________________________________________
+| 7 | Atemgängige Nickelverbindungen (Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickel-disulfid, Dinickeltrioxid) | 1 | 1 |
 
-1.3 Ammoniumnitrat 350 2500
+| 8 | Ethylenimin (Aziridin) | 10 | 20 |
 
-____________________________________________________________________
+| 9 | Fluor | 10 | 20 |
 
-1.4 Ammoniumnitrat 10 50
+| 10 | Formaldehyd (C ≥ 90%) | 5 | 50 |
 
-____________________________________________________________________
+| 11 | Wasserstoff | 5 | 50 |
 
-2.1 Kaliumnitrat 5000 10000
+| 12 | Chlorwasserstoff (verflüssigtes Gas) | 25 | 250 |
 
-____________________________________________________________________
+| 13 | Bleialkyle | 5 | 50 |
 
-2.2 Kaliumnitrat 1250 5000
+| 14 | Hochentzündliche verflüssigte Gase und Erdgas | 50 | 200 |
 
-____________________________________________________________________
+| 15 | Acetylen (Ethin) | 5 | 50 |
 
-3 Diarsenpentaoxid, Arsensäure 1 2
+| 16 | Ethylenoxid | 5 | 50 |
 
-oder ihre Salze
+| 17 | Propylenoxid | 5 | 50 |
 
-____________________________________________________________________
+| 18 | Methanol | 200 | 200 |
 
-4 Arsentrioxid 0,1 0,1
+| 19 | 4,4-Methylen-bis (2-chloroanilin) und seine Salze, pulverförmig | 0,01 | 0,01 |
 
-(Diarsentrioxid), arsenige
+| 20 | Methylisocyanat | 0,15 | 0,15 |
 
-Säure und ihre Salze
+| 21 | Sauerstoff | 200 | 200 |
 
-____________________________________________________________________
+| 22 | Toluylendiisocyanat | 10 | 100 |
 
-5 Brom 20 20
+| 23 | Carbonylchlorid (Phosgen) | 0,3 | 0,75 |
 
-____________________________________________________________________
+| 24 | Arsentrihydrid (Arsin) | 0,2 | 1 |
 
-6 Chlor 10 25
+| 25 | Phosphortrihydrid (Phosphin) | 0,2 | 1 |
 
-____________________________________________________________________
+| 26 | Schwefeldichlorid | 1 | 1 |
 
-7 Atemgängige 1 1
+| 27 | Schwefeltrioxid | 15 | 75 |
 
-Nickelverbindungen
+| 28 | Polychlordibenzofurane und Poly-chlordibenzodioxine, in TCDD-Äquivalenten berechnet | 0,001 | 0,001 |
 
-(Nickelmonoxid, Nickeldioxid,
+| 29 | Folgende kanzerogene Stoffe mit einer Konzentration von über 5 Gew-%: 4-Aminobiphenyl oder seine Salze, Benzotrichlorid, Benzidin oder seine Salze, Bis(chlormethyl)ether, Chlormethylmethylether, 1,2-Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethylcarbamoylchlorid, 1,2-Dibrom-3-hlorpropan, 1,2-Dimethylhydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2-Naphthylamin oder seine Salze, 4-Nitrodiphenyl und 1,3-ropansulton | 0,5 | 2 |
 
-Nickelsulfid,
-
-Trinickel-disulfid,
-
-Dinickeltrioxid)
-
-____________________________________________________________________
-
-8 Ethylenimin (Aziridin) 10 20
-
-____________________________________________________________________
-
-9 Fluor 10 20
-
-____________________________________________________________________
-
-10 Formaldehyd (C = 90%) 5 50
-
-____________________________________________________________________
-
-11 Wasserstoff 5 50
-
-____________________________________________________________________
-
-12 Chlorwasserstoff 25 250
-
-(verflüssigtes Gas)
-
-____________________________________________________________________
-
-13 Bleialkyle 5 50
-
-____________________________________________________________________
-
-14 Hochentzündliche 50 200
-
-verflüssigte Gase und Erdgas
-
-____________________________________________________________________
-
-15 Acetylen (Ethin) 5 50
-
-____________________________________________________________________
-
-16 Ethylenoxid 5 50
-
-____________________________________________________________________
-
-17 Propylenoxid 5 50
-
-____________________________________________________________________
-
-18 Methanol 200 200
-
-____________________________________________________________________
-
-19 4,4-Methylen-bis 0,01 0,01
-
-(2-chloroanilin) und seine
-
-Salze, pulverförmig
-
-____________________________________________________________________
-
-20 Methylisocyanat 0,15 0,15
-
-____________________________________________________________________
-
-21 Sauerstoff 200 200
-
-____________________________________________________________________
-
-22 Toluylendiisocyanat 10 100
-
-____________________________________________________________________
-
-23 Carbonylchlorid (Phosgen) 0,3 0,75
-
-____________________________________________________________________
-
-24 Arsentrihydrid (Arsin) 0,2 1
-
-____________________________________________________________________
-
-25 Phosphortrihydrid (Phosphin) 0,2 1
-
-____________________________________________________________________
-
-26 Schwefeldichlorid 1 1
-
-____________________________________________________________________
-
-27 Schwefeltrioxid 15 75
-
-____________________________________________________________________
-
-28 Polychlordibenzofurane und 0,001 0,001
-
-Poly-chlordibenzodioxine, in
-
-TCDD-Äquivalenten berechnet
-
-____________________________________________________________________
-
-29 Folgende kanzerogene Stoffe 0,5 2
-
-mit einer Konzentration von
-
-über 5 Gew-%:
-
-4-Aminobiphenyl oder seine
-
-Salze, Benzotrichlorid,
-
-Benzidin oder seine Salze,
-
-Bis(chlormethyl)ether,
-
-Chlormethylmethylether,
-
-1,2-Dibromethan,
-
-Diethylsulfat,
-
-Dimethylsulfat,
-
-Dimethylcarbamoylchlorid,
-
-1,2-Dibrom-3-hlorpropan,
-
-1,2-Dimethylhydrazin,
-
-Dimethylnitrosamin,
-
-Hexamethylphosphortriamid,
-
-Hydrazin, 2-Naphthylamin oder
-
-seine Salze, 4-Nitrodiphenyl
-
-und 1,3-ropansulton
-
-____________________________________________________________________
-
-30 Erdölerzeugnisse: 2500 25000
-
-a) Ottokraftstoffe und
-
-Naphtha
-
-b) Kerosin einschließlich
-
-Turbinenkraftstoffe
-
-c) Gasöle (Dieselkraftstoffe,
-
-Heizöle und Gasölmischströme)
-
-____________________________________________________________________
+| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha b) Kerosin einschließlich Turbinenkraftstoffe c) Gasöle (Dieselkraftstoffe, Heizöle und Gasölmischströme) | 2500 | 25000 |
 
 Anmerkungen zu Teil 1:
 
@@ -338,109 +178,41 @@ zu Z 30 lit.c:
 
 Brennbare Flüssigkeiten gemäß UN/ADR-Nr. 1202.
 
-Teil 2
+## Teil 2
 
-Kategorien von namentlich nicht in Teil 1 genannten Stoffen und
+## Kategorien von namentlich nicht in Teil 1 genannten Stoffen und Zubereitungen
 
-Zubereitungen
+| Ziffer | Spalte 1 | Spalte 2 | Spalte 3 |
 
-____________________________________________________________________
+| Kategorie der gefährlichen Stoffe und Zubereitungen | Mengenschwelle in Tonnen für die Verwendung von |
 
-Ziffer Spalte 1 Spalte 2 Spalte 3
+| § 84a Abs. 2 Z 1 | § 84a Abs. 2 Z 2 |
 
-____________________________________________________________
+| 1 | Sehr giftig | 5 | 20 |
 
-Kategorie der gefährlichen Mengenschwelle in Tonnen für
+| 2 | Giftig | 50 | 200 |
 
-Stoffe und Zubereitungen die Verwendung von
+| 3 | Brandfördernd | 50 | 200 |
 
-_____________________________
+| 4 | Explosionsgefährlich (UN/ADR – Klasse 1.4) | 50 | 200 |
 
-§ 84a Abs. 2 § 84a Abs. 2
+| 5 | Explosionsgefährlich (UN/ADR – Klassen 1.1,1.2, 1.3.,1.5,1.6 oder Gefahrenhinweise R 2 oder R 3) | 10 | 50 |
 
-Z 1 Z 2
+| 6 | Entzündlich | 5000 | 50000 |
 
-____________________________________________________________________
+| 7 | Leichtentzündlich | 50 | 200 |
 
-1 Sehr giftig 5 20
+| 8 | Leichtentzündlich | 5000 | 50000 |
 
-____________________________________________________________________
+| 9 | Hochentzündliche Gase und Flüssigkeiten | 10 | 50 |
 
-2 Giftig 50 200
+| 10 | Umweltgefährlich (Gefahrenhinweis R 50 oder R 50/53) | 100 | 200 |
 
-____________________________________________________________________
+| 11 | Umweltgefährlich (Gefahrenhinweis R 51/53) | 200 | 500 |
 
-3 Brandfördernd 50 200
+| 12 | Stoffe mit Einstufung mit Gefahrenhinweis R 14 oder R 14/15, soweit nicht in 1 - 11 erfasst | 100 | 500 |
 
-____________________________________________________________________
-
-4 Explosionsgefährlich 50 200
-
-(UN/ADR – Klasse 1.4)
-
-____________________________________________________________________
-
-5 Explosionsgefährlich 10 50
-
-(UN/ADR – Klassen 1.1,1.2,
-
-1.3.,1.5,1.6 oder
-
-Gefahrenhinweise R 2 oder
-
-R 3)
-
-____________________________________________________________________
-
-6 Entzündlich 5000 50000
-
-____________________________________________________________________
-
-7 Leichtentzündlich 50 200
-
-____________________________________________________________________
-
-8 Leichtentzündlich 5000 50000
-
-____________________________________________________________________
-
-9 Hochentzündliche Gase und 10 50
-
-Flüssigkeiten
-
-____________________________________________________________________
-
-10 Umweltgefährlich 100 200
-
-(Gefahrenhinweis R 50 oder
-
-R 50/53)
-
-____________________________________________________________________
-
-11 Umweltgefährlich 200 500
-
-(Gefahrenhinweis R 51/53)
-
-____________________________________________________________________
-
-12 Stoffe mit Einstufung mit 100 500
-
-Gefahrenhinweis R 14 oder
-
-R 14/15, soweit nicht in
-
-1 - 11 erfasst
-
-____________________________________________________________________
-
-13 Stoffe mit der 50 200
-
-Einstufung R 29, soweit nicht
-
-in 1 - 11 erfasst
-
-____________________________________________________________________
+| 13 | Stoffe mit der Einstufung R 29, soweit nicht in 1 - 11 erfasst | 50 | 200 |
 
 Anmerkungen zu Teil 2:
 
