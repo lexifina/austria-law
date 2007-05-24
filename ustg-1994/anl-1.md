@@ -2,7 +2,7 @@
 
 ### (zu § 10 Abs. 2 und § 24 UStG)
 
-### Verzeichnis der dem Steuersatz von 10% unterliegenden Gegenstände
+## Verzeichnis der dem Steuersatz von 10% unterliegenden Gegenstände
 
 - 1. Lebende Tiere der Positionen 0101 bis 0105 der Kombinierten Nomenklatur.
 
@@ -50,15 +50,15 @@
 
   - c) Hopfen (Blütenzapfen), frisch oder getrocknet, auch gemahlen, sonst zerkleinert oder in Form von Pellets; Lupulin (Position 1210 der Kombinierten Nomenklatur),
 
-  - d) Minze, Lindenblüten und -blätter, Salbei, Kamillenblüten, Holunderblüten und anderer Haustee (Unterposition 1211 90 75 sowie aus Unterposition 1211 90 95 der Kombinierten Nomenklatur),
+  - d) Minze, Lindenblüten und -blätter, Salbei, Kamillenblüten, Holunderblüten und anderer Haustee (aus Unterposition 1211 90 85 der Kombinierten Nomenklatur),
 
-  - e) Rosmarin, Beifuß, Basilikum und Dost in Aufmachungen für den Einzelverkauf als Gewürz (aus Unterpositionen 1211 90 70 und 1211 90 95 der Kombinierten Nomenklatur),
+  - e) Rosmarin, Beifuß, Basilikum und Dost in Aufmachungen für den Einzelverkauf als Gewürz (aus Unterpositionen 1211 90 85 der Kombinierten Nomenklatur),
 
-  - f) Johannisbrot, Zuckerrüben, frisch oder getrocknet, auch gemahlen; Steine und Kerne von Früchten sowie andere pflanzliche Waren (einschließlich nicht gerösteter Zichorienwurzeln der Varietät Cichorium intybus sativum) der hauptsächlich zur menschlichen Ernährung verwendeten Art, anderweit weder genannt noch inbegriffen (Unterpositionen 1212 10, 1212 30, 1212 91 und 1212 99 der Kombinierten Nomenklatur),
+  - f) Johannisbrot, Zuckerrüben, frisch, gekühlt, gefroren oder getrocknet, auch gemahlen; Steine und Kerne von Früchten sowie andere pflanzliche Waren (einschließlich nichtgerösteter Zichorienwurzeln der Varietät Cichorium intybus sativum) der hauptsächlich zur menschlichen Ernährung verwendeten Art, anderweit weder genannt noch inbegriffen (Unterpositionen 1212 91 20, 1212 91 80, 1212 99 30, 1212 99 41, 1212 99 49 und 1212 99 70 der Kombinierten Nomenklatur),
 
-  - g) Stroh und Spreu von Getreide, roh, auch gehäckselt, gemahlen, gepreßt oder in Form von Pellets (Position 1213 der Kombinierten Nomenklatur),
+  - g) Stroh und Spreu von Getreide, roh, auch gehäckselt, gemahlen, gepresst oder in Form von Pellets (Position 1213 der Kombinierten Nomenklatur),
 
-  - h) Kohlrüben, Runkelrüben, Wurzeln zu Futterzwecken, Heu, Luzerne, Klee, Esparsette, Futterkohl, Lupinen, Wicken und ähnliches pflanzliches Futter, auch in Form von Pellets (Position 1214 der Kombinierten Nomenklatur).
+  - h) Steckrüben, Futterrüben, Wurzeln zu Futterzwecken, Heu, Luzerne, Klee, Esparsette, Futterkohl, Lupinen, Wicken und ähnliches Futter, auch in Form von Pellets (Position 1214 der Kombinierten Nomenklatur).
 
 - 21. Pektinstoffe, Pektinate und Pektate (Unterposition 1302 20 der Kombinierten Nomenklatur).
 
@@ -92,7 +92,7 @@
 
 - 29. Wasser (aus Unterposition 2201 90 00 der Kombinierten Nomenklatur).
 
-- 30. Milch und Milcherzeugnisse der Positionen 0401, 0402 und 0404, mit Zusatz von Früchten oder Kakao (aus Unterpositionen 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur).
+- 30. Milch und Milcherzeugnisse der Positionen 0401, 0402, 0403 und 0404, mit Zusätzen, ausgenommen Zusätze von Kaffee, Tee oder Mate und von Auszügen, Essenzen und Konzentraten aus Kaffee, Tee oder Mate und von Zubereitungen auf der Grundlage dieser Waren (aus Unterpositionen 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur).
 
 - 31. Speiseessig (Position 2209 der Kombinierten Nomenklatur).
 

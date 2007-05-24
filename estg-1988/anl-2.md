@@ -1,133 +1,131 @@
 ### Anlage 2
 
-(zu § 94 a Abs. 1 Z 3 EStG)
+### (zu § 94a Abs. 1 Z 3 EStG)
 
-Gesellschaften im Sinne des Artikels 2 der Richtlinie 90/435/EWG über das gemeinsame Steuersystem der Mutter- und Tochtergesellschaften verschiedener Mitgliedstaaten (ABl. Nr. L 225 vom 20.8.1990 S. 6), idF der Richtlinie 2003/123/EG (ABl. Nr. L 7 vom 13.1.2004 S. 41) und der Akte über die Bedingungen des Beitritts der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik (ABl. Nr. L 236 vom 23.9.2003 S. 33)
+Gesellschaften im Sinne des Artikels 2 der Richtlinie 90/435/EWG über das gemeinsame Steuersystem der Mutter- und Tochtergesellschaften verschiedener Mitgliedstaaten (ABl. Nr. L 225 vom 20.08.1990 S. 6), in der Fassung der Richtlinie 2006/98/EG (ABl. Nr. L 363 vom 20.12.2006 S. 129), der Akte über die Bedingungen des Beitritts der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik (ABl. Nr. L 236 vom 23.09.2003 S. 33) und der Akte über die Bedingungen des Beitritts der Bulgarischen Republik und Rumäniens (ABl. Nr. L 157 vom 21.06.2005 S. 203).
 
 Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellschaft, die
 
 - 1. eine der angeführten Formen aufweist:
 
-  - a) die Gesellschaften belgischen Rechts mit der Bezeichnung „societe anonyme“/„naamloze vennootschap“, „societe en commandite par actions“/„commanditaire vennootschap op aandelen“, „societe privee a responsabilite limitee“/„besloten vennootschap met beperkte aansprakelijkheid“, „societe cooperative a responsabilite limitee“/„coöperatieve vennootschap met beperkte aansprakelijkheid“, „societe cooperative a responsabilite illimitee“/„coöperatieve vennootschap met onbeperkte aansprakelijkheid“, „societe en nom collectif“/„vennootschap onder firma“, „societe en commandite simple“/„gewone commanditaire vennootschap“, öffentliche Unternehmen, die eine der genannten Rechtsformen angenommen haben, und andere nach belgischem Recht gegründete Gesellschaften, die der belgischen Körperschaftsteuer unterliegen;
+  - a) Die gemäß der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) und der Richtlinie 2001/86/EG des Rates vom 8. Oktober 2001 zur Ergänzung des Statuts der Europäischen Gesellschaft hinsichtlich der Beteiligung der Arbeitnehmer gegründeten Gesellschaften sowie die gemäß der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) und gemäß der Richtlinie 2003/72/EG des Rates vom 22. Juli 2003 zur Ergänzung des Statuts der Europäischen Genossenschaft hinsichtlich der Beteiligung der Arbeitnehmer gegründeten Genossenschaften;
 
-  - b) die Gesellschaften dänischen Rechts mit der Bezeichnung „aktieselskab“ und „anpartsselskab“. Weitere nach dem Körperschaftsteuergesetz steuerpflichtige Gesellschaften, soweit ihr steuerbarer Gewinn nach den allgemeinen steuerrechtlichen Bestimmungen für die „aktieselskab“ ermittelt und besteuert wird;
+  - b) Gesellschaften belgischen Rechts mit der Bezeichnung „société anonyme“/„naamloze vennootschap“, „société en commandite par actions“/„commanditaire vennootschap op aandelen“, „société privée à responsabilité limitée“/„besloten vennootschap met beperkte aansprakelijkheid“, „société coopérative à responsabilité limitée“/„coöperatieve vennootschap met beperkte aansprakelijkheid“, „société coopérative à responsabilité illimitée“/„coöperatieve vennootschap met onbeperkte aansprakelijkheid“, „société en nom collectif“/„vennootschap onder firma“, „société en commandite simple“/„gewone commanditaire vennootschap“, öffentliche Unternehmen, die eine der genannten Rechtsformen angenommen haben, und andere nach belgischem Recht gegründete Gesellschaften, die der belgischen Körperschaftsteuer unterliegen;
 
-  - c) die Gesellschaften deutschen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Kommanditgesellschaft auf Aktien“, „Gesellschaft mit beschränkter Haftung“, „Versicherungsverein auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaft“ und „Betrieb gewerblicher Art von juristischen Personen des öffentlichen Rechts“, und andere nach deutschem Recht gegründete Gesellschaften, die der deutschen Körperschaftsteuer unterliegen;
+  - c) Gesellschaften bulgarischen Rechts mit der Bezeichnung „събирателнот дрүҗество“, „қомандитното дрүҗество“, дрүҗеството с ограничена отговорност“, „акционерното дрүҗество“ „қомандитното дрүҗество с акции“, неперсонифицирано дрүҗество“ кооперации“, „кооперативни съюзи“, „държавни предприятия“, die nach bulgarischem Recht gegründet wurden und gewerbliche Tätigkeiten ausüben;
 
-  - d) die Gesellschaften griechischen Rechts mit der Bezeichnung „(Anm.: Zeichen nicht darstellbar)“, „(Anm.: Zeichen nicht darstellbar)“ und andere nach griechischem Recht gegründete Gesellschaften, die der griechischen Körperschaftsteuer unterliegen;
+  - d) Gesellschaften tschechischen Rechts mit der Bezeichnung „akciová společnost“, „společnost s ručením omezeným“;
 
-  - e) die Gesellschaften spanischen Rechts mit der Bezeichnung „sociedad anonima“, „sociedad comanditaria por acciones“, „sociedad de responsabilidad limitada“, die öffentlich-rechtlichen Körperschaften, deren Tätigkeit unter das Privatrecht fällt. Andere nach spanischem Recht gegründete Körperschaften, die der spanischen Körperschaftsteuer („impuestos sobre sociedades“) unterliegen;
+  - e) Gesellschaften dänischen Rechts mit der Bezeichnung „aktieselskab“ oder „anpartsselskab“. Weitere nach dem Körperschaftsteuergesetz steuerpflichtige Gesellschaften, soweit ihr steuerbarer Gewinn nach den allgemeinen steuerrechtlichen Bestimmungen für die „aktieselskaber“ ermittelt und besteuert wird;
 
-  - f) die Gesellschaften französischen Rechts mit der Bezeichnung „societe anonyme“, „societe en commandite par actions“ und „societe a responsabilite limitee“ sowie die „societes par actions simplifiees“, „societes d`assurances mutuelles“, „caisses d`epargne et de prevoyance“, „societes civiles“, die automatisch der Körperschaftsteuer unterliegen, „cooperatives“, „unions de cooperatives“, die öffentlichen Industrie- und Handelsbetriebe und -unternehmen und andere nach französischem Recht gegründete Gesellschaften, die der französischen Körperschaftsteuer unterliegen;
+  - f) Gesellschaften deutschen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Kommanditgesellschaft auf Aktien“, „Gesellschaft mit beschränkter Haftung“, „Versicherungsverein auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaft“, „Betrieb gewerblicher Art von juristischen Personen des öffentlichen Rechts“, und andere nach deutschem Recht gegründete Gesellschaften, die der deutschen Körperschaftsteuer unterliegen;
 
-  - g) nach irischem Recht gegründete oder eingetragene Gesellschaften, gemäß dem Industrial and Provident Societies Act eingetragene Körperschaften, gemäß dem Building Societies Acts gegründete „building societies“ und „trustee savings banks” im Sinne des Trustee Savings Banks Act von 1989;
+  - g) Gesellschaften estnischen Rechts mit der Bezeichnung „täisühing“, „usaldusühing“, „osaühing“, „aktsiaselts“, „tulundusühistu“;
 
-  - h) die Gesellschaften italienischen Rechts mit der Bezeichnung „societa per azioni”, „societa in accomandita per azioni”, „societa a responsabilita limitata“, „societa cooperative”, „societa di mutua assicurazione” sowie öffentliche und private Körperschaften, deren Tätigkeit ganz oder überwiegend handelsgewerblicher Art ist;
+  - h) Gesellschaften griechischen Rechts mit der Bezeichnung „ανώνυμη εταιρεία“, „εταιρεία περισμένης ευθύνης (Ε.Π.Ε.)“ und andere nach griechischem Recht gegründete Gesellschaften, die der griechischen Körperschaftsteuer unterliegen;
 
-  - i) die Gesellschaften luxemburgischen Rechts mit der Bezeichnung „societe anonyme“, „societe en commandite par actions“, „societe a responsabilite limitee“, „societe cooperative”, „societe cooperative organisee comme une societe anonyme”, „association d’assurances mutuelles“, „association d’epargne-pension” sowie „entreprise de nature commerciale, industrielle ou miniere de l’Etat, des communes, des syndicats de communes, des etablissements publics et des autres personnes morales de droit public“ sowie andere nach luxemburgischem Recht gegründete Gesellschaften, die der luxemburgischen Körperschaftsteuer unterliegen;
+  - i) Gesellschaften spanischen Rechts mit der Bezeichnung „sociedad anónima“, „sociedad comanditaria por acciones“, „sociedad de responsabilidad limitada“, die öffentlich-rechtlichen Körperschaften, deren Tätigkeit unter das Privatrecht fällt. Andere nach spanischem Recht gegründete Körperschaften, die der spanischen Körperschaftsteuer („impuesto sobre sociedades“) unterliegen;
 
-  - j) die Gesellschaften niederländischen Rechts mit der Bezeichnung „naamloze vennootschap“, „besloten vennootschap met beperkte aansprakelijkheid“, „open commanditaire vennootschap“, „coöperatie“, „onderlinge waarborgmaatschappij“, „fonds voor gemene rekening“, „vereniging op coöperatieve grondslag“, „vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt“ und andere nach niederländischem Recht gegründete Gesellschaften, die der niederländischen Körperschaftsteuer unterliegen;
+  - j) Gesellschaften französischen Rechts mit der Bezeichnung „société anonyme“, „société en commandite par actions“, „société à responsabilité limitée“, „sociétés par actions simplifiées“, „sociétés d'assurance mutuelle“, „caisses d'épargne et de prévoyance“, „sociétés civiles“, die automatisch der Körperschaftsteuer unterliegen, „coopératives“, „unions de coopératives“, die öffentlichen Industrie- und Handelsbetriebe und unternehmen und andere nach französischem Recht gegründete Gesellschaften, die der französischen Körperschaftsteuer unterliegen;
 
-  - k) die Gesellschaften österreichischen Rechts mit der Bezeichnung „Aktiengesellschaft“ und „Gesellschaft mit beschränkter Haftung“ sowie „Versicherungsvereine auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaften“, „Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts“ und „Sparkassen“ sowie andere nach österreichischem Recht gegründete Gesellschaften, die der österreichischen Körperschaftsteuer unterliegen;
+  - k) nach irischem Recht gegründete oder eingetragene Gesellschaften, gemäß dem Industrial and Provident Societies Act eingetragene Körperschaften, gemäß dem Building Societies Act gegründete „building societies“ und „trustee savings banks“ im Sinne des Trustee Savings Banks Act von 1989;
 
-  - l) die nach portugiesischem Recht gegründeten Handelsgesellschaften oder zivilrechtlichen Handelsgesellschaften, Genossenschaften und öffentlichen Unternehmen;
+  - l) Gesellschaften italienischen Rechts mit der Bezeichnung „società per azioni“, „società in accomandita per azioni“, „società a responsibilità limitata“, „società cooperative“, „società di mutua assicurazione“ sowie öffentliche und private Körperschaften, deren Tätigkeit ganz oder überwiegend handelsgewerblicher Art ist;
 
-  - m) die Gesellschaften finnischen Rechts mit der Bezeichnung „osakeyhtiö/aktiebolag“, „osuuskunta/andelslag“, „säästöpankki/sparbank“ und „vakuutusyhtiö/försäkringsbolag“;
+  - m) Gesellschaften zyprischen Rechts mit der Bezeichnung „εταιρείες“ im Sinne der Einkommensteuergesetze;
 
-  - n) die Gesellschaften schwedischen Rechts mit der Bezeichnung „aktiebolag“, „försäkringsaktiebolag“, „ekonomiska föreningar“, „sparbank“ und „ömsesidiga försäkringsbolag“;
+  - n) Gesellschaften lettischen Rechts mit der Bezeichnung „akciju sabiedrība“, „sabiedrība ar ierobežotu atbildību“;
 
-  - o) die nach dem Recht des Vereinigten Königreichs gegründeten Gesellschaften;
+  - o) Gesellschaften litauischen Rechts;
 
-  - p) die gemäß der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) und der Richtlinie 2001/86/EG des Rates vom 8. Oktober 2001 zur Ergänzung des Statuts der Europäischen Gesellschaft hinsichtlich der Beteiligung der Arbeitnehmer gegründeten Gesellschaften sowie die gemäß der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) und gemäß der Richtlinie 2003/72/EG des Rates vom 22. Juli 2003 zur Ergänzung des Statuts der Europäischen Genossenschaft hinsichtlich der Beteiligung der Arbeitnehmer gegründeten Genossenschaften;
+  - p) Gesellschaften luxemburgischen Rechts mit der Bezeichnung „société anonyme“, „société en commandite par actions“, „société à responsabilité limitée“, „société coopérative“, „société coopérative organisée comme une société anonyme“, „association d'assurances mutuelles“, „association d'épargne-pension“, „entreprise de nature commerciale, industrielle ou minière de l'Etat, des communes, des syndicats de communes, des établissements publics et des autres personnes morales de droit public“ sowie andere nach luxemburgischem Recht gegründete Gesellschaften, die der luxemburgischen Körperschaftsteuer unterliegen;
 
-  - q) Gesellschaften tschechischen Rechts mit der Bezeichnung:
+  - q) Gesellschaften ungarischen Rechts mit der Bezeichnung „közkereseti társaság“, „betéti társaság“, „közös vállalat“, „korlátolt felelősségű társaság“, „részvénytársaság“, „egyesülés“, „szövetkezet“;
 
-„akciova spolecnost“, „spolecnost s rucenim omezenym“;
+  - r) Gesellschaften maltesischen Rechts mit der Bezeichnung „Kumpaniji ta' Responsabilita' Limitata“, „Soċjetajiet en commandite li l-kapital tagħhom maqsum f'azzjonijiet“;
 
-  - r) Gesellschaften estnischen Rechts mit der Bezeichnung „täisühing“, „usaldusühing“, „osaühing“, „aktsiaselts“, „tulundusühistu“;
+  - s) Gesellschaften niederländischen Rechts mit der Bezeichnung „naamloze vennnootschap“, „besloten vennootschap met beperkte aansprakelijkheid“, „Open commanditaire vennootschap“, „Coöperatie“, „onderlinge waarborgmaatschappij“, „Fonds voor gemene rekening“, „vereniging op coöperatieve grondslag“, „vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt“ und andere nach niederländischem Recht gegründete Gesellschaften, die der niederländischen Körperschaftsteuer unterliegen;
 
-  - s) Gesellschaften zyprischen Rechts mit der Bezeichnung:
+  - t) Gesellschaften österreichischen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Gesellschaft mit beschränkter Haftung“, „Versicherungsvereine auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaften“, „Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts“, „Sparkassen“ und andere nach österreichischem Recht gegründete Gesellschaften, die der österreichischen Körperschaftsteuer unterliegen;
 
-„(Anm.: Zeichen nicht darstellbar)“ im Sinne der Einkommensteuergrenze;
+  - u) Gesellschaften polnischen Rechts mit der Bezeichnung: „spółka akcyjna“, „spółka z ograniczoną odpowiedzialnością“;
 
-  - t) Gesellschaften lettischen Rechts mit der Bezeichnung:
+  - v) die nach portugiesischem Recht gegründeten Handelsgesellschaften oder zivilrechtlichen Handelsgesellschaften, Genossenschaften und öffentlichen Unternehmen;
 
-„akciju sabiedriba“, „sabiedriba ar ierobezotu atbildibu“;
+  - w) Gesellschaften rumänischen Rechts mit der Bezeichnung „societăţi pe acţiuni“, „societăţi în comandită pe acţiuni“, „societăţi cu răspundere limitată“;
 
-  - u) Gesellschaften litauischen Rechts;
+  - x) Gesellschaften slowenischen Rechts mit der Bezeichnung „delniška družba“, „komanditna družba“, „družba z omejeno odgovornostjo“;
 
-  - v) Gesellschaften ungarischen Rechts mit der Bezeichnung:
+  - y) Gesellschaften slowakischen Rechts mit der Bezeichnung „akciová spoločnosť“, „spoločnosť s ručením obmedzeným“, „komanditná spoločnosť“;
 
-„közkereseti tarsasag“, „beteti tarsasag“, „közös vallalat“, „korlatolt felelössegü tarsasag“, „reszvenytarsasag“, „egyesüles“, „szövetkezet“;
+  - z) Gesellschaften finnischen Rechts mit der Bezeichnung „osakeyhtiö“/„aktiebolag“, „osuuskunta“/„andelslag“, „säästöpankki“/„sparbank“ and „vakuutusyhtiö“/„försäkringsbolag“;
 
-  - w) Gesellschaften maltesischen Rechts mit der Bezeichnung:
+  - aa) Gesellschaften schwedischen Rechts mit der Bezeichnung „aktiebolag“, „försäkringsaktiebolag“, „ekonomiska föreningar“, „sparbanker“, „ömsesidiga försäkringsbolag“;
 
-„Kumpaniji ta’ Reponsabilita’ Limitata“, „Socjetajiet en commandite li l-kapital taghhom maqsum f’ azzjonijiet”;
+  - ab) nach dem Recht des Vereinigten Königreichs gegründete Gesellschaften.
 
-  - x) Gesellschaften polnischen Rechts mit der Bezeichnung:
-
-„spolka akcyjna“, „spolka Z orgraniczona odpowiedzialnoscia“;
-
-  - y) Gesellschaften slowenischen Rechts mit der Bezeichnung:
-
-„delniska druzba“, „komanditna druzba“, „druzba Z omejeno odgovornostjo“;
-
-  - z) Gesellschaften slowakischen Rechts mit der Bezeichnung:
-
-„akciova spolocnost“, „spolocnost’ s rucenim obmedzenym“, „komanditna spolocnost”.
-
-- 2. die nach dem Steuerrecht eines Mitgliedstaats in Bezug auf den steuerlichen Wohnsitz als in diesem Staat ansässig und auf Grund eines mit einem dritten Staat geschlossenen Doppelbesteuerungsabkommens in Bezug auf den steuerlichen Wohnsitz nicht als außerhalb der Gemeinschaft ansässig betrachtet wird und
+- 2. nach dem Steuerrecht eines Mitgliedstaates in Bezug auf den steuerlichen Wohnsitz als in diesem Staat ansässig und auf Grund eines mit einem dritten Staat geschlossenen Doppelbesteuerungsabkommens in Bezug auf den steuerlichen Wohnsitz nicht als außerhalb der Gemeinschaft ansässig betrachtet wird und
 
 - 3. ohne Wahlmöglichkeit einer der nachstehenden Steuern
 
-  - - vennootschapsbelasting/impot des societes in Belgien,
+  - — vennootschapsbelasting/impôt des sociétés in Belgien,
 
-  - - selskabsskat in Dänemark,
+  - — selskabsskat in Dänemark,
 
-  - - Körperschaftsteuer in Deutschland,
+  - — Körperschaftsteuer in Deutschland,
 
-  - - Yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
+  - — φόρος εισοδήματος νομικών προσώπων κερδοσκοπικού χαρακτήρα in Griechenland
 
-  - - (Anm.: Zeichen nicht darstellbar) in Griechenland,
+  - — impuesto sobre sociedades in Spanien,
 
-  - - impuesto sobre sociedades in Spanien,
+  - — impôt sur les sociétés in Frankreich,
 
-  - - impot sur les societes in Frankreich,
+  - — corporation tax in Irland,
 
-  - - corporation tax in Irland,
+  - — imposta sul reddito delle persone giuridiche in Italien,
 
-  - - imposta sul reddito delle persone giuridiche in Italien,
+  - — impôt sur le revenu des collectivités in Luxemburg,
 
-  - - impot sur le revenu des collectivites in Luxemburg,
+  - — vennootschapsbelasting in den Niederlanden,
 
-  - - vennootschapsbelasting in den Niederlanden,
+  - — imposto sobre o rendimento das pessoas colectivas in Portugal,
 
-  - - Körperschaftsteuer in Österreich,
+  - — corporation tax im Vereinigten Königreich,
 
-  - - imposto sobre o rendimento das pessoas colectivas in Portugal,
+  - — Körperschaftsteuer in Österreich,
 
-  - - Statlig inkomstskatt in Schweden
+  - — yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
 
-  - - corporation tax im Vereinigten Königreich,
+  - — statlig inkomstskatt in Schweden,
 
-  - - Dan Z prijmu pravnickych in der Tschechischen Republik,
+  - — Daň z příjmů právnických in der Tschechischen Republik,
 
-  - - Tulumaks in Estland,
+  - — Tulumaks in Estland,
 
-  - - (Anm.: Zeichen nicht darstellbar) in Zypern,
+  - — φόρος Εισοδήματος in Zypern,
 
-  - - uznemumu ienäkuma nodoklis in Lettland,
+  - — uzņēmumu ienākuma nodoklis in Lettland,
 
-  - - Pelno mokestis in Litauen,
+  - — Pelno mokestis in Litauen,
 
-  - - Tarsasagi ado, osztalekado in Ungarn,
+  - — Társasági adó, osztalékadó in Ungarn,
 
-  - - Taxxa fuq l-income in Malta,
+  - — Taxxa fuq l-income in Malta,
 
-  - - Podatek dochodowy od osob prawnych in Polen;
+  - — Podatek dochodowy od osób prawnych in Polen,
 
-  - - Davek od dobicka pravnih oseb in Slowenien,
+  - — Davek od dobička pravnih oseb in Slowenien,
 
-  - - dan Z prijmov pravnickych osob in der Slowakei
+  - — daň z príjmov právnických osôb in der Slowakei,
+
+  - — корлоративен данък in Bulgarien,
+
+  - — impozit pe profit in Rumänien
 
 oder irgendeiner Steuer, die eine dieser Steuern ersetzt, unterliegt, ohne davon befreit zu sein.
+
+Z 1 lit. a ist anzuwenden: soweit es sich um eine SE handelt, auf Ausschüttungen, die nach dem 7. Oktober 2004 erfolgen, soweit es sich um eine SCE handelt, auf Ausschüttungen, die nach dem 17. August 2006 erfolgen.
+
+Z 1 lit. d, g, m, n, o, q, r, u, x und y sind auf Ausschüttungen anzuwenden, die nach dem 30. April 2004 erfolgen.
+
+Z 1 lit. c und w sind auf Ausschüttungen anzuwenden, die nach dem 31. Dezember 2006 erfolgen.
