@@ -90,6 +90,12 @@ bestimmt
 
 --------------------------------------------------------------------
 
+32 zur Verwendung im Bereich der Kanalwartung und
+
+–revision gemäß § 27 Abs. 5 StVO 1960 bestimmt
+
+--------------------------------------------------------------------
+
 40 zur Verwendung für den Pannenhilfsdienst bestimmt
 
 --------------------------------------------------------------------

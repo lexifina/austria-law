@@ -1,7 +1,5 @@
 ### Anlage 6
 
-(§ 13)
+### (§ 13)
 
-(Anm.: Anlage (Muster) nicht darstellbar, es wird daher auf die
-
-gedruckte Form des BGBl. verwiesen.)
+(Anm.: Anlage (Muster) wird nicht dargestellt, es wird auf die Kundmachung der BGBl. II Nr. 464/1998 und BGBl. II Nr. 131/2007im RIS verwiesen.)
