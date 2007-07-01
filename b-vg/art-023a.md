@@ -1,13 +1,11 @@
-B. Europäische Union
+### B. Europäische Union
 
-Artikel 23a. (1) Die von der Republik Österreich zu entsendenden Abgeordneten zum Europäischen Parlament werden auf Grund des gleichen, unmittelbaren, geheimen und persönlichen Wahlrechtes der Männer und Frauen, die spätestens mit Ablauf des Tages der Wahl das 18. Lebensjahr vollendet haben und am Stichtag der Wahl entweder die österreichische Staatsbürgerschaft besitzen und nicht nach Maßgabe des Rechts der Europäischen Union vom Wahlrecht ausgeschlossen sind oder die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen und nach Maßgabe des Rechts der Europäischen Union wahlberechtigt sind, nach den Grundsätzen der Verhältniswahl gewählt. Durch Bundesgesetz werden die näheren Bestimmungen über das Wahlverfahren getroffen.
+Artikel 23a. (1) Die Mitglieder des Europäischen Parlaments werden in Österreich auf Grund des gleichen, unmittelbaren, persönlichen, freien und geheimen Wahlrechtes der Männer und Frauen, die am Wahltag das 16. Lebensjahr vollendet haben und am Stichtag der Wahl entweder die österreichische Staatsbürgerschaft besitzen und nicht nach Maßgabe des Rechts der Europäischen Union vom Wahlrecht ausgeschlossen sind oder die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen und nach Maßgabe des Rechts der Europäischen Union wahlberechtigt sind, nach den Grundsätzen der Verhältniswahl gewählt.
 
 (2) Das Bundesgebiet bildet für die Wahlen zum Europäischen Parlament einen einheitlichen Wahlkörper.
 
-(3) Wählbar sind alle Männer und Frauen, die spätestens mit Ablauf des Tages der Wahl das 19. Lebensjahr vollendet haben und am Stichtag der Wahl entweder die österreichische Staatsbürgerschaft besitzen und nicht nach Maßgabe des Rechts der Europäischen Union vom Wahlrecht ausgeschlossen sind oder die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen und nach Maßgabe des Rechts der Europäischen Union wahlberechtigt sind.
+(3) Wählbar sind die in Österreich zum Europäischen Parlament Wahlberechtigten, die am Wahltag das 18. Lebensjahr vollendet haben.
 
-(4) Die Ausschließung vom Wahlrecht und von der Wählbarkeit kann nur die Folge einer gerichtlichen Verurteilung sein.
+(4) Art. 26 Abs. 5 bis 8 ist sinngemäß anzuwenden.
 
-(5) Die Durchführung und Leitung der Wahlen zum Europäischen Parlament obliegt den für die Wahlen zum Nationalrat bestellten Wahlbehörden. Die Stimmabgabe im Ausland muss nicht vor einer Wahlbehörde erfolgen. Die näheren Bestimmungen über die Stimmabgabe im Ausland können vom Nationalrat nur in Anwesenheit von mindestens der Hälfte der Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen beschlossen werden.
-
-(6) Die Wählerverzeichnisse werden von den Gemeinden im übertragenen Wirkungsbereich angelegt.
+(Anm.: Abs. 5 und 6 aufgehoben durch BGBl. I Nr. 27/2007)
