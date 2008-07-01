@@ -1,0 +1,3 @@
+Artikel 144a. (1) Der Verfassungsgerichtshof erkennt über Beschwerden gegen Entscheidungen des Asylgerichtshofes, soweit der Beschwerdeführer durch die Entscheidung in einem verfassungsgesetzlich gewährleisteten Recht oder wegen Anwendung einer gesetzwidrigen Verordnung, einer gesetzwidrigen Kundmachung über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), eines verfassungswidrigen Gesetzes oder eines rechtswidrigen Staatsvertrages in seinen Rechten verletzt zu sein behauptet.
+
+(2) Der Verfassungsgerichtshof kann die Behandlung einer Beschwerde bis zur Verhandlung durch Beschluss ablehnen, wenn sie keine hinreichende Aussicht auf Erfolg hat oder von der Entscheidung die Klärung einer verfassungsrechtlichen Frage nicht zu erwarten ist.

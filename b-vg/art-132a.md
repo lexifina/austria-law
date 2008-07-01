@@ -1,0 +1,3 @@
+Artikel 132a. (1) Der Verwaltungsgerichtshof erkennt über Grundsatzentscheidungen des Asylgerichtshofes gemäß Art. 129e Abs. 1 zweiter Satz.
+
+(2) Grundsatzentscheidungen des Asylgerichtshofes sind dem Verwaltungsgerichtshof von Amts wegen vorzulegen. Der Verwaltungsgerichtshof hat immer in der Sache selbst zu entscheiden. Ergeht die Entscheidung des Verwaltungsgerichtshofes nicht innerhalb von sechs Monaten nach Vorlage der Grundsatzentscheidung, so gilt die Grundsatzentscheidung als bestätigt; durch Bundesgesetz kann für besondere Fälle eine Hemmung oder Unterbrechung dieser Frist vorgesehen werden. Grundsatzentscheidungen sind für alle Fälle verbindlich, in denen die mit ihnen beantwortete Rechtsfrage zu lösen ist.
