@@ -1,3 +1,3 @@
 ### Anlage 2
 
-(Anm.: Anlage (Formular) wird nicht dargestellt)
+(Anm.: Anlage ist als PDF dokumentiert.)

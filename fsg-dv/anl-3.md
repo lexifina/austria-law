@@ -1,3 +1,3 @@
 ### Anlage 3
 
-(Anm.: Anlage (Muster) nicht darstellbar)
+(Anm.: Anlage ist als PDF dokumentiert.)
