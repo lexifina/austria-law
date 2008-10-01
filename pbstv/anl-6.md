@@ -1,3447 +1,1677 @@
-Anlage 6
+### Anlage 6
 
-(§ 10)
+### (§ 10)
 
-Katalog der Prüfpositionen
+### Katalog der Prüfpositionen
 
-Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in
+Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der Mängelgruppen. Die Entscheidung
 
-eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die
+über die Zuordnung in die entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung des für die
 
-entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung
+Prüfung oder Begutachtung verantwortlichen Organs.
 
-des für die Prüfung oder Begutachtung verantwortlichen Organs.
+### Prüfnummern
 
-Prüfnummern
+### für Formblatt
 
-für Formblatt
+| Anlage 1 |
 
-Anlage 1 Anlage 2 Position Zuordnung Anmerkung
+| Position | Zuordnung | Anmerkung |
 
-1 Mängelgruppe Bremsanlage
+| 1 | Mängelgruppe Bremsanlage |
 
-1.1 Mechanischer Zustand und
+| 1.1 | Mechanischer Zustand und Funktion |
 
-Funktion
+| 1.1.1 | Bremspedallagerung (Betätigungseinrichtung) |
 
-1.1.1 603) Bremspedallagerung
+| schwergängig (bei ausreichender Wirkung der Betriebsbremse) | LM, SM |
 
-621) (Betätigungseinrichtung)
+| Lagerung ausgeschlagen | SM |
 
-schwergängig (bei
+| Verschleiß/Spiel zu groß | SM |
 
-ausreichender Wirkung der
+| Lagerung gebrochen | GV |
 
-Betriebsbremse) LM,SM
+| 1.1.2 | Zustand des Pedals und Weg der Bremsbetätigungseinrichtung |
 
-Lagerung ausgeschlagen SM
+| Weg übermäßig oder keine ausreichende Wegreserve vorhanden | LM, SM, GV |
 
-Verschleiß/Spiel zu groß SM
+| Freigängigkeit der Bremse beeinträchtigt |
 
-Lagerung gebrochen GV
+| Bremse löst nicht einwandfrei | SM, GV |
 
-1.1.2 603 Zustand des Pedals und
+| Antirutschvorrichtung auf dem Bremspedal fehlt, ist locker oder übermäßig abgenützt | SM |
 
-Weg der Bremsbetätigungs-
+| Bruchgefahr, nicht betätigbar | GV |
 
-einrichtung
+| Bremswirkung kann nicht erreicht werden | GV |
 
-Weg übermäßig oder keine
+| Bremsbetätigungseinrichtung offensichtlich nicht im Originalzustand bzw. abgeändert (außer Genehmigung vorhanden) | GV |
 
-ausreichende Wegreserve
+| 1.1.3 | Vakuumpumpe oder Kompressor und Behälter |
 
-vorhanden SM,GV
+| übermäßige Dauer um Druck/Vakuum für eine ausreichende Bremswirkung aufzubauen | SM |
 
-604 Freigängigkeit der Bremse
+| Luftdruck bzw. Vakuum für mindestens 2 Bremsungen nach Ansprechen der Warneinrichtung unzureichend (auch bei ungenauer Manometeranzeige) | SM |
 
-beeinträchtigt, Bremse
+| bei nicht erreichter Hilfsbremswirkung | GV |
 
-löst nicht einwandfrei SM,GV
+| spürbarer Druckabfall durch Luftaustritt oder hörbarer Luftaustritt | SM, GV |
 
-Antirutschvorrichtung auf
+| Frostschutzeinrichtung nicht funktionstüchtig | SM |
 
-dem Bremspedal fehlt, ist
+| Leitungen unsachgemäß befestigt, deformiert, unsachgemäß repariert oder stark korrodiert | SM |
 
-locker oder übermäßig
+| offensichtliche Änderung des Bremssystems | SM |
 
-abgenützt SM
+| Typenschild fehlt | VM |
 
-Bruchgefahr, nicht
+| Leitungen stark beschädigt, stark korrodiert oder stark undicht | GV |
 
-betätigbar GV
+| 1.1.4 | Druckwarnanzeige, Manometer |
 
-1.1.3 811) Vakuumpumpe oder
+| arbeitet fehlerhaft oder ist schadhaft | LM, SM |
 
-621) Kompressor und Behälter
+| 1.1.5 | Handbremsventil Betätigungseinrichtung |
 
-übermäßige Dauer um
+| gebrochen oder beschädigt übermäßiger Verschleiß | SM |
 
-Druck/Vakuum für eine
+| Ventil arbeitet fehlerhaft | SM |
 
-ausreichende Bremswirkung
+| Betätigungseinrichtung unsicher an Ventilspindel befestigt oder Ventilkörper ungenügend gesichert | SM |
 
-aufzubauen SM
+| Verbindungen locker oder Leckage im System | SM |
 
-Luftdruck bzw. Vakuum für
+| Funktion ungenügend | SM |
 
-mind. 2 Bremsungen nach
+| nicht feststellbar | GV |
 
-Ansprechen der
+| 1.1.6 | Feststellbremse, -bremshebel, -ratsche |
 
-Warneinrichtung
+| Betätigungskraft zu groß | LM |
 
-unzureichend (auch bei
+| Feststellratsche hält nicht ausreichend | SM, GV |
 
-ungenauer
+| übermäßiger Verschleiß an Hebellagerung oder an Ratschenvorrichtung | SM |
 
-Manometeranzeige) SM
+| übermäßiger Hebelweg | SM |
 
-bei nicht ereichter
+| 1.1.7 | Bremsventile |
 
-(Anm.: richtig:
+| (Fußventile, Druckregler, Regelventile usw.) |
 
-erreichter)
+| beschädigt, Luftaustritt | LM, SM, GV |
 
-Hilfsbremswirkung GV
+| Ölaustritt aus System | LM, SM |
 
-spürbarer Druckabfall
+| unsicher befestigt/unsachgemäß montiert | SM |
 
-durch Luftaustritt oder
+| Austritt von Hydraulikbremsflüssigkeit | GV |
 
-hörbarer Luftaustritt SM,GV
+| Funktion mangelhaft | SM, GV |
 
-1.1.4 811 Druckwarnanzeige,
+| 1.1.8 | Kupplungsköpfe für Anhängerbremsen |
 
-Manometer arbeitet
+| Absperrhähne oder selbstabsperrendes Kupplungskopfventil schadhaft | SM |
 
-fehlerhaft oder ist
+| unsicher befestigt/unsachgemäß montiert | SM |
 
-schadhaft SM
+| Leckage | SM |
 
-1.1.5 811 Handbremsventil
+| Schutzklappe für Anhängeranschluss fehlt | SM |
 
-Betätigungseinrichtung
+| 1.1.9 | Energievorratsbehälter, Druckluftbehälter |
 
-gebrochen oder
+| beschädigt, korrodiert, undicht, | LM, SM, GV |
 
-beschädigt, übermäßiger
+| Entwässerungseinrichtung ohne Funktion | SM |
 
-Verschleiß SM
+| unsicher befestigt/unsachgemäß montiert | LM, SM, GV |
 
-Ventil arbeitet
+| Behälterschild/Aufschrift fehlt/unlesbar | SM, VM |
 
-fehlerhaft SM
+| unsachgemäße Reparatur | SM, GV |
 
-Betätigungseinrichtung
+| übermäßig Wasser/Öl in den Behältern | SM |
 
-unsicher an
+| 1.1.10 | Bremskraftverstärker, Hauptbremszylinder (hydraulische Anlagen) |
 
-Ventilspindel befestigt
+| Bremskraftverstärker schadhaft oder ohne Wirkung | SM |
 
-oder Ventilkörper
+| Hauptbremszylinder schadhaft oder undicht | SM, GV |
 
-ungenügend gesichert SM
+| Hauptbremszylinder unsicher befestigt | SM, GV |
 
-Verbindungen locker oder
+| Abdeckung für Ausgleichsbehälter des Hauptbremszylinders fehlt | SM |
 
-Leckage im System SM
+| Warnanzeige für Bremsflüssigkeitsstand arbeitet fehlerhaft | SM |
 
-Funktion ungenügend SM
+| offensichtliche Änderungen an der Bremsanlage | SM |
 
-nicht feststellbar GV
+| Vorratsbehälter unsachgemäß befestigt oder beschädigt | SM |
 
-1.1.6 612 Feststellbremse,
+| 1.1.11 | Bremsleitungen |
 
--bremshebel, -ratsche
+| Ausfall- oder Bruchgefahr | GV |
 
-Feststellratsche hält
+| undichte Leitungen oder Kupplungskopfanschlüsse | SM, GV |
 
-nicht ausreichend SM,GV
+| beschädigt oder korrodiert | LM, SM |
 
-übermäßiger Verschleiß an
+| falsche Verlegung | SM, GV |
 
-Hebellagerung oder an
+| unsachgemäß repariert | SM, GV |
 
-Ratschenvorrichtung SM
+| Prüfanschluss fehlt oder defekt | SM |
 
-übermäßiger Hebelweg
+| 1.1.12 | Bremsschläuche |
 
-infolge falscher
+| Ausfall- oder Bruchgefahr | GV |
 
-Einstellung SM
+| Beschädigung, Scheuerstellen, Bremsschläuche zu kurz, verdreht eingebaut | SM, GV |
 
-1.1.7 Bremsventile (Fußventile,
+| undichte Schläuche oder Anschlüsse | SM, GV |
 
-Druckregler, Regelventile
+| Ausbeulung des Schlauchs unter Druck | GV |
 
-usw.)
+| Porosität | LM, SM, GV |
 
-beschädigt, übermäßiger
+| unsachgemäß repariert | SM, GV |
 
-Luftaustritt SM,GV
+| 1.1.13 | Bremsbeläge, -klötze |
 
-571 übermäßiger Ölaustritt
+| Verschleiß | LM, SM, GV |
 
-aus Kompressor SM
+| verschmutzt (Öl, Fett usw.) | SM, GV |
 
-unsicher
+| falscher Belag, Ausfallsgefahr | SM, GV |
 
-befestigt/unsachgemäß
+| 1.1.14 | Bremstrommeln, Bremsscheiben |
 
-montiert SM
+| Bremsscheibe trägt auf weniger als 90% der Reibfläche | SM |
 
-571 Austritt von Hydraulik-
+| Verschleiß, übermäßige Riefenbildung, Risse, ungenügend gesichert oder gebrochen | LM, SM, GV |
 
-bremsflüssigkeit GV
+| verschmutzt (Öl, Fett usw.) | SM,GV |
 
-Funktion mangelhaft SM,GV
+| Bremsträger locker | GV |
 
-1.1.8 811 Kupplungsköpfe für
+| unrund (über 20%) | SM |
 
-Anhängerbremsen
+| Abänderungen | SM, GV, VM |
 
-Absperrhähne oder
+| 1.1.15 | Bremsseile, -zugstangen, -hebel, -gestänge |
 
-selbstabsperrendes
+| Betätigungskräfte zu groß | LM |
 
-Kupplungskopfventil
+| Seile beschädigt, unsachgemäß verlegt | SM, GV |
 
-schadhaft SM
+| Ausfallgefahr | SM, GV |
 
-unsicher
+| übermäßiger Verschleiß oder übermäßige Korrosion | SM, GV |
 
-befestigt/unsachgemäß
+| Seil- oder Zugstangenverbindung ungenügend gesichert | SM, GV |
 
-montiert SM
+| Seilführung schadhaft | LM, SM |
 
-Leckage SM
+| Ummantelung der Seilhülle gebrochen | LM |
 
-1.1.9 811 Energievorratsbehälter,
+| Beeinträchtigungen der Freigängigkeit der Bremsanlage | SM |
 
-Druckluftbehälter
+| übermäßige Hebel-, Zugstangen- oder Gestängewege infolge falscher Einstellung oder übermäßigen Verschleißes | SM |
 
-beschädigt, korrodiert,
+| Bremswellenlager ausgeschlagen oder schwergängig | SM |
 
-undicht LM,SM,
+| 1.1.16 | Radbremszylinder (einschließlich Federspeicherzylinder) |
 
-GV
+| Entlüftungsschraube defekt | LM |
 
-Entwässerungseinrichtung
+| gerissen oder beschädigt | SM, GV |
 
-ohne Funktion SM
+| undicht | SM, GV |
 
-unsicher
+| unsicher befestigt/unsachgemäß montiert | SM, GV |
 
-befestigt/unsachgemäß
+| übermäßig korrodiert | SM, GV |
 
-montiert LM,SM,
+| übermäßiger Weg des Kolbens oder der Membrane | SM, GV |
 
-GV
+| Staubschutz fehlt oder ist übermäßig beschädigt | SM |
 
-Behälterschild/Aufschrift
+| schwergängig | SM, GV |
 
-fehlt/unlesbar SM,VM
+| Nachstellanzeige außer Funktion | SM |
 
-unsachgemäße Reparatur SM,GV
+| 1.1.17 | Bremskraftregler |
 
-übermäßig Wasser/Öl in
+| Gestänge defekt | SM, GV |
 
-den Behältern SM
+| falsch eingestellt | SM, GV |
 
-1.1.10 621 Bremskraftverstärker,
+| festgefressen, unwirksam | SM, GV |
 
-Hauptbremszylinder
+| fehlt | SM, GV |
 
-(hydraulische Anlagen)
+| undicht | SM, GV |
 
-Bremskraftverstäker
+| ALB / EBS – Schild fehlt | VM |
 
-schadhaft oder ohne
+| 1.1.18 | Automatische Gestängesteller |
 
-Wirkung SM
+| festgefressen oder zu großer Weg infolge übermäßigen Verschleißes oder falscher Einstellung | SM, GV |
 
-Hauptbremszylinder
+| schadhaft | SM |
 
-schadhaft oder undicht SM,GV
+| 1.1.19 | Retarder (soweit vorhanden oder erforderlich) |
 
-Hauptbremszylinder
+| unsichere Verbindungen oder Befestigungen | SM |
 
-unsicher befestigt SM,GV
+| schadhaft | SM |
 
-Bremsflüssigkeitsvorrat
+| 1.1.20 | Auflaufeinrichtung |
 
-unzureichend SM,GV
+| Staubmanschette leicht beschädigt, porös | LM |
 
-Abdeckung für
+| Staubmanschette stark beschädigt oder fehlt | SM |
 
-Ausgleichsbehälter des
+| Führung übermäßiges Spiel | SM |
 
-Hauptbremszylinders fehlt SM
+| Dämpfer/-lagerung schadhaft | SM |
 
-Bremsflüssigkeitswarn-
+| festgefressen | GV |
 
-licht leuchtet oder ist
+| Rückfahrsperre bei Vorwärtsfahrt nicht selbstlösend | SM, GV |
 
-defekt SM
+| Abreißseil schadhaft oder fehlt | SM |
 
-Warnanzeige für
+| Betätigungsweg zu groß | SM |
 
-Bremsflüssigkeitsstand
+| 1.2 | Betriebsbremse Wirkung und Wirksamkeit |
 
-arbeitet fehlerhaft SM
+| 1.2.1 | Wirkung (schrittweise Steigerung bis zur maximalen Bremskraft) |
 
-Bremsflüssigkeit
+| ungenügende Bremskraft an einem oder mehreren Rädern | SM, GV |
 
-offensichtlich
+| Bremskraft an einem Rad beträgt weniger als 80% der größten an einem anderen Rad der selben Achse gemessenen Bremskraft | SM |
 
-verschmutzt SM
+| Bremskraft an einem Rad beträgt weniger als 50% der größten an einem anderen Rad der selben Achse gemessenen Bremskraft | GV |
 
-- Siedepunkt niedriger als
+| (Im Fall der Prüfung auf der Straße für Fahrzeuge, die nicht auf Bremsenprüfständen geprüft werden können: übermäßige Abweichung des Fahrzeugs von der Geraden) |
 
-180° C/Wassergehalt größer
+| Bremskraft nicht abstufbar | SM, GV | Anmerkung: Die Unrundheit bezieht sich auf die Bremskraftschwankung innerhalb mehrerer Radumdrehungen bei konstanter Betätigungskraft bzw. konstantem eingesteuerten (hydraulischem oder pneumatischem) Druck. Diese ist bei einem konstanten eingesteuerten Druck zwischen 1 und 3 bar bei pneumatischen Bremsanlagen zu messen. Bei nicht pneumatischen Bremssystemen ist sinngemäß vorzugehen. |
 
-als 1,5% LM
+| Verlustzeit der Bremse an einem Rad zu lang | SM |
 
-Siedepunkt niedriger als
+| übermäßige Bremskraftschwankungen auf Grund verzogener Trommeln oder Scheiben | SM |
 
-150° C/Wassergehalt größer
+| Bei einer Unrundheit von mehr als 20% ist eine übermäßige Bremskraftschwankung anzunehmen |
 
-als 2% SM
+| 1.2.2 | Wirksamkeit | Anmerkung: Hochrechnung bzw. Ballastierung ist nicht erforderlich bei Fahrzeugen der Klassen M1, N1, O1 und O2. Hochrechnung bzw. Ballastierung ist außerdem nicht erforderlich bei Fahrzeugen der Klassen M2, M3, N2, N3, O3 und O4, wenn nachgewiesen wird, dass das Fahrzeug zum Zeitpunkt der Prüfung alle Bestimmungen über die Verteilung der Bremskraft auf die Achsen und über die Kompatibilität zwischen Zugfahrzeugen und Anhängern im vorgeführten Zustand einhält ("EG-Bremsbänder"). Die Ballastierung oder Niederspannung ist außerdem nicht erforderlich, wenn beim tatsächlichen Gesamtgewicht die für die Erzielung der geforderten Abbremsung beim höchsten zulässigen Gesamtgewicht erforderlichen Bremskräfte erreicht werden. |
 
-Bremsflüssigkeit
+| Abbremswirkung, bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten, wenn durchführbar, von weniger als den folgenden Werten: | SM |
 
-unbrauchbar (zB Verwendung
+| Veränderung des Pedalweges durch „Pumpen“ | SM |
 
-nicht geeigneter
+| „Nachgeben“ des Bremspedals / Handbremshebels bei konstanter Bremskraft | SM |
 
-Flüssigkeiten) GV
+| Abbremswirkung der Betriebsbremse, bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten, wenn durchführbar, von weniger als der Hälfte der für die Betriebsbremsanlage geforderten Mindestbremswirksamkeit | GV |
 
-1.1.11 621 Bremsleitungen
+| Mindestbremswirksamkeit |
 
-Ausfall- oder
+| Klasse M1, N1…………………………..50 % |
 
-Bruchgefahr GV
+| Klasse M2, M3:………………………….50 % | 48% bei Fahrzeugen, die nicht mit ABV ausgerüstet sind oder mit erstmaliger Zulassung vor dem 1.10.1991 |
 
-undichte Leitungen oder
+| Klasse N2, N3, T5, C5:…………………..45 % | 43% bei Fahrzeugen mit erstmaliger Zulassung vor dem 01.01.1989 |
 
-Kupplungskopfanschlüsse SM,GV
+| Klasse O, R:………………………………43 % | 40% bei Fahrzeugen mit erstmaliger Zulassung vor dem 01.01.1989 |
 
-beschädigt oder übermäßig
+| Zugmaschinen (25 bis 40 km/h)T1, T2, T3, T4 |
 
-korrodiert SM
+| C1, C2, C3, C4 |
 
-falsche Verlegung SM,GV
+| bei Hinterradbremse ……………………..30 % |
 
-unsachgemäß repariert SM,GV
+| bei automatisch abschaltbarem |
 
-Prüfanschluß fehlt oder
+| Allradantrieb………………..…………….40 % |
 
-defekt SM
+| Klassen L (beide Bremsanlagen): |
 
-1.1.12 621 Bremsschläuche
+| Klasse L1e,………………………………..42 % |
 
-Ausfall- oder Bruchgefahr GV
+| Klasse L2e, L6e:…………………………..40 % |
 
-Beschädigung,
+| Klasse L3e:………………………………..50 % |
 
-Scheuerstellen,
+| Klasse L4e:………………………………..46 % |
 
-Bremsschläuche zu kurz,
+| Klasse L5e, L7e:…………………………..44 % |
 
-verdreht eingebaut SM,GV
+| Klassen L (Hinterradbremsanlage):……….25 % |
 
-undichte Schläuche oder
+| oder die Bremskraft liegt unter dem vom Fahrzeughersteller für die Fahrzeugachse festgelegten Bezugswerten | SM |
 
-Anschlüsse SM,GV
+| 1.3 | Hilfsbremse |
 
-Ausbeulung des Schlauchs
+| 1.3.1 | Wirkung |
 
-unter Druck GV
+| Bremse(n) einseitig ohne Wirkung | SM, GV |
 
-Porosität SM,GV
+| Bremskraft an einem Rad beträgt weniger als 80% der größten an einem anderen Rad der selben Achse gemessenen Bremskraft | SM |
 
-unsachgemäß repariert SM,GV
+| Bremskraft nicht abstufbar | SM, GV |
 
-1.1.13 621 Bremsbeläge, -klötze
+| Automatische Bremsanlage bei Anhängern unwirksam | SM |
 
-übermäßiger Verschleiß SM,GV
+| 1.3.2 | Wirksamkeit | siehe Anmerkung zu 1.2.2 |
 
-verschmutzt (Öl, Fett
+| für alle Fahrzeugklassen eine Abbremswirkung von weniger als 50% der Mindestwirksamkeit der Betriebsbremse gemäß 1.2.2 bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten; bei Fahrzeugen der Klassen N1, N2 und N3 jedoch 2,2 m/s2 | SM |
 
-usw.) SM,GV
+| 1.4 | Feststellbremse |
 
-falscher Belag,
+| 1.4.1 | Wirkung | siehe Anmerkung zu 1.2.2 |
 
-Ausfallsgefahr SM,GV
+| Bremskraft an einem Rad beträgt weniger als 50% der größten an einem anderen Rad der selben Achse gemessenen Bremskraft. | SM |
 
-1.1.14 621 Bremstrommeln,
+| für alle Fahrzeugklassen eine Abbremswirkung von weniger als 18% in bezug auf die zulässige Gesamtmasse oder für Kraftfahrzeuge weniger als 12% bezogen auf die höchstzulässige Masse des Kraftwagenzuges, je nachdem, welcher Wert höher ist | SM, GV |
 
-Bremsscheiben
+| 1.5 | Retarder und Motorbremse |
 
-übermäßiger Verschleiß,
+| Wirkung |
 
-übermäßige Riefenbildung,
+| Bremskraft nicht abstufbar (Retarder) | SM |
 
-Risse, ungenügend
+| schadhaft | SM |
 
-gesichert oder gebrochen SM,GV
+| 1.6 | Blockierverhinderer |
 
-verschmutzt (Öl, Fett
+| Warneinrichtung arbeitet fehlerhaft | SM |
 
-usw.) SM,GV
+| schadhaft | SM |
 
-Bremsträger locker GV
+| in der Fahrzeugkombination nicht betriebsfähig | SM |
 
-unrund (über 20%) SM
+| 1.7 | Bremsflüssigkeit |
 
-Abänderungen SM,GV,
+| Bremsflüssigkeitsvorrat unzureichend | SM, GV |
 
-VM
+| Bremsflüssigkeitswarnlicht leuchtet oder ist defekt | SM |
 
-1.1.15 604) Bremsseile,
+| Bremsflüssigkeit offensichtlich verschmutzt | SM |
 
-621) Bremszugstangen,
+| Siedepunkt niedriger als 180° C/ Wasseranteil größer als 1,5%) | LM |
 
-Bremshebel, Bremsgestänge
+| Siedepunkt niedriger als 150°C/Wassergehalt größer als 2 % | SM |
 
-Seile beschädigt,
+| Bremsflüssigkeit unbrauchbar (zB Verwendung nicht geeigneter Flüssigkeiten | GV |
 
-unsachgemäß verlegt SM,GV
+| 2. | Lenkvorrichtung und Lenkrad |
 
-Ausfallgefahr SM,GV
+| 2.1 | Mechanischer Zustand |
 
-übermäßiger Verschleiß
+| 2.1.1 | Endanschlag der Lenkung |
 
-oder übermäßige Korrosion SM,GV
+| fehlt oder ohne Wirkung | GV |
 
-Seil- oder
+| verstellt | LM, SM |
 
-Zugstangenverbindung
+| verformt | SM |
 
-ungenügend gesichert SM,GV
+| 2.1.2 | Schwergängigkeit |
 
-Seilführung schadhaft LM,SM
+| Schwergängig | LM, SM |
 
-Ummantelung der Seilhülle
+| klemmt | GV |
 
-gebrochen LM
+| Fahrzeug nicht sicher lenkbar | GV |
 
-Beeinträchtigungen der
+| 2.1.3 | Lenksäule |
 
-Freigängigkeit der
+| Lagerung, Verbindungselemente schadhaft oder zu großes Spiel | SM |
 
-Bremsanlage SM
+| Lenksäule gelockert oder Ausfallgefahr | SM, GV |
 
-übermäßige Hebel-,
+| Höhenverstellung nicht fixierbar | SM |
 
-Zugstangen- oder
+| Lenkkopflager-Gabelkopflagerspiel zu groß oder zu gering (schwergängig) | SM |
 
-Gestängewege infolge
+| Gabelkopflager ausgeschlagen | SM, GV |
 
-falscher Einstellung oder
+| 2.1.4 | Lenkgetriebe |
 
-übermäßigen Verschleißes SM
+| Mangel an den Staubmanschetten | SM |
 
-Bremswellenlager
+| Undichtheit | LM, SM |
 
-ausgeschlagen oder
+| Getriebebefestigung lose, Aufnahmeteil gerissen | SM, GV |
 
-schwergängig SM
+| Spiel | LM, SM |
 
-1.1.16 621 Radbremszylinder
+| Ausfallgefahr | GV |
 
-(einschließlich
+| Lenkgetriebedeckel und/oder Einstellschraube locker | SM |
 
-Federspeicherzylinder)
+| 2.1.5 | Lenkgelenke |
 
-gerissen oder beschädigt SM,GV
+| ungenügende Sicherung der Lenkungsteile | SM, GV |
 
-undicht SM,GV
+| Spiel | LM, SM |
 
-unsicher
+| Gefahr des Lösens der Verbindung | GV |
 
-befestigt/unsachgemäß
+| Staubmanschetten fehlen oder beschädigt | LM, SM |
 
-montiert SM,GV
+| 2.1.6 | Lenkgestänge, Lenkseile, Spurstange, Lenkhebel |
 
-übermäßig korrodiert SM,GV
+| Risse | SM, GV |
 
-übermäßiger Weg des
+| mangelhafte Befestigung | SM, GV |
 
-Kolbens oder der Membrane SM,GV
+| sonstige Beschädigungen | LM, SM, GV |
 
-Staubschutz fehlt oder
+| 2.1.7 | Lenkhilfe / Fremdkraftlenkung |
 
-ist übermäßig beschädigt SM
+| Funktion beeinträchtigt | SM, GV |
 
-schwergängig SM,GV
+| Leitungen, Schläuche beschädigt, undicht | SM, GV |
 
-1.1.17 621 Bremskraftregler
+| Flüssigkeitsstand im Vorratsbehälter | SM; GV |
 
-Gestänge defekt SM,GV
+| 2.1.8 | Lenkungsdämpfer |
 
-falsch eingestellt SM,GV
+| mangelhaft | LM, SM |
 
-festgefressen, unwirksam SM,GV
+| fehlt oder offensichtlich unwirksam (Krafträder) | GV |
 
-fehlt SM,GV,
+| 2.1.9 | Drehkranz |
 
-VM
+| gelockert | SM, GV |
 
-undicht SM,GV
+| zu großes Spiel | SM, GV |
 
-1.1.18 621 Automatische
+| 2.2 | Lenkrad/Lenker |
 
-Gestängesteller
+| Beschädigung, Bruch, Risse | LM, SM, GV |
 
-festgefressen oder zu
+| Befestigung mangelhaft | SM, GV |
 
-großer Weg infolge
+| Bauart, Abmessungen, Abänderungen | LM,SM, GV, VM |
 
-übermäßigen Verschleißes
+| 2.3 | Lenkungsspiel am Lenkradumfang zu groß | LM, SM, GV |
 
-oder falscher Einstellung SM,GV
+| 3. | Sichtverhältnisse |
 
-schadhaft SM
+| 3.1 | Sichtfeld | Anmerkung: Sichtfeld gemäß Richtlinie 77/649/EWG |
 
-1.1.19 - Retarder (soweit
+| Sichtfeld beeinträchtigt | LM, SM, GV |
 
-vorhanden oder
+| Mängel an der Sonnenblende | LM |
 
-erforderlich)
+| stark behindernde Aufkleber an der Front- und den vorderen Seitenscheiben (bei mehr als 10 % der Scheibenfläche oder bei weniger als 10 % wenn im Hauptsichtbereich des Lenkers befindlich | SM, VM |
 
-unsichere Verbindungen
+| Beeinträchtigung des Sichtfeldes durch Aufbauten | SM, GV, VM |
 
-oder Befestigungen SM
+| 3.2 | Scheiben |
 
-schadhaft SM
+| Genehmigungszeichen fehlt | LM |
 
-1.1.20 621 Auflaufeinrichtung
+| kein Sicherheitsglas (ausgenommen genehmigt) | SM, VM |
 
-Staubmanschette gerissen
+| Windschutzscheibe gesprungen | LM, SM |
 
-oder fehlt SM
+| Windschutzscheibe im Hauptsichtbereich des Fahrers sichtbehindernd zerkratzt oder gesprungen | SM |
 
-Führung übermäßiges Spiel SM
+| Einfärbung der Scheibe durch Folien oder Lacke, erhebliche Veränderung der Scheibenoberfläche (außer bei vorliegender Genehmigung) | SM, VM | zB.: Sandgestrahlte Fahrgestellnummern zulässig |
 
-Dämpfer/-lagerung
+| Windschutzscheibe außerhalb des Hauptsichtbereiches des Lenkers zerkratzt oder gesprungen | LM, SM |
 
-schadhaft SM
+| Heckscheibe u./o. hintere Seitenscheiben Sicht beeinträchtigt und zweiter Außenspiegel nicht vorhanden | LM, VM |
 
-festgefressen GV
+| Windschutzscheibe mit Folien oder Folienstreifen beklebt | SM, GV, VM | gilt auch für getönte Sonnenschutzfolien am oberen Bereich der WSS |
 
-Rückfahrsperre bei
+| 3.3 | Rückspiegel (Innen- oder Außenspiegel) |
 
-Vorwärtsfahrt nicht
+| fehlt oder nicht ausreichend wirksam | SM, VM | Verkehr hinter oder neben dem Fahrzeug nur auf einer Seite beobachtbar |
 
-selbstlösend SM,GV
+| Risse oder Sprünge | LM, SM |
 
-Abreißseil schadhaft oder
+| Spiegel beschädigt oder blind |
 
-fehlt SM
+| LM | weniger als 10 % der Fläche |
 
-Betätigungsweg zu groß SM
+| SM | 10 % oder mehr der Fläche blind |
 
-1.2 Betriebsbremse
+| Befestigung mangelhaft | LM, SM |
 
-Wirkung und Wirksamkeit
+| großwinkeliger Außenspiegel/Anfahrspiegel fehlt | SM, VM | für Fahrzeuge der Klassen N27,5 |
 
-1.2.1 602 Wirkung (schrittweise
+| Genehmigungszeichen fehlt | VM | t, N3 und M3 |
 
-Steigerung bis zur
+| 3.4 | Scheibenwischer |
 
-maximalen Bremskraft)
+| arbeitet zu schnell oder zu langsam | SM |
 
-ungenügende Bremskraft an
+| fehlt, unbrauchbar oder schadhaft | SM |
 
-einem oder mehreren
+| Gestänge/Wischerachsen stark ausgeschlagen | SM |
 
-Rädern SM,GV
+| Heckscheibenwischer defekt, fehlt od. unwirksam | LM |
 
-Bremskraft an einem Rad
+| 3.5 | Scheibenwascher |
 
-beträgt weniger als 80%
+| (Windschutzscheibe) fehlt oder unwirksam | SM |
 
-der größten an einem
+| 3.6 | Defroster |
 
-anderen Rad der selben
+| nicht funktionsfähig | LM,SM |
 
-Achse gemessenen
+| 4 | Leuchten, Rückstrahler und sonstige elektrische Anlagen |
 
-Bremskraft. SM,GV
+| 4.1 | Scheinwerfer für Fern- und Abblendlicht |
 
-(Im Fall der Prüfung auf
+| 4.1.1 | Zustand und Funktion |
 
-der Straße für Fahrzeuge,
+| Scheinwerfer fehlt, ohne oder ungenügende Funktion | SM, GV |
 
-die nicht auf
+| Scheinwerfer bei Kraftwagen nicht paarweise | SM, VM |
 
-Bremsenprüfständen
+| Scheinwerfer links und rechts verschiedener Bauart | SM |
 
-geprüft werden können:
+| Anbau nicht vorschriftsmäßig | SM, VM |
 
-übermäßige Abweichung des
+| Summe der Kennzahlen über 75 | SM, VM | Fahrzeuge mit erstmaliger. Zulassung. bis 3/1997 über 100 |
 
-Fahrzeugs von der
+| Befestigung unzureichend | SM |
 
-Geraden)
+| 4.1.2 | Einstellung |
 
-604 Bremskraft nicht
+| Scheinwerfer zu hoch oder zu niedrig | SM |
 
-abstufbar (Rupfen) SM,GV
+| Leuchtweitenregulierung defekt | SM |
 
-Verlustzeit der Bremse an
+| Leuchtweitenregulierung fehlt/defekt bei Fahrzeugen mit Gasentladungsscheinwerfern, die Abblendlicht ausstrahlen | SM |
 
-einem Rad zu lang SM
+| 4.1.3 | Schalter |
 
-übermäßige
+| beschädigt, Lichthupe defekt | LM |
 
-Bremskraftschwankungen
+| Schaltfehler | SM |
 
-auf Grund verzogener
+| Fernlichtkontrollleuchte |
 
-Trommeln oder Scheiben SM Anmerkung:
+| defekt oder fehlt, Schaltfehler | SM, VM |
 
-Die Unrundheit
+| 4.1.4 | Optischer Wirkungsgrad |
 
-bezieht sich
+| Scheinwerfergläser fehlen od. erheblich beschädigt | SM |
 
-auf die
+| Streuscheibe geringfügig gesprungen | LM |
 
-Bremskraft-
+| Reflektor leicht angegriffen | LM | weniger als ca. 10% der Fläche |
 
-schwankung
+| Reflektor fehlt, blind, verrostet | SM | ca. 10% oder mehr der Fläche |
 
-innerhalb
+| Scheinwerfer innen verschmutzt oder nass | SM, |
 
-mehrerer
+| Falsches Leuchtmittel | SM, VM | zB H4 mit Zwischenringen |
 
-Radumdrehungen
+| Falsches Leuchtmittel und gefährliche Blendwirkung | GV | zB: Gasentladungslampe in anderem als ECE-R98 Scheinwerfer |
 
-bei konstanter
+| Streuscheibe oder Lampe verdreht eingebaut | SM |
 
-Betätigungs-
+| Beeinträchtigung der Lichtaustrittsfläche | SM, VM |
 
-kraft bzw.
+| Scheinwerfer desselben Paares mit Licht verschiedener Farbe | SM, VM |
 
-konstantem
+| Abdeckung durch Anbauten | SM, VM |
 
-eingesteuerten
+| Scheinwerferreinigungsanlage fehlt/defekt bei Fahrzeugen mit Gasentladungsscheinwerfern, die Abblendlicht ausstrahlen | SM |
 
-(hydraulischem
+| 4.2 | Begrenzungs-, Umriss-, Seitenmarkierungs- und Schlussleuchten |
 
-oder
+| 4.2.1 | Zustand und Funktion |
 
-pneumatischem)
+| Begrenzungsleuchten fehlen oder sind ohne Funktion | SM |
 
-Druck. Diese
+| Umrissleuchten fehlen oder sind ohne Funktion | SM |
 
-ist bei einem
+| Seitenmarkierungsleuchten fehlen oder sind ohne Funktion | SM |
 
-konstanten
+| Schlussleuchten fehlen oder sind ohne Funktion | SM, GV |
 
-eingesteuerten
+| Erhebliche Abweichungen von den Anbringungsvorschriften | SM, GV |
 
-Druck zwischen
+| Abdeckung durch Anbauten | SM, GV |
 
-1 und 3 bar
+| Schaltfehler | SM |
 
-bei
+| Anbaugeräte oder Fahrzeugteile ragen um mehr als 40 cm seitlich über die Leuchten hinaus | SM, VM |
 
-pneumatischen
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
 
-Bremsanlagen
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
 
-zu messen. Bei
+| 4.2.2 | Lichtfarbe und optischer Wirkungsgrad |
 
-nicht
+| alle Begrenzungs- oder Schlussleuchten in der Wirkung erheblich beeinträchtigt oder Farbe nicht vorschriftsmäßig | SM, VM |
 
-pneumatischen
+| Leuchtscheibe fehlt | SM |
 
-Bremssystemen
+| Leuchtscheibe geringfügig gesprungen | LM |
 
-ist sinngemäß
+| Leuchtscheibe gesprungen oder ausgebrochen | SM |
 
-vorzugehen.
+| Veränderung der Streuscheibe (zB Lack od. Folie) | SM, VM |
 
-Unrundheit
+| offensichtlich falsche Leuchtmittel | SM, VM |
 
-F F
+| ausgebleichte Leuchtscheiben | LM |
 
-max-min
+| Abdeckung durch Anbauten | SM, VM |
 
-in % = -------
+| 4.3 | Bremsleuchten |
 
-Fmax
+| 4.3.1 | Zustand und Funktion |
 
-* 100
+| alle Leuchten ohne Funktion oder in der Wirkung erheblich beeinträchtigt | SM, GV |
 
-Fmax = größte
+| falsche Montage der Leuchten | SM, VM |
 
-aufgetretene
+| Fehlt, Kraftwagen oder Anhängern nicht paarweise (ausgenommen 3. Bremsleuchte) | SM, VM |
 
-Bremskraft
+| ohne Funktion | SM |
 
-Fmin =
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
 
-kleinste
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
 
-aufgetrenene
+| 4.3.2 | Lichtfarbe und optischer Wirkungsgrad |
 
-Bremskraft
+| Farbe oder Leuchtmittel nicht vorschriftsmäßig | SM, VM |
 
-Bei einer
+| offensichtlich falsche Leuchtmittel | SM, VM |
 
-Unrundheit von
+| Leuchtscheibe geringfügig gesprungen | LM |
 
-mehr als 20%
+| Leuchtscheibe fehlt, durchgehend gesprungen oder ausgebrochen | SM |
 
-ist eine
+| Leuchtscheibe offensichtlich nachträglich eingefärbt (zB Lack oder Folie) | SM, VM |
 
-übermäßige
+| Abdeckung durch Anbauten | SM, VM |
 
-Bremskraft-
+| 4.4 | Fahrtrichtungsanzeiger |
 
-schwankung
+| 4.4.1 | Zustand und Funktion |
 
-anzunehmen.
+| alle Leuchten ohne Funktion oder in der Wirkung erheblich beeinträchtigt | SM, GV |
 
-1.2.2 601 Wirksamkeit Anmerkung:
+| eine fehlt, ohne Funktion oder in der Wirkung erheblich beeinträchtigt | SM |
 
-Abbremswirkung, bezogen Hochrechnung
+| Erhebliche Abweichung von den Anbringungsvorschriften | SM, VM |
 
-auf die zulässige bzw. Balla-
+| Schaltfehler | SM |
 
-Höchstmasse oder, im Fall stierung ist
+| Warnblinklicht (Warnblinkanlage) fehlt oder defekt | LM, SM |
 
-von Sattelanhängern, auf nicht
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
 
-die Summe der zulässigen erforderlich
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
 
-Achslasten, wenn bei Fahrzeugen
+| 4.4.2 | Lichtfarbe und optischer Wirkungsgrad |
 
-durchführbar, von weniger der Klassen M1,
+| Farbe nicht vorschriftsmäßig | SM, VM |
 
-als den folgenden Werten: SM N1, O1 und O2.
+| Leuchtscheibe fehlt | SM |
 
-Hochrechnung
+| Leuchtscheibe geringfügig gesprungen | LM |
 
-bzw. Balla-
+| Leuchtscheibe durchgehend gesprungen oder ausgebrochen | SM |
 
-stierung ist
+| Veränderung der Streuscheibe (zB Lack oder Folie) | SM, VM |
 
-außerdem nicht
+| offensichtlich falsche Leuchtmittel | SM, VM |
 
-erforderlich
+| Abdeckung durch Anbauten | SM, VM |
 
-bei Fahrzeugen
+| 4.4.3 | Schalter beschädigt | LM |
 
-der Klassen M2,
+| weder optische noch akustische Anzeige | SM, VM |
 
-M3, N2, N3, O3
+| Schalter bleibt nicht in Einschaltstellung | SM |
 
-und O4, wenn
+| Kontrolleinrichtung für Anhängerbetrieb fehlt | SM, VM |
 
-nachgewiesen
+| 4.4.4 | Blinkfrequenz |
 
-wird, dass das
+| weniger als 60 oder mehr als 120 Perioden pro Minute | SM |
 
-Fahrzeug zum
+| 4.5 | Nebelscheinwerfer und Nebelschlussleuchten |
 
-Zeitpunkt der
+| 4.5.1 | Anbringung |
 
-Prüfung alle
+| nicht vorschriftsmäßig | SM,VM |
 
-Bestimmungen
+| 4.5.2 | Zustand und Funktion |
 
-über die
+| alle oder eine Leuchte ohne Funktion oder in der Wirkung beeinträchtigt | SM |
 
-Verteilung der
+| Nebelschlussleuchte fehlt | SM, VM |
 
-Bremskraft auf
+| Nebelschlussleuchte keine Kontrollleuchte | SM, VM |
 
-die Achsen und
+| Schaltfehler | SM |
 
-über die
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
 
-Kompatibilität
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
 
-zwischen
+| 4.5.3 | Lichtfarbe und optischer Wirkungsgrad |
 
-Zugfahrzeugen
+| Farbe nicht vorschriftsmäßig | SM, VM |
 
-und Anhängern
+| Nebelscheinwerfer falsch eingestellt | SM |
 
-im
+| Reflektor fehlt, blind, verrostet | LM, SM | SM: 10% oder mehr der Fläche |
 
-vorgeführten
+| Streuscheibe fehlt, durchgehend gesprungen oder ausgebrochen | SM |
 
-Zustand
+| Scheinwerfer innen verschmutzt oder nass | SM |
 
-einhält
+| Streuscheibe verdreht eingebaut | SM |
 
-(“EG-
+| Scheinwerfer mit Licht verschiedener Farbe | SM, VM |
 
-Bremsbänder”).
+| Veränderung der Streuscheibe (zB Lack oder Folie) | SM, VM |
 
-Die Balla-
+| Nebelschlussleuchte |
 
-stierung oder
+| Veränderung der Streuscheibe (zB Lack oder Folie) | SM, VM |
 
-Niederspannung
+| Streuscheibe fehlt, durchgehend gesprungen oder ausgebrochen | SM |
 
-ist außerdem
+| 4.6 | Rückfahrscheinwerfer |
 
-nicht
+| 4.6.1 | Zustand und Funktion |
 
-erforderlich,
+| alle oder eine Leuchte ohne Funktion oder in der Wirkung beeinträchtigt | SM |
 
-wenn beim
+| falsche elektrische Schaltung | SM |
 
-tatsächlichen
+| sonstige Mängel zB nicht vorschriftsmäßig | LM, SM, VM |
 
-Gesamtgewicht
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
 
-die für die
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
 
-Erzielung der
+| 4.6.2 | Lichtfarbe und optischer Wirkungsgrad |
 
-geforderten
+| Farbe nicht vorschriftsmäßig | SM, VM |
 
-Abbremsung
+| Blendet | SM |
 
-beim höchsten
+| 4.7 | Beleuchtung für das hintere Kennzeichen |
 
-zulässigen
+| fehlt, ohne Funktion | LM, VM |
 
-Gesamtgewicht
+| sonstige Mängel zB nicht vorschriftsmäßig | LM, SM, VM |
 
-erforderlichen
+| 4.8 | Rückstrahler |
 
-Bremskräfte
+| Zustand und Farbe |
 
-erreicht
+| vorgeschriebene Rückstrahler fehlen oder sind verdeckt angebracht | SM, VM |
 
-werden.
+| Abdeckung durch Anbauten | SM, VM |
 
-Mindestbremswirksamkeit:
+| Rückstrahler bei Kraftwagen und Anhängern nicht paarweise angebracht | SM, VM |
 
-Klasse M1, N1: 50%
+| Farbe oder Form stimmt nicht | SM, VM |
 
-Klasse M2, M3: 50% 48% bei
+| verdrehte Anbringung | SM |
 
-Fahrzeugen,
+| erhebliche Abweichung von den Anbringungsvorschriften | SM, VM |
 
-die nicht mit
+| Rückstrahler geringfügig gesprungen | LM |
 
-ABV
+| Rückstrahler durchgehend gesprungen | SM |
 
-ausgerüstet
+| 4.9 | Funktionsanzeiger |
 
-sind oder mit
+| vorgeschriebene Funktionsanzeiger fehlen oder sind nicht funktionsfähig | LM, SM, VM |
 
-erstmaliger
+| 4.10 | Elektrische Verbindungen |
 
-Zulassung vor
+| zwischen. ziehendem Fahrzeug und Anhänger oder Sattelanhänger Verbindungseinrichtung fehlt vollständig oder teilweise | SM |
 
-dem 1. Oktober
+| falsche Schaltung oder Funktionsfehler in der elektrischen Schaltung | SM |
 
-1991
+| mangelhafte Verbindung von elektr. Leitungen | LM, SM |
 
-Klasse N2, N3: 45% 43% bei
+| schadhafte Leitungen | SM |
 
-Fahrzeugen mit
+| 4.11 | Elektrische Leitungen |
 
-erstmaliger
+| mangelhafte Verlegung | LM, SM |
 
-Zulassung vor
+| schadhaft | SM |
 
-dem 1. Jänner
+| 4.12 | Sonstige Leuchten und rückstrahlen. Flächen |
 
-1989
+| Anbau bzw. Farbe unzulässig | SM, VM |
 
-Klasse O: 43% 40% bei
+| 4.13 | Tagfahrleuchten |
 
-Fahrzeugen mit
+| 4.13.1 | Zustand und Funktion |
 
-erstmaliger
+| ohne Funktion | LM, SM |
 
-Zulassung vor
+| nicht paarweise | LM, VM |
 
-dem 1. Jänner
+| Erhebliche Abweichungen von den Anbringungsvorschriften | LM, SM, VM |
 
-1989
+| Abdeckung durch Anbauten | LM, SM, VM |
 
-Zugmaschinen (25 bis
+| Schaltfehler | LM, SM |
 
-40 km/h)
+| 4.13.2 | Lichtfarbe und optischer Wirkungsgrad |
 
-bei Hinterradbremse: 30%
+| in der Wirkung erheblich beeinträchtigt oder Farbe nicht vorschriftsmäßig | SM, VM |
 
-bei hydraulisch
+| Leuchtscheibe fehlt | SM, |
 
-abschaltbarem
+| Leuchtscheibe geringfügig gesprungen | LM |
 
-Allradantrieb
+| Leuchtscheibe gesprungen oder ausgebrochen | SM |
 
-(zuschaltbar): 40%
+| Veränderung der Streuscheibe (zB Lack od. Folie) | SM, VM |
 
-Klassen L (beide
+| offensichtlich falsches Leuchtmittel | SM, VM |
 
-Bremsanlagen)
+| 5. | Achsen, Räder, Reifen und Aufhängungen |
 
-Klasse L1: 42%
+| 5.1 | Achsen |
 
-Klasse L2: 40%
+| 5.1.1 | Achskörper |
 
-Klasse L3: 50%
+| Bruch | GV |
 
-Klasse L4: 46%
+| Achskörper angerissen, verbogen, Korrosion | LM, SM, GV |
 
-Klasse L5: 44%
+| unsachgemäße Reparatur | SM,GV |
 
-Klassen L
+| Gummielemente fehlen oder funktionslos | SM |
 
-(Hinterradbrems-
+| Gummielemente leicht brüchig oder porös | LM |
 
-anlage): 25%
+| Staubmanschette durchgehend gerissen oder nicht vorhanden | SM |
 
-oder die Bremskraft
+| 5.1.2 | Achsaufhängung |
 
-liegt unter dem vom
+| geringes Spiel | LM |
 
-Fahrzeughersteller
+| ungenügende Befestigung, erhebliches Spiel | SM, GV |
 
-für die
+| Aufhängung ausgeschlagen, verformt oder korrodiert | LM, SM,GV |
 
-Fahrzeugachse
+| Vorderradgabel sichtbar verzogen | SM,GV |
 
-festgelegten
+| Schwingenlagerung ausgeschlagen | SM,GV |
 
-Bezugswerten SM
+| Gummielemente fehlen oder funktionslos | SM |
 
-Abbremswirkung der
+| Gummielemente leicht brüchig oder porös | LM |
 
-Betriebsbremse, bezogen
+| Fangseil fehlt oder unbrauchbar | SM |
 
-auf die zulässige
+| unsachgemäße Reparatur | SM, GV |
 
-Höchstmasse oder, im Fall
+| 5.1.3 | Federung, Stabilisator |
 
-von Sattelanhängern, auf
+| Bruch, funktionslos | SM, GV |
 
-die Summe der zulässigen
+| Beschädigung | SM |
 
-Achslasten, wenn
+| Verschleiß | LM, SM |
 
-durchführbar, von weniger
+| Aufhängung oder Befestigung ausgeschlagen | LM, SM, GV |
 
-als der Hälfte der für
+| Befestigungen fehlen, gebrochen, stark korrodiert oder locker | SM, GV |
 
-die Betriebsbremsanlage
+| Aufschlaggummi wirkungslos oder fehlt | SM |
 
-geforderten
+| unsachgemäße Veränderungen am Fahrwerk | SM, GV |
 
-Mindestbremswirksamkeit: GV
+| Restfederweg unter 25 mm | SM, GV |
 
-1.3 611 Hilfsbremse
+| Unterschreitung der Bodenfreiheit von 11 cm ohne entsprechende Genehmigung | SM |
 
-Wirkung und Wirksamkeit
+| Unterschreitung der Bodenfreiheit von 9 cm ohne entsprechende Genehmigung und Erkennbarkeit von Schleifspuren | GV |
 
-(falls getrennte Anlage)
+| 5.1.4 | Stoßdämpfer |
 
-1.3.1 611 Wirkung
+| Fehlt | GV |
 
-Bremse(n) einseitig ohne
+| Wirkungslosigkeit | SM, GV |
 
-Wirkung SM,GV
+| Wirkungsbeeinträchtigung | LM, SM |
 
-Bremskraft an einem Rad
+| Undichtheit | LM, SM |
 
-beträgt weniger als 80%
+| Kolbenstangenschutz gebrochen oder defekt | LM |
 
-der größten an einem
+| Befestigung locker oder beschädigt | SM |
 
-anderen Rad der selben
+| 5.1.5 | Radlager |
 
-Achse gemessenen
+| Beschädigung | SM, GV |
 
-Bremskraft SM
+| großes Spiel | LM, SM |
 
-Bremskraft nicht
+| übermäßiges Spiel | GV |
 
-abstufbar (Rupfen) SM,GV
+| erhebliches Laufgeräusch | SM |
 
-Automatische Bremsanlage
+| 5.2 | Räder/Felgen und Reifen |
 
-bei Anhängern unwirksam SM
+| 5.2.1 | Räder(Felgen) |
 
-1.3.2 611 Wirksamkeit siehe
+| Riss oder Bruch | GV |
 
-für alle Fahrzeugklassen Anmerkung zu
+| verbogene oder beschädigte Räder | LM, SM |
 
-eine Abbremswirkung von 1.2.2
+| falsche Radmuttern/Radschrauben | SM, GV |
 
-weniger als 50% der
+| einzelne Radmuttern/-schrauben fehlen od. lose | SM, GV |
 
-Mindestwirksamkeit der
+| Rad für das Fahrzeug offensichtlich nicht geeignet | SM, GV |
 
-Betriebsbremse gemäß
+| für den Reifen offensichtlich zu große oder zu kleine Felge | SM, GV |
 
-1.2.2 bezogen auf die
+| erhebliche Deformation des Felgenhornes, starker Schlag | SM, GV |
 
-zulässige Höchstmasse
+| Felgenbohrungen ausgeleiert oder eingerissen | SM, GV |
 
-oder, im Fall von
+| Spurverbreiterung mittels Distanzbolzen oder Distanzscheibe | SM, GV | Ausnahme: Genehmigt |
 
-Sattelanhängern, auf die
+| Speichen locker oder fehlen | SM, GV |
 
-Summe der zulässigen
+| Sicherungen bei geteilten Felgen fehlen oder schadhaft | SM |
 
-Achslasten; bei
+| Felge nicht der Genehmigung entsprechend | VM |
 
-Fahrzeugen der
+| 5.2.2 | Bereifung |
 
-Klassen N1, N2 und N3
+| Schäden | SM, GV |
 
-jedoch 2,2 m/s2 SM
+| Profiltiefe nicht ausreichend | SM, GV | GV ab 80% des gesetzlich geforderten Werts |
 
-1.4 611 Feststellbremse
+| Reifen verschiedener Bauart montiert | SM |
 
-Wirkung und Wirksamkeit
+| Winterreifen nicht achsweise | SM |
 
-1.4.1 611 Wirkung siehe
+| Spikesreifen nicht auf allen Rädern | SM |
 
-Bremskraft an einem Rad Anmerkung zu
+| Unterschiedliche Reifendimensionen | SM | Ausnahme: Genehmigt |
 
-beträgt weniger als 50% 1.2.2
+| unterdimensionierte Reifen in Bezug auf Größe, Tragfähigkeit oder Bauartgeschwindigkeit | SM, GV, VM |
 
-der größten an einem
+| Behinderung des Schwenk- oder Einfederungsbereiches auf Grund zu großer Reifendimension | SM, GV |
 
-anderen Rad der selben
+| Scheuerstellen am Reifen und im Radkasten | SM, GV |
 
-Achse gemessenen
+| Veränderung der größten Breite des Fahrzeuges (Reifen dürfen nicht über die Kotflügel hinausragen) | SM, VM |
 
-Bremskraft. SM
+| ECE-Zeichen fehlt | SM, VM |
 
-für alle Fahrzeugklassen
+| Reifen für das Fahrzeug offensichtlich nicht geeignet | SM, GV |
 
-eine Abbremswirkung von
+| Reifen entsprechen nicht der Genehmigung | VM |
 
-weniger als 18% in bezug
+| Fahrzeuge M2, M3, N2, N3 |
 
-auf die zulässige
+| Keine Winterreifen oder Winterreifen mit weniger als 5 mm (Gürtelreifen) bzw. 6 mm (Diagonalreifen) Profiltiefe auf allen Rädern an mindestens einer Antriebsachse | VM | Nur im Zeitraum von 1. November bis 15. März für M2, M3 1. November bis 15. April für N2, N3 |
 
-Gesamtmasse oder für
+| fehlendes Geschwindigkeitssymbol, wenn Geschwindigkeitsindex des Winterreifens geringer als die Bauartgeschwindigkeit des Fahrzeuges | LM, VM |
 
-Kraftfahrzeuge weniger
+| nachgeschnittene Reifen bei M1 oder L | SM |
 
-als 12% bezogen auf die
+| unsachgemäß nachgeschnittene Reifen, zB. Karkasse am Nutengrund sichtbar | GV | bei Zwillingsbereifung, wenn nur ein Reifen betroffen: SM |
 
-höchstzulässige Masse des
+| unregelmäßige Abnützung der Lauffläche | LM |
 
-Kraftwagenzuges, je
+| Reifen entlüftet, erheblich zu geringer Luftdruck | LM, SM |
 
-nachdem, welcher Wert
+| Schlauch im schlauchlosen Reifen bei Krafträdern mit Motorleistung von mehr als 25 kW | SM | ausgenommen Nachweis der Freigabe durch Fahrzeug- oder Reifenhersteller |
 
-höher ist SM,GV
+| 5.3 | Aufhängungen |
 
-1.5 Retarder und Motorbremse
+| 5.3.1 | Traggelenk |
 
-Wirkung
+| ungenügende Sicherung | SM |
 
-Bremskraft nicht
+| Spiel | LM, SM |
 
-abstufbar (Retarder) SM
+| Gefahr des Lösens der Verbindung | GV |
 
-schadhaft SM
+| Gummimanschetten fehlen oder stark beschädigt | SM |
 
-1.6 Blockierverhinderer
+| 5.3.2 | Quer-, Schräg- und Längslenker |
 
-Warneinrichtung arbeitet
+| Risse, verbogen, stark korrodiert | GV |
 
-fehlerhaft SM
+| unsachgemäß repariert | SM, GV |
 
-schadhaft SM
+| Spiel | LM, SM |
 
-In der
+| ungenügende Befestigung, erhebliches Spiel | SM, GV |
 
-Fahrzeugkombination nicht
+| 6. | Fahrgestell, am Fahrgestell befestigte Teile |
 
-betriebsfähig SM
+| 6.1 | Fahrgestell oder Fahrgestellrahmen und daran befestigte Teile |
 
-2 Lenkvorrichtung und
+| 6.1.1 | Rahmen und sonstige tragende Teile |
 
-Lenkrad
+| Allgemeiner Zustand |
 
-2.1 Mechanischer Zustand
+| Bruch oder Riss | SM, GV |
 
-2.1.1 332 Endanschlag der Lenkung
+| erhebliche Verbiegungen | SM, GV |
 
-fehlt oder ohne Wirkung SM,GV
+| erhebliche Korrosionsschäden mit wesentlicher Schwächung der Bauteile | SM, GV |
 
-verstellt LM,SM
+| geringe Korrosionsschäden, die kein Erneuern des Bauteils oder Verwendung spezieller Reparaturbleche erfordern | LM, SM |
 
-verformt SM
+| unsachgemäße Verbindungen | SM, GV |
 
-2.1.2 331 Schwergängigkeit
+| mehrere Rahmennieten oder -schrauben gelockert oder gebrochen | SM, GV |
 
-schwergängig SM,GV
+| Schäden bei einzelnen Nieten oder Schrauben | LM |
 
-klemmt SM,GV
+| 6.1.2 | Abgasführungen und Schalldämpfer: |
 
-Fahrzeug nicht sicher
+| Auspuffanlage oder Leitungen |
 
-lenkbar GV
+| undicht | LM, SM |
 
-2.1.3 332 Lenksäule
+| Aufhängung beschädigt | SM |
 
-Lagerung schadhaft oder
+| mangelhafte Befestigung | SM |
 
-zu großes Spiel SM
+| entspricht nicht der Genehmigung | VM |
 
-Lenksäule gelockert oder
+| 6.1.3 | Kraftstoffbehälter und –leitungen |
 
-Ausfallgefahr SM,GV
+| undicht | SM, GV |
 
-Höhenverstellung nicht
+| Kraftstoffschläuche leicht porös aber dicht | LM |
 
-fixierbar SM
+| ungeeignete Befestigung des Behälters | SM |
 
-Lenkkopflager-Gabelkopf-
+| mangelhafte Verlegung der Kraftstoffleitung | LM, SM, GV |
 
-lagerspiel zu groß oder
+| Kraftstoffleitungen stark korrodiert | SM |
 
-zu gering (schwergängig) SM
+| Tankverschluss fehlt | SM, GV |
 
-Gabelkopflager
+| Kraftstoffbehälter deformiert | LM, SM |
 
-ausgeschlagen SM,GV
+| 6.1.4 | Abmessungen und Zustand des Unterfahrschutzes und Seitenunterfahrschutzes bei Lastkraftwagen und Anhängern in den Abmessungen unzureichend bzw. fehlt | SM, VM | Unterfahrschutz für vorne und hinten sofern vorgeschrieben |
 
-2.1.4 331 Lenkgetriebe
+| Befestigung lose | LM, SM |
 
-Mangel an den
+| verbogen | LM |
 
-Staubmaschetten SM
+| 6.1.5 | Halterung des Ersatzrades |
 
-Undichtheit LM,SM
+| Befestigung lose | SM |
 
-Getriebebefestigung lose,
+| Sicherung des Ersatzrades fehlt | SM |
 
-Aufnahmeteil gerissen SM,GV
+| 6.1.6 | Verbindungseinrichtungen am Zugfahrzeug, Anhänger und Sattelanhänger |
 
-Spiel LM,SM
+| Fahrzeugverbindende Einrichtungen (Anhängekupplung, Sattelkupplung) schadhaft, in der Funktion beeinträchtigt | LM, SM, GV |
 
-Ausfallgefahr GV
+| übermäßiges Spiel (Verschleißgrenze überschritten) | SM, GV |
 
-Lenkgetriebedeckel
+| unzureichende Befestigung | SM, GV |
 
-und/oder Einstellschraube
+| Sicherung defekt oder fehlt | GV |
 
-locker SM
+| nicht selbsttätig schließend | VM | wenn vorgeschrieben |
 
-2.1.5 332 Lenkgelenke ungenügende
+| Zugeinrichtung am Anhänger |
 
-Sicherung der
+| Befestigung gelockert, zu großes Spiel | SM, GV |
 
-Lenkungsteile SM,GV
+| schadhafte Sicherung der Befestigung | SM, GV |
 
-Spiel LM,SM
+| Zuggabel/Zugrohr stark verbogen oder angerissen | SM, GV |
 
-Gefahr des Lösens der
+| Zuggabel/Zugrohr unzulässig oder unsachgemäß reparaturgeschweißt | SM, GV |
 
-Verbindung GV
+| Höheneinstellung fehlt oder unzureichend | SM |
 
-Gummimanschetten fehlen
+| Kugelpfanne nicht arretierbar oder sicherbar | SM, GV |
 
-oder stark beschädigt SM
+| Sicherungsverbindung fehlt oder unbrauchbar | SM |
 
-2.1.6 332 Lenkgestänge, Lenkseile,
+| Typenschild/Genehmigungszeichen fehlt | VM |
 
-Spurstange, Lenkhebel
+| 6.1.7 | Abschleppeinrichtung vorne/hinten |
 
-Risse SM,GV
+| fehlt oder unbrauchbar (falls erforderlich) | SM, VM |
 
-mangelhafte Befestigung SM,GV
+| 6.2 | Führerhaus , Karosserie und Aufbauten |
 
-sonstige Beschädigungen LM,SM,
+| 6.2.1 | Allgemeiner Zustand |
 
-GV
+| gefährdende Fahrzeugteile innen oder außen | LM, SM, GV |
 
-2.1.7 331 Lenkhilfe
+| nicht genehmigte Veränderungen (Zu- oder Anbauten) | VM |
 
-Funktion beeinträchtigt SM,GV
+| unsachgemäße Veränderungen (Zu- oder Anbauten) | SM, GV |
 
-Leitungen, Schläuche
+| Laderaumboden, Wände, Rungen, Verschlüsse: ungenügende Befestigung | SM |
 
-beschädigt, undicht SM,GV
+| starke Beschädigungen | SM |
 
-Flüssigkeitsstand im
+| Laderaumplane, Gestell, Verschlüsse Spriegelgestell beschädigt | LM, SM |
 
-Vorratsbehälter SM,GV
+| unzureichende Befestigung | SM |
 
-2.1.8 331 Lenkungsdämpfer
+| Bordwandverschlüsse schadhaft | LM, SM |
 
-mangelhaft LM,SM
+| Korrosionsschäden an tragenden Teilen | LM, SM, GV |
 
-2.1.9 911 Drehkranz
+| Radabdeckungen fehlen | SM |
 
-gelockert SM,GV
+| Radabdeckungen nicht ausreichend wirksam | LM, SM |
 
-zu großes Spiel SM,GV
+| Spritzschutz fehlt oder ohne entsprechende Genehmigung | SM | für Fahrzeuge der Klassen N2 7,5 t, N3 und M3 mit Genehmigung. nach dem 08.09.1999 |
 
-2.2 333 Lenkrad/Lenker
+| 6.2.2 | Befestigung |
 
-Beschädigung, Bruch,
+| Kippmechanismus des Führerhauses beschädigt oder ausgeschlagen | LM, SM |
 
-Risse LM,SM,
+| Sicherung fehlt oder unzureichend | SM, GV |
 
-GV
+| Niederspannvorrichtung fehlt oder wirkungslos | SM |
 
-Befestigung mangelhaft SM,GV
+| Hydraulik- oder Druckluftteil undicht | LM, SM |
 
-Bauart, Abmessungen SM,GV,
+| Luftleiteinrichtungen (Spoiler) unzureichend Befestigung | LM, SM |
 
-VM
+| 6.2.3 | Türen und Schlösser |
 
-2.3 331 Lenkungsspiel am
+| unbeabsichtigtes Öffnen möglich | SM, GV |
 
-Lenkradumfang zu groß LM,SM,
+| Tür fehlt | SM, VM |
 
-GV
+| Tür durchgerostet | LM, SM |
 
-3 Sichtverhältnisse
+| Tür schließt schlecht, nicht schließbar | LM, SM |
 
-3.1 231 Sichtfeld Anmerkung:
+| Fronthaubenfanghaken funktionslos oder fehlt | SM |
 
-Sichtfeld
+| Scharniere beschädigt | LM, SM |
 
-gemäß
+| 6.2.4 | Boden |
 
-Richtlinie
+| Korrosionsschäden | LM, SM |
 
-78/318/EWG
+| wesentliche Schwächung von Bauteilen bei Fahrzeugen mit selbsttragender Karosserie | SM, GV |
 
-Sichtfeld beeinträchtigt LM,SM,
+| 6.2.5 | Sitze |
 
-GV
+| Sitzbefestigung unzureichend | SM, GV |
 
-Mängel an der
+| keine sichere Lehnenbefestigung oder Arretierung | SM, GV |
 
-Sonnenblende LM
+| nicht vorschriftsmäßige Sitzausführung | SM |
 
-stark behindernde
+| Sitzpolster schadhaft | LM |
 
-Aufkleber an der Front- und
+| Haltegriffe fehlen oder locker | SM |
 
-den vorderen Seitenscheiben
+| Kopfstütze (soweit vorgesehen) fehlt oder nicht arretierbar | SM |
 
-(bei mehr als 10% der
+| Pedale oder Betätigungseinrichtungen |
 
-Scheibenfläche oder bei
+| Pedale nicht gleitsicher | LM |
 
-weniger als 10% wenn im
+| sonstige Mängel | LM, SM |
 
-Hauptsichtbereich des
+| 6.2.6 | Trittstufen oder Einstiege |
 
-Lenkers befindlich SM,VM
+| falsche Anbringung (zu hoch) | SM, VM |
 
-Beeinträchtigung des
+| nicht gleitsicher | LM, SM |
 
-Sichtfeldes durch
+| beschädigt | LM, SM |
 
-Aufbauten SM,GV,
+| 6.3 | Kraftübertragung |
 
-VM
+| (Motor, Kupplung, Getriebe, Kardanwelle, Differenzial, Halbachsen) |
 
-3.2 231 Scheiben
+| Kupplung rutscht, lösbar | LM, SM, GV |
 
-kein Sicherheitsglas
+| Rückwärtsgang defekt | SM, GV |
 
-(ausgenommen genehmigt)
+| Risse (zB Hardyscheibe) | SM, GV |
 
-SM,VM
+| Starke Abnützung der Gelenke und Lagerung | SM, GV |
 
-Windschutzscheibe
+| Gelenke locker oder Befestigungsschrauben fehlen | SM, GV |
 
-durchgehend gesprungen SM
+| Antriebswellenmanschetten fehlen oder durchgehend gerissen | SM |
 
-Windschutzscheibe im
+| Für Fahrzeuge. M1, N1 |
 
-Hauptsichtbereich des
+| Offensichtliche Steigerung der Motorleistung durch unzulässiges Chip-Tuning | SM, GV |
 
-Fahrers sichtbehindernd
+| 7 | Sonstige Ausstattungen soweit vorgeschrieben |
 
-zerkratzt oder gesprungen SM
+| 7.1 | Sicherheitsgurte |
 
-Einfärbung der Scheibe
+| 7.1.1 | Sicherheit des Einbaus: lose | SM |
 
-durch Folien oder Lacke
+| 7.1.2 | Zustand der Gurte |
 
-(außer bei vorliegender
+| fehlen oder unbrauchbar | SM, VM |
 
-Genehmigung) SM,VM
+| beschädigt | LM, SM |
 
-Windschutzscheibe
+| unzulässige Anbringung | VM, SM |
 
-außerhalb des
+| 7.1.3 | Betrieb |
 
-Hauptsichtbereiches des
+| Retraktor nicht funktionsfähig | SM |
 
-Lenkers zerkratzt oder
+| Schloss nicht funktionsfähig | SM |
 
-gesprungen LM,SM
+| Gurtstrammer offensichtlich defekt | SM |
 
-Heckscheibe u./o. hintere
+| 7.1.4 | Airbag |
 
-Seitenscheiben Sicht
+| deaktiviert/ausgebaut | LM |
 
-beeinträchtigt und
+| Frontairbag deaktiviert/ausgebaut, sofern laut Aufschrift auf Gurtlasche erforderlich | SM |
 
-zweiter Außenspiegel
+| 7.2 | Feuerlöscher (falls erforderlich): |
 
-nicht vorhanden LM,VM
+| fehlt | SM |
 
-Windschutzscheibe mit
+| Befestigung mangelhaft | LM, SM |
 
-Folien oder Folienstreifen SM,GV,VM gilt auch
+| Überprüfungsfrist abgelaufen | LM, SM |
 
-beklebt für getönte
+| Plombierung fehlt | SM |
 
-Sonnenschutz-
+| 7.3 | Schlösser und Diebstahlsicherung |
 
-folien am
+| fehlt oder mangelhafte Funktion | SM, GV |
 
-oberen Bereich
+| 7.4 | Warndreieck |
 
-der Windschutz-
+| fehlt oder beschädigt | LM |
 
-scheibe
+| 7.5 | Verbandzeug |
 
-3.3 241 Rückspiegel (Innen- oder
+| fehlt oder unvollständig | LM |
 
-Außenspiegel)
+| 7.6 | Unterlegkeil(e) für Räder, falls erforderlich |
 
-fehlt oder nicht
+| fehlen, unbrauchbar | VM |
 
-ausreichend wirksam SM,VM Verkehr hinter
+| Unterbringung mangelhaft | SM |
 
-oder neben dem
+| 7.7 | Schallzeichen |
 
-Fahrzeug nur
+| funktionslos | SM |
 
-auf einer
+| zu laut, zu leise | SM |
 
-Seite
+| Folgetonhorn (ausgenommen Einsatzfahrzeuge) | SM |
 
-beobachtbar
+| falsche Lage der Betätigungsvorrichtung | SM |
 
-Risse oder Sprünge LM
+| Rückfahrwarner ohne Funktion, fehlt | SM | für Fahrzeuge der Klassen N2, N3, M3 |
 
-Spiegel beschädigt oder
+| Rückfahrwarner nicht rückschaltbar | VM |
 
-blind LM,SM mehr als
+| 7.8 | Geschwindigkeitsmesser |
 
-10% der Fläche
+| Fehlt, funktionslos, offensichtlich erhebliche Abweichung | SM |
 
-blind
+| bei Krafträdern: Glas des Geschwindigkeitsmessers gesprungen | LM |
 
-Spiegel durchgehend
+| 7.9 | Fahrtschreiber/ Kontrollgerät (Vorhandensein und Verplombung) |
 
-gesprungen SM
+| Einbauschild ungültig, fehlt | SM |
 
-Befestigung mangelhaft LM,SM
+| offensichtliche Mängel an der Verplombung des Fahrtschreibers und/oder der sonstigen Sicherungseinrichtungen | SM |
 
-großwinkeliger für Fahrzeuge
+| pos. Prüfnachweis fehlt bzw. offensichtliche Abweichungen | SM, VM |
 
-Außenspiegel/ der Klassen N2
+| 7.9.1 | Fahrtschreiber/ Kontrollgerät (Funktion) |
 
-Anfahrspiegel fehlt SM,VM 7,5 t, N3 und
+| offensichtlich falsche oder mangelhafte Aufzeichnung | SM |
 
-M3
+| 7.10 | Geschwindigkeitsbegrenzer |
 
-Genehmigungszeichen fehlt VM
+| nicht gemäß Richtlinie 92/6/EWG eingebaut | SM |
 
-3.4 221 Scheibenwischer
+| Einbauschild ungültig, fehlt | SM |
 
-Wischer arbeitet zu
+| offensichtlich Mängel an der Verplombung und/ oder der sonstigen Sicherungseinrichtungen gegen unbefugte Eingriffe verletzt | SM |
 
-schnell oder zu langsam SM
+| Pos. Prüfnachweis fehlt bzw. offensichtliche Abweichungen | SM, VM |
 
-Wischerblätter fehlen,
+| 7.10.1 | Geschwindigkeitsbegrenzer (Funktion) |
 
-unbrauchbar oder
+| offensichtlich mangelhafte Funktion | SM |
 
-schadhaft SM
+| VSET über zulässigem Wert | SM |
 
-Gestänge/Wischerachsen
+| 7.11 | Befestigung der Batterie |
 
-stark ausgeschlagen SM
+| unsachgemäß, lose | LM, SM |
 
-Heckscheibenwischer
+| 7.11.1 | Batterietrennschalter |
 
-defekt, fehlt oder
+| fehlt, Anbringung mangelhaft, unwirksam | SM |
 
-unwirksam LM
+| 7.12 | Gasanlage für den Antrieb von Kraftfahrzeugen |
 
-3.5 221 Scheibenwascher
+| Betriebsvorschrift und Betriebsbuch/Nachweis der Genehmigung fehlen | SM |
 
-(Windschutzscheibe)
+| mangelhafter Zustand/Verlegung von Kraftgasleitungen | LM, SM, GV |
 
-fehlt oder unwirksam SM
+| mangelhafter Schutz von Anlagenbauteilen | LM, SM |
 
-3.6 251 Defroster
+| mangelhafte Befestigung von Anlagenbauteilen | SM, GV |
 
-nicht funktionsfähig LM,SM
+| unrichtige Eintragungen der Herstellernummern der Kraftgastanks im Betriebsbuch fehlen | SM |
 
-4 Leuchten, Rückstrahler
+| Eintragungen über wiederkehrende Überprüfung der Kraftgastanks im Betriebsbuch fehlen | SM |
 
-und sonstige elektrische
+| Bedenken gegen die Betriebssicherheit der Gasanlage | SM, GV |
 
-Anlagen
+| 7.13 | Ständer-Fußrasten |
 
-4.1 101 Scheinwerfer für Fern-
+| Rückholfeder fehlt, gebrochen oder zu schwach | GV |
 
-und Abblendlicht
+| Kippständer fehlt oder unbrauchbar | SM |
 
-4.1.1 101 Zustand und Funktion
+| Anfahrsicherung (falls vorgeschrieben) ohne Funktion bzw. fehlt | SM |
 
-Scheinwerfer fehlt, ohne
+| Seitenständer vorschriftswidrig | VM |
 
-oder ungenügende Funktion SM
+| Ständer in Fahrtstellung nicht fixiert | SM |
 
-Scheinwerfer bei
+| Fußrasten fehlen, stark verbogen, nicht arretierbar | SM |
 
-Kraftwagen nicht
+| Fußrastenoberfläche glatt | LM |
 
-paarweise SM
+| 7.14 | Kette /Antriebsriemen |
 
-Scheinwerfer links und
+| Locker | SM, GV |
 
-rechts verschiedener
+| unzulässig abgenützt | SM, GV |
 
-Bauart SM
+| Kettenschloss unsachgemäß montiert | SM |
 
-102 Anbau nicht
+| Kettenritzel oder Kettenrad abgenützt | LM, SM, GV |
 
-vorschriftsmäßig SM,VM
+| Kettenritzel oder Kettenrad offensichtlich nicht serienmäßig | SM |
 
-102 Summe der Kennzahlen
+| Kettenspannvorrichtung fehlt | SM, GV |
 
-über 75 SM,VM Fahrzeuge mit
+| Kettenspannvorrichtung locker, beschädigt, Sicherung fehlt | SM |
 
-erstmaliger
+| Kettenschutz fehlt | SM, GV | Ausnahme: wenn genehmigt |
 
-Zulassung bis
+| Kettenschutz locker, verbogen | SM |
 
-3/1997 über
+| 7.15 | Zapfwellenabdeckung |
 
-100
+| fehlt, gebrochen | LM SM |
 
-Befestigung unzureichend SM
+| 7.16 | Kipp- bzw. Ladevorrichtung |
 
-4.1.2 101 Einstellung
+| Prüfnachweis fehlt | VM |
 
-Scheinwerfer zu hoch oder
+| offensichtliche Mängel | LM; SM |
 
-zu niedrig SM
+| Tragfähigkeitsschild fehlt | VM |
 
-Leuchtweitenregulierung
+| 7.17 | Anlassvorrichtung |
 
-defekt LM,SM
+| ohne Funktion | SM, GV |
 
-Leuchtweitenregulierung
+| 7.18 | Haltegriffe |
 
-fehlt/defekt bei
+| fehlt oder beschädigt | SM |
 
-Fahrzeugen mit
+| 7.19 | Druckbehälter |
 
-Gasentladungsscheinwerfern SM
+| -bescheinigungen fehlen | SM |
 
-4.1.3 102 Schalter
+| 7.20 | Ersatzrad nur für Omnibusse |
 
-beschädigt, LM
+| fehlt oder unbrauchbar | SM, VM |
 
-Lichthupe defekt SM
+| 7.21 | Kennzeichnungstafeln |
 
-101 Fernlichtkontrolleuchte
+| fehlen, unbrauchbar | SM, VM |
 
-defekt oder fehlt,
+| falsche Anbringung | LM, VM |
 
-Schaltfehler SM,VM
+| 7.22 | Aufschriften/Geschwindigkeitsschild |
 
-4.1.4 101 Optischer Wirkungsgrad
+| fehlt | LM, VM |
 
-Scheinwerfergläser fehlen
+| 7.23 | Schneeketten (Fahrzeug M2, M3, N2, N3) |
 
-oder erheblich beschädigt SM
+| geeignete Schneeketten für die Räder mindestens einer Antriebsachse fehlen | LM | Zeitraum vom 1. November bis |
 
-Streuscheibe geringfügig
+| 15. April |
 
-gesprungen LM
+| 8 | Umweltbelästigungen |
 
-Reflektor leicht
+| 8.1 | Lärmentwicklung |
 
-angegriffen LM weniger als
+| Auspuffanlage undicht, schadhaft (vgl. auch 6.1.2) | LM, SM |
 
-ca. 10% der
+| Originalanlage geändert, ersetzt, Genehmigung nicht nachgewiesen | VM |
 
-Fläche
+| Stand- und/oder Fahrgeräusch um mehr als 3 dB(A) über dem zulässigen Wert; Nahfeldpegel (gemessen) | SM |
 
-Reflektor fehlt, blind,
+| Stand- und/oder Fahrgeräusch um mehr als 12 dB(A) über dem genehmigten Wert; Nahfeldpegel (gemessen) | GV |
 
-verrostet SM mehr als ca.
+| Sonstige lärmrelevante Bauteile schadhaft, fehlen | SM |
 
-10% der Fläche
+| Lärmarmnachweis fehlt oder abgelaufen | VM |
 
-Scheinwerfer innen
+| 8.2 | Auspuffabgase |
 
-verschmutzt oder naß SM
+| 8.2.1 | Kraftfahrzeuge mit Motoren mit Fremdzündung: |
 
-Falsche Glühlampe SM,VM zB H4 mit
+| erforderliche Bauteile zur Emissionsminderung schadhaft, fehlen zur Gänze oder unvollständig | SM, GV |
 
-Streuscheibe oder Zwischenringen
+| Auspuffanlage undicht, schadhaft | SM |
 
-Lampe verdreht eingebaut SM
+| übermäßige Rauchentwicklung | SM |
 
-Verminderung der
+| Zündanlage |
 
-Lichtaustrittsfläche
+| Fliehkraftverstellung/Unterdruckverstellung/ Kondensator/Zündspule/ Verteiler/Zündkabel/ Kerzenstecker/Kerze defekt | SM |
 
-durch Klebestreifen oder
+| Zündkerze offensichtlich falscher Wärmewert | SM |
 
-Gummidichtungen SM
+| Unterbrecher stark verschlissen | SM |
 
-Veränderung der
+| Unterdruckschläuche porös/undicht | LM, SM |
 
-Streuscheibe (zB Lack
+| Zündzeitpunkt mehr als 3° abweichend (Anmerkung: vom Sollwert bei Herstellerangabe) | SM |
 
-oder Folie) SM,VM
+| Schließwinkel mehr als 5° abweichend (Anmerkung: vom Sollwert bei Herstellerangabe) | SM |
 
-Scheinwerfer desselben
+| Luftfilter |
 
-Paares mit Licht
+| unsachgemäß befestigt/lose | LM, SM |
 
-verschiedener Farbe SM,VM
+| Filtereinsatz fehlt oder nicht funktionstüchtig | SM |
 
-Abdeckung durch Anbauten SM,VM
+| Filtereinsatz verschmutzt | LM, SM |
 
-Scheinwerferreinigungsanlage
+| a.) Bei Kraftfahrzeugen mit Motoren mit Fremdzündung, ausgenommen Fahrzeuge der Klasse L: |
 
-fehlt/defekt bei
+| a.1) ohne moderne Abgasreinigungsanlage wie z.B. 3-Wege-Katalysatator mit Lambdasondenregelung*) |
 
-Fahrzeugen mit
+| a.1.1.) CO-Gehalt über dem vom Hersteller angegebenen Wert bzw. wenn keine entsprechenden Werte vorliegen über 3,5 Vol-% | SM | Für Kraftfahrzeuge mit erstmaliger Zulassung vor 1.1.1980, 4,5 Vol-% |
 
-Gasentladungsscheinwerfern SM
+| a.1.2.) HC-Gehalt über dem vom Hersteller angegebenen Wert bzw. wenn keine entsprechenden Werte vorliegen über 600 ppm, | SM |
 
-4.2 Begrenzungs-, Umriß-,
+| a.2.) mit moderner Abgasreinigungsanlage wie z.B 3-Wege-Katalysator mit Lambdasondenregelung*) |
 
-Seitenmarkierungs- und
+| a.2.1.) CO-Gehalt über dem vom Hersteller angegebenen Wert | SM |
 
-Schlußleuchten
+| Liegen hierzu keine Werte vor, gilt für |
 
-4.2.1 103 Zustand und Funktion
+| a.2.2.) CO-Gehalt im Leerlauf |
 
-Begrenzungsleuchten
+| Für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 1. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/ 220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO III) genehmigt wurden, bei einem Wert höher als 0,3 Vol.-% | SM |
 
-fehlen oder sind ohne
+| in allen and. Fällen Wert höher als 0,5 Vol.-% | SM |
 
-Funktion SM
+| a.2.3.) CO-Gehalt bei erhöhter Leerlaufdrehzahl (ohne Last) von mindestens 2000 1/min: |
 
-Umrißleuchten fehlen oder
+| Für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 01. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220 /EWG idF. 98/69/EG oder später geänderten Fassungen ( d.h. ab EURO III) genehmigt wurden, bei einem Wert höher als 0,2 Vol.-% | SM |
 
-sind ohne Funktion SM
+| In allen anderen Fällen Wert höher als 0,3 Vol.-% | SM |
 
-104 Schlußleuchten fehlen
+| a.2.4.) Lambda |
 
-oder sind ohne Funktion SM,GV
+| kleiner als 0,97 oder größer als 1,03 | SM |
 
-104 Erhebliche Abweichungen
+| a.2.5.) HC-Wert über 60 ppm, | SM |
 
-von den
+| a.3.) mit On-Board-Diagnosesystemen (OBD)*): |
 
-Anbringungsvorschriften SM,VM
+| a.3.1.) |
 
-103 Abdeckung durch Anbauten SM,VM
+| bei Einschalten der Zündung leuchtet OBD-Kontrollleuchte nicht | SM |
 
-Schaltfehler SM
+| bei laufendem Motor blinkt diese bzw. leuchtet ständig | SM |
 
-Anbaugeräte oder
+| a.3.2.) Bei Kraftfahrzeugen, welche mit On-Board-Diagnosesystemen ausgerüstet sind, kann alternativ zu den Prüfungen nach a.2.2. ein angemessenes Auslesen des OBD-Gerätes bei gleichzeitiger Prüfung des ordnungsgemäßen Funktionierens des OBD-Systems erfolgen: Abgassystem bzw. OBD-System funktioniert nicht ordnungsgemäß *) | SM |
 
-Fahrzeugteile ragen um
+| b.) Bei Kraftfahrzeugen der Klasse L mit Motoren mit Fremdzündung, ausgenommen solche mit Kurbelgehäusespülung: CO-Gehalt im Leerlauf höher als 4,5 Vol.-% | SM |
 
-mehr als 40 cm seitlich
+| 8.2.2 | Kraftfahrzeuge mit Motoren mit Selbstzündung: |
 
-über die Leuchten hinaus SM,VM
+| erforderliche Bauteile zur Emissionsminderung | SM |
 
-bei Leuchten mit
+| schadhaft, fehlen zur Gänze oder unvollständig | SM |
 
-mehreren Lichtquellen:
+| Auspuffanlage undicht, schadhaft |
 
-50% oder mehr der
+| Übermäßige Rauchentwicklung | SM |
 
-Lichtquellen ausgefallen SM
+| Luftfilter |
 
-bei Leuchten mit
+| unsachgemäß befestigt/lose | LM, SM |
 
-mehreren Lichtquellen:
+| Filtereinsatz fehlt oder nicht funktionstüchtig | SM |
 
-weniger als 50% der
+| Filtereinsatz verschmutzt | LM, SM |
 
-Lichtquellen ausgefallen LM
+| c.) Messung der Abgastrübung | Gemäß Richtlinie 96/96/EG idgF. |
 
-4.2.2 103) Lichtfarbe und optischer
+| c.1.) Gemessener Wert der Abgastrübung liegt über dem vom Fahrzeughersteller angegebenen Wert (Anmerkung: gemäß der Richtlinie 72/306/EWG oder 77/537/ EWG) | SM |
 
-Wirkungsgrad
+| Überschreitet der gemessene Wert die Grenzen nach c.2., c.3. oder c.4. (wo zutreffend) | SM |
 
-104) alle Begrenzungs- oder
+| Liegen vom Fahrzeughersteller keine Werte vor, gilt: |
 
-Schlußleuchten in der
+| c.2.) für Kraftfahrzeuge mit Saugmotoren Absorptionsbeiwert über 2,5 m-1 | SM |
 
-Wirkung erheblich
+| c.3.) für Kraftfahrzeuge mit Turbomotoren Absorptionsbeiwert über 3,0 m-1 | SM |
 
-beeinträchtigt oder Farbe
+| c.4.) für Kraftfahrzeuge |
 
-nicht vorschriftsmäßig SM,VM
+| welche gem. den Grenzwerten Zeile B, Anh. I, Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder |
 
-Leuchtscheibe fehlt SM
+| welche zumindest gemäß den Grenzwerten Zeile B1, Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder |
 
-Leuchtscheibe geringfügig
+| mit erstmaliger Zulassung nach dem 1. Juli 2008: Absorptionsbeiwert über1,5 m-1 | SM |
 
-gesprungen LM
+| c.5.) für Kraftfahrzeuge mit erstmalig. Zulassung vor dem 01.01.1980: mehr als 1 Bacharacheinheit über dem Genehmigungswert | SM | (Anm: tritt mit 31.12.2008 außer Kraft) |
 
-Leuchtscheibe gesprungen
+| Liegen hierzu keine Werte vor, gilt: mehr als 6 Bacharacheinheiten | SM |
 
-oder ausgebrochen SM
+| 8.3 | Funkentstörung |
 
-Veränderung der
+| offensichtlich mangelhaft | SM |
 
-Streuscheibe (zB Lack
+| 8.4 | Flüssigkeitsverlust |
 
-oder Folie) SM,VM
+| Ölverlust (kontinuierliche Tropfenbildung) | LM, SM, GV |
 
-offensichtlich falsche
+| Austritt gefährlicher Flüssigkeiten | SM, GV |
 
-Glühlampe SM,VM
+| 9. | Zusätzliche Prüfpunkte für Fahrzeuge, die der Fahrgastbeförderung dienen |
 
-ausgebleichte
+| 9.1 | Notausstieg(e) (einschließlich Hammer zum Einschlagen der Scheiben) |
 
-Leuchtscheiben LM
+| Notausstiegshinweisschilder fehlen | SM |
 
-4.3 107 Bremsleuchten
+| 9.2 | Heizung |
 
-4.3.1 107 Zustand und Funktion
+| ohne Funktion | SM |
 
-alle Leuchten ohne
+| Gefahr durch Motorabgase | GV |
 
-Funktion oder in der
+| 9.3 | Lüftung |
 
-Wirkung erheblich
+| ohne Funktion | SM |
 
-beeinträchtigt SM,GV
+| Gefahr durch Motorabgase | GV |
 
-falsche Montage der
+| 9.4 | Ausstattung der Sitze |
 
-Leuchten SM,VM
+| Sitze mangelhaft befestigt, beschädigt | SM |
 
-Fehlt, Kraftwagen oder
+| Sitzbezüge beschädigt | LM |
 
-Anhängern nicht paarweise
+| Sitzplatzanzahl über der genehmigten | GV, VM |
 
-(ausgenommen
+| 9.5 | Innenbeleuchtung |
 
-3. Bremsleuchte) SM,VM
+| fehlt, ausgefallen | SM |
 
-ohne Funktion SM
+| einzelne Lampen ausgefallen | LM |
 
-Sichtbereich
+| 9.6 | Wagenbuch |
 
-beeinträchtigt durch
+| Nicht vorgelegt | VM |
 
-Anbauten SM,VM
+| 10. | Identifizierung des Fahrzeuges |
 
-bei Leuchten mit
+| 10.1 | Kennzeichentafeln |
 
-mehreren Lichtquellen:
+| schlecht lesbar, umgebogen, beschädigt | LM, SM |
 
-50% oder mehr der
+| nicht fest oder nicht ordnungsgemäß angebracht | LM, SM |
 
-Lichtquellen ausgefallen SM
+| Kennzeichen bildet Teil der Radabdeckung (Krad) | LM, SM |
 
-bei Leuchten mit
+| 10.2 | Fahrgestellnummer |
 
-mehreren Lichtquellen:
+| fehlt, unvollständig, nicht lesbar, nicht original | SM, VM |
 
-weniger als 50% der
+| 10.3 | Motortype |
 
-Lichtquellen ausgefallen LM
-
-4.3.2 107 Lichtfarbe und optischer
-
-Wirkungsgrad
-
-Farbe oder Glühlampen
-
-nicht vorschriftsmäßig SM,VM
-
-offensichtlich falsche
-
-Lampe SM,VM
-
-Leuchtscheibe geringfügig
-
-gesprungen LM
-
-Leuchtscheibe fehlt,
-
-durchgehend gesprungen
-
-oder ausgebrochen SM
-
-Leuchtscheibe
-
-offensichtlich
-
-nachträglich eingefärbt
-
-(zB Lack oder Folie) SM,VM
-
-4.4 106 Fahrtrichtungsanzeiger
-
-4.4.1 106 Zustand und Funktion
-
-alle Leuchten ohne
-
-Funktion oder in der
-
-Wirkung erheblich
-
-beeinträchtigt SM,GV
-
-eine fehlt, ohne Funktion
-
-oder in der Wirkung
-
-erheblich beeinträchtigt SM
-
-Erhebliche Abweichung
-
-von den
-
-Anbringungsvorschriften SM,VM
-
-Abdeckung durch Anbauten SM,VM
-
-Schaltfehler SM
-
-Warnblinklicht
-
-(Warnblinkanlage) LM,SM
-
-bei Leuchten mit
-
-mehreren Lichtquellen:
-
-50% oder mehr der
-
-Lichtquellen ausgefallen SM
-
-bei Leuchten mit
-
-mehreren Lichtquellen:
-
-weniger als 50% der
-
-Lichtquellen ausgefallen LM
-
-4.4.2 106 Lichtfarbe und optischer
-
-Wirkungsgrad
-
-Farbe nicht
-
-vorschriftsmäßig SM,VM
-
-Leuchtscheibe fehlt SM
-
-Leuchtscheibe geringfügig
-
-gesprungen LM
-
-Leuchtscheibe durchgehend
-
-gesprungen oder
-
-ausgebrochen SM
-
-Veränderung der
-
-Streuscheibe (zB Lack
-
-oder Folie) SM,VM
-
-offensichtlich falsche
-
-Glühlampe SM,VM
-
-4.4.3 106 Schalterbeschädigt LM
-
-weder optische noch
-
-akustische Anzeige SM,VM
-
-Schalter bleibt nicht in
-
-Einschaltstellung SM
-
-Kontrolleinrichtung für
-
-Anhängerbetrieb fehlt LM,VM
-
-4.4.4 106 Blinkfrequenzweniger als
-
-60 oder mehr als
-
-120 Perioden pro Minute SM
-
-4.5 102 Nebelscheinwerfer und
-
-Nebelschlußleuchten
-
-4.5.1 102) Anbringung
-
-109) nicht vorschriftsmäßig SM,VM
-
-4.5.2 102 Zustand und Funktion
-
-alle oder eine Leuchte
-
-ohne Funktion oder in der
-
-Wirkung beeinträchtigt SM
-
-Schaltfehler SM
-
-109 Nebelschlußleuchte
-
-keine Kontrolleuchte SM,VM
-
-109 Schaltfehler SM
-
-bei Leuchten mit
-
-mehreren Lichtquellen:
-
-50% oder mehr der
-
-Lichtquellen ausgefallen SM
-
-bei Leuchten mit
-
-mehreren Lichtquellen:
-
-weniger als 50% der
-
-Lichtquellen ausgefallen LM
-
-4.5.3 Lichtfarbe und optischer
-
-Wirkungsgrad
-
-109 Farbe nicht
-
-vorschriftsmäßig SM,VM
-
-102 Nebelscheinwerfer
-
-falsch eingestellt SM
-
-102 Reflektor fehlt, blind,
-
-verrostet SM
-
-Streuscheibe fehlt,
-
-durchgehend gesprungen
-
-oder ausgebrochen SM
-
-Scheinwerfer innen
-
-verschmutzt oder naß SM
-
-Streuscheibe verdreht
-
-eingebaut SM
-
-Scheinwerfer mit Licht
-
-verschiedener Farbe SM,VM
-
-Veränderung der
-
-Streuscheibe (zB Lack
-
-oder Folie) SM,VM
-
-109 Nebelschlußleuchte
-
-Veränderung der
-
-Streuscheibe (zB Lack
-
-oder Folie) SM,VM
-
-Streuscheibe fehlt,
-
-durchgehend gesprungen
-
-oder ausgebrochen SM
-
-4.6 110 Rückfahrscheinwerfer
-
-4.6.1 110 Zustand und Funktion
-
-alle oder eine Leuchte
-
-ohne Funktion oder in der
-
-Wirkung beeinträchtigt SM
-
-falsche elektrische
-
-Schaltung SM
-
-sonstige Mängel zB nicht
-
-vorschriftsmäßig LM,SM,
-
-VM
-
-bei Leuchten mit
-
-mehreren Lichtquellen:
-
-50% oder mehr der
-
-Lichtquellen ausgefallen SM
-
-bei Leuchten mit
-
-mehreren Lichtquellen:
-
-weniger als 50% der
-
-Lichtquellen ausgefallen LM
-
-4.6.2 110 Lichtfarbe und optischer
-
-Wirkungsgrad
-
-Farbe nicht
-
-vorschriftsmäßig SM,VM
-
-blendet SM
-
-4.7 108 Beleuchtung für das
-
-hintere Kennzeichen fehlt,
-
-ohne Funktion LM
-
-sonstige Mängel zB nicht
-
-vorschriftsmäßig LM,SM,
-
-VM
-
-weißes Licht nach hinten SM
-
-4.8 105 Rückstrahler
-
-4.8.1 105 Zustand und Farbe
-
-vorgeschriebene
-
-Rückstrahler fehlen oder
-
-sind verdeckt angebracht SM,VM
-
-Rückstrahler bei
-
-Kraftwagen und Anhängern
-
-nicht paarweise
-
-angebracht SM,VM
-
-Farbe oder Form stimmt
-
-nicht SM,VM
-
-verdrehte Anbringung SM
-
-erhebliche Abweichung von
-
-den
-
-Anbringungsvorschriften SM,VM
-
-Rückstrahler geringfügig
-
-gesprungen LM
-
-Rückstrahler durchgehend
-
-gesprungen SM
-
-4.9 106 Funktionsanzeiger
-
-vorgeschriebene
-
-Funktionsanzeiger fehlen
-
-oder sind nicht
-
-funktionsfähig LM,SM,
-
-VM
-
-4.10 111 Elektrische Verbindungen
-
-zwischen ziehendem
-
-Fahrzeug und Anhänger
-
-oder Sattelanhänger
-
-Verbindungseinrichtung
-
-fehlt vollständig oder
-
-teilweise SM
-
-falsche Schaltung oder
-
-Funktionsfehler in der
-
-elektrischen Schaltung SM
-
-mangelhafte Verbindung
-
-von elektrischen
-
-Leitungen LM,SM
-
-schadhafte Leitungen SM
-
-4.11 111 elektrische Leitungen
-
-mangelhafte Verlegung LM,SM
-
-schadhaft SM
-
-4.12 sonstige Leuchten und
-
-rückstrahlende Flächen
-
-Anbau bzw. Farbe
-
-unzulässig SM,VM
-
-5 Achsen, Räder, Reifen und
-
-Aufhängungen
-
-5.1 Achsen
-
-5.1.1 312) Achskörper
-
-313) Bruch GV
-
-Achskörper angerissen,
-
-verbogen, erhebliche
-
-Korrosion SM,GV
-
-unsachgemäße Reparatur SM,GV
-
-Gummielemente fehlen oder
-
-funktionslos SM
-
-5.1.2 312) Achsaufhängung
-
-313) ungenügende Befestigung,
-
-erhebliches Spiel SM,GV
-
-Aufhängung ausgeschlagen
-
-oder verformt SM,GV
-
-312 Vorderradgabel sichtbar
-
-verzogen SM,GV
-
-312) Schwingenlagerung
-
-ausgeschlagen SM,GV
-
-313) Gummielemente fehlen oder
-
-funktionslos SM
-
-Fangseil fehlt oder
-
-unbrauchbar SM
-
-5.1.3 322 Federung, Stabilisator
-
-Bruch, funktionslos SM,GV
-
-Beschädigung SM
-
-übermäßiger Verschleiß LM,SM
-
-Aufhängung oder
-
-Befestigung ausgeschlagen LM,SM,
-
-GV
-
-Befestigungen fehlen,
-
-gebrochen, stark
-
-korrodiert oder locker SM,GV
-
-unsachgemäße Veränderungen
-
-am Fahrwerk Tieferlegung,
-
-Unterschreitung der
-
-Bodenfreiheit von 11 cm
-
-ohne entsprechende
-
-Genehmigung, Kontrollmaß
-
-nicht eingehalten SM,GV
-
-5.1.4 323 Stoßdämpfer
-
-fehlt SM,GV
-
-Wirkungslosigkeit SM,GV
-
-Wirkungsbeeinträchtigung LM,SM
-
-Undichtheit LM,SM
-
-Kolbenstangenschutz
-
-gebrochen oder defekt LM
-
-Befestigung locker oder
-
-beschädigt SM
-
-5.1.5 311 Radlager
-
-Beschädigung SM,GV
-
-zu großes Spiel LM,SM
-
-übermäßiges Spiel GV
-
-erhebliches Laufgeräusch SM
-
-5.2 Räder/Felgen und Reifen
-
-5.2.1 402 Räder(Felgen)
-
-Riß oder Bruch GV
-
-verbogene oder
-
-beschädigte Räder LM,SM
-
-falsche
-
-Radmuttern/Radschrauben SM
-
-einzelne
-
-Radmuttern/Radschrauben
-
-fehlen oder lose SM,GV
-
-Rad für das Fahrzeug
-
-offensichtlich nicht
-
-geeignet SM,GV
-
-für den Reifen
-
-offensichtlich zu große
-
-oder zu kleine Felge SM,GV
-
-erhebliche Deformation
-
-des Felgenhornes, starker
-
-Schlag SM,GV
-
-Felgenbohrungen
-
-ausgeleiert oder
-
-eingerissen SM,GV
-
-Spurverbreiterung mittels
-
-Distanzbolzen oder
-
-Distanzscheibe SM,GV
-
-Speichen locker oder
-
-fehlen SM,GV
-
-Sicherungen bei geteilten
-
-Felgen fehlen oder
-
-schadhaft SM
-
-Felge nicht der
-
-Genehmigung entsprechend VM
-
-5.2.2 401 Bereifung
-
-Schäden SM,GV
-
-Profiltiefe nicht
-
-ausreichend SM,GV
-
-Reifen verschiedener
-
-Bauart montiert SM
-
-Winterreifen nicht
-
-achsweise SM
-
-Spikesreifen nicht auf
-
-allen Rädern SM
-
-unterschiedliche
-
-Reifendimensionen SM Ausnahme:
-
-unterdimensionierte Genehmigt
-
-Reifen in Bezug auf
-
-Größe, Tragfähigkeit oder
-
-Bauartgeschwindigkeit SM,GV,
-
-VM
-
-Behinderung des Schwenk-
-
-oder
-
-Einfederungsbereiches auf
-
-Grund zu großer
-
-Reifendimension SM,GV
-
-Scheuerstellen am Reifen
-
-und im Radkasten SM,GV
-
-Veränderung der größten
-
-Breite des Fahrzeuges
-
-(Reifen dürfen nicht über
-
-die Kotflügel
-
-hinausragen) SM,VM
-
-ECE-Zeichen fehlt SM,VM
-
-Reifen entsprechen nicht
-
-der Genehmigung SM,VM
-
-Fzge M1, N1, O1, O2
-
-PKW-Winterreifen (ausgen.
-
-Spikesreifen) mit mehr
-
-als 4 mm (Gürtelreifen)
-
-bzw. 5 mm
-
-(Diagonalreifen)
-
-Profiltiefe nicht auf
-
-allen Rädern LM
-
-fehlendes
-
-Geschwindigkeitssymbol,
-
-wenn
-
-Geschwindigkeitsindex des
-
-Winterreifens geringer
-
-als die
-
-Bauartgeschwindigkeit des
-
-Fahrzeuges LM,VM
-
-nachgeschnittene Reifen
-
-bei M1 oder L SM
-
-unsachgemäß
-
-nachgeschnittene Reifen,
-
-zB. Karkasse am bei Zwillings-
-
-Nutengrund sichtbar GV bereifung,
-
-wenn nur ein
-
-Reifen
-
-betroffen: SM
-
-unregelmäßige Abnützung
-
-der Lauffläche LM
-
-Reifen entlüftet,
-
-erheblich zu geringer
-
-Luftdruck LM,SM
-
-5.3 Aufhängungen
-
-5.3.1 312) Traggelenk
-
-313) ungenügende Sicherung SM
-
-Spiel LM,SM
-
-Gefahr des Lösens der
-
-Verbindung GV
-
-Gummimanschetten fehlen
-
-oder stark beschädigt SM
-
-5.3.2 312) Quer-, Schräg- und
-
-Längslenker
-
-313) Risse, verbogen, stark
-
-korrodiert GV
-
-unsachgemäß repariert SM,GV
-
-Spiel LM,SM
-
-ungenügende Befestigung,
-
-erhebliches Spiel SM,GV
-
-6 Fahrgestell, am
-
-Fahrgestell befestigte
-
-Teile
-
-6.1 Fahrgestell oder
-
-Fahrgestellrahmen und
-
-daran befestigte Teile
-
-6.1.1 301) Rahmen und sonstige
-
-tragende Teile
-
-341) Allgemeiner Zustand Bruch
-
-oder Riß SM,GV
-
-erhebliche Verbiegungen SM,GV
-
-302) erhebliche
-
-341) Korrosionsschäden mit
-
-wesentlicher Schwächung
-
-der Bauteile SM,GV
-
-geringe
-
-Korrosionsschäden, die
-
-kein Erneuern des
-
-Bauteils oder Verwendung
-
-spezieller
-
-Reparaturbleche erfordern LM,SM
-
-unsachgemäße Verbindungen SM,GV
-
-mehrere Rahmenniete oder
-
--schrauben gelockert oder
-
-gebrochen SM,GV
-
-Schäden bei einzelnen
-
-Nieten oder Schrauben LM
-
-6.1.2 501 Abgasführungen und
-
-Schalldämpfer
-
-Auspuffanlage oder
-
-Leitungen stark undicht SM
-
-Aufhängung beschädigt SM
-
-leicht undicht,
-
-mangelhafte Befestigung LM,SM
-
-6.1.3 543) Kraftstoffbehälter und
-
--leitungen
-
-541) undicht SM,GV
-
-ungeeignete Befestigung
-
-des Behälters SM
-
-mangelhafte Verlegung der
-
-Kraftstoffleitung LM,SM,
-
-GV
-
-Tankverschluß fehlt SM,GV
-
-Kraftstoffbehälter
-
-deformiert LM,SM
-
-6.1.4 307 Abmessungen und Zustand
-
-des Unterfahrschutzes und
-
-Seitenunterfahrschutzes
-
-bei Lastkraftwagen und
-
-Anhängern in den
-
-Abmessungen unzureichend SM,VM
-
-Befestigung lose LM,SM
-
-verbogen LM
-
-6.1.5 401 Halterung des Ersatzrades
-
-Befestigung lose SM
-
-Sicherung des Ersatzrades
-
-fehlt SM
-
-6.1.6 Verbindungseinrichtungen
-
-am Zugfahrzeug, Anhänger
-
-und Sattelanhänger
-
-361 Fahrzeugverbindende
-
-Einrichtungen
-
-(Anhängekupplung,
-
-Sattelkupplung)
-
-schadhaft, in der
-
-Funktion beeinträchtigt SM,GV
-
-übermäßiges Spiel
-
-(Verschleißgrenze
-
-überschritten) SM,GV
-
-unzureichende Befestigung SM,GV
-
-Sicherung defekt oder
-
-fehlt GV
-
-Typenschild fehlt LM,VM
-
-911 Zugeinrichtung am
-
-Anhänger
-
-Befestigung gelockert,
-
-zu großes Spiel SM,GV
-
-schadhafte Sicherung der
-
-Befestigung SM,GV
-
-Zuggabel/Zugrohr stark
-
-verbogen oder angerissen SM,GV
-
-Zuggabel/Zugrohr
-
-unzulässig oder
-
-unsachgemäß
-
-reparaturgeschweißt SM,GV
-
-Höheneinstellung fehlt
-
-oder unzureichend SM
-
-Kugelpfanne nicht
-
-arretierbar oder
-
-sicherbar SM,GV
-
-Sicherungsverbindung
-
-fehlt oder unbrauchbar SM
-
-6.1.7 Abschleppeinrichtung
-
-vo/hi
-
-fehlt oder unbrauchbar
-
-(falls erforderlich) LM
-
-6.2 Führerhaus und Karosserie
-
-6.2.1 Allgemeiner Zustand
-
-351 gefährdende Fahrzeugteile
-
-innen oder außen LM,SM,GV
-
-nicht genehmigte
-
-Veränderungen (Zu- oder
-
-Anbauten) VM
-
-307 Laderaumboden, Wände,
-
-Rungen, Verschlüsse
-
-ungenügende Befestigung SM
-
-starke Beschädigungen SM
-
-307 Laderaumplane, Gestell,
-
-Verschlüsse
-
-Spriegelgestell
-
-beschädigt LM,SM
-
-unzureichende Befestigung SM
-
-Bordwandverschlüsse
-
-schadhaft LM,SM
-
-304 Korrosionsschäden an
-
-tragenden Teilen LM,SM
-
-343 Radabdeckungen fehlen SM
-
-Radabdeckungen nicht
-
-ausreichend wirksam LM,SM
-
-Spritzschutz für Fahrzeuge
-
-fehlt oder ohne der Klassen
-
-entsprechende N2 7,5 t, N3
-
-Genehmigung SM und M3 mit
-
-Genehmigung
-
-nach dem
-
-8. September
-
-1999
-
-6.2.2 307 Befestigung
-
-Kippmechanismus des
-
-Führerhauses beschädigt
-
-oder ausgeschlagen LM,SM
-
-Sicherung fehlt oder
-
-unzureichend SM,GV
-
-Niederspannvorrichtung
-
-fehlt oder wirkungslos SM
-
-Hydraulik- oder
-
-Druckluftteil undicht LM,SM
-
-Luftleiteinrichtungen
-
-(Spoiler) unzureichende
-
-Befestigung LM,SM
-
-6.2.3 306 Türen und Schlösser
-
-unbeabsichtigtes Öffnen
-
-möglich SM,GV
-
-Tür fehlt SM,VM
-
-Tür durchgerostet LM,SM
-
-Tür schließt schlecht LM
-
-Fronthaubenfanghaken
-
-funktionslos oder fehlt SM
-
-Scharniere beschädigt SM
-
-6.2.4 304 Boden
-
-Korrosionsschäden LM,SM
-
-6.2.5 342 Sitze
-
-Sitzbefestigung
-
-unzureichend SM,GV
-
-keine sichere
-
-Lehnenbefestigung oder
-
-Arretierung SM,GV
-
-nicht vorschriftsmäßige
-
-Sitzausführung SM
-
-Sitzpolster schadhaft LM
-
-Haltegriffe fehlen oder
-
-locker SM,VM
-
-Kopfstütze fehlt oder
-
-nicht arretierbar SM,VM
-
-701 Pedale oder
-
-Betätigungseinrichtungen
-
-Pedale nicht gleitsicher LM
-
-- sonstige Mängel LM,SM
-
-6.2.6 307 Trittstufen
-
-Trittstufen oder
-
-Einstiege
-
-falsche Anbringung (zu
-
-hoch) SM,VM
-
-nicht gleitsicher LM,SM
-
-beschädigt SM
-
-6.3 324 Kraftübertragung (Motor,
-
-Kupplung, Getriebe,
-
-Kardanwelle,
-
-Differenzial, Halbachsen)
-
-Kupplung rutscht, nicht
-
-lösbar SM,GV
-
-Rückwärtsgang defekt SM,GV
-
-Risse (zB Hardyscheibe) SM,GV
-
-Starke Abnützung der
-
-Gelenke und Lagerung SM,GV
-
-Gelenke locker oder
-
-Befestigungsschrauben
-
-fehlen SM,GV
-
-Antriebswellenmanschetten
-
-fehlen oder durchgehend
-
-gerissen SM
-
-7 Sonstige Ausstattungen
-
-soweit vorgeschrieben
-
-7.1 Sicherheitsgurte
-
-7.1.1 271 Sicherheit des Einbaus
-
-lose SM
-
-7.1.2 271 Zustand der Gurte
-
-fehlen oder unbrauchbar SM,VM
-
-beschädigt LM,SM
-
-unzul. Anbringung VM,SM
-
-7.1.3 271 Betrieb
-
-Retraktor nicht
-
-funktionsfähig SM
-
-Schloß nicht
-
-funktionsfähig SM
-
-Gurtstrammer
-
-offensichtlich defekt LM,SM
-
-7.1.4 - Airbag
-
-deaktiviert/ausgebaut LM
-
-7.2 - Feuerlöscher, falls
-
-erforderlich
-
-fehlt SM
-
-Befestigung mangelhaft LM,SM
-
-Überprüfungsfrist
-
-abgelaufen LM,SM
-
-Plombierung fehlt SM
-
-7.3 306 Schlösser und
-
-Diebstahlsicherung
-
-fehlt oder mangelhafte
-
-Funktion SM,GV
-
-7.4 002 Warndreieck
-
-fehlt oder beschädigt LM,VM
-
-7.5 003 Verbandzeug
-
-fehlt oder unvollständig LM,VM
-
-7.6 802 Unterlegkeil(e) für
-
-Räder, falls erforderlich
-
-fehlen, unbrauchbar SM
-
-Unterbringung mangelhaft SM
-
-7.7 201 Schallzeichen
-
-funktionslos SM
-
-zu laut, zu leise SM
-
-Folgetonhorn (ausgen.
-
-Einsatzfahrzeuge) SM
-
-falsche Lage der
-
-Betätigungsvorrichtung SM
-
-Rückfahrwarner ohne für Fahrzeuge der
-
-Funktion, fehlt SM Klassen N2, N3, M3
-
-Rückfahrwarner nicht
-
-rückschaltbar VM
-
-7.8 261 Geschwindigkeitsmesser
-
-funktionslos SM
-
-bei Krafträdern: Glas des
-
-Geschwindigkeitsmessers
-
-gesprungen LM
-
-7.9 261 Fahrtschreiber/
-
-Kontrollgerät
-
-(Vorhandensein und
-
-Verplombung)
-
-Einbauschild ungültig,
-
-fehlt SM
-
-- offensichtliche Mängel an
-
-der Verplombung des
-
-Fahrtschreibers und/oder
-
-der sonstigen
-
-Sicherungseinrichtungen SM
-
-- Prüfnachweis fehlt bzw.
-
-offensichtliche
-
-Abweichungen SM,VM
-
-7.9.1 - Fahrtschreiber/
-
-Kontrollgerät (Funktion)
-
-offensichtlich falsche
-
-oder mangelhafte
-
-Aufzeichnung SM
-
-7.10 - Geschwindigkeitsbegrenzer
-
-nicht gemäß RiLi 92/6/EWG
-
-eingebaut SM
-
-Einbauschild ungültig,
-
-fehlt SM
-
-offensichtliche Mängel an
-
-der Verplombung des
-
-Geschwindigkeits-
-
-begrenzers und/oder der
-
-sonstigen
-
-Sicherungseinrichtungen
-
-gegen unbefugte Eingriffe
-
-verletzt SM
-
-Prüfnachweis fehlt bzw.
-
-offensichtliche
-
-Abweichungen SM,VM
-
-7.10.1 - Geschwindigkeitsbegrenzer
-
-(Funktion)
-
-offensichtlich
-
-mangelhafte Funktion SM
-
-7.11 111 Befestigung der Batterie
-
-unsachgemäß, lose SM
-
-7.11.1 111 Batterietrennschalter
-
-fehlt, Anbringung
-
-mangelhaft, unwirksam SM
-
-7.12 543 Gasanlage
-
-Betriebsbuch fehlt SM
-
-Nachweis der Genehmigung
-
-fehlt SM
-
-Eintragungen über
-
-Überprüfung des
-
-Flüssiggasbehälters
-
-fehlen SM
-
-Bedenken gegen die
-
-Betriebssicherheit der
-
-Gasanlage SM
-
-7.13 701 Ständer-Fußrasten
-
-Rückholfeder fehlt,
-
-gebrochen oder zu schwach GV
-
-Kippständer fehlt oder
-
-unbrauchbar SM
-
-Seitenständer
-
-vorschriftswidrig VM
-
-Ständer in Fahrtstellung
-
-nicht fixiert SM
-
-Fußrasten fehlen, stark
-
-verbogen, nicht
-
-arretierbar SM
-
-Fußrastenoberfläche glatt LM
-
-7.14 702 Kette
-
-Locker SM,GV
-
-unzulässig abgenützt SM,GV
-
-Kettenschloß unsachgemäß
-
-montiert SM
-
-Kettenritzel oder
-
-Kettenrad stark abgenützt SM,GV
-
-Kettenritzel oder
-
-Kettenrad offensichtlich
-
-nicht serienmäßig SM,VM
-
-703 Kettenspannvorrichtung
-
-fehlt SM,GV
-
-Kettenspannvorrichtung
-
-locker, beschädigt,
-
-Sicherung fehlt SM
-
-704 Kettenschutz fehlt SM,GV
-
-Kettenschutz locker,
-
-verbogen SM
-
-7.15 801 Zapfwellenabdeckung
-
-fehlt, gebrochen LM,SM
-
-7.16 307 Kipp- bzw.
-
-Ladevorrichtung
-
-Prüfnachweis fehlt SM,VM
-
-offensichtliche Mängel LM,SM
-
-Tragfähigkeitsschild fehlt VM
-
-7.17 111 Anlaßvorrichtung
-
-ohne Funktion SM,GV
-
-7.18 342 Haltegriffe
-
-fehlt oder beschädigt SM
-
-7.19 543 Druckbehälter
-
--bescheinigungen fehlen SM
-
-7.20 401 Ersatzrad, falls
-
-erforderlich
-
-fehlt oder unbrauchbar SM,VM
-
-7.21 - Kennzeichnungstafeln
-
-fehlen, unbrauchbar SM,VM
-
-falsche Anbringung LM,VM
-
-7.22 - Aufschriften/
-
-Geschwindigkeitsschild
-
-fehlt LM,VM
-
-8 Umweltbelästigungen
-
-8.1 501 Lärmentwicklung
-
-Auspuffanlage undicht,
-
-schadhaft LM,SM
-
-Originalanlage geändert,
-
-ersetzt, Genehmigung
-
-nicht nachgewiesen VM
-
-Stand- und/oder
-
-Fahrgeräusch
-
-offensichtlich erheblich
-
-über dem zulässigen Wert SM Nahfeldpegel
-
-(gemessen) um
-
-mehr als 6 dB(A)
-
-über dem
-
-genehmigten Wert
-
-GV Nahfeldpegel
-
-(gemessen) um
-
-mehr als 12 dB(A)
-
-über dem
-
-genehmigten Wert
-
-Sonstige lärmrelevante
-
-Bauteile schadhaft,
-
-fehlen SM
-
-Lärmarmnachweis fehlt
-
-oder abgelaufen VM
-
-8.2 Auspuffabgase
-
-8.2.1 501 Kraftfahrzeuge mit Motoren mit Fremdzündung:
-
-erforderliche Bauteile zur Emissionsminderung
-
-schadhaft, fehlen zur Gänze oder
-
-unvollständig SM,GV
-
-Auspuffanlage undicht, schadhaft SM
-
-565 übermäßige Rauchentwicklung SM
-
-531 Zündanlage
-
-Fliehkraftverstellung/Unterdruckverstellung/
-
-Kondensator/Zündspule/Verteiler/Zündkabel/
-
-Kerzenstecker/Kerze defekt SM
-
-Zündkerze offensichtlich falscher Wärmewert SM
-
-Unterbrecher stark verschlissen SM
-
-Unterdruckschläuche porös/undicht LM,SM
-
-Zündzeitpunkt mehr als 3 °abweichend
-
-(Anmerkung: vom Sollwert bei
-
-Herstellerangabe) SM
-
-Schließwinkel mehr als 5 ° abweichend
-
-(Anmerkung: vom Sollwert bei Herstellerangabe) SM
-
-542 Luftfilter
-
-unsachgemäßbefestigt/lose LM,SM
-
-Filtereinsatz fehlt oder nicht
-
-funktionstüchtig SM
-
-Filtereinsatz verschmutzt LM,SM
-
-a.) Bei Kraftfahrzeugen mit Motoren mit Fremdzündung, ausgenommen Fahrzeuge der Klasse L:
-
-a.1) ohne moderne Abgasreinigungsanlage wie z. B.
-
-Dreiwege-Katalysator mit Lambdasondenregelung *1)
-
-561,562 a.1.1.) CO-Gehalt über dem vom Hersteller
-
-angegebenen Wert bzw. wenn keine entsprechenden
-
-Werte vorliegen über 3,5 Vol-% SM
-
-564 a.1.2.) HC-Gehalt über dem vom Hersteller
-
-angegebenen Wert bzw. wenn keine entsprechenden
-
-Werte vorliegen über 600 ppm, sofern auf mangelnde
-
-Verdichtung zurückzuführen SM
-
-a.2.) mit moderner Abgasreinigungsanlage wie z. B.
-
-Dreiwege-Katalysator mit Lambdasondenregelung *1)
-
-561,562 a.2.1.) CO-Gehalt über dem vom Hersteller
-
-angegebenen Wert SM
-
-Liegen hierzu keine Werte vor, gilt für
-
-a.2.2.) CO-Gehalt im Leerlauf:
-
-- - Für Kraftfahrzeuge mit erstmaliger Zulassung
-
-nach dem 1. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220/EWG
-
-idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO III) genehmigt wurden, bei einem Wert höher als 0,3 Vol.-% SM
-
-- In allen anderen Fällen Wert höher als 0,5 Vol.-% SM
-
-a.2.3.) CO-Gehalt bei erhöhter Leerlaufdrehzahl (ohne Last) von mindestens 2000 1/min:
-
-- Für Kraftfahrzeuge mit erstmaliger Zulassung nach
-
-dem 1. Juli 2002 oder solchen, welche gemäß den
-
-Grenzwerten der Richtlinie 70/220/EWG idF. 98/69/EG
-
-oder später geänderten Fassungen ( d.h. ab
-
-EURO III) genehmigt wurden, bei einem Wert höher
-
-als 0,2 Vol.-% SM
-
-- In allen anderen Fällen Wert höher als 0,3 Vol.-% SM
-
-563 a.2.4.) Lambda kleiner als 0,97 oder größer als
-
-1,03 SM
-
-564 a.2.5.) HC-Wert über 60 ppm, sofern auf mangelnde
-
-Verdichtung zurückzuführen SM
-
-a.3.) mit On-Board-Diagnosesystemen (OBD)*1):
-
-a.3.1.) - bei Einschalten der Zündung leuchtet
-
-OBD-Kontrollleuchte nicht SM
-
-- bei laufendem Motor blinkt diese bzw. leuchtet
-
-ständig SM
-
-a.3.2.) Bei Kraftfahrzeugen, welche mit On-Board-Diagnosesystemen ausgerüstet sind, kann alternativ zu den Prüfungen nach a.2.2. ein angemessenes Auslesen des OBD-Gerätes bei gleichzeitiger Prüfung des ordnungsgemäßen Funktionierens des OBD-Systems erfolgen:
-
-Abgassystem bzw. OBD-System funktioniert nicht ordnungsgemäß SM
-
-*1) Anmerkung: ausgenommen Fahrzeuge mit Motoren mit Kurbelgehäusespülung
-
-b.) Bei Kraftfahrzeugen der Klasse L mit Motoren mit Fremdzündung, ausgenommen solche mit Kurbelgehäusespülung:
-
-CO-Gehalt im Leerlauf höher als 4,5 Vol.-% SM
-
-8.2.2. 502 Kraftfahrzeuge mit Motoren mit Selbstzündung:
-
-erforderliche Bauteile zur Emissionsminderung
-
-schadhaft, fehlen zur Gänze oder unvollständig SM
-
-Auspuffanlage undicht, schadhaft SM
-
-565 übermäßige Rauchentwicklung SM
-
-542 Luftfilter
-
-unsachgemäß befestigt/lose LM,SM
-
-Filtereinsatz fehlt oder nicht
-
-funktionstüchtig SM
-
-Filtereinsatz verschmutzt LM,SM
-
-c.) Messung der Abgastrübung:
-
-c.1.) Gemessener Wert der Abgastrübung liegt um
-
-0,5 m hoch -1 über dem vom Fahrzeughersteller
-
-angegebenen Wert (Anmerkung: gemäß der
-
-Richtlinie 72/306/EWG oder 77/537/EWG) SM
-
-Überschreitet der um 0,5 m-1 erhöhte gemessene Wert
-
-die Grenzen nach c.2., c.3. oder c.4. (wo zutreffend) SM
-
-Liegen vom Fahrzeughersteller keine Werte vor, gilt:
-
-c.2.) für Kraftfahrzeuge mit Saugmotoren Absorptionsbeiwert
-
-über 2,5 m hoch -1 SM
-
-c.3.) für Kraftfahrzeuge mit Turbomotoren
-
-Absorptionsbeiwert über 3,0 m hoch -1 SM
-
-c.4.) für Kraftfahrzeuge
-
-- welche gem. den Grenzwerten Zeile B, Anh. I,
-
-Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG
-
-idF. 98/69/EG oder später geänderten Fassungen (d.h.
-
-ab EURO IV) genehmigt wurden oder
-
-- - welche zumindest gemäß den Grenzwerten Zeile B1,
-
-Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder
-
-- - mit erstmaliger Zulassung nach dem 1. Juli 2008:
-
-Absorptionsbeiwert über 1,5 m hoch -1 SM
-
-c.5.) für Kraftfahrzeuge mit erstmaliger Zulassung vor dem
-
-1. Jänner 1980: mehr als 1 Bacharacheinheit über dem
-
-Genehmigungswert SM
-
-Liegen hierzu keine Werte vor, gilt: mehr als
-
-6 Bacharacheinheiten SM
-
-8.3 531 Funkentstörung
-
-offensichtlich mangelhaft SM
-
-8.4 571 Flüssigkeitsverlust
-
-Ölverlust
-
-(kontinuierliche
-
-Tropfenbildung) LM,SM,
-
-GV
-
-Austritt gefährlicher
-
-Flüssigkeiten SM,GV
-
-9 zusätzliche Prüfpunkte
-
-für Fahrzeuge, die der
-
-Fahrgastbeförderung
-
-dienen
-
-9.1 - Notausstieg(e)
-
-(einschließlich Hammer
-
-zum Einschlagen der
-
-Scheiben),
-
-Notausstiegshinweis-
-
-schilder
-
-fehlen SM
-
-9.2 - Heizung
-
-ohne Funktion SM
-
-Gefahr durch Motorabgase GV
-
-9.3 - Lüftung
-
-ohne Funktion SM
-
-Gefahr durch Motorabgase GV
-
-9.4 - Ausstattung der Sitze
-
-Sitze mangelhaft
-
-befestigt, beschädigt SM
-
-Sitzbezüge beschädigt LM
-
-Sitzplatzanzahl über der
-
-genehmigten GV,VM
-
-9.5 - Innenbeleuchtung
-
-fehlt, ausgefallen SM
-
-einzelne Lampen
-
-ausgefallen LM
-
-10 001 Identifizierung des
-
-Fahrzeuges
-
-10.1 Kennzeichentafeln
-
-schlecht lesbar, umgebogen,
-
-beschädigt LM,SM
-
-nicht fest oder nicht
-
-ordnungsgemäß angebracht LM,SM
-
-10.2 001 Fahrgestellnummer
-
-fehlt, unvollständig,
-
-nicht lesbar, nicht
-
-original SM,VM
-
-10.3 Motortype
-
-fehlt, unvollständig,
-
-nicht lesbar, nicht der
-
-Fahrzeuggenehmigung
-
-entsprechend SM,VM
-
-Anmerkung:
-
-Eintragung von “-” unter Spalte “Anlage 2” wenn Position nicht vorgesehen
+| fehlt, unvollständig, nicht lesbar, nicht der Fahrzeuggenehmigung entsprechend | SM, VM |
