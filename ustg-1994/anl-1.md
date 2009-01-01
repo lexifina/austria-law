@@ -140,6 +140,8 @@
 
   - e) kartographische Erzeugnisse aller Art, einschließlich Wandkarten, topographische Pläne und Globen, gedruckt (Position 4905 der Kombinierten Nomenklatur).
 
+- 43a. Arzneimittel.
+
 - 44. Kunstgegenstände, und zwar
 
   - a) Gemälde (zB Ölgemälde, Aquarelle, Pastelle) und Zeichnungen, vollständig mit der Hand geschaffen, ausgenommen Zeichnungen der Position 4906 und handbemalte oder handverzierte gewerbliche Erzeugnisse; Collagen und ähnliche dekorative Bildwerke (Position 9701 der Kombinierten Nomenklatur),
