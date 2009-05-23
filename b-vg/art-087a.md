@@ -1,4 +1,4 @@
-Artikel 87a. (1) Durch Bundesgesetz kann die Besorgung einzelner, genau zu bezeichnender Arten von Geschäften der Gerichtsbarkeit erster Instanz in Zivilrechtssachen besonders ausgebildeten nichtrichterlichen Bundesbediensteten übertragen werden.
+Artikel 87a. (1) Durch Bundesgesetz kann die Besorgung einzelner, genau zu bezeichnender Arten von Geschäften der Gerichtsbarkeit erster Instanz besonders ausgebildeten nichtrichterlichen Bundesbediensteten übertragen werden.
 
 (2) Der nach der Geschäftsverteilung zuständige Richter kann jedoch jederzeit die Erledigung solcher Geschäfte sich vorbehalten oder an sich ziehen.
 
