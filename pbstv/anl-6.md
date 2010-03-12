@@ -34,7 +34,9 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 1.1.2 | Zustand des Pedals und Weg der Bremsbetätigungseinrichtung |
 
-| Weg übermäßig oder keine ausreichende Wegreserve vorhanden | LM, SM, GV |
+| Betätigungsweg verlängert/stark verlängert | LM, SM |
+
+| keine ausreichende Wegreserve vorhanden | GV |
 
 | Freigängigkeit der Bremse beeinträchtigt |
 
@@ -46,9 +48,9 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Bremswirkung kann nicht erreicht werden | GV |
 
-| Bremsbetätigungseinrichtung offensichtlich nicht im Originalzustand bzw. abgeändert (außer Genehmigung vorhanden) | GV |
+| Bremsbetätigungseinrichtung offensichtlich nicht im Originalzustand bzw. abgeändert (außer Genehmigung vorhanden) | GV, SM |
 
-| 1.1.3 | Vakuumpumpe oder Kompressor und Behälter |
+| 1.1.3 | Vakuumpumpe oder Kompressor |
 
 | übermäßige Dauer um Druck/Vakuum für eine ausreichende Bremswirkung aufzubauen | SM |
 
@@ -66,7 +68,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Typenschild fehlt | VM |
 
-| Leitungen stark beschädigt, stark korrodiert oder stark undicht | GV |
+| Leitungen stark beschädigt, übermäßig korrodiert oder stark undicht | GV |
 
 | 1.1.4 | Druckwarnanzeige, Manometer |
 
@@ -74,15 +76,13 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 1.1.5 | Handbremsventil Betätigungseinrichtung |
 
-| gebrochen oder beschädigt übermäßiger Verschleiß | SM |
+| gebrochen oder beschädigt starker Verschleiß | SM |
 
 | Ventil arbeitet fehlerhaft | SM |
 
 | Betätigungseinrichtung unsicher an Ventilspindel befestigt oder Ventilkörper ungenügend gesichert | SM |
 
 | Verbindungen locker oder Leckage im System | SM |
-
-| Funktion ungenügend | SM |
 
 | nicht feststellbar | GV |
 
@@ -126,7 +126,9 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Entwässerungseinrichtung ohne Funktion | SM |
 
-| unsicher befestigt/unsachgemäß montiert | LM, SM, GV |
+| unsachgemäß montiert | LM |
+
+| unsicher befestigt | SM, GV |
 
 | Behälterschild/Aufschrift fehlt/unlesbar | SM, VM |
 
@@ -190,7 +192,9 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Bremsscheibe trägt auf weniger als 90% der Reibfläche | SM |
 
-| Verschleiß, übermäßige Riefenbildung, Risse, ungenügend gesichert oder gebrochen | LM, SM, GV |
+| Verschleiß, Riefenbildung, Risse | LM, SM, GV |
+
+| ungenügend gesichert oder gebrochen | GV |
 
 | verschmutzt (Öl, Fett usw.) | SM,GV |
 
@@ -202,13 +206,13 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 1.1.15 | Bremsseile, -zugstangen, -hebel, -gestänge |
 
-| Betätigungskräfte zu groß | LM |
+| Betätigungskräfte zu groß, schwergängig | LM, SM |
 
 | Seile beschädigt, unsachgemäß verlegt | SM, GV |
 
 | Ausfallgefahr | SM, GV |
 
-| übermäßiger Verschleiß oder übermäßige Korrosion | SM, GV |
+| starker/übermäßiger Verschleiß oder starke/übermäßige Korrosion | SM, GV |
 
 | Seil- oder Zugstangenverbindung ungenügend gesichert | SM, GV |
 
@@ -220,7 +224,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | übermäßige Hebel-, Zugstangen- oder Gestängewege infolge falscher Einstellung oder übermäßigen Verschleißes | SM |
 
-| Bremswellenlager ausgeschlagen oder schwergängig | SM |
+| Bremswellenlager ausgeschlagen | SM |
 
 | 1.1.16 | Radbremszylinder (einschließlich Federspeicherzylinder) |
 
@@ -232,11 +236,11 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | unsicher befestigt/unsachgemäß montiert | SM, GV |
 
-| übermäßig korrodiert | SM, GV |
+| stark/übermäßig korrodiert | SM, GV |
 
-| übermäßiger Weg des Kolbens oder der Membrane | SM, GV |
+| starke/übermäßige Verlängerung des Weges des Kolbens oder der Membrane | SM, GV |
 
-| Staubschutz fehlt oder ist übermäßig beschädigt | SM |
+| Staubschutz fehlt oder ist stark beschädigt | SM |
 
 | schwergängig | SM, GV |
 
@@ -254,7 +258,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | undicht | SM, GV |
 
-| ALB / EBS – Schild fehlt | VM |
+| ALB – Schild fehlt | VM |
 
 | 1.1.18 | Automatische Gestängesteller |
 
@@ -274,7 +278,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Staubmanschette stark beschädigt oder fehlt | SM |
 
-| Führung übermäßiges Spiel | SM |
+| Führung starkes Spiel | SM |
 
 | Dämpfer/-lagerung schadhaft | SM |
 
@@ -290,7 +294,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 1.2.1 | Wirkung (schrittweise Steigerung bis zur maximalen Bremskraft) |
 
-| ungenügende Bremskraft an einem oder mehreren Rädern | SM, GV |
+| ungenügende Bremskraft an einem oder mehreren Rädern | LM, SM, GV |
 
 | Bremskraft an einem Rad beträgt weniger als 80% der größten an einem anderen Rad der selben Achse gemessenen Bremskraft | SM |
 
@@ -306,7 +310,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Bei einer Unrundheit von mehr als 20% ist eine übermäßige Bremskraftschwankung anzunehmen |
 
-| 1.2.2 | Wirksamkeit | Anmerkung: Hochrechnung bzw. Ballastierung ist nicht erforderlich bei Fahrzeugen der Klassen M1, N1, O1 und O2. Hochrechnung bzw. Ballastierung ist außerdem nicht erforderlich bei Fahrzeugen der Klassen M2, M3, N2, N3, O3 und O4, wenn nachgewiesen wird, dass das Fahrzeug zum Zeitpunkt der Prüfung alle Bestimmungen über die Verteilung der Bremskraft auf die Achsen und über die Kompatibilität zwischen Zugfahrzeugen und Anhängern im vorgeführten Zustand einhält ("EG-Bremsbänder"). Die Ballastierung oder Niederspannung ist außerdem nicht erforderlich, wenn beim tatsächlichen Gesamtgewicht die für die Erzielung der geforderten Abbremsung beim höchsten zulässigen Gesamtgewicht erforderlichen Bremskräfte erreicht werden. |
+| 1.2.2 | Wirksamkeit | Anmerkung: Hochrechnung bzw. Ballastierung ist nicht erforderlich bei Fahrzeugen der Klassen M1, N1, O1 und O2. Hochrechnung bzw. Ballastierung ist außerdem nicht erforderlich bei Fahrzeugen der Klassen M2, M3, N2, N3, O3 und O4, wenn nachgewiesen wird, dass das Fahrzeug zum Zeitpunkt der Prüfung alle Bestimmungen über die Verteilung der Bremskraft auf die Achsen und über die Kompatibilität zwischen Zugfahrzeugen und Anhängern im vorgeführten Zustand einhält ("EG-Bremsbänder"). Die Ballastierung oder Niederspannung ist außerdem nicht erforderlich, wenn die Prüfmasse 80 % des technischen Höchstgewichtes beträgt. |
 
 | Abbremswirkung, bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten, wenn durchführbar, von weniger als den folgenden Werten: | SM |
 
@@ -366,7 +370,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 1.3.2 | Wirksamkeit | siehe Anmerkung zu 1.2.2 |
 
-| für alle Fahrzeugklassen eine Abbremswirkung von weniger als 50% der Mindestwirksamkeit der Betriebsbremse gemäß 1.2.2 bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten; bei Fahrzeugen der Klassen N1, N2 und N3 jedoch 2,2 m/s2 | SM |
+| für alle Fahrzeugklassen eine Abbremswirkung von weniger als 50% der Mindestwirksamkeit der Betriebsbremse gemäß 1.2.2 bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten; bei Fahrzeugen der Klassen N1, N2 und N3 jedoch weniger als 2,2 m/s2 | SM |
 
 | 1.4 | Feststellbremse |
 
@@ -538,7 +542,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Spiegel beschädigt oder blind |
 
-| LM | weniger als 10 % der Fläche |
+| LM | weniger als 10 % der Fläche blind |
 
 | SM | 10 % oder mehr der Fläche blind |
 
@@ -944,9 +948,9 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | Restfederweg unter 25 mm | SM, GV |
 
-| Unterschreitung der Bodenfreiheit von 11 cm ohne entsprechende Genehmigung | SM |
+| Unterschreitung der Bodenfreiheit von 9 cm ohne entsprechende Genehmigung | SM |
 
-| Unterschreitung der Bodenfreiheit von 9 cm ohne entsprechende Genehmigung und Erkennbarkeit von Schleifspuren | GV |
+| Unterschreitung der Bodenfreiheit von 7 cm ohne entsprechende Genehmigung und/oder Erkennbarkeit von Schleifspuren | GV |
 
 | 5.1.4 | Stoßdämpfer |
 
@@ -1254,7 +1258,9 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | (Motor, Kupplung, Getriebe, Kardanwelle, Differenzial, Halbachsen) |
 
-| Kupplung rutscht, lösbar | LM, SM, GV |
+| Kupplung rutscht | LM |
+
+| Kupplung nicht lösbar oder trennt nicht | SM, GV |
 
 | Rückwärtsgang defekt | SM, GV |
 
@@ -1274,7 +1280,11 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 7.1 | Sicherheitsgurte |
 
-| 7.1.1 | Sicherheit des Einbaus: lose | SM |
+| 7.1.1 | Sicherheit des Einbaus |
+
+| lose | SM, GV |
+
+| Befestigung unzureichend dimensioniert | SM, GV |
 
 | 7.1.2 | Zustand der Gurte |
 
@@ -1358,6 +1368,8 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | offensichtlich falsche oder mangelhafte Aufzeichnung | SM |
 
+| offensichtliche Manipulation an der Anlage | SM |
+
 | 7.10 | Geschwindigkeitsbegrenzer |
 
 | nicht gemäß Richtlinie 92/6/EWG eingebaut | SM |
@@ -1384,19 +1396,21 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 7.12 | Gasanlage für den Antrieb von Kraftfahrzeugen |
 
-| Betriebsvorschrift und Betriebsbuch/Nachweis der Genehmigung fehlen | SM |
+| Nachweis der Genehmigung fehlt | SM |
 
-| mangelhafter Zustand/Verlegung von Kraftgasleitungen | LM, SM, GV |
+| Betriebsvorschrift und/oder Betriebsbuch fehlen | SM |
 
-| mangelhafter Schutz von Anlagenbauteilen | LM, SM |
+| unrichtige/fehlende Eintragungen der Herstellernummern der Kraftgastanks im Betriebsbuch | SM |
+
+| Eintragungen über wiederkehrende Überprüfungen der Kraftgastanks und wiederkehrende Begutachtungen der Kraftgasanlage im Betriebsbuch fehlen | SM |
 
 | mangelhafte Befestigung von Anlagenbauteilen | SM, GV |
 
-| unrichtige Eintragungen der Herstellernummern der Kraftgastanks im Betriebsbuch fehlen | SM |
+| mangelhafter Schutz von Anlagenbauteilen | LM, SM |
 
-| Eintragungen über wiederkehrende Überprüfung der Kraftgastanks im Betriebsbuch fehlen | SM |
+| mangelhafter Zustand/Verlegung von Kraftgasleitungen | LM, SM, GV |
 
-| Bedenken gegen die Betriebssicherheit der Gasanlage | SM, GV |
+| Bedenken gegen die Betriebssicherheit der Kraftgasanlage | SM, GV |
 
 | 7.13 | Ständer-Fußrasten |
 
@@ -1498,7 +1512,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | 8.2.1 | Kraftfahrzeuge mit Motoren mit Fremdzündung: |
 
-| erforderliche Bauteile zur Emissionsminderung schadhaft, fehlen zur Gänze oder unvollständig | SM, GV |
+| erforderliche Bauteile zur Emissionsminderung schadhaft, fehlen zur Gänze oder unvollständig | SM, GV, LM |
 
 | Auspuffanlage undicht, schadhaft | SM |
 
@@ -1574,7 +1588,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | erforderliche Bauteile zur Emissionsminderung | SM |
 
-| schadhaft, fehlen zur Gänze oder unvollständig | SM |
+| schadhaft, fehlen zur Gänze oder unvollständig | SM, LM |
 
 | Auspuffanlage undicht, schadhaft |
 
@@ -1608,9 +1622,7 @@ Prüfung oder Begutachtung verantwortlichen Organs.
 
 | mit erstmaliger Zulassung nach dem 1. Juli 2008: Absorptionsbeiwert über1,5 m-1 | SM |
 
-| c.5.) für Kraftfahrzeuge mit erstmalig. Zulassung vor dem 01.01.1980: mehr als 1 Bacharacheinheit über dem Genehmigungswert | SM | (Anm: tritt mit 31.12.2008 außer Kraft) |
-
-| Liegen hierzu keine Werte vor, gilt: mehr als 6 Bacharacheinheiten | SM |
+| c.5.) (Anm. gemäß § 17 Abs. 6 Z 4 mit 31.12.2008 außer Kraft getreten) |
 
 | 8.3 | Funkentstörung |
 
