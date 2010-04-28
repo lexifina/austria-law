@@ -4,114 +4,18 @@
 
 ## LEHRPLAN
 
-### für die praktische Ausbildung
+## für die praktische Ausbildung für die Klasse A
 
-### für die Klasse A
+| Abschnitt | Schwerpunkt | Ort | Inhalt |
 
---------------------------------------------------------------------
+| Vorbereitung | Durchführung der Überprüfungen, die vor Antritt einer Fahrt notwendig sind, sowie richtige Inbetriebnahme des Kraftfahrzeuges | Verkehrsfreier Raum | Startvorbereitung, Fahrvorbereitung, Rangieren, Sitzposition |
 
-Abschnitt Schwerpunkt Ort Inhalt
+| Vorschulung | Elementare Fahrzeugbeherrschung | Parkplatz oder möglichst verkehrsfreie Straße | Gehen mit Motor, Klettern, Spurgasse, Anfahren, Schalten, Bremsen, Kreisfahren, Achterfahren, Wedeln, Trialstop, Berg, Behelfsstart Fahren mit Beifahrer |
 
---------------------------------------------------------------------
+| Grundschulung | Einführung in den Verkehrsraum. Aufbau des Drei-Blick-Trainings | Verkehrsarme Straßen | Richtiges Benützen der Fahrbahn. Zielklares Bewegen |
 
-Vorbereitung Durchführung der Verkehrsfreier Startvorbereitung,
+| Hauptschulung | Aktives und passives Erleben der Verkehrsdynamik. Aufbau des Blickfiltertrainings | Fahren auf Straßen mit stärkerem Verkehr. Auswahl nach: Querstellen-, Mithalte- und Gegenverkehrsstrecken | Befahren ausgewählter Lehrstrecken und Manöverkommentierung |
 
-Überprüfungen, Raum Fahrvorbereitung,
+| Perfektionsschulung | Einführung in die jeweils geeignete Verkehrstaktik. Besondere Fahrzeugbeherrschung | Alle vom Standort aus erreichbaren Verkehrsräume | Zielfahren, Überlandfahrten, Dynomentraining, Defensivtaktik, Spezielle Fahrzeugbeherrschung, insbesondere im Hinblick auf für Krafträder typische Situationen, in denen der Lenker durch Erschrecken zu reflexartigen Fehlreaktionen verleitet wird sowie Durchführen einer Gefahrenbremsung, Prüfungsvorbereitung |
 
-die vor Antritt Rangieren,
-
-einer Fahrt Sitzposition
-
-notwendig sind,
-
-sowie richtige
-
-Inbetriebnahme des
-
-Kraftfahrzeuges
-
---------------------------------------------------------------------
-
-Vorschulung Elementare Fahr- Parkplatz oder Gehen mit Motor,
-
-zeugbeherrschung möglichst Klettern, Spur-
-
-verkehrsfreie gasse, Anfahren,
-
-Straße Schalten, Bremsen,
-
-Kreisfahren,
-
-Achterfahren,
-
-Wedeln, Trialstop,
-
-Berg, Behelfsstart
-
-Fahren mit
-
-Beifahrer
-
---------------------------------------------------------------------
-
-Grund- Einführung in Verkehrsarme Richtiges
-
-schulung den Verkehrsraum. Straßen Benützen der
-
-Aufbau des Drei- Fahrbahn.
-
-Blick-Trainings. Zielklares Bewegen
-
---------------------------------------------------------------------
-
-Haupt- Aktives und Fahren auf Befahren
-
-schulung passives Erleben Straßen mit ausgewählter
-
-der Verkehrs- stärkerem Lehrstrecken und
-
-dynamik. Aufbau Verkehr. Manöverkommen-
-
-des Blickfilter- Auswahl nach: tierung
-
-trainings. Querstellen-,
-
-Mithalte- und
-
-Gegenverkehrs-
-
-strecken
-
---------------------------------------------------------------------
-
-Perfektions- Einführung in die Alle vom Zielfahren,
-
-schulung jeweils geeignete Standort aus Überlandfahrten,
-
-Verkehrstaktik. erreichbaren Dynomentraining,
-
-Besondere Verkehrsräume Defensivtaktik,
-
-Fahrzeugbe- Spezielle Fahr-
-
-herrschung zeugbeherrschung,
-
-Prüfungsvor-
-
-bereitung
-
---------------------------------------------------------------------
-
-Überprüfung Überprüfung des Möglichst in Einfache
-
-Kraftfahrzeuges verkehrsfreiem Überprüfungen,
-
-auf Verkehrs- Raum die man am
-
-und Betriebs- Kraftfahrzeug
-
-sicherheit ohne Werkzeug
-
-durchführen kann
-
---------------------------------------------------------------------
+| Überprüfung | Überprüfung des Kraftfahrzeuges auf Verkehrs- und Betriebssicherheit | Möglichst in verkehrsfreiem Raum | Einfache Überprüfungen, die man am Kraftfahrzeug ohne Werkzeug durchführen kann |
