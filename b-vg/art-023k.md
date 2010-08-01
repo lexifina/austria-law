@@ -1,0 +1,5 @@
+Artikel 23k. (1) Nähere Bestimmungen zu den Art. 23e, 23f Abs. 1, 2 und 4 sowie 23g bis 23j treffen das Bundesgesetz über die Geschäftsordnung des Nationalrates und die Geschäftsordnung des Bundesrates.
+
+(2) Die Zuständigkeiten des Nationalrates nach den Art. 23e, 23f Abs. 4, 23g und 23j Abs. 2 obliegen dessen Hauptausschuss. Das Bundesgesetz über die Geschäftsordnung des Nationalrates kann vorsehen, dass der Hauptausschuss einen ständigen Unterausschuss wählt, für den Art. 55 Abs. 3 sinngemäß gilt. Der Hauptausschuss kann diesem ständigen Unterausschuss Zuständigkeiten nach dem ersten Satz übertragen. Eine solche Übertragung kann jederzeit ganz oder teilweise widerrufen werden. Durch das Bundesgesetz über die Geschäftsordnung des Nationalrates können Zuständigkeiten des Hauptausschusses nach dem ersten Satz dem Nationalrat oder dem ständigen Unterausschuss des Hauptausschusses gemäß dem zweiten Satz übertragen werden.
+
+(3) Zuständigkeiten des Bundesrates nach den Art. 23e, 23f Abs.4 und 23g können durch die Geschäftsordnung des Bundesrates einem von diesem zu wählenden Ausschuss übertragen werden.
