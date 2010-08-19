@@ -1,6 +1,6 @@
-Anlage 4: Alarmwerte
+### Anlage 4: Alarmwerte
 
-zu § 3 Abs. 2a
+zu § 3 Abs. 2
 
 Als Alarmwerte gelten nachfolgende Werte:
 
