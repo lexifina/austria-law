@@ -2,4 +2,6 @@
 
 ### (§ 13)
 
-(Anm.: Anlage (Muster) wird nicht dargestellt, es wird auf die Kundmachung der BGBl. II Nr. 464/1998 und BGBl. II Nr. 131/2007im RIS verwiesen.)
+/Dokumente/Bundesnormen/NOR40122655/image001.png
+
+/Dokumente/Bundesnormen/NOR40122655/image002.jpg
