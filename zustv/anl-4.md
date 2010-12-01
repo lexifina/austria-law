@@ -1,6 +1,6 @@
 ### Anlage 4
 
-| (§ 12 Abs. 2) |
+### (§ 12 Abs. 2)
 
 | Kennziffer | Verwendungsbestimmung |
 
@@ -12,7 +12,7 @@
 
 | 20 | zur Verwendung für die gewerbsmäßige Beförderung bestimmt |
 
-| 22 | zur Verwendung für die gewerbsmäßige Vermietung ohne Beistellung eines Lenkers gemäß § 103 Abs. 1 lit. c Z 22 der GewO 1973 bestimmt |
+| 22 | zur Verwendung für die gewerbsmäßige Vermietung ohne Beistellung eines Lenkers bestimmt |
 
 | 23 | zur Verwendung bei Spediteuren bestimmt |
 
@@ -20,9 +20,9 @@
 
 | 25 | zur Verwendung im Rahmen des Taxigewerbes bestimmt |
 
-| 26 | zur Verwendung von Möbeltransporten bestimmt (§ 106 Abs. 8) |
+| 26 | zur Verwendung von Möbeltransporten bestimmt (§ 106 Abs. 13 KFG 1967) |
 
-| 27 | zur Verwendung als Schulfahrzeug gemäß § 112 Abs. 3 bestimmt |
+| 27 | zur Verwendung als Schulfahrzeug gemäß § 112 Abs. 3 KFG 1967 bestimmt |
 
 | 28 | zur Verwendung im Rahmen des Schaustellergewerbes bestimmt |
 
@@ -33,6 +33,8 @@
 | 31 | ausschließlich oder vorwiegend zur Verwendung für Arbeiten des Straßendienstes auf beleuchteten Straßen bestimmt |
 
 | 32 | zur Verwendung im Bereich der Kanalwartung und –revision gemäß § 27 Abs. 5 StVO 1960 bestimmt |
+
+| 33 | zur kommunalen Verwendung in einer Gebietskörperschaft oder in einem Gemeindeverband bestimmt |
 
 | 40 | zur Verwendung für den Pannenhilfsdienst bestimmt |
 
@@ -52,7 +54,7 @@
 
 | 65 | zur Verwendung im Bereich der Österreichischen Bundesbahnen bestimmt |
 
-| 70 | zur Verwendung im Bereich der Zollwache bestimmt |
+| 70 | zur Verwendung im Bereich der Finanzverwaltung bestimmt |
 
 | 71 | zur Verwendung im Bereich der Steuerfahndung bestimmt |
 
