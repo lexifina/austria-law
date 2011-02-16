@@ -1,10 +1,8 @@
 ### Anhang 6
 
-## Stoffliste betreffend die Beherrschung der Gefahren bei schweren
+## Stoffliste betreffend die Beherrschung der Gefahren bei schweren Unfällen
 
-## Unfällen
-
-Einleitung
+## Einleitung
 
 - 1. Die für die Anwendung des § 59 zu berücksichtigenden Mengen sind Höchstmengen, die nach den technischen Möglichkeiten eines Betriebs vorhanden sein können; die in Teil 1 und 2 genannten Mengen gelten pro Betrieb. Mengen bis zu 2% der jeweiligen Mengenschwelle können unbeschadet des § 84c Abs. 5 GewO 1994 unberücksichtigt bleiben, wenn sie auf Grund ihrer Verwahrung oder des Abstandes zu anderen Betriebsteilen nicht als Auslöser eines schweren Unfalles in Frage kommen.
 
@@ -40,235 +38,95 @@ Einleitung
 
 Fällt ein in Teil 1 genannter Stoff oder eine in Teil 1 genannte Zubereitung oder eine in Teil 1 genannte Gruppe von Stoffen oder Zubereitungen auch unter eine oder mehrere Kategorien von in Teil 2 genannten Stoffen oder Zubereitungen, so sind die in Teil 1 festgelegten Mengenschwellen anzuwenden.
 
-____________________________________________________________________
+| Ziffer | Spalte 1 | Spalte 2 | Spalte 3 |
 
-Ziffer Spalte 1 Spalte 2 Spalte 3
+| Bezeichnung der gefährlichen Stoffe und Zubereitungen | Mengenschwelle in Tonnen für die Anwendung von |
 
-_____________________________________________________________
+| § 84a Abs. 2 Z 1 GewO 1994 | § 84a Abs. 2 Z 2 GewO 1994 |
 
-Bezeichnung der gefährlichen Mengenschwelle in Tonnen
+| 1.1 | Ammoniumnitrat 1) | 5 000 | 10 000 |
 
-Stoffe und Zubereitungen für die Anwendung von
+| 1.2 | Ammoniumnitrat 2) | 1 250 | 5 000 |
 
-_____________________________
+| 1.3 | Ammoniumnitrat 3) | 350 | 2 500 |
 
-§ 84a Abs. 2 § 84a Abs. 2
+| 1.4 | Ammoniumnitrat 4) | 10 | 50 |
 
-Z 1 GewO 1994 Z 2 GewO 1994
+| 2.1 | Kaliumnitrat 5) | 5 000 | 10 000 |
 
-____________________________________________________________________
+| 2.2 | Kaliumnitrat 6) | 1 250 | 5 000 |
 
-1.1 Ammoniumnitrat *1) 5 000 10 000
+| 3 | Diarsenpentaoxid, Arsensäure oder ihre Salze | 1 | 2 |
 
-____________________________________________________________________
+| 4 | Arsentrioxid (Diarsentrioxid), arsenige Säure und ihre Salze | 0,1 | 0,1 |
 
-1.2 Ammoniumnitrat *2) 1 250 5 000
+| 5 | Brom | 20 | 20 |
 
-____________________________________________________________________
+| 6 | Chlor | 10 | 25 |
 
-1.3 Ammoniumnitrat *3) 350 2 500
+| 7 | Atemgängige Nickelverbindungen (Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickel-disulfid, Dinickeltrioxid) | 1 | 1 |
 
-____________________________________________________________________
+| 8 | Ethylenimin (Aziridin) | 10 | 20 |
 
-1.4 Ammoniumnitrat *4) 10 50
+| 9 | Fluor | 10 | 20 |
 
-____________________________________________________________________
+| 10 | Formaldehyd (C ≥ 90%) | 5 | 50 |
 
-2.1 Kaliumnitrat *5) 5 000 10 000
+| 11 | Wasserstoff | 5 | 50 |
 
-____________________________________________________________________
+| 12 | Chlorwasserstoff (verflüssigtes Gas) | 25 | 250 |
 
-2.2 Kaliumnitrat *6) 1 250 5 000
+| 13 | Bleialkyle | 5 | 50 |
 
-____________________________________________________________________
+| 14 | Hochentzündliche verflüssigte Gase und Erdgas | 50 | 200 |
 
-3 Diarsenpentaoxid, Arsensäure oder
+| 15 | Acetylen (Ethin) | 5 | 50 |
 
-ihre Salze 1 2
+| 16 | Ethylenoxid | 5 | 50 |
 
-____________________________________________________________________
+| 17 | Propylenoxid | 5 | 50 |
 
-4 Arsentrioxid (Diarsentrioxid),
+| 18 | Methanol | 200 | 200 |
 
-arsenige Säure und ihre Salze 0,1 0,1
+| 19 | 4,4-Methylen-bis (2-chloroanilin) und seine Salze, pulverförmig | 0,01 | 0,01 |
 
-____________________________________________________________________
+| 20 | Methylisocyanat | 0,15 | 0,15 |
 
-5 Brom 20 20
+| 21 | Sauerstoff | 200 | 200 |
 
-____________________________________________________________________
+| 22 | Toluylendiisocyanat | 10 | 100 |
 
-6 Chlor 10 25
+| 23 | Carbonylchlorid (Phosgen) | 0,3 | 0,75 |
 
-____________________________________________________________________
+| 24 | Arsentrihydrid (Arsin) | 0,2 | 1 |
 
-7 Atemgängige Nickelverbindungen 1 1
+| 25 | Phosphortrihydrid (Phosphin) | 0,2 | 1 |
 
-(Nickelmonoxid, Nickeldioxid,
+| 26 | Schwefeldichlorid | 1 | 1 |
 
-Nickelsulfid, Trinickel-disulfid,
+| 27 | Schwefeltrioxid | 15 | 75 |
 
-Dinickeltrioxid)
+| 28 | Polychlordibenzofurane und Polychlordibenzodioxine, in TCDD-Äquivalenten berechnet 7) | 0,001 | 0,001 |
 
-____________________________________________________________________
+| 29 | Folgende krebserzeugende Stoffe bei einer Konzentration von über 5 Gewichtsprozent: 4-Aminobiphenyl oder seine Salze, Benzotrichlorid, Benzidin oder seine Salze, Bis(chlormethyl)ether, Chlormethylmethylether, 1,2-Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethylcarbamoylchlorid, 1,2-Dibrom-3-chlorpropan, 1,2-Dimethylhydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2-Naphthylamin oder seine Salze, 4-Nitrobiphenyl und 1,3-Propansulton | 0,5 | 2 |
 
-8 Ethylenimin (Aziridin) 10 20
+| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha b) Kerosin einschließlich Turbinenkraftstoffe c) Gasöle (Dieselkraftstoffe, Heizöle und Gasölmischströme) 8) | 2 500 | 25 000 |
 
-____________________________________________________________________
+### Anmerkungen zu Teil 1:
 
-9 Fluor 10 20
+- 1) Gilt für Düngemittel, die zu einer selbstunterhaltenden Zersetzung fähig sind; dies sind Ammoniumnitrat-Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
 
-____________________________________________________________________
+  - a) gewichtsmäßig zwischen 15,75% und 24,5% beträgt und die entweder insgesamt höchstens 0,4% brennbaren organischen Materials enthalten oder die Anforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 über Düngemittel, ABl. Nr. L 301 vom 21.11.2003 S. 1 erfüllen,
 
-10 Formaldehyd (C ≥ 90%) 5 50
-
-____________________________________________________________________
-
-11 Wasserstoff 5 50
-
-____________________________________________________________________
-
-12 Chlorwasserstoff (verflüssigtes Gas) 25 250
-
-____________________________________________________________________
-
-13 Bleialkyle 5 50
-
-____________________________________________________________________
-
-14 Hochentzündliche verflüssigte Gase und 50 200
-
-Erdgas
-
-____________________________________________________________________
-
-15 Acetylen (Ethin) 5 50
-
-____________________________________________________________________
-
-16 Ethylenoxid 5 50
-
-____________________________________________________________________
-
-17 Propylenoxid 5 50
-
-____________________________________________________________________
-
-18 Methanol 200 200
-
-____________________________________________________________________
-
-19 4,4-Methylen-bis (2-chloroanilin) 0,01 0,01
-
-und seine Salze, pulverförmig
-
-____________________________________________________________________
-
-20 Methylisocyanat 0,15 0,15
-
-____________________________________________________________________
-
-21 Sauerstoff 200 200
-
-____________________________________________________________________
-
-22 Toluylendiisocyanat 10 100
-
-____________________________________________________________________
-
-23 Carbonylchlorid (Phosgen) 0,3 0,75
-
-____________________________________________________________________
-
-24 Arsentrihydrid (Arsin) 0,2 1
-
-____________________________________________________________________
-
-25 Phosphortrihydrid (Phosphin) 0,2 1
-
-____________________________________________________________________
-
-26 Schwefeldichlorid 1 1
-
-____________________________________________________________________
-
-27 Schwefeltrioxid 15 75
-
-____________________________________________________________________
-
-28 Polychlordibenzofurane und 0,001 0,001
-
-Polychlordibenzodioxine, in
-
-TCDD-Äquivalenten berechnet *7)
-
-____________________________________________________________________
-
-29 Folgende krebserzeugende Stoffe bei 0,5 2
-
-einer Konzentration von über
-
-5 Gewichtsprozent:
-
-4-Aminobiphenyl oder seine Salze,
-
-Benzotrichlorid, Benzidin oder
-
-seine Salze, Bis(chlormethyl)ether,
-
-Chlormethylmethylether,
-
-1,2-Dibromethan, Diethylsulfat,
-
-Dimethylsulfat,
-
-Dimethylcarbamoylchlorid,
-
-1,2-Dibrom-3-chlorpropan,
-
-1,2-Dimethylhydrazin,
-
-Dimethylnitrosamin,
-
-Hexamethylphosphortriamid,
-
-Hydrazin, 2-Naphthylamin oder
-
-seine Salze, 4-Nitrobiphenyl und
-
-1,3-Propansulton
-
-____________________________________________________________________
-
-30 Erdölerzeugnisse: 2 500 25 000
-
-a) Ottokraftstoffe und Naphtha
-
-b) Kerosin einschließlich
-
-Turbinenkraftstoffe
-
-c) Gasöle (Dieselkraftstoffe,
-
-Heizöle und Gasölmischströme)
-
-*8)
-
-____________________________________________________________________
-
-Anmerkungen zu Teil 1:
-
-*1) Gilt für Düngemittel, die zu einer selbstunterhaltenden Zersetzung fähig sind; dies sind Ammoniumnitrat-Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
-
-- a) gewichtsmäßig zwischen 15,75% und 24,5% beträgt und die entweder insgesamt höchstens 0,4% brennbaren organischen Materials enthalten oder die Anforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 über Düngemittel, ABl. Nr. L 301 vom 21.11.2003 S. 1 erfüllen,
-
-- b) gewichtsmäßig höchstens 15,75% beträgt und brennbares organisches Material keiner Begrenzung unterliegt,
+  - b) gewichtsmäßig höchstens 15,75% beträgt und brennbares organisches Material keiner Begrenzung unterliegt,
 
 und die nach der Trogprüfung der Vereinten Nationen zu einer selbstunterhaltenden Zersetzung fähig sind.
 
 Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 15,75% entspricht 45% Ammoniumnitrat. Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 24,5% entspricht 70% Ammoniumnitrat.
 
-Die Trogprüfung („trough test“ nach „United Nations Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria“, Teil III Abschnitt 38.2) wird auf der Internetseite des Bundesministeriums für Wirtschaft und Arbeit zur Verfügung gestellt. *2) Gilt für reine Ammoniumnitrat-Düngemittel und für Ammoniumnitrat-Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
+Die Trogprüfung („trough test“ nach „United Nations Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria“, Teil III Abschnitt 38.2) wird auf der Internetseite des Bundesministeriums für Wirtschaft, Familie und Jugend zur Verfügung gestellt.
+
+- 2) Gilt für reine Ammoniumnitrat-Düngemittel und für Ammoniumnitrat-Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
 
 - a) gewichtsmäßig größer als 24,5% ist, ausgenommen Mischungen von Ammoniumnitrat und Dolomit, Kalkstein oder Caliumcarbonat mit einem Reinheitsgrad von mindestens 90%,
 
@@ -278,138 +136,76 @@ Die Trogprüfung („trough test“ nach „United Nations Recommendations on th
 
 und welche die Anforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 über Düngemittel erfüllen.
 
-Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von
+Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 28% entspricht 80% Ammoniumnitrat.
 
-gewichtsmäßig 28% entspricht 80% Ammoniumnitrat.
+- 3) Gilt für
 
-*3) Gilt für
+  - a) Ammoniumnitrat in technischer Qualität, dh. für Ammoniumnitrat und Zubereitungen aus Ammoniumnitrat, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
 
-- a) Ammoniumnitrat in technischer Qualität, dh. für Ammoniumnitrat und Zubereitungen aus Ammoniumnitrat, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
+  - – gewichtsmäßig zwischen 24,5% und 28% beträgt und die höchstens 0,4% brennbarer Stoffe enthalten,
 
-– gewichtsmäßig zwischen 24,5% und 28% beträgt und die
+  - – gewichtsmäßig größer als 28% ist und die höchstens 0,2% brennbarer Stoffe enthalten,
 
-höchstens 0,4% brennbarer Stoffe enthalten,
+  - b) wässrige Lösungen von Ammoniumnitrat, bei denen die Konzentration von Ammoniumnitrat gewichtsmäßig größer als 80% ist.
 
-– gewichtsmäßig größer als 28% ist und die höchstens 0,2%
+- 4) Gilt für nicht spezifikationsgerechtes Material und Düngemittel, die den Detonationstest nicht bestehen; diese Gruppe umfasst
 
-brennbarer Stoffe enthalten,
+  - a) zurückgewiesenes Material aus dem Produktionsprozess und für Ammoniumnitrat und Zubereitungen von Ammoniumnitrat, reine Ammoniumnitrat-Düngemittel und Ammoniumnitrat-Mischdünger/Volldünger gemäß den Anmerkungen zu Z 1.2 und 1.3, die vom Endverbraucher an einen Hersteller, an einen Inhaber einer Anlage zur vorübergehenden Lagerung oder einer Wiederaufbereitungsanlage zum Zwecke der Aufarbeitung, der Wiederaufbereitung oder der Behandlung zur sicheren Verwendung zurückgegeben werden oder wurden, weil sie die Anforderungen der Z 1.2 und 1.3 nicht mehr erfüllen,
 
-- b) wässrige Lösungen von Ammoniumnitrat, bei denen die Konzentration von Ammoniumnitrat gewichtsmäßig größer als 80% ist.
+  - b) Düngemittel gemäß den Anmerkungen zu Z 1.1 und 1.2, welche die Anforderungen der Verordnung (EG) Nr. 2003/2003 über Düngemittel nicht erfüllen.
 
-*4) Gilt für nicht spezifikationsgerechtes Material und Düngemittel, die den Detonationstest nicht bestehen; diese Gruppe umfasst
+- 5) Gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat mit Kaliumnitrat in geprillter oder granulierter Form.
 
-- a) zurückgewiesenes Material aus dem Produktionsprozess und für Ammoniumnitrat und Zubereitungen von Ammoniumnitrat, reine Ammoniumnitrat-Düngemittel und Ammoniumnitrat-Mischdünger/Volldünger gemäß den Anmerkungen zu
+- 6) Gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat mit Kaliumnitrat in kristalliner Form.
 
-Z 1.2 und 1.3, die vom Endverbraucher an einen Hersteller, an einen Inhaber einer Anlage zur vorübergehenden Lagerung oder einer Wiederaufbereitungsanlage zum Zwecke der Aufarbeitung, der Wiederaufbereitung oder der Behandlung zur sicheren Verwendung zurückgegeben werden oder wurden, weil sie die Anforderungen der Z 1.2 und 1.3 nicht mehr erfüllen,
+- 7) Die Berechnung der Äquivalenzfaktoren für PCDD und PCDF hat nach dem § 3 Abs. 7 der Luftreinhalteverordnung für Kesselanlagen 1989 – LRV-K 1989, BGBl. Nr. 19, zuletzt geändert durch die Verordnung BGBl. II Nr. 55/2005 zu erfolgen.
 
-- b) Düngemittel gemäß den Anmerkungen zu Z 1.1 und 1.2, welche die Anforderungen der Verordnung (EG) Nr. 2003/2003 über Düngemittel nicht erfüllen.
-
-*5) Gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat mit Kaliumnitrat in geprillter oder granulierter Form.
-
-*6) Gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat mit Kaliumnitrat in kristalliner Form.
-
-*7) Die Berechnung der Äquivalenzfaktoren für PCDD und PCDF hat nach dem § 3 Abs. 7 der Luftreinhalteverordnung für Kesselanlagen 1989 – LRV-K 1989, BGBl. Nr. 19, zuletzt geändert durch die Verordnung BGBl. II Nr. 55/2005 zu erfolgen.
-
-*8) Brennbare Flüssigkeiten gemäß UN/ADR-Nr. 1202.
+- 8) Brennbare Flüssigkeiten gemäß UN/ADR-Nr. 1202.
 
 ## Teil 2
 
-Kategorien von namentlich nicht in Teil 1 genannten Stoffen und Zubereitungen
+## Kategorien von namentlich nicht in Teil 1 genannten Stoffen und Zubereitungen
 
-____________________________________________________________________
+| Ziffer | Spalte 1 | Spalte 2 | Spalte 3 |
 
-Ziffer Spalte 1 Spalte 2 Spalte 3
+| Kategorie der gefährlichen Stoffe und Zubereitungen | Mengenschwelle in Tonnen für die Anwendung von |
 
-_____________________________________________________________
+| § 84a Abs. 2 Z 1 GewO 1994 | § 84a Abs. 2 Z 2 GewO 1994 |
 
-Kategorie der gefährlichen Mengenschwelle in Tonnen
+| 1 | sehr giftig | 5 | 20 |
 
-Stoffe und Zubereitungen für die Anwendung von
+| 2 | giftig | 50 | 200 |
 
-_____________________________
+| 3 | brandfördernd | 50 | 200 |
 
-§ 84a Abs. 2 § 84a Abs. 2
+| 4 | explosionsgefährlich 1) (UN/ADR – Klasse 1.4) | 50 | 200 |
 
-Z 1 GewO 1994 Z 2 GewO 1994
+| 5 | explosionsgefährlich 1) (UN/ADR – Klassen 1.1, 1.2, 1.3, 1.5, 1.6 oder Gefahrenhinweise R 2 oder R 3) | 10 | 50 |
 
-____________________________________________________________________
+| 6 | entzündlich 2) | 5 000 | 50 000 |
 
-1 sehr giftig 5 20
+| 7 | leicht entzündlich 3) | 50 | 200 |
 
-____________________________________________________________________
+| 8 | leicht entzündlich 4) | 5 000 | 50 000 |
 
-2 giftig 50 200
+| 9 | hochentzündliche Gase und Flüssigkeiten 5) | 10 | 50 |
 
-____________________________________________________________________
+| 10 | umweltgefährlich (Gefahrenhinweis R 50 oder R 50/53) | 100 | 200 |
 
-3 brandfördernd 50 200
+| 11 | umweltgefährlich (Gefahrenhinweis R 51/53) | 200 | 500 |
 
-____________________________________________________________________
+| 12 | Stoffe mit Einstufung mit Gefahrenhinweis R 14 oder R 14/15, soweit nicht durch Z 1 bis 11 erfasst | 100 | 500 |
 
-4 explosionsgefährlich *1) 50 200
+| 13 | Stoffe mit der Einstufung R 29, soweit nicht durch Z 1 bis 11 erfasst | 50 | 200 |
 
-(UN/ADR – Klasse 1.4)
+### Anmerkungen zu Teil 2:
 
-____________________________________________________________________
+- 1) Als explosionsgefährlich im Sinne des Teils 2 sind auch pyrotechnische Stoffe oder Zubereitungen zu werten, mit welchen durch selbstständige, nicht detonierende, unter Freiwerden von Wärme ablaufender Reaktionen Licht, Gas, Schall, Rauch oder Wärme oder eine Kombination dieser Wirkungen erzielt werden soll. Diese Definition umfasst auch explosionsgefährliche oder pyrotechnische Stoffe oder Zubereitungen, die in Gegenständen enthalten sind. Ist bei Gegenständen, die explosionsgefährliche oder pyrotechnische Stoffe oder Zubereitungen enthalten, die enthaltende Menge des Stoffs oder der Zubereitung bekannt, so ist für die Zwecke dieses Anhangs diese Menge maßgebend. Ist die Menge nicht bekannt, so ist für die Zwecke dieses Anhangs der gesamte Gegenstand als explosionsgefährlich anzusehen.
 
-5 explosionsgefährlich 1) 10 50
+- 2) Entzündliche Stoffe oder Zubereitungen im Sinne der Z 6 sind entzündliche Flüssigkeiten mit einem Flammpunkt von mindestens 21 °C und höchstens 55 °C (Gefahrenhinweis R 10), sofern sie eine Verbrennung unterhalten können.
 
-(UN/ADR – Klassen 1.1, 1.2,
+- 3) Leicht entzündliche Stoffe und Zubereitungen im Sinne der Z 7 sind leicht entzündliche Flüssigkeiten mit dem Gefahrenhinweis R 17 oder flüssige Stoffe und Zubereitungen, die einen Flammpunkt unter 55 °C haben und die unter Druck in flüssigem Zustand bleiben, sofern bei bestimmten Arten der Behandlung, zB unter hohem Druck und bei hoher Temperatur, das Risiko schwerer Unfälle entstehen kann.
 
-1.3, 1.5, 1.6 oder
+- 4) Leicht entzündliche Stoffe und Zubereitungen im Sinne der Z 8 sind leicht entzündliche Flüssigkeiten mit Gefahrenhinweis R 11.
 
-Gefahrenhinweise R 2 oder R 3)
-
-____________________________________________________________________
-
-6 entzündlich *2) 5 000 50 000
-
-____________________________________________________________________
-
-7 leicht entzündlich *3) 50 200
-
-____________________________________________________________________
-
-8 leicht entzündlich *4) 5 000 50 000
-
-____________________________________________________________________
-
-9 hochentzündliche Gase und
-
-Flüssigkeiten *5) 10 50
-
-____________________________________________________________________
-
-10 umweltgefährlich (Gefahrenhinweis 100 200
-
-R 50 oder R 50/53)
-
-____________________________________________________________________
-
-11 umweltgefährlich (Gefahrenhinweis
-
-R 51/53) 200 500
-
-____________________________________________________________________
-
-12 Stoffe mit Einstufung mit
-
-Gefahrenhinweis R 14 oder R 14/15,
-
-soweit nicht durch Z 1 bis 11 erfasst 100 500
-
-____________________________________________________________________
-
-13 Stoffe mit der Einstufung R 29, soweit
-
-nicht durch Z 1 bis 11 erfasst 50 200
-
-____________________________________________________________________
-
-Anmerkungen zu Teil 2:
-
-*1) Als explosionsgefährlich im Sinne des Teils 2 sind auch pyrotechnische Stoffe oder Zubereitungen zu werten, mit welchen durch selbstständige, nicht detonierende, unter Freiwerden von Wärme ablaufender Reaktionen Licht, Gas, Schall, Rauch oder Wärme oder eine Kombination dieser Wirkungen erzielt werden soll. Diese Definition umfasst auch explosionsgefährliche oder pyrotechnische Stoffe oder Zubereitungen, die in Gegenständen enthalten sind. Ist bei Gegenständen, die explosionsgefährliche oder pyrotechnische Stoffe oder Zubereitungen enthalten, die enthaltende Menge des Stoffs oder der Zubereitung bekannt, so ist für die Zwecke dieses Anhangs diese Menge maßgebend. Ist die Menge nicht bekannt, so ist für die Zwecke dieses Anhangs der gesamte Gegenstand als explosionsgefährlich anzusehen.
-
-*2) Entzündliche Stoffe oder Zubereitungen im Sinne der Z 6 sind entzündliche Flüssigkeiten mit einem Flammpunkt von mindestens 21 °C und höchstens 55 °C (Gefahrenhinweis R 10), sofern sie eine Verbrennung unterhalten können.
-
-*3) Leicht entzündliche Stoffe und Zubereitungen im Sinne der Z 7 sind leicht entzündliche Flüssigkeiten mit dem Gefahrenhinweis R 17 oder flüssige Stoffe und Zubereitungen, die einen Flammpunkt unter 55 °C haben und die unter Druck in flüssigem Zustand bleiben, sofern bei bestimmten Arten der Behandlung, zB unter hohem Druck und bei hoher Temperatur, das Risiko schwerer Unfälle entstehen kann. *4) Leicht entzündliche Stoffe und Zubereitungen im Sinne der Z 8 sind leicht entzündliche Flüssigkeiten mit Gefahrenhinweis R 11. *5) Hochentzündliche Stoffe und Zubereitungen im Sinne der Z 9 sind Gase und Flüssigkeiten mit dem Gefahrenhinweis R 12 (Gase mit dem Gefahrenhinweis R 12, die sich in einem gasförmigen oder überkritischen Zustand befinden) oder entzündliche und leicht entzündliche flüssige Stoffe und Zubereitungen, die auf einer Temperatur oberhalb ihres jeweiligen Siedebereiches gehalten werden.
+- 5) Hochentzündliche Stoffe und Zubereitungen im Sinne der Z 9 sind Gase und Flüssigkeiten mit dem Gefahrenhinweis R 12 (Gase mit dem Gefahrenhinweis R 12, die sich in einem gasförmigen oder überkritischen Zustand befinden) oder entzündliche und leicht entzündliche flüssige Stoffe und Zubereitungen, die auf einer Temperatur oberhalb ihres jeweiligen Siedebereiches gehalten werden.

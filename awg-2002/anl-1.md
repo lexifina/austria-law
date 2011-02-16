@@ -1,45 +1,41 @@
 ### Anhang 1
 
-Gruppen von Abfällen
+## Beispiele für Abfallvermeidungsmaßnahmen
 
-Q1 Nachstehend nicht näher beschriebene Produktions- oder
+## Maßnahmen, die sich auf die Rahmenbedingungen im Zusammenhang mit der Abfallerzeugung auswirken können
 
-Verbraucherrückstände
+- 1. Einsatz von Planungsmaßnahmen oder sonstigen wirtschaftlichen Instrumenten, die die Effizienz der Ressourcennutzung fördern;
 
-Q2 Nicht den Normen entsprechende Produkte
+- 2. Förderung einschlägiger Forschung und Entwicklung mit dem Ziel, umweltfreundlichere und weniger abfallintensive Produkte und Technologien hervorzubringen, sowie Verbreitung und Einsatz dieser Ergebnisse aus Forschung und Entwicklung;
 
-Q3 Produkte, bei denen das Verfalldatum überschritten ist Q4 Unabsichtlich ausgebrachte oder verlorene oder von einem
+- 3. Entwicklung wirksamer und aussagekräftiger Indikatoren für die Umweltbelastungen im Zusammenhang mit der Abfallerzeugung als Beitrag zur Vermeidung der Abfallerzeugung auf sämtlichen Ebenen;
 
-sonstigen Zwischenfall betroffene Produkte einschließlich sämtlicher Stoffe, Anlageteile usw., die bei einem solchen Zwischenfall kontaminiert worden sind
+## Maßnahmen, die sich auf die Konzeptions-, Produktions- und Vertriebsphase auswirken können
 
-Q5 Infolge absichtlicher Tätigkeiten kontaminierte oder
+- 4. Förderung von Ökodesign (systematische Einbeziehung von Umweltaspekten in das Produktdesign mit dem Ziel, die Umweltbilanz des Produkts über den gesamten Lebenszyklus hinweg zu verbessern) und von Mehrwegverpackungen;
 
-verschmutzte Stoffe (zB Reinigungsrückstände, Verpackungsmaterial, Behälter)
+- 5. Bereitstellung von Informationen über Techniken zur Abfallvermeidung im Hinblick auf einen erleichterten Einsatz des Standes der Technik in der Industrie;
 
-Q6 Nichtverwendbare Elemente (zB verbrauchte Batterien, Katalysatoren)
+- 6. Schulungsmaßnahmen für die zuständigen Behörden hinsichtlich der Einbeziehung der Abfallvermeidungsanforderungen bei der Erteilung von Genehmigungen für Behandlungsanlagen und für IPPC-Anlagen;
 
-Q7 Unverwendbar gewordene Stoffe (zB kontaminierte Säuren, Lösungsmittel, Härtesalze)
+- 7. Einbeziehung von Maßnahmen zur Vermeidung der Abfallerzeugung in Anlagen, die nicht unter die Richtlinie 2008/1/EG fallen, zB Maßnahmen zur Bewertung der Abfallvermeidung und zur Aufstellung von Plänen;
 
-Q8 Rückstände aus industriellen Verfahren (zB Schlacken, Destillationsrückstände)
+- 8. Sensibilisierungsmaßnahmen oder Unterstützung von Unternehmen bei der Finanzierung, Entscheidungsfindung oder Ähnliches, insbesondere Maßnahmen, die sich gezielt an kleinere und mittlere Unternehmen richten und auf bewährte Netzwerke des Wirtschaftslebens zurückgreifen;
 
-Q9 Rückstände von Verfahren zur Bekämpfung der Verunreinigung (zB Gaswaschschlamm, Luftfilterrückstand, verbrauchte Filter) Q10 Bei maschineller und spanender Formgebung anfallende Rückstände
+- 9. Rückgriff auf freiwillige Vereinbarungen, Verbraucher- und Herstellergremien oder branchenbezogene Verhandlungen, damit die jeweiligen Unternehmen oder Branchen eigene Abfallvermeidungspläne und -ziele festlegen oder abfallintensive Produkte oder Verpackungen verbessern;
 
-(zB Dreh- und Fräsespäne)
+- 10. Förderung von Umweltmanagementsystemen wie EMAS und ISO 14001;
 
-Q11 Bei der Förderung und der Aufbereitung von Rohstoffen anfallende
+## Maßnahmen, die sich auf die Verbrauchs- und Nutzungsphase auswirken können
 
-Rückstände (zB im Bergbau, bei der Erdölförderung) Q12 Kontaminierte Stoffe (zB mit PCB verschmutztes Öl) Q13 Stoffe oder Produkte aller Art, deren Verwendung gesetzlich
+- 11. Wirtschaftliche Instrumente, zB Anreize für umweltfreundlichen Einkauf oder die Einführung eines vom Verbraucher zu zahlenden Aufpreises für einen Verpackungsartikel oder Verpackungsteil, der sonst unentgeltlich bereitgestellt werden würde;
 
-verboten ist
+- 12. Sensibilisierungsmaßnahmen und Informationen für die breite Öffentlichkeit oder eine bestimmte Verbrauchergruppe;
 
-Q14 Produkte, die vom Besitzer nicht oder nicht mehr verwendet
+- 13. Förderung von Ökozeichen;
 
-werden (zB in der Landwirtschaft, den privaten Haushalten, Büros, Verkaufsstellen, Werkstätten)
+- 14. Vereinbarungen mit der Industrie, wie der Rückgriff auf Produktgremien etwa nach dem Vorbild der integrierten Produktpolitik, oder mit dem Einzelhandel über die Bereitstellung von Informationen über Abfallvermeidung und umweltfreundliche Produkte;
 
-Q15 Kontaminierte Stoffe oder Produkte, die bei der Sanierung von
+- 15. Einbeziehung von Kriterien des Umweltschutzes und der Abfallvermeidung in Ausschreibungen des öffentlichen und privaten Beschaffungswesens im Sinne des Handbuchs für eine umweltgerechte öffentliche Beschaffung, das von der Kommission am 29. Oktober 2004 veröffentlicht wurde;
 
-Böden anfallen
-
-Q16 Stoffe oder Produkte aller Art, die nicht einer der oben
-
-erwähnten Gruppen angehören
+- 16. Förderung der Wiederverwendung oder Reparatur geeigneter Abfälle, vor allem durch den Einsatz pädagogischer, wirtschaftlicher, logistischer oder anderer Maßnahmen wie Unterstützung oder Einrichtung von Zentren und Netzen für Reparatur und Wiederverwendung, insbesondere in dicht besiedelten Regionen. Dabei ist auf die Schaffung von „Green Jobs“ Bedacht zu nehmen.
