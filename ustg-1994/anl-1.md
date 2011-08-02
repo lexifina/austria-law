@@ -1,10 +1,10 @@
 ### Anlage
 
-### (zu § 10 Abs. 2 und § 24 UStG)
+## (zu § 10 Abs. 2 und § 24 UStG)
 
-## Verzeichnis der dem Steuersatz von 10% unterliegenden Gegenstände
+### Verzeichnis der dem Steuersatz von 10% unterliegenden Gegenstände
 
-- 1. Lebende Tiere der Positionen 0101 bis 0105 der Kombinierten Nomenklatur.
+- 1. Lebende Tiere der Unterpositionen 0101 10 90, 0101 90 11, 0101 90 30, 0101 90 90 und der Positionen 0102 bis 0105 der Kombinierten Nomenklatur.
 
 - 2. Bienen und ausgebildete Blindenführhunde (aus Unterposition 0106 9000 der Kombinierten Nomenklatur).
 
