@@ -1,4 +1,4 @@
-### Anlage zum GOG
+### Anlage 1 zum GOG
 
 ## VERFAHRENSORDNUNG FÜR PARLAMENTARISCHE UNTERSUCHUNGSAUSSCHÜSSE
 
@@ -40,7 +40,7 @@
 
 ### III. Öffentlichkeit von Sitzungen
 
-§ 4. (1) Bei der Anhörung von Auskunftspersonen und Sachverständigen wird Medienvertretern vom Präsidenten nach Maßgabe der räumlichen Möglichkeiten Zutritt gewährt; der Präsident kann sich hiebei der Vereinigung der Parlamentsredakteure und anderer beruflicher Interessenvertretungen von Journalisten bedienen. Fernseh- sowie Hörfunkaufnahmen und -übertragungen sowie Film- und Lichtbildaufnahmen sind unzulässig.
+§ 4. (1) Bei der Anhörung von Auskunftspersonen und Sachverständigen wird Medienvertretern vom Präsidenten nach Maßgabe der räumlichen Möglichkeiten Zutritt gewährt; der Präsident kann sich hiebei der Vereinigung der Parlamentsredakteure und anderer beruflicher Interessenvertretungen von Journalisten bedienen. Fernseh- sowie Hörfunkaufnahmen und übertragungen sowie Film- und Lichtbildaufnahmen sind unzulässig.
 
 (2) Auf Beschluß des Untersuchungsausschusses kann die Öffentlichkeit ausgeschlossen werden, wenn überwiegende schutzwürdige Interessen der Allgemeinheit oder des einzelnen dies gebieten, es zum Schutz von Betriebs- oder Geschäftsgeheimnissen notwendig ist oder wenn der Ausschluß der Öffentlichkeit im Interesse der Erlangung einer wahrheitsmäßigen Aussage erforderlich erscheint.
 
