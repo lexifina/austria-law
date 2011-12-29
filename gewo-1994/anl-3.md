@@ -1,12 +1,6 @@
 ### Anlage 3
 
-### (§ 77a Abs. 1, 3, 4 und 5,
-
-### § 81a, § 81b Abs. 1, 3 und
-
-### 4, § 81c, § 81d, § 84i, § 356a Abs. 1,
-
-### § 356b Abs. 7, § 359b Abs. 1 letzter Satz)
+### (§ 77a Abs. 1, 3, 4 und 5, § 81a, § 81b Abs. 1, 3 und 4, § 81c, § 81d, § 84i, § 356a Abs. 1, § 356b Abs. 7, § 359b Abs. 1 letzter Satz)
 
 ### IPPC-Betriebsanlagen
 
@@ -32,11 +26,19 @@
 
 | 2.2 | Anlagen zur Herstellung von Roheisen oder Stahl (Primär- oder Sekundärschmelzung) einschließlich Stranggießen mit einer Schmelzkapazität von mehr als | 2,5 t/h |
 
-| 2.3 | - Anlagen zum Warmwalzen mit einer Verarbeitungskapazität an Rohstahl von mehr als - Anlagen zum Schmieden von Eisenmetallen - Anlagen zum Aufbringen von schmelzflüssigen metallischen Schutzschichten auf Metalloberflächen mit einer Verarbeitungskapazität | 20 t/h mit Hämmern mit einer Schlagenergie je Hammer von mehr als 50 kJ und einer Wärmeleistung von über 20 MW an Rohstahl von mehr als 2 t/h |
+| 2.3 | - Anlagen zum Warmwalzen mit einer Verarbeitungskapazität an Rohstahl von mehr als | 20 t/h |
+
+| - Anlagen zum Schmieden von Eisenmetallen | mit Hämmern mit einer Schlagenergie je Hammer von mehr als 50 kJ und einer Wärmeleistung von über 20 MW |
+
+| - Anlagen zum Aufbringen von schmelzflüssigen metallischen Schutzschichten auf Metalloberflächen mit einer Verarbeitungskapazität | an Rohstahl von mehr als 2 t/h |
 
 | 2.4 | Eisenmetallgießereien mit einer Produktionskapazität von mehr als | 20 t/d |
 
-| 2.5 | - Anlagen zur Gewinnung von Nichteisenrohmetallen aus Erzen, Konzentraten oder sekundären Rohstoffen durch metallurgische, chemische oder elektrolytische Verfahren - Nichteisenmetallgießereien mit einer Schmelzkapazität von mehr als - Anlagen zum Schmelzen von Nichteisenmetallen einschließlich Legierungen, darunter auch Wiedergewinnungsprodukte (Raffination) mit einer Schmelzkapazität von mehr als | 0 4 t/d an Blei und Kadmium oder von 20 t/d an sonstigen Metallen 4 t/d an Blei und Kadmium oder von 20 t/d an sonstigen Metallen |
+| 2.5 | - Anlagen zur Gewinnung von Nichteisenrohmetallen aus Erzen, Konzentraten oder sekundären Rohstoffen durch metallurgische, chemische oder elektrolytische Verfahren | 0 |
+
+| - Nichteisenmetallgießereien mit einer Schmelzkapazität von mehr als | 4 t/d an Blei und Kadmium oder von 20 t/d an sonstigen Metallen |
+
+| - Anlagen zum Schmelzen von Nichteisenmetallen einschließlich Legierungen, darunter auch Wiedergewinnungsprodukte (Raffination) mit einer Schmelzkapazität von mehr als | 4 t/d an Blei und Kadmium oder von 20 t/d an sonstigen Metallen |
 
 | 2.6 | Anlagen zur Oberflächenbehandlung von Metallen oder Kunststoffen durch ein elektrolytisches oder chemisches Verfahren | mit einem Volumen der Wirkbäder von mehr als 30 m3 |
 
@@ -86,7 +88,9 @@
 
 | 6. | Sonstige Industriezweige |
 
-| 6.1 | - Anlagen zur Herstellung von Zellstoff aus Holz oder anderen Faserstoffen - Anlagen zur Herstellung von Papier, Pappe oder Karton mit einer Produktionskapazität von mehr als | 0 20 t/d |
+| 6.1 | - Anlagen zur Herstellung von Zellstoff aus Holz oder anderen Faserstoffen | 0 |
+
+| - Anlagen zur Herstellung von Papier, Pappe oder Karton mit einer Produktionskapazität von mehr als | 20 t/d |
 
 | 6.2 | Anlagen zur Vorbehandlung, wie Bleichen, Waschen, Mercerisieren, oder zum Färben von Fasern oder Textilien mit einer Verarbeitungskapazität von mehr als | 10 t/d |
 
@@ -94,17 +98,51 @@
 
 | 6.4a | Anlagen zum Schlachten von Tieren mit einer Schlachtkapazität (Tierkörper) von mehr als | 50 t/d |
 
-| 6.4b1 | - Anlagen zur Verarbeitung und zur Behandlung von Fisch oder Fleisch einschließlich Geflügel mit einer Verarbeitungskapazität von mehr als - Anlagen zur Herstellung von Fischmehl oder Fischöl mit einer Produktionskapazität von mehr als - Anlagen zur Erzeugung von Speisefetten aus tierischen Rohstoffen, ausgenommen Milch, mit einer Produktionskapazität an Fertigerzeugnissen von mehr als - Anlagen zur Herstellung von Konserven einschließlich Tierfutter sowie von Tiefkühlerzeugnissen aus tierischen Rohstoffen mit einer Produktionskapazität an Konserven von mehr als - Anlagen zur Herstellung von Nahrungsmittelerzeugnissen aus tierischen Rohstoffen, ausgenommen Milch, mit einer Produktionskapazität an Fertigerzeugnissen von mehr als - Anlagen zum Räuchern von Fleisch- oder Fischwaren mit einer Produktionskapazität an geräucherten Waren von mehr als | 75 t/d 75 t/d 75 t/d 75 t/d 75 t/d 75 t/d |
+| 6.4b1 | - Anlagen zur Verarbeitung und zur Behandlung von Fisch oder Fleisch einschließlich Geflügel mit einer Verarbeitungskapazität von mehr als | 75 t/d |
 
-| 6.4b2 2) | - Anlagen zur Herstellung von Konserven einschließlich Tierfutter sowie von Tiefkühlerzeugnissen aus pflanzlichen Rohstoffen mit einer Produktionskapazität an Konserven von mehr als - Anlagen zur Herstellung oder Raffination von Zucker unter Verwendung von Zuckerrüben oder Rohzucker mit einer Produktionskapazität an Zucker von mehr als - Anlagen zur Herstellung von Nahrungsmittelerzeugnissen aus pflanzlichen Rohstoffen mit einer Produktionskapazität an Fertigerzeugnissen von mehr als - Anlagen zur Erzeugung von Ölen oder Fetten aus pflanzlichen Rohstoffen mit einer Produktionskapazität von mehr als - Anlagen zur Herstellung von Sauerkraut mit einer Produktionskapazität an Sauerkraut von mehr als - Anlagen zur Herstellung von Braumalz (Mälzereien) mit einer Produktionskapazität an Darrmalz von mehr als - Mühlen für Nahrungs- oder Futtermittel mit einer Produktionskapazität an Fertigerzeugnissen von mehr als - Anlagen zur Herstellung von Stärkemehlen mit einer Produktionskapazität an Stärkemehl von mehr als - Brauereien mit einer Produktionskapazität an Bier von mehr als - Anlagen zur Herstellung von Sekt oder Süßwein mit einer Produktionskapazität von mehr als - Anlagen zum Rösten von Kaffee, Kaffee-Ersatzprodukten, Getreide, Kakaobohnen oder Nüssen mit einer Produktionskapazität von mehr als - Anlagen zur Herstellung von Süßwaren mit einer Produktionskapazität von mehr als | 300 t/d 300 t/d 300 t/d 300 t/d 300 t/d 300 t/d 300 t/d 300 t/d 3 000 hl/d 300 t/d 300 t/d 300 t/d |
+| - Anlagen zur Herstellung von Fischmehl oder Fischöl mit einer Produktionskapazität von mehr als | 75 t/d |
+
+| - Anlagen zur Erzeugung von Speisefetten aus tierischen Rohstoffen, ausgenommen Milch, mit einer Produktionskapazität an Fertigerzeugnissen von mehr als | 75 t/d |
+
+| - Anlagen zur Herstellung von Konserven einschließlich Tierfutter sowie von Tiefkühlerzeugnissen aus tierischen Rohstoffen mit einer Produktionskapazität an Konserven von mehr als | 75 t/d |
+
+| - Anlagen zur Herstellung von Nahrungsmittelerzeugnissen aus tierischen Rohstoffen, ausgenommen Milch, mit einer Produktionskapazität an Fertigerzeugnissen von mehr als | 75 t/d |
+
+| - Anlagen zum Räuchern von Fleisch- oder Fischwaren mit einer Produktionskapazität an geräucherten Waren von mehr als | 75 t/d |
+
+| 6.4b2 2) | - Anlagen zur Herstellung von Konserven einschließlich Tierfutter sowie von Tiefkühlerzeugnissen aus pflanzlichen Rohstoffen mit einer Produktionskapazität an Konserven von mehr als | 300 t/d |
+
+| - Anlagen zur Herstellung oder Raffination von Zucker unter Verwendung von Zuckerrüben oder Rohzucker mit einer Produktionskapazität an Zucker von mehr als | 300 t/d |
+
+| - Anlagen zur Herstellung von Nahrungsmittelerzeugnissen aus pflanzlichen Rohstoffen mit einer Produktionskapazität an Fertigerzeugnissen von mehr als | 300 t/d |
+
+| - Anlagen zur Erzeugung von Ölen oder Fetten aus pflanzlichen Rohstoffen mit einer Produktionskapazität von mehr als | 300 t/d |
+
+| - Anlagen zur Herstellung von Sauerkraut mit einer Produktionskapazität an Sauerkraut von mehr als | 300 t/d |
+
+| - Anlagen zur Herstellung von Braumalz (Mälzereien) mit einer Produktionskapazität an Darrmalz von mehr als | 300 t/d |
+
+| - Mühlen für Nahrungs- oder Futtermittel mit einer Produktionskapazität an Fertigerzeugnissen von mehr als | 300 t/d |
+
+| - Anlagen zur Herstellung von Stärkemehlen mit einer Produktionskapazität an Stärkemehl von mehr als | 300 t/d |
+
+| - Brauereien mit einer Produktionskapazität an Bier von mehr als | 3 000 hl/d |
+
+| - Anlagen zur Herstellung von Sekt oder Süßwein mit einer Produktionskapazität von mehr als | 300 t/d |
+
+| - Anlagen zum Rösten von Kaffee, Kaffee-Ersatzprodukten, Getreide, Kakaobohnen oder Nüssen mit einer Produktionskapazität von mehr als | 300 t/d |
+
+| - Anlagen zur Herstellung von Süßwaren mit einer Produktionskapazität von mehr als | 300 t/d |
 
 | 6.4c | Anlagen zur Behandlung und Verarbeitung von Milch mit einer eingehenden Milchmenge (Jahresdurchschnitt) von mehr als | 200 t/d |
 
 | 6.5 | Anlagen zur Beseitigung oder Verwertung von Tierkörpern oder tierischen Abfällen mit einer Verarbeitungskapazität von mehr als | 10 t/d |
 
-| 6.6 | Anlagen zur Behandlung von Oberflächen von Stoffen, Gegenständen oder Erzeugnissen unter Verwendung von organischen Lösungsmitteln 3), insbesondere zum Appretieren, Bedrucken, Beschichten, Entfetten, Imprägnieren, Kleben, Lackieren, Reinigen oder Tränken, mit einer Verbrauchskapazität an organischen Lösungsmitteln von mehr als | 150 kg/h oder200 t/a |
+| 6.6 | Anlagen zur Behandlung von Oberflächen von Stoffen, Gegenständen oder Erzeugnissen unter Verwendung von organischen Lösungsmitteln 3), insbesondere zum Appretieren, Bedrucken, Beschichten, Entfetten, Imprägnieren, Kleben, Lackieren, Reinigen oder Tränken, mit einer Verbrauchskapazität an organischen Lösungsmitteln von mehr als | 150 kg/h oder 200 t/a |
 
 | 6.7 | Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder Elektrographit durch Brennen oder Graphitieren, zum Beispiel für Elektroden, Stromabnehmer oder Apparateteile | 0 |
+
+| 6.8 | Abscheidung von CO2-Strömen aus unter diese Anlage fallenden IPPC-Betriebsanlagen für die Zwecke der geologischen Speicherung gemäß der Richtlinie 2009/31/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die geologische Speicherung von Kohlendioxid | 0 |
 
 1) Ausgenommen Anlagen zur ausschließlichen Formulierung oder Mischung der Stoffe; gilt für alle Anlagen der Gruppe 4.
 
