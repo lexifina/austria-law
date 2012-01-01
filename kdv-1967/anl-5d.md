@@ -1,229 +1,223 @@
-Anlage 5d
+### Anlage 5d
 
-______________
+### zu § 26 Abs. 1
 
-zu § 26 Abs. 1
+## Bezeichnung der Behörde im Kennzeichen
 
-Bezeichnung der Behörde im Kennzeichen
+### I. BURGENLAND
 
-I. BURGENLAND
+| Bundes-Poldion. Eisenstadt | E |
 
-Bundes-Poldion. Eisenstadt .................................. E
+| BH. Eisenstadt | EU |
 
-BH. Eisenstadt .............................................. EU
+| BH. Neusiedl am See | ND |
 
-BH. Neusiedl am See ......................................... ND
+| BH. Mattersburg | MA |
 
-BH. Mattersburg ............................................. MA
+| BH. Oberpullendorf | OP |
 
-BH. Oberpullendorf .......................................... OP
+| BH. Oberwart | OW |
 
-BH. Oberwart ................................................ OW
+| BH. Güssing | GS |
 
-BH. Güssing ................................................. GS
+| BH. Jennersdorf | JE |
 
-BH. Jennersdorf ............................................. JE
+### II. KÄRNTEN
 
-II. KÄRNTEN
+| Bundes-Poldion. Klagenfurt | K |
 
-Bundes-Poldion. Klagenfurt .................................. K
+| Bundes-Poldion. Villach | VI |
 
-Bundes-Poldion. Villach ..................................... VI
+| BH. Villach | VL |
 
-BH. Villach ................................................. VL
+| BH. Wolfsberg | WO |
 
-BH. Wolfsberg................................................ WO
+| BH. Spittal an der Drau | SP |
 
-BH. Spittal an der Drau ..................................... SP
+| BH. Feldkirchen | FE |
 
-BH. Feldkirchen ............................................. FE
+| BH. Hermagor | HE |
 
-BH. Hermagor ................................................ HE
+| BH. St. Veit an der Glan | SV |
 
-BH. St. Veit an der Glan .................................... SV
+| BH. Klagenfurt | KL |
 
-BH. Klagenfurt .............................................. KL
+| BH. Völkermarkt | VK |
 
-BH. Völkermarkt ............................................. VK
+### III. NIEDERÖSTERREICH
 
-III. NIEDERÖSTERREICH
+| Bundes-Poldion. St. Pölten | P |
 
-Bundes-Poldion. St. Pölten .................................. P
+| BH. Amstetten | AM |
 
-BH. Amstetten ............................................... AM
+| BH. Baden | BN |
 
-BH. Baden ................................................... BN
+| BH. Bruck an der Leitha | BL |
 
-BH. Bruck an der Leitha ..................................... BL
+| BH. Gänserndorf | GF |
 
-BH. Gänserndorf ............................................. GF
+| BH. Gmünd | GD |
 
-BH. Gmünd ................................................... GD
+| BH. Hollabrunn | HL |
 
-BH. Hollabrunn .............................................. HL
+| BH. Horn | HO |
 
-BH. Horn .................................................... HO
+| BH. Korneuburg | KO |
 
-BH. Korneuburg .............................................. KO
+| BH. Krems an der Donau | KR |
 
-BH. Krems an der Donau ...................................... KR
+| BH. Lilienfeld | LF |
 
-BH. Lilienfeld .............................................. LF
+| BH. Melk | ME |
 
-BH. Melk .................................................... ME
+| BH. Mistelbach | MI |
 
-BH. Mistelbach .............................................. MI
+| BH. Mödling | MD |
 
-BH. Mödling ................................................. MD
+| BH. Neunkirchen | NK |
 
-BH. Neunkirchen ............................................. NK
+| BH. St. Pölten | PL |
 
-BH. St. Pölten .............................................. PL
+| BH. Scheibbs | SB |
 
-BH. Scheibbs ................................................ SB
+| BH. Tulln | TU |
 
-BH. Tulln ................................................... TU
+| BH. Waidhofen an der Thaya | WT |
 
-BH. Waidhofen an der Thaya .................................. WT
+| BH. Wiener Neustadt | WB |
 
-BH. Wiener Neustadt ......................................... WB
+| BH. Wien-Umgebung | WU |
 
-BH. Wien-Umgebung ........................................... WU
+| BH. Zwettl | ZT |
 
-BH. Zwettl .................................................. ZT
+| Bundes-Poldion. Wr. Neustadt | WN |
 
-Bundes-Poldion. Wr. Neustadt ................................ WN
+| Mag. Krems an der Donau | KS |
 
-Mag. Krems an der Donau ..................................... KS
+| Mag. Waidhofen an der Ybbs | WY |
 
-Mag. Waidhofen an der Ybbs .................................. WY
+| Bundes-Poldion. Schwechat | SW |
 
-Bundes-Poldion. Schwechat ................................... SW
+### IV. OBERÖSTERREICH
 
-IV. OBERÖSTERREICH
+| Bundes-Poldion. Linz | L |
 
-Bundes-Poldion. Linz ........................................ L
+| BH. Braunau am Inn | BR |
 
-BH. Braunau am Inn .......................................... BR
+| BH. Eferding | EF |
 
-BH. Eferding ................................................ EF
+| BH. Freistadt | FR |
 
-BH. Freistadt ............................................... FR
+| BH. Gmunden | GM |
 
-BH. Gmunden ................................................. GM
+| BH. Grieskirchen | GR |
 
-BH. Grieskirchen ............................................ GR
+| BH. Kirchdorf an der Krems | KI |
 
-BH. Kirchdorf an der Krems .................................. KI
+| BH. Linz-Land | LL |
 
-BH. Linz-Land ............................................... LL
+| BH. Perg | PE |
 
-BH. Perg .................................................... PE
+| BH. Ried im Innkreis | RI |
 
-BH. Ried im Innkreis ........................................ RI
+| BH. Rohrbach im Mühlkreis | RO |
 
-BH. Rohrbach im Mühlkreis ................................... RO
+| BH. Schärding | SD |
 
-BH. Schärding ............................................... SD
+| BH. Steyr-Land | SE |
 
-BH. Steyr-Land .............................................. SE
+| BH. Urfahr-Umgebung | UU |
 
-BH. Urfahr-Umgebung ......................................... UU
+| BH. Vöcklabruck | VB |
 
-BH. Vöcklabruck ............................................. VB
+| BH. Wels | WL |
 
-BH. Wels .................................................... WL
+| Bundes-Poldion. Steyr | SR |
 
-Bundes-Poldion. Steyr ....................................... SR
+| Bundes-Poldion. Wels | WE |
 
-Bundes-Poldion. Wels ........................................ WE
+### V. SALZBURG
 
-V. SALZBURG
+| Bundes-Poldion. Salzburg | S |
 
-Bundes-Poldion. Salzburg .................................... S
+| BH. Salzburg-Umgebung | SL |
 
-BH. Salzburg-Umgebung ....................................... SL
+| BH. Hallein | HA |
 
-BH. Hallein ................................................. HA
+| BH. St. Johann | JO |
 
-BH. St. Johann .............................................. JO
+| BH. Zell am See | ZE |
 
-BH. Zell am See ............................................. ZE
+| BH- Tamsweg | TA |
 
-BH- Tamsweg ................................................. TA
+### VI. STEIERMARK
 
-VI. STEIERMARK
+| Bundes-Poldion. Graz | G |
 
-Bundes-Poldion. Graz ........................................ G
+| BH. Graz-Umgebung | GU |
 
-BH. Graz-Umgebung ........................................... GU
+| BH. Bruck an der Mur | BM |
 
-BH. Bruck an der Mur ........................................ BM
+| BH. Deutschlandsberg | DL |
 
-BH. Deutschlandsberg ........................................ DL
+| BH. Feldbach | FB |
 
-BH. Feldbach ................................................ FB
+| BH. Fürstenfeld | FF |
 
-BH. Fürstenfeld ............................................. FF
+| BH. Hartberg | HB |
 
-BH. Hartberg ................................................ HB
+| BH. Murtal | MT |
 
-BH. Judenburg ............................................... JU
+| BH. Leibnitz | LB |
 
-BH. Knittelfeld ............................................. KF
+| BH. Leoben | LN |
 
-BH. Leibnitz ................................................ LB
+| BH. Liezen | LI |
 
-BH. Leoben .................................................. LN
+| BH. Murau | MU |
 
-BH. Liezen .................................................. LI
+| BH. Mürzzuschlag | MZ |
 
-BH. Murau ................................................... MU
+| BH. Radkersburg | RA |
 
-BH. Mürzzuschlag ............................................ MZ
+| BH. Voitsberg | VO |
 
-BH. Radkersburg ............................................. RA
+| BH. Weiz | WZ |
 
-BH. Voitsberg ............................................... VO
+| Exp. Gröbming | GB |
 
-BH. Weiz .................................................... WZ
+| Bundes-Poldion. Leoben | LE |
 
-Exp. Gröbming ............................................... GB
+### VII. TIROL
 
-Exp. Bad Aussee ............................................. BA
+| Bundes-Poldion. Innsbruck | I |
 
-Bundes-Poldion. Leoben ...................................... LE
+| BH. Innsbruck | IL |
 
-VII. TIROL
+| BH. Imst | IM |
 
-Bundes-Poldion. Innsbruck ................................... I
+| BH. Kitzbühel | KB |
 
-BH. Innsbruck ............................................... IL
+| BH. Kufstein | KU |
 
-BH. Imst .................................................... IM
+| BH. Landeck | LA |
 
-BH. Kitzbühel ............................................... KB
+| BH. Reutte | RE |
 
-BH. Kufstein ................................................ KU
+| BH. Schwaz | SZ |
 
-BH. Landeck ................................................. LA
+| BH. Lienz | LZ |
 
-BH. Reutte .................................................. RE
+### VIII. VORARLBERG
 
-BH. Schwaz .................................................. SZ
+| BH. Bregenz | B |
 
-BH. Lienz ................................................... LZ
+| BH. Feldkirch | FK |
 
-VIII. VORARLBERG
+| BH. Bludenz | BZ |
 
-BH. Bregenz ................................................. B
+| BH. Dornbirn | DO |
 
-BH. Feldkirch ............................................... FK
+### IX. WIEN
 
-BH. Bludenz ................................................. BZ
-
-BH. Dornbirn ................................................ DO
-
-IX. WIEN
-
-Bundes-Poldion. Wien ........................................ W
+| Bundes-Poldion. Wien | W |
