@@ -50,6 +50,6 @@ Gemeinden gelten unabhängig von der Zahl ihrer Einwohner als Rechtsträger, die
 
 (4) Der Bund hat den Ländern Gelegenheit zu geben, an der Vorbereitung von Gesetzesvorhaben in Angelegenheiten des Abs. 1 mitzuwirken. Nach Abs. 1 ergehende Bundesgesetze, die Angelegenheiten regeln, die in Vollziehung Landessache sind, dürfen nur mit Zustimmung der Länder kundgemacht werden.
 
-(5) Die Durchführungsverordnungen zu den nach Abs. 1 ergehenden Bundesgesetzen sind, soweit in diesen Gesetzen nicht anderes bestimmt ist, vom Bund zu erlassen. Abs. 4 ist auf solche Verordnungen sinngemäß anzuwenden.
+(5) Die Durchführungsverordnungen zu den nach Abs. 1 ergehenden Bundesgesetzen sind, soweit in diesen Gesetzen nicht anderes bestimmt ist, vom Bund zu erlassen. Abs. 4 und Art. 42a sind auf solche Verordnungen sinngemäß anzuwenden.
 
 (6) Die für die Durchführung der Nachprüfungsverfahren zuständigen Verwaltungsbehörden können gesetzlich auch zur Kontrolle der in Art. 19 Abs. 1 bezeichneten obersten Organe der Vollziehung, der Gemeinden und der Gemeindeverbände und von Privaten berufen werden.

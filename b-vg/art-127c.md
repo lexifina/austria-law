@@ -4,6 +4,6 @@ Artikel 127c. Ist in einem Land ein Landesrechnungshof eingerichtet, können dur
 
 - 2. dem Art. 127a Abs. 1 bis 6 entsprechende Bestimmungen betreffend Gemeinden mit weniger als 10 000 Einwohnern;
 
-- 3. dem Art. 127a Abs. 7 und 8 entsprechende Bestimmungen betreffend Gemeinden mit mindestens 10 000 Einwohnern;
+- 3. dem Art. 127a Abs. 7 und 8 entsprechende Bestimmungen betreffend Gemeinden mit mindestens 10 000 Einwohnern.
 
-- 4. dem Art. 127a Abs. 9 entsprechende Bestimmungen betreffend die Gemeindeverbände, wobei für die sinngemäße Anwendung des Art. 127a Abs. 1 bis 6 eine Gesamtzahl der Einwohner der verbandsangehörigen Gemeinden von weniger als 10 000 und für die sinngemäße Anwendung des Art. 127a Abs. 7 und 8 eine Gesamtzahl der Einwohner der verbandsangehörigen Gemeinden von mindestens 10 000 maßgeblich ist.
+(Anm.: Z 4 aufgehoben durch BGBl. I Nr. 51/2012)

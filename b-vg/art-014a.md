@@ -34,7 +34,7 @@ In den auf Grund der Bestimmungen unter lit. b ergehenden Bundesgesetzen kann di
 
   - d) hinsichtlich der Organisation und des Wirkungskreises von Beiräten, die in den Angelegenheiten des Abs. 1 an der Vollziehung der Länder mitwirken.
 
-(5) Die Errichtung der im Abs. 2 unter den lit. c und g bezeichneten land- und forstwirtschaftlichen Fachschulen und Versuchsanstalten ist nur zulässig, wenn die Landesregierung des Landes, in dem die Fachschule bzw. Versuchsanstalt ihren Sitz haben soll, der Errichtung zugestimmt hat. Diese Zustimmung ist nicht erforderlich, wenn es sich um die Errichtung einer land- und forstwirtschaftlichen Fachschule handelt, die mit einer Anstalt für die Ausbildung und Fortbildung der Lehrer an land- und forstwirtschaftlichen Schulen zur Gewährleistung von lehrplanmäßig vorgesehenen Übungen organisatorisch verbunden werden soll.
+(5) Die Errichtung der im Abs. 2 unter den lit. c und g bezeichneten land- und forstwirtschaftlichen Fachschulen und Versuchsanstalten ist nur zulässig, wenn die Landesregierung des Landes, in dem die Fachschule beziehungsweise Versuchsanstalt ihren Sitz haben soll, der Errichtung zugestimmt hat. Diese Zustimmung ist nicht erforderlich, wenn es sich um die Errichtung einer land- und forstwirtschaftlichen Fachschule handelt, die mit einer Anstalt für die Ausbildung und Fortbildung der Lehrer an land- und forstwirtschaftlichen Schulen zur Gewährleistung von lehrplanmäßig vorgesehenen Übungen organisatorisch verbunden werden soll.
 
 (6) Dem Bund steht die Befugnis zu, in den Angelegenheiten, die nach Abs. 3 und 4 in die Vollziehung der Länder fallen, die Einhaltung der von ihm erlassenen Vorschriften wahrzunehmen.
 
