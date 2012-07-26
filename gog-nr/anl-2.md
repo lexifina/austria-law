@@ -2,7 +2,7 @@
 
 ## Bestimmungen für den Umgang mit und die Verteilung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union
 
-## (Verteilungsordnung-EU - VO-EU)
+## (Verteilungsordnung-EU VO-EU)
 
 § 1. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union stehen im Nationalrat auf elektronischem Wege zur Verfügung, sofern § 3 nichts anderes bestimmt.
 
@@ -20,13 +20,13 @@
 
 - 5. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Secret UE/EU Secret“ klassifiziert sind, werden an die Mitglieder der Präsidialkonferenz übermittelt. Darüber hinaus liegen solche Dokumente für jeweils zwei von den Klubs namhaft gemachte Personen bzw. deren Vertretung gemäß Z 4 zur Einsicht in der Parlamentsdirektion auf. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung für die Dauer der Sitzung an die Mitglieder des Hauptausschusses zu verteilen.
 
-- 6. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Trés Secret UE/EU Top Secret" klassifiziert sind, werden an die Mitglieder der Präsidialkonferenz übermittelt. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung für die Dauer der Sitzung an die Mitglieder des Hauptausschusses zu verteilen.
+- 6. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Très Secret UE/EU Top Secret“ klassifiziert sind, werden an die Mitglieder der Präsidialkonferenz übermittelt. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung für die Dauer der Sitzung an die Mitglieder des Hauptausschusses zu verteilen.
 
-§ 4. (1) Wenn in einer Sitzung des Hauptausschusses Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union behandelt werden, die als „Secret UE/EU Secret“ oder „Trés Secret UE/EU Top Secret" klassifiziert sind, sind die anwesenden Mitglieder des Hauptausschusses vom Präsidenten des Nationalrates auf Wahrung der Vertraulichkeit zu vereidigen.
+§ 4. (1) Wenn in einer Sitzung des Hauptausschusses Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union behandelt werden, die als „Secret UE/EU Secret“ oder „Très Secret UE/EU Top Secret“ klassifiziert sind, sind die anwesenden Mitglieder des Hauptausschusses vom Präsidenten des Nationalrates auf Wahrung der Vertraulichkeit zu vereidigen.
 
 (2) Über die Teilnahme von Personen, die nicht dem Hauptausschuss als Mitglieder angehören, oder deren Teilnahme sich nicht aus Art. 75 B-VG ergibt, entscheidet bei der Behandlung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen der Europäischen Union gemäß Abs. 1 der Hauptausschuss durch Beschluss. Personen, die aufgrund eines solchen Beschlusses an der Sitzung teilnehmen, sind vom Präsidenten auf die Wahrung der Vertraulichkeit zu vereidigen.
 
-(3) Die gemäß § 3 Z 4 von den Klubs namhaft gemachten Personen, sind über die Wahrung der Vertraulichkeit vom Präsidenten des Nationalrates zu belehren.
+(3) Die gemäß § 3 Z 4 von den Klubs namhaft gemachten Personen sind über die Wahrung der Vertraulichkeit vom Präsidenten des Nationalrates zu belehren.
 
 § 5. Für den Umgang mit und die Verteilung von Dokumenten zu Vorhaben im Rahmen der Europäischen Union, die von österreichischen Organen erstellt wurden, gelten dieselben Bestimmungen wie für den Umgang mit und die Verteilung von jenen Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, auf die sie sich beziehen.
 
