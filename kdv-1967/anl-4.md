@@ -306,7 +306,7 @@
 
 | 166 | V | 48 | 48 | 48 | 46 | 15 | 15 | x | Abgasverhalten (T und C: Auspuffgas), Nummer der letzten Änderungsrichtlinie, ggf. Umsetzungsstufe | Siehe Anmerkungen 10 und 11; TB, EG |
 
-| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40117545/image001.png |
+| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40142081/image001.png |
 
 | 168 | V2 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), HC bzw. THC | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Summenwert „HC+NOx“ bzw „THC+NOx“ bewertet, muss der Wert für „HC“ bzw. „THC“ nicht angegeben werden; TB |
 
@@ -530,7 +530,7 @@ Anmerkungen zur Anlage 4:
 
 | EI | Bei Eingabe von Genehmigungsdaten für Fahrzeuge, die in einem anderen Mitgliedsstaat bereits zugelassen waren, bei denen eine Zulassungsbescheinigung im Sinne der Richtlinie 1999/37/EG vorgelegt wird und keine Übereinstimmungsbescheinigung vorgelegt werden kann. |
 
-| 20) Die Leistung ist anzugeben: a) bei Fahrzeugen, die nur über einen Verbrennungsmotor verfügen, in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244) und in der Rubrik „Nennleistung in kW“ (Zeile 102), b) bei Fahrzeugen, die nur über einen oder mehrere Elektromotoren für den Antrieb des Fahrzeugs verfügen, die Summe der Nenndauerleistungen dieser Motoren in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245) und in der Rubrik „Nennleistung in kW“ (Zeile 102), c) bei Fahrzeugen, die sowohl über einen Verbrennungsmotor als auch über einen Elektromotor verfügen (Elektro-Hybridfahrzeuge) die Nennleistung des Verbrennungsmotors in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244), die Leistung des Elektromotors in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245), in der Rubrik „Nennleistung in kW“ (Zeile 102) wird die Nenndauerleistung des Gesamtsystems aus Verbrennungsmotor und dem/den Elektromotor/en angegeben. Bei Fahrzeugen, die bei Betrieb mit unterschiedlichen Kraftstoffen unterschiedliche Nennleistungen aufweisen, ist die Nennleistung für den Kraftstoff anzugeben, der die höchste Nennleistung ergibt. |
+| 20) Die Leistung ist anzugeben: a) bei Fahrzeugen, die nur über einen Verbrennungsmotor verfügen, in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244) und in der Rubrik „Nennleistung in kW“ (Zeile 102), b) bei Fahrzeugen, die nur über einen oder mehrere Elektromotoren für den Antrieb des Fahrzeugs verfügen, die Summe der Nenndauerleistungen dieser Motoren in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245) und in der Rubrik „Nennleistung in kW“ (Zeile 102), c) bei Fahrzeugen, die sowohl über einen Verbrennungsmotor als auch über einen Elektromotor verfügen (Elektro-Hybridfahrzeuge) die Nennleistung des Verbrennungsmotors in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244), die Leistung des Elektromotors in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245), in der Rubrik „Nennleistung in kW“ (Zeile 102) wird die Nenndauerleistung des Gesamtsystems aus Verbrennungsmotor und dem/den Elektromotor/en angegeben. Bei Fahrzeugen, die bei Betrieb mit unterschiedlichen Kraftstoffen unterschiedliche Nennleistungen aufweisen, ist die Nennleistung für den Kraftstoff anzugeben, der die höchste Nennleistung ergibt. 21) Als Abgasnorm ist der aufgrund der Genehmigung des Fahrzeugs bzw. des Motors hinsichtlich der Emissionen jeweils zutreffende Eintrag aus den folgenden Tabellen einzutragen: a) Fahrzeuge der Klassen M und N, die unter den Anwendungsbereich der Richtlinie 70/220/EWG bzw. der Verordnung (EG) Nr. 715/2007 fallen Euro 0 Euro 1 Euro 2 Euro 3 Euro 4 Euro 5 Euro 6 n.z. b) Fahrzeuge der Klassen M und N, die in den Anwendungsbereich der Richtlinien 88/77/EWG, 2005/55/EG oder der Verordnung (EU) Nr. 595/2009 fallen: Euro 0 Euro I Euro II Euro III Euro IV Euro V Euro EEV Euro VI c) Fahrzeuge der Klassen L, die in den Anwendungsbereich der Richtlinie 97/24/EG fallen: Euro 0 Euro 1 Euro 2 Euro 3 d) Fahrzeuge der Klassen T, die in den Anwendungsbereich der Richtlinie 2000/25/EG oder deren Motoren in den Anwendungsbereich der Richtlinie 97/68/EG fallen: Stufe 0 Stufe I Stufe II Stufe IIIA Stufe IIIB Stufe IV e) Fahrzeuge aller Klassen mit reinem Elektroantrieb Alternativ f) Fahrzeuge, die nicht unter die lit. a bis e fallen sowie Fahrzeuge, für die bzw. für deren Motoren kein Nachweis nach einem der oben angeführten Rechtsakte vorliegt: n.z. |
 
 ### Tabellenteil
 
@@ -642,7 +642,7 @@ Tabelle für die Kraftstoffarten:
 
 | 934 | Zugmaschine | -, lof, T1, T2, T3, T4.1, T4.2, T4.3, T5 | Zugmaschine |
 
-| 935 | Zugmaschine auf Ketten | -, C1, C2, C3, C4.1, C5 |
+| 935 | Zugmaschine auf Ketten | C1, C2, C3, C4.1, C5 |
 
 | 936 | Motorkarren | -, lof, T4.3 | Motorkarren |
 
