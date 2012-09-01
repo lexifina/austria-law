@@ -6,7 +6,7 @@
 
 ### I. BURGENLAND
 
-| Bundes-Poldion. Eisenstadt | E |
+| Landespolizeidirektion Burgenland für das Gebiet der Gemeinde Eisenstadt | E |
 
 | BH. Eisenstadt | EU |
 
@@ -24,9 +24,9 @@
 
 ### II. KÄRNTEN
 
-| Bundes-Poldion. Klagenfurt | K |
+| Landespolizeidirektion Kärnten für das Gebiet der Gemeinde Klagenfurt am Wörthersee | K |
 
-| Bundes-Poldion. Villach | VI |
+| Landespolizeidirektion Kärnten für das Gebiet der Gemeinde Villach | VI |
 
 | BH. Villach | VL |
 
@@ -46,7 +46,7 @@
 
 ### III. NIEDERÖSTERREICH
 
-| Bundes-Poldion. St. Pölten | P |
+| Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde St. Pölten | P |
 
 | BH. Amstetten | AM |
 
@@ -90,17 +90,17 @@
 
 | BH. Zwettl | ZT |
 
-| Bundes-Poldion. Wr. Neustadt | WN |
+| Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Wr. Neustadt | WN |
 
 | Mag. Krems an der Donau | KS |
 
 | Mag. Waidhofen an der Ybbs | WY |
 
-| Bundes-Poldion. Schwechat | SW |
+| Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat | SW |
 
 ### IV. OBERÖSTERREICH
 
-| Bundes-Poldion. Linz | L |
+| Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Linz | L |
 
 | BH. Braunau am Inn | BR |
 
@@ -132,13 +132,13 @@
 
 | BH. Wels | WL |
 
-| Bundes-Poldion. Steyr | SR |
+| Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Steyr | SR |
 
-| Bundes-Poldion. Wels | WE |
+| Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Wels | WE |
 
 ### V. SALZBURG
 
-| Bundes-Poldion. Salzburg | S |
+| Landespolizeidirektion Salzburg für das Gebiet der Gemeinde Salzburg | S |
 
 | BH. Salzburg-Umgebung | SL |
 
@@ -152,7 +152,7 @@
 
 ### VI. STEIERMARK
 
-| Bundes-Poldion. Graz | G |
+| Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Graz | G |
 
 | BH. Graz-Umgebung | GU |
 
@@ -186,11 +186,11 @@
 
 | Exp. Gröbming | GB |
 
-| Bundes-Poldion. Leoben | LE |
+| Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Leoben | LE |
 
 ### VII. TIROL
 
-| Bundes-Poldion. Innsbruck | I |
+| Landespolizeidirektion Tirol für das Gebiet der Gemeinde Innsbruck | I |
 
 | BH. Innsbruck | IL |
 
@@ -220,4 +220,4 @@
 
 ### IX. WIEN
 
-| Bundes-Poldion. Wien | W |
+| Landespolizeidirektion Wien | W |
