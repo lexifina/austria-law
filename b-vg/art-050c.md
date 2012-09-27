@@ -1,0 +1,5 @@
+Artikel 50c. (1) Der zuständige Bundesminister hat den Nationalrat unverzüglich in Angelegenheiten des Europäischen Stabilitätsmechanismus gemäß den Bestimmungen des Bundesgesetzes über die Geschäftsordnung des Nationalrates zu unterrichten. Durch das Bundesgesetz über die Geschäftsordnung des Nationalrates sind Stellungnahmerechte des Nationalrates vorzusehen.
+
+(2) Hat der Nationalrat rechtzeitig eine Stellungnahme in Angelegenheiten des Europäischen Stabilitätsmechanismus erstattet, so hat der österreichische Vertreter im Europäischen Stabilitätsmechanismus diese bei Verhandlungen und Abstimmungen zu berücksichtigen. Der zuständige Bundesminister hat dem Nationalrat nach der Abstimmung unverzüglich Bericht zu erstatten und ihm gegebenenfalls die Gründe mitzuteilen, aus denen der österreichische Vertreter die Stellungnahme nicht berücksichtigt hat.
+
+(3) Der zuständige Bundesminister berichtet dem Nationalrat regelmäßig über die im Rahmen des Europäischen Stabilitätsmechanismus getroffenen Maßnahmen.
