@@ -4,13 +4,13 @@
 
 ### Verzeichnis der dem Steuersatz von 10% unterliegenden Gegenstände
 
-- 1. Lebende Tiere der Unterpositionen 0101 10 90, 0101 90 11, 0101 90 30, 0101 90 90 und der Positionen 0102 bis 0105 der Kombinierten Nomenklatur.
+- 1. Lebende Tiere der Unterpositionen 0101 30 00, 0101 29 10, 0101 90 00 und der Positionen 0102 bis 0105 der Kombinierten Nomenklatur.
 
-- 2. Bienen und ausgebildete Blindenführhunde (aus Unterposition 0106 9000 der Kombinierten Nomenklatur).
+- 2. Bienen (Unterposition 0106 41 00 der Kombinierten Nomenklatur) und ausgebildete Blindenführhunde (aus Unterposition 0106 19 00 der Kombinierten Nomenklatur).
 
 - 3. Fleisch und genießbare Schlachtnebenerzeugnisse (Kapitel 2 der Kombinierten Nomenklatur).
 
-- 4. Fische, ausgenommen Zierfische; Krebstiere; Weichtiere und andere wirbellose Wassertiere (Kapitel 3 der Kombinierten Nomenklatur, ausgenommen Unterposition 0301 10).
+- 4. Fische, ausgenommen Zierfische; Krebstiere; Weichtiere und andere wirbellose Wassertiere (Kapitel 3 der Kombinierten Nomenklatur, ausgenommen Unterpositionen 0301 11 00 und 0301 19 00).
 
 - 5. Milch und Milcherzeugnisse; Vogeleier; natürlicher Honig; genießbare Waren tierischen Ursprungs, anderweit weder genannt noch inbegriffen (Kapitel 4 der Kombinierten Nomenklatur).
 
@@ -20,9 +20,9 @@
 
 - 8. Andere lebende Pflanzen (einschließlich ihrer Wurzeln), Stecklinge und Pfropfreiser; Pilzmycel (Position 0602 der Kombinierten Nomenklatur).
 
-- 9. Blumen und Blüten sowie deren Knospen, geschnitten, zu Binde- oder Zierzwecken, frisch (Unterposition 0603 10 der Kombinierten Nomenklatur).
+- 9. Blumen und Blüten sowie deren Knospen, geschnitten, zu Binde- oder Zierzwecken, frisch (aus Position 0603 der Kombinierten Nomenklatur) .
 
-- 10. Blattwerk, Blätter, Zweige und andere Pflanzenteile, ohne Blüten und Blütenknospen, sowie Gräser, Moose und Flechten, zu Binde- oder Zierzwecken, frisch (aus Unterposition 0604 10 und Unterposition 0604 91 der Kombinierten Nomenklatur).
+- 10. Blattwerk, Blätter, Zweige und andere Pflanzenteile, ohne Blüten und Blütenknospen, sowie Gräser, Moose und Flechten, zu Binde- oder Zierzwecken, frisch (Unterposition 0604 20 der Kombinierten Nomenklatur).
 
 - 11. Gemüse und trockene, ausgelöste Hülsenfrüchte, auch geschält oder zerkleinert (Positionen 0701 bis 0713 der Kombinierten Nomenklatur).
 
@@ -38,9 +38,9 @@
 
 - 17. Mehl, Grieß, Flocken, Granulat und Pellets von Kartoffeln (Position 1105 der Kombinierten Nomenklatur).
 
-- 18. Mehl und Grieß von trockenen Hülsenfrüchten der Position 0713; Mehl, Grieß und Pulver von Erzeugnissen des Kapitels 8 (Unterpositionen 1106 10 und 1106 30 der Kombinierten Nomenklatur).
+- 18. Mehl und Grieß von trockenen Hülsenfrüchten der Position 0713; Mehl, Grieß und Pulver von Erzeugnissen des Kapitels 8 (Unterpositionen 1106 10 00 und 1106 30 der Kombinierten Nomenklatur).
 
-- 19. Stärke von Weizen, Mais und Kartoffeln (Unterpositionen 1108 11, 1108 12 und 1108 13 der Kombinierten Nomenklatur).
+- 19. Stärke von Weizen, Mais und Kartoffeln (Unterpositionen 1108 11 00, 1108 12 00 und 1108 13 00 der Kombinierten Nomenklatur).
 
 - 20. Waren des Kapitels 12 der Kombinierten Nomenklatur, und zwar
 
@@ -54,9 +54,9 @@
 
   - e) Rosmarin, Beifuß, Basilikum und Dost in Aufmachungen für den Einzelverkauf als Gewürz (aus Unterpositionen 1211 90 85 der Kombinierten Nomenklatur),
 
-  - f) Johannisbrot, Zuckerrüben, frisch, gekühlt, gefroren oder getrocknet, auch gemahlen; Steine und Kerne von Früchten sowie andere pflanzliche Waren (einschließlich nichtgerösteter Zichorienwurzeln der Varietät Cichorium intybus sativum) der hauptsächlich zur menschlichen Ernährung verwendeten Art, anderweit weder genannt noch inbegriffen (Unterpositionen 1212 91 20, 1212 91 80, 1212 99 30, 1212 99 41, 1212 99 49 und 1212 99 70 der Kombinierten Nomenklatur),
+  - f) Johannisbrot, Zuckerrüben, frisch, gekühlt, gefroren oder getrocknet, auch gemahlen; Steine und Kerne von Früchten sowie andere pflanzliche Waren (einschließlich nichtgerösteter Zichorienwurzeln der Varietät Cichorium intybus sativum) der hauptsächlich zur menschlichen Ernährung verwendeten Art, anderweit weder genannt noch inbegriffen (Unterpositionen 1212 91 20, 1212 91 80, 1212 92 00, 1212 94 00, 1212 99 und 1212 99 41 der Kombinierten Nomenklatur),
 
-  - g) Stroh und Spreu von Getreide, roh, auch gehäckselt, gemahlen, gepresst oder in Form von Pellets (Position 1213 der Kombinierten Nomenklatur),
+  - g) Stroh und Spreu von Getreide, roh, auch gehäckselt, gemahlen, gepresst oder in Form von Pellets (Position 1213 00 00 der Kombinierten Nomenklatur),
 
   - h) Steckrüben, Futterrüben, Wurzeln zu Futterzwecken, Heu, Luzerne, Klee, Esparsette, Futterkohl, Lupinen, Wicken und ähnliches Futter, auch in Form von Pellets (Position 1214 der Kombinierten Nomenklatur).
 
@@ -64,13 +64,13 @@
 
 - 22. Waren des Kapitels 15 der Kombinierten Nomenklatur, und zwar
 
-  - a) Schweineschmalz und Geflügelfett (aus Unterpositionen 1501 00 11 und 1501 00 19 sowie Unterposition 1501 00 90 der Kombinierten Nomenklatur),
+  - a) Schweineschmalz und Geflügelfett (Unterposition 1501 10 90 und aus Unterposition 1501 90 00 der Kombinierten Nomenklatur),
 
-  - b) Premierjus und Speisetalg (aus Unterposition 1502 00 90 der Kombinierten Nomenklatur),
+  - b) Premierjus und Speisetalg (aus Unterposition 1502 10 90 der Kombinierten Nomenklatur),
 
   - c) Oleomargarin (aus Unterposition 1503 00 90 der Kombinierten Nomenklatur),
 
-  - d) genießbare pflanzliche Öle sowie deren Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert (Unterpositionen 1507 10 90, 1507 90 90, 1508 10 90, 1508 90 90, Positionen 1509 und 1510, Unterpositionen 1511 10 90, 1511 90 11, 1511 90 19, 1511 90 99, 1512 11 91, 1512 11 99, 1512 19 91, 1512 19 99, 1512 21 90, 1512 29 90, 1513 11 91, 1513 11 99, 1513 19 11, 1513 19 19, 1513 19 91, 1513 19 99, 1513 21 30, 1513 21 90, 1513 29 11, 1513 29 19, 1513 29 50, 1513 29 91, 1513 29 99, 1514 10 90, 1514 90 90, 1515 19 90, 1515 21 90, 1515 29 90, 1515 30 90, 1515 40 00, 1515 50 19, 1515 50 99, 1515 90 10, 1515 90 29, 1515 90 39, 1515 90 51, 1515 90 59, 1515 90 91 und 1515 90 99 der Kombinierten Nomenklatur)
+  - d) genießbare pflanzliche Öle sowie deren Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert (Unterpositionen 1507 10 90, 1507 90 90, 1508 10 90, 1508 90 90, Positionen 1509 und 1510 00, Unterpositionen 1511 10 90, 1511 90 11, 1511 90 19, 1511 90 99, 1512 11 91, 1512 11 99, 1512 19 90, 1512 21 90, 1512 29 90, 1513 11 91, 1513 11 99, 1513 19 11, 1513 19 19, 1513 19 91, 1513 19 99, 1513 21 30, 1513 21 90, 1513 29 11, 1513 29 19, 1513 29 50, 1513 29 90, 1514 11 90, 1514 19 90, 1514 91 90, 1514 99 90, 1515 11 00, 1515 19 90, 1515 21 90, 1515 29 90, 1515 30 90, 1515 50 19, 1515 50 99, 1515 90 11, 1515 90 29, 1515 90 39, 1515 90 51, 1515 90 59, 1515 90 91 und 1515 90 99 der Kombinierten Nomenklatur),
 
   - e) genießbare tierische oder pflanzliche Fette und Öle sowie deren Fraktionen, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht weiterverarbeitet (aus Unterpositionen 1516 10 und 1516 20 der Kombinierten Nomenklatur),
 
@@ -82,7 +82,7 @@
 
 - 24. Zucker und Zuckerwaren, ausgenommen chemisch reine Fructose und chemisch reine Maltose (Kapitel 17 der Kombinierten Nomenklatur, ausgenommen Unterpositionen 1702 50 00 und 1702 90 10).
 
-- 25. Kakaopulver ohne Zusatz von Zucker oder anderen Süßmitteln; Schokolade und andere kakaohaltige Lebensmittelzubereitungen (Positionen 1805 und 1806 der Kombinierten Nomenklatur).
+- 25. Kakaopulver ohne Zusatz von Zucker oder anderen Süßmitteln; Schokolade und andere kakaohaltige Lebensmittelzubereitungen (Positionen 1805 00 00 und 1806 der Kombinierten Nomenklatur).
 
 - 26. Zubereitungen aus Getreide, Mehl, Stärke oder Milch; Backwaren (Kapitel 19 der Kombinierten Nomenklatur).
 
@@ -102,21 +102,21 @@
 
 - 34. Speisesalz (Unterposition 2501 00 91 der Kombinierten Nomenklatur).
 
-- 35. Handelsübliches Ammoniumcarbonat und andere Ammoniumcarbonate sowie Dinatriumcarbonat (Unterpositionen 2836 10 00 und 2836 20 00 der Kombinierten Nomenklatur).
+- 35. Handelsübliches Ammoniumcarbonat und andere Ammoniumcarbonate sowie Dinatriumcarbonat (Unterpositionen 2836 99 17 und 2836 20 00 der Kombinierten Nomenklatur).
 
 - 36. Essigsäure (Unterposition 2915 21 00 der Kombinierten Nomenklatur).
 
 - 37. Saccharin und seine Salze (Unterposition 2925 11 00 der Kombinierten Nomenklatur).
 
-- 38. Tierische und pflanzliche Düngemittel (ausgenommen Guano), auch untereinander gemischt, nicht chemisch behandelt (aus Position 3101 der Kombinierten Nomenklatur).
+- 38. Tierische und pflanzliche Düngemittel (ausgenommen Guano), auch untereinander gemischt, nicht chemisch behandelt (aus Position 3101 00 00 der Kombinierten Nomenklatur).
 
 - 38a. Mischungen von Riechstoffen und Mischungen (einschließlich alkoholischer Lösungen) auf der Grundlage eines oder mehrerer dieser Stoffe, von der in der Lebensmittelindustrie verwendeten Art in Aufmachungen für den Einzelverkauf (aus Unterposition 3302 10 der Kombinierten Nomenklatur).
 
 - 39. Gelatine (aus Unterposition 3503 00 10 der Kombinierten Nomenklatur).
 
-- 40. Zubereitete Enzyme, die Nährstoffe enthalten (aus Unterposition 3507 90 00 der Kombinierten Nomenklatur).
+- 40. Zubereitete Enzyme, die Nährstoffe enthalten (aus Unterposition 3507 90 der Kombinierten Nomenklatur).
 
-  - 40. a) Süßungsmittel (aus Unterposition 3824 90 95 der Kombinierten Nomenklatur)
+- 40a. Süßungsmittel (aus Unterposition 3824 90 97 der Kombinierten Nomenklatur)
 
 - 41. Rohe, ganze Häute und Felle, frisch, gesalzen oder getrocknet (aus Positionen 4101, 4102 und 4103 der Kombinierten Nomenklatur).
 
@@ -130,13 +130,13 @@
 
 - 43. Waren des Kapitels 49 der Kombinierten Nomenklatur, und zwar
 
-  - a) Bücher, Broschüren und ähnliche Drucke, auch in losen Bogen oder Blättern (Position 4901 und aus Positionen 9705 und 9706 der Kombinierten Nomenklatur),
+  - a) Bücher, Broschüren und ähnliche Drucke, auch in losen Bogen oder Blättern (Position 4901 und aus Positionen 9705 00 00 und 9706 00 00 der Kombinierten Nomenklatur),
 
   - b) Zeitungen und andere periodische Druckschriften, auch mit Bildern oder Werbung enthaltend (Position 4902 der Kombinierten Nomenklatur),
 
-  - c) Bilderalben, Bilderbücher und Zeichen- oder Malbücher, für Kinder (Position 4903 der Kombinierten Nomenklatur),
+  - c) Bilderalben, Bilderbücher und Zeichen- oder Malbücher, für Kinder (Position 4903 00 00 der Kombinierten Nomenklatur),
 
-  - d) Noten, handgeschrieben oder gedruckt, auch mit Bildern, auch gebunden (Position 4904 der Kombinierten Nomenklatur),
+  - d) Noten, handgeschrieben oder gedruckt, auch mit Bildern, auch gebunden (Position 4904 00 00 der Kombinierten Nomenklatur),
 
   - e) kartographische Erzeugnisse aller Art, einschließlich Wandkarten, topographische Pläne und Globen, gedruckt (Position 4905 der Kombinierten Nomenklatur).
 
@@ -144,18 +144,18 @@
 
 - 44. Kunstgegenstände, und zwar
 
-  - a) Gemälde (zB Ölgemälde, Aquarelle, Pastelle) und Zeichnungen, vollständig mit der Hand geschaffen, ausgenommen Zeichnungen der Position 4906 und handbemalte oder handverzierte gewerbliche Erzeugnisse; Collagen und ähnliche dekorative Bildwerke (Position 9701 der Kombinierten Nomenklatur),
+  - a) Gemälde (zB Ölgemälde, Aquarelle, Pastelle) und Zeichnungen, vollständig mit der Hand geschaffen, ausgenommen Zeichnungen der Position 4906 00 00 und handbemalte oder handverzierte gewerbliche Erzeugnisse; Collagen und ähnliche dekorative Bildwerke (Position 9701 der Kombinierten Nomenklatur),
 
-  - b) Originalstiche, -schnitte und -steindrucke (Position 9702 der Kombinierten Nomenklatur),
+  - b) Originalstiche, -schnitte und -steindrucke (Position 9702 00 00 der Kombinierten Nomenklatur),
 
-  - c) Originalerzeugnisse der Bildhauerkunst, aus Stoffen aller Art (Position 9703 der Kombinierten Nomenklatur),
+  - c) Originalerzeugnisse der Bildhauerkunst, aus Stoffen aller Art (Position 9703 00 00 der Kombinierten Nomenklatur),
 
-  - d) Tapisserien, handgewebt, nach Originalentwürfen von Künstlern, jedoch höchstens acht Kopien je Werk (aus Position 58 05 der Kombinierten Nomenklatur),
+  - d) Tapisserien, handgewebt, nach Originalentwürfen von Künstlern, jedoch höchstens acht Kopien je Werk (aus Position 5805 00 00 der Kombinierten Nomenklatur),
 
   - e) Textilwaren für Wandbekleidung nach Originalentwürfen von Künstlern, jedoch höchstens acht Kopien je Werk (aus Position 6304 der Kombinierten Nomenklatur).
 
-  - 45. a) Briefmarken, Stempelmarken, Steuerzeichen, Ersttagsbriefe, Ganzsachen und dergleichen, entwertet oder nicht entwertet, jedoch im Bestimmungsland weder gültig noch zum Umlauf vorgesehen (Position 9704 der Kombinierten Nomenklatur),
+  - 45. a) Briefmarken, Stempelmarken, Steuerzeichen, Ersttagsbriefe, Ganzsachen und dergleichen, entwertet oder nicht entwertet, jedoch im Bestimmungsland weder gültig noch zum Umlauf vorgesehen (Position 9704 00 00 der Kombinierten Nomenklatur),
 
-  - b) zoologische, botanische, mineralogische oder anatomische Sammlungsstücke und Sammlungen; Sammlungsstücke von geschichtlichem, archäologischem, paläontologischem, völkerkundlichem oder münzkundlichem Wert (Position 9705 der Kombinierten Nomenklatur).
+  - b) zoologische, botanische, mineralogische oder anatomische Sammlungsstücke und Sammlungen; Sammlungsstücke von geschichtlichem, archäologischem, paläontologischem, völkerkundlichem oder münzkundlichem Wert (Position 9705 00 00 der Kombinierten Nomenklatur).
 
-- 46. Antiquitäten, mehr als 100 Jahre alt (Position 9706 der Kombinierten Nomenklatur).
+- 46. Antiquitäten, mehr als 100 Jahre alt (Position 9706 00 00 der Kombinierten Nomenklatur).

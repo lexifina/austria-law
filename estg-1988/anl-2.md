@@ -1,8 +1,8 @@
 ### Anlage 2
 
-### (zu § 94a Abs. 1 Z 3 EStG)
+### (zu § 94 Z 2 EStG)
 
-Gesellschaften im Sinne des Artikels 2 der Richtlinie 90/435/EWG über das gemeinsame Steuersystem der Mutter- und Tochtergesellschaften verschiedener Mitgliedstaaten (ABl. Nr. L 225 vom 20.08.1990 S. 6), in der Fassung der Richtlinie 2006/98/EG (ABl. Nr. L 363 vom 20.12.2006 S. 129), der Akte über die Bedingungen des Beitritts der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik (ABl. Nr. L 236 vom 23.09.2003 S. 33) und der Akte über die Bedingungen des Beitritts der Bulgarischen Republik und Rumäniens (ABl. Nr. L 157 vom 21.06.2005 S. 203).
+Gesellschaften im Sinne des Artikels 2 der Richtlinie 2011/96/EU über das gemeinsame Steuersystem der Mutter- und Tochtergesellschaften verschiedener Mitgliedstaaten, ABl. Nr. L 345 vom 29.12.2011 S. 8.
 
 Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellschaft, die
 
@@ -60,7 +60,7 @@ Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellsch
 
   - z) Gesellschaften finnischen Rechts mit der Bezeichnung „osakeyhtiö“/„aktiebolag“, „osuuskunta“/„andelslag“, „säästöpankki“/„sparbank“ and „vakuutusyhtiö“/„försäkringsbolag“;
 
-  - aa) Gesellschaften schwedischen Rechts mit der Bezeichnung „aktiebolag“, „försäkringsaktiebolag“, „ekonomiska föreningar“, „sparbanker“, „ömsesidiga försäkringsbolag“;
+  - aa) Gesellschaften schwedischen Rechts mit der Bezeichnung „aktiebolag“, „försäkringsaktiebolag“, „ekonomiska föreningar“, „sparbanker“, „ömsesidiga försäkringsbolag“ und „försäkringsföreningar“,
 
   - ab) nach dem Recht des Vereinigten Königreichs gegründete Gesellschaften.
 
@@ -82,7 +82,7 @@ Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellsch
 
   - — corporation tax in Irland,
 
-  - — imposta sul reddito delle persone giuridiche in Italien,
+  - — imposta sul reddito delle società in Italien,
 
   - — impôt sur le revenu des collectivités in Luxemburg,
 
