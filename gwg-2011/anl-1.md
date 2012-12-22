@@ -4,9 +4,9 @@
 
 ### Verteilerleitungsanlagen der Netzebene 1
 
-- 1. die EVN-West, Fortsetzung bis zu den Speichern Thann und Puchkirchen;
+- 1. die EVN-West, Fortsetzung bis zu den Speichern Thann und Puchkirchen (Westschiene);
 
-- 2. die EVN-Süd, Fortsetzung bis TAG-Weitendorf;
+- 2. die EVN-Süd, Fortsetzung bis TAG-Weitendorf (Südschiene);
 
 - 3. die Pyhrnleitung, Fortsetzung im steiermärkischen Netz bis zu der unter Z 2 benannten Leitung;
 
@@ -35,3 +35,5 @@
 - 15. die Abzweigstationen der OMV Gas GmbH auf TAG und WAG;
 
 - 16. die Verbindungsleitung zwischen WAG-Abzweigstation Kirchberg und EVN-West
+
+- 17. die Leitung zwischen der TAG-Abzweigestation St. Margarethen und der Hochdruckreduzierstation Fürstenfeld (Raabtalleitung)
