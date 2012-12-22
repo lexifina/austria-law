@@ -6,7 +6,7 @@
 
 ### I. BURGENLAND
 
-| Landespolizeidirektion Burgenland für das Gebiet der Gemeinde Eisenstadt | E |
+| Landespolizeidirektion Burgenland für das Gebiet der Gemeinden Eisenstadt und Rust | E |
 
 | BH. Eisenstadt | EU |
 
@@ -96,7 +96,7 @@
 
 | Mag. Waidhofen an der Ybbs | WY |
 
-| Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat | SW |
+| Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat und die im Gebiet der Gemeinden Fischamend, Klein-Neusiedl und Schwadorf gelegenen Teile des Flughafens Wien-Schwechat | SW |
 
 ### IV. OBERÖSTERREICH
 

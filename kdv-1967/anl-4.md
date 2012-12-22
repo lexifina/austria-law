@@ -306,7 +306,7 @@
 
 | 166 | V | 48 | 48 | 48 | 46 | 15 | 15 | x | Abgasverhalten (T und C: Auspuffgas), Nummer der letzten Änderungsrichtlinie, ggf. Umsetzungsstufe | Siehe Anmerkungen 10 und 11; TB, EG |
 
-| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40142081/image001.png |
+| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40146907/image001.png |
 
 | 168 | V2 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), HC bzw. THC | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Summenwert „HC+NOx“ bzw „THC+NOx“ bewertet, muss der Wert für „HC“ bzw. „THC“ nicht angegeben werden; TB |
 
@@ -642,7 +642,7 @@ Tabelle für die Kraftstoffarten:
 
 | 934 | Zugmaschine | -, lof, T1, T2, T3, T4.1, T4.2, T4.3, T5 | Zugmaschine |
 
-| 935 | Zugmaschine auf Ketten | C1, C2, C3, C4.1, C5 |
+| 935 | Zugmaschine auf Ketten | C1, C2, C3, C4.1, C5 | Zugmaschine auf Ketten |
 
 | 936 | Motorkarren | -, lof, T4.3 | Motorkarren |
 
