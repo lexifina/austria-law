@@ -14,9 +14,9 @@
 
 - 5. Milch und Milcherzeugnisse; Vogeleier; natürlicher Honig; genießbare Waren tierischen Ursprungs, anderweit weder genannt noch inbegriffen (Kapitel 4 der Kombinierten Nomenklatur).
 
-- 6. Federn von der zum Füllen verwendeten Art, roh; Daunen, roh (Unterposition 0505 10 10 der Kombinierten Nomenklatur).
+(Anm.: Z 6 aufgehoben durch BGBl. I Nr. 112/2012)
 
-- 7. Bulben, Zwiebeln, Knollen, Wurzelknollen und Wurzelstöcke, ruhend, im Wachstum oder in Blüte; Zichorienpflanzen und -wurzeln (ausgenommen Zichorienwurzeln der Position 1212) (Position 0601 der Kombinierten Nomenklatur).
+- 7. Bulben, Zwiebeln, Knollen, Wurzelknollen und Wurzelstöcke, ruhend, im Wachstum oder in Blüte; Zichorienpflanzen und wurzeln (ausgenommen Zichorienwurzeln der Position 1212) (Position 0601 der Kombinierten Nomenklatur).
 
 - 8. Andere lebende Pflanzen (einschließlich ihrer Wurzeln), Stecklinge und Pfropfreiser; Pilzmycel (Position 0602 der Kombinierten Nomenklatur).
 
@@ -50,7 +50,7 @@
 
   - c) Hopfen (Blütenzapfen), frisch oder getrocknet, auch gemahlen, sonst zerkleinert oder in Form von Pellets; Lupulin (Position 1210 der Kombinierten Nomenklatur),
 
-  - d) Minze, Lindenblüten und -blätter, Salbei, Kamillenblüten, Holunderblüten und anderer Haustee (aus Unterposition 1211 90 85 der Kombinierten Nomenklatur),
+  - d) Minze, Lindenblüten und blätter, Salbei, Kamillenblüten, Holunderblüten und anderer Haustee (aus Unterposition 1211 90 85 der Kombinierten Nomenklatur),
 
   - e) Rosmarin, Beifuß, Basilikum und Dost in Aufmachungen für den Einzelverkauf als Gewürz (aus Unterpositionen 1211 90 85 der Kombinierten Nomenklatur),
 
@@ -76,7 +76,7 @@
 
   - f) Margarine; genießbare Mischungen oder Zubereitungen von tierischen oder pflanzlichen Fetten und Ölen sowie von Fraktionen verschiedener Fette und Öle dieses Kapitels, ausgenommen genießbare Fette und Öle sowie deren Fraktionen der Position 1516 (Unterpositionen 1517 10, 1517 90 10, 1517 90 91 und 1517 90 99 der Kombinierten Nomenklatur),
 
-  - g) Bienenwachs, roh (aus Unterposition 1521 90 91 der Kombinierten Nomenklatur).
+(Anm.: lit. g aufgehoben durch BGBl. I Nr. 112/2012)
 
 - 23. Zubereitungen von Fleisch, Fischen oder von Krebstieren, Weichtieren und anderen wirbellosen Wassertieren (Kapitel 16 der Kombinierten Nomenklatur).
 
@@ -98,7 +98,7 @@
 
 - 32. Rückstände und Abfälle der Lebensmittelindustrie; zubereitetes Futter (Kapitel 23 der Kombinierten Nomenklatur).
 
-- 33. Tabak, unverarbeitet (Unterpositionen 2401 10 und 2401 20 der Kombinierten Nomenklatur).
+(Anm.: Z 33 aufgehoben durch BGBl. I Nr. 112/2012)
 
 - 34. Speisesalz (Unterposition 2501 00 91 der Kombinierten Nomenklatur).
 
@@ -118,15 +118,13 @@
 
 - 40a. Süßungsmittel (aus Unterposition 3824 90 97 der Kombinierten Nomenklatur)
 
-- 41. Rohe, ganze Häute und Felle, frisch, gesalzen oder getrocknet (aus Positionen 4101, 4102 und 4103 der Kombinierten Nomenklatur).
+(Anm.: Z 41 aufgehoben durch BGBl. I Nr. 112/2012)
 
 - 42. Holz, und zwar
 
   - a) Brennholz, in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen; Holz in Form von Plättchen oder Schnitzeln; Sägespäne, Holzabfälle und Holzausschuß, auch zu Pellets, Briketts, Scheiten oder ähnlichen Formen zusammengepreßt (Position 4401 der Kombinierten Nomenklatur),
 
-  - b) Rohholz, auch entrindet, vom Splint befreit oder zwei- oder vierseitig grob zugerichtet, ausgenommen tropische Hölzer (aus Unterpositionen 4403 10, 4403 20, 4403 91, 4403 92 00 sowie Unterpositionen 4403 99 10, 4403 99 30 und 4403 99 98 der Kombinierten Nomenklatur),
-
-  - c) Holzpfähle, gespalten; Pfähle und Pflöcke aus Holz, gespitzt, nicht in der Längsrichtung gesägt (aus Unterpositionen 4404 10 00 und 4404 20 00 der Kombinierten Nomenklatur).
+(Anm.: lit. b und c aufgehoben durch BGBl. I Nr. 112/2012)
 
 - 43. Waren des Kapitels 49 der Kombinierten Nomenklatur, und zwar
 
@@ -146,7 +144,7 @@
 
   - a) Gemälde (zB Ölgemälde, Aquarelle, Pastelle) und Zeichnungen, vollständig mit der Hand geschaffen, ausgenommen Zeichnungen der Position 4906 00 00 und handbemalte oder handverzierte gewerbliche Erzeugnisse; Collagen und ähnliche dekorative Bildwerke (Position 9701 der Kombinierten Nomenklatur),
 
-  - b) Originalstiche, -schnitte und -steindrucke (Position 9702 00 00 der Kombinierten Nomenklatur),
+  - b) Originalstiche, schnitte und steindrucke (Position 9702 00 00 der Kombinierten Nomenklatur),
 
   - c) Originalerzeugnisse der Bildhauerkunst, aus Stoffen aller Art (Position 9703 00 00 der Kombinierten Nomenklatur),
 

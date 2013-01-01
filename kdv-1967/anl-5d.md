@@ -156,15 +156,11 @@
 
 | BH. Graz-Umgebung | GU |
 
-| BH. Bruck an der Mur | BM |
+| BH. Bruck-Mürzzuschlag | BM |
 
 | BH. Deutschlandsberg | DL |
 
-| BH. Feldbach | FB |
-
-| BH. Fürstenfeld | FF |
-
-| BH. Hartberg | HB |
+| BH. Hartberg-Fürstenfeld | HF |
 
 | BH. Murtal | MT |
 
@@ -176,9 +172,7 @@
 
 | BH. Murau | MU |
 
-| BH. Mürzzuschlag | MZ |
-
-| BH. Radkersburg | RA |
+| BH. Südoststeiermark | SO |
 
 | BH. Voitsberg | VO |
 
