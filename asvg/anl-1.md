@@ -42,19 +42,19 @@
 
 | 19 | Hauterkrankungen | Alle Unternehmen |
 
-| 20 | Erkrankungen durch Erschütterung beider Arbeit mit Preßluftwerkzeugenund gleichartig wirkenden Werkzeugen und Maschinen (wie z. B.Motorsägen) sowie durch Arbeit an Anklopfmaschinen | Alle Unternehmen |
+| 20 | Vibrationsbedingte Durchblutungsstörungen an den Händen sowie andere Erkrankungen durch Erschütterung beider Arbeit mit Preßluftwerkzeugenund gleichartig wirkenden Werkzeugen und Maschinen (wie z. B.Motorsägen) sowie durch Arbeit an Anklopfmaschinen | Alle Unternehmen |
 
 | 21 | Erkrankungen durch Arbeitin Druckluft | Alle Unternehmen |
 
-| 22 | Durchlähmungen der Nerven | Alle Unternehmen |
+| 22 | Druckschädigung der Nerven | Alle Unternehmen |
 
-| 23 | Chronische Erkrankungen der Schleimbeutel der Knie- oder Ellbogengelenke durch ständigen Druck oder ständige Erschütterung | Alle Unternehmen |
+| 23 | Chronische Erkrankungen der Schleimbeutel, der Sehnenscheiden und des Sehnengleitgewebes sowie der Sehnen- und Muskelansätze durch ständigen Druck oder ständige Erschütterung | Alle Unternehmen |
 
 | 24 | Abrißbrüche der Wirbeldornfortsätze | Alle Unternehmen |
 
 | 25 | Meniskusschäden bei Bergleuten nach mindestens dreijähriger regelmäßiger Tätigkeit unter Tag und bei anderen Personen nach mindestens dreijähriger regelmäßiger Tätigkeit in kniender oder hockender Stellung | Alle Unternehmen |
 
-| 26 | a) Staublungenerkrankungen (Silikose oder Silikatose) mit objektiv feststellbarer Leistungsminderung von Atmung oder Kreislauf b) Staublungenerkrankung in Verbindung mit aktiv-fortschreitender Lungentuberkulose (Siliko-Tuberkulose) | Alle Unternehmen |
+| 26 | a) Staublungenerkrankungen (Silikose oder Silikatose) mit objektiv feststellbarer Leistungsminderung von Atmung oder Kreislauf b) Staublungenerkrankung in Verbindung mit aktiv-fortschreitender Lungentuberkulose (Siliko-Tuberkulose) c) Bösartige Neubildungen der Lunge durch die Einwirkung von kristallinem Siliziumdioxid bei Silikose | Alle Unternehmen |
 
 | 27 | a) Asbeststaublungenerkrankung (Asbestose) mit objektiv feststellbarer Leistungsminderung von Atmung oder Kreislauf b) Bösartige Neubildungen des Rippenfells, des Herzbeutels und des Bauchfells durch Asbest c) Bösartige Neubildungen der Lunge durch Asbest d) Bösartige Neubildungen des Kehlkopfes durch Asbest | Alle Unternehmen |
 
@@ -62,7 +62,7 @@
 
 | 29 | Erkrankungen der tieferen Luftwege und der Lunge durch Thomasschlackenmehl | Thomasschlackenmühlen, Düngemittelmischereien und Betriebe, die Thomasschlackenmehl lagern, befördern oder verwenden |
 
-| 30 | Durch allergisierende Stoffe verursachte Erkrankungen an Asthma bronchiale, wenn und solange sie zur Aufgabe schädigender Tätigkeiten zwingen | Alle Unternehmen |
+| 30 | Durch allergisierende Stoffe verursachte Erkrankungen an Asthma bronchiale (einschließlich Rhinopathie), wenn und solange sie zur Aufgabe schädigender Tätigkeiten zwingen | Alle Unternehmen |
 
 | 31 | Erkrankungen der Knochen, Gelenke und Bänder durch Fluorverbindungen (Fluorose) | Alle Unternehmen |
 
