@@ -1,18 +1,18 @@
-Anlage 10a
+### Anlage 10a
 
-(zu § 64b Abs. 3 und 4)
+### (zu § 64b Abs. 3 und 4)
 
-Lehrinhalte für die theoretische Ausbildung
+## Lehrinhalte für die theoretische Ausbildung
 
-Inhaltsverzeichnis
+Inhaltsverzeichnis:
 
-Kapitel 1: Basis - Lehrplan für die Ersterteilung aller Klassen
+Kapitel 1: Basis – Lehrplan für die Ersterteilung aller Klassen
 
-Kapitel 2: Theoretische Lehrinhalte Klasse A
+Kapitel 2: Theoretische Lehrinhalte für die A-Klassen, außer AM
 
 Kapitel 3: Theoretische Lehrinhalte Klasse B
 
-Kapitel 4: Theoretische Lehrinhalte Klasse B+E
+Kapitel 4: Theoretische Lehrinhalte Klasse BE
 
 Kapitel 5: Theoretische Lehrinhalte Klasse C1
 
@@ -20,1212 +20,258 @@ Kapitel 6: Theoretische Lehrinhalte Klasse C
 
 Kapitel 7: Theoretische Lehrinhalte Klasse C (Ausdehnung von C1)
 
-Kapitel 8: Theoretische Lehrinhalte Klasse C+E/C1+E, D+E
+Kapitel 8: Theoretische Lehrinhalte Klassen CE, C1E, DE und D1E
 
-Kapitel 9: Theoretische Lehrinhalte Klasse D (Ausdehnung von B)
+Kapitel 9: Theoretische Lehrinhalte Klasse D1
 
-Kapitel 10: Theoretische Lehrinhalte Klasse D (Ausdehnung von C)
+Kapitel 10: Theoretische Lehrinhalte Klasse D (Ausdehnung von B)
 
-Kapitel 11: Theoretische Lehrinhalte Klasse F
+Kapitel 11: Theoretische Lehrinhalte Klasse D (Ausdehnung von C)
 
-1. Basis-Lehrplan für die Ersterteilung aller Klassen
+Kapitel 12: Theoretische Lehrinhalte für die Klasse D (Ausdehnung von D1)
 
-(26 Unterrichtseinheiten)
+Kapitel 13: Theoretische Lehrinhalte Klasse F
 
-____________________________________________________________________
+### 1. Basis-Lehrplan für die Ersterteilung aller Klassen (20 Unterrichtseinheiten)
 
-Abschnitt Lehrinhalt
+| Abschnitt | Lehrinhalt |
 
-____________________________________________________________________
+| 1 | Einführung, Verkehrsraum, wie Geltungsbereich der StVO 1960, des KFG 1967 und des FSG 1997, Verkehrszeichen, Bodenmarkierungen, Begriffe (Ortsgebiet, Freilandstraße, Einbahnstraße, Autobahn und Autostraße, Vorrangstraße, Schienenstraße, Wohnstraße, Fußgängerzone, Schutzweg, Eisenbahnkreuzung) |
 
-1 Einführung, Verkehrsraum, wie
+| 2 | Sinnesorgane, Partnerkunde, wie die Funktion des menschlichen Auges, das Gesichtsfeld, Sehschärfe im Gesichtsfeld, Bedeutung und Zeitbedarf der Blicksprünge, das Gehör - akustische Wahrnehmung, Gleichgewichtsorgan, Partner im Verkehr, wahrnehmbare Signale von Partnern, hinweisende Signale auf Partner, Gefahrenvermeidung durch frühzeitiges Erkennen von Gefahrenmöglichkeiten, bevorzugte Straßenbenützer, Vertrauensgrundsatz, Einteilung der Fahrzeuge |
 
-Geltungsbereich der StVO 1960, des KFG 1967
+| 3 | Bewegung im Verkehrsraum, wie Verhalten bei Bodenmarkierungen, Kenntlichmachung des Straßenverlaufes, Lichtfarben auf der Fahrbahn, Fahrbahnrand, Fahrbahnmitte, Parallel-, Nachfolge- und Querverkehr, Rechtsfahrordnung, Nebeneinanderfahren, Wechsel des Fahrstreifens, Vorbeifahren, Linkszufahren, Umkehren und Rückwärtsfahren, Einordnen und Einbiegen, Ein- und Ausfahren, Ausweichen, Anhalten, Halten, Parken |
 
-und des FSG 1997, Verkehrszeichen,
+| 4 | Verhaltensvorschriften in besonderen Verkehrsräumen, wie Ortsgebiet, Vorrangstraße, Einbahnstraße, Nebenfahrbahn, Kreisverkehr, Autobahn und Autostraße, Schienenstraße, Wohnstraße, Fußgängerzone, Verkehrsflächen, die eingeschränkt benützbar sind, Bedeutung der Arm- und Lichtzeichen, Vorrangregeln und deren Anwendung, Annähern und Übersetzen von Eisenbahnkreuzungen, Abstellen von Fahrzeugen, Absichern liegengebliebener Fahrzeuge, bevorzugte Straßenbenützer |
 
-Bodenmarkierungen, Begriffe (Ortsgebiet,
+| 5 | Anhalteweg, Wahl der Fahrgeschwindigkeit, Fahren auf Gefahrensicht, wie Reaktionszeit, Reaktionsweg und Berechnung, Bremsweg und Berechnung, Anhalteweg, Durchfahrzeit der schwungbelegten Strecke Vorschriften, Oberflächenbeschaffenheit der Fahrbahn, Kurvenfahren, Steigung und Gefälle, Beschleunigung - Geschwindigkeitsabbau, Gefahrenbremsung, Einflüsse von Beladung und Anhänger, Wechselwirkung von Fahrbahn - Witterung und Lenker – Umwelt Gefahrenstellen, Sichtweitenverringerung, Hilfen zur Entfernungsschätzung (Sekundenmethode), Fahren auf Gefahrensicht |
 
-Freilandstraße, Einbahnstraße, Autobahn und
+| 6 | Hintereinanderfahren, wie Sicherheitsabstände, Ermittlung, Mindestabstand hinter Schienenfahrzeugen und hinter Fahrzeugen mit größeren Längsabmessungen, Annähern an Kreuzungen und Eisenbahnkreuzungen, Fahrstreifenverminderung |
 
-Autostraße, Vorrangstraße, Schienenstraße,
+| 7 | Überholen, wie Faktoren für kurze Überholmanöver, Überholen rechts, Überholverbote, Sicherheitsabstände, Sekundenmethode, Abbrechen von Überholmanövern |
 
-Wohnstraße, Fußgängerzone, Schutzweg,
+| 8 | Verwendung der Beleuchtungs- und Signaleinrichtungen, wie Vorschriften, Zweck, Verwendung von Nebelscheinwerfern und Nebelschlussleuchten, stehende Fahrzeuge, Ersatzbeleuchtung, Warn- und Signaleinrichtungen |
 
-Eisenbahnkreuzung)
+| 9 | Gesetzliche Verwendungserlaubnis für Kraftfahrzeuge auf Straßen mit öffentlichem Verkehr, wie Typenschein, Einzelgenehmigung, Kraftfahrzeug-Versicherungen und Kraftfahrzeugsteuern, Zulassungsstellen der Versicherungsgesellschaften, Voraussetzungen, Kennzeichentafeln, Begutachtung des Kraftfahrzeuges, Pflichten des Zulassungsbesitzers |
 
-____________________________________________________________________
+| 10 | Verkehrsunfall, wie Verhalten bei Unfällen mit Sachschaden und Personenschaden, Hilfeleistung |
 
-2 Sinnesorgane, Partnerkunde, wie
+| 11 | Beeinträchtigung der Fahrtüchtigkeit des Lenkers, wie Möglichkeiten, Auswirkungen auf die Fahrtüchtigkeit, Vorschriften, Überprüfung und Feststellung der Beeinträchtigung, Folgen |
 
-die Funktion des menschlichen Auges, das
+| 12 | Pflichten des Lenkers, wie Pflichten vor, während und nach der Fahrt, Überprüfung des Fahrzeuges auf Verkehrs- und Betriebssicherheit, soziale und ökologische Verantwortung, zusätzliche Pflichten |
 
-Gesichtsfeld, Sehschärfe im Gesichtsfeld,
+## 2. Theoretische Lehrinhalte für die A-Klassen, außer AM (8 Unterrichtseinheiten)
 
-Bedeutung und Zeitbedarf der Blicksprünge, das
+| Abschnitt | Lehrinhalt |
 
-Gehör - akustische Wahrnehmung,
+| 1 | Allgemeines |
 
-Gleichgewichtsorgan, Partner im Verkehr,
+| 1.1 | Überblick über die theoretische Ausbildung für die A-Klassen -- Mindestanzahl der theoretischen Unterrichtseinheiten -- Themenschwerpunkte -- Ablauf der theoretischen Fahrprüfung |
 
-wahrnehmbare Signale von Partnern, hinweisende
+| 1.2 | Überblick über die praktische Ausbildung für die A-Klassen -- Mindestanzahl der praktischen Unterrichtseinheiten -- Gliederung der Ausbildung (Vorschulung, Grundschulung, Hauptschulung, Perfektionsschulung, Prüfungsvorbereitung) -- Ablauf der praktischen Fahrprüfung |
 
-Signale auf Partner, Gefahrenvermeidung durch
+| 1.3 | Einteilung der Krafträder -- Motorfahrrad -- Kleinmotorrad -- „125er-Motorrad“ -- Leichtmotorrad -- Motorrad -- Motorrad mit Beiwagen -- Motordreirad |
 
-frühzeitiges Erkennen von
+| 1.4 | Arten der Motorräder |
 
-Gefahrenmöglichkeiten, bevorzugte
+| 1.5 | Lenkberechtigung – Führerschein: -- Persönliche Voraussetzungen -- Klassen A1, A2 und A -- Führerscheindokument -- Fahren ohne Lenkberechtigung -- Fahren ohne Führerschein |
 
-Straßenbenützer, Vertrauensgrundsatz,
+| 1.6 | Pflichten des Lenkers -- Mitführen von Dokumenten -- Mitführen von Ausrüstungsgegenständen -- Sturzhelmtragepflicht -- Geistige und körperliche Voraussetzungen -- Überprüfungen am Fahrzeug, besondere Bedeutung beim Motorrad |
 
-Einteilung der Fahrzeuge
+| 1.7 | Motorradschutzbekleidung -- Sturzhelm -- Schutzanzug -- Handschuhe -- Stiefel -- Nierengurt -- Protektoren |
 
-____________________________________________________________________
+| 1.8 | Motorradtransport |
 
-3 Bewegung im Verkehrsraum, wie
+| 1.9 | Beförderung von Gepäck -- Am Motorrad -- Anhänger |
 
-Verhalten bei Bodenmarkierungen,
+| 1.10 | Beförderung von Personen -- Motorrad (Voraussetzungen am Motorrad, Voraussetzungen für den Beifahrer, Technische Veränderungen am Motorrad) -- Motorrad mit Beiwagen (Voraussetzungen am Motorrad, Voraussetzungen für den Beifahrer) -- Vorschriften für das Auf- bzw. Absteigenlassen |
 
-Kenntlichmachung des Straßenverlaufes,
+| 1.11 | Halten und Parken |
 
-Lichtfarben auf der Fahrbahn, Fahrbahnrand,
+| 1.12 | Fahrregeln -- Rechtsfahrordnung -- Spezielle Fahrverbote -- Fahrgeschwindigkeit -- Überholen -- Nebeneinanderfahren -- Vorschlängeln -- Autobahn |
 
-Fahrbahnmitte, Parallel-, Nachfolge- und
+| 1.13 | Beleuchtung -- Beleuchtungseinrichtungen -- Verwendung der Beleuchtung |
 
-Querverkehr, Rechtsfahrordnung,
+| 1.14 | Motorradunfälle -- Unfallstatistik -- Typische Unfallsituationen -- Aktive Sicherheit -- Passive Sicherheit -- Strategien bei unvermeidbaren Unfällen (Alleinunfall – „Flucht ins Gelände“, Kollisionsunfall mit einem Unfallpartner) |
 
-Nebeneinanderfahren, Wechsel des
+| 1.15 | Risikokompetenz (Klasse A1: verpflichtend, Klassen A2 und A: fakultativ) -- Wahrnehmungs-, Beurteilungs- und Entscheidungskompetenz -- Risikofaktoren – Gefahren -- Körperliche Reaktionen in Risikosituationen -- Innehalten vor einer Risikosituation zur neuerlichen Beurteilung -- Konflikt zwischen Genauigkeit – Geschwindigkeit -- Anregungen zur Erlangung von Risikokompetenz |
 
-Fahrstreifens, Vorbeifahren, Linkszufahren,
+| 2 | Fahrtechnik und Fahrdynamik |
 
-Umkehren und Rückwärtsfahren, Einordnen und
+| 2.1 | Sehen und gesehen werden -- Sehen (Eigene tote Winkel, Visier, Schutzbrille, Scheinwerferausleuchtung, Straße lesen) -- Gesehen werden (Fahren mit Licht, Tote Winkel anderer Fahrzeuge, Parkende Fahrzeuge, Verdeckt werden, Blickschattenphänomen) |
 
-Einbiegen, Ein- und Ausfahren, Ausweichen,
+| 2.2 | Umweltbewusstes Motorradfahren -- Treibstoffsparendes Fahren -- Lärmschonendes Fahren |
 
-Anhalten, Halten, Parken
+| 2.3 | Fahrtechnik -- Kreiselkräfte -- Haftungskreis (Kamm’scher Kreis) -- Sitzposition -- Kurvenfahrtechnik (Schräglage – Fahrgeschwindigkeit, Kurvenfahrstile, Fahrlinie in der Kurve – Blicktechnik, Breitenbedarf in der Kurve) -- Bremsen mit dem Motorrad (Zielbremsung, Gefahrenbremsung, Vermeiden eines Hindernisses, Bremsen mit ABS) |
 
-____________________________________________________________________
+| 2.4 | Besondere Gefahrensituationen beim Motorradfahren -- Beeinträchtigungen der Fahrtüchtigkeit, Müdigkeit, Alkohol, Drogen, Medikamente, Krankheit -- Beschleunigen -- Hochgeschwindigkeit -- Urlaubs- und Gruppenfahrten -- Fahren im Gebirge -- Überholen -- Seitenwind -- Gefahrenzeichen mit besonderer Bedeutung für den Motorradfahrer -- Rutschige Fahrbahnverhältnisse -- Fahren bei Nässe -- Fahren bei schlechten Sichtverhältnissen, bzw. bei Dunkelheit -- Fahren auf unbefestigten Straßen -- besondere Verhaltensweisen im Zusammenhang mit der Benützung von Autobahnen und Autostraßen mit Kraftfahrzeugen der Klasse A1, A2 oder A |
 
-4 Verhaltensvorschriften in besonderen
+| 2.5 | Fahrdynamische Besonderheiten spezieller Fahrzeuge -- Roller -- Motorrad mit Beiwagen |
 
-Verkehrsräumen, wie
+| 3 | Fahrzeugtechnik |
 
-Ortsgebiet, Vorrangstraße, Einbahnstraße,
+| 3.1 | Technische Veränderungen am Fahrzeug |
 
-Nebenfahrbahn, Kreisverkehr, Autobahn und
+| 3.2 | Sinnvolles Zubehör |
 
-Autostraße, Schienenstraße, Wohnstraße,
+| 3.3 | Fahrzeugtechnik -- Motor (Motorschmierung, Motorkühlung) -- Kraftübertragung (Kupplung, Getriebe, Kettenantrieb, Zahnriemenantrieb, Kardanwellenantrieb) -- Fahrwerk: Rahmen, Gabel, Hinterradschwinge, Federung – Dämpfung, Räder – Reifen, Bremsanlage (Bremsvorrichtungen, Bremskraftübertragungen, Überprüfung – Standbremsprobe, Bremsbelagverschleiß) |
 
-Fußgängerzone, Verkehrsflächen, die
+### 3. Theoretische Lehrinhalte für die Klasse B (12 Unterrichtseinheiten)
 
-eingeschränkt benützbar sind, Bedeutung der
+| Abschnitt | Lehrinhalt |
 
-Arm- und Lichtzeichen, Vorrangregeln und deren
+| 1 | Technische Bauteile von Kraftfahrzeugen |
 
-Anwendung, Annähern und Übersetzen von
+| 1.1 | Bereifung, wie Druck, Profil, Schäden, Pflege, Radwechsel, Gleitschutzeinrichtungen, Anfahren bei Schnee und Eis |
 
-Eisenbahnkreuzungen, Abstellen von Fahrzeugen,
+| 1.2 | Stoßdämpfer, wie Zweck, Schäden, Überprüfung, neue Entwicklungen |
 
-Absichern liegengebliebener Fahrzeuge,
+| 1.3 | Lenkung, wie Störungen, Überprüfung, neue Entwicklungen |
 
-bevorzugte Straßenbenützer
+| 1.4 | Elektrik, Elektronik, wie Hauptteile der elektrischen Anlage, wie Beleuchtungseinrichtungen, Signal- und Kontrolleinrichtungen, Vorrichtungen zum Freihalten des Gesichtsfeldes, Navigation |
 
-____________________________________________________________________
+| 1.5 | Motor - Kühlung - Schmierung, wie motorenadäquates Tanken, Einflussgrößen des Energieverbrauchs, Auspuffgase von Verbrennungsmotoren, Motorkühlung, Motorschmierung (Systeme), Kontrolleinrichtungen, Pflege und Wartung, Störungen, alternative Antriebskonzepte und weitere neuen Entwicklungen |
 
-5 Anhalteweg, Wahl der Fahrgeschwindigkeit,
+| 1.6 | Kraftübertragung, wie Kupplung, Störungen, Schaltgetriebe, automatische und halbautomatische Getriebe, Differential, Antriebsarten |
 
-Fahren auf Gefahrensicht, wie
+| 1.7 | Bremsen, wie Überprüfungsmöglichkeiten, Hilfsbremsen, Feststellbremsen, Antiblockiersystem, Fahrdynamikregelungen, neue Entwicklungen |
 
-Reaktionszeit, Reaktionsweg und Berechnung,
+| 1.8 | Maße und Gewichte, wie Begriffe, Beschreibungsgrößen, Kraftfahrzeug- und Anhängerarten |
 
-Bremsweg und Berechnung, Anhalteweg,
+| 2 | Fahrdynamische Grundlagen, wie Aufgaben des Reifens, Radlast und Reibungswert, Reibungskraft, Einflüsse durch Bau- und Antriebsart, Auswirkungen der Beladung, Einflüsse durch Seitenwind und Anhängerbetrieb, Schleudern, Schieben, Blockieren, Wasserkeilbildung, Aquaplaning Strategien zur Vermeidung instabiler Fahrzustände |
 
-Durchfahrzeit der schwungbelegten Strecke
+| 3 | Lenkberechtigung, wie Umfang der Lenkberechtigung der Klasse B und anderer Klassen Geltungsbereich der RL 2006/126/EG - nationale Klassen, Klassen mit Geltung im EWR, Lenkberechtigung auf Probe, Pflichten des Lenkers, ähnliche Dokumente |
 
-Vorschriften, Oberflächenbeschaffenheit der
+| 3.1 | Anhängerbestimmungen, wie Veränderung des Fahrverhaltens, Vorschriften, Anhängevorrichtung, Beleuchtungs- und Signaleinrichtung, Bremsausrüstung, Zusatzausrüstung, Höchstgeschwindigkeit, Ankuppeln, Abkuppeln, Abstellen |
 
-Fahrbahn, Kurvenfahren, Steigung und Gefälle,
+| 3.2 | Personenbeförderung, wie Vorschriften, Personenbeförderung auf Anhängern und Ladeflächen, Sicherheitseinrichtungen wie Knautschzone, Sicherheitsgurt, Kindersitze (Klasseneinteilung nach ECE, Sicherungssysteme wie Isofix u. dgl.), Airbag und deren Zusammenwirken |
 
-Beschleunigung - Geschwindigkeitsabbau,
+| 3.3 | Beladung, Kennzeichnung überragender Ladung, Ladungssicherung |
 
-Gefahrenbremsung, Einflüsse von Beladung und
+| 3.4 | Abschleppen, wie Vorschriften, Möglichkeiten, wie Abschleppen mit Seil, Stange und teilweisem Hochheben |
 
-Anhänger, Wechselwirkung von Fahrbahn -
+| 3.5 | Besondere Verhaltensweisen im Zusammenhang mit der Benützung von Autobahnen und Autostraßen mit Kraftfahrzeugen der Klasse B |
 
-Witterung und Lenker - Umwelt
+| 3.6 | Besondere Verhaltensweisen im Zusammenhang mit Überholvorgängen mit Kraftfahrzeugen der Klasse B |
 
-____________________________________________________________________
+| 3.7 | Besondere Verhaltensweisen im Zusammenhang mit der Wahl der Fahrgeschwindigkeit mit Kraftfahrzeugen der Klasse B |
 
-Gefahrenstellen, Sichtweitenverringerung,
+| 3.8 | Besondere Verhaltensweisen im Zusammenhang beim Hintereinanderfahren mit Kraftfahrzeugen der Klasse B |
 
-Hilfen zur Entfernungsschätzung
+### 4. Theoretische Lehrinhalte für die Klasse BE (3 Unterrichtseinheiten)
 
-(Sekundenmethode), Fahren auf Gefahrensicht
+| Abschnitt | Lehrinhalt |
 
-____________________________________________________________________
+| 1 | Rechtliche Vorschriften für die Klasse BE Die Lenkberechtigungsklasse BE, Begriffe, Aufschriften auf der rechten Fahrzeugseite, erlaubte Abmessungen, Abmessungen der Ladung, Personenbeförderung auf Anhängern, Fahrverbote, erlaubte Höchstgeschwindigkeiten, Abstellen des Anhängers |
 
-6 Hintereinanderfahren, wie
+| 2 | Beladung des Anhängers, Ladungssicherung Ankuppeln, Abkuppeln des Anhängers Besonderes Fahrverhalten mit Anhängern Wahl der Fahrlinie, Kurven, Beschleunigen und Abbremsen, Querstellen, Hintereinanderfahren, Überholen, Ursache und Gegenmaßnahmen bei Anhängerpendeln, Bergabfahren, Fahren bei Seitenwind, Fahren mit beweglicher Ladung, Rangieren |
 
-Sicherheitsabstände, Ermittlung,
+| 3 | Ausstattung des Anhängers Elektrische Verbindung, Leuchten und Rückstrahler, Sicherheitsketten, Unterlegkeile, Reifen Bremsanlagen für Anhänger Auflaufbremse, Reißseilbremse, Feststellbremse, Falldeichselbremse, elektrisch betätigte Anhängerbremse |
 
-Mindestabstand hinter Schienenfahrzeugen und
+| 4 | Ladungssicherung |
 
-hinter Fahrzeugen mit größeren
+### 5. Theoretische Lehrinhalte für die Klasse C1 (8 Unterrichtseinheiten)
 
-Längsabmessungen, Annähern an Kreuzungen und
+| Abschnitt | Lehrinhalt |
 
-Eisenbahnkreuzungen, Fahrstreifenverminderung
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse C1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung Pflichten des Zulassungsbesitzers, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, besondere Bestimmungen für den ruhenden Verkehr Besondere Transporte Sondervorschriften für bestimmte Fahrzeuge (inkl. Zugmaschinen) Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Ziehen von Anhängern |
 
-____________________________________________________________________
+| 2 | Technische Bauteile von Lastkraftfahrzeugen, Sattelkraftfahrzeugen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
 
-7 Überholen, wie
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität. Beladung, Ladungssicherung. |
 
-Faktoren für kurze Überholmanöver, Überholen
+| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-rechts, Überholverbote, Sicherheitsabstände,
+### 6. Theoretische Lehrinhalte für die Klasse C (Zehn Unterrichtseinheiten)
 
-Sekundenmethode, Abbrechen von Überholmanövern
+| Abschnitt | Lehrinhalt |
 
-____________________________________________________________________
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse C und die Klasse C1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung Pflichten des Zulassungsbesitzers, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Besondere Transporte Sondervorschriften für bestimmte Fahrzeuge (inklusive Zugmaschinen) Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Ziehen von Anhängern |
 
-8 Verwendung der Beleuchtungs- und
+| 2 | Technische Bauteile von Lastkraftfahrzeugen, Sattelkraftfahrzeugen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
 
-Signaleinrichtungen, wie
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung. |
 
-Vorschriften, Zweck, Verwendung von
+| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-Nebelscheinwerfern und Nebelschlussleuchten,
+### 7. Theoretische Lehrinhalte für die Klasse C (Ausdehnung von C1; 4 Unterrichtseinheiten)
 
-stehende Fahrzeuge, Ersatzbeleuchtung, Warn-
+| Abschnitt | Lehrinhalt |
 
-und Signaleinrichtungen
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse C und die Klasse C1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung Pflichten des Zulassungsbesitzers, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Besondere Transporte Sondervorschriften für bestimmte Fahrzeuge (inkl. Zugmaschinen) Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Ziehen von Anhängern |
 
-____________________________________________________________________
+| 2 | Technische Bauteile von Lastkraftfahrzeugen, Sattelkraftfahrzeugen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
 
-9 Gesetzliche Verwendungserlaubnis für
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung |
 
-Kraftfahrzeuge auf Straßen mit öffentlichem
+### 8. Theoretische Lehrinhalte für die Klassen CE, C1E, DE und D1E (6 Unterrichtseinheiten)
 
-Verkehr, wie
+| Abschnitt | Lehrinhalt |
 
-Typenschein, Einzelgenehmigung,
+| 1 | Gesetzliche Vorschriften Lenkberechtigung Bauart und Ausrüstung der Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung auf Anhängern Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Besondere Transporte, Sondervorschriften für bestimmte Fahrzeuge Ziehen von Anhängern, Zusammenstellen von Kombinationen |
 
-Kraftfahrzeug-Versicherungen und
+| 2 | Technische Bauteile von Sattelkraftfahrzeugen und Anhängern Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
 
-Kraftfahrzeugsteuern, Zulassungsstellen der
+| 3 | Fahrphysik und Ladetechnik Fahrstabilität, Beladung, Ladungssicherung. |
 
-Versicherungsgesellschaften, Voraussetzungen,
+### 9. Theoretische Lehrinhalte für die Klassen D1 (8 Unterrichtseinheiten)
 
-Kennzeichentafeln, Begutachtung des
+| Abschnitt | Lehrinhalt |
 
-Kraftfahrzeuges, Pflichten des
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse D1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung in Omnibussen und Omnibusanhängern (Linienverkehr und Gelegenheitsverkehr) Pflichten des Zulassungsbesitzers, Pflichten des Betriebsleiters, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, besondere Bestimmungen für den ruhenden Verkehr Arbeitszeiten, Lenkzeiten, Ruhezeiten Handhabung von Schaublatt und Kontrollgerät Besondere Ausstattungsgegenstände Ziehen von Anhängern |
 
-Zulassungsbesitzers
+| 2 | Technische Bauteile von Omnibussen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung, Kraftübertragung, Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
 
-____________________________________________________________________
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung, fahrgastorientierter Fahrstil |
 
-10 Verkehrsunfall, wie
+| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-Verhalten bei Unfällen mit Sachschaden und
+### 10. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von B; 12 Unterrichtseinheiten)
 
-Personenschaden, Hilfeleistung
+| Abschnitt | Lehrinhalt |
 
-____________________________________________________________________
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse D und die Klasse D1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung in Omnibussen und Omnibusanhängern (Linienverkehr und Gelegenheitsverkehr) Pflichten des Zulassungsbesitzers, Pflichten des Betriebsleiters, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Besondere Ausstattungsgegenstände Ziehen von Anhängern |
 
-11 Beeinträchtigung der Fahrtüchtigkeit des
+| 2 | Technische Bauteile von Omnibussen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen Komfortausstattung |
 
-Lenkers, wie
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung, fahrgastorientierter Fahrstil |
 
-Möglichkeiten, Auswirkungen auf die
+| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-Fahrtüchtigkeit, Vorschriften, Überprüfung und
+### 11. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von C; 4 Unterrichtseinheiten)
 
-Feststellung der Beeinträchtigung, Folgen
+| Abschnitt | Lehrinhalt |
 
-____________________________________________________________________
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse D und die Klasse D1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung in Omnibussen und Omnibusanhängern (Linienverkehr und Gelegenheitsverkehr) Pflichten des Zulassungsbesitzers, Pflichten des Betriebsleiters, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Besondere Ausstattungsgegenstände Ziehen von Anhängern |
 
-12 Pflichten des Lenkers, wie
+| 2 | Technische Bauteile von Omnibussen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen Komfortausstattung |
 
-Pflichten vor, während und nach der Fahrt,
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung, fahrgastorientierter Fahrstil |
 
-Überprüfung des Fahrzeuges auf Verkehrs- und
+| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-Betriebssicherheit, soziale und ökologische
+### 12. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von D1; 4 Unterrichtseinheiten)
 
-Verantwortung, zusätzliche Pflichten
+| Abschnitt | Lehrinhalt |
 
-____________________________________________________________________
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse D Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung in Omnibussen und Omnibusanhängern (Linienverkehr und Gelegenheitsverkehr) Pflichten des Zulassungsbesitzers, Pflichten des Betriebsleiters, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Besondere Ausstattungsgegenstände Ziehen von Anhängern |
 
-2. Theoretische Lehrinhalte für die Klasse A
+| 2 | Technische Bauteile von Omnibussen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung, Kraftübertragung, Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen Komfortausstattung |
 
-(8 Unterrichtseinheiten)
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung |
 
-____________________________________________________________________
+### 13. Theoretische Lehrinhalte für die Klasse F (4 Unterrichtseinheiten)
 
-Dauer in
+| Abschnitt | Lehrinhalt |
 
-Abschnitt Minuten Lehrinhalt
+| 1 | Rechtliche Vorschriften für die Klasse F Die Lenkberechtigungsklasse F, Begriffe, Aufschriften, Erlaubte Abmessungen, Personenbeförderung auf Anhängern, Fahrverbote und besondere Verkehrszeichen, Hintereinanderfahren, erlaubte Höchstgeschwindigkeiten, Verhalten bei Eisenbahnkreuzungen |
 
-____________________________________________________________________
+| 2 | Technische Bauteile Cockpit, elektrische Anlage, Motor, Kraftstrang, Lenkung, Hydraulik, Räder und Reifen, Bremsanlagen. Überprüfungen vor Fahrtantritt |
 
-1 100 Wissenswertes vor dem Fahren, Vorstellung der
+| 3 | Anbaugeräte und Aufbauten Abmessungen, Kennzeichnung, Geschwindigkeiten, Fahrverhalten Beleuchtung der Anbaugeräte und Aufbauten |
 
-Inhalte der theoretischen Ausbildung, Motive
+| 4 | Ladung Wirtschaftsfuhre, Langgutfuhre, Kennzeichnung überragender Ladung. Ladungssicherung. |
 
-des Motorradfahrens, Fahrertypen und deren
+| 5 | Anhängerbetrieb Ausstattung der Anhänger Arten der Anhängerbremsen Auflaufbremse, Falldeichselbremse, Reißseilbremse, Seilzugbremse, hydraulische Bremsen, Einleitungs- und Zweileitungs-Druckluftbremsanlagen Ziehen von mehreren Anhängern Bestimmungen für zum Verkehr zugelassene Anhänger Bestimmungen für nicht zum Verkehr zugelassene Anhänger Ziehen von zum Verkehr zugelassenen Anhängern und nicht zum Verkehr zugelassenen Anhängern gemeinsam |
 
-subjektive Selbsteinschätzung, persönliche
-
-Voraussetzungen, Auswahl des Motorrades,
-
-Ausrüstung und Kleidung, Sturzhelm, sonstige
-
-Schutzkleidung, Erste-Hilfe-Ausrüstung
-
-Besondere rechtliche Bestimmungen, wie
-
-die Lenkberechtigungsklassen für einspurige
-
-Kraftfahrzeuge, die Einteilung der einspurigen
-
-Kraftfahrzeuge, Fahrverbote für einspurige
-
-Kraftfahrzeuge, Abstellen von einspurigen
-
-Kraftfahrzeugen, Bestimmungen der
-
-Personenbeförderung, Verhalten bei
-
-angehaltenen Kolonnen, Gesehen werden und
-
-sehen, Kennzeichentafel, Motorradtransport,
-
-besondere Bestimmungen für Motorräder mit
-
-Beiwagen, Motordreiräder, Anhängerbestimmungen
-
-Statistische Daten
-
-Verletzungshäufigkeit, typische
-
-Unfallsituationen, Zusammenhang Fahrstil -
-
-Sicherheitsgefühl - Unfallgefährdung
-
-Einführung in den praktischen Unterricht
-
-____________________________________________________________________
-
-2 200 Fahrtechnik und Fahrdynamik
-
-Fahrphysik - Die Kreiselkräfte am Rad, der
-
-Kamm`sche Kreis, rutschige Fahrbahnstellen,
-
-besondere Gefahrenzeichen
-
-Einflüsse auf die Schräglage, Schräglage als
-
-aktive Sicherheit
-
-Die richtige Blicktechnik
-
-Kurvenstile, richtige Anwendung der
-
-Kurvenstile, Normalstil, Drücken, Hängen,
-
-Platzbedarf in der Kurve
-
-Wahl der Fahrlinie
-
-Rechtliche Rahmenbedingungen und die
-
-Besonderheiten des Fahrens mit dem Kraftrad,
-
-Fahren im Spurstreifen, die Ideallinie, Kehren
-
-und Serpentinen, Bergauf und Bergab - Reserven
-
-schaffen und schonen
-
-Überholen, überholt werden
-
-Bremsen auf zwei Rädern
-
-Fahrdynamische Besonderheiten bestimmter
-
-Fahrzeuge, wie Roller, Beiwagengespanne, ...
-
-Gefahren durch andere Verkehrsteilnehmer,
-
-Grundsatz: “Gesehen werden und sehen”,
-
-“Vermeiden von Gefahrenmöglichkeiten statt
-
-Bewältigung von Gefahrensituationen”
-
-Unterschätzen der
-
-Beschleunigungsmöglichkeiten, Überschätzen der
-
-Bremsmöglichkeiten und der Wendigkeit durch
-
-Verkehrspartner - selbst für ausreichende
-
-Sicherheitsabstände sorgen!
-
-Das Blickschatten-Phänomen, der tote Winkel,
-
-parkende Fahrzeuge, Überholen von langsameren
-
-Fahrzeugen, Fahren bei Seitenwind,
-
-Windschatten beim Überholen, Übersehen werden
-
-im Querverkehr, Übersehen werden im
-
-Gegenverkehr vom Linkseinbieger, Übersehen
-
-werden bei tiefstehender Sonne
-
-Fahren bei Regen, Dämmerung, Dunkelheit
-
-Fahren mit Sozius, Fahren mit Gepäck
-
-Fahren in der Gruppe
-
-Umweltgerechter Betrieb des Motorrads
-
-Der ungeplante Abstieg
-
-____________________________________________________________________
-
-3 100 Fahrzeugtechnik
-
-Fahrwerk, der Rahmen des Motorrades, Felge und
-
-Reifen, Radaufhängung, Lenker, Federung und
-
-Schwingungsdämpfer, Bremsanlage, Motor,
-
-Kraftübertragung, elektrische Anlage,
-
-sinnvolles Zubehör;
-
-gesetzliche Ausrüstungspflichten und zulässige
-
-Veränderungen
-
-____________________________________________________________________
-
-3. Theoretische Lehrinhalte für die Klasse B
-
-(6 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 150 Technische Bauteile von Kraftfahrzeugen
-
-____________________________________________________________________
-
-1.1 Bereifung, wie
-
-Druck, Profil, Schäden, Pflege, Radwechsel,
-
-Gleitschutzeinrichtungen, Anfahren bei Schnee
-
-und Eis
-
-____________________________________________________________________
-
-1.2 Stoßdämpfer, wie
-
-Zweck, Schäden, Überprüfung, neue
-
-Entwicklungen
-
-____________________________________________________________________
-
-1.3 Lenkung, wie
-
-Störungen, Überprüfung, neue Entwicklungen
-
-____________________________________________________________________
-
-1.4 Elektrik, Elektronik, wie
-
-Hauptteile der elektrischen Anlage, wie
-
-Beleuchtungseinrichtungen, Signal- und
-
-Kontrolleinrichtungen, Vorrichtungen zum
-
-Freihalten des Gesichtsfeldes, Navigation
-
-____________________________________________________________________
-
-1.5 Motor - Kühlung - Schmierung, wie
-
-motorenadäquates Tanken, Einflussgrößen des
-
-Energieverbrauchs, Auspuffgase von
-
-Verbrennungsmotoren, Motorkühlung,
-
-Motorschmierung (Systeme),
-
-Kontrolleinrichtungen, Pflege und Wartung,
-
-Störungen, alternative Antriebskonzepte und
-
-weitere neuen Entwicklungen
-
-____________________________________________________________________
-
-1.6 Kraftübertragung, wie
-
-Kupplung, Störungen, Schaltgetriebe,
-
-automatische und halbautomatische Getriebe,
-
-Differential, Antriebsarten
-
-____________________________________________________________________
-
-1.7 Bremsen, wie
-
-Überprüfungsmöglichkeiten, Hilfsbremsen,
-
-Feststellbremsen, Antiblockiersystem,
-
-Fahrdynamikregelungen, neue Entwicklungen
-
-____________________________________________________________________
-
-1.8 Maße und Gewichte, wie
-
-Begriffe, Beschreibungsgrößen, Kraftfahrzeug-
-
-und Anhängerarten
-
-____________________________________________________________________
-
-2 50 Fahrdynamische Grundlagen, wie
-
-Aufgaben des Reifens, Radlast und
-
-Reibungswert, Reibungskraft, Einflüsse durch
-
-Bau- und Antriebsart, Auswirkungen der
-
-Beladung, Einflüsse durch Seitenwind und
-
-Anhängerbetrieb, Schleudern, Schieben,
-
-Blockieren, Wasserkeilbildung, Aquaplaning
-
-Strategien zur Vermeidung instabiler
-
-Fahrzustände
-
-____________________________________________________________________
-
-3 100 Lenkberechtigung, wie
-
-Umfang der Lenkberechtigung der Klasse B und
-
-anderer Klassen
-
-Geltungsbereich der RL 91/439/EWG - nationale
-
-Klassen, Klassen mit Geltung im EWR,
-
-Lenkberechtigung auf Probe, Pflichten des
-
-Lenkers, ähnliche Dokumente
-
-____________________________________________________________________
-
-3.1 Anhängerbestimmungen, wie
-
-Veränderung des Fahrverhaltens, Vorschriften,
-
-Anhängevorrichtung, Beleuchtungs- und
-
-Signaleinrichtung, Bremsausrüstung,
-
-Zusatzausrüstung, Höchstgeschwindigkeit,
-
-Ankuppeln, Abkuppeln, Abstellen
-
-____________________________________________________________________
-
-3.2 Personenbeförderung, wie
-
-Vorschriften, Personenbeförderung auf
-
-Anhängern und Ladeflächen,
-
-Sicherheitseinrichtungen wie Knautschzone,
-
-Sicherheitsgurt, Kindersitze
-
-(Klasseneinteilung nach ECE, Sicherungssysteme
-
-wie Isofix u. dgl.), Airbag und deren
-
-Zusammenwirken
-
-____________________________________________________________________
-
-3.3 Beladung, Kennzeichnung überragender Ladung,
-
-Ladungssicherung
-
-____________________________________________________________________
-
-3.4 Abschleppen, wie
-
-Vorschriften, Möglichkeiten, wie Abschleppen
-
-mit Seil, Stange und teilweisem Hochheben
-
-____________________________________________________________________
-
-4. Theoretische Lehrinhalte für die Klasse B+E
-
-(4 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 100 Rechtliche Vorschriften für die Klasse B+E
-
-Die Lenkberechtigungsklasse B+E, Begriffe,
-
-Aufschriften auf der rechten Fahrzeugseite,
-
-erlaubte Abmessungen, Abmessungen der Ladung,
-
-Personenbeförderung auf Anhängern,
-
-Fahrverbote, erlaubte Höchstgeschwindigkeiten,
-
-Abstellen des Anhängers
-
-____________________________________________________________________
-
-2 50 Beladung des Anhängers, Ladungssicherung
-
-Ankuppeln, Abkuppeln des Anhängers
-
-Besonderes Fahrverhalten mit Anhängern
-
-Wahl der Fahrlinie, Kurven, Beschleunigen und
-
-Abbremsen, Querstellen, Hintereinanderfahren,
-
-Überholen, Ursache und Gegenmaßnahmen bei
-
-Anhängerpendeln, Bergabfahren, Fahren bei
-
-Seitenwind, Fahren mit beweglicher Ladung,
-
-Rangieren
-
-____________________________________________________________________
-
-3 50 Ausstattung des Anhängers
-
-Elektrische Verbindung, Leuchten und
-
-Rückstrahler, Sicherheitsketten,
-
-Unterlegkeile, Reifen
-
-Bremsanlagen für Anhänger
-
-Auflaufbremse, Reißseilbremse,
-
-Feststellbremse, Falldeichselbremse,
-
-elektrisch betätigte Anhängerbremse
-
-____________________________________________________________________
-
-5. Theoretische Lehrinhalte für die Unterklasse C1
-
-(8 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 100 Gesetzliche Vorschriften
-
-Lenkberechtigung für die Unterklasse C1
-
-Bauart und Ausrüstung der Kfz und Anhänger,
-
-Zulassung und Überprüfung
-
-Beladung, Personenbeförderung
-
-Pflichten des Zulassungsbesitzers, Pflichten
-
-des Kraftfahrzeuglenkers
-
-Wahl der Fahrgeschwindigkeit, Abstände beim
-
-Hintereinanderfahren, besondere Fahrverbote,
-
-besondere Bestimmungen für den ruhenden
-
-Verkehr
-
-Besondere Transporte
-
-Sondervorschriften für bestimmte Fahrzeuge
-
-(inkl. Zugmaschinen)
-
-Arbeitszeiten, Lenkzeiten, Ruhezeiten,
-
-Handhabung von Schaublatt und Kontrollgerät
-
-Ziehen von Anhängern
-
-____________________________________________________________________
-
-2 100 Technische Bauteile von Lastkraftfahrzeugen,
-
-Sattelkraftfahrzeugen und Anhängern
-
-Motor, Kraftstoffanlage, Auspuff, Kühlung,
-
-Schmierung; Kraftübertragung; Rahmen und
-
-Aufbauten; Fahrwerk; Bremsanlagen
-
-Einrichtungen zur Verbindung von Fahrzeugen
-
-Elektrische Anlage und Kontrolleinrichtungen
-
-____________________________________________________________________
-
-3 125 Fahrphysik und Ladetechnik
-
-Kraftschluss, Fahrwiderstände, Achslasten und
-
-Achslaständerungen, Fahrstabilität.
-
-Beladung, Ladungssicherung.
-
-____________________________________________________________________
-
-4 75 Ökologischer und ökonomischer Betrieb
-
-Ausstattung, technischer Zustand, Bedienung
-
-und Fahrweise
-
-____________________________________________________________________
-
-6. Theoretische Lehrinhalte für die Klasse C (Zehn
-
-Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 100 Gesetzliche Vorschriften
-
-Lenkberechtigung für die Klasse C und die
-
-Unterklasse C1
-
-Bauart und Ausrüstung der Kfz und Anhänger,
-
-Zulassung und Überprüfung
-
-Beladung, Personenbeförderung
-
-Pflichten des Zulassungsbesitzers, Pflichten
-
-des Kraftfahrzeuglenkers
-
-Wahl der Fahrgeschwindigkeit, Abstände beim
-
-Hintereinanderfahren, besondere Fahrverbote,
-
-Verhalten bei Eisenbahnkreuzungen, besondere
-
-Bestimmungen für den ruhenden Verkehr
-
-Besondere Transporte
-
-Sondervorschriften für bestimmte Fahrzeuge
-
-(inklusive Zugmaschinen)
-
-Arbeitszeiten, Lenkzeiten, Ruhezeiten,
-
-Handhabung von Schaublatt und Kontrollgerät
-
-Ziehen von Anhängern
-
-____________________________________________________________________
-
-2 200 Technische Bauteile von Lastkraftfahrzeugen,
-
-Sattelkraftfahrzeugen und Anhängern
-
-Motor, Kraftstoffanlage, Auspuff, Kühlung,
-
-Schmierung; Kraftübertragung; Rahmen und
-
-Aufbauten; Fahrwerk; Bremsanlagen
-
-Einrichtungen zur Verbindung von Fahrzeugen
-
-Elektrische Anlage und Kontrolleinrichtungen
-
-____________________________________________________________________
-
-3 125 Fahrphysik und Ladetechnik
-
-Kraftschluss, Fahrwiderstände, Achslasten und
-
-Achslaständerungen, Fahrstabilität
-
-Beladung, Ladungssicherung.
-
-____________________________________________________________________
-
-4 75 Ökologischer und ökonomischer Betrieb
-
-Ausstattung, technischer Zustand, Bedienung
-
-und Fahrweise
-
-____________________________________________________________________
-
-7. Theoretische Lehrinhalte für die Klasse C (Ausdehnung von C1;
-
-4 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 75 Gesetzliche Vorschriften
-
-Lenkberechtigung für die Klasse C und die
-
-Unterklasse C1
-
-Bauart und Ausrüstung der Kfz und Anhänger,
-
-Zulassung und Überprüfung
-
-Beladung, Personenbeförderung
-
-Pflichten des Zulassungsbesitzers, Pflichten
-
-des Kraftfahrzeuglenkers
-
-Wahl der Fahrgeschwindigkeit, Abstände beim
-
-Hintereinanderfahren, besondere Fahrverbote,
-
-Verhalten bei Eisenbahnkreuzungen, besondere
-
-Bestimmungen für den ruhenden Verkehr
-
-Besondere Transporte
-
-Sondervorschriften für bestimmte Fahrzeuge
-
-(inkl. Zugmaschinen)
-
-Arbeitszeiten, Lenkzeiten, Ruhezeiten,
-
-Handhabung von Schaublatt und Kontrollgerät
-
-Ziehen von Anhängern
-
-____________________________________________________________________
-
-2 75 Technische Bauteile von Lastkraftfahrzeugen,
-
-Sattelkraftfahrzeugen und Anhängern
-
-Motor, Kraftstoffanlage, Auspuff, Kühlung,
-
-Schmierung; Kraftübertragung; Rahmen und
-
-Aufbauten; Fahrwerk; Bremsanlagen
-
-Einrichtungen zur Verbindung von Fahrzeugen
-
-Elektrische Anlage und Kontrolleinrichtungen
-
-____________________________________________________________________
-
-3 50 Fahrphysik und Ladetechnik
-
-Kraftschluss, Fahrwiderstände, Achslasten und
-
-Achslaständerungen, Fahrstabilität
-
-Beladung, Ladungssicherung
-
-____________________________________________________________________
-
-8. Theoretische Lehrinhalte für die Klassen C+E und D+E sowie die
-
-Unterklasse C1+E (6 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 100 Gesetzliche Vorschriften
-
-Lenkberechtigung
-
-Bauart und Ausrüstung der Anhänger, Zulassung
-
-und Überprüfung
-
-Beladung, Personenbeförderung auf Anhängern
-
-Wahl der Fahrgeschwindigkeit, Abstände beim
-
-Hintereinanderfahren, besondere Fahrverbote,
-
-Verhalten bei Eisenbahnkreuzungen, besondere
-
-Bestimmungen für den ruhenden Verkehr
-
-Besondere Transporte, Sondervorschriften für
-
-bestimmte Fahrzeuge
-
-Ziehen von Anhängern, Zusammenstellen von
-
-Kombinationen
-
-____________________________________________________________________
-
-2 100 Technische Bauteile von Sattelkraftfahrzeugen
-
-und Anhängern
-
-Rahmen und Aufbauten; Fahrwerk; Bremsanlagen
-
-Einrichtungen zur Verbindung von Fahrzeugen
-
-Elektrische Anlage und Kontrolleinrichtungen
-
-____________________________________________________________________
-
-3 100 Fahrphysik und Ladetechnik
-
-Fahrstabilität, Beladung, Ladungssicherung.
-
-____________________________________________________________________
-
-9. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von B;
-
-12 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 200 Gesetzliche Vorschriften
-
-Lenkberechtigung für die Klasse D
-
-Bauart und Ausrüstung der Kfz und Anhänger,
-
-Zulassung und Überprüfung
-
-Beladung, Personenbeförderung in Omnibussen
-
-und Omnibusanhängern (Linienverkehr und
-
-Gelegenheitsverkehr)
-
-Pflichten des Zulassungsbesitzers, Pflichten
-
-des Betriebsleiters, Pflichten des
-
-Kraftfahrzeuglenkers
-
-Wahl der Fahrgeschwindigkeit, Abstände beim
-
-Hintereinanderfahren, besondere Fahrverbote,
-
-Verhalten bei Eisenbahnkreuzungen, besondere
-
-Bestimmungen für den ruhenden Verkehr
-
-Arbeitszeiten, Lenkzeiten, Ruhezeiten,
-
-Handhabung von Schaublatt und Kontrollgerät
-
-Besondere Ausstattungsgegenstände
-
-Ziehen von Anhängern
-
-____________________________________________________________________
-
-2 200 Technische Bauteile von Omnibussen und
-
-Anhängern
-
-Motor, Kraftstoffanlage, Auspuff, Kühlung,
-
-Schmierung; Kraftübertragung; Rahmen und
-
-Aufbauten; Fahrwerk; Bremsanlagen
-
-Einrichtungen zur Verbindung von Fahrzeugen
-
-Elektrische Anlage und Kontrolleinrichtungen
-
-____________________________________________________________________
-
-3 125 Fahrphysik und Ladetechnik
-
-Kraftschluss, Fahrwiderstände, Achslasten und
-
-Achslaständerungen, Fahrstabilität
-
-Beladung, Ladungssicherung,
-
-fahrgastorientierter Fahrstil
-
-____________________________________________________________________
-
-4 75 Ökologischer und ökonomischer Betrieb
-
-Ausstattung, technischer Zustand, Bedienung
-
-und Fahrweise
-
-____________________________________________________________________
-
-10. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von C;
-
-4 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 75 Gesetzliche Vorschriften
-
-Lenkberechtigung für die Klasse D
-
-Bauart und Ausrüstung der Kfz und Anhänger,
-
-Zulassung und Überprüfung
-
-Beladung, Personenbeförderung in Omnibussen
-
-und Omnibusanhängern (Linienverkehr und
-
-Gelegenheitsverkehr)
-
-Pflichten des Zulassungsbesitzers, Pflichten
-
-des Betriebsleiters, Pflichten des
-
-Kraftfahrzeuglenkers
-
-Wahl der Fahrgeschwindigkeit, Abstände beim
-
-Hintereinanderfahren, besondere Fahrverbote,
-
-Verhalten bei Eisenbahnkreuzungen, besondere
-
-Bestimmungen für den ruhenden Verkehr
-
-Arbeitszeiten, Lenkzeiten, Ruhezeiten,
-
-Handhabung von Schaublatt und Kontrollgerät
-
-Besondere Ausstattungsgegenstände
-
-Ziehen von Anhängern
-
-____________________________________________________________________
-
-2 75 Technische Bauteile von Omnibussen und
-
-Anhängern
-
-Motor, Kraftstoffanlage, Auspuff, Kühlung,
-
-Schmierung; Kraftübertragung; Rahmen und
-
-Aufbauten; Fahrwerk; Bremsanlagen
-
-Einrichtungen zur Verbindung von Fahrzeugen
-
-Elektrische Anlage und Kontrolleinrichtungen
-
-____________________________________________________________________
-
-3 25 Fahrphysik und Ladetechnik
-
-Kraftschluss, Fahrwiderstände, Achslasten und
-
-Achslaständerungen, Fahrstabilität
-
-Beladung, Ladungssicherung,
-
-fahrgastorientierter Fahrstil
-
-____________________________________________________________________
-
-4 25 Ökologischer und ökonomischer Betrieb
-
-Ausstattung, technischer Zustand, Bedienung
-
-und Fahrweise
-
-____________________________________________________________________
-
-11. Theoretische Lehrinhalte für die Klasse F
-
-(8 Unterrichtseinheiten)
-
-____________________________________________________________________
-
-Dauer in
-
-Abschnitt Minuten Lehrinhalt
-
-____________________________________________________________________
-
-1 50 Rechtliche Vorschriften für die Klasse F
-
-Die Lenkberechtigungsklasse F, Begriffe,
-
-Aufschriften, Erlaubte Abmessungen,
-
-Personenbeförderung auf Anhängern, Fahrverbote
-
-und besondere Verkehrszeichen,
-
-Hintereinanderfahren, erlaubte
-
-Höchstgeschwindigkeiten, Verhalten bei
-
-Eisenbahnkreuzungen
-
-____________________________________________________________________
-
-2 100 Technische Bauteile
-
-Cockpit, elektrische Anlage, Motor,
-
-Kraftstrang, Lenkung, Hydraulik, Räder und
-
-Reifen, Bremsanlagen. Überprüfungen vor
-
-Fahrtantritt
-
-____________________________________________________________________
-
-3 50 Anbaugeräte und Aufbauten
-
-Abmessungen, Kennzeichnung, Geschwindigkeiten,
-
-Fahrverhalten
-
-Beleuchtung der Anbaugeräte und Aufbauten
-
-____________________________________________________________________
-
-4 50 Ladung
-
-Wirtschaftsfuhre, Langgutfuhre, Kennzeichnung
-
-überragender Ladung. Ladungssicherung.
-
-____________________________________________________________________
-
-5 100 Anhängerbetrieb
-
-Ausstattung der Anhänger
-
-Arten der Anhängerbremsen
-
-Auflaufbremse, Falldeichselbremse,
-
-Reißseilbremse, Seilzugbremse, hydraulische
-
-Bremsen, Einleitungs- und
-
-Zweileitungs-Druckluftbremsanlagen
-
-Ziehen von mehreren Anhängern
-
-Bestimmungen für zum Verkehr zugelassene
-
-Anhänger
-
-Bestimmungen für nicht zum Verkehr zugelassene
-
-Anhänger
-
-Ziehen von zum Verkehr zugelassenen Anhängern
-
-und nicht zum Verkehr zugelassenen Anhängern
-
-gemeinsam
-
-____________________________________________________________________
-
-6 50 Unfallverhütung
+| 6 | Unfallverhütung |
