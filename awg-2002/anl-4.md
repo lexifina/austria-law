@@ -1,6 +1,6 @@
 ### Anhang 4
 
-### Kriterien für die Festlegung des Standes der Technik
+## Kriterien für die Festlegung des Standes der Technik
 
 Bei der Festlegung des Standes der Technik ist unter Beachtung der sich aus einer bestimmten Maßnahme ergebenden Kosten und ihres Nutzens und des Grundsatzes der Vorsorge und der Vorbeugung im Allgemeinen wie auch im Einzelfall Folgendes zu berücksichtigen:
 
@@ -24,4 +24,4 @@ Bei der Festlegung des Standes der Technik ist unter Beachtung der sich aus eine
 
 - 10. die Notwendigkeit, Unfällen vorzubeugen und deren Folgen für die Umwelt zu verringern;
 
-- 11. die von der Kommission gemäß Artikel 16 Absatz 2 der Richtlinie 96/61/EG über die integrierte Vermeidung und Verminderung der Umweltverschmutzung oder von internationalen Organisationen veröffentlichten Informationen.
+- 11. in BVT-Merkblättern enthaltene Informationen und von internationalen Organisationen veröffentlichte Informationen.
