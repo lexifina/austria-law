@@ -164,4 +164,4 @@ Prunus
 
 Quercus
 
-und für die Waldrand- und Biotopgestaltung geeignete Wildobstgehölze und Straucharten
+und für die Waldrand- und Biotopgestaltung geeignete Wildobstgehölze und Straucharten, soweit sie nicht bestandesbildend vorkommen.
