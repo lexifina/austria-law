@@ -306,7 +306,7 @@
 
 | 166 | V | 48 | 48 | 48 | 46 | 15 | 15 | x | Abgasverhalten (T und C: Auspuffgas), Nummer der letzten Änderungsrichtlinie, ggf. Umsetzungsstufe | Siehe Anmerkungen 10 und 11; TB, EG |
 
-| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40146906/image001.png |
+| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40146905/image001.png |
 
 | 168 | V2 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), HC bzw. THC | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Summenwert „HC+NOx“ bzw „THC+NOx“ bewertet, muss der Wert für „HC“ bzw. „THC“ nicht angegeben werden; TB |
 
@@ -470,7 +470,7 @@
 
 | 251 | 45.1 | 45.1 | 45.1 | Kennwerte D, V, S, U der Anhängevorrichtung |
 
-| 252 | V | 47 | 47 | 47 | V | V | V | V | Abgasnorm | Bezeichnung gemäß VO des BMLFUW; TB, EG, EI |
+| 252 | V | 47 | 47 | 47 | V | V | V | V | Abgasnorm | Eintragung gemäß Anmerkung 21; TB, EG, EI |
 
 | 253 | 48 | 48 | 48 | ELR-Test, Rauchtrübung | m-1 | Bei Genehmigung nach Richtlinie 2005/55/EG , TB, EG |
 
@@ -520,7 +520,7 @@ Anmerkungen zur Anlage 4:
 
 | Einheit | Einheit des Merkmals |
 
-| 2) Für die Fahrzeuge der einzelnen Klassen sind die Zulassungsrelevanten Daten anzugeben, für die in der der Fahrzeugklasse entsprechenden Spalte „M1“ bis „T nach 2001/3/EG“ eine Eintragung angegeben ist. Die Ziffern entsprechen den im für die Klasse zutreffenden Muster der Übereinstimmungsbescheinigung angeführten Ziffern der Merkmale. Die Eintragung „x“ bedeutet, dass diese Angabe auch dann erforderlich ist, wenn sie in der Übereinstimmungsbescheinigung für die betreffende Klasse nicht angeführt ist. 3) Die Zulassungsrelevanten Daten sind nach einem vom Bundesministerium für Verkehr, Innovation und Technologie genehmigten Muster anzugeben. 4) Die Felder, bei denen in der Spalte „Anmerkung“ die Anmerkung „TB“ aufscheint, müssen für jeden in der Typenbeschreibung vorkommenden Wert mindestens einmal in den als Anlage zum Antrag auf Typengenehmigung beigefügten Typenscheinmustern vorhanden sein – siehe § 20 Abs. 3 Z 3. 5) Für die angeführten Felder gelten die selben Fußnoten wie in dem für die Fahrzeugklasse zutreffenden Muster der Übereinstimmungsbescheinigung nach Richtlinie oder Verordnung der EU, auch wenn diese in dieser Anlage nicht wiedergegeben wurden. 6) Auf ein Fahrzeug nicht zutreffende Felder – wie zB Spurweiten für die 3. bis 5. Achse, wenn das Fahrzeug nur 2 Achsen aufweist oder die Übersetzungsverhältnisse für die Gänge 7 bis 16, wenn das Fahrzeug nur 6 Gänge aufweist – können in den „Daten der Übereinstimmungsbescheinigung Seite 1“ und in den „Daten der Übereinstimmungsbescheinigung Seite 2ff“entfallen. Die Merkmale im Abschnitt Zulassungsbescheinigung oder mit einer Eintragung in der Spalte „ZS“ dürfen nicht entfallen. 7) Vollständige Dimensionsangabe von Reifen und Rädern, einschließlich Betriebskennung der Reifen und Einpresstiefe der Räder. Muster für diese Angabe: „175/70 R13 82T auf 5Jx13/ET42“; fehlen Teile dieser Angaben zu den Reifen und Rädern, hat der Fahrzeughersteller für die entsprechende Information des Lenkers/Zulassungsbesitzers und über die dabei einzuhaltenden Bedingungen zu sorgen. Klassen T, C, R und S: Angaben zu Massen und Reifen, Reifendimension und von den Reifen abhängige zulässige Achslasten, Stützlasten und zulässiges Gesamtgewicht sind gegebenenfalls in Tabellenform beizubringen. 8) Als Übersetzungsverhältnis ist das Verhältnis Eingangsdrehzahl / Ausgangsdrehzahl einzutragen. Bei stufenlosem Getriebe ist im Feld „Übersetzungsverhältnisse, 1. Gang“ der Höchstwert oder der Höchst- und Mindestwert einzutragen. 9) Sofern nicht anders angegeben, gilt für die Zahlenwerte: - Angaben in mm, kg, min-1, dB(A) sowie CO2-Emissionen: kaufmännisch gerundete Ganzzahl, - Übersetzungsverhältnisse, korrigierter Wert des Absorptionskoeffizienten [m-1]: Zahl mit mind.1 Vorkomma- und 3 Nachkommastellen (kaufmännisch gerundet), - Emissionen [g/km, g/kWh]: Zahl mit mind. 1 Vorkomma und 4 Nachkommastellen (kaufmännisch gerundet). Wenn in der EG-Übereinstimmungsbescheinigung die Emissionswerte in mg/km bzw. in mg/kWh angegeben sind, können diese in den Typenscheinen und Datenauszügen auch in mg/km bzw. in mg/km angegeben sein. In die Genehmigungsdatenbank sind diese Werte jedoch in g/km bzw. g/kWh einzugeben. 10) Nummer der letzten für die Genehmigung gültigen Änderungsrichtlinie; bei einer Richtlinie mit mehreren Umsetzungsstufen ist auch die Umsetzungsstufe anzugeben: Die Umsetzungsstufe ist, wie in der Richtlinie vorgesehen, anzugeben, zB: „2003/76B/EWG“; bei Genehmigungen nach ECE-Regelungen ist entsprechend der Umsetzungsstufe in der ECE-Regelung ein „I“ oder „II“, etc. anzugeben, zB für eine Genehmigung nach der ECE-Regelung 83 in der Änderungsserie 05, Umsetzungsstufe II: „ECE-R83.05II“. Bei Motoren, bei deren Genehmigungszeichen eine Kennzeichnung für die Kraftstoffart oder Gasgruppe angefügt ist, ist dieses Kennzeichen bei der Angabe der Umsetzungsstufe mit anzugeben, zB: „2001/27B2/EG HLt“ 11) Abgasverhalten und Verbrauch:Bei Fahrzeugen mit alternativen Antriebssystemen (Hybridfahrzeuge) oder die mit alternativen Kraftstoffen betrieben werden können (Flüssiggas, bivalenter Betrieb mit Benzin oder Flüssiggas, bivalenter Betrieb mit Benzin oder Erdgas, bivalenter Betrieb mit Wasserstoff oder Benzin, bivalenter Betrieb mit Benzin oder Biogas, Zweistoffbetrieb mit Ethanol (E85), Flexfuel mit Ethanol (E85)) und bei denen dieser alternative Antrieb in der Kraftstoffart eingetragen ist, können die Emissionswerte für den alternativen Kraftstoff eingetragen werden. Die Emissionswerte für den anderen Kraftstoff sind in die Anmerkungen einzutragen. Sind in den Prüfergebnissen gemäß Anhang VIII der Richtlinie nur die ungünstigsten Ergebnisse angeführt, sind diese einzutragen. 12) Wenn die Gültigkeit der Genehmigung von der Verwendungsbestimmung des Fahrzeuges abhängig ist, ist hier die Verwendungsbestimmung einzutragen. Für die Angabe der Verwendungsbestimmung sind vorzugsweise die in der Anlage 4 der Zulassungsstellenverordnung BGBl. II Nr. 464/1998 angegebenen Werte einzusetzen. 13) Eine eventuell erteilte Ausnahmegenehmigung ist im Feld 51 „Ausnahmen“ einzutragen; ein entsprechender Kurztext nach dem Muster „Ausnahmegenehmigung wegen ??“ ist in das Feld A18 einzutragen. 14) Wenn nicht bescheidmäßig anders festgelegt, entspricht das höchste zulässige Gesamtgewicht für Fahrzeuge mit EU-Betriebserlaubnis der „Technisch zulässigen Gesamtmasse in beladenem Zustand“, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter F2 die Unter- und Obergrenze des höchsten zulässigen Gesamtgewichts einzutragen. Wird bei Anhängerbetrieb von Kraftfahrzeugen eine höhere „Technisch zulässige Gesamtmasse in beladenem Zustand“ im Sinne der Bestimmungen der Richtlinien 92/21/EWG bzw. 97/27/EG erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchstes zulässiges Gesamtgewicht bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 15) Wenn nicht bescheidmäßig anders festgelegt, entsprechen die höchsten zulässigen Achslasten für Fahrzeuge mit EU-Betriebserlaubnis den „Technisch zulässigen maximalen Achslasten“ für die einzelnen Achsen, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter N1 bis N3 die Unter- und Obergrenze der höchsten zulässigen Achslast einzutragen. Für jede einzelne Achse einer Achsgruppe ist als höchste zulässige Achslast bei Doppelachsen die Hälfte, bei Dreifachachsen das Drittel der zulässigen Höchstlast für die Achsgruppe einzutragen. Als zulässige Höchstlast für die Achsgruppe ist die technisch zulässige maximale Masse je Achsgruppe, höchstens jedoch der sich aus §4 Abs. 8 KFG 1967 ergebende Werte anzunehmen. Ist bei Anhängerbetrieb von Kraftfahrzeugen eine höhere „Technisch zulässige maximale Achslast“ im Sinne der Bestimmungen der Richtlinien 92/21/EWG bzw. 97/27/EG erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchste zulässige Achslast Achse x bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 16) Wenn nicht bescheidmäßig anders festgelegt, entspricht die höchste zulässige Stützlast für Fahrzeuge mit EU-Betriebserlaubnis der „Größten vertikalen Stützlast“. Bei Sattelzugfahrzeugen und Sattelanhängern kann soll die höchste zulässige Sattellast in das Feld „höchste zulässige Sattellast“ eingetragen werden. 17) In das Feld A19 sind Anmerkungen einzutragen, die aufgrund der Bestimmungen in dieser Anlage in das Feld A19 der Zulassungsbescheinigung Teil I einzutragen sind oder wichtige Informationen für den Lenker oder die Organe der Straßenaufsicht darstellen und die in der Zulassungsbescheinigung angegeben werden sollen. Diese sind in Klartext abzufassen und müssen sich gegebenenfalls auf Feldbezeichnungen in der Zulassungsbescheinigung Teil I beziehen. 18) Ende Erstzulassung: Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten der Zeitpunkt bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des In-Kraft-Tretens einer Einzelrichtlinie oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert, ist in diesem Feld das Datum des letzten Tages anzugeben, an dem das Fahrzeug zugelassen werden darf. Dieses darf nach erteilter Ausnahmegenehmigung auf das sich aus dem Bescheid für die Ausnahmegenehmigung ergebende Datum abgeändert werden. Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten kein Datum bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des Inkrafttretens einer Einzelrichtlinie oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert oder ist der bekannte Zeitraum länger als 2 Jahre, ist in diesem Feld das Datum der Eingabe des Datensatzes in die Genehmigungsdatenbank plus 2 Jahre zu übermitteln. Ergibt sich aufgrund von Änderungen im KFG 1967 oder in einer aufgrund des KFG 1967 erlassenen Verordnung oder in einer Richtlinie ein früheres Datum für das Ende der Erstzulassung, ist dieses frühere Datum vom Einbringer des Datensatzes in der Genehmigungsdatenbank einzutragen. 19) Die in der Spalte „Anmerkung“ angeführten Fußnoten haben folgende Bedeutung: |
+| 2) Für die Fahrzeuge der einzelnen Klassen sind die Zulassungsrelevanten Daten anzugeben, für die in der der Fahrzeugklasse entsprechenden Spalte „M1“ bis „T nach 2001/3/EG“ eine Eintragung angegeben ist. Die Ziffern entsprechen den im für die Klasse zutreffenden Muster der Übereinstimmungsbescheinigung angeführten Ziffern der Merkmale. Die Eintragung „x“ bedeutet, dass diese Angabe auch dann erforderlich ist, wenn sie in der Übereinstimmungsbescheinigung für die betreffende Klasse nicht angeführt ist. 3) Die Zulassungsrelevanten Daten sind nach einem vom Bundesministerium für Verkehr, Innovation und Technologie genehmigten Muster anzugeben. 4) Die Felder, bei denen in der Spalte „Anmerkung“ die Anmerkung „TB“ aufscheint, müssen für jeden in der Typenbeschreibung vorkommenden Wert mindestens einmal in den als Anlage zum Antrag auf Typengenehmigung beigefügten Typenscheinmustern vorhanden sein – siehe § 20 Abs. 3 Z 3. 5) Für die angeführten Felder gelten die selben Fußnoten wie in dem für die Fahrzeugklasse zutreffenden Muster der Übereinstimmungsbescheinigung nach Richtlinie oder Verordnung der EU, auch wenn diese in dieser Anlage nicht wiedergegeben wurden. 6) Auf ein Fahrzeug nicht zutreffende Felder – wie zB Spurweiten für die 3. bis 5. Achse, wenn das Fahrzeug nur 2 Achsen aufweist oder die Übersetzungsverhältnisse für die Gänge 7 bis 16, wenn das Fahrzeug nur 6 Gänge aufweist – können in den „Daten der Übereinstimmungsbescheinigung Seite 1“ und in den „Daten der Übereinstimmungsbescheinigung Seite 2ff“entfallen. Die Merkmale im Abschnitt Zulassungsbescheinigung oder mit einer Eintragung in der Spalte „ZS“ dürfen nicht entfallen. 7) Vollständige Dimensionsangabe von Reifen und Rädern, einschließlich Betriebskennung der Reifen und Einpresstiefe der Räder. Muster für diese Angabe: „175/70 R13 82T auf 5Jx13/ET42“; fehlen Teile dieser Angaben zu den Reifen und Rädern, hat der Fahrzeughersteller für die entsprechende Information des Lenkers/Zulassungsbesitzers und über die dabei einzuhaltenden Bedingungen zu sorgen. Klassen T, C, R und S: Angaben zu Massen und Reifen, Reifendimension und von den Reifen abhängige zulässige Achslasten, Stützlasten und zulässiges Gesamtgewicht sind gegebenenfalls in Tabellenform beizubringen. 8) Als Übersetzungsverhältnis ist das Verhältnis Eingangsdrehzahl / Ausgangsdrehzahl einzutragen. Bei stufenlosem Getriebe ist im Feld „Übersetzungsverhältnisse, 1. Gang“ der Höchstwert oder der Höchst- und Mindestwert einzutragen. 9) Sofern nicht anders angegeben, gilt für die Zahlenwerte: - Angaben in mm, kg, min-1, dB(A) sowie CO2-Emissionen: kaufmännisch gerundete Ganzzahl, - Übersetzungsverhältnisse, korrigierter Wert des Absorptionskoeffizienten [m-1]: Zahl mit mind.1 Vorkomma- und 3 Nachkommastellen (kaufmännisch gerundet), - Emissionen [g/km, g/kWh]: Zahl mit mind. 1 Vorkomma und 4 Nachkommastellen (kaufmännisch gerundet). Wenn in der EG-Übereinstimmungsbescheinigung die Emissionswerte in mg/km bzw. in mg/kWh angegeben sind, können diese in den Typenscheinen und Datenauszügen auch in mg/km bzw. in mg/km angegeben sein. In die Genehmigungsdatenbank sind diese Werte jedoch in g/km bzw. g/kWh einzugeben. 10) Nummer der letzten für die Genehmigung gültigen Änderungsrichtlinie; bei einer Richtlinie mit mehreren Umsetzungsstufen ist auch die Umsetzungsstufe anzugeben: Die Umsetzungsstufe ist, wie in der Richtlinie vorgesehen, anzugeben, zB: „2003/76B/EWG“; bei Genehmigungen nach ECE-Regelungen ist entsprechend der Umsetzungsstufe in der ECE-Regelung ein „I“ oder „II“, etc. anzugeben, zB für eine Genehmigung nach der ECE-Regelung 83 in der Änderungsserie 05, Umsetzungsstufe II: „ECE-R83.05II“. Bei Motoren, bei deren Genehmigungszeichen eine Kennzeichnung für die Kraftstoffart oder Gasgruppe angefügt ist, ist dieses Kennzeichen bei der Angabe der Umsetzungsstufe mit anzugeben, zB: „2001/27B2/EG HLt“ 11) Abgasverhalten und Verbrauch: Bei Fahrzeugen mit alternativen Antriebssystemen (Hybridfahrzeuge) oder die mit alternativen Kraftstoffen betrieben werden können (Flüssiggas, bivalenter Betrieb mit Benzin oder Flüssiggas, bivalenter Betrieb mit Benzin oder Erdgas, bivalenter Betrieb mit Wasserstoff oder Benzin, bivalenter Betrieb mit Benzin oder Biogas, Zweistoffbetrieb mit Ethanol (E85), Flexfuel mit Ethanol (E85)) und bei denen dieser alternative Antrieb in der Kraftstoffart eingetragen ist, können die Emissionswerte für den alternativen Kraftstoff eingetragen werden. Die Emissionswerte für den anderen Kraftstoff sind in die Anmerkungen einzutragen. Sind in den Prüfergebnissen gemäß Anhang VIII der Richtlinie nur die ungünstigsten Ergebnisse angeführt, sind diese einzutragen. 12) Wenn die Gültigkeit der Genehmigung von der Verwendungsbestimmung des Fahrzeuges abhängig ist, ist hier die Verwendungsbestimmung einzutragen. Für die Angabe der Verwendungsbestimmung sind vorzugsweise die in der Anlage 4 der Zulassungsstellenverordnung BGBl. II Nr. 464/1998 angegebenen Werte einzusetzen. 13) Eine eventuell erteilte Ausnahmegenehmigung ist im Feld 51 „Ausnahmen“ einzutragen; ein entsprechender Kurztext nach dem Muster „Ausnahmegenehmigung wegen ??“ ist in das Feld A18 einzutragen. 14) Wenn nicht bescheidmäßig anders festgelegt, entspricht das höchste zulässige Gesamtgewicht für Fahrzeuge mit EU-Betriebserlaubnis der „Technisch zulässigen Gesamtmasse in beladenem Zustand“, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter F2 die Unter- und Obergrenze des höchsten zulässigen Gesamtgewichts einzutragen. Wird bei Anhängerbetrieb von Kraftfahrzeugen eine höhere „Technisch zulässige Gesamtmasse in beladenem Zustand“ im Sinne der Bestimmungen der Richtlinien 92/21/EWG bzw. 97/27/EG erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchstes zulässiges Gesamtgewicht bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 15) Wenn nicht bescheidmäßig anders festgelegt, entsprechen die höchsten zulässigen Achslasten für Fahrzeuge mit EU-Betriebserlaubnis den „Technisch zulässigen maximalen Achslasten“ für die einzelnen Achsen, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter N1 bis N3 die Unter- und Obergrenze der höchsten zulässigen Achslast einzutragen. Für jede einzelne Achse einer Achsgruppe ist als höchste zulässige Achslast bei Doppelachsen die Hälfte, bei Dreifachachsen das Drittel der zulässigen Höchstlast für die Achsgruppe einzutragen. Als zulässige Höchstlast für die Achsgruppe ist die technisch zulässige maximale Masse je Achsgruppe, höchstens jedoch der sich aus §4 Abs. 8 KFG 1967 ergebende Werte anzunehmen. Ist bei Anhängerbetrieb von Kraftfahrzeugen eine höhere „Technisch zulässige maximale Achslast“ im Sinne der Bestimmungen der Richtlinien 92/21/EWG bzw. 97/27/EG erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchste zulässige Achslast Achse x bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 16) Wenn nicht bescheidmäßig anders festgelegt, entspricht die höchste zulässige Stützlast für Fahrzeuge mit EU-Betriebserlaubnis der „Größten vertikalen Stützlast“. Bei Sattelzugfahrzeugen und Sattelanhängern kann soll die höchste zulässige Sattellast in das Feld „höchste zulässige Sattellast“ eingetragen werden. 17) In das Feld A19 sind Anmerkungen einzutragen, die aufgrund der Bestimmungen in dieser Anlage in das Feld A19 der Zulassungsbescheinigung Teil I einzutragen sind oder wichtige Informationen für den Lenker oder die Organe der Straßenaufsicht darstellen und die in der Zulassungsbescheinigung angegeben werden sollen. Diese sind in Klartext abzufassen und müssen sich gegebenenfalls auf Feldbezeichnungen in der Zulassungsbescheinigung Teil I beziehen. 18) Ende Erstzulassung: Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten der Zeitpunkt bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des In-Kraft-Tretens einer Einzelrichtlinie oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert, ist in diesem Feld das Datum des letzten Tages anzugeben, an dem das Fahrzeug zugelassen werden darf. Dieses darf nach erteilter Ausnahmegenehmigung auf das sich aus dem Bescheid für die Ausnahmegenehmigung ergebende Datum abgeändert werden. Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten kein Datum bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des Inkrafttretens einer Einzelrichtlinie oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert oder ist der bekannte Zeitraum länger als 2 Jahre, ist in diesem Feld das Datum der Eingabe des Datensatzes in die Genehmigungsdatenbank plus 2 Jahre zu übermitteln. Ergibt sich aufgrund von Änderungen im KFG 1967 oder in einer aufgrund des KFG 1967 erlassenen Verordnung oder in einer Richtlinie ein früheres Datum für das Ende der Erstzulassung, ist dieses frühere Datum vom Einbringer des Datensatzes in der Genehmigungsdatenbank einzutragen. 19) Die in der Spalte „Anmerkung“ angeführten Fußnoten haben folgende Bedeutung: |
 
 | Anmerkung | Bedeutung |
 
@@ -710,51 +710,27 @@ Tabelle für die Kraftstoffarten:
 
 | SF | Mobilkran |
 
-| CA | Eindeckerbus Gruppe I |
+| CA | Eindeckfahrzeug |
 
-| CB | Doppeldeckerbus Gruppe I |
+| CB | Doppeldeckfahrzeug |
 
-| CC | Eindecker-Gelenksbus Gruppe I |
+| CC | Eindeck-Gelenkfahrzeug |
 
-| CD | Doppeldecker-Gelenksbus Gruppe I |
+| CD | Doppeldeck-Gelenkfahrzeug |
 
-| CE | Eindecker-Niederflurbus Gruppe I |
+| CE | Eindeck-Niederflurfahrzeug |
 
-| CF | Doppeldecker-Niederflurbus Gruppe I |
+| CF | Doppeldeck-Niederflurfahrzeug |
 
-| CG | Eindecker-Niederflur-Gelenksbus Gruppe I |
+| CG | Eindeck-Niederflur-Gelenkbus |
 
-| CH | Doppeldecker-Niederflur-Gelenksbus Gruppe I |
+| CH | Doppeldeck-Niederflur- Gelenkbus |
 
-| CI | Eindeckerbus Gruppe II |
+| CI | Offenes Eindeckfahrzeug |
 
-| CJ | Doppeldeckerbus Gruppe II |
+| CJ | Offenes Doppeldeckfahrzeug |
 
-| CK | Eindecker-Gelenksbus Gruppe II |
-
-| CL | Doppeldecker-Gelenksbus Gruppe II |
-
-| CM | Eindecker-Niederflurbus Gruppe II |
-
-| CN | Doppeldecker-Niederflurbus Gruppe II |
-
-| CO | Eindecker-Niederflur-Gelenksbus Gruppe II |
-
-| CP | Doppeldecker-Niederflur-Gelenksbus Gruppe II |
-
-| CQ | Eindeckerbus Gruppe III |
-
-| CR | Doppeldeckerbus Gruppe III |
-
-| CS | Eindecker-Gelenksbus Gruppe III |
-
-| CT | Doppeldecker-Gelenksbus Gruppe III |
-
-| CU | Eindeckerbus Gruppe A |
-
-| CV | Eindecker-Niederflurbus Gruppe A |
-
-| CW | Eindeckerbus Gruppe B |
+| CX | Busfahrgestell |
 
 | NQ | Omnibus a) |
 
@@ -807,6 +783,84 @@ Tabelle für die Kraftstoffarten:
 | NM | Ja |
 
 | NN | Nein |
+
+| SG | Sondergruppe |
+
+| SJ | Dolly |
+
+| SK | Anhänger für Schwerlasttransporte |
+
+| AG | PKW-Pick-up |
+
+| BE | Pick-up |
+
+| BX | Fahrgestell mit Führerhaus |
+
+| DE | Starrdeichselanhänger |
+
+| 01 | Plattform |
+
+| 02 | Offener Kasten |
+
+| 03 | Geschlossener Kasten |
+
+| 04 | Klimatisierter Aufbau mit isolierten Wänden und Ausrüstung zur Aufrechterhaltung der Innentemperatur |
+
+| 05 | Klimatisierter Aufbau mit isolierten Wänden, aber ohne Ausrüstung zur Aufrechterhaltung der Innentemperatur |
+
+| 06 | Seitenplanen (Curtainsider) |
+
+| 07 | Wechselbrücke (austauschbarer Aufbau) |
+
+| 08 | Containerträger |
+
+| 09 | Fahrzeuge mit Hakenlift |
+
+| 10 | Kipper |
+
+| 11 | Tank |
+
+| 12 | Tank zur Beförderung gefährlicher Güter |
+
+| 13 | Tiertransporter |
+
+| 14 | Fahrzeugtransporter |
+
+| 15 | Betonmischer |
+
+| 16 | Betonpumpwagen |
+
+| 17 | Langholz |
+
+| 18 | Abfallsammelfahrzeug |
+
+| 19 | Straßenkehrmaschine, Straßen- und Kanalreinigung |
+
+| 20 | Kompressor |
+
+| 21 | Bootsträger |
+
+| 22 | Träger für Segelflugzeuge |
+
+| 23 | Fahrzeuge für Verkaufs- und Werbezwecke |
+
+| 24 | Abschleppwagen |
+
+| 25 | Leiterfahrzeug |
+
+| 26 | Kranwagen (außer Mobilkrane gemäß Anhang II Teil A Abschnitt 5 der Richtlinie 2007/46/EG) |
+
+| 27 | Hubarbeitsbühne |
+
+| 28 | Bohrfahrzeug |
+
+| 29 | Niederfluranhänger |
+
+| 30 | Glastransporter |
+
+| 31 | Feuerwehrfahrzeug |
+
+| 99 | Sonstige, nicht in diesem Verzeichnis enthaltene Aufbauten |
 
 | NR | Druck- und vakuumfester Tank |
 
