@@ -1,6 +1,6 @@
 ### Anlage 6
 
-### (§ 71a)
+(§ 71a, § 71b Z 2, § 77a Abs. 3 und 5)
 
 ## Kriterien für die Festlegung des Standes der Technik
 
@@ -26,4 +26,6 @@ Bei der Festlegung des Standes der Technik ist unter Berücksichtigung der sich 
 
 - 10. die Notwendigkeit, Unfällen vorzubeugen und deren Folgen für die Umwelt zu verringern;
 
-- 11. die von der Kommission gemäß Art. 16 Abs. 2 der Richtlinie 96/61/EG über die integrierte Vermeidung und Verminderung der Umweltverschmutzung oder von internationalen Organisationen veröffentlichten Informationen.
+- 11. die von internationalen Organisationen veröffentlichten Informationen,
+
+- 12. in BVT-Merkblättern enthaltene Informationen.
