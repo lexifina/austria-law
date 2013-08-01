@@ -2,7 +2,7 @@ Artikel 59b. (1) Zur Kontrolle der Bezüge von öffentlich Bediensteten, die zu 
 
 - 1. je ein von jedem Präsidenten des Nationalrates namhaft gemachter Vertreter,
 
-- 2. zwei vom Präsidenten des Bundesrates mit Zustimmung der Vizepräsidenten namhaft gemachte Vertreter,
+- 2. zwei vom Vorsitzenden des Bundesrates mit Zustimmung seiner Stellvertreter namhaft gemachte Vertreter,
 
 - 3. zwei Vertreter der Länder,
 
