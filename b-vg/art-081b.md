@@ -1,4 +1,4 @@
-Artikel 81b. (1) Die Landesschulräte haben Dreiervorschläge zu erstatten
+Artikel 81b. (1) Die Landesschulräte haben gereihte Dreiervorschläge zu erstatten
 
   - a) für die Besetzung der Dienstposten des Bundes für Schulleiter, sonstige Lehrer und Erzieher an den den Landesschulräten unterstehenden Schulen und Schülerheimen,
 
