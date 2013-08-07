@@ -1,6 +1,6 @@
 ### Anlage III
 
-### (zu § 72 und § 73)
+### (zu § 71)
 
 ## Berechnung des KWK-Stroms
 
@@ -14,7 +14,7 @@ Die Werte für die Berechnung des KWK-Stroms sind auf der Grundlage des tatsäch
 
   - b) Bei KWK-Blöcken mit einem jährlichen Gesamtwirkungsgrad unter dem in lit. a sublit. i genannten Wert (KWK-Blöcke des Typs gemäß Anlage II lit. b und d bis h oder mit einem jährlichen Gesamtwirkungsgrad unter dem in lit. a sublit. ii genannten Wert (KWK-Blöcke des Typs gemäß Anlage II lit. a und c wird die KWK nach folgender Formel berechnet:
 
-EKWK = QKWK C
+### EKWK = QKWK C
 
 | – | Hierbei ist: |
 
