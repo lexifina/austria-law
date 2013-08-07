@@ -1,6 +1,6 @@
 ### Anlage 1
 
-### zu § 1 Abs. 1
+zu § 1 Abs. 1
 
 Verzeichnis der Gewässer:
 
@@ -80,7 +80,7 @@ Turrachsee
 
 Weißensee
 
-Wörther See
+Wörthersee
 
 - 3. In Niederösterreich:
 
