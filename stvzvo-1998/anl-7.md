@@ -2,4 +2,4 @@
 
 ## Zusatztafeln
 
-(Anm.: Anlage 7 ist als PDF dokumentiert.)
+/Dokumente/Bundesnormen/NOR40156592/image001.png

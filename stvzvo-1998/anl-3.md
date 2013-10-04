@@ -42,6 +42,8 @@
 
 | Z 13e | 960 × 960 mm | 630 × 630 mm | 470 × 470 mm |
 
+| Z 15a | 1500 x 2500 mm | 1000 x 1500 mm | 630 x 960 mm |
+
 | Vorrangzeichen |
 
 | Z 23 |
@@ -66,232 +68,352 @@
 
 | Breite des schwarzen Schrägbalkens bei Z 25b | 180 mm | 130 mm | 90 mm |
 
+| Großformat | Mittel 1 | Mittel 2 | Kleinformat |
+
 | Hinweiszeichen |
 
 | a) Alle Zeichen mit Ausnahme der unter lit. b gesondert angeführten Zeichen |
 
-| Quadratische Form |
+| Quadratische Form (Seitenlänge) | 960 mm | 630 mm | 470 mm |
 
-| (Seitenlänge) | 960 mm | 630 mm | 470 mm |
-
-| Rechteckige Form |
-
-| (Seitenlänge) | 960 × 1 200 mm | 630 × 960 mm | 470 × 630 mm |
+| Rechteckige Form (Seitenlänge) | 960 x 1200 mm | 630 x 960 mm | 470 x 630 mm |
 
 | b) Die nachstehend angeführten Hinweiszeichen sind in den jeweils angegebenen Abmessungen auszuführen |
 
-| Z 8a, 8b, 8c und 8d | 960 × 1 200 mm |
+| Z 1b | 1000 x 1500 mm 1500 x 2000 mm | 960 x 1200 mm | 630 x 960 mm | 470 x 630 mm |
+
+| Z 1c | 1000 x 1500 mm | 630 x 960 mm |
+
+| Z 8a, 8b, 8c und 8d | 960 x 1 200 mm |
 
 | Breite des roten Schrägbalkens bei Z 8b und 8d | 130 mm |
 
-| Z 9a, 9b, 9c und 9d | 960 × 1 200 mm | 630 × 960 mm | 470 × 630 mm |
+| Z 9a, 9b, 9c und 9d | 960 x 1200 mm | 630 x 960 mm | 470 x 630 mm |
 
 | Breite des roten Schrägbalkens bei Z 9b und 9d | 130 mm | 90 mm | 70 mm |
 
-| Z 10 | 960 × 310 mm |
+| Z 9e | mm | 960 x 1200 mm | 630 x 960 mm |
 
-| Z 10a (ohne Spitze) | 110 × 330 mm |
+| Z 10 | 960 x 310 mm |
 
-| Z 12 | 70 × 150 mm |
+| Z 10a (ohne Spitze) | 110 x 330 mm |
+
+| Z 12 | 70 x 150 mm |
 
 | Überkopfwegweiser |
 
-| Höhe | 2 500 mm |
+| Höhe |
 
-| 2 000 mm |
+| 1500 mm |
 
-| 1 600 mm |
+| 2000 mm |
+
+| 2500 mm |
+
+| 3000 mm |
+
+| 3500 mm |
 
 | Vorwegweiser und Wegweiser |
 
-| Z 13a Vorwegweiser | 1 500 × 1 000 mm |
+| Z 13a Vorwegweiser |
 
-| 2 000 × 1 000 mm |
+| 1500 x 1000 mm |
 
-| 1 500 × 1 500 mm |
+| 2000 x 1000 mm |
 
-| 2 000 × 1 500 mm |
+| 1500 x 1500 mm |
 
-| 2 500 × 1 600 mm |
+| 2000 x 1500 mm |
 
-| 2 000 × 2 500 mm |
+| 2500 x 1500 mm |
 
-| 2 500 × 2 500 mm |
+| 2000 x 2500 mm |
 
-| 3 500 × 2 500 mm |
+| 2500 x 2500 mm |
 
-| 3 500 × 3 500 mm |
+| 3500 x 2500 mm |
 
-| Z 13b Wegweiser ohne Straßennummer | 1 150 × 310 mm |
+| Z 13b, 13c, 13d, 14b, 16b Wegweiser |
 
-| 1 740 × 460 mm |
+| 1150 x 250 mm |
 
-| 2 300 × 620 mm |
+| 1150 x 400 mm |
 
-| Wegweiser mit Straßennummer | 1 460 × 310 mm |
+| 1150 x 620 mm |
 
-| 2 200 × 460 mm |
+| 1460 x 250 mm |
 
-| 2 920 × 620 mm |
+| 1460 x 330 mm |
 
-| Z 13c, 13d Wegweiser | 1 150 × 310 mm |
+| 1460 x 400 mm |
 
-| 1 740 × 460 mm |
+| 1460 x 500 mm |
 
-| 2 300 × 620 mm |
+| 1460 x 620 mm |
 
-| Z 14a Vorwegweiser | 2 500 × 1 600 mm |
+| 1460 x 660 mm |
 
-| 2 500 × 2 500 mm |
+| 1740 x 330 mm |
 
-| 3 500 × 2 500 mm |
+| 1740 x 500 mm |
 
-| Z 14b Wegweiser | 1 460 × 310 mm |
+| 1740 x 660 mm |
 
-| 2 200 × 460 mm |
+| 1740 x 750 mm |
 
-| 2 920 × 620 mm |
+| 2200 x 330 mm |
 
-| Z 15a/a,15a/d Vorwegweiser | 3 500 × 2 500 mm |
+| 2200 x 400 mm |
 
-| 3 500 × 3 500 mm |
+| 2200 x 500 mm |
 
-| 3 500 × 4 500 mm |
+| 2200 x 660 mm |
 
-| 3 500 × 5 000 mm |
+| 2200 x 750 mm |
 
-| Z 15a/b, 15a/c Vorwegweiser | 2 500 × 1 600 mm |
+| 2200 x 900 mm |
 
-| 2 500 × 2 000 mm |
+| 2500 x 400 mm |
 
-| 2 500 × 2 500 mm |
+| 2500 x 660 mm |
 
-| 2 500 × 3 500 mm |
+| 2500 x 900 mm |
 
-| Z 15b/a | 3 000 × 1 500 mm |
+| zusätzliches Format für Wegweiser an Autobahnauffahrten: |
 
-| 3 500 × 1 500 mm |
+| 1500 x 2000 mm |
 
-| Z 15b/b | 1 600 × 2 500 mm |
+| 2000 x 1500 mm |
 
-| 2 500 × 1 600 mm |
+| Z 14a Vorwegweiser |
 
-| Z 15c | 2 500 × 1 600 mm |
+| 2000 x 1500 mm |
 
-| 2 500 × 2 000 mm |
+| 2500 x 1500 mm |
 
-| 2 500 × 2 500 mm |
+| 2500 x 2500 mm |
 
-| 2 500 × 3 500 mm |
+| 3500 x 2500 mm |
 
-| Z 16a | 1 000 × 1 500 mm |
+| 3500 x 3500 mm |
 
-| 1 500 × 1 500 mm |
+| Z 15a/a, 15a/d Vorwegweiser |
 
-| 1 500 × 2 000 mm |
+| 3500 x 3500 mm |
 
-| 1 600 × 2 500 mm |
+| 3500 x 4000 mm |
 
-| 2 500 × 2 500 mm |
+| 4000 x 4000 mm |
 
-| Z 16b | 1 150 × 310 mm |
+| 3500 x 4500 mm |
 
-| 1 740 × 460 mm |
+| 4000 x 4500 mm |
 
-| 2 300 × 620 mm |
+| 3500 x 5000 mm |
 
-| Z 16c/a und 16c/b | 1 000 × 1 500 mm |
+| 4000 x 5000 mm |
 
-| 1 500 × 1 500 mm |
+| Z 15a/b, 15a/c Vorwegweiser |
 
-| 1 600 × 2 500 mm |
+| 2500 x 2000 mm |
 
-| 2 500 × 2 500 mm |
+| 3000 x 2000 mm |
 
-| Z 17a und 17b | 2 000 × 1 000 mm | 1 500 × 1 000 mm | 960 × 630 mm |
+| 2500 x 2500 mm |
+
+| 3000 x 2500 mm |
+
+| 2500 x 3500 mm |
+
+| 3000 x 3500 mm |
+
+| Z 15a/b, Z 15a/c Vorwegweiser Überkopftafel |
+
+| 4500 x 2500 mm |
+
+| 5000 x 2500 mm |
+
+| Z 15b/a Ausfahrtswegweiser Überkopftafel |
+
+| 3500 x 2000 mm |
+
+| 4000 x 2000 mm |
+
+| 3500 x 3000 mm |
+
+| 4000 x 3000 mm |
+
+| Z 15b/b Ausfahrtswegweiser |
+
+| 2500 x 1500 mm |
+
+| 3000 x 1500 mm |
+
+| 2000 x 2500 mm |
+
+| Z 15c Orientierungstafel |
+
+| 2500 x 2000 mm |
+
+| 3000 x 2000 mm |
+
+| 2500 x 2500 mm |
+
+| 3000 x 2500 mm |
+
+| 2500 x 3000 mm |
+
+| 3000 x 3000 mm |
+
+| 2500 x 3500 mm |
+
+| 3000 x 3500 mm |
+
+| Z 16a Vorankündigung einer Umleitung |
+
+| 1000 x 1500 mm |
+
+| 1500 x 1500 mm |
+
+| 1500 x 2000 mm |
+
+| 1500 x 2500 mm |
+
+| 2000 x 2500 mm |
+
+| 2500 x 2500 mm |
+
+| Z 16c/a, 16c/b Wechsel der Richtungsfahrbahn |
+
+| 1000 x 1500 mm |
+
+| 1500 x 1500 mm |
+
+| 1500 x 2500 mm |
+
+| 2000 x 2500 mm |
+
+| 2500 x 2500 mm |
+
+| Z 17a und 17b | 2000 x 1000 mm | 1500 x 1000 mm | 960 x 630 mm |
 
 | Breite des roten Schrägbalkens bei Z 17b | 140 mm | 130 mm | 90 mm |
 
-| Z 18 und 19 | zweistellig | 310 × 310 mm |
+| Z 18 und 19 Internationaler Hauptverkehrsweg, Straße mit Vorrang |
 
-| 470 × 470 mm |
+| zweistellig | 310 x 310 mm |
 
-| 630 × 630 mm |
+| 470 x 470 mm |
 
-| dreistellig | 470 × 310 mm |
+| 630 x 630 mm |
 
-| 630 × 470 mm |
+| dreistellig | 470 x 310 mm |
 
-| 960 × 630 mm |
+| 630 x 470 mm |
 
-| Z 20 | Ø 310 mm |
+| 960 x 630 mm |
 
-| 480 mm |
+| Z 21 Straße ohne Vorrang |
 
-| 670 mm |
+| 310 x 150 mm |
 
-| Z 21 | 310 × 150 mm |
+| Z 22 Allgemeine Geschwindigkeitsbeschränkung |
 
-| Z 22 | 1 000 × 1 500 mm |
+| 1000 x 1500 mm |
 
-| 1 600 × 2 500 mm |
+| 1500 x 2500 mm |
 
-| Z 23 | 630 × 960 mm |
+| 2000 x 3500 mm |
 
-| 960 × 960 mm |
+| Z 23 Voranzeiger für Einordnen |
 
-| 1 000 × 1 500 mm |
+| 630 x 960 mm |
 
-| 1 500 × 1 500 mm |
+| 960 x 960 mm |
 
-| 1 600 × 2 500 mm |
+| 1000 x 1500 mm |
 
-| 2 500 × 2 500 mm |
+| 1500 x 1500 mm |
 
-| Z 23b und 23c | 1 000 × 1 500 mm |
+| 1500 x 2000 mm |
 
-| 1 500 × 1 500 mm |
+| 1500 x 2500 mm |
 
-| 1 600 × 2 500 mm |
+| 2000 x 2500 mm |
 
-| 2 500 × 2 500 mm |
+| 2500 x 2500 mm |
 
-| Z 23a | 630 × 960 mm |
+| Z 23b, 23c Voranzeiger für Fahrstreifenverlauf, Fahrstreifenverminderung |
 
-| 1 000 × 1 500 mm |
+| 1000 x 1500 mm |
 
-| 1 600 × 2 500 mm |
+| 1500 x 1500 mm |
 
-| Z 24 und 24a | 470 × 470 mm |
+| 1500 x 2500 mm |
 
-| 630 × 630 mm |
+| 2000 x 2500 mm |
 
-| 960 × 960 mm |
+| 2500 x 2500 mm |
 
-| Breite des roten Schrägbalkens bei Z 24a | 65 mm |
+| Z 23a Voranzeiger für Einbiegen |
+
+| 630 x 960 mm |
+
+| 1000 x 1500 mm |
+
+| 1500 x 2500 mm |
+
+| Z 24 und 24a Straße für Omnibusse |
+
+| 470 x 470 mm |
+
+| 630 x 630 mm |
+
+| 960 x 960 mm |
+
+| Breite des roten Schrägbalkens bei Z 24a |
+
+| 65 mm |
 
 | 90 mm |
 
 | 130 mm |
 
-| Z 25 und 25a | 1 200 × 600 mm |
+| Z 25 und 25a Fahrstreifen für Omnibusse | 1200 x 600 mm |
 
-| Breite des roten Schrägbalkens bei Z 25a | 90 mm |
+| Breite des roten Schrägbalkens bei Z 24a | 90 mm |
 
-| Zusatztafeln | 310 × 150 mm |
+| Zusatztafeln |
 
-| 470 × 150 mm |
+| 310 x 150 mm |
 
-| 470 × 230 mm |
+| 400 x 150 mm |
 
-| 470 × 310 mm |
+| 470 x 150 mm |
 
-| 470 × 470 mm |
+| 470 x 230 mm |
 
-| 630 × 230 mm |
+| 470 x 310 mm |
 
-| 630 × 310 mm |
+| 470 x 470 mm |
 
-| 960 × 310 mm |
+| 630 x 230 mm |
 
-| 960 × 470 mm |
+| 630 x 310 mm |
+
+| 630 x 470 mm |
+
+| 630 x 630 mm |
+
+| 960 x 310 mm |
+
+| 960 x 470 mm |
+
+| 960 x 630 mm |
+
+| 960 x 960 mm |
+
+| 1000 x 500 mm |
+
+| 1500 x 500 mm |

@@ -2,4 +2,10 @@
 
 ## Vorschriftszeichen
 
-(Anm.: Anlage 5 ist als PDF dokumentiert.)
+### Verbots- oder Beschränkungszeichen
+
+/Dokumente/Bundesnormen/NOR40156590/image001.png
+
+/Dokumente/Bundesnormen/NOR40156590/image002.png
+
+/Dokumente/Bundesnormen/NOR40156590/image003.png
