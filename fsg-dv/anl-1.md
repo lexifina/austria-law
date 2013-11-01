@@ -2,10 +2,10 @@
 
 Darstellung nicht in Originalgröße
 
-## Vorderseite
+## Vorderseite:
 
-/Dokumente/Bundesnormen/NOR40146671/image001.png
+/Dokumente/Bundesnormen/NOR40156576/image001.png
 
 ## Rückseite:
 
-/Dokumente/Bundesnormen/NOR40146671/image002.png
+/Dokumente/Bundesnormen/NOR40156576/image002.png
