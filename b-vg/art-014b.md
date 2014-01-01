@@ -52,4 +52,4 @@ Gemeinden gelten unabhängig von der Zahl ihrer Einwohner als Rechtsträger, die
 
 (5) Die Durchführungsverordnungen zu den nach Abs. 1 ergehenden Bundesgesetzen sind, soweit in diesen Gesetzen nicht anderes bestimmt ist, vom Bund zu erlassen. Abs. 4 und Art. 42a sind auf solche Verordnungen sinngemäß anzuwenden.
 
-(6) Die für die Durchführung der Nachprüfungsverfahren zuständigen Verwaltungsbehörden können gesetzlich auch zur Kontrolle der in Art. 19 Abs. 1 bezeichneten obersten Organe der Vollziehung, der Gemeinden und der Gemeindeverbände und von Privaten berufen werden.
+(Anm.: Abs. 6 aufgehoben durch BGBl. I Nr. 51/2012)
