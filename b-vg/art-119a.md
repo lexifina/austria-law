@@ -6,7 +6,7 @@ Artikel 119a. (1) Der Bund und das Land üben das Aufsichtsrecht über die Gemei
 
 (4) Die Aufsichtsbehörde ist berechtigt, sich über jedwede Angelegenheit der Gemeinde zu unterrichten. Die Gemeinde ist verpflichtet, die von der Aufsichtsbehörde im einzelnen Fall verlangten Auskünfte zu erteilen und Prüfungen an Ort und Stelle vornehmen zu lassen.
 
-(5) Wer durch den Bescheid eines Gemeindeorgans in Angelegenheiten des eigenen Wirkungsbereiches in seinen Rechten verletzt zu sein behauptet, kann nach Erschöpfung des Instanzenzuges (Art. 118 Abs. 4) innerhalb von zwei Wochen nach Erlassung des Bescheides dagegen Vorstellung bei der Aufsichtsbehörde erheben. Diese hat den Bescheid, wenn Rechte des Einschreiters durch ihn verletzt werden, aufzuheben und die Angelegenheit zur neuerlichen Entscheidung an die Gemeinde zu verweisen. Für Städte mit eigenem Statut kann die zuständige Gesetzgebung (Abs. 3) anordnen, dass die Vorstellung an die Aufsichtsbehörde nicht stattfindet.
+(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 51/2012)
 
 (6) Die Gemeinde hat im eigenen Wirkungsbereich erlassene Verordnungen der Aufsichtsbehörde unverzüglich mitzuteilen. Die Aufsichtsbehörde hat gesetzwidrige Verordnungen nach Anhörung der Gemeinde durch Verordnung aufzuheben und die Gründe hiefür der Gemeinde gleichzeitig mitzuteilen.
 
@@ -14,6 +14,6 @@ Artikel 119a. (1) Der Bund und das Land üben das Aufsichtsrecht über die Gemei
 
 (8) Einzelne von der Gemeinde im eigenen Wirkungsbereich zu treffende Maßnahmen, durch die auch überörtliche Interessen in besonderem Maß berührt werden, insbesondere solche von besonderer finanzieller Bedeutung, können durch die zuständige Gesetzgebung (Abs. 3) an eine Genehmigung der Aufsichtsbehörde gebunden werden. Als Grund für die Versagung der Genehmigung darf nur ein Tatbestand vorgesehen werden, der die Bevorzugung überörtlicher Interessen eindeutig rechtfertigt.
 
-(9) Die Gemeinde hat im aufsichtsbehördlichen Verfahren Parteistellung; sie ist berechtigt, gegen die Aufsichtsbehörde vor dem Verwaltungsgerichtshof (Art. 131 und 132) und vor dem Verfassungsgerichtshof (Art. 144) Beschwerde zu führen.
+(9) Die Gemeinde ist Partei des aufsichtsbehördlichen Verfahrens und hat das Recht, Beschwerde beim Verwaltungsgericht (Art. 130 bis 132) zu erheben. Sie ist Partei des Verfahrens vor dem Verwaltungsgericht und hat das Recht, Revision beim Verwaltungsgerichtshof (Art. 133) und Beschwerde beim Verfassungsgerichtshof (Art. 144) zu erheben.
 
 (10) Die Bestimmungen dieses Artikels sind auf die Aufsicht über Gemeindeverbände, soweit diese Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde besorgen, entsprechend anzuwenden.
