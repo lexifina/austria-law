@@ -112,13 +112,13 @@ Fällt ein in Teil 1 genannter Stoff oder eine in Teil 1 genannte Zubereitung od
 
 | 29 | Folgende kanzerogene Stoffe mit einer Konzentration von über 5 Gew-%: 4-Aminobiphenyl oder seine Salze, Benzotrichlorid, Benzidin oder seine Salze, Bis(chlormethyl)ether, Chlormethylmethylether, 1,2-Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethylcarbamoylchlorid, 1,2-Dibrom-3-hlorpropan, 1,2-Dimethylhydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2-Naphthylamin oder seine Salze, 4-Nitrodiphenyl und 1,3-ropansulton | 0,5 | 2 |
 
-| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha b) Kerosin einschließlich Turbinenkraftstoffe c) Gasöle (Dieselkraftstoffe, Heizöle und Gasölmischströme) | 2500 | 25000 |
+| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha b) Kerosin einschließlich Turbinenkraftstoffe c) Gasöle (Dieselkraftstoffe, Heizöle und Gasölmischströme d) Schweröle | 2500 | 25000 |
 
 Anmerkungen zu Teil 1:
 
 zu Z 1.1:
 
-Gilt für Düngemittel, die zu einer selbstunterhaltenden Zersetzung fähig sind; dies sind Ammoniumnitrat - Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
+Gilt für Düngemittel, die zu einer selbstunterhaltenden Zersetzung fähig sind; dies sind Ammoniumnitrat – Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
 
 - - gewichtmäßig zwischen 15,75% und 24,5% beträgt und die entweder insgesamt höchstens 0,4% brennbaren organischen Materials enthalten oder die Anforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 über Düngemittel, ABl. Nr. L 301 vom 21.11.2003, S. 1, erfüllen,
 
@@ -178,6 +178,10 @@ zu Z 30 lit.c:
 
 Brennbare Flüssigkeiten gemäß UN/ADR-Nr. 1202.
 
+### zu Z 30 lit. d:
+
+Erdölerzeugnisse, die gemäß UN/ADR-Nr. 3082 zu kennzeichnen sind und nicht unter lit. a bis c fallen.
+
 ## Teil 2
 
 ## Kategorien von namentlich nicht in Teil 1 genannten Stoffen und Zubereitungen
@@ -210,9 +214,9 @@ Brennbare Flüssigkeiten gemäß UN/ADR-Nr. 1202.
 
 | 11 | Umweltgefährlich (Gefahrenhinweis R 51/53) | 200 | 500 |
 
-| 12 | Stoffe mit Einstufung mit Gefahrenhinweis R 14 oder R 14/15, soweit nicht in 1 - 11 erfasst | 100 | 500 |
+| 12 | Stoffe mit Einstufung mit Gefahrenhinweis R 14 oder R 14/15, soweit nicht in 1 – 11 erfasst | 100 | 500 |
 
-| 13 | Stoffe mit der Einstufung R 29, soweit nicht in 1 - 11 erfasst | 50 | 200 |
+| 13 | Stoffe mit der Einstufung R 29, soweit nicht in 1 – 11 erfasst | 50 | 200 |
 
 Anmerkungen zu Teil 2:
 
