@@ -62,65 +62,69 @@ Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellsch
 
   - aa) Gesellschaften schwedischen Rechts mit der Bezeichnung „aktiebolag“, „försäkringsaktiebolag“, „ekonomiska föreningar“, „sparbanker“, „ömsesidiga försäkringsbolag“ und „försäkringsföreningar“,
 
-  - ab) nach dem Recht des Vereinigten Königreichs gegründete Gesellschaften.
+  - ab) nach dem Recht des Vereinigten Königreichs gegründete Gesellschaften;
+
+  - ac) Gesellschaften kroatischen Rechts mit der Bezeichnung ‚dioničko društvo‘ oder ‚društvo s ograničenom odgovornošću‘ und andere nach kroatischem Recht gegründete Gesellschaften, die der kroatischen Gewinnsteuer unterliegen.
 
 - 2. nach dem Steuerrecht eines Mitgliedstaates in Bezug auf den steuerlichen Wohnsitz als in diesem Staat ansässig und auf Grund eines mit einem dritten Staat geschlossenen Doppelbesteuerungsabkommens in Bezug auf den steuerlichen Wohnsitz nicht als außerhalb der Gemeinschaft ansässig betrachtet wird und
 
 - 3. ohne Wahlmöglichkeit einer der nachstehenden Steuern
 
-  - — vennootschapsbelasting/impôt des sociétés in Belgien,
+  - – vennootschapsbelasting/impôt des sociétés in Belgien,
 
-  - — selskabsskat in Dänemark,
+  - – selskabsskat in Dänemark,
 
-  - — Körperschaftsteuer in Deutschland,
+  - – Körperschaftsteuer in Deutschland,
 
-  - — φόρος εισοδήματος νομικών προσώπων κερδοσκοπικού χαρακτήρα in Griechenland
+  - – φόρος εισοδήματος νομικών προσώπων κερδοσκοπικού χαρακτήρα in Griechenland
 
-  - — impuesto sobre sociedades in Spanien,
+  - – impuesto sobre sociedades in Spanien,
 
-  - — impôt sur les sociétés in Frankreich,
+  - – impôt sur les sociétés in Frankreich,
 
-  - — corporation tax in Irland,
+  - – corporation tax in Irland,
 
-  - — imposta sul reddito delle società in Italien,
+  - – imposta sul reddito delle società in Italien,
 
-  - — impôt sur le revenu des collectivités in Luxemburg,
+  - – impôt sur le revenu des collectivités in Luxemburg,
 
-  - — vennootschapsbelasting in den Niederlanden,
+  - – vennootschapsbelasting in den Niederlanden,
 
-  - — imposto sobre o rendimento das pessoas colectivas in Portugal,
+  - – imposto sobre o rendimento das pessoas colectivas in Portugal,
 
-  - — corporation tax im Vereinigten Königreich,
+  - – corporation tax im Vereinigten Königreich,
 
-  - — Körperschaftsteuer in Österreich,
+  - – Körperschaftsteuer in Österreich,
 
-  - — yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
+  - – yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
 
-  - — statlig inkomstskatt in Schweden,
+  - – statlig inkomstskatt in Schweden,
 
-  - — Daň z příjmů právnických in der Tschechischen Republik,
+  - – Daň z příjmů právnických in der Tschechischen Republik,
 
-  - — Tulumaks in Estland,
+  - – Tulumaks in Estland,
 
-  - — φόρος Εισοδήματος in Zypern,
+  - – φόρος Εισοδήματος in Zypern,
 
-  - — uzņēmumu ienākuma nodoklis in Lettland,
+  - – uzņēmumu ienākuma nodoklis in Lettland,
 
-  - — Pelno mokestis in Litauen,
+  - – Pelno mokestis in Litauen,
 
-  - — Társasági adó, osztalékadó in Ungarn,
+  - – Társasági adó, osztalékadó in Ungarn,
 
-  - — Taxxa fuq l-income in Malta,
+  - – Taxxa fuq l-income in Malta,
 
-  - — Podatek dochodowy od osób prawnych in Polen,
+  - – Podatek dochodowy od osób prawnych in Polen,
 
-  - — Davek od dobička pravnih oseb in Slowenien,
+  - – Davek od dobička pravnih oseb in Slowenien,
 
-  - — daň z príjmov právnických osôb in der Slowakei,
+  - – daň z príjmov právnických osôb in der Slowakei,
 
-  - — корлоративен данък in Bulgarien,
+  - – корлоративен данък in Bulgarien,
 
-  - — impozit pe profit in Rumänien
+  - – impozit pe profit in Rumänien,
+
+  - – porez na dobit in Kroatien
 
 oder irgendeiner Steuer, die eine dieser Steuern ersetzt, unterliegt, ohne davon befreit zu sein.
 
@@ -129,3 +133,5 @@ Z 1 lit. a ist anzuwenden: soweit es sich um eine SE handelt, auf Ausschüttunge
 Z 1 lit. d, g, m, n, o, q, r, u, x und y sind auf Ausschüttungen anzuwenden, die nach dem 30. April 2004 erfolgen.
 
 Z 1 lit. c und w sind auf Ausschüttungen anzuwenden, die nach dem 31. Dezember 2006 erfolgen.
+
+Die Anlage 2 zu § 94 Z 2 EStG in der Fassung des Bundesgesetzes BGBl. I Nr. 13/2014 ist auf Ausschüttungen anzuwenden, die nach dem 30. Juni 2013 erfolgen.
