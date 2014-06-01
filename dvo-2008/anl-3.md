@@ -32,9 +32,9 @@ Betreffend die äußere Standsicherheit, definiert als Sicherheit gegen ein Vers
 
 ### 1.3. Deponierohplanum
 
-Beim Deponierohplanum, ausgenommen Böschungsneigungen steiler 1:2, sind für nachstehend genannte Böden gemäß ÖNORM B 4401-3 „Erd- und Grundbau; Erkundung durch Schürfe und Bohrungen sowie Entnahme von Proben; Protokollierung“, ausgegeben am 1. November 1985, folgende Werte für den Verdichtungsgrad oder die Verformbarkeit nachzuweisen:
+Beim Deponierohplanum, ausgenommen Böschungsneigungen steiler 1:2, sind für nachstehend genannte Böden folgende Werte für den Verdichtungsgrad oder die Verformbarkeit nachzuweisen:
 
-| Böden (nach ÖNORM EN ISO 22475-1 „Geotechnische Erkundung und Untersuchung – Probenentnahmeverfahren und Grundwassermessungen – Teil 1: Technische Grundlagen der Ausführung (ISO 22475-1:2006), ausgegeben am 1. Dezember 2006) | Verdichtungsgrad (Proctordichte gemäß ÖNORM B 4418 „Geotechnik – Durchführung von Proctorversuchen im Erdbau“, ausgegeben am 1. Jänner 2007) | Verformbarkeit (Verformungsmodul gemäß Lastplattenversuch nach ÖNORM B 4417 „Erd- und Grundbau; Untersuchung von Böden; Lastplattenversuch“, ausgegeben am 1. Dezember 1979) 1) |
+| Böden (nach ÖNORM B 4400-1 „Geotechnik, Teil 1: Benennung, Beschreibung und Klassifizierung von Böden“, ausgegeben am 15. März 2010) | Verdichtungsgrad (Proctordichte gemäß ÖNORM B 4418 „Geotechnik – Durchführung von Proctorversuchen im Erdbau“, ausgegeben am 1. Jänner 2007) | Verformbarkeit (Verformungsmodul gemäß Lastplattenversuch nach ÖNORM B 4417 „Erd- und Grundbau; Untersuchung von Böden; Lastplattenversuch“, ausgegeben am 1. Dezember 1979) 1) |
 
 | grobkörnige Böden | Dpr ≥100% | Ev1 ≥30 MN/m2 |
 
@@ -66,11 +66,11 @@ Beim Deponierohplanum, ausgenommen Böschungsneigungen steiler 1:2, sind für na
 
 ### 2.2. Kunststoffdichtungsbahnen
 
-- a) Die Anforderungen und Prüfungen an PE-HD Kunststoffdichtungsbahnen gemäß ÖNORM S 2073 „Deponien – Dichtungsbahnen aus Kunststoff – Anforderungen und Prüfungen“, ausgegeben am 1. Juni 2006, sind zu erfüllen. Werden bei der Herstellung von Kunststoffdichtungsbahnen Recyclate eingesetzt, sind besondere Nachweise hinsichtlich der Materialbeständigkeit zu erbringen.
+- a) Die Anforderungen und Prüfungen an PE-HD Kunststoffdichtungsbahnen gemäß ÖNORM S 2073 „Deponien – Dichtungsbahnen aus Kunststoff – Anforderungen und Prüfungen“, ausgegeben am 1. Juli 2011, sind zu erfüllen. Werden bei der Herstellung von Kunststoffdichtungsbahnen Recyclate eingesetzt, sind besondere Nachweise hinsichtlich der Materialbeständigkeit zu erbringen.
 
-- b) Das Verlegen, Verschweißen und der Schutz von Kunststoffdichtungsbahnen hat gemäß ÖNORM S 2076-1 „Deponien – Dichtungsbahnen aus Kunststoff – Verlegung“, ausgegeben am 1. Oktober 1999, zu erfolgen.
+- b) Das Verlegen, Verschweißen und der Schutz von Kunststoffdichtungsbahnen hat gemäß ÖNORM S 2076-1 „Deponien – Dichtungssysteme mit Abdichtungsbahnen aus Kunststoff – Teil 1: Verlegung“, ausgegeben am 1. Mai 2009, zu erfolgen.
 
-- c) Kunststoffdichtungsbahnen als Bestandteil des Deponiebasisdichtungssystems sind insbesondere mit einem mindestens 1 200 g/m2 schweren mechanisch verfestigten Vlies vor Beschädigung zu schützen. Die Verwendung alternativer Schutzsysteme, zB Verbundstoffe mit Geokunststoffen, ist zulässig, wenn eine mindestens gleichwertige Schutzwirkung sowohl bei dynamischer als auch bei statischer Belastung entsprechend der Auflast des Abfallkörpers nachgewiesen werden kann. Die ÖNORM S 2076-2 „Deponien – Geotextile Schutzlagen – Teil 2: Systemanforderungen und Einbaubedingungen“, ausgegeben am 1. Juni 2006, ist anzuwenden.
+- c) Kunststoffdichtungsbahnen als Bestandteil des Deponiebasisdichtungssystems sind insbesondere mit einem mindestens 1 200 g/m2 schweren mechanisch verfestigten Vlies vor Beschädigung zu schützen. Die Verwendung alternativer Schutzsysteme, zB Verbundstoffe mit Geokunststoffen, ist zulässig, wenn eine mindestens gleichwertige Schutzwirkung sowohl bei dynamischer als auch bei statischer Belastung entsprechend der Auflast des Abfallkörpers nachgewiesen werden kann. Die ÖNORM S 2076-2 „Deponien – Dichtungssysteme mit Dichtungsbahnen aus Kunststoff – Teil 2: Systemanforderungen und Einbaubedingungen für geotextile Schutzlagen“, ausgegeben am 15. Oktober 2011, ist anzuwenden.
 
 ### 3. BASISENTWÄSSERUNGSSYSTEM
 
@@ -86,7 +86,7 @@ Beim Deponierohplanum, ausgenommen Böschungsneigungen steiler 1:2, sind für na
 
 ### 3.2. Sickerwasserleitungen
 
-- a) Die Bestimmungen der DIN 4266-1 „Sickerrohre für Deponien aus PVC-U, PE-HD und PP; Anforderungen, Prüfungen und Überwachung“, ausgegeben im Jänner 1992, sind einzuhalten.
+- a) Die Bestimmungen der DIN 4266-1 „Sickerrohre für Deponien – Teil 1: Sickerrohre aus PE und PP“, ausgegeben im November 2011, sind einzuhalten.
 
 - b) Die Sickerwasserleitungen sind gerade, auf der ganzen Länge spülbar und kontrollierbar und mit einem Mindestgefälle von 2% zu verlegen.
 
@@ -100,7 +100,7 @@ Beim Deponierohplanum, ausgenommen Böschungsneigungen steiler 1:2, sind für na
 
 - g) Die Sickerwasserleitungen sind während der Betriebsphase mindestens zweimal jährlich zu spülen. Die Sickerwasserleitungen, einschließlich ihres Gefälles, sind mindestens einmal jährlich mit Videokameras zu kontrollieren.
 
-- h) Geschlossene Sickerwasserleitungen (Transportleitungen) sind einer Dichtheitsprüfung gemäß ÖNORM B 2503 „Kanalanlagen – Ergänzende Richtlinien für die Planung, Ausführung und Prüfung“, ausgegeben am 1. Dezember 2004, zu unterziehen.
+- h) Geschlossene Sickerwasserleitungen (Transportleitungen) sind einer Dichtheitsprüfung gemäß ÖNORM B 2503 „Kanalanlagen – Planung, Ausführung, Prüfung, Betrieb“, ausgegeben am 1. August 2012, zu unterziehen.
 
 ### 3.3. Sickerwasserschächte und -stollen
 
@@ -120,7 +120,7 @@ Wesentliche Funktionen der Deponieoberflächenabdeckung sind neben der Gewährle
 
 ### 4.1. Ausgleichsschicht
 
-Als unmittelbare Abdeckung ist eine verdichtete Ausgleichsschicht aus grobkörnigem Material (maximales Korn 100 mm gemäß ÖNORM B 4400 „Erd- und Grundbau; Bodenklassifikation für bautechnische Zwecke und Methoden zum Erkennen von Bodengruppen“, ausgegeben am 1. November 1978) mit einer Mindeststärke von 0,5 m herzustellen. Das Material der Ausgleichsschicht und allfälliger Zwischenabdeckungen hat zumindest jenen qualitativen Anforderungen zu genügen, die an die zur Ablagerung genehmigten Abfälle gestellt werden, wobei jedenfalls eine ausreichende Gasdurchlässigkeit gewährleistet sein muss.
+Als unmittelbare Abdeckung ist eine verdichtete Ausgleichsschicht aus grobkörnigem Material (maximales Korn 100 mm gemäß ÖNORM B 4400-1 „Geotechnik, Teil 1: Benennung, Beschreibung und Klassifizierung von Böden“, ausgegeben am 15. März 2010) mit einer Mindeststärke von 0,5 m herzustellen. Das Material der Ausgleichsschicht und allfälliger Zwischenabdeckungen hat zumindest jenen qualitativen Anforderungen zu genügen, die an die zur Ablagerung genehmigten Abfälle gestellt werden, wobei jedenfalls eine ausreichende Gasdurchlässigkeit gewährleistet sein muss.
 
 ### 4.2. Gasdrainschicht
 
@@ -128,7 +128,7 @@ Als unmittelbare Abdeckung ist eine verdichtete Ausgleichsschicht aus grobkörni
 
 - b) Der Kalzium- und Magnesiumcarbonatanteil des Materials der Entgasungsschicht darf nicht mehr als 30 Gewichtsprozent betragen.
 
-- c) Gleichwertige geosynthetische Drainelemente sind zulässig, wenn die Anforderungen der ÖNORM S 2082 „Deponien – Oberflächenabdeckungen – Systemanforderungen“, Punkt 4.2, ausgegeben am 1. Jänner 2005, erfüllt werden.
+- c) Gleichwertige geosynthetische Drainelemente sind zulässig, wenn die Anforderungen der ÖNORM S 2082 „Deponien – Oberflächenabdeckungen – Systemanforderungen“, Punkt 4.2, ausgegeben am 1. Dezember 2011, erfüllt werden.
 
 ### 4.3. Oberflächendichtung
 
@@ -136,7 +136,7 @@ Als unmittelbare Abdeckung ist eine verdichtete Ausgleichsschicht aus grobkörni
 
 - b) Der Niederschlagseintrag in den Deponiekörper ist so zu minimieren, dass die jährliche Deponiesickerwasserneubildungsrate weniger als 5% des Jahresniederschlages beträgt (ausgenommen Deponien mit vertikaler Umschließung). Dieser Wert ist jährlich zu bestimmen und spätestens fünf Jahre nach erfolgter Aufbringung der Oberflächendichtung einzuhalten. Andernfalls ist die Oberflächendichtung durch geeignete Maßnahmen zu ertüchtigen. Als Bemessungsgrundlage ist der mittlere Jahresniederschlag der vergangenen fünf Jahre heranzuziehen. Die Einhaltung des Grenzwertes ist über den gesamten weiteren Nachsorgezeitraum jährlich nachzuweisen.
 
-- c) Als Regelaufbau für die Oberflächendichtung sind für Inertabfall- und Baurestmassendeponien mehrlagige mineralische Dichtungsschichten mit einer Gesamtstärke von zumindest 40 cm und für Reststoff- und Massenabfalldeponien mehrlagige mineralische Dichtungsschichten mit einer Gesamtstärke von zumindest 60 cm in Kombination mit Kunststoffdichtungsbahnen anzusehen. Die Ausführung alternativer, gleichwertiger Dichtungssysteme, insbesondere im Bereich von Böschungen, ist zulässig. Der Einsatz von geosynthetischen Tondichtungsbahnen ist zulässig, sofern die Anforderungen der ÖNORM S 2081-1 „Deponien – Geosynthetische Tondichtungsbahnen – Teil 1: Anforderungen und Prüfungen“, ausgegeben am 1. Juni 2006, und der ÖNORM S 2081-2 „Deponien – Geosynthetische Tondichtungsbahnen – Teil 2: Verlegung“, ausgegeben am 1. September 2004, eingehalten werden.
+- c) Als Regelaufbau für die Oberflächendichtung sind für Inertabfall- und Baurestmassendeponien mehrlagige mineralische Dichtungsschichten mit einer Gesamtstärke von zumindest 40 cm und für Reststoff- und Massenabfalldeponien mehrlagige mineralische Dichtungsschichten mit einer Gesamtstärke von zumindest 60 cm in Kombination mit Kunststoffdichtungsbahnen anzusehen. Die Ausführung alternativer, gleichwertiger Dichtungssysteme, insbesondere im Bereich von Böschungen, ist zulässig. Der Einsatz von geosynthetischen Tondichtungsbahnen ist zulässig, sofern die Anforderungen der ÖNORM S 2081-1 „Deponien – Dichtungssysteme mit geosynthetischen Tondichtungsbahnen (GBR-C) – Teil 1: Anforderungen und Prüfungen“, ausgegeben am 1. August 2011, und der ÖNORM S 2081-2 „Deponien – Dichtungssysteme mit geosynthetischen Tondichtungsbahnen (GBR-C) – Teil 2: Verlegung“, ausgegeben am 1. Juli 2011, eingehalten werden.
 
 - d) Der Durchlässigkeitsbeiwert (k-Wert) der mineralischen Dichtungsschichten für Oberflächendichtungen gemäß lit. c darf bei einem hydraulischen Gradienten von i = 30 (Laborwert) 10-9 m/s nicht überschreiten. Abweichend davon gilt für Inertabfalldeponien ein k-Wert von 5 x 10-8 m/s. Darüber hinaus sind bei allen Deponien, ausgenommen Bodenaushubdeponien, die Anforderungen an mineralische Dichtungsschichten für Deponiebasisdichtungen (Kapitel 2.1. lit. b bis h) einzuhalten.
 
@@ -148,7 +148,7 @@ Als unmittelbare Abdeckung ist eine verdichtete Ausgleichsschicht aus grobkörni
 
 - a) Für das über der Oberflächendichtung in einer Mindeststärke von 50 cm herzustellende Oberflächenentwässerungssystem sind die Anforderungen an den Flächenfilter und die Sickerwasserleitungen gemäß Kapitel 3.1. und 3.2. einzuhalten. Die Anordnung von Sickerwasserleitungen ist nicht zwingend. Der Einsatz von geeigneten Materialien aus dem Baurestmassenrecycling ist zulässig.
 
-- b) Erfolgt die Oberflächenentwässerung durch eine geosynthetische Drainage, ist die Rekultivierungsschicht in einer Mächtigkeit auszuführen, die die örtliche Frosttiefe übersteigt, zumindest jedoch 0,8 m. Falls keine Daten über die örtliche Frosttiefe vorhanden sind, kann als Näherung die Formel Seehöhe in Metern/1000 angewendet werden. Für geosynthetische Drainelemente ist die ÖNORM S 2082 „Deponien – Oberflächenabdeckungen – Systemanforderungen“, Punkt 4.4, ausgegeben am 1. Jänner 2005, anzuwenden.
+- b) Erfolgt die Oberflächenentwässerung durch eine geosynthetische Drainage, ist die Rekultivierungsschicht in einer Mächtigkeit auszuführen, die die örtliche Frosttiefe übersteigt, zumindest jedoch 0,8 m. Falls keine Daten über die örtliche Frosttiefe vorhanden sind, kann als Näherung die Formel Seehöhe in Metern/1000 angewendet werden. Für geosynthetische Drainelemente ist die ÖNORM S 2082 „Deponien – Oberflächenabdeckungen – Systemanforderungen“, Punkt 4.4, ausgegeben am 1. Dezember 2011, anzuwenden.
 
 - c) Ein Nachweis über die langfristige hydraulische Wirksamkeit und Leistungsfähigkeit des Systems unter Berücksichtigung des Sickerwasseranfalls ist jedenfalls zu führen.
 
@@ -268,7 +268,7 @@ Vorgaben zur Installierung eines Qualitätssicherungssystems sind in Abhängigke
 
 - b) Mineralische Dichtungsschichten dürfen nicht bei Wetterlagen hergestellt werden, die einer Einhaltung der Einbaukriterien entgegenstehen. Die fertig gestellte mineralische Dichtungsschicht ist sorgfältig vor Pfützenbildung, Austrocknung und Rissbildung, Frosteinwirkung, Oberflächenerosion und mechanischer Beschädigung zu schützen. Das Niederschlagswasser ist mit ausreichender Vorflut abzuführen.
 
-- c) Für Kunststoffdichtungsbahnen ist eine Gütesicherung der Verlegung sowie eine Prüfung der Schweißnähte auf Dichtheit und Festigkeit gemäß ÖNORM S 2076-1 „Deponien – Dichtungsbahnen aus Kunststoff – Verlegung“, ausgegeben am 1. Oktober 1999, vorzunehmen.
+- c) Für Kunststoffdichtungsbahnen ist eine Gütesicherung der Verlegung sowie eine Prüfung der Schweißnähte auf Dichtheit und Festigkeit gemäß ÖNORM S 2076-1 „Deponien – Dichtungssysteme mit Abdichtungsbahnen aus Kunststoff – Teil 1: Verlegung“, ausgegeben am 1. Mai 2009, vorzunehmen.
 
 - d) Die Ergebnisse sämtlicher Eignungs-, Kontroll- und Abnahmeprüfungen sind derart zu dokumentieren, dass Art und Ergebnis jeder einzelnen Prüfung nachvollzogen werden können, und sind der Behörde auf Verlangen vorzulegen.
 
@@ -350,11 +350,11 @@ Die Verwendung von Deponiesickerwasser ist nur zu betrieblichen Zwecken im jewei
 
 - b) Zur Staubminimierung unter folgenden Voraussetzungen:
 
-- - Die Verwendung von Deponiesickerwasser erfolgt nur im unbedingt nötigen Ausmaß.
+- – Die Verwendung von Deponiesickerwasser erfolgt nur im unbedingt nötigen Ausmaß.
 
-- - Die Qualität des Deponiesickerwassers muss, erforderlichenfalls nach Vorbehandlung (zB Absetzen, Belüften), den Einleitbedingungen in ein Fließgewässer genügen. Dazu abweichend kann der Abdampfrückstand des Sickerwassers gemessen und die jährlich durch das verwendete Deponiesickerwasser in den Deponiekörper rückgeführte Salzfracht berechnet werden. Die rückgeführte Salzfracht darf nicht mehr als 10% der geschätzten, jährlichen mit den deponierten Abfällen eingebrachten Salzfracht betragen. Diese Abschätzung ist den Ergebnissen des Mess- und Überwachungsprogramms (§ 37 Abs. 2) anzuschließen.
+- – Die Qualität des Deponiesickerwassers muss, erforderlichenfalls nach Vorbehandlung (zB Absetzen, Belüften), den Einleitbedingungen in ein Fließgewässer genügen. Dazu abweichend kann der Abdampfrückstand des Sickerwassers gemessen und die jährlich durch das verwendete Deponiesickerwasser in den Deponiekörper rückgeführte Salzfracht berechnet werden. Die rückgeführte Salzfracht darf nicht mehr als 10% der geschätzten, jährlichen mit den deponierten Abfällen eingebrachten Salzfracht betragen. Diese Abschätzung ist den Ergebnissen des Mess- und Überwachungsprogramms (§ 37 Abs. 2) anzuschließen.
 
-- - Negative Wechselwirkungen zwischen dem eingesetzten Deponiesickerwasser und den abgelagerten Abfällen können ausgeschlossen werden (zB aufgrund hoher Sulfatgehalte des Deponiesickerwassers).
+- – Negative Wechselwirkungen zwischen dem eingesetzten Deponiesickerwasser und den abgelagerten Abfällen können ausgeschlossen werden (zB aufgrund hoher Sulfatgehalte des Deponiesickerwassers).
 
 Die Verwendung von Konzentraten aus der Sickerwasserbehandlung ist jedenfalls unzulässig.
 

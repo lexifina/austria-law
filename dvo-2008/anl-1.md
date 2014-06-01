@@ -6,7 +6,7 @@ Allgemeines
 
 Für die Untersuchung und Beurteilung, ob die Grenzwerte – gegebenenfalls nach Maßgabe des § 8 – eingehalten werden, ist der Anhang 4 – und gegebenenfalls der Anhang 5 – anzuwenden.
 
-Abfälle dürfen in allen Deponie(unter)klassen ohne Untersuchung des Phenolindex oder der organischen Summenparameter PAK oder BTEX angenommen und abgelagert werden, wenn kein Verdacht auf eine entsprechende Kontaminiation besteht; bei Gleisschotter ist jedenfalls der Verdacht auf eine Kontamination auf PAK gegeben.
+Abfälle dürfen in allen Deponie(unter)klassen ohne Untersuchung von BTEX, POX und PCB (jeweils als Gesamtgehalt) sowie anionenaktiven Tensiden im Eluat angenommen und abgelagert werden, wenn kein Verdacht auf eine Verunreinigung besteht.
 
 ### Tabelle 1:
 
