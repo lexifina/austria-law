@@ -1,10 +1,10 @@
 Artikel 81b. (1) Die Landesschulräte haben gereihte Dreiervorschläge zu erstatten
 
-  - a) für die Besetzung der Dienstposten des Bundes für Schulleiter, sonstige Lehrer und Erzieher an den den Landesschulräten unterstehenden Schulen und Schülerheimen,
+- a) für die Besetzung der Dienstposten des Bundes für Schulleiter, sonstige Lehrer und Erzieher an den den Landesschulräten unterstehenden Schulen und Schülerheimen,
 
-  - b) für die Besetzung der Dienstposten des Bundes für die bei den Landes- und Bezirksschulräten tätigen Schulaufsichtsbeamten sowie für die Betrauung von Lehrern mit Schulaufsichtsfunktionen,
+- b) für die Besetzung der Dienstposten des Bundes für die bei den Landesschulräten tätigen Schulaufsichtsbeamten sowie für die Betrauung von Lehrern mit Schulaufsichtsfunktionen.
 
-  - c) für die Bestellung der Vorsitzenden und der Mitglieder der Prüfungskommissionen für das Lehramt an Hauptschulen und an Sonderschulen.
+(Anm.: lit. c aufgehoben durch BGBl. I Nr. 164/2013)
 
 (2) Die Vorschläge nach Abs. 1 sind an den gemäß Art. 66 Abs. 1 oder Art. 67 Abs. 1 oder auf Grund sonstiger Bestimmungen zuständigen Bundesminister zu erstatten. Die Auswahl unter den vorgeschlagenen Personen obliegt dem Bundesminister.
 
