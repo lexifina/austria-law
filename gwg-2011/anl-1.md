@@ -4,36 +4,38 @@
 
 ### Verteilerleitungsanlagen der Netzebene 1
 
-- 1. die EVN-West, Fortsetzung bis zu den Speichern Thann und Puchkirchen (Westschiene);
+- 1. die Westleitungen 2 und 4 in Niederösterreich, Fortsetzung der Westleitung 4 in Oberösterreich. bis zu den Speicheranlagen Thann, Puchkirchen, 7Fields und Haidach (Westschiene);
 
-- 2. die EVN-Süd, Fortsetzung bis TAG-Weitendorf (Südschiene);
+- 2. die Südleitung 2 bis Wr. Neustadt Knoten und die Südleitung 3 bis Eggendorf, Fortsetzung der Südleitung 3 in die Steiermark bis TAG-Weitendorf (Südschiene);
 
-- 3. die Pyhrnleitung, Fortsetzung im steiermärkischen Netz bis zu der unter Z 2 benannten Leitung;
+- 3. die Pyhrnleitung, beginnend in Krift Oberösterreich und Fortsetzung im steiermärkischen Netz als Verbindungsleitung zwischen den unter Z 1 und Z 2 benannten Leitungen;
 
-- 4. die Leitung zwischen Reitsham und der Anbindungsleitung des Speichers Puchkirchen;
+- 4. die Leitung zwischen Reitsham und Puchkirchen als Verbindungsleitung zu den unter Z 1 genannten Leitungen;
 
-- 5. die Leitung zwischen WAG-Rainbach und der Anbindungsleitung der Speicher Thann und Puchkirchen;
+- 5. die Leitung zwischen WAG-Rainbach und die unter Z 1 genannten Leitungen;
 
-- 6. die Verbindungsleitung Reichersdorf bis Eggendorf;
+- 6. die Leitung Südwest zwischen Reichersdorf und Eggendorf als Verbindungsleitung der unter Z 1 und Z 2 genannten Leitungen;
 
 - 7. die Leitung EGO zwischen Eggendorf und Lichtenwörth;
 
-- 8. die Leitung Ost;
+- 8. die Leitung Ost bis Edelsthal;
 
-- 9. die Stichleitung Südost;
+- 9. die Stichleitung Südost bis Wilfleinsdorf;
 
 - 10. die Stichleitung Hornstein;
 
-- 11. die Stichleitung TAG zwischen Eggendorf OMV und Wr. Neustadt Knoten;
+- 11. die Stichleitung TAG zwischen Eggendorf GCA und Wr. Neustadt Knoten;
 
-- 12. die Leitung Nord zwischen OMV Laa/Thaya über die Messübergabeanlage Laa/Thaya West und Laa/Staatsgrenze;
+- 12. die Leitung Nord zwischen GCA Laa/Thaya über die Messübergabeanlage Laa/Thaya West und Laa/Staatsgrenze;
 
-- 13. die Leitung zwischen der WAG-Abzweigstation Bad Leonfelden und Linz;
+- 13. die Leitung zwischen der WAG-Abzweigstation Bad Leonfelden und der unter Z 5 genannten Leitung;
 
-- 14. das Primärverteilungssystem 2 (PVS 2), ds. die zur Verteilung bestimmten Leitungsanlagen des Primärverteilungssystems;
+- 14. das Primärverteilungssystem 2 (PVS 2), das sind die zur Verteilung bestimmten Leitungsanlagen des Primärverteilungssystems der GCA;
 
-- 15. die Abzweigstationen der OMV Gas GmbH auf TAG und WAG;
+- 15. die Abzweigstationen der Gas Connect Austria GmbH auf TAG und WAG;
 
-- 16. die Verbindungsleitung zwischen WAG-Abzweigstation Kirchberg und EVN-West
+- 16. die Verbindungsleitung zwischen WAG-Abzweigstation Kirchberg und den unter Z 1 genannten Leitungen;
 
-- 17. die Leitung zwischen der TAG-Abzweigestation St. Margarethen und der Hochdruckreduzierstation Fürstenfeld (Raabtalleitung)
+- 17. die Leitung zwischen der TAG-Abzweigstation St. Margarethen und der Hochdruckreduzierstation Fürstenfeld (Raabtalleitung);
+
+- 18. die Erdgas-Hochdruckleitung 076 Zagling – Kühschinken.

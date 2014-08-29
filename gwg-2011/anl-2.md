@@ -18,4 +18,4 @@
 
 - 7. die Kittsee-Petrzalka-Gasleitung (KIP).
 
-Das PVS 1 umfasst jene Leitungsteile im Sinne von § 7 Abs. 1 Z 15 der OMV Gas GmbH, die Verbindung mit dem slowakischen Netz herstellen oder die Erdgasleitungsanlagen in der Station Baumgarten miteinander verbinden, um eine zusammenhängende Entry/Exit-Zone im Marktgebiet zu gewährleisten, sofern sie nicht der TAG oder WAG zugeordnet sind.
+Das PVS 1 umfasst jene Leitungsteile im Sinne von § 7 Abs. 1 Z 15 der Gas Connect Austria GmbH, die Verbindung mit dem slowakischen Netz herstellen oder die Erdgasleitungsanlagen in der Station Baumgarten miteinander verbinden, um eine zusammenhängende Entry/Exit-Zone im Marktgebiet zu gewährleisten, sofern sie nicht der TAG oder WAG zugeordnet sind.
