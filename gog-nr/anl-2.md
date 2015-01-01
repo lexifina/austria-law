@@ -1,39 +1,89 @@
 ### Anlage 2 zum GOG
 
-## Bestimmungen für den Umgang mit und die Verteilung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union
+## Bestimmungen für die Unterrichtung und den Umgang mit Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen im Rahmen des Europäischen Stabilitätsmechanismus
 
-## (Verteilungsordnung-EU VO-EU)
+## (ESM-Informationsordnung)
 
-§ 1. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union stehen im Nationalrat auf elektronischem Wege zur Verfügung, sofern § 3 nichts anderes bestimmt.
+§ 1. Der zuständige Bundesminister hat den Nationalrat unverzüglich über alle Maßnahmen im Rahmen des Europäischen Stabilitätsmechanismus zu unterrichten, die die Haushaltsführung des Bundes berühren. Die Unterrichtung erfolgt insbesondere durch Informationen, Dokumente und Vorschläge für Beschlüsse betreffend
 
-§ 2. Die Mitglieder des Nationalrates, von den Klubs namhaft gemachte Personen und Bedienstete der Parlamentsdirektion haben Zugang zu Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union gemäß § 3 Z 1 bis 3, die in der Datenbank gemäß § 2 Abs. 1 und 2 EU-Informationsgesetz in der Fassung BGBl. I Nr. 113/2011 erfasst sind.
+- 1. die Auflösung des Notfallreservefonds gemäß Art. 4 Abs. 4 Vertrag zur Einrichtung des Europäischen Stabilitätsmechanismus (ESM-Vertrag),
 
-§ 3. Der Nationalrat beachtet die Sicherheitseinstufung der Organe der Europäischen Union über eine besondere Vertraulichkeit der Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union. Für die Erfassung und Verteilung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union sowie die Einsichtnahme in diese gelten die folgenden Bestimmungen:
+- 2. Schlussfolgerungen von Europäischer Kommission und EZB gemäß Art. 4 Abs. 4 ESM-Vertrag,
 
-- 1. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union werden in der EU-Datenbank erfasst und sind öffentlich zugänglich, sofern auf Grund der Z 2 bis 6 und § 5 nichts anderes bestimmt ist. Die Erfassung dieser Dokumente in der EU-Datenbank gilt als Verteilung im Sinne des Geschäftsordnungsgesetzes.
+- 3. Kapitalabrufe gemäß Art. 9 Abs. 1 und 2 sowie Regeln für Kapitalabrufe gemäß Art. 9 Abs. 4 ESM-Vertrag,
 
-- 2. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die nicht zur Veröffentlichung geeignet sind und nicht unter die Z 3 bis 6 fallen, werden in der EU-Datenbank erfasst und sind für die Mitglieder des Nationalrates, Personen, die zur Unterstützung ihrer parlamentarischen Aufgaben beschäftigt und in ihrem Auftrag tätig sind, von den Klubs namhaft gemachte Personen und zuständige Bedienstete der Parlamentsdirektion zugänglich. Die Erfassung dieser Dokumente in der EU-Datenbank gilt als Verteilung im Sinne des Geschäftsordnungsgesetzes.
+- 4. Veränderungen des genehmigten Stammkapitals und Anpassung des maximalen Darlehensvolumens gemäß Art. 10 Abs. 1 ESM-Vertrag,
 
-- 3. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Restreint UE/EU Restricted“ klassifiziert sind, werden in der EU-Datenbank erfasst und sind für die Mitglieder des Nationalrates, von den Klubs namhaft gemachte Personen und zuständige Bedienstete der Parlamentsdirektion zugänglich. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung an die Mitglieder des Hauptausschusses zu verteilen.
+- 5. Regeln für Kapitalveränderungen gemäß Art. 10 Abs. 2 ESM-Vertrag
 
-- 4. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Confidentiel UE/EU Confidential“ klassifiziert sind, werden an die Mitglieder der Präsidialkonferenz und jeweils zwei von den Klubs namhaft gemachte Personen, für die die Nennung einer Vertretung zulässig ist, übermittelt. Darüber hinaus liegen solche Dokumente für die Mitglieder des Nationalrates zur Einsichtnahme in der Parlamentsdirektion auf. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung an die Mitglieder des Hauptausschusses zu verteilen.
+- 6. Anträgen und Analysen gemäß Art. 13 Abs. 1 ESM-Vertrag,
 
-- 5. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Secret UE/EU Secret“ klassifiziert sind, werden an die Mitglieder der Präsidialkonferenz übermittelt. Darüber hinaus liegen solche Dokumente für jeweils zwei von den Klubs namhaft gemachte Personen bzw. deren Vertretung gemäß Z 4 zur Einsicht in der Parlamentsdirektion auf. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung für die Dauer der Sitzung an die Mitglieder des Hauptausschusses zu verteilen.
+- 7. die grundsätzliche Gewährung von Stabilitätshilfe durch den ESM gemäß Art. 13 Abs. 2 ESM-Vertrag,
 
-- 6. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die als „Très Secret UE/EU Top Secret“ klassifiziert sind, werden an die Mitglieder der Präsidialkonferenz übermittelt. Wird ein Vorhaben im Rahmen der Europäischen Union auf die Tagesordnung des Hauptausschusses gesetzt, sind die darauf Bezug habenden Unterlagen im Sinne dieser Bestimmung für die Dauer der Sitzung an die Mitglieder des Hauptausschusses zu verteilen.
+- 8. die Annahme einer Vereinbarung über die Finanzhilfefazilität nach Art. 13 Abs. 3 ESM-Vertrag,
 
-§ 4. (1) Wenn in einer Sitzung des Hauptausschusses Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union behandelt werden, die als „Secret UE/EU Secret“ oder „Très Secret UE/EU Top Secret“ klassifiziert sind, sind die anwesenden Mitglieder des Hauptausschusses vom Präsidenten des Nationalrates auf Wahrung der Vertraulichkeit zu vereidigen.
+- 9. Absichtserklärungen (Memorandum of Understanding) nach Art. 13 Abs. 3 ESM-Vertrag,
 
-(2) Über die Teilnahme von Personen, die nicht dem Hauptausschuss als Mitglieder angehören, oder deren Teilnahme sich nicht aus Art. 75 B-VG ergibt, entscheidet bei der Behandlung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen der Europäischen Union gemäß Abs. 1 der Hauptausschuss durch Beschluss. Personen, die aufgrund eines solchen Beschlusses an der Sitzung teilnehmen, sind vom Präsidenten auf die Wahrung der Vertraulichkeit zu vereidigen.
+- 10. Berichte nach Art. 13 Abs. 7 ESM-Vertrag,
 
-(3) Die gemäß § 3 Z 4 von den Klubs namhaft gemachten Personen sind über die Wahrung der Vertraulichkeit vom Präsidenten des Nationalrates zu belehren.
+- 11. Leitlinien gemäß Art. 14. Abs. 4, Art. 15 Abs. 4, Art. 16 Abs. 4, Art. 17 Abs. 4, Art. 18 Abs. 5 ESM-Vertrag,
 
-§ 5. Für den Umgang mit und die Verteilung von Dokumenten zu Vorhaben im Rahmen der Europäischen Union, die von österreichischen Organen erstellt wurden, gelten dieselben Bestimmungen wie für den Umgang mit und die Verteilung von jenen Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, auf die sie sich beziehen.
+- 12. Beibehaltung der Kreditlinien gemäß Art. 14 Abs. 5 ESM-Vertrag,
 
-§ 6. Vorlagen, Dokumente, Berichte, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union, die gemäß § 3 Z 2 bis 6 sowie § 5 nicht der Öffentlichkeit zugänglich sind, sollen der Öffentlichkeit gemäß § 3 Z 1 zur Verfügung gestellt werden, wenn die Umstände, die einer Veröffentlichung dieser Unterlagen entgegengestanden sind, weggefallen sind.
+- 13. Untersuchungen gemäß Art. 14 Abs. 6 ESM-Vertrag,
 
-§ 7. (1) Der Präsident des Nationalrates kann Vorschriften über die bei der Übermittlung und Verteilung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union zu beachtenden technischen Anforderungen sowie deren Kennzeichnung zur Wahrung der Vertraulichkeit erlassen.
+- 14. Auszahlungen gemäß Art. 15 Abs. 5, Art. 16 Abs. 5, Art. 17 Abs. 5 ESM-Vertrag,
 
-(2) Der Präsident des Nationalrates kann im Einzelfall nach Beratung in der Präsidialkonferenz von § 3 Z 2 bis 6 abweichende Regelungen hinsichtlich des Umganges mit und der Verteilung von Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union erlassen.
+(Anm.: Z 15 tritt in Kraft, sobald der Präsident des Nationalrates nach Beratung in der Präsidialkonferenz dem Bundeskanzler mitteilt, dass die erforderlichen bundesgesetzlichen Bestimmungen betreffend den Umgang mit sekundärmarktrelevanten Informationen in Kraft sind.)
 
-§ 8. Der Parlamentsdirektion obliegt die Erteilung von Auskünften über den Zugang der Öffentlichkeit zu Vorlagen, Dokumenten, Berichten, Informationen und Mitteilungen zu Vorhaben im Rahmen der Europäischen Union.
+- 16. Preisgestaltungsleitlinien gemäß Art. 20 Abs. 2 ESM-Vertrag,
+
+- 17. die Dividendenausschüttung und Dividendenleitlinien gemäß Art. 23 ESM-Vertrag
+
+- 18. Leitlinien und Vorschriften für Reservefonds gemäß Art. 24 Abs. 3 und 4 ESM-Vertrag,
+
+- 19. die Feststellung des Jahresabschlusses gemäß Art. 27 Abs. 1 ESM-Vertrag,
+
+- 20. Quartalsabschlüsse gemäß Art. 27 Abs. 2 ESM-Vertrag,
+
+- 21. die Übertragung der EFSF-Hilfen gemäß Art. 40 Abs. 1 und 2 ESM-Vertrag und
+
+- 22. Anträge auf Beitritt zum Europäischen Stabilitätsmechanismus gemäß Art. 44 ESM-Vertrag.
+
+§ 2. Der zuständige Bundesminister unterrichtet den Nationalrat weiters nach erfolgter Beschlussfassung in den Organen des Europäischen Stabilitätsmechanismus über
+
+- 1. die Bestellung des Vorsitzenden des Gouverneursrates gemäß Art. 5 Abs. 2 ESM-Vertrag,
+
+- 2. die Übertragung von Aufgaben gemäß Art. 5 Abs. 6 lit. m ESM-Vertrag,
+
+- 3. die Annahme der Satzung und Geschäftsordnungen gemäß Art. 5 Abs. 7 lit. c ESM-Vertrag,
+
+- 4. die Ernennung und Beendigung der Amtszeit des Geschäftsführenden Direktors gemäß Art. 7 ESM-Vertrag,
+
+- 5. Maßnahmen zur Beitreibung einer Schuld gemäß Art. 25 Abs. 2 und 3 ESM-Vertrag,
+
+- 6. die Ernennung der Mitglieder des Prüfungsausschusses gemäß Art. 30 Abs. 1 ESM-Vertrag,
+
+- 7. die Aufhebung der Immunität der österreichischen Vertreter in den Organen des Europäischen Stabilitätsmechanismus gemäß Art. 35 Abs. 2 ESM-Vertrag,
+
+- 8. die Anhängigmachung von Streitigkeiten beim Gerichtshof der Europäischen Union gemäß Art. 37 Abs. 3 ESM-Vertrag und
+
+- 9. Anpassungen gemäß Art. 44 ESM-Vertrag.
+
+§ 3. (1) Sobald feststeht, dass eine Vorlage gemäß § 74d Abs. 1 Z 1 Geschäftsordnungsgesetz betreffend einen Vorschlag für einen Beschluss einem Mitgliedstaat grundsätzlich Finanzhilfe zu gewähren in einer Sitzung des Ständigen Unterausschusses in ESM-Angelegenheiten als Tagesordnungspunkt behandelt werden soll, hat der zuständige Bundesminister dem Nationalrat im Wege des Präsidenten eine schriftliche Information mit einer Einschätzung des Antrags aus österreichischer Sicht zu übermitteln.
+
+(2) Die Übermittlung hat spätestens zwei Tage vor der geplanten Behandlung im Ständigen Unterausschuss in ESM-Angelegenheiten zu erfolgen.
+
+§ 4. Gleichzeitig mit dem jeweiligen Dokument gemäß § 1 und 2 sind Angaben zum Datum und Status des Dokuments sowie zur Sicherheitseinstufung durch Organe des Europäischen Stabilitätsmechanismus zu übermitteln.
+
+§ 5. (1) Nach Einlangen von Dokumenten gemäß § 1 bis 3 verfügt der Präsident deren unverzügliche Vervielfältigung und Verteilung an die Mitglieder des Ständigen Unterausschusses in ESM-Angelegenheiten sowie an jeweils eine von den Klubs namhaft gemachte Person, für die die Nennung einer Vertretung zulässig ist.
+
+(Anm.: Abs. 2 tritt in Kraft, sobald der Präsident des Nationalrates nach Beratung in der Präsidialkonferenz dem Bundeskanzler mitteilt, dass die erforderlichen bundesgesetzlichen Bestimmungen betreffend den Umgang mit sekundärmarktrelevanten Informationen in Kraft sind.)
+
+§ 6. Der zuständige Bundesminister hat dem Nationalrat gemäß Art. 50c Abs. 3 B-VG jeweils binnen einem Monat nach Ablauf des Kalendervierteljahres einen Bericht über die im Rahmen des Europäischen Stabilitätsmechanismus getroffenen Maßnahmen vorzulegen, in dem diese beschrieben und erläutert werden.
+
+§ 7. Vorlagen und Berichte gemäß § 74e Abs. 1 und 2 Geschäftsordnungsgesetz sowie Berichte gemäß Art. 50c Abs. 3 B-VG werden auch an jeweils eine von den Klubs namhaft gemachte Person, für die die Nennung einer Vertretung zulässig ist, verteilt.
+
+§ 8. Die gemäß § 5 und 7 von den Klubs namhaft gemachten Personen sowie die zuständigen Bediensteten der Parlamentsdirektion sind vom Präsidenten über die Wahrung der Vertraulichkeit zu belehren.
+
+§ 9. Informationen, Dokumente und Vorschläge für Beschlüsse gemäß § 1 und 2, die gemäß der Sicherheitseinstufung durch Organe des Europäischen Stabilitätsmechanismus nicht der Öffentlichkeit zugänglich sind, können der Öffentlichkeit zur Verfügung gestellt werden, wenn die Gründe für die Vertraulichkeit entfallen sind. Über den Zeitpunkt einer solchen Verlautbarung entscheiden die zuständigen Ständigen Unterausschüsse gemäß § 32f Geschäftsordnungsgesetz mit Beschluss.
