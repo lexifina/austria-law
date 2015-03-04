@@ -4,7 +4,7 @@
 
 ## Teil A: Rechtsakte in den Anhängen IV und XI der Richtlinie 2007/46/EG
 
-| Nr. | Genehmigungs-gegenstand | Nummer des Rechtsakts | Fundstelle im Amtsblatt der EG / EU | Zuletzt geändert durch Rechtsakt Nummer | Fundstelle im Amtsblatt der EG /EU |
+| Nr. | Genehmigungsgegenstand | Nummer des Rechtsakts | Fundstelle im Amtsblatt der EG / EU | Zuletzt geändert durch Rechtsakt Nummer | Fundstelle im Amtsblatt der EG /EU |
 
 | 0 | Rahmenrichtlinie | 2007/46/EG | L 263 vom 09.10.2007 S. 1 | Verordnung (EU) Nr. 214/2014 | L 69 vom 08.03.2014 S. 3 |
 
@@ -552,9 +552,9 @@
 
 ### Teil B: Rechtsakte in Anhang I der Richtlinie 2002/24/EG
 
-| Rubrik | Genehmigungs-gegenstand | Nummer der Richtlinie | Fundstelle im Amtsblatt der EG / EU | Zuletzt geändert durch Richtlinie Nummer | Fundstelle im Amtsblatt der EG / EU |
+| Rubrik | Genehmigungsgegenstand | Nummer der Richtlinie | Fundstelle im Amtsblatt der EG / EU | Zuletzt geändert durch Richtlinie Nummer | Fundstelle im Amtsblatt der EG / EU |
 
-| 0 | Rahmenrichtlinie | 2007/46/EG | L 263 vom 09.10.2007 S. 1 | Richtlinie 2013/60/EU | L 329 vom 10.12.2013 S. 15 |
+| 0 | Rahmenrichtlinie | 2002/24/EG | L 124 vom 09.05.2002 S. 1 | Richtlinie 2013/60/EU | L 329 vom 10.12.2013 S. 15 |
 
 | 1-17 | (nicht vergeben) |
 
@@ -654,7 +654,7 @@
 
 | kodifizierte Fassung 2009/63/EG | L 214 vom 19.8.2009, S. 23 |
 
-| 2.1. | Höchstgeschwindig-keit | 2009/60/EG Anhang I, Nummer 1 (kodifizierte Fassung) | L 198 vom 30.7.2009, S. 15 | keine Änderung |
+| 2.1. | Höchstgeschwindigkeit | 2009/60/EG Anhang I, Nummer 1 (kodifizierte Fassung) | L 198 vom 30.7.2009, S. 15 | keine Änderung |
 
 | 2.2. | Ladepritsche | 2009/60/EG Anhang I, Nummer 2 (kodifizierte Fassung) | L 198 vom 30.7.2009, S. 15 | 2010/62/EU (Inkrafttreten: 29.9.2013) | L 238 vom 9.9.2010, S 7 |
 
