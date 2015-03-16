@@ -38,13 +38,13 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 1 | Einführung, Verkehrsraum, wie Geltungsbereich der StVO 1960, des KFG 1967 und des FSG 1997, Verkehrszeichen, Bodenmarkierungen, Begriffe (Ortsgebiet, Freilandstraße, Einbahnstraße, Autobahn und Autostraße, Vorrangstraße, Schienenstraße, Wohnstraße, Fußgängerzone, Schutzweg, Eisenbahnkreuzung) |
 
-| 2 | Sinnesorgane, Partnerkunde, wie die Funktion des menschlichen Auges, das Gesichtsfeld, Sehschärfe im Gesichtsfeld, Bedeutung und Zeitbedarf der Blicksprünge, das Gehör - akustische Wahrnehmung, Gleichgewichtsorgan, Partner im Verkehr, wahrnehmbare Signale von Partnern, hinweisende Signale auf Partner, Gefahrenvermeidung durch frühzeitiges Erkennen von Gefahrenmöglichkeiten, bevorzugte Straßenbenützer, Vertrauensgrundsatz, Einteilung der Fahrzeuge |
+| 2 | Sinnesorgane, Partnerkunde, wie die Funktion des menschlichen Auges, das Gesichtsfeld, Sehschärfe im Gesichtsfeld, Bedeutung und Zeitbedarf der Blicksprünge, das Gehör – akustische Wahrnehmung, Gleichgewichtsorgan, Partner im Verkehr, wahrnehmbare Signale von Partnern, hinweisende Signale auf Partner, Gefahrenvermeidung durch frühzeitiges Erkennen von Gefahrenmöglichkeiten, bevorzugte Straßenbenützer, Vertrauensgrundsatz, Einteilung der Fahrzeuge |
 
 | 3 | Bewegung im Verkehrsraum, wie Verhalten bei Bodenmarkierungen, Kenntlichmachung des Straßenverlaufes, Lichtfarben auf der Fahrbahn, Fahrbahnrand, Fahrbahnmitte, Parallel-, Nachfolge- und Querverkehr, Rechtsfahrordnung, Nebeneinanderfahren, Wechsel des Fahrstreifens, Vorbeifahren, Linkszufahren, Umkehren und Rückwärtsfahren, Einordnen und Einbiegen, Ein- und Ausfahren, Ausweichen, Anhalten, Halten, Parken |
 
 | 4 | Verhaltensvorschriften in besonderen Verkehrsräumen, wie Ortsgebiet, Vorrangstraße, Einbahnstraße, Nebenfahrbahn, Kreisverkehr, Autobahn und Autostraße, Schienenstraße, Wohnstraße, Fußgängerzone, Verkehrsflächen, die eingeschränkt benützbar sind, Bedeutung der Arm- und Lichtzeichen, Vorrangregeln und deren Anwendung, Annähern und Übersetzen von Eisenbahnkreuzungen, Abstellen von Fahrzeugen, Absichern liegengebliebener Fahrzeuge, bevorzugte Straßenbenützer |
 
-| 5 | Anhalteweg, Wahl der Fahrgeschwindigkeit, Fahren auf Gefahrensicht, wie Reaktionszeit, Reaktionsweg und Berechnung, Bremsweg und Berechnung, Anhalteweg, Durchfahrzeit der schwungbelegten Strecke Vorschriften, Oberflächenbeschaffenheit der Fahrbahn, Kurvenfahren, Steigung und Gefälle, Beschleunigung - Geschwindigkeitsabbau, Gefahrenbremsung, Einflüsse von Beladung und Anhänger, Wechselwirkung von Fahrbahn - Witterung und Lenker – Umwelt Gefahrenstellen, Sichtweitenverringerung, Hilfen zur Entfernungsschätzung (Sekundenmethode), Fahren auf Gefahrensicht |
+| 5 | Anhalteweg, Wahl der Fahrgeschwindigkeit, Fahren auf Gefahrensicht, wie Reaktionszeit, Reaktionsweg und Berechnung, Bremsweg und Berechnung, Anhalteweg, Durchfahrzeit der schwungbelegten Strecke Vorschriften, Oberflächenbeschaffenheit der Fahrbahn, Kurvenfahren, Steigung und Gefälle, Beschleunigung – Geschwindigkeitsabbau, Gefahrenbremsung, Einflüsse von Beladung und Anhänger, Wechselwirkung von Fahrbahn – Witterung und Lenker – Umwelt Gefahrenstellen, Sichtweitenverringerung, Hilfen zur Entfernungsschätzung (Sekundenmethode), Fahren auf Gefahrensicht |
 
 | 6 | Hintereinanderfahren, wie Sicherheitsabstände, Ermittlung, Mindestabstand hinter Schienenfahrzeugen und hinter Fahrzeugen mit größeren Längsabmessungen, Annähern an Kreuzungen und Eisenbahnkreuzungen, Fahrstreifenverminderung |
 
@@ -60,7 +60,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 12 | Pflichten des Lenkers, wie Pflichten vor, während und nach der Fahrt, Überprüfung des Fahrzeuges auf Verkehrs- und Betriebssicherheit, soziale und ökologische Verantwortung, zusätzliche Pflichten |
 
-## 2. Theoretische Lehrinhalte für die A-Klassen, außer AM (8 Unterrichtseinheiten)
+## 2. Theoretische Lehrinhalte für die A-Klassen, außer AM (6 Unterrichtseinheiten)
 
 | Abschnitt | Lehrinhalt |
 
@@ -130,7 +130,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 1.4 | Elektrik, Elektronik, wie Hauptteile der elektrischen Anlage, wie Beleuchtungseinrichtungen, Signal- und Kontrolleinrichtungen, Vorrichtungen zum Freihalten des Gesichtsfeldes, Navigation |
 
-| 1.5 | Motor - Kühlung - Schmierung, wie motorenadäquates Tanken, Einflussgrößen des Energieverbrauchs, Auspuffgase von Verbrennungsmotoren, Motorkühlung, Motorschmierung (Systeme), Kontrolleinrichtungen, Pflege und Wartung, Störungen, alternative Antriebskonzepte und weitere neuen Entwicklungen |
+| 1.5 | Motor – Kühlung – Schmierung, wie motorenadäquates Tanken, Einflussgrößen des Energieverbrauchs, Auspuffgase von Verbrennungsmotoren, Motorkühlung, Motorschmierung (Systeme), Kontrolleinrichtungen, Pflege und Wartung, Störungen, alternative Antriebskonzepte und weitere neuen Entwicklungen |
 
 | 1.6 | Kraftübertragung, wie Kupplung, Störungen, Schaltgetriebe, automatische und halbautomatische Getriebe, Differential, Antriebsarten |
 
@@ -140,7 +140,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 2 | Fahrdynamische Grundlagen, wie Aufgaben des Reifens, Radlast und Reibungswert, Reibungskraft, Einflüsse durch Bau- und Antriebsart, Auswirkungen der Beladung, Einflüsse durch Seitenwind und Anhängerbetrieb, Schleudern, Schieben, Blockieren, Wasserkeilbildung, Aquaplaning Strategien zur Vermeidung instabiler Fahrzustände |
 
-| 3 | Lenkberechtigung, wie Umfang der Lenkberechtigung der Klasse B und anderer Klassen Geltungsbereich der RL 2006/126/EG - nationale Klassen, Klassen mit Geltung im EWR, Lenkberechtigung auf Probe, Pflichten des Lenkers, ähnliche Dokumente |
+| 3 | Lenkberechtigung, wie Umfang der Lenkberechtigung der Klasse B und anderer Klassen Geltungsbereich der RL 2006/126/EG – nationale Klassen, Klassen mit Geltung im EWR, Lenkberechtigung auf Probe, Pflichten des Lenkers, ähnliche Dokumente |
 
 | 3.1 | Anhängerbestimmungen, wie Veränderung des Fahrverhaltens, Vorschriften, Anhängevorrichtung, Beleuchtungs- und Signaleinrichtung, Bremsausrüstung, Zusatzausrüstung, Höchstgeschwindigkeit, Ankuppeln, Abkuppeln, Abstellen |
 
