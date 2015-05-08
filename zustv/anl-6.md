@@ -1,7 +1,5 @@
-### Anlage 6
+### Anlage 6 (§ 13)
 
-### (§ 13)
+## Zulassungsbescheinigung
 
-/Dokumente/Bundesnormen/NOR40122655/image001.png
-
-/Dokumente/Bundesnormen/NOR40122655/image002.jpg
+(Anm.: Anlage 6 als PDF dokumentiert)
