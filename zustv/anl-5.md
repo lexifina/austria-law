@@ -1,5 +1,5 @@
-### Anlage 5
+### Anlage 5 (§ 12 Abs. 3)
 
-### (§ 12 Abs. 3)
+## Antrag auf Abmeldung/Hinterlegung
 
-/Dokumente/Bundesnormen/NOR12159190/image001.png
+(Anm.: Anlage 5 als PDF dokumentiert)

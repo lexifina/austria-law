@@ -62,6 +62,8 @@
 
 | 74 | zur Verwendung im Bereich der Bergrettung bestimmt |
 
+| 79 | zur Verwendung im Bereich des Bundesheeres oder der Heeresverwaltung bestimmt |
+
 | 80 | zur Verwendung für Fahrten des Bundespräsidenten bei feierlichen Anlässen bestimmt |
 
 | 81 | zur Verwendung für Staatsfunktionäre bestimmt |
