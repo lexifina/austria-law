@@ -1,5 +1,5 @@
 ### Anlage 7
 
-### (§ 11 Abs. 4, § 13 Abs. 3)
+## Prüfnachweis gemäß §§ 24, 24a KFG 1967
 
 (Anm.: Anlage 7 ist als PDF dokumetiert.)
