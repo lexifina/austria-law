@@ -26,7 +26,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | umgebogen, beschädigt | LM, SM |
 
-| entspricht nicht den Fahrzeugdokumenten oder -aufzeichnungen | VM, SM |
+| entspricht nicht den Fahrzeugdokumenten oder aufzeichnungen | VM, SM |
 
 | 0.2 | Fahrzeugidentifizierungsnummer |
 
@@ -36,7 +36,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nicht original | SM |
 
-| entspricht nicht den Fahrzeugdokumenten oder -aufzeichnungen | SM |
+| entspricht nicht den Fahrzeugdokumenten oder aufzeichnungen | SM |
 
 | 0.3 | Motortype |
 
@@ -142,7 +142,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | übermäßige Leckage | SM, GV |
 
-| Schutzklappe für Anhängeranschluss fehlt | SM |
+| Schutzklappe für Anhängeranschluss fehlt | LM, SM |
 
 | mangelhafte Funktion | SM, GV |
 
@@ -230,7 +230,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Trommel oder Scheibe verschmutzt (Öl, Fett usw.) | SM, GV |
 
-| fehlende Bremstrommel oder -scheibe | GV |
+| fehlende Bremstrommel oder scheibe | GV |
 
 | Ankerplatte ungenügend gesichert | SM |
 
@@ -240,7 +240,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Betätigungskräfte zu groß, schwergängig | LM, SM |
 
-| Seile beschädigt, unsachgemäß verlegt | SM, GV | z.B.: verknotet |
+| Seile beschädigt, unsachgemäß verlegt | SM, GV | z. B.: verknotet |
 
 | Ausfallgefahr | GV |
 
@@ -300,11 +300,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | undicht | SM, GV |
 
-| Typenschild fehlt | VM | z.B.: ALB-Schild fehlt wenn vorgeschrieben |
+| Typenschild fehlt | VM | z. B.: ALB-Schild fehlt wenn vorgeschrieben |
 
 | Daten unleserlich oder nicht vorschriftsmäßig | VM |
 
-| 1.1.18 | Automatische Gestängesteller und -anzeige |
+| 1.1.18 | Automatische Gestängesteller und anzeige |
 
 | Gestängesteller beschädigt, klemmt oder weist übermäßige Wege, übermäßigen Verschleiß oder falsche Einstellung auf | SM, GV |
 
@@ -324,7 +324,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Anhängerbremse setzt nicht automatisch ein, wenn Kupplung gelöst wird | GV |
 
-| Abreißverbindung schadhaft oder fehlt | SM | z.B.: Abreißseil bei Auflaufbremsen oder elektrischer Anhängerbremse |
+| Abreißverbindung schadhaft oder fehlt | SM | z. B.: Abreißseil bei Auflaufbremsen oder elektrischer Anhängerbremse |
 
 | Staubmanschette beschädigt oder fehlt | LM, SM |
 
@@ -338,7 +338,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 1.1.21 | Vollständiges Bremssystem |
 
-| andere Systembauteile derart äußerlich beschädigt oder korrodiert, dass das Bremssystem beeinträchtigt ist | SM, GV | z.B. Frostschutzmittelpumpe, Lufttrockner usw. |
+| andere Systembauteile derart äußerlich beschädigt oder korrodiert, dass das Bremssystem beeinträchtigt ist | SM, GV | z. B. Frostschutzmittelpumpe, Lufttrockner usw. |
 
 | Luft- oder Frostschutzmittelaustritt | LM, SM |
 
@@ -376,7 +376,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 1.2.2 | Wirksamkeit |
 
-| Abbremswirkung, bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten, wenn durchführbar, von weniger als den unten angegebenen Werten. | SM | Anmerkung: Hochrechnung bzw. Ballastierung ist nicht erforderlich bei Fahrzeugen der Klassen M1, N1, O1 und O2. Hochrechnung bzw. Ballastierung ist außerdem nicht erforderlich bei Fahrzeugen der Klassen M2, M3, N2, N3, O3 und O4, wenn nachgewiesen wird, dass das Fahrzeug zum Zeitpunkt der Prüfung alle Bestimmungen über die Verteilung der Bremskraft auf die Achsen und über die Kompatibilität zwischen Zugfahrzeugen und Anhängern im vorgeführten Zustand einhält ("EG-Bremsbänder"). Die Ballastierung oder Niederspannung ist außerdem nicht erforderlich, wenn die Prüfmasse 80 % des technischen Höchstgewichtes beträgt. |
+| Abbremswirkung, bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten, wenn durchführbar, von weniger als den unten angegebenen Werten. | SM | Anmerkung: Hochrechnung bzw. Ballastierung ist nicht erforderlich bei Fahrzeugen der Klassen M1, N1, O1 und O2. Hochrechnung bzw. Ballastierung ist außerdem nicht erforderlich bei Fahrzeugen der Klassen M2, M3, N2, N3, O3 und O4, wenn nachgewiesen wird, dass das Fahrzeug zum Zeitpunkt der Prüfung alle Bestimmungen über die Verteilung der Bremskraft auf die Achsen und über die Kompatibilität zwischen Zugfahrzeugen und Anhängern im vorgeführten Zustand einhält („EG-Bremsbänder“). Die Ballastierung oder Niederspannung ist außerdem nicht erforderlich, wenn die Prüfmasse 80 % des technischen Höchstgewichtes beträgt. |
 
 | Mindestbremswirksamkeit |
 
@@ -496,7 +496,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Siedepunkt niedriger als 150°C/ Wassergehalt größer als 2 % | SM |
 
-| Bremsflüssigkeit unbrauchbar | GV | z.B. Verwendung nicht geeigneter Flüssigkeiten |
+| Bremsflüssigkeit unbrauchbar | GV | z. B. Verwendung nicht geeigneter Flüssigkeiten |
 
 | 2. | Lenkung |
 
@@ -576,13 +576,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Sperrvorrichtung auf Lenkradnabe fehlt | SM, GV |
 
-| Lenkradnabe, -kranz, oder -speichen gebrochen oder locker | SM, GV |
+| Lenkradnabe, kranz, oder speichen gebrochen oder locker | SM, GV |
 
 | offensichtliche Abänderungen | SM, GV, VM |
 
 | Befestigung mangelhaft | SM, GV |
 
-| 2.2.2 | Lenksäule/-bügel und -gabel |
+| 2.2.2 | Lenksäule/-bügel und gabel |
 
 | übermäßiger Aufwärts- oder Abwärtsweg des Lenkradzentrums | SM, GV |
 
@@ -626,7 +626,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 3.1 | Sichtfeld | Sichtfeld gemäß Richtlinie 77/649/EWG |
 
-| Behinderung des Sichtfelds des Fahrers, wodurch seine frontale oder seitliche Sicht beeinträchtigt wird | LM, SM, GV |
+| Behinderung des Sichtfelds des Fahrers, wodurch seine frontale oder seitliche Sicht beeinträchtigt wird (keinen Mangel stellen die gesetzlich vorgeschriebenen und ordnungsgemäß montierten Geräte zur Mauterfassung dar, wie zB Go Box, sofern diese am Rand des Hauptsichtbereichs des Lenkers oder außerhalb davon angebracht sind) | LM, SM, GV |
 
 | Mängel an der Sonnenblende | LM |
 
@@ -642,7 +642,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Windschutzscheibe im Hauptsichtbereich des Fahrers sichtbehindernd beschädigt oder gesprungen | SM, GV |
 
-| Nicht vorschriftsmäßige Einfärbung der Scheibe durch Folien oder Lacke, erhebliche Veränderung der Scheibenoberfläche | SM, VM | z.B. sandgestrahlte Fahrgestellidentifizierungsnummern zulässig |
+| Nicht vorschriftsmäßige Einfärbung der Scheibe durch Folien oder Lacke, erhebliche Veränderung der Scheibenoberfläche | SM, VM | z. B. sandgestrahlte Fahrgestellidentifizierungsnummern zulässig |
 
 | Windschutzscheibe außerhalb des Hauptsichtbereiches des Lenkers beschädigt oder gesprungen | LM, SM |
 
@@ -736,7 +736,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Summe der Kennzahlen über 100 | SM, VM |
 
-| Lichtquelle und Leuchte nicht kompatibel | SM, GV | z.B. H4 mit Zwischenringen, Gasentladungslampe in anderem als ECE-R98 Scheinwerfer |
+| Lichtquelle und Leuchte nicht kompatibel | SM, GV | z. B. H4 mit Zwischenringen, Gasentladungslampe in anderem als ECE-R98 Scheinwerfer |
 
 | Reflektor fehlt, blind oder verrostet | SM |
 
@@ -1122,7 +1122,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | gebrochen | GV |
 
-| Achsschenkelbolzen und/oder -buchse übermäßig abgenutzt | SM, GV |
+| Achsschenkelbolzen und/oder buchse übermäßig abgenutzt | SM, GV |
 
 | übermäßige Bewegung zwischen Achsschenkel und Achsträger | SM, GV |
 
@@ -1190,7 +1190,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Reifen scheuern an anderen Bauteilen | SM, GV |
 
-| nachgeschnittene Reifen nicht vorschriftsmäßig | SM, GV, VM | z.B. bei M1 oder L |
+| nachgeschnittene Reifen nicht vorschriftsmäßig | SM, GV, VM | z. B. bei M1 oder L |
 
 | Luftdrucküberwachungssystem defekt oder offensichtlich unwirksam | LM |
 
@@ -1204,7 +1204,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | fehlendes Geschwindigkeitssymbol, wenn Geschwindigkeitsindex des Winterreifens geringer als die Bauartgeschwindigkeit des Fahrzeuges | LM, VM |
 
-| unsachgemäß nachgeschnittene Reifen, | SM, GV | z.B. Karkasse am Nutengrund sichtbar |
+| unsachgemäß nachgeschnittene Reifen, | SM, GV | z. B. Karkasse am Nutengrund sichtbar |
 
 | unregelmäßige Abnützung der Lauffläche | LM |
 
@@ -1286,7 +1286,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 5.3.4 | Aufhängungsgelenke |
 
-| Achsschenkelbolzen und/oder -buchsen oder Aufhängungs-/ oder Traggelenke stark oder übermäßig abgenutzt, übermäßiges Spiel | SM, GV |
+| Achsschenkelbolzen und/oder buchsen oder Aufhängungs-/ oder Traggelenke stark oder übermäßig abgenutzt, übermäßiges Spiel | SM, GV |
 
 | Abdichtung porös, beschädigt oder fehlt | LM, SM |
 
@@ -1322,7 +1322,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | offensichtlich unsachgemäße Verbindungen | SM, GV |
 
-| mehrere Rahmennieten oder -schrauben gelockert oder gebrochen | SM, GV |
+| mehrere Rahmennieten oder schrauben gelockert oder gebrochen | SM, GV |
 
 | Schäden bei einzelnen Nieten oder Schrauben | LM |
 
@@ -1368,7 +1368,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | erforderliche Eintragungen der Herstellernummern der Kraftgastanks in Betriebsbuch fehlen | SM, VM |
 
-| erforderliche Eintragungen über wiederkehrende Überprüfungen der Kraftgastanks und wiederkehrende Begutachtungen der Kraftgasanlage im Betriebsbuch fehlen | SM, VM |
+| erforderliche Eintragungen über periodische Kontrollen der Kraftgastanks gemäß § 7 Versandbehälterverordnung 2011 – VBV 2011 (BGBl. II Nr. 458/2011) und über wiederkehrende Begutachtungen gemäß § 57a KFG im Betriebsbuch fehlen | SM, VM |
+
+| Kennzeichnungen der Antriebsart an der Fahrzeugaußenseite bei Fahrzeugen der Klassen M2 und M3 fehlen | LM |
 
 | mangelhafte Befestigung von Anlagenbauteilen | SM, GV |
 
@@ -1440,7 +1442,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Antriebsgelenke stark oder übermäßig abgenutzt | SM, GV |
 
-| flexible Kupplung (z.B. Hardyscheibe) beschädigt, Risse | SM, GV |
+| flexible Kupplung (z. B. Hardyscheibe) beschädigt, Risse | SM, GV |
 
 | Welle beschädigt oder verbogen | SM |
 
@@ -1882,9 +1884,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | b) oder, falls hierzu keine Angaben vorliegen, überschreiten HC-Gehalt und/oder CO-Emissionen folgende Werte |
 
-| i) bei Kraftfahrzeugen ohne modernes Abgasnachbehandlungssystem wie z.B. 3-Wege-Katalysatator mit Lambdasondenregelung HC-Gehalt über 600 ppm, CO-Gehalt über → 4,5 % für Kraftfahrzeuge mit erstmaliger Zulassung vor 1.1.1980 oder → 3,5 % für Kraftfahrzeuge mit erstmaliger Zulassung ab 1.1.1980 | SM |
+| i) bei Kraftfahrzeugen ohne modernes Abgasnachbehandlungssystem wie z. B. 3-Wege-Katalysatator mit Lambdasondenregelung HC-Gehalt über 600 ppm, CO-Gehalt über → 4,5 % für Kraftfahrzeuge mit erstmaliger Zulassung vor 1.1.1980 oder → 3,5 % für Kraftfahrzeuge mit erstmaliger Zulassung ab 1.1.1980 | SM |
 
-| ii) bei Kraftfahrzeugen mit modernem Abgasnachbehandlungssystem wie z.B. 3-Wege-Katalysatator mit Lambdasondenregelung je nach Datum der Erstzulassung oder Erstinbetriebnahme gemäß den einschlägigen Vorschriften HC-Wert über 60 ppm → bei Leerlauf des Motors: 0,5 % → bei erhöhter Leerlaufdrehzahl: 0,3 % oder für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 01. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220 /EWG idF. 98/69/EG oder später geänderten Fassungen ( d.h. ab EURO III) genehmigt wurden → bei Leerlauf des Motors: 0,3 % → bei erhöhter Leerlaufdrehzahl: 0,2 % | SM |
+| ii) bei Kraftfahrzeugen mit modernem Abgasnachbehandlungssystem wie z. B. 3-Wege-Katalysatator mit Lambdasondenregelung je nach Datum der Erstzulassung oder Erstinbetriebnahme gemäß den einschlägigen Vorschriften HC-Wert über 60 ppm → bei Leerlauf des Motors: 0,5 % → bei erhöhter Leerlaufdrehzahl: 0,3 % oder für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 01. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220 /EWG idF. 98/69/EG oder später geänderten Fassungen ( d.h. ab EURO III) genehmigt wurden → bei Leerlauf des Motors: 0,3 % → bei erhöhter Leerlaufdrehzahl: 0,2 % | SM |
 
 | c) Lambda außerhalb des Bereichs 1 ± 0,03 oder nicht in Übereinstimmung mit Herstellerangaben | SM |
 
@@ -1918,11 +1920,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | b) Sofern diese Information nicht verfügbar ist und der Absorptionsbeiwert folgende Werte überschreitet: |
 
-| i) bei Kraftfahrzeugen mit Saugmotor 2,5 m -1 | SM |
+| i) bei Kraftfahrzeugen mit Saugmotor 2,5 m 1 | SM |
 
-| ii) bei Kraftfahrzeugen mit Turbomotor 3,0 m -1 | SM |
+| ii) bei Kraftfahrzeugen mit Turbomotor 3,0 m 1 | SM |
 
-| iii) bei Kraftfahrzeugen, welche gem. den Grenzwerten Zeile B, Anh. I, Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO 4) genehmigt wurden oder welche gem. den Grenzwerten Zeile B1, Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder bei Kraftfahrzeugen mit einer erstmaligen Zulassung nach dem 1. Juli 2008 1,5 m -1 | SM |
+| iii) bei Kraftfahrzeugen, welche gem. den Grenzwerten Zeile B, Anh. I, Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO 4) genehmigt wurden oder welche gem. den Grenzwerten Zeile B1, Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder bei Kraftfahrzeugen mit einer erstmaligen Zulassung nach dem 1. Juli 2008 1,5 m 1 | SM |
 
 | 8.3 | Unterdrückung elektromagnetischer Interferenzen |
 
@@ -1931,10 +1933,6 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 | offensichtlich mangelhaft | SM |
 
 | 8.4 | Andere umweltrelevante Positionen |
-
-| jeglicher übermäßiger Flüssigkeitsaustritt mit möglicher Umweltschädigung oder Gefährdung anderer Verkehrsteilnehmer | LM, SM, GV |
-
-| Austritt gefährlicher Flüssigkeiten | SM, GV |
 
 | 8.4.1 | Flüssigkeitsverlust |
 
@@ -1972,7 +1970,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nicht vorschriftsmäßig | LM, SM, VM |
 
-| 9.2 | Antibeschlag- und -entfrostungssystem |
+| 9.2 | Antibeschlag- und entfrostungssystem |
 
 | mangelhafte Funktion | LM, SM |
 
@@ -2048,7 +2046,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 9.10.2 | Signaleinrichtungen und Sonderausstattung |
 
-| Signaleinrichtung oder Sonderausstattung fehlt oder nicht vorschriftsmäßig | SM, VM | z.B.: Schulbusse |
+| Signaleinrichtung oder Sonderausstattung fehlt oder nicht vorschriftsmäßig | SM, VM | z. B.: Schulbusse |
 
 | 9.11 | Vorschriften für die Beförderung von Personen mit Behinderungen |
 
