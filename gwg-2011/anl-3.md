@@ -6,7 +6,7 @@
 
 - 2. Netz Niederösterreich GmbH
 
-- 3. OÖ. Ferngas Netz GmbH
+- 3. Netz Oberösterreich GmbH
 
 - 4. Salzburg Netz GmbH
 
@@ -16,7 +16,7 @@
 
 - 7. Netz Burgenland Erdgas GmbH
 
-- 8. Gasnetz Steiermark GmbH
+- 8. Energienetze Steiermark GmbH
 
 - 9. KNG-Kärnten Netz GmbH
 
