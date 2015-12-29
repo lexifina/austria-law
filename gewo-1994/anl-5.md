@@ -82,99 +82,99 @@ Dieser Teil umfasst alle gefährlichen Stoffe, die unter die Gefahrenkategorien 
 
 | 1. Ammoniumnitrat (siehe Anmerkung 13) | 5000 | 10000 |
 
-| 1. Ammoniumnitrat (siehe Anmerkung 14) | 1250 | 5000 |
+| 2. Ammoniumnitrat (siehe Anmerkung 14) | 1250 | 5000 |
 
-| 2. Ammoniumnitrat (siehe Anmerkung 15) | 350 | 2500 |
+| 3. Ammoniumnitrat (siehe Anmerkung 15) | 350 | 2500 |
 
-| 3. Ammoniumnitrat (siehe Anmerkung 16) | 10 | 50 |
+| 4. Ammoniumnitrat (siehe Anmerkung 16) | 10 | 50 |
 
-| 4. Kaliumnitrat (siehe Anmerkung 17) | 5000 | 10000 |
+| 5. Kaliumnitrat (siehe Anmerkung 17) | 5000 | 10000 |
 
-| 5. Kaliumnitrat (siehe Anmerkung 18) | 1250 | 5000 |
+| 6. Kaliumnitrat (siehe Anmerkung 18) | 1250 | 5000 |
 
-| 6. Diarsenpentaoxid, Arsen(V)-Säure und/oder –Salze | 1 | 2 |
+| 7. Diarsenpentaoxid, Arsen(V)-Säure und/oder -Salze | 1 | 2 |
 
-| 7. Diarsentrioxid, Arsen (III)-Säure und/oder –Salze | 0,1 | 0,1 |
+| 8. Diarsentrioxid, Arsen(III)-Säure und/oder -Salze | 0,1 | 0,1 |
 
-| 8. Brom | 20 | 100 |
+| 9. Brom | 20 | 100 |
 
-| 9. Chlor | 10 | 25 |
+| 10. Chlor | 10 | 25 |
 
-| 10. Atemgängige pulverförmige Nickelverbindungen: Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickeldisulfid, Dinickeltrioxid | 1 | 1 |
+| 11. Atemgängige pulverförmige Nickelverbindungen: Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickeldisulfid, Dinickeltrioxid | 1 | 1 |
 
-| 11. Ethylenimin | 10 | 20 |
+| 12. Ethylenimin | 10 | 20 |
 
-| 12. Fluor | 10 | 20 |
+| 13. Fluor | 10 | 20 |
 
-| 13. Formaldehyd (C = 90%) | 5 | 50 |
+| 14. Formaldehyd (C = 90%) | 5 | 50 |
 
-| 14. Wasserstoff | 5 | 50 |
+| 15. Wasserstoff | 5 | 50 |
 
-| 15. Chlorwasserstoff (verflüssigtes Gas) | 25 | 250 |
+| 16. Chlorwasserstoff (verflüssigtes Gas) | 25 | 250 |
 
-| 16. Bleialkyle | 5 | 50 |
+| 17. Bleialkyle | 5 | 50 |
 
-| 17. Verflüssigte entzündbare Gase, Kategorie 1 oder 2 (einschließlich LPG) und Erdgas (siehe Anmerkung 19) | 50 | 200 |
+| 18. Verflüssigte entzündbare Gase, Kategorie 1 oder 2 (einschließlich LPG) und Erdgas (siehe Anmerkung 19) | 50 | 200 |
 
-| 18. Acetylen | 5 | 50 |
+| 19. Acetylen | 5 | 50 |
 
-| 19. Ethylenoxid | 5 | 50 |
+| 20. Ethylenoxid | 5 | 50 |
 
-| 20. Propylenoxid | 5 | 50 |
+| 21. Propylenoxid | 5 | 50 |
 
-| 21. Methanol | 500 | 5000 |
+| 22. Methanol | 500 | 5000 |
 
-| 22. 4,4-Methylen-bis (2-chloroanilin) und seine Salze, pulverförmig | 0,01 | 0,01 |
+| 23. 4,4-Methylen-bis (2-chloroanilin) und seine Salze, pulverförmig | 0,01 | 0,01 |
 
-| 23. Methylisocyanat | 0,15 | 0,15 |
+| 24. Methylisocyanat | 0,15 | 0,15 |
 
-| 24. Sauerstoff | 200 | 2000 |
+| 25. Sauerstoff | 200 | 2000 |
 
-| 25. 2, 4 – Toluylendiisocyanat, 2, 6 – Toluylendiisocyanat, | 10 | 100 |
+| 26. 2, 4 – Toluylendiisocyanat, 2, 6 – Toluylendiisocyanat, | 10 | 100 |
 
-| 26. Carbonylchlorid (Phosgen) | 0,3 | 0,75 |
+| 27. Carbonylchlorid (Phosgen) | 0,3 | 0,75 |
 
-| 27. Arsin (Arsentrihydrid) | 0,2 | 1 |
+| 28. Arsin (Arsentrihydrid) | 0,2 | 1 |
 
-| 28. Phosphin (Phosphortrihydrid) | 0,2 | 1 |
+| 29. Phosphin (Phosphortrihydrid) | 0,2 | 1 |
 
-| 29. Schwefeldichlorid | 1 | 1 |
+| 30. Schwefeldichlorid | 1 | 1 |
 
-| 30. Schwefeltrioxid | 15 | 75 |
+| 31. Schwefeltrioxid | 15 | 75 |
 
-| 31. Polychlordibenzofurane u. Polychlordibenzodioxine (einschließlich TCDD) in TCDD – Äquivalenten (siehe Anmerkung 20) | 0,001 | 0,001 |
+| 32. Polychlordibenzofurane u. Polychlordibenzodioxine (einschließlich TCDD) in TCDD – Äquivalenten (siehe Anmerkung 20) | 0,001 | 0,001 |
 
-| 32. Die folgenden KARZINOGENE oder Gemische, die die folgenden Karzinogene mit einer Konzentration von 5 Gewichts-% enthalten: 4Aminobi-phenyl und/oder seine Salze, Benzotrichlorid, Benzidin und/oder seine Salze, Bis(chlor-methyl)ether, Chlormethylmethyl-ether, 1,2Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethyl-carbamoylchlorid, 1,2Dibrom 3chlorpropan, 1,2Dimethyl-hydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2Naphthylamin und/oder seine Salze, 4Nitro-diphenyl und 1,3Propansulton | 0,5 | 2 |
+| 33. Die folgenden KARZINOGENE oder Gemische, die die folgenden Karzinogene mit einer Konzentration von 5 Gewichts-% enthalten: 4Aminobi-phenyl und/oder seine Salze, Benzotrichlorid, Benzidin und/oder seine Salze, Bis(chlor-methyl)ether, Chlormethylmethyl-ether, 1,2Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethyl-carbamoylchlorid, 1,2Dibrom 3chlorpropan, 1,2Dimethyl-hydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2Naphthylamin und/oder seine Salze, 4Nitro-diphenyl und 1,3Propansulton | 0,5 | 2 |
 
-| 33. Erdölerzeugnisse und alternative Kraftstoffe: a. Ottokraftstoffe und Naphtha b. Kerosin einschließlich Turbinenkraftstoffe c. Gasöle (einschließlich Dieselkraftstoffe, Heizöle und Gasölmischströme) d. Schweröle e. Alternative Kraftstoffe, die denselben Zwecken dienen und in Bezug auf Entflammbarkeit und Umwelt-gefährdung ähnliche Eigenschaften aufweisen wie die unter lit. a bis d genannten Erzeugnisse | 2500 | 25000 |
+| 34. Erdölerzeugnisse und alternative Kraftstoffe: a. Ottokraftstoffe und Naphtha b. Kerosin einschließlich Turbinenkraftstoffe c. Gasöle (einschließlich Dieselkraftstoffe, Heizöle und Gasölmischströme) d. Schweröle e. Alternative Kraftstoffe, die denselben Zwecken dienen und in Bezug auf Entflammbarkeit und Umweltgefährdung ähnliche Eigenschaften aufweisen wie die unter lit. a bis d genannten Erzeugnisse | 2500 | 25000 |
 
-| 34. Ammoniak, wasserfrei | 50 | 200 |
+| 35. Ammoniak, wasserfrei | 50 | 200 |
 
-| 35. Bortrifluorid | 5 | 20 |
+| 36. Bortrifluorid | 5 | 20 |
 
-| 36. Schwefelwasserstoff | 5 | 20 |
+| 37. Schwefelwasserstoff | 5 | 20 |
 
-| 37. Piperidin | 50 | 200 |
+| 38. Piperidin | 50 | 200 |
 
-| 38. Bis(2-dimethylaminoethyl)methylamin | 50 | 200 |
+| 39. Bis(2-dimethylaminoethyl)methylamin | 50 | 200 |
 
-| 39. 3-(2-Ethylhexyloxy)propylamin | 50 | 200 |
+| 40. 3-(2-Ethylhexyloxy)propylamin | 50 | 200 |
 
-| 40. Natriumhypochlorit-Gemische(*), die als gewässergefährdend — akut 1 [H400] eingestuft sind und weniger als 5 % Aktivchlor enthalten und in keine der anderen Gefahrenkategorien in dieser Anlage Teil 1 eingestuft sind (*) Vorausgesetzt das Gemisch wäre ohne Natriumhypochlorit nicht als gewässergefährdend – akut 1 [H 400] eingestuft | 200 | 500 |
+| 41. Natriumhypochlorit-Gemische(*), die als gewässergefährdend – akut 1 [H400] eingestuft sind und weniger als 5 % Aktivchlor enthalten und in keine der anderen Gefahrenkategorien in dieser Anlage Teil 1 eingestuft sind (*) Vorausgesetzt das Gemisch wäre ohne Natriumhypochlorit nicht als gewässergefährdend – akut 1 [H 400] eingestuft | 200 | 500 |
 
-| 41. Propylamin (siehe Anmerkung 21) | 500 | 2000 |
+| 42. Propylamin (siehe Anmerkung 21) | 500 | 2000 |
 
-| 42. tert-Butylacrylat (siehe Anmerkung 21) | 200 | 500 |
+| 43. tert-Butylacrylat (siehe Anmerkung 21) | 200 | 500 |
 
-| 43. 2-Methyl-3-butennitril (siehe Anmerkung 21) | 500 | 2000 |
+| 44. 2-Methyl-3-butennitril (siehe Anmerkung 21) | 500 | 2000 |
 
-| 44. Tetrahydro-3,5-Dimethyl-1,3,5-thiadiazin-2-thion (Dazomet) (siehe Anmerkung 21) | 100 | 200 |
+| 45. Tetrahydro-3,5-Dimethyl-1,3,5-thiadiazin-2-thion (Dazomet) (siehe Anmerkung 21) | 100 | 200 |
 
-| 45. Methylacrylat (siehe Anmerkung 21) | 500 | 2000 |
+| 46. Methylacrylat (siehe Anmerkung 21) | 500 | 2000 |
 
-| 46. 3-Methylpyridin (siehe Anmerkung 21) | 500 | 2000 |
+| 47. 3-Methylpyridin (siehe Anmerkung 21) | 500 | 2000 |
 
-| 47. 1-Brom-3-chlorpropan (siehe Anmerkung 21) | 500 | 2000 |
+| 48. 1-Brom-3-chlorpropan (siehe Anmerkung 21) | 500 | 2000 |
 
 ### Anmerkungen zu Anlage 5
 
