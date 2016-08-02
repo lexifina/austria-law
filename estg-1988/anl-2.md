@@ -48,11 +48,11 @@ Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellsch
 
   - t) Gesellschaften österreichischen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Gesellschaft mit beschränkter Haftung“, „Versicherungsvereine auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaften“, „Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts“, „Sparkassen“ und andere nach österreichischem Recht gegründete Gesellschaften, die der österreichischen Körperschaftsteuer unterliegen;
 
-  - u) Gesellschaften polnischen Rechts mit der Bezeichnung: „spółka akcyjna“, „spółka z ograniczoną odpowiedzialnością“;
+  - u) Gesellschaften polnischen Rechts mit der Bezeichnung: ‚spółka akcyjna‘, ‚spółka z ograniczoną odpowiedzialnością‘, ‚spółka komandytowo-akcyjna‘;
 
   - v) die nach portugiesischem Recht gegründeten Handelsgesellschaften oder zivilrechtlichen Handelsgesellschaften, Genossenschaften und öffentlichen Unternehmen;
 
-  - w) Gesellschaften rumänischen Rechts mit der Bezeichnung „societăţi pe acţiuni“, „societăţi în comandită pe acţiuni“, „societăţi cu răspundere limitată“;
+  - w) Gesellschaften rumänischen Rechts mit der Bezeichnung: ‚societăți pe acțiuni‘, ‚societăți în comandită pe acțiuni‘, ‚societăți cu răspundere limitată‘, ‚societăți în nume colectiv‘, ‚societăți în comandită simplă‘;
 
   - x) Gesellschaften slowenischen Rechts mit der Bezeichnung „delniška družba“, „komanditna družba“, „družba z omejeno odgovornostjo“;
 
@@ -135,3 +135,5 @@ Z 1 lit. d, g, m, n, o, q, r, u, x und y sind auf Ausschüttungen anzuwenden, di
 Z 1 lit. c und w sind auf Ausschüttungen anzuwenden, die nach dem 31. Dezember 2006 erfolgen.
 
 Die Anlage 2 zu § 94 Z 2 EStG in der Fassung des Bundesgesetzes BGBl. I Nr. 13/2014 ist auf Ausschüttungen anzuwenden, die nach dem 30. Juni 2013 erfolgen.
+
+Die Anlage 2 zu § 94 Z 2 EStG in der Fassung des Bundesgesetzes BGBl. I Nr. 77/2016 ist auf Ausschüttungen anzuwenden, die nach dem 31. Dezember 2015 erfolgen.
