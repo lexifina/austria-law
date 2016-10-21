@@ -94,7 +94,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 1.14 | Motorradunfälle -- Unfallstatistik -- Typische Unfallsituationen -- Aktive Sicherheit -- Passive Sicherheit -- Strategien bei unvermeidbaren Unfällen (Alleinunfall – „Flucht ins Gelände“, Kollisionsunfall mit einem Unfallpartner) |
 
-| 1.15 | Risikokompetenz (Klasse A1: verpflichtend, Klassen A2 und A: fakultativ) -- Wahrnehmungs-, Beurteilungs- und Entscheidungskompetenz -- Risikofaktoren – Gefahren -- Körperliche Reaktionen in Risikosituationen -- Innehalten vor einer Risikosituation zur neuerlichen Beurteilung -- Konflikt zwischen Genauigkeit – Geschwindigkeit -- Anregungen zur Erlangung von Risikokompetenz |
+| 1.15 | Risikokompetenz -- Wahrnehmungs-, Beurteilungs- und Entscheidungskompetenz -- Risikofaktoren – Gefahren -- Körperliche Reaktionen in Risikosituationen -- Innehalten vor einer Risikosituation zur neuerlichen Beurteilung -- Konflikt zwischen Genauigkeit – Geschwindigkeit -- Anregungen zur Erlangung von Risikokompetenz |
 
 | 2 | Fahrtechnik und Fahrdynamik |
 

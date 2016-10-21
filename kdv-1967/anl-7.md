@@ -6,9 +6,9 @@
 
 ### Begehung eines Verkehrsdelikts in Österreich;
 
-### Zahlungsaufforderung; Informationsschreiben gemäß EU-Richtlinie 2011/82/EU;
+### Zahlungsaufforderung; Informationsschreiben gemäß EU-Richtlinie (EU) 2015/413;
 
-Am [Datum der Übertretung] wurde in Österreich durch den Lenker des Fahrzeuges mit dem Kennzeichen [Kennzeichen] ein die Straßenverkehrssicherheit gefährdendes Verkehrsdelikt im Sinne des Artikel 2 der EU-Richtlinie 2011/82/EU (Bezeichnung des Verkehrsdelikts gemäß Artikel 2 RL 2011/82/EU) begangen.
+Am [Datum der Übertretung] wurde in Österreich durch den Lenker des Fahrzeuges mit dem Kennzeichen [Kennzeichen] ein die Straßenverkehrssicherheit gefährdendes Verkehrsdelikt im Sinne des Artikel 2 der EU-Richtlinie (EU) 2015/413 (Bezeichnung des Verkehrsdelikts gemäß Artikel 2 RL (EU) 2015/413) begangen.
 
 Sie sind als Fahrzeughalter des genannten Fahrzeugs zum Zeitpunkt der Begehung des Verkehrsdelikts registriert.
 
@@ -46,7 +46,7 @@ Gegen die Zahlungsaufforderung bzw. gegen die Aufforderung zur Bekanntgabe des F
 
   - – Datum,Uhrzeit: …
 
-  - – Art und rechtliche Einstufung des Verkehrsdeliktes: [Bezeichnung gem. Artikel 2 RL 2011/82/EU; Amtsblatt der EU 288/12 vom 5.11.2011]
+  - – Art und rechtliche Einstufung des Verkehrsdeliktes: [Bezeichnung gem. Artikel 2 RL (EU) 2015/413; Amtsblatt der EU L 68/9 vom 13.03.2015]
 
   - – Österreichische Rechtsvorschriften: […]
 
@@ -94,9 +94,9 @@ Hinweise:
 
 | Als Halter des Kraftfahrzeuges …., (Kennzeichen: …) gebe ich bekannt, dass: |
 
-| /Dokumente/Bundesnormen/NOR40165836/image001.png folgende Person das Fahrzeug gelenkt hat (Bekanntgabe des Fahrzeuglenkers): |
+| /Dokumente/Bundesnormen/NOR40187200/image001.png folgende Person das Fahrzeug gelenkt hat (Bekanntgabe des Fahrzeuglenkers): |
 
-| /Dokumente/Bundesnormen/NOR40165836/image001.png Herr /Dokumente/Bundesnormen/NOR40165836/image001.png Frau: |
+| /Dokumente/Bundesnormen/NOR40187200/image001.png Herr /Dokumente/Bundesnormen/NOR40187200/image001.png Frau: |
 
 | Familienname: | … |
 
@@ -118,9 +118,9 @@ Hinweise:
 
 | Hinweis: | Sollte Ihnen die Person, die das Fahrzeug gelenkt oder verwendet hat, nicht bekannt sein, so füllen Sie bitte den nachstehenden Punkt aus |
 
-| /Dokumente/Bundesnormen/NOR40165836/image001.png folgende Person den Fahrzeuglenker benennen kann (Bekanntgabe der auskunftspflichtigen Person): |
+| /Dokumente/Bundesnormen/NOR40187200/image001.png folgende Person den Fahrzeuglenker benennen kann (Bekanntgabe der auskunftspflichtigen Person): |
 
-| /Dokumente/Bundesnormen/NOR40165836/image001.png Herr /Dokumente/Bundesnormen/NOR40165836/image001.png Frau: |
+| /Dokumente/Bundesnormen/NOR40187200/image001.png Herr /Dokumente/Bundesnormen/NOR40187200/image001.png Frau: |
 
 | Familienname: | … |
 

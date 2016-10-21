@@ -306,7 +306,7 @@
 
 | 166 | V | 48 | 48 | 48 | 46 | 15 | 15 | x | Abgasverhalten (T und C: Auspuffgas), Nummer der letzten Änderungsrichtlinie, ggf. Umsetzungsstufe | Siehe Anmerkungen 10 und 11; TB, EG |
 
-| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40165835/image001.png |
+| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40187197/image001.png |
 
 | 168 | V2 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), HC bzw. THC | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Summenwert „HC+NOx“ bzw. „THC+NOx“ bewertet, muss der Wert für „HC“ bzw. „THC“ nicht angegeben werden; TB |
 
@@ -687,8 +687,6 @@ Tabelle für die Kraftstoffarten:
 | 939 | selbstfahrende Arbeitsmaschine | -, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T5, C1, C2, C3, C4.1, C5 | selbstf. Arbeitsmaschine |
 
 | 957 | Anhänger-Arbeitsmaschine | -, O1, O2, O3, O4, S1a, S1b, S2a, S2b | Anhänger-Arbeitsmaschine |
-
-| 940 | Invalidenkraftfahrzeug | - | Invalidenkraftfahrzeug |
 
 | 941 | Spezialkraftwagen | - | Spezialkraftwagen |
 
