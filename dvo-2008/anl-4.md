@@ -22,7 +22,7 @@
 
 | 6. | Beurteilungswerte und Variabilitäten |
 
-| 7. | Grenzwertnaher Bereich, Toleranzbereich und –werte |
+| 7. | Grenzwertnaher Bereich, Toleranzbereich und -werte |
 
 | 8. | Änderung oder Ergänzung des konkreten Kompartiments |
 
@@ -48,7 +48,7 @@ Für die grundlegende Charakterisierung oder Übereinstimmungsbeurteilungen eine
 
 durch ein und dieselbe externe befugte Fachperson oder Fachanstalt, die dafür als Inspektionsstelle akkreditiert ist, vorzunehmen.
 
-Die befugte Fachperson oder Fachanstalt kann entweder die Analysen der Proben als akkreditierte Prüf- und Inspektionsstelle selbst durchführen, wenn die erforderlichen Bestimmungsmethoden in ihrem Akkreditierungsumfang enthalten sind, oder die Analysen sind im Subauftrag auf eigene Rechnung an eine dafür akkreditierte Prüfstelle zu vergeben. Bei Subaufträgen ist sicherzustellen, dass der beurteilenden Inspektionsstelle und den analysierenden Prüfstellen alle zur Interpretation der Analyseergebnisse erforderlichen Informationen verfügbar sind. Die Gesamtverantwortung für den Beurteilungsnachweis ist von der Inspektionsstelle zu tragen.
+Die befugte Fachperson oder Fachanstalt kann entweder die Analysen der Proben als akkreditierte Prüf- und Inspektionsstelle selbst durchführen, wenn die erforderlichen Bestimmungsmethoden in ihrem Akkreditierungsumfang enthalten sind, oder die Analysen sind im Subauftrag auf eigene Rechnung an eine dafür akkreditierte Prüfstelle zu vergeben. Bei Subaufträgen ist sicherzustellen, dass der beurteilenden Inspektionsstelle und den analysierenden Prüfstellen alle zur Interpretation der Analyseergebnisse erforderlichen Informationen verfügbar sind und dass die Prüfstelle die Analysenergebnisse im Wege des Registers gemäß § 22 Abs. 1 AWG 2002 hochlädt. Die Gesamtverantwortung für den Beurteilungsnachweis ist von der Inspektionsstelle zu tragen.
 
 Befugte Fachpersonen- oder Fachanstalten müssen die von ihnen erzielten Analysenergebnisse für die Beurteilungsnachweise im Wege des Registers gemäß § 22 Abs. 1 AWG 2002 hochladen. § 41a ist anzuwenden.
 
@@ -56,7 +56,7 @@ Befugte Fachpersonen- oder Fachanstalten müssen die von ihnen erzielten Analyse
 
 Auf Basis der Abfallinformation gemäß § 16 Abs. 1 sowie etwaiger weiterer Vorerhebungen ist durch die externe befugte Fachperson oder Fachanstalt vor der Beprobung ein Probenahmeplan zu erstellen und zu unterzeichnen. Die Mindestinhalte eines Probenahmeplans – abgeleitet von den Schlüsselelementen der ÖNORM EN 14899 „Charakterisierung von Abfällen – Probenahme von Abfällen – Rahmen für die Erstellung und Anwendung eines Probenahmeplans“, ausgegeben am 1. Februar 2006 – sind für die einzelnen Untersuchungsverfahren im Teil 2 festgelegt. Als Schlüsselparameter müssen bei Abfallströmen grenzwertrelevante und relevante Parameter festgelegt und entsprechend untersucht werden.
 
-Sofern eine Verteilung nach dem Zufallsprinzip festzulegen ist, zB die Verteilung von einzelnen zu beprobenden Tagen in einem Quartal im Zuge der Übereinstimmungsbeurteilung bei Abfallströmen, ist Anhang B der ÖNORM S 2127 „Grundlegende Charakterisierung von Abfallhaufen oder von festen Abfällen aus Behältnissen und Transportfahrzeugen“, ausgegeben am 1. November 2011, anzuwenden. Die Startziffern, mit denen die Zufallszahlen ermittelt wurden, sind im Probenahmeplan zu dokumentieren. Erfolgt die Probenahmeplanung mit Unterstützung durch das Elektronische Datenmanagement, so werden die erforderlichen Zufallszahlen durch die EDM-Software erzeugt.
+Sofern eine Verteilung nach dem Zufallsprinzip festzulegen ist, zB die Verteilung von einzelnen zu beprobenden Tagen in einem Quartal im Zuge der Übereinstimmungsbeurteilung bei Abfallströmen, ist Anhang B der ÖNORM S 2127 „Grundlegende Charakterisierung von Abfallhaufen oder von festen Abfällen aus Behältnissen und Transportfahrzeugen“, ausgegeben am 1. November 2011, für Abfälle aus der mechanisch-biologischen Abfallbehandlung Anhang C der ÖNORM S 2027-1 „Beurteilung von Abfällen aus der mechanisch-biologischen Abfallbehandlung – Teil 1: Probenahme“, ausgegeben am 1. Juni 2012, anzuwenden. Die Startziffern, mit denen die Zufallszahlen ermittelt wurden, sind im Probenahmeplan zu dokumentieren. Erfolgt die Probenahmeplanung mit Unterstützung durch das Elektronische Datenmanagement, so werden die erforderlichen Zufallszahlen durch die EDM-Software erzeugt.
 
 Im Zuge der Probenahmeplanung ist zu prüfen, ob Teile des zu charakterisierenden Abfalls getrennt zu erfassen und zu beurteilen sind, um zu verhindern, dass die Annahmekriterien der konkreten Kompartimente nur durch die gemeinsame Erfassung unterschiedlicher Abfallqualitäten eingehalten werden (Einhaltung des Vermischungsverbotes).
 
@@ -282,7 +282,7 @@ Es sind folgende Bestimmungsmethoden anzuwenden:
 
 - – ÖNORM EN ISO 9377-2 „Wasserbeschaffenheit – Bestimmung des Kohlenwasserstoff-Index – Teil 2: Verfahren nach Lösemittelextraktion und Gaschromatographie (ISO 9377-2:2000)“, ausgegeben am 1. Juni 2001
 
-- – ÖNORM L 1200 „Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Böden, Klärschlämmen und Komposten“, ausgegeben am 1. Jänner 2003
+- – ÖNORM L 1200 „Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Böden, Klärschlämmen und Komposten“, ausgegeben am 1. Jänner 2003, oder ÖNORM EN 15527 „Charakterisierung von Abfällen – Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Abfall mittels Gaschromatographie-Massenspektrometrie (GC/MS)“, ausgegeben am 1. September 2008
 
 - – ÖNORM EN ISO 22155 „Bodenbeschaffenheit – Gaschromatographische Bestimmung flüchtiger aromatischer Kohlenwasserstoffe, Halogenkohlenwasserstoffe und ausgewählter Ether – Statisches Dampfraumverfahren“ (ISO 22155:2011), ausgegeben am 15. April 2013
 
@@ -612,15 +612,15 @@ Die grundlegende Charakterisierung ist wie für einen sonstigen, einmalig anfall
 
 Ist eine Aushubtätigkeit von maximal 200 t auf Anordnung der Behörde durchgeführt worden (zB Ölunfall), kann unter folgenden Bedingungen auf die Erstuntersuchung von Sammelproben (gemäß Kapitel 1.8.) verzichtet und können die einzelnen Teilmengen direkt auf jene Parameter, die die Kontamination beschreiben, untersucht werden:
 
-- - Die Kontamination ist eindeutig bekannt (zB Mineralöl);
+- – Die Kontamination ist eindeutig bekannt (zB Mineralöl);
 
-- - Aufgrund der Kenntnis der Vornutzung des Aushubmaterials ist kein Verdacht auf eine weitere – bereits zuvor vorhandene – Kontamination zu besorgen;
+- – Aufgrund der Kenntnis der Vornutzung des Aushubmaterials ist kein Verdacht auf eine weitere – bereits zuvor vorhandene – Kontamination zu besorgen;
 
-- - Das kontaminierte Aushubmaterial wird auf einer Deponie für nicht gefährliche Abfälle abgelagert;
+- – Das kontaminierte Aushubmaterial wird auf einer Deponie für nicht gefährliche Abfälle abgelagert;
 
-- - Der Verzicht auf die Erstuntersuchung und die Festlegung der zu untersuchenden Parameter werden mit der anordnenden Behörde abgestimmt;
+- – Der Verzicht auf die Erstuntersuchung und die Festlegung der zu untersuchenden Parameter werden mit der anordnenden Behörde abgestimmt;
 
-- - Die Einhaltung dieser Bedingungen sowie die Abstimmung mit der anordnenden Behörde sind im jeweiligen Beurteilungsnachweis zu dokumentieren.
+- – Die Einhaltung dieser Bedingungen sowie die Abstimmung mit der anordnenden Behörde sind im jeweiligen Beurteilungsnachweis zu dokumentieren.
 
 ### 1.4. Grundlegende Charakterisierung von ausgewiesenen Flächen gemäß Altlastensanierungsgesetz
 
@@ -628,15 +628,15 @@ Aushubmaterialien von ausgewiesenen Flächen gemäß Altlastensanierungsgesetz s
 
 Im Falle der Untersuchung vor Beginn der Aushub- oder Abräumtätigkeit (in-situ) gemäß Kapitel 1.2. kann unter folgenden Bedingungen auf die Erstuntersuchung (gemäß Kapitel 1.2.) verzichtet und direkt jeder Anteil auf jene Parameter, die die Kontamination beschreiben, untersucht und eine entsprechende Zuordnung getroffen werden:
 
-- - Es liegen hinsichtlich der Art der Kontaminationen ausreichend Voruntersuchungen vor;
+- – Es liegen hinsichtlich der Art der Kontaminationen ausreichend Voruntersuchungen vor;
 
-- - Für jeden Aushubbereich werden zumindest zwei für diesen Aushubbereich typische qualifizierte Stichproben auf alle Parameter gemäß Teil 1 Kapitel 4 (Vollanalyse) untersucht;
+- – Für jeden Aushubbereich werden zumindest zwei für diesen Aushubbereich typische qualifizierte Stichproben auf alle Parameter gemäß Teil 1 Kapitel 4 (Vollanalyse) untersucht;
 
-- - Die grenzwertrelevanten Parameter können auf Basis der Voruntersuchungen und der ergänzenden Vollanalysen für jeden Aushubbereich zweifelsfrei festgelegt werden;
+- – Die grenzwertrelevanten Parameter können auf Basis der Voruntersuchungen und der ergänzenden Vollanalysen für jeden Aushubbereich zweifelsfrei festgelegt werden;
 
-- - Die Einschränkung des Parameterumfangs wird mit der für die Deponie, auf der die Ablagerung erfolgen soll, zuständigen Abfallbehörde abgestimmt;
+- – Die Einschränkung des Parameterumfangs wird mit der für die Deponie, auf der die Ablagerung erfolgen soll, zuständigen Abfallbehörde abgestimmt;
 
-- - Das Aushubmaterial wird auf einer Deponie für nicht gefährliche Abfälle abgelagert oder behandelt.
+- – Das Aushubmaterial wird auf einer Deponie für nicht gefährliche Abfälle abgelagert oder behandelt.
 
 Die Einhaltung dieser Bedingungen ist im jeweiligen Beurteilungsnachweis zu dokumentieren.
 
@@ -662,9 +662,9 @@ Auf Basis der Untersuchungsergebnisse dieser Hauptprobenahmestelle sowie der Vor
 
 Für die weiteren Untersuchungen des Tunnelausbruchmaterials eines abfallchemischen Tunnelabschnitts im Rahmen einer Übereinstimmungsbeurteilung ist nach der ersten Hauptprobenahmestelle zumindest alle
 
-    - - 100 Meter eine Nebenprobenahmestelle und
+    - – 100 Meter eine Nebenprobenahmestelle und
 
-    - - 1 000 Meter eine Hauptprobenahmestelle
+    - – 1 000 Meter eine Hauptprobenahmestelle
 
 festzulegen und zu beproben.
 
@@ -672,13 +672,13 @@ Für jede dieser Haupt- und Nebenprobenahmestellen sind aus maximal 200 t Tunnel
 
 Die Feldprobe einer Nebenprobenahmestelle ist zumindest auf folgende Parameter zu untersuchen:
 
-    - - im Eluat: Leitfähigkeit, pH-Wert, Ammonium-Stickstoff und TOC und, wenn für den Tunnelausbruch Sprengmittel eingesetzt werden, zusätzlich: Nitrat-Stickstoff und Nitrit-Stickstoff;
+    - – im Eluat: Leitfähigkeit, pH-Wert, Ammonium-Stickstoff und TOC und, wenn für den Tunnelausbruch Sprengmittel eingesetzt werden, zusätzlich: Nitrat-Stickstoff und Nitrit-Stickstoff;
 
-    - - im Feststoff: Kohlenwasserstoffindex;
+    - – im Feststoff: Kohlenwasserstoffindex;
 
-    - - alle weiteren Parameter, die in einer oder mehreren zuvor untersuchten Hauptprobenahmestelle(n) dieses abfallchemischen Tunnelabschnitts im grenzwertnahen Bereich der jeweiligen Grenzwerte oder darüber lagen;
+    - – alle weiteren Parameter, die in einer oder mehreren zuvor untersuchten Hauptprobenahmestelle(n) dieses abfallchemischen Tunnelabschnitts im grenzwertnahen Bereich der jeweiligen Grenzwerte oder darüber lagen;
 
-    - - alle weiteren Parameter, bei denen aufgrund der Vorkenntnisse oder der Voruntersuchungen eine Überschreitung von Grenzwerten oder eine negative Auswirkung auf das Deponieverhalten zu besorgen ist.
+    - – alle weiteren Parameter, bei denen aufgrund der Vorkenntnisse oder der Voruntersuchungen eine Überschreitung von Grenzwerten oder eine negative Auswirkung auf das Deponieverhalten zu besorgen ist.
 
 Die Feldproben der weiteren Hauptprobenahmestellen sind auf alle Parameter gemäß Teil 1, Kapitel 4 (Vollanalyse) zu untersuchen.
 
@@ -690,11 +690,11 @@ In Einzelfällen kann der Beurteilungswert einer Haupt- oder Nebenprobenahmestel
 
 Das Annahmeverfahren für einen konkreten abfallchemischen Tunnelabschnitt ist unmittelbar abzubrechen wenn:
 
-- - Die Feldprobe einer Haupt- oder Nebenprobenahmestelle den zweifachen Toleranzwert überschreitet; oder
+- – Die Feldprobe einer Haupt- oder Nebenprobenahmestelle den zweifachen Toleranzwert überschreitet; oder
 
-- - Der arithmetische Mittelwert des bisher untersuchten Tunnelbereichs den Grenzwert überschreitet; oder
+- – Der arithmetische Mittelwert des bisher untersuchten Tunnelbereichs den Grenzwert überschreitet; oder
 
-- - Die Feldproben von drei aufeinander folgenden Neben- oder Hauptprobenahmestellen den Grenzwert überschreiten.
+- – Die Feldproben von drei aufeinander folgenden Neben- oder Hauptprobenahmestellen den Grenzwert überschreiten.
 
 Soll das Tunnelausbruchmaterial weiter abgelagert werden, so kann unmittelbar ein neuer abfallchemischer Tunnelabschnitt definiert werden und auf Basis der Untersuchungsergebnisse der letzten Grenz- oder Toleranzwert überschreitenden Haupt- oder Nebenprobenahmestelle grundlegend charakterisiert werden. Dabei gelten als Beurteilungswerte die Untersuchungsergebnisse der letzten Probenahmestelle, bei der die Grenzwerte überschritten worden sind. Sofern diese eine Nebenprobenahmestelle war, sind die Untersuchungsergebnisse der letzten Hauptprobenahmestelle für die in der Nebenprobenahmestelle nicht untersuchten Parameter zu ergänzen. Auf Basis dieser Beurteilungswerte ist das Tunnelausbruchmaterial des neuen abfallchemischen Tunnelabschnitts – bei Einhaltung aller Grenzwerte – entweder einer Bodenaushubdeponie oder einem konkreten Kompartiment oder konkreten Kompartimentsabschnitt einer Bodenaushub-, Inertabfall-, Baurestmassen-, Reststoff- oder Massenabfalldeponie zuzuordnen. Die unmittelbar nächste Probenahmestelle des neuen abfallchemischen Tunnelabschnitts ist weiters als Hauptprobenahmestelle zu untersuchen.
 
@@ -776,11 +776,11 @@ Jeder festgelegte Aushubbereich ist getrennt gemäß Kapitel 1.2. mit folgenden 
 
 Zuordnung zu Aushubkategorien:
 
-- - Aushubbereiche von Gleisaushubmaterial sind grundsätzlich der Aushubkategorie III (als sonstiges Aushubmaterial) zuzuordnen;
+- – Aushubbereiche von Gleisaushubmaterial sind grundsätzlich der Aushubkategorie III (als sonstiges Aushubmaterial) zuzuordnen;
 
-- - Aushubbereiche des Untergrunds (VE 3) aus den Bereichen HE 1 oder HE 2 können auch der Aushubkategorie II (als nicht verunreinigtes Bodenaushubmaterial) zugeordnet werden;
+- – Aushubbereiche des Untergrunds (VE 3) aus den Bereichen HE 1 oder HE 2 können auch der Aushubkategorie II (als nicht verunreinigtes Bodenaushubmaterial) zugeordnet werden;
 
-- - Aushubbereiche (auch des Untergrunds) aus dem Bereich HE 3 sind bei Verdacht auf eine gefährliche Verunreinigung der Aushubkategorie IV zuzuordnen).
+- – Aushubbereiche (auch des Untergrunds) aus dem Bereich HE 3 sind bei Verdacht auf eine gefährliche Verunreinigung der Aushubkategorie IV zuzuordnen).
 
 Vorgaben für die Probenahme:
 
@@ -792,13 +792,13 @@ Vorgaben hinsichtlich der Zulässigkeit der Ablagerung:
 
 Eine Ablagerung von Gleisaushubmaterial aus Aushubbereichen, die der Aushubkategorie III zugeordnet worden sind, auf einer Bodenaushubdeponie ist unter folgenden Bedingungen zulässig:
 
-- - Das Material darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 68 mm) darf höchstens 20 Gewichtsprozent betragen;
+- – Das Material darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 68 mm) darf höchstens 20 Gewichtsprozent betragen;
 
-- - Das Material darf ausschließlich aus den horizontalen Bereichen der HE 1 oder HE 2 stammen, nicht jedoch aus Gleisbereichen von Ver- und Umladestellen oder -anlagen, Lokabstellgleisen, Umschlaganlagen oder Wartungs- und Betankungsgleisen;
+- – Das Material darf ausschließlich aus den horizontalen Bereichen der HE 1 oder HE 2 stammen, nicht jedoch aus Gleisbereichen von Ver- und Umladestellen oder -anlagen, Lokabstellgleisen, Umschlaganlagen oder Wartungs- und Betankungsgleisen;
 
-- - Nach der Erstuntersuchung muss eine Detailuntersuchung gemäß Kapitel 1.2. auf alle grenzwertrelevanten Parameter in Bezug auf die Grenzwerte für Bodenaushubdeponien durchgeführt werden, wobei die Parameter KW-Index, PAK (nach EPA) und Benzo[a]pyren (jeweils im Feststoff) jedenfalls als grenzwertrelevante Parameter zu untersuchen sind;
+- – Nach der Erstuntersuchung muss eine Detailuntersuchung gemäß Kapitel 1.2. auf alle grenzwertrelevanten Parameter in Bezug auf die Grenzwerte für Bodenaushubdeponien durchgeführt werden, wobei die Parameter KW-Index, PAK (nach EPA) und Benzo[a]pyren (jeweils im Feststoff) jedenfalls als grenzwertrelevante Parameter zu untersuchen sind;
 
-- - Es müssen alle Grenzwerte der Bodenaushubdeponie (Anhang 1, Tabelle 1 und 2) oder eines konkreten Kompartiments oder konkreten Kompartimentsabschnitts eingehalten werden.
+- – Es müssen alle Grenzwerte der Bodenaushubdeponie (Anhang 1, Tabelle 1 und 2) oder eines konkreten Kompartiments oder konkreten Kompartimentsabschnitts eingehalten werden.
 
 Vorgaben zur Dokumentation:
 
@@ -812,15 +812,15 @@ Die einzelnen Abfallchargen sind getrennt als sonstiger, einmalig anfallender Ab
 
 Die Ablagerung von Gleisaushubmaterial bei Untersuchung nach Beginn der Aushub- oder Abräumtätigkeit auf einer Bodenaushubdeponie ist unter folgenden Bedingungen zulässig:
 
-- - Die Abfallcharge an Gleisaushubmaterial darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 63mm) darf höchstens 20 Gewichtsprozent betragen;
+- – Die Abfallcharge an Gleisaushubmaterial darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 63mm) darf höchstens 20 Gewichtsprozent betragen;
 
-- - Der Anfallsort der gesamten Abfallcharge, die Zuordnung zu einem Gleisbereich gemäß Tabellen 3 und 4 der horizontalen Einteilung sowie die Zuordnung zu einer Kategorie der vertikalen Einteilung eines konkreten Gleisabschnitts müssen im Beurteilungsnachweis dokumentiert sein;
+- – Der Anfallsort der gesamten Abfallcharge, die Zuordnung zu einem Gleisbereich gemäß Tabellen 3 und 4 der horizontalen Einteilung sowie die Zuordnung zu einer Kategorie der vertikalen Einteilung eines konkreten Gleisabschnitts müssen im Beurteilungsnachweis dokumentiert sein;
 
-- - Das Material darf ausschließlich aus den horizontalen Bereichen der HE 1 oder HE 2 stammen, nicht jedoch aus Gleisbereichen von Ver- und Umladestellen oder -anlagen, Lokabstellgleisen, Umschlaganlagen oder Wartungs- und Betankungsgleisen;
+- – Das Material darf ausschließlich aus den horizontalen Bereichen der HE 1 oder HE 2 stammen, nicht jedoch aus Gleisbereichen von Ver- und Umladestellen oder -anlagen, Lokabstellgleisen, Umschlaganlagen oder Wartungs- und Betankungsgleisen;
 
-- - Es müssen für die Detailuntersuchung gemäß Kapitel 1.8. alle grenzwertrelevanten Parameter in Bezug auf die Grenzwerte für Bodenaushubdeponien, jedenfalls die Parameter PAK, KW-Index und Benzo[a]pyren (jeweils im Feststoff), untersucht werden;
+- – Es müssen für die Detailuntersuchung gemäß Kapitel 1.8. alle grenzwertrelevanten Parameter in Bezug auf die Grenzwerte für Bodenaushubdeponien, jedenfalls die Parameter PAK, KW-Index und Benzo[a]pyren (jeweils im Feststoff), untersucht werden;
 
-- - Es müssen alle Grenzwerte der Bodenaushubdeponie (Anhang 1, Tabelle 1 und 2) oder eines konkreten Kompartiments oder konkreten Kompartimentsabschnitts eingehalten werden.
+- – Es müssen alle Grenzwerte der Bodenaushubdeponie (Anhang 1, Tabelle 1 und 2) oder eines konkreten Kompartiments oder konkreten Kompartimentsabschnitts eingehalten werden.
 
 Die Ausnahmeregelung des Kapitels 1.3. hinsichtlich der Aushubtätigkeit von maximal 200 t auf Anordnung der Behörde (zB bei Ölunfällen) ist auch auf Gleisaushubmaterial anwendbar.
 
@@ -828,7 +828,7 @@ Die Ausnahmeregelung des Kapitels 1.3. hinsichtlich der Aushubtätigkeit von max
 
 Die grundlegende Charakterisierung sonstiger, einmalig anfallende Abfälle ist gemäß ÖNORM S 2127 „Grundlegende Charakterisierung von Abfallhaufen oder von festen Abfällen aus Behältnissen und Transportfahrzeugen“, ausgegeben am 1. November 2011, mit den in diesem Anhang festgelegten Rahmenbedingungen (insbesondere Parameterumfang und Grenzwerte) durchzuführen. Es gilt hierbei ein maximaler Beurteilungsmaßstab von 200 t, für nicht verunreinigtes Bodenaushubmaterial oder nicht verunreinigtes technisches Schüttmaterial gilt ein maximaler Beurteilungsmaßstab von 500 t (ausgenommen Gleisaushubmaterial).
 
-Für die Erstuntersuchung können die qualifizierten Stichproben von maximal 5 Teilmengen zu einer Sammelprobe vereinigt werden. Als Parameterumfang gelten zumindest alle Parameter des Teils 1 Kapitel 4 (Vollanalyse), für nicht verunreinigtes Bodenaushubmaterial oder nicht verunreinigtes technisches Schüttmaterial zumindest alle Parameter der Erstanalyse Boden gemäß Bundes-Abfallwirtschaftsplan 2011.
+Für die Erstuntersuchung können die qualifizierten Stichproben von maximal 5 Teilmengen zu einer Sammelprobe vereinigt werden. Als Parameterumfang gelten zumindest alle Parameter des Teils 1 Kapitel 4 (Vollanalyse), für nicht verunreinigtes Bodenaushubmaterial oder nicht verunreinigtes technisches Schüttmaterial zumindest alle Parameter der Erstanalyse Boden gemäß Teil 1 Kapitel 4.
 
 Nach der Erstuntersuchung sind alle Teilmengen auf grenzwertrelevanten Parameter zu untersuchen und entsprechende Beurteilungswerte zu bilden.
 
@@ -854,11 +854,11 @@ Probenahmeplanung:
 
 Im Zuge der Probenahmeplanung ist von der externen befugten Fachperson oder Fachanstalt zusätzlich festzulegen:
 
-- - das Datum, ab dem die anfallenden Abfallchargen von der Beurteilung umfasst sein sollen (Beginn des Beurteilungszeitraumes);
+- – das Datum, ab dem die anfallenden Abfallchargen von der Beurteilung umfasst sein sollen (Beginn des Beurteilungszeitraumes);
 
-- - die (maximale) Größe der getrennt zu beurteilenden Abfallchargen, die in sich eine möglichst homogene Verteilung der Schadstoffe erwarten lassen (zB einzelne, gemeinsam behandelte Mieten bei der biologischen Bodenbehandlung, oder getrennt anfallende Abfälle aus der Galvanisierung eines bestimmten Metalls);
+- – die (maximale) Größe der getrennt zu beurteilenden Abfallchargen, die in sich eine möglichst homogene Verteilung der Schadstoffe erwarten lassen (zB einzelne, gemeinsam behandelte Mieten bei der biologischen Bodenbehandlung, oder getrennt anfallende Abfälle aus der Galvanisierung eines bestimmten Metalls);
 
-- - die Bezugsgrenzwerte (Grenzwerte eines konkreten Kompartiments oder konkreten Kompartimentsabschnitts) jener Parameter, für die eine starke, grenzwertrelevante Schwankung zu erwarten oder bekannt ist.
+- – die Bezugsgrenzwerte (Grenzwerte eines konkreten Kompartiments oder konkreten Kompartimentsabschnitts) jener Parameter, für die eine starke, grenzwertrelevante Schwankung zu erwarten oder bekannt ist.
 
 Erstuntersuchung der ersten Abfallcharge und Einteilung der Parameter:
 
@@ -902,9 +902,9 @@ Die Untersuchungsverfahren für Abfallströme umfassen eine grundlegende Charakt
 
 Auf Basis der Abfallinformation gemäß § 16 Abs. 1 ist von der externen befugten Fachperson oder Fachanstalt ein Probenahmeplan gemäß den Vorgaben dieses Kapitels auszuarbeiten, wobei zunächst festzulegen ist:
 
-- - das anzuwendende Untersuchungsverfahren gemäß diesem Kapitel ausgehend von der gesamten voraussichtlichen Jahresanfallsmenge, auch wenn Teile davon nicht deponiert werden sollen;
+- – das anzuwendende Untersuchungsverfahren gemäß diesem Kapitel ausgehend von der gesamten voraussichtlichen Jahresanfallsmenge, auch wenn Teile davon nicht deponiert werden sollen;
 
-- - das Datum, ab dem die anfallenden Abfälle von der Beurteilung umfasst sein sollen (Beginn des Beurteilungszeitraumes).
+- – das Datum, ab dem die anfallenden Abfälle von der Beurteilung umfasst sein sollen (Beginn des Beurteilungszeitraumes).
 
 Außergewöhnliche Betriebszustände (zB Wartungs- und Reinigungsarbeiten, Störfall) oder Zeiträume, die Grenzwertüberschreitungen in einem oder mehreren Parametern erwarten lassen (zB aufgrund jahreszeitlicher Schwankungen oder Wartungs- und Reinigungsarbeiten) sind zu ermitteln und dabei entstehende Abfälle sind jedenfalls einer – gegebenenfalls zusätzlichen – Beprobung und Untersuchung im Zuge des jeweiligen Untersuchungsverfahrens zu unterziehen. Wenn eine ablagerungsrelevante Änderung der Qualität zu erwarten ist oder vorliegt, sind diese Abfälle zwischenzulagern und getrennt (zB als sonstiger, einmalig anfallender Abfall gemäß Kapitel 1.7.) zu beurteilen.
 
@@ -918,7 +918,7 @@ Bei einem Abfallstrom, der kontinuierlich beprobt werden kann, hat die Entnahme 
 
 Ist die Möglichkeit einer automatischen, kontinuierlichen Probenahme vorhanden, sind die gezogenen Stichproben sinngemäß auf zumindest drei qualifizierte Stichproben pro Tagesanfallsmenge zusammenzufassen, wobei die vorgegebene Mindestanzahl und Mindestprobemenge für die Stichproben eingehalten werden müssen.
 
-Die Probemenge pro Stichprobe und pro qualifizierte Stichprobe sowie die Anzahl an Stichproben pro qualifizierte Stichprobe können bei großen Abfallströmen alternativ zu den Vorgaben der ÖNORM S 2127 unter Einbeziehung der Variabilitäten der Untersuchungsergebnisse gemäß den Vorgaben der CEN/TR 15310-1 „Characterization of waste – Sampling of waste materials – Part 1: Guidance on selecting a basic statistical approach to sampling, as applied under a variety of scenarios”, Annex C – „Calculating the required number of increments and samples“, ausgegeben am 1. November 2006, berechnet werden. Es gilt dabei jedoch eine Mindestanzahl von 5 Stichproben pro qualifizierte Stichprobe sowie eine Mindestprobemenge von 2 kg für eine qualifizierte Stichprobe.
+Die Probemenge pro Stichprobe und pro qualifizierte Stichprobe sowie die Anzahl an Stichproben pro qualifizierte Stichprobe können bei großen Abfallströmen alternativ zu den Vorgaben der ÖNORM S 2127 unter Einbeziehung der Variabilitäten der Untersuchungsergebnisse gemäß den Vorgaben der CEN/TR 15310-1 „Characterization of waste – Sampling of waste materials – Part 1: Guidance on selecting a basic statistical approach to sampling, as applied under a variety of scenarios“, Annex C – „Calculating the required number of increments and samples“, ausgegeben am 1. November 2006, berechnet werden. Es gilt dabei jedoch eine Mindestanzahl von 5 Stichproben pro qualifizierte Stichprobe sowie eine Mindestprobemenge von 2 kg für eine qualifizierte Stichprobe.
 
 ### 3.4. Untersuchungsverfahren für Abfallströme bis 1 000 t Jahresanfallsmenge (kleine Abfallströme)
 
@@ -944,13 +944,13 @@ Tabelle 5: Parameterumfang bei grundlegender Charakterisierung kleiner Abfallstr
 
 | Jahresanfallsmenge | 2. Teilmenge | 3. Teilmenge | 4. Teilmenge | 5. Teilmenge |
 
-| Bis 200 t | - | - | - | - |
+| Bis 200 t | – | – | – | – |
 
-| 200 t – 400 t | GWR und R | - | - | - |
+| 200 t – 400 t | GWR und R | – | – | – |
 
-| 400 t – 600 t | GWR und R | GWR | - | - |
+| 400 t – 600 t | GWR und R | GWR | – | – |
 
-| 600 t – 800 t | GWR und R | GWR | GWR | - |
+| 600 t – 800 t | GWR und R | GWR | GWR | – |
 
 | 800 t – 1000 t | GWR und R | GWR | GWR | GWR |
 
@@ -964,9 +964,9 @@ Tabelle 6: Parameterumfang bei Übereinstimmungsbeurteilung kleiner Abfallström
 
 | Jahresanfallsmenge | 1. Teilmenge | 2. Teilmenge |
 
-| Bis 200 t | GWR und R | - |
+| Bis 200 t | GWR und R | – |
 
-| 200 t – 400 t | GWR, R und UK | - |
+| 200 t – 400 t | GWR, R und UK | – |
 
 | 400 t – 600 t | GWR, R und UK | GWR |
 
@@ -1082,13 +1082,13 @@ Der aktuelle Beurteilungsnachweis verliert nach einer angemessenen Frist, in der
 
 Die externe befugte Fachperson oder Fachanstalt hat den Abfallbesitzer gegebenenfalls über folgende Möglichkeiten zu informieren:
 
-- - Änderung des konkreten Kompartiments oder konkreten Kompartimentsabschnitts mit höheren Bezugsgrenzwerten gemäß dem Teil 1 Kapitel 8;
+- – Änderung des konkreten Kompartiments oder konkreten Kompartimentsabschnitts mit höheren Bezugsgrenzwerten gemäß dem Teil 1 Kapitel 8;
 
-- - Lokalisierung und Behebung des Problems, das zur Überschreitung geführt hat und neue grundlegende Charakterisierung als Abfallstrom. Die Parameter, die die Bezugsgrenzwerte oder Toleranzbereiche überschritten haben, sind für die neuerliche grundlegende Charakterisierung jedenfalls als grenzwertrelevante Parameter festzulegen und zu untersuchen;
+- – Lokalisierung und Behebung des Problems, das zur Überschreitung geführt hat und neue grundlegende Charakterisierung als Abfallstrom. Die Parameter, die die Bezugsgrenzwerte oder Toleranzbereiche überschritten haben, sind für die neuerliche grundlegende Charakterisierung jedenfalls als grenzwertrelevante Parameter festzulegen und zu untersuchen;
 
-- - Grundlegende Charakterisierung als wiederkehrend anfallender Abfall. Die Parameter, die die Bezugsgrenzwerte überschritten haben oder außerhalb der Toleranzbereiche gelegen sind, sind jedenfalls als grenzwertrelevante Parameter festzulegen und zu untersuchen;
+- – Grundlegende Charakterisierung als wiederkehrend anfallender Abfall. Die Parameter, die die Bezugsgrenzwerte überschritten haben oder außerhalb der Toleranzbereiche gelegen sind, sind jedenfalls als grenzwertrelevante Parameter festzulegen und zu untersuchen;
 
-- - Allfällige Möglichkeiten der Vorbehandlung des Abfallstroms.
+- – Allfällige Möglichkeiten der Vorbehandlung des Abfallstroms.
 
 Beurteilung der Untersuchungsergebnisse relevanter und unkritischer Parameter
 
@@ -1114,13 +1114,13 @@ Werden bei den Untersuchungen im Rahmen der Eigenüberwachungen Bezugsgrenzwerte
 
 Nach Ablauf jedes Beurteilungsjahres ist die tatsächlich angefallene Jahresanfallsmenge zu ermitteln und zu prüfen, ob das verwendete Untersuchungsverfahren für das unmittelbar nächste Beurteilungsjahr weiter passend ist, dabei gilt:
 
-- - Überschreitet die Jahresanfallsmenge eines kleinen Abfallstroms 1 000 t, ist dieser als großer Abfallstrom neu grundlegend zu charakterisieren.
+- – Überschreitet die Jahresanfallsmenge eines kleinen Abfallstroms 1 000 t, ist dieser als großer Abfallstrom neu grundlegend zu charakterisieren.
 
-- - Unterschreitet ein großer Abfallstrom die Jahresanfallsmenge von 1 000 t, kann auf die Übereinstimmungsbeurteilung eines kleinen Abfallstroms gewechselt werden. Das Quartalsmodell kann auch bei geringerer Jahresanfallsmenge weiter angewandt werden, wenn eine Anwendung insbesondere hinsichtlich der pro Tag anfallenden Menge sinnvoll möglich ist.
+- – Unterschreitet ein großer Abfallstrom die Jahresanfallsmenge von 1 000 t, kann auf die Übereinstimmungsbeurteilung eines kleinen Abfallstroms gewechselt werden. Das Quartalsmodell kann auch bei geringerer Jahresanfallsmenge weiter angewandt werden, wenn eine Anwendung insbesondere hinsichtlich der pro Tag anfallenden Menge sinnvoll möglich ist.
 
-- - Überschreitet die Jahresanfallsmenge die Mengengrenze eines Quartalsmodells, sind für die Probenahmeplanung des nächsten Jahres der Übereinstimmungsbeurteilung die Vorgaben des neuen zutreffenden Quartalsmodells heranzuziehen.
+- – Überschreitet die Jahresanfallsmenge die Mengengrenze eines Quartalsmodells, sind für die Probenahmeplanung des nächsten Jahres der Übereinstimmungsbeurteilung die Vorgaben des neuen zutreffenden Quartalsmodells heranzuziehen.
 
-- - Unterschreitet die Jahresanfallsmenge die Mengengrenze eines Quartalsmodells, kann für die Probenahmeplanung des nächsten Jahres der Übereinstimmungsbeurteilung auf die Vorgaben des neuen zutreffenden Quartalsmodells gewechselt werden.
+- – Unterschreitet die Jahresanfallsmenge die Mengengrenze eines Quartalsmodells, kann für die Probenahmeplanung des nächsten Jahres der Übereinstimmungsbeurteilung auf die Vorgaben des neuen zutreffenden Quartalsmodells gewechselt werden.
 
 Ein Wechsel des Untersuchungsverfahrens ist im Beurteilungsnachweis zu begründen und zu dokumentieren.
 
@@ -1178,9 +1178,9 @@ Probenahmeplanung und Durchführung der Probenahme
 
 Auf Basis der Abfallinformation gemäß § 16 Abs. 1 ist von der externen befugten Fachperson oder Fachanstalt ein Probenahmeplan gemäß der ÖNORM S 2027-1 „Beurteilung von Abfällen aus der mechanisch-biologischen Behandlung – Teil 1: Probenahme“, ausgegeben am 1. Juni 2012, Kapitel 5.1 und 5.2 auszuarbeiten, wobei zunächst festzulegen sind:
 
-- - die voraussichtliche Anzahl der Beurteilungen auf Basis der Gesamtmenge der Abfallcharakterisierung und die voraussichtliche Verteilung der Beurteilungen über den Beurteilungszeitraum;
+- – die voraussichtliche Anzahl der Beurteilungen auf Basis der Gesamtmenge der Abfallcharakterisierung und die voraussichtliche Verteilung der Beurteilungen über den Beurteilungszeitraum;
 
-- - das Datum, ab dem die anfallenden Abfälle von der Beurteilung umfasst sein sollen (Beginn des Beurteilungszeitraumes).
+- – das Datum, ab dem die anfallenden Abfälle von der Beurteilung umfasst sein sollen (Beginn des Beurteilungszeitraumes).
 
 Die Probenahme ist zusätzlich zu den festgelegten Anforderungen auch auf jene Betriebszustände auszurichten, die am ehesten Grenzwertüberschreitungen in einem oder mehreren Parametern erwarten lassen.
 

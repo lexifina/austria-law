@@ -20,9 +20,9 @@ Die Lagerung kann im Freien, zB in Form von Mieten, falls erforderlich nach Befe
 
 Eignungsprüfung im Rahmen der grundlegenden Charakterisierung Zusätzlich zu den Untersuchungen der unverfestigen Abfälle gemäß Anhang 4 ist der verfestigte Abfall folgender Eignungsprüfung zu unterziehen (vgl. § 14):
 
-- 1. Untersuchung des verfestigten Abfalls: Herstellung und Lagerung von Probekörpern gemäß ÖNORM S 2116-1 „Untersuchung verfestigter Abfälle – Herstellung der Probekörper“, ausgegeben am 1. August 1998, und Elution nach einer Aushärtezeit von 28 bis höchstens 56 Tagen; bei Verfestigung mit hydraulischen Bindemitteln jedenfalls nach 28 Tagen; die Elution ist an Probekörpern, welche auf 10 mm gebrochen wurden, gemäß ÖNORM EN 12457-4 „Charakterisierung von Abfällen – Auslaugung – Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)“, ausgegeben am 1. Jänner 2003, vorzunehmen; der Mittelwert dieser Eluate hat die jeweiligen Grenzwerte einzuhalten;
+- 1. Untersuchung des verfestigten Abfalls: Herstellung und Lagerung von Probekörpern gemäß ÖNORM S 2116-1 „Untersuchung stabilisierter Abfälle – Teil 1: Herstellung der Probekörper“, ausgegeben am 1. Jänner 2010, und Elution nach einer Aushärtezeit von 28 bis höchstens 56 Tagen; bei Verfestigung mit hydraulischen Bindemitteln jedenfalls nach 28 Tagen; die Elution ist an Probekörpern, welche auf 10 mm gebrochen wurden, gemäß ÖNORM EN 12457-4 „Charakterisierung von Abfällen – Auslaugung – Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)“, ausgegeben am 1. Jänner 2003, vorzunehmen; der Mittelwert dieser Eluate hat die jeweiligen Grenzwerte einzuhalten;
 
-- 2. Untersuchung des Auslaugverhaltens des verfestigten Abfalls unter pH-Wert-Kontrolle gemäß ÖNORM EN 14997 „Charakterisierung von Abfällen – Untersuchung des Auslaugungsverhaltens – Einfluss des pH-Wertes auf die Auslaugung bei kontinuierlicher pH-Wert-Kontrolle“, ausgegeben am 1. Oktober 2004, oder ÖNORM CEN/TS 14429 „Charakterisierung von Abfällen – Untersuchung des Auslaugverhaltens – Einfluss des pH-Wertes unter vorheriger Säure/Base Zugabe“, ausgegeben am 1. Jänner 2006;
+- 2. Untersuchung des Auslaugverhaltens des verfestigten Abfalls unter pH-Wert-Kontrolle gemäß ÖNORM EN 14997 „Charakterisierung von Abfällen – Untersuchung des Auslaugungsverhaltens – Einfluss des pH-Wertes auf die Auslaugung bei kontinuierlicher pH-Wert-Kontrolle“, ausgegeben am 1. April 2007, oder ÖNORM CEN/TS 14429 „Charakterisierung von Abfällen – Untersuchung des Auslaugverhaltens – Einfluss des pH-Wertes unter vorheriger Säure/Base Zugabe“, ausgegeben am 1. Jänner 2006;
 
 - 3. entsprechend den Gegebenheiten auf den jeweiligen Kompartimenten sind Vorgaben für physikalische Eigenschaften, insbesondere hinsichtlich der Standsicherheit des Deponiekörpers, festzulegen (zB Druckfestigkeit, Wasserdurchlässigkeit, geotechnisches Verhalten) und es ist zu untersuchen, ob der Abfall diese Vorgaben einhält;
 
@@ -74,7 +74,7 @@ Aufgrund der Ergebnisse der Untersuchungen gemäß § 14 Abs. 1 Z 1 und der chem
 
 3.2.2. Herstellung und Lagerung der Probekörper
 
-Von dem zu stabilisierenden Abfall sind Probekörper gemäß ÖNORM S 2116-1 „Untersuchung verfestigter Abfälle – Herstellung der Probekörper“, ausgegeben am 1. August 1998, herzustellen und zu lagern. Die Probekörper sind nach den jeweils festzulegenden Aushärtezeiten den folgenden Prüfungen zu unterziehen:
+Von dem zu stabilisierenden Abfall sind Probekörper gemäß ÖNORM S 2116-1 „Untersuchung stabilisierter Abfälle – Teil 1: Herstellung der Probekörper“, ausgegeben am 1. Jänner 2010, herzustellen und zu lagern. Die Probekörper sind nach den jeweils festzulegenden Aushärtezeiten den folgenden Prüfungen zu unterziehen:
 
 3.2.2.1. Elutionsversuche
 
@@ -116,7 +116,7 @@ Weiters sind folgende Prüfungen durchzuführen.
 
 a) Wasserlagerung
 
-Probekörper sind gemäß ÖNORM S 2116-2 „Untersuchung verfestigter Abfälle – Wasserlagerung“, ausgegeben am 1. Juli 2000, unter Wasser zu lagern. Davor und danach sind normgemäß die Druckfestigkeit sowie die Kennwerte für Gesamtporosität, Kapillarporosität und Makroporosität zu bestimmen. Nach der Wasserlagerung darf die Druckfestigkeit nicht abnehmen, die Porositätskennwerte dürfen nicht signifikant zunehmen.
+Probekörper sind gemäß ÖNORM S 2116-2 „Untersuchung stabilisierter Abfälle – Teil 2: Wasserlagerung“, ausgegeben am 1. Jänner 2010, unter Wasser zu lagern. Davor und danach sind normgemäß die Druckfestigkeit sowie die Kennwerte für Gesamtporosität, Kapillarporosität und Makroporosität zu bestimmen. Nach der Wasserlagerung darf die Druckfestigkeit nicht abnehmen, die Porositätskennwerte dürfen nicht signifikant zunehmen.
 
 Alternativ zur Bestimmung der Porositätskennwerte ist auch folgende Vorgehensweise zulässig: Kommt die befugte Fachperson oder Fachanstalt aufgrund der materialspezifischen Eigenschaften des im Einzelfall vorliegenden stabilisierten Abfalls zum Schluss, dass zur Beurteilung des Einflusses der Wasserlagerung auf die Langzeitbeständigkeit die Bestimmung des kf-Wertes anstelle der Porositätskennwerte gleichermaßen geeignet ist, so kann die Prüfung wie im Folgenden beschrieben durchgeführt werden; die Entscheidung ist zu begründen:
 
@@ -134,11 +134,11 @@ Die Prüfung der Beständigkeit gegen Wasserlagerung gilt als bestanden, wenn f�
 
 b) Schnellkarbonatisierung
 
-Diese Untersuchungen sind gemäß ÖNORM S 2116-3 „Untersuchung verfestigter Abfälle – Schnellkarbonatisierung“, ausgegeben am 1. Juli 2000, vorzunehmen. Infolge der Schnellkarbonatisierung darf es zu keiner Abnahme der Druckfestigkeit kommen. In den Eluaten sind die gemäß Kapitel 3.2.2.1. lit. c festgesetzten Parameter zu untersuchen. Nach der Schnellkarbonatisierung darf es zu keiner Zunahme der über die Versuchsdauer ausgelaugten Schadstoffmengen kommen. Werden deutliche Änderungen des Auslaugverhaltens festgestellt, so sind diese zu bewerten.
+Diese Untersuchungen sind gemäß ÖNORM S 2116-3 „Untersuchung stabilisierter Abfälle – Teil 3: Schnellkarbonatisierung“, ausgegeben am 1. Jänner 2010, vorzunehmen. Infolge der Schnellkarbonatisierung darf es zu keiner Abnahme der Druckfestigkeit kommen. In den Eluaten sind die gemäß Kapitel 3.2.2.1. lit. c festgesetzten Parameter zu untersuchen. Nach der Schnellkarbonatisierung darf es zu keiner Zunahme der über die Versuchsdauer ausgelaugten Schadstoffmengen kommen. Werden deutliche Änderungen des Auslaugverhaltens festgestellt, so sind diese zu bewerten.
 
 c) Schnellalterung
 
-Die Untersuchungen zur Schnellalterung sind gemäß ÖNORM S 2116-6 „Untersuchung verfestigter Abfälle – Schnellalterung“, ausgegeben am 1. Juli 2000, mit folgenden Abweichungen vorzunehmen. Wird eine Längenänderung von 0,5 Promille nach drei Monaten überschritten, ist der Versuch auf sechs Monate auszudehnen, wobei zusätzlich die Biegezugfestigkeiten nach 28 Tagen, nach drei Monaten und nach sechs Monaten (gerechnet ab dem Zeitpunkt der Probekörperherstellung; der Wert nach 28 Tagen ist für die Beurteilung des stabilisierten Abfalls erforderlich) zu messen sind.
+Die Untersuchungen zur Schnellalterung sind gemäß ÖNORM S 2116-6 „Untersuchung stabilisierter Abfälle – Teil 6: Schnellalterung“, ausgegeben am 1. Jänner 2010, mit folgenden Abweichungen vorzunehmen. Wird eine Längenänderung von 0,5 Promille nach drei Monaten überschritten, ist der Versuch auf sechs Monate auszudehnen, wobei zusätzlich die Biegezugfestigkeiten nach 28 Tagen, nach drei Monaten und nach sechs Monaten (gerechnet ab dem Zeitpunkt der Probekörperherstellung; der Wert nach 28 Tagen ist für die Beurteilung des stabilisierten Abfalls erforderlich) zu messen sind.
 
 Die Prüfung gilt als bestanden, wenn
 
@@ -152,7 +152,7 @@ Die der Schnellalterung ausgesetzten Probekörper sind nach dreimonatiger Lageru
 
 d) Frostbeständigkeit
 
-Die Frostbeständigkeit ist gemäß ÖNORM S 2116-7 „Untersuchung verfestigter Abfälle – Teil 7: Frostbeständigkeit“, ausgegeben am 1. Jänner 2002, zu untersuchen, wobei die Bewertung über die Änderung der Druckfestigkeit und die Bewertung über die Längenänderung wahlweise zulässig sind. Dabei darf im ersten Fall die Abnahme des Mittelwertes der Druckfestigkeit nach zwölf Frost-Tau-Wechseln nicht größer als 20% sein. Im zweiten Fall darf die Höhenzunahme des Probekörpers zwischen den Messungen nach dem ersten und zwölften Frost höchstens ein Promille betragen. In beiden Fällen müssen die Probekörper formstabil bleiben (keine Rissbildungen, der Gewichtsverlust durch Abplatzungen darf 650 g/m2 nicht überschreiten).
+Die Frostbeständigkeit ist gemäß ÖNORM S 2116-7 „Untersuchung stabilisierter Abfälle – Teil 7: Frostbeständigkeit“, ausgegeben am 1. Jänner 2010, zu untersuchen, wobei die Bewertung über die Änderung der Druckfestigkeit und die Bewertung über die Längenänderung wahlweise zulässig sind. Dabei darf im ersten Fall die Abnahme des Mittelwertes der Druckfestigkeit nach zwölf Frost-Tau-Wechseln nicht größer als 20% sein. Im zweiten Fall darf die Höhenzunahme des Probekörpers zwischen den Messungen nach dem ersten und zwölften Frost höchstens ein Promille betragen. In beiden Fällen müssen die Probekörper formstabil bleiben (keine Rissbildungen, der Gewichtsverlust durch Abplatzungen darf 650 g/m2 nicht überschreiten).
 
 3.2.3. Feldversuche und Untersuchung von Bohrkernen
 

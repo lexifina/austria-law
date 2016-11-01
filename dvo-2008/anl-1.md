@@ -50,7 +50,7 @@ Abfälle dürfen in allen Deponie(unter)klassen ohne Untersuchung von BTEX, POX 
 
 - 1) Ist bei Bodenaushubmaterial der Gehalt eines Schadstoffes geogen bedingt, so ist eine Überschreitung bis zu dem in Spalte II angeführten Grenzwert zulässig. Für Bodenaushubmaterial mit geogener Belastung ist die Schlüssel-Nummer 31411 33 zu verwenden.
 
-- 2) Bei nicht verunreinigtem Bodenaushubmaterial und nicht verunreinigten Bodenbestandteilen mit aufgrund ihrer Humusgehalte erhöhten TOC-Werten: 90 000 mg/kg
+- 2) Bei nicht verunreinigtem Bodenaushubmaterial und nicht verunreinigten Bodenbestandteilen mit aufgrund ihrer Humus- oder Torfgehalte erhöhten TOC-Werten: 90 000 mg/kg
 
 - 3) – 50 mg/kg TM gilt für Bodenaushubmaterial mit TOC = 5 000 mg/kg TM,
 
@@ -376,7 +376,7 @@ Abfälle dürfen in allen Deponie(unter)klassen ohne Untersuchung von BTEX, POX 
 
 - 2) Für mit hydraulischen Bindemitteln verfestigte Abfälle oder stabilisierte nicht gefährliche Abfälle oder stabilisierte gefährliche Abfälle, sofern sie ausschließlich die gefahrenrelevante Eigenschaft reizend oder ätzend aufweisen, ist der Grenzwert von 300 mS/m nach 28 Tagen Aushärtezeit einzuhalten.
 
-- 3) Bei frisch gebrochenem Beton, Betonierungsrückständen und Bentonit-Schlämmen: 800 mS/m.
+- 3) Bei frisch gebrochenem Beton, Betonierungsrückständen und Bentonit-Schlämmen sowie LD-Schlacken und Elektroofenschlacken: 800 mS/m.
 
 - 4) Für gipshaltigen Bauschutt und andere gipshaltige Abfälle, sofern letztere auf einem Monokompartiment abgelagert werden, ist eine Überschreitung bis zu 14 000 mg/kg Sulfat unter der Bedingung zulässig, dass die Ca-Konzentration im Eluat mindestens die 0,43-fache ermittelte Sulfatkonzentration erreicht; in diesen Fällen ist auch eine Überschreitung des Grenzwertes für die elektrische Leitfähigkeit zulässig.
 
