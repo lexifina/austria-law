@@ -86,8 +86,6 @@
 
 | BH. Wiener Neustadt | WB |
 
-| BH. Wien-Umgebung | WU |
-
 | BH. Zwettl | ZT |
 
 | Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Wr. Neustadt | WN |
