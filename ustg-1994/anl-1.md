@@ -72,7 +72,7 @@
 
 - 22. Wasser (aus Unterposition 2201 90 00 der Kombinierten Nomenklatur).
 
-- 23. Milch und Milcherzeugnisse der Positionen 0401, 0402, 0403 und 0404, mit Zusätzen, ausgenommen Zusätze von Kaffee, Tee oder Mate und von Auszügen, Essenzen und Konzentraten aus Kaffee, Tee oder Mate und von Zubereitungen auf der Grundlage dieser Waren (aus Unterpositionen 2202 90 91, 2202 90 95 und 2202 90 99 der Kombinierten Nomenklatur).
+- 23. Milch und Milcherzeugnisse der Positionen 0401, 0402, 0403 und 0404, mit Zusätzen, ausgenommen Zusätze von Kaffee, Tee oder Mate und von Auszügen, Essenzen und Konzentraten aus Kaffee, Tee oder Mate und von Zubereitungen auf der Grundlage dieser Waren (aus Unterpositionen 2202 99 91, 2202 99 95 und 2202 99 99 der Kombinierten Nomenklatur).
 
 - 24. Speiseessig (Position 2209 der Kombinierten Nomenklatur).
 
@@ -90,7 +90,7 @@
 
 - 31. Zubereitete Enzyme, die Nährstoffe enthalten (aus Unterposition 3507 90 der Kombinierten Nomenklatur).
 
-- 32. Süßungsmittel (aus Unterposition 3824 90 96 der Kombinierten Nomenklatur)
+- 32. Süßungsmittel (aus Unterposition 3824 99 96 der Kombinierten Nomenklatur)
 
 - 33. Waren des Kapitels 49 der Kombinierten Nomenklatur, und zwar
 
