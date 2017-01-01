@@ -7,3 +7,5 @@ Artikel 148g. (1) Die Volksanwaltschaft hat ihren Sitz in Wien. Sie besteht aus 
 (4) Im Falle des vorzeitigen Ausscheidens eines Mitgliedes der Volksanwaltschaft hat jene im Nationalrat vertretene Partei, die dieses Mitglied namhaft gemacht hat, ein neues Mitglied namhaft zu machen. Die Neuwahl für den Rest der Funktionsperiode ist gemäß Abs. 2 durchzuführen. Bis zur allfälligen Erlassung einer neuen Geschäftsverteilung ist die geltende Geschäftsverteilung auf das neue Mitglied sinngemäß anzuwenden.
 
 (5) Die Mitglieder der Volksanwaltschaft müssen zum Nationalrat wählbar sein und über Kenntnisse der Organisation und Funktionsweise der Verwaltung und Kenntnisse auf dem Gebiet der Menschenrechte verfügen. Sie dürfen während ihrer Amtstätigkeit weder einem allgemeinen Vertretungskörper noch dem Europäischen Parlament angehören, nicht Mitglied der Bundesregierung oder einer Landesregierung sein und keinen anderen Beruf ausüben.
+
+(6) Jedes Mitglied der Volksanwaltschaft ist hinsichtlich der Verantwortlichkeit gemäß Art. 142 den Mitgliedern der Bundesregierung gleichgestellt.
