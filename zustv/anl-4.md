@@ -1,6 +1,4 @@
-### Anlage 4
-
-### (§ 12 Abs. 2)
+### Anlage 4 (§ 12 Abs. 2)
 
 | Kennziffer | Verwendungsbestimmung |
 
@@ -28,7 +26,7 @@
 
 | 29 | zur Verwendung für die entgeltliche Personenbeförderung im Rahmen des Ausflugswagen, Stadtrundfahrten-, Mietwagen-, oder Gästewagengewerbes bestimmt |
 
-| 30 | zur Verwendung im Bereich des Straßendienstes gemäß § 27 Abs. 1 StVO 1960 bestimmt |
+| 30 | zur Verwendung im Bereich des Straßendienstes gemäß § 27 Abs. 1 StVO 1960 BGBl. Nr. 159/1960, zuletzt geändert mit BGBl. I Nr. 6/2017 (StVO 1960) bestimmt |
 
 | 31 | ausschließlich oder vorwiegend zur Verwendung für Arbeiten des Straßendienstes auf beleuchteten Straßen bestimmt |
 
@@ -37,6 +35,8 @@
 | 33 | zur kommunalen Verwendung in einer Gebietskörperschaft oder in einem Gemeindeverband bestimmt |
 
 | 40 | zur Verwendung für den Pannenhilfsdienst bestimmt |
+
+| 41 | zur Begleitung von Sondertransporten durch gemäß § 97 Abs. 2 StVO 1960 beeidete Straßenaufsichtsorgane bestimmt |
 
 | 50 | zur Verwendung für Diplomaten bestimmt |
 
