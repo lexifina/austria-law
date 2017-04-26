@@ -32,7 +32,7 @@
 
 ## Abschnitt II
 
-## Liste der prioritären Stoffe gemäß Anhang X der Richtlinie 2000/60/EG (festgelegt durch die Entscheidung des Europäischen Parlaments und des Rates Nr. 2455/2001/EG, ABl. Nr. L 331 vom 15. Dezember 2001, S 1 in der Fassung der Richtlinie 2008/105//EG des Europäischen Parlamentes und des Rates über Umweltqualitätsnormen im Bereich der Wasserpolitik und zur Änderung und anschließenden Aufhebung der Richtlinien des Rates 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG und 86/280/EWG sowie zur Änderung der Richtlinie 2000/60/EG, ABl. Nr. L 348 vom 16. Dezember 2008, S 84)
+## Liste der prioritären Stoffe
 
 | Nr. | CAS-Nr.1) | Bezeichnung des prioritären Stoffes2) | Als prioritärer gefährlicher Stoff eingestuft |
 
@@ -60,7 +60,7 @@
 
 | 11 | 75-09-2 | Dichlormethan |
 
-| 12 | 117-81-7 | Di(2-ethylhexyl)phthalat (DEHP) |
+| 12 | 117-81-7 | Di(2-ethylhexyl)phthalat (DEHP) | X |
 
 | 13 | 330-54-1 | Diuron |
 
@@ -120,7 +120,31 @@
 
 | 32 | 67-66-3 | Trichlormethan (Chloroform) |
 
-| 33 | 1582-09-8 | Trifluralin |
+| 33 | 1582-09-8 | Trifluralin | X |
+
+| 34 | 115-32-2 | Dicofol | X |
+
+| 35 | 1763-23-1 | Perfluoroktansulfonsäure und ihre Derivate (PFOS) | X |
+
+| 36 | 124495-18-7 | Quinoxyfen | X |
+
+| 37 | nicht anwendbar | Dioxine und dioxinähnliche Verbindungen | X 5) |
+
+| 38 | 74070-46-5 | Aclonifen |
+
+| 39 | 42576-02-3 | Bifenox |
+
+| 40 | 28159-98-0 | Cybutryn |
+
+| 41 | 52315-07-8 | Cypermethrin 6) |
+
+| 42 | 62-73-7 | Dichlorvos |
+
+| 43 | nicht anwendbar | Hexabromcyclododecane (HBCDD | X 7) |
+
+| 44 | 76-44-8/1024-57-3 | Heptachlor und Heptachlorepoxid | X |
+
+| 45 | 886-50-0 | Terbutryn |
 
 - 1) CAS: Chemical Abstracts Service
 
@@ -129,3 +153,9 @@
 - 3) Diese Stoffgruppen umfassen in der Regel eine große Anzahl einzelner Verbindungen. Zum jetzigen Zeitpunkt können keine geeigneten Indikatorparameter angegeben werden.
 
 - 4) Nur Pentabromdiphenylether (CAS-Nummer 32534-81-9).
+
+- 5) Dies bezieht sich auf die folgenden Verbindungen: 7 polychlorierte Dibenzoparadioxine (PCDD) 2,3,7,8-T4CDD (CAS 1746-01-6), 1,2,3,7,8-P5CDD (CAS 40321-76-4), 1,2,3,4,7,8- H6CDD (CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (CAS 3268-87-9) 10 polychlorierte Dibenzofurane (PCDF): 2,3,7,8-T4CDF (CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (CAS 72918- 21-9), 2,3,4,6,7,8-H6CDF (CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (CAS 39001-02-0) 12 dioxinähnliche polychlorierte Biphenyle (PCB-DL): 3,3‘,4,4’-T4CB (PCB 77, CAS 32598-13-3), 3,3‘,4‘,5-T4CB (PCB 81, CAS 70362-50-4), 2,3,3‘,4,4’-P5CB (PCB 105, CAS 32598-14-4), 2,3,4,4‘,5-P5CB (PCB 114, CAS 74472-37-0), 2,3‘,4,4‘,5-P5CB (PCB 118, CAS 31508-00-6), 2,3‘,4,4’,5’-P5CB (PCB 123, CAS 65510-44-3), 3,3‘,4,4‘,5-P5CB (PCB 126, CAS 57465-28-8), 2,3,3‘,4,4‘,5- H6CB (PCB 156, CAS 38380-08-4), 2,3,3‘,4,4’,5’-H6CB (PCB 157, CAS 69782-90-7), 2,3‘,4,4‘,5,5’-H6CB (PCB 167, CAS 52663-72- 6), 3,3‘,4,4‘,5,5’-H6CB (PCB 169, CAS 32774-16-6), 2,3,3‘,4,4‘,5,5’-H7CB (PCB 189, CAS 39635-31-9).
+
+- 6) CAS 52315-07-8 bezieht sich auf eine Isomermischung von Cypermethrin, Alpha-Cypermethrin (CAS 67375-30-8), Beta-Cypermethrin (CAS 65731-84-2), Theta-Cypermethrin (CAS 71697-59-1) und Zeta-Cypermethrin (52315-07-8).
+
+- 7) Dies bezieht sich auf 1,3,5,7,9,11-Hexabromcyclododecan (CAS 25637-99-4), 1,2,5,6,9,10-Hexabromocyclododecan (CAS 3194-55- 6), α-α-Hexabromocyclododecan (CAS 134237-50-6), β-β-Hexabromocyclododecan (CAS 134237-51-7) und γ-Hexabromocyclododecan (CAS 134237-52-8).

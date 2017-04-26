@@ -6,7 +6,7 @@
 
 - c) Die Berechnung der zur Beurteilung erforderlichen Mittelwerte hat gemäß folgender Tabelle zu erfolgen:
 
-Mindestanzahl der gültigen Halbstundenmittelwerte (HMW) zur Berechnung von Kennwerten:
+Mindestanzahl der gültigen Halbstundenmittelwerte (HMW) bzw. Tagesmittelwerte (TMW) zur Berechnung von Kennwerten:
 
 | Kennwert | Mindestanzahl der HMW |
 
@@ -18,11 +18,13 @@ Mindestanzahl der gültigen Halbstundenmittelwerte (HMW) zur Berechnung von Kenn
 
 | Wintermittelwert | 75% in jeder Hälfte der Beurteilungsperiode |
 
-| Jahresmittelwert (JMW) | 75% sowohl im Sommer als auch im Winter |
-
 | Perzentile oder Summenhäufigkeitswerte | 75% in jeder Hälfte der Beurteilungsperiode |
 
-  - d) Im Sinne der Anlagen 1 und 2 dieses Gesetzes steht die Bezeichnung
+| Kennwert | Mindestanzahl der TMW |
+
+| Jahresmittelwert (JMW) | 90%2) während des Jahres |
+
+- d) Im Sinne der Anlagen 1 und 2 dieses Gesetzes steht die Bezeichnung
 
 - 1. „HMW“ für Halbstundenmittelwert,
 
@@ -35,3 +37,5 @@ Mindestanzahl der gültigen Halbstundenmittelwerte (HMW) zur Berechnung von Kenn
 _________________
 
 1) Um systematische Einflüsse (Tagesgang) zu vermeiden, sind in diesem Fall mehr als 75% der HMW des Tages erforderlich.
+
+2) Datenverluste aufgrund regelmäßiger Kalibrierung oder üblicher Gerätewartung sind in der Anforderung für die Berechnung des Jahresmittelwerts nicht berücksichtigt.
