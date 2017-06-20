@@ -1,211 +1,229 @@
 ### Anhang 6
 
-## Stoffliste betreffend die Beherrschung der Gefahren bei schweren Unfällen
+## Stoffliste betreffend die Beherrschung der Gefahren bei schweren Unfällen („Seveso-Stoffe“)
 
-## Einleitung
+Auf Seveso-Stoffe, die unter die Gefahrenkategorien des Teil 1 Spalte 1 dieses Anhangs fallen, finden die in den Spalten 2 und 3 des Teil 1 genannten Mengenschwellen Anwendung.
 
-- 1. Die für die Anwendung des § 59 zu berücksichtigenden Mengen sind Höchstmengen, die nach den technischen Möglichkeiten eines Betriebs vorhanden sein können; die in Teil 1 und 2 genannten Mengen gelten pro Betrieb. Mengen bis zu 2% der jeweiligen Mengenschwelle können unbeschadet des § 84c Abs. 5 GewO 1994 unberücksichtigt bleiben, wenn sie auf Grund ihrer Verwahrung oder des Abstandes zu anderen Betriebsteilen nicht als Auslöser eines schweren Unfalles in Frage kommen.
+Sofern ein Seveso-Stoff unter Teil 1 dieses Anhangs fällt und ebenfalls in Teil 2 aufgeführt ist, finden die in den Spalten 2 und 3 des Teils 2 genannten Mengenschwellen Anwendung.
 
-- 2. Ein Betrieb fällt unter die Bestimmungen des § 59, wenn
+## TEIL 1
 
-  - a) eine Mengenschwelle nach Teil 1 erreicht wird;
+## Gefahrenkategorien von Seveso-Stoffen
 
-  - b) eine Mengenschwelle nach Teil 2 erreicht wird;
+Dieser Teil umfasst alle Stoffe, die unter die Gefahrenkategorien in Spalte 1 fallen:
 
-  - c) eine in Teil 1 genannte Mengenschwelle nicht erreicht wird, jedoch im Betrieb Stoffe und Zubereitungen der gleichen Kategorie nach Teil 2 vorhanden sind und sich nach der Additionsregel (Z 3 dieser Einleitung) eine Mengenschwellenüberschreitung ergibt;
+| Spalte 1 | Spalte 2 | Spalte 3 |
 
-  - d) eine in Teil 2 genannte Mengenschwelle nicht erreicht wird, jedoch im Betrieb Stoffe und Zubereitungen nach Z 1 und 2 jeweils unterhalb der Mengenschwellen von Teil 2 vorhanden sind und sich für diese gemeinsam nach der Additionsregel (Z 3 dieser Einleitung) eine Mengenschwellenüberschreitung ergibt;
+| Gefahrenkategorien | Mengenschwelle in Tonnen für die Erfüllung der Anforderungen an Betriebe |
 
-  - e) eine in Teil 2 genannte Mengenschwelle nicht erreicht wird, jedoch im Betrieb Stoffe und Zubereitungen nach Z 3, 4, 5, 6, 7, 8 und 9 jeweils unterhalb der Mengenschwellen von Teil 2 vorhanden sind und sich für diese gemeinsam nach der Additionsregel (Z 3 dieser Einleitung) eine Mengenschwellenüberschreitung ergibt;
+| der unteren Klasse | der oberen Klasse |
 
-  - f) eine in Teil 2 genannte Mengenschwelle nicht erreicht wird, jedoch im Betrieb Stoffe und Zubereitungen nach Z 10 und 11 jeweils unterhalb der Mengenschwellen von Teil 2 vorhanden sind und sich für diese gemeinsam nach der Additionsregel (Z 3 dieser Einleitung) eine Mengenschwellenüberschreitung ergibt.
+| Abschnitt „H“ – GESUNDHEITSGEFAHREN |
 
-- 3. In Anwendung von Z 2 lit. c, d, e und f dieser Einleitung sind die Quotienten aus den Einzelmengen an Stoffen/an Zubereitungen nach Teil 1 oder 2 mit den entsprechenden Mengenschwellen zu bilden. Ein Betrieb fällt unter die Bestimmungen des § 59, wenn die Summe dieser Quotienten eine Zahl ergibt, die gleich oder größer als die Zahl 1 ist.
+| H1 AKUT TOXISCH Gefahrenkategorie 1, alle Expositionswege | 5 | 20 |
 
-- 4. Bei Stoffen und Zubereitungen mit Eigenschaften, die zu mehr als einer Einstufung Anlass geben, gilt der jeweils niedrigste Schwellenwert.
+| H2 AKUT TOXISCH – Gefahrenkategorie 2, alle Expositionswege – Gefahrenkategorie 3, inhalativer Expositionsweg (siehe Anmerkung 7) | 50 | 200 |
 
-- 5. Zubereitungen werden als reine Stoffe betrachtet, falls sie nach ihrer Einstufung die gleichen gefährlichen Eigenschaften besitzen wie der kennzeichnende Reinstoff; ausgenommen sind jene Ziffern in Teil 1 und 2, bei denen eine eigene prozentuale Zusammensetzung oder andere Beschreibung angegeben ist.
+| H3 STOT SPEZIFISCHE ZIELORGAN-TOXIZITÄT – EINMALIGE EXPOSITION STOT SE Gefahrenkategorie 1 | 50 | 200 |
 
-- 6. Für die Einstufung der Stoffe und Zubereitungen sind die einschlägigen chemikalienrechtlichen Vorschriften, insbesondere das Chemikaliengesetz 1996, BGBl. I Nr. 53/1997, die Chemikalienverordnung 1999, BGBl. II Nr. 81/2000, zuletzt geändert durch die Verordnung BGBl. II Nr. 186/2002, und die Giftliste-Verordnung 2002, BGBl. II Nr. 126/2003, heranzuziehen. Für die Einstufung explosionsgefährlicher Stoffe nach Z 4 und 5 des Teils 2 ist auch das Europäische Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße (UN/ADR) heranzuziehen. Ist ein Stoff oder eine Zubereitung nach Z 4 und 5 des Teils 2 sowohl nach UN/ADR als auch nach den chemikalienrechtlichen Bestimmungen eingestuft, so hat die UN/ADR-Einstufung Vorrang vor der chemikalienrechtlichen Einstufung. Die jeweils geltende Fassung des UN/ADR wird auf der Internetseite des Bundesministeriums für Verkehr, Innovation und Technologie zur Verfügung gestellt.
+| Abschnitt „P“ – PHYSIKALISCHE GEFAHREN |
 
-- 7. Auf Stoffe und Zubereitungen, welche nicht dem Chemikaliengesetz unterliegen (zB Abfall), aber dennoch in einem Betrieb vorhanden sind oder vorhanden sein können und unter den im Betrieb angetroffenen Bedingungen hinsichtlich ihres Potenzials für einen schweren Unfall gleichwertige Eigenschaften besitzen oder besitzen können, ist Anhang B der Chemikalienverordnung 1999, BGBl. II Nr. 81/2000, zuletzt geändert durch die Verordnung BGBl. II Nr. 186/2002, sinngemäß anzuwenden. Für die Einstufung explosionsgefährlicher Stoffe nach Z 4 und 5 des Teils 2 gilt der zweite und dritte Satz der Z 6 dieser Einleitung.
+| P1a EXPLOSIVE STOFFE (siehe Anmerkung 8) – Instabile explosive Stoffe – Explosive Stoffe, Unterklassen 1.1, 1.2, 1.3, 1.5 oder 1.6 – Stoffe oder Gemische mit explosiven Eigenschaften nach Methode A.14 der Verordnung (EG) Nr. 440/2008 zur Festlegung von Prüfmethoden gemäß der Verordnung (EG) Nr. 1907/2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), ABl. Nr. L 142 vom 31.05.2008 S. 1 (siehe Anmerkung 9), die nicht den Gefahrenklassen organische Peroxide oder selbstzersetzliche Stoffe und Gemische zuzuordnen sind | 10 | 50 |
 
-- 8. Im Sinne dieses Anhangs wird als Gas jeder Stoff bezeichnet, der bei einer Temperatur von 20 °C einen absoluten Dampfdruck von mindestens 101,3 kPa hat. Im Sinne dieses Anhangs wird als Flüssigkeit jeder Stoff bezeichnet, der nicht als Gas definiert ist und sich bei einer Temperatur von 20 °C und einem Standarddruck von 101,3 kPa nicht im festen Zustand befindet.
+| P1b EXPLOSIVE STOFFE (siehe Anmerkung 8) Explosive Stoffe, Unterklasse 1.4 (siehe Anmerkung 10) | 50 | 200 |
 
-## Teil 1
+| P2 ENTZÜNDBARE GASE Entzündbare Gase, Gefahrenkategorie 1 oder 2 | 10 | 50 |
 
-## Namentlich genannte Stoffe und Zubereitungen
+| P3a ENTZÜNDBARE AEROSOLE (siehe Anmerkung 11.1) „Entzündbares” Aerosol der Gefahrenkategorie 1 oder 2, umfasst entzündbare Gase der Gefahrenkategorie 1 oder 2 oder entzündbare Flüssigkeiten der Gefahrenkategorie 1 | 150 (netto) | 500 (netto) |
 
-Fällt ein in Teil 1 genannter Stoff oder eine in Teil 1 genannte Zubereitung oder eine in Teil 1 genannte Gruppe von Stoffen oder Zubereitungen auch unter eine oder mehrere Kategorien von in Teil 2 genannten Stoffen oder Zubereitungen, so sind die in Teil 1 festgelegten Mengenschwellen anzuwenden.
+| P3b ENTZÜNDBARE AEROSOLE (siehe Anmerkung 11.1) „Entzündbares” Aerosol der Gefahrenkategorie 1 oder 2, umfasst weder entzündbare Gase der Gefahrenkategorie 1 oder 2 noch entzündbare Flüssigkeiten der Gefahrenkategorie 1 (siehe Anmerkung 11.2) | 5 000 (netto) | 50 000 (netto) |
 
-| Ziffer | Spalte 1 | Spalte 2 | Spalte 3 |
+| P4 ENTZÜNDEND (OXIDIEREND) WIRKENDE GASE Entzündend (oxidierend) wirkende Gase, Gefahrenkategorie 1 | 50 | 200 |
 
-| Bezeichnung der gefährlichen Stoffe und Zubereitungen | Mengenschwelle in Tonnen für die Anwendung von |
+| P5a ENTZÜNDBARE FLÜSSIGKEITEN – entzündbare Flüssigkeiten der Gefahrenkategorie 1 – entzündbare Flüssigkeiten der Gefahrenkategorie 2 oder 3, die auf einer Temperatur über ihrem Siedepunkt gehalten werden – andere Flüssigkeiten mit einem Flammpunkt von ≤ 60°C, die auf einer Temperatur über ihrem Siedepunkt gehalten werden (siehe Anmerkung 12) | 10 | 50 |
 
-| § 84a Abs. 2 Z 1 GewO 1994 | § 84a Abs. 2 Z 2 GewO 1994 |
+| P5b ENTZÜNDBARE FLÜSSIGKEITEN – entzündbare Flüssigkeiten der Gefahrenkategorie 2 oder 3, bei denen besondere Verarbeitungsbedingungen wie Hochdruck oder hohe Temperaturen zu Gefahren schwerer Unfälle führen können – andere Flüssigkeiten mit einem Flammpunkt von ≤ 60°C, bei denen besondere Verarbeitungsbedingungen wie Hochdruck oder hohe Temperaturen zu Gefahren schwerer Unfälle führen können (siehe Anmerkung 12) | 50 | 200 |
 
-| 1.1 | Ammoniumnitrat 1) | 5 000 | 10 000 |
+| P5c ENTZÜNDBARE FLÜSSIGKEITEN Entzündbare Flüssigkeiten der Gefahrenkategorie 2 oder 3, nicht erfasst unter P5a und P5b | 5 000 | 50 000 |
 
-| 1.2 | Ammoniumnitrat 2) | 1 250 | 5 000 |
+| P6a SELBSTZERSETZLICHE STOFFE UND GEMISCHE und ORGANISCHE PEROXIDE Selbstzersetzliche Stoffe und Gemische, Typ A oder B Organische Peroxide, Typ A oder B | 10 | 50 |
 
-| 1.3 | Ammoniumnitrat 3) | 350 | 2 500 |
+| P6b SELBSTZERSETZLICHE STOFFE UND GEMISCHE und ORGANISCHE PEROXIDE Selbstzersetzliche Stoffe und Gemische, Typ C, D, E oder F Organische Peroxide, Typ C, D, E oder F | 50 | 200 |
 
-| 1.4 | Ammoniumnitrat 4) | 10 | 50 |
+| P7 SELBSTENTZÜNDLICHE (PYROPHORE) FLÜSSIGKEITEN UND FESTSTOFFE Selbstentzündliche (pyrophore) Flüssigkeiten der Gefahrenkategorie 1 Selbstentzündliche (pyrophore) Feststoffe der Gefahrenkategorie 1 | 50 | 200 |
 
-| 2.1 | Kaliumnitrat 5) | 5 000 | 10 000 |
+| P8 ENTZÜNDEND (OXIDIEREND) WIRKENDE FLÜSSIGKEITEN UND FESTSTOFFE Entzündend (oxidierend) wirkende Flüssigkeiten der Gefahrenkategorie 1, 2 oder 3 Entzündend (oxidierend) wirkende Feststoffe, Gefahrenkategorie 1, 2 oder 3 | 50 | 200 |
 
-| 2.2 | Kaliumnitrat 6) | 1 250 | 5 000 |
+| Abschnitt „E“ – UMWELTGEFAHREN |
 
-| 3 | Diarsenpentaoxid, Arsensäure oder ihre Salze | 1 | 2 |
+| E1 Gewässergefährdend, Gefahrenkategorie Akut 1 oder Chronisch 1 | 100 | 200 |
 
-| 4 | Arsentrioxid (Diarsentrioxid), arsenige Säure und ihre Salze | 0,1 | 0,1 |
+| E2 Gewässergefährdend, Gefahrenkategorie Chronisch 2 | 200 | 500 |
 
-| 5 | Brom | 20 | 20 |
+| Abschnitt „O“ – ANDERE GEFAHREN |
 
-| 6 | Chlor | 10 | 25 |
+| O1 Stoffe oder Gemische mit dem Gefahrenhinweis EUH014 | 100 | 500 |
 
-| 7 | Atemgängige Nickelverbindungen (Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickel-disulfid, Dinickeltrioxid) | 1 | 1 |
+| O2 Stoffe und Gemische, die bei Berührung mit Wasser entzündbare Gase entwickeln, Gefahrenkategorie 1 | 100 | 500 |
 
-| 8 | Ethylenimin (Aziridin) | 10 | 20 |
-
-| 9 | Fluor | 10 | 20 |
-
-| 10 | Formaldehyd (C ≥ 90%) | 5 | 50 |
-
-| 11 | Wasserstoff | 5 | 50 |
-
-| 12 | Chlorwasserstoff (verflüssigtes Gas) | 25 | 250 |
-
-| 13 | Bleialkyle | 5 | 50 |
-
-| 14 | Hochentzündliche verflüssigte Gase und Erdgas | 50 | 200 |
-
-| 15 | Acetylen (Ethin) | 5 | 50 |
-
-| 16 | Ethylenoxid | 5 | 50 |
-
-| 17 | Propylenoxid | 5 | 50 |
-
-| 18 | Methanol | 200 | 200 |
-
-| 19 | 4,4-Methylen-bis (2-chloroanilin) und seine Salze, pulverförmig | 0,01 | 0,01 |
-
-| 20 | Methylisocyanat | 0,15 | 0,15 |
-
-| 21 | Sauerstoff | 200 | 200 |
-
-| 22 | Toluylendiisocyanat | 10 | 100 |
-
-| 23 | Carbonylchlorid (Phosgen) | 0,3 | 0,75 |
-
-| 24 | Arsentrihydrid (Arsin) | 0,2 | 1 |
-
-| 25 | Phosphortrihydrid (Phosphin) | 0,2 | 1 |
-
-| 26 | Schwefeldichlorid | 1 | 1 |
-
-| 27 | Schwefeltrioxid | 15 | 75 |
-
-| 28 | Polychlordibenzofurane und Polychlordibenzodioxine, in TCDD-Äquivalenten berechnet 7) | 0,001 | 0,001 |
-
-| 29 | Folgende krebserzeugende Stoffe bei einer Konzentration von über 5 Gewichtsprozent: 4-Aminobiphenyl oder seine Salze, Benzotrichlorid, Benzidin oder seine Salze, Bis(chlormethyl)ether, Chlormethylmethylether, 1,2-Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethylcarbamoylchlorid, 1,2-Dibrom-3-chlorpropan, 1,2-Dimethylhydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2-Naphthylamin oder seine Salze, 4-Nitrobiphenyl und 1,3-Propansulton | 0,5 | 2 |
-
-| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha b) Kerosin einschließlich Turbinenkraftstoffe c) Gasöle (Dieselkraftstoffe, Heizöle und Gasölmischströme) 8) | 2 500 | 25 000 |
-
-### Anmerkungen zu Teil 1:
-
-- 1) Gilt für Düngemittel, die zu einer selbstunterhaltenden Zersetzung fähig sind; dies sind Ammoniumnitrat-Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
-
-  - a) gewichtsmäßig zwischen 15,75% und 24,5% beträgt und die entweder insgesamt höchstens 0,4% brennbaren organischen Materials enthalten oder die Anforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 über Düngemittel, ABl. Nr. L 301 vom 21.11.2003 S. 1 erfüllen,
-
-  - b) gewichtsmäßig höchstens 15,75% beträgt und brennbares organisches Material keiner Begrenzung unterliegt,
-
-und die nach der Trogprüfung der Vereinten Nationen zu einer selbstunterhaltenden Zersetzung fähig sind.
-
-Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 15,75% entspricht 45% Ammoniumnitrat. Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 24,5% entspricht 70% Ammoniumnitrat.
-
-Die Trogprüfung („trough test“ nach „United Nations Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria“, Teil III Abschnitt 38.2) wird auf der Internetseite des Bundesministeriums für Wirtschaft, Familie und Jugend zur Verfügung gestellt.
-
-- 2) Gilt für reine Ammoniumnitrat-Düngemittel und für Ammoniumnitrat-Mischdünger/Volldünger, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
-
-- a) gewichtsmäßig größer als 24,5% ist, ausgenommen Mischungen von Ammoniumnitrat und Dolomit, Kalkstein oder Caliumcarbonat mit einem Reinheitsgrad von mindestens 90%,
-
-- b) bei Mischungen von Ammoniumnitrat und Ammoniumsulfat gewichtsmäßig größer als 15,75% ist,
-
-- c) bei Mischungen von Ammoniumnitrat und Dolomit, Kalkstein oder Calciumcarbonat mit einem Reinheitsgrad von mindestens 90% gewichtsmäßig größer als 28% ist,
-
-und welche die Anforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 über Düngemittel erfüllen.
-
-Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 28% entspricht 80% Ammoniumnitrat.
-
-- 3) Gilt für
-
-  - a) Ammoniumnitrat in technischer Qualität, dh. für Ammoniumnitrat und Zubereitungen aus Ammoniumnitrat, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt
-
-  - – gewichtsmäßig zwischen 24,5% und 28% beträgt und die höchstens 0,4% brennbarer Stoffe enthalten,
-
-  - – gewichtsmäßig größer als 28% ist und die höchstens 0,2% brennbarer Stoffe enthalten,
-
-  - b) wässrige Lösungen von Ammoniumnitrat, bei denen die Konzentration von Ammoniumnitrat gewichtsmäßig größer als 80% ist.
-
-- 4) Gilt für nicht spezifikationsgerechtes Material und Düngemittel, die den Detonationstest nicht bestehen; diese Gruppe umfasst
-
-  - a) zurückgewiesenes Material aus dem Produktionsprozess und für Ammoniumnitrat und Zubereitungen von Ammoniumnitrat, reine Ammoniumnitrat-Düngemittel und Ammoniumnitrat-Mischdünger/Volldünger gemäß den Anmerkungen zu Z 1.2 und 1.3, die vom Endverbraucher an einen Hersteller, an einen Inhaber einer Anlage zur vorübergehenden Lagerung oder einer Wiederaufbereitungsanlage zum Zwecke der Aufarbeitung, der Wiederaufbereitung oder der Behandlung zur sicheren Verwendung zurückgegeben werden oder wurden, weil sie die Anforderungen der Z 1.2 und 1.3 nicht mehr erfüllen,
-
-  - b) Düngemittel gemäß den Anmerkungen zu Z 1.1 und 1.2, welche die Anforderungen der Verordnung (EG) Nr. 2003/2003 über Düngemittel nicht erfüllen.
-
-- 5) Gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat mit Kaliumnitrat in geprillter oder granulierter Form.
-
-- 6) Gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat mit Kaliumnitrat in kristalliner Form.
-
-- 7) Die Berechnung der Äquivalenzfaktoren für PCDD und PCDF hat nach dem § 3 Abs. 7 der Luftreinhalteverordnung für Kesselanlagen 1989 – LRV-K 1989, BGBl. Nr. 19, zuletzt geändert durch die Verordnung BGBl. II Nr. 55/2005 zu erfolgen.
-
-- 8) Brennbare Flüssigkeiten gemäß UN/ADR-Nr. 1202.
+| O3 Stoffe oder Gemische mit dem Gefahrenhinweis EUH029 | 50 | 200 |
 
 ## Teil 2
 
-## Kategorien von namentlich nicht in Teil 1 genannten Stoffen und Zubereitungen
+## Namentlich angeführte Stoffe
 
-| Ziffer | Spalte 1 | Spalte 2 | Spalte 3 |
+Fällt ein in Teil 2 angeführter Stoff/eine in Teil 2 angeführte Gruppe von Stoffen auch unter eine in Teil 1 angeführte Kategorie von Stoffen, so sind die in Teil 2 festgelegten Mengenschwellen anzuwenden.
 
-| Kategorie der gefährlichen Stoffe und Zubereitungen | Mengenschwelle in Tonnen für die Anwendung von |
+| Spalte 1 | Spalte 2 | Spalte 3 |
 
-| § 84a Abs. 2 Z 1 GewO 1994 | § 84a Abs. 2 Z 2 GewO 1994 |
+| Seveso-Stoffe | Mengenschwelle in Tonnen für die Erfüllung der Anforderungen an Betriebe |
 
-| 1 | sehr giftig | 5 | 20 |
+| der unteren Klasse | der oberen Klasse |
 
-| 2 | giftig | 50 | 200 |
+| 1. Ammoniumnitrat (siehe Anmerkung 13) | 5 000 | 10 000 |
 
-| 3 | brandfördernd | 50 | 200 |
+| 2. Ammoniumnitrat (siehe Anmerkung 14) | 1 250 | 5 000 |
 
-| 4 | explosionsgefährlich 1) (UN/ADR – Klasse 1.4) | 50 | 200 |
+| 3. Ammoniumnitrat (siehe Anmerkung 15) | 350 | 2 500 |
 
-| 5 | explosionsgefährlich 1) (UN/ADR – Klassen 1.1, 1.2, 1.3, 1.5, 1.6 oder Gefahrenhinweise R 2 oder R 3) | 10 | 50 |
+| 4. Ammoniumnitrat (siehe Anmerkung 16) | 10 | 50 |
 
-| 6 | entzündlich 2) | 5 000 | 50 000 |
+| 5. Kaliumnitrat (siehe Anmerkung 17) | 5 000 | 10 000 |
 
-| 7 | leicht entzündlich 3) | 50 | 200 |
+| 6. Kaliumnitrat (siehe Anmerkung 18) | 1 250 | 5 000 |
 
-| 8 | leicht entzündlich 4) | 5 000 | 50 000 |
+| 7. Diarsenpentaoxid, Arsen(V)-Säure und/oder -Salze | 1 | 2 |
 
-| 9 | hochentzündliche Gase und Flüssigkeiten 5) | 10 | 50 |
+| 8. Diarsentrioxid, Arsen (III)-Säure und/oder -Salze | 0,1 | 0,1 |
 
-| 10 | umweltgefährlich (Gefahrenhinweis R 50 oder R 50/53) | 100 | 200 |
+| 9. Brom | 20 | 100 |
 
-| 11 | umweltgefährlich (Gefahrenhinweis R 51/53) | 200 | 500 |
+| 10. Chlor | 10 | 25 |
 
-| 12 | Stoffe mit Einstufung mit Gefahrenhinweis R 14 oder R 14/15, soweit nicht durch Z 1 bis 11 erfasst | 100 | 500 |
+| 11. Atemgängige pulverförmige Nickelverbindungen: Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickeldisulfid, Dinickeltrioxid | 1 | 1 |
 
-| 13 | Stoffe mit der Einstufung R 29, soweit nicht durch Z 1 bis 11 erfasst | 50 | 200 |
+| 12. Ethylenimin | 10 | 20 |
 
-### Anmerkungen zu Teil 2:
+| 13. Fluor | 10 | 20 |
 
-- 1) Als explosionsgefährlich im Sinne des Teils 2 sind auch pyrotechnische Stoffe oder Zubereitungen zu werten, mit welchen durch selbstständige, nicht detonierende, unter Freiwerden von Wärme ablaufender Reaktionen Licht, Gas, Schall, Rauch oder Wärme oder eine Kombination dieser Wirkungen erzielt werden soll. Diese Definition umfasst auch explosionsgefährliche oder pyrotechnische Stoffe oder Zubereitungen, die in Gegenständen enthalten sind. Ist bei Gegenständen, die explosionsgefährliche oder pyrotechnische Stoffe oder Zubereitungen enthalten, die enthaltende Menge des Stoffs oder der Zubereitung bekannt, so ist für die Zwecke dieses Anhangs diese Menge maßgebend. Ist die Menge nicht bekannt, so ist für die Zwecke dieses Anhangs der gesamte Gegenstand als explosionsgefährlich anzusehen.
+| 14. Formaldehyd (C /Dokumente/Bundesnormen/NOR40193411/image001.png 90%) | 5 | 50 |
 
-- 2) Entzündliche Stoffe oder Zubereitungen im Sinne der Z 6 sind entzündliche Flüssigkeiten mit einem Flammpunkt von mindestens 21 °C und höchstens 55 °C (Gefahrenhinweis R 10), sofern sie eine Verbrennung unterhalten können.
+| 15. Wasserstoff | 5 | 50 |
 
-- 3) Leicht entzündliche Stoffe und Zubereitungen im Sinne der Z 7 sind leicht entzündliche Flüssigkeiten mit dem Gefahrenhinweis R 17 oder flüssige Stoffe und Zubereitungen, die einen Flammpunkt unter 55 °C haben und die unter Druck in flüssigem Zustand bleiben, sofern bei bestimmten Arten der Behandlung, zB unter hohem Druck und bei hoher Temperatur, das Risiko schwerer Unfälle entstehen kann.
+| 16. Chlorwasserstoff (verflüssigtes Gas) | 25 | 250 |
 
-- 4) Leicht entzündliche Stoffe und Zubereitungen im Sinne der Z 8 sind leicht entzündliche Flüssigkeiten mit Gefahrenhinweis R 11.
+| 17. Bleialkyle | 5 | 50 |
 
-- 5) Hochentzündliche Stoffe und Zubereitungen im Sinne der Z 9 sind Gase und Flüssigkeiten mit dem Gefahrenhinweis R 12 (Gase mit dem Gefahrenhinweis R 12, die sich in einem gasförmigen oder überkritischen Zustand befinden) oder entzündliche und leicht entzündliche flüssige Stoffe und Zubereitungen, die auf einer Temperatur oberhalb ihres jeweiligen Siedebereiches gehalten werden.
+| 18. Verflüssigte entzündbare Gase, Kategorie 1 oder 2 (einschließlich LPG) und Erdgas (siehe Anmerkung 19) | 50 | 200 |
+
+| 19. Acetylen | 5 | 50 |
+
+| 20. Ethylenoxid | 5 | 50 |
+
+| 21. Propylenoxid | 5 | 50 |
+
+| 22. Methanol | 500 | 5 000 |
+
+| 23. 4,4′-Methylen-bis (2-chloranilin) und seine Salze, pulverförmig | 0,01 | 0,01 |
+
+| 24. Methylisocyanat | 0,15 | 0,15 |
+
+| 25. Sauerstoff | 200 | 2 000 |
+
+| 26. 2,4-Toluylendiisocyanat, 2,6-Toluylendiisocyanat | 10 | 100 |
+
+| 27. Carbonylchlorid (Phosgen) | 0,3 | 0,75 |
+
+| 28. Arsin (Arsentrihydrid) | 0,2 | 1 |
+
+| 29. Phosphin (Phosphortrihydrid) | 0,2 | 1 |
+
+| 30. Schwefeldichlorid | 1 | 1 |
+
+| 31. Schwefeltrioxid | 15 | 75 |
+
+| 32. Polychlordibenzofurane und Polychlordibenzodioxine (einschließlich TCDD) in TCDD – Äquivalenten (siehe Anmerkung 20) | 0,001 | 0,001 |
+
+| 33. Die folgenden KARZINOGENE oder Gemische, die die folgenden Karzinogene mit einer Konzentration von 5 Gew.-% enthalten: 4Aminobiphenyl und/oder seine Salze, Benzotrichlorid, Benzidin und/oder seine Salze, Bis(chlormethyl)ether, Chlormethylmethylether, 1,2Dibromethan, Diethylsulfat, Dimethylsulfat, Dimethylcarbamoylchlorid, 1,2Dibrom3chlorpropan, 1,2Dimethylhydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2Naphthylamin und/oder seine Salze, 4Nitrodiphenyl und 1,3Propansulton | 0,5 | 2 |
+
+| 34. Erdölerzeugnisse und alternative Kraftstoffe: a) Ottokraftstoffe und Naphtha b) Kerosin einschließlich Turbinenkraftstoffe c) Gasöle (einschließlich Dieselkraftstoffe, Heizöle und Gasölmischströme) d) Schweröle e) alternative Kraftstoffe, die denselben Zwecken dienen und in Bezug auf Entflammbarkeit und Umweltgefährdung ähnliche Eigenschaften aufweisen wie die unter lit. a bis d genannten Erzeugnisse | 2 500 | 25 000 |
+
+| 35. Ammoniak, wasserfrei | 50 | 200 |
+
+| 36. Bortrifluorid | 5 | 20 |
+
+| 37. Schwefelwasserstoff | 5 | 20 |
+
+| 38. Piperidin | 50 | 200 |
+
+| 39. Bis(2-dimethylaminoethyl)methylamin | 50 | 200 |
+
+| 40. 3-(2-Ethylhexyloxy)propylamin | 50 | 200 |
+
+| 41. Natriumhypochlorit-Gemische(*), die als gewässergefährdend – akut 1 [H400] eingestuft sind und weniger als 5% Aktivchlor enthalten und in keine der anderen Gefahrenkategorien in diesem Anhang Teil 1 eingestuft sind (*) Vorausgesetzt das Gemisch wäre ohne Natriumhypochlorit nicht als gewässergefährdend – akut 1 [H400] eingestuft | 200 | 500 |
+
+| 42. Propylamin (siehe Anmerkung 21) | 500 | 2 000 |
+
+| 43. tert-Butylacrylat (siehe Anmerkung 21) | 200 | 500 |
+
+| 44. 2-Methyl-3-butennitril (siehe Anmerkung 21) | 500 | 2 000 |
+
+| 45. Tetrahydro-3,5-Dimethyl-1,3,5-thiadiazin-2-thion (Dazomet) (siehe Anmerkung 21) | 100 | 200 |
+
+| 46. Methylacrylat (siehe Anmerkung 21) | 500 | 2 000 |
+
+| 47. 3-Methylpyridin (siehe Anmerkung 21) | 500 | 2 000 |
+
+| 48. 1-Brom-3-chlorpropan (siehe Anmerkung 21) | 500 | 2 000 |
+
+## Anmerkungen zu Anhang 6
+
+| 1. | Die Stoffe und Gemische sind gemäß der Verordnung (EG) Nr. 1272/2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. Nr. L 353 vom 31.12.2008 S. 1, eingestuft. |
+
+| 2. | Gemische werden in der gleichen Weise behandelt wie reine Stoffe, sofern sie aufgrund der Konzentrationsgrenzen gemäß der Verordnung (EG) Nr. 1272/2008 oder deren letzten Anpassung an den technischen Fortschritt die gleichen Eigenschaften (wie die reinen Stoffe) haben, es sei denn, dass eigens eine prozentuale Zusammensetzung oder eine andere Beschreibung angegeben ist. |
+
+| 3. | Die vorstehend angegebenen Mengenschwellen gelten je Seveso-Betrieb. Die für die Anwendung der einschlägigen Bestimmungen der §§ 59a bis 59m zu berücksichtigenden Mengen sind die Höchstmengen, die zu irgendeinem Zeitpunkt vorhanden sind oder vorhanden sein können. Seveso-Stoffe, die in einem Seveso-Betrieb nur in einer Menge von höchstens 2% der relevanten Mengenschwelle vorhanden sind, bleiben bei der Berechnung der vorhandenen Gesamtmenge unberücksichtigt, wenn sie sich innerhalb eines Seveso-Betriebs an einem Ort befinden, an dem sie nicht als Auslöser eines schweren Unfalls an einem anderen Ort des Seveso-Betriebs wirken können. |
+
+| 4. | Für das Addieren von Mengen von Seveso-Stoffen oder von Kategorien von Seveso-Stoffen gilt Folgendes: Bei einem Seveso-Betrieb, in dem kein einzelner Seveso-Stoff in einer Menge vorhanden ist, die der jeweiligen Mengenschwelle entspricht oder größer ist, ist zur Beurteilung, ob der Seveso-Betrieb unter die einschlägigen Vorschriften der §§ 59a bis 59m fällt oder nicht, folgende Additionsregel anzuwenden: – Die §§ 59a bis 59m sind auf Betriebe der oberen Klasse anzuwenden, wenn die Summe q1/QU1 + q2/QU2 + q3/QU3 + q4/QU4 + q5/QU5 + … größer oder gleich 1 ist, dabei ist qx die Menge des Seveso-Stoffes x (oder Seveso-Stoffe ein und derselben Kategorie), der (die) unter Teil 1 oder Teil 2 dieses Anhangs fällt (fallen), und QUX die in Teil 1 Spalte 3 oder Teil 2 Spalte 3 angegebene relevante Mengenschwelle für den Seveso-Stoff oder die Kategorie x. – Die §§ 59a bis 59m sind auf Betriebe der unteren Klasse anzuwenden, wenn die Summe q1/QL1 + q2/QL2 + q3/QL3 + q4/QL4 + q5/QL5 + … größer oder gleich 1 ist, dabei ist qx die Menge des Seveso-Stoffes x (oder Seveso-Stoffe ein und derselben Kategorie), der (die) unter Teil 1 oder 2 dieses Anhangs fällt (fallen), und QLX die in Teil 1 Spalte 2 oder Teil 2 Spalte 2 angegebene relevante Mengenschwelle für den Seveso-Stoff oder die Kategorie x. Die Additionsregel dient der Beurteilung der Gesundheitsgefahren, physikalischen Gefahren und Umweltgefahren und ist daher wie folgt dreimal anzuwenden: a) für das Addieren von in Teil 2 angeführten Seveso-Stoffen, die unter die Gefahren-kategorien „akute Toxizität 1, 2 oder 3 (Inhalation)“ oder STOT SE Gefahrenkategorie 1 fallen, und Seveso-Stoffen, die unter Teil 1 Abschnitt H, Einträge H1 bis H3 fallen, b) für das Addieren von in Teil 2 angeführten Seveso-Stoffen, die explosive Stoffe, entzündbare Gase, entzündbare Aerosole, entzündend (oxidierend) wirkende Gase, entzündbare Flüssigkeiten, selbstzersetzliche Stoffe und Gemische, organische Peroxide, selbstentzündliche (pyrophore) Flüssigkeiten und Feststoffe, entzündend (oxidierend) wirkende Feststoffe und Flüssigkeiten sind, und Seveso-Stoffen, die unter Teil 1 Abschnitt P, Einträge P1 bis P8 fallen, c) für das Addieren von in Teil 2 angeführten Seveso-Stoffen, die unter „gewässergefährdend — akute Gefahr 1, chronische Gefahr 1 oder chronische Gefahr 2“ fallen, und Seveso-Stoffen, die unter Teil 1 Abschnitt E, Einträge E1 und E2 fallen. Die einschlägigen Bestimmungen der §§ 59a bis 59m sind anzuwenden, wenn eine der bei lit. a, b oder c erhaltenen Summen größer oder gleich 1 ist. |
+
+| 5. | Stoffe mit gefahrenrelevanten Eigenschaften, einschließlich Abfälle, die nicht unter die Verordnung (EG) Nr. 1272/2008 fallen, aber dennoch in einem Seveso-Betrieb vorhanden sind oder vorhanden sein können und unter den in dem Seveso-Betrieb angetroffenen Bedingungen hinsichtlich ihres Unfallpotenzials gleichwertige Eigenschaften besitzen oder besitzen können, werden vorläufig der ähnlichsten Gefahrenkategorie oder dem ähnlichsten namentlich angeführten Seveso-Stoff, die oder der in den Anwendungsbereich der §§ 59a bis 59m fällt, zugeordnet. |
+
+| 6. | Bei Seveso-Stoffen mit Eigenschaften, die zu mehr als einer Einstufung Anlass geben, gelten die jeweils niedrigsten Mengenschwellen. Bei Anwendung der in der Anmerkung 4 festgelegten Additionsregel wird jedoch die niedrigste Mengenschwelle für jede Gruppe von Kategorien in der Anmerkung 4 lit. a, der Anmerkung 4 lit. b und der Anmerkung 4 lit. c, die der jeweiligen Einstufung entspricht, verwendet. |
+
+| 7. | Seveso-Stoffe, die unter akut toxisch, Gefahrenkategorie 3, oral (H 301) fallen, fallen in jenen Fällen, in denen sich weder eine Einstufung in akute Inhalationstoxizität noch eine Einstufung in akute dermale Toxizität ableiten lässt, etwa weil schlüssige Daten zur Inhalations- und zur dermalen Toxizität fehlen, unter den Eintrag H2 akut toxisch. |
+
+| 8. | Die Gefahrenklasse „explosive Stoffe“ umfasst Erzeugnisse mit Explosivstoff (siehe den Anhang I Abschnitt 2.1 der Verordnung (EG) Nr. 1272/2008). Ist die Menge des explosiven Stoffs oder des explosiven Gemisches in dem Erzeugnis bekannt, ist diese Menge maßgebend. Ist die Menge des explosiven Stoffs oder explosiven Gemisches in dem Erzeugnis unbekannt, ist das gesamte Erzeugnis als explosiv zu betrachten. |
+
+| 9. | Die Prüfung auf explosive Eigenschaften von Stoffen und Gemischen ist nur dann erforderlich, wenn das durchzuführende Screening – Verfahren nach Anhang 6, Teil 3 der Empfehlungen der Vereinten Nationen für die Beförderung gefährlicher Güter, Handbuch über Prüfungen und Kriterien (United Nations Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria – UN Manual of Tests and Criteria; sh. http://www.unece.org/trans/danger/danger.html) bei dem Stoff oder dem Gemisch mögliche explosive Eigenschaften nachweist. |
+
+| 10. | Werden explosive Stoffe und Gemische der Unterklasse 1.4 (Eintrag P1b) aus ihrer Verpackung entfernt oder wiederverpackt, sind sie unter Eintrag P1a einzustufen, es sei denn, die Gefahr entspricht nachweislich nach wie vor der Unterklasse 1.4 im Sinne der Verordnung (EG) Nr. 1272/2008. |
+
+| 11.1. | Entzündbare Aerosole sind im Sinne der Richtlinie 75/324/EWG zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen, ABl. Nr. L 147 vom 09.06.1975 S. 40, zuletzt geändert durch die Richtlinie 2013/10/EU, ABl. Nr. L 77 vom 20.03.2013 S. 20, einzustufen. Die Kategorien „extrem brennbar“ und „brennbar“ für Aerosole gemäß der Richtlinie 75/324/EWG entsprechen den Gefahrenkategorien „entzündbare Aerosole, Kategorie 1 bzw. 2“ der Verordnung (EG) Nr. 1272/2008. |
+
+| 11.2. | Um diesen Eintrag zu nutzen, darf die Aerosolpackung nachweislich weder ein entzündbares Gas der Gefahrenkategorie 1 oder 2 noch eine entzündbare Flüssigkeit der Gefahrenkategorie 1 enthalten. |
+
+| 12. | Gemäß Anhang I Abschnitt 2.6.4.5 der Verordnung (EG) Nr. 1272/2008 müssen Flüssigkeiten mit einem Flammpunkt über 35 °C nicht in die Kategorie 3 eingestuft werden, wenn die Prüfung L.2 zur Bestimmung der selbstunterhaltenden Verbrennung nach dem UN Manual of Tests and Criteria Teil III Abschnitt 32 (sh. http://www.unece.org/trans/danger/danger.html), negativ ausgefallen ist. Dies gilt nicht bei veränderten Bedingungen wie einer hohen Temperatur oder Hochdruck, und daher sind solche Flüssigkeiten in diesem Eintrag eingeschlossen. |
+
+| 13. | Ammoniumnitrat (5 000/10 000): Düngemittel, die zu einer selbstunterhaltenden Zersetzung fähig sind: Dies gilt für Ammoniumnitrat-Mischdünger/Volldünger (Mischdünger/Volldünger enthalten Ammoniumnitrat mit Phosphat und/oder Pottasche), die nach der Trogprüfung der Vereinten Nationen (UN Manual of Tests and Criteria, Teil III, Unterabschnitt 38.2; sh. http://www.unece.org/trans/danger/danger.html) zu einer selbstunterhaltenden Zersetzung fähig sind und bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt – gewichtsmäßig zwischen 15,75% 1) und 24,5% 2) beträgt und die entweder insgesamt höchstens 0,4% brennbaren / organischen Materials enthalten oder die Anforderungen des Anhangs III-2 der Verordnung (EG) Nr. 2003/2003 über Düngemittel, ABl. Nr. L 304 vom 21.11.2003 S. 1, erfüllen; – gewichtsmäßig höchstens 15,75% beträgt und brennbares Material keiner Begrenzung unterliegt. |
+
+| 14. | Ammoniumnitrat (1 250/5 000): Düngemittelqualität: Dies gilt für reine Ammoniumnitrat-Düngemittel und für Ammoniumnitrat-Mischdünger/Volldünger, die die Anforderungen des Anhangs III-2 der Verordnung (EG) Nr. 2003/2003 erfüllen und bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt – gewichtsmäßig größer als 24,5% ist, ausgenommen Gemische von reinen Ammoniumnitrat-Düngemitteln und Dolomit, Kalkstein und/oder Calciumcarbonat mit einem Reinheitsgrad von mindestens 90%; – bei Gemischen von Ammoniumnitrat und Ammoniumsulfat gewichtsmäßig größer als 15,75% ist; – bei Gemischen von reinen Ammoniumnitrat-Düngemitteln und Dolomit, Kalkstein und/oder Calciumcarbonat mit einem Reinheitsgrad von mindestens 90% gewichtsmäßig größer als 28% 3) ist. |
+
+| 15. | Ammoniumnitrat (350/2 500): technische Qualität: Dies gilt für Ammoniumnitrat und Gemische von Ammoniumnitrat, bei denen der von Ammoniumnitrat abgeleitete Stickstoffgehalt – gewichtsmäßig zwischen 24,5% und 28% beträgt und die höchstens 0,4% brennbarer Stoffe enthalten; – gewichtsmäßig größer als 28% ist und die höchstens 0,2% brennbarer Stoffe enthalten. Das gilt auch für wässrige Lösungen von Ammoniumnitrat, bei denen die Konzentration von Ammoniumnitrat gewichtsmäßig größer als 80% ist. |
+
+| 16. | Ammoniumnitrat (10/50): nicht spezifikationsgerechtes Material („Off-Specs“) und Düngemittel, die den Detonationstest nicht bestehen: Dies gilt für – zurückgewiesenes Material aus dem Produktionsprozess und für Ammoniumnitrat und Gemische von Ammoniumnitrat, reine Ammoniumnitrat-Düngemittel und Ammoniumnitrat-Mischdünger/Volldünger gemäß den Anmerkungen 14 und 15, die vom Endverbraucher an einen Hersteller, eine Anlage zur vorübergehenden Lagerung oder eine Wiederaufarbeitungsanlage zum Zweck der Aufarbeitung, Wiederverwertung oder Behandlung zur sicheren Verwendung zurückgegeben werden oder wurden, weil sie die Anforderungen der Anmerkungen 14 und 15 nicht mehr erfüllen; – Düngemittel gemäß der Anmerkung 13 erster Gedankenstrich und der Anmerkung 14, die die Anforderungen des Anhangs III-2 der Verordnung (EG) Nr. 2003/2003 nicht erfüllen. |
+
+| 17. | Kaliumnitrat (5 000/10 000): Dies gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat (in geprillter oder granulierter Form), der dieselben gefährlichen Eigenschaften wie reines Kaliumnitrat hat. |
+
+| 18. | Kaliumnitrat (1 250/5 000): Dies gilt für Mehrnährstoffdünger auf der Basis von Kaliumnitrat (in kristalliner Form), der dieselben gefährlichen Eigenschaften wie reines Kaliumnitrat hat. |
+
+| 19. | Aufbereitetes Biogas: Aufbereitetes Biogas kann unter Teil 2 Z 18 dieses Anhangs eingestuft werden, wenn es nach anwendbaren Standards für gereinigtes und aufbereitetes Biogas aufbereitet wurde, so dass eine dem Erdgas äquivalente Qualität, einschließlich des Methangehalts, gewährleistet ist, und es höchstens 1% Sauerstoff enthält. |
+
+| 20. | Polychlordibenzofurane und Polychlordibenzodioxine: Die Berechnung der Mengen von Polychlordibenzofuranen und Polychlordibenzodioxinen erfolgt anhand der nachstehend angeführten Äquivalenzfaktoren: WHO-Toxizitätsäquivalenzfaktor (TEF) 2005 2,3,7,8-TCDD 1 2,3,7,8-TCDF 0,1 1,2,3,7,8-PeCDD 1 2,3,4,7,8-PeCDF 0,3 1,2,3,7,8-PeCDF 0,03 1,2,3,4,7,8-HxCDD 0,1 1,2,3,6,7,8-HxCDD 0,1 1,2,3,4,7,8-HxCDF 0,1 1,2,3,7,8,9-HxCDD 0,1 1,2,3,7,8,9-HxCDF 0,1 1,2,3,6,7,8-HxCDF 0,1 1,2,3,4,6,7,8-HpCDD 0,01 2,3,4,6,7,8-HxCDF 0,1 OCDD 0,0003 1,2,3,4,6,7,8-HpCDF 0,01 1,2,3,4,7,8,9-HpCDF 0,01 OCDF 0,0003 (T = tetra, P = penta, Hx = hexa, Hp = hepta, O = octa) |
+
+| 21. | Wenn dieser Seveso-Stoff auch unter P5a entzündbare Flüssigkeiten oder P5b entzündbare Flüssigkeiten fällt, ist für die Beurteilung, welchen Bestimmungen der §§ 59a bis 59m der Seveso-Betrieb unterliegt, die jeweils niedrigste Mengenschwelle heranzuziehen. |
+
+1) Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 15,75% entspricht 45% Ammoniumnitrat.
+
+2) Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßigen 24,5% entspricht 70% Ammoniumnitrat.
+
+3) Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 28% entspricht 80% Ammoniumnitrat.

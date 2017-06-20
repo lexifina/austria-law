@@ -32,9 +32,9 @@
 
 - 1) Hierunter fallen Verbrennungsanlagen, deren Zweck in der Behandlung fester Siedlungsabfälle besteht, nur dann, wenn deren Energieeffizienz mindestens folgende Werte beträgt:
 
-  - – 0,60 für in Betrieb befindliche Anlagen, die nach geltendem Gemeinschaftsrecht vor dem 1. Januar 2009 genehmigt werden,
+– 0,60 für in Betrieb befindliche Anlagen, die nach geltendem Gemeinschaftsrecht vor dem 1. Januar 2009 genehmigt werden,
 
-  - – 0,65 für Anlagen, die nach dem 31. Dezember 2008 genehmigt werden,
+– 0,65 für Anlagen, die nach dem 31. Dezember 2008 genehmigt werden,
 
 wobei folgende Formel verwendet wird:
 
@@ -53,6 +53,56 @@ Ei die jährliche importierte Energiemenge ohne Ew und Ef (GJ/Jahr).
 0,97 ist ein Faktor zur Berechnung der Energieverluste durch Rost- und Kesselasche sowie durch Strahlung.
 
 Diese Formel ist entsprechend dem Referenzdokument zu den besten verfügbaren Techniken für die Abfallverbrennung zu verwenden.
+
+Der Wert der Energieeffizienzformel wird mit einem Klimakorrekturfaktor (Climate Correction Factor – CCF) wie folgt multipliziert:
+
+- 1. CCF für vor dem 1. September 2015 in Betrieb befindliche und nach geltendem EU-Recht genehmigte Anlagen:
+
+CCF = 1, wenn HDD
+
+/Dokumente/Bundesnormen/NOR40193410/image001.png
+
+3 350
+
+CCF = 1,25, wenn HDD
+
+/Dokumente/Bundesnormen/NOR40193410/image002.png
+
+2 150
+
+CCF = – (0,25/1 200)
+
+/Dokumente/Bundesnormen/NOR40193410/image003.png
+
+HDD + 1,698, wenn 2 150 HDD 3 350
+
+- 2. CCF für nach dem 31. August 2015 genehmigte Anlagen und für Anlagen gemäß Nummer 1 ab 31. Dezember 2029:
+
+CCF = 1, wenn HDD
+
+/Dokumente/Bundesnormen/NOR40193410/image001.png
+
+3 350
+
+CCF = 1,12, wenn HDD
+
+/Dokumente/Bundesnormen/NOR40193410/image002.png
+
+2 150
+
+CCF = – (0,12/1 200)
+
+/Dokumente/Bundesnormen/NOR40193410/image003.png
+
+HDD + 1,335, wenn 2 150 HDD 3 350
+
+(Der sich daraus ergebende CCF-Wert wird auf drei Dezimalstellen gerundet).
+
+Der HDD-Wert (Heating Degree Days, Heizgradtage) sollte dem Durchschnitt der jährlichen HDD-Werte für den Standort der Verbrennungsanlage entsprechen, berechnet für einen Zeitraum von 20 aufeinanderfolgenden Jahren vor dem Jahr, für das der CCF bestimmt wird. Der HDD-Wert sollte nach der folgenden Eurostat-Methode berechnet werden: HDD = (18 °C – Tm)
+
+/Dokumente/Bundesnormen/NOR40193410/image003.png
+
+d, wenn Tm weniger als oder gleich 15 °C (Heizschwelle) beträgt, und HDD = null, wenn Tm über 15 °C beträgt; dabei ist Tm die mittlere Außentemperatur (Tmin + Tmax)/2 über einen Zeitraum von d Tagen. Die Berechnungen sind täglich durchzuführen (d = 1) und auf ein Jahr hochzurechnen.
 
 - 2) Dies schließt Vergasung und Pyrolyse unter Verwendung der Bestandteile als Chemikalien ein.
 
