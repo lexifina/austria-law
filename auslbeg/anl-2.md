@@ -12,18 +12,22 @@
 
 | Abschluss eines Studiums an einer tertiären Bildungseinrichtung mit dreijähriger Mindestdauer | 30 |
 
-| ausbildungsadäquate Berufserfahrung | maximal anrechenbare Punkte: 10 |
+| ausbildungsadäquate Berufserfahrung | maximal anrechenbare Punkte: 20 |
 
 | Berufserfahrung (pro Jahr) Berufserfahrung in Österreich (pro Jahr) | 2 4 |
 
-| Sprachkenntnisse | maximal anrechenbare Punkte: 15 |
+| Sprachkenntnisse Deutsch | maximal anrechenbare Punkte: 15 |
 
-| Deutschkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau oder Englischkenntnisse zur selbständigen Sprachverwendung Deutschkenntnisse zur vertieften elementaren Sprachverwendung oder Englischkenntnisse zur vertieften selbständigen Sprachverwendung | 10 15 |
+| Deutschkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau Deutschkenntnisse zur vertieften elementaren Sprachverwendung Deutschkenntnisse zur selbständigen Sprachverwendung | 5 10 15 |
 
-| Alter | maximal anrechenbare Punkte: 20 |
+| Sprachkenntnisse Englisch | maximal anrechenbare Punkte: 10 |
 
-| bis 30 Jahre bis 40 Jahre | 20 15 |
+| Englischkenntnisse zur vertieften elementaren Sprachverwendung Englischkenntnisse zur selbständigen Sprachverwendung | 5 10 |
 
-| Summe der maximal anrechenbaren Punkte | 75 |
+| Alter | maximal anrechenbare Punkte: 15 |
 
-| erforderliche Mindestpunkteanzahl | 50 |
+| bis 30 Jahre bis 40 Jahre | 15 10 |
+
+| Summe der maximal anrechenbaren Punkte | 90 |
+
+| erforderliche Mindestpunkteanzahl | 55 |
