@@ -6,6 +6,6 @@ Artikel 23a. (1) Die Mitglieder des Europäischen Parlaments werden in Österrei
 
 (3) Wählbar sind die in Österreich zum Europäischen Parlament Wahlberechtigten, die am Wahltag das 18. Lebensjahr vollendet haben.
 
-(4) Art. 26 Abs. 5 bis 8 ist sinngemäß anzuwenden.
+(4) Art. 26 Abs. 5 bis 7 ist sinngemäß anzuwenden.
 
 (Anm.: Abs. 5 und 6 aufgehoben durch BGBl. I Nr. 27/2007)
