@@ -80,6 +80,10 @@ A. Kennzeichentafeln und Formate
 
 | (GKT) zweizeilig | + | weiß | schwarz | + | 6 | III |
 
+| Historisches Kennzeichen (HKT) einzeilig | + | Weiß | Schwarz | + | 3***) | IX |
+
+| (HKT) zweizeilig | + | Weiß | Schwarz | + | 3***) | VII |
+
 | Diplomat (DKT) | + | weiß | schwarz | – | 5 | I, III,VII |
 
 | Probe (PKT) | – | blau | weiß | + | 5 | Ia, IIIa |
@@ -94,7 +98,7 @@ A. Kennzeichentafeln und Formate
 
 | Motorrad (MRT) | + | weiß | schwarz | + | 4 **) | VII,VIII |
 
-| *) Anzahl der Zeichen insgesamt (Zulassungsbereich + Vormerkzeichen) **) Anzahl der Vormerkzeichen bei Nachbestellungen und Wunschkennzeichen bis zu 6 Zeichen |
+| *) Anzahl der Zeichen insgesamt (Zulassungsbereich + Vormerkzeichen) **) Anzahl der Vormerkzeichen bei Nachbestellungen und Wunschkennzeichen bis zu 6 Zeichen ***) Anzahl der Vormerkzeichen bei den in den Landeshauptstätten und Wien zugewiesenen Kennzeichen bis zu 4 Zeichen |
 
 | KENNZEICHENFORMATE |
 
@@ -118,9 +122,11 @@ A. Kennzeichentafeln und Formate
 
 | VIII | 210 x 170 mm |
 
+| IX | 460 x 120 mm |
+
 ### A.1. Maße und Schriftfelder
 
-/Dokumente/Bundesnormen/NOR40187199/image001.jpg
+/Dokumente/Bundesnormen/NOR40198826/image001.jpg
 
 | a: Breite des Feldes A (mm) |
 
@@ -146,17 +152,17 @@ A. Kennzeichentafeln und Formate
 
 | – mit einem Zeichen : 32 (bei W : 44, A:35, I : 9, L : 28) | – mit zwei Zeichen: max. 90 |
 
-/Dokumente/Bundesnormen/NOR40187199/image002.png
+/Dokumente/Bundesnormen/NOR40198826/image002.png
 
-/Dokumente/Bundesnormen/NOR40187199/image003.png
+/Dokumente/Bundesnormen/NOR40198826/image003.png
 
-/Dokumente/Bundesnormen/NOR40187199/image004.png
+/Dokumente/Bundesnormen/NOR40198826/image004.png
 
-/Dokumente/Bundesnormen/NOR40187199/image005.png
+/Dokumente/Bundesnormen/NOR40198826/image005.png
 
 Bei Nachbestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten mit sechs Vormerkzeichen steht die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile.
 
-/Dokumente/Bundesnormen/NOR40187199/image006.jpg
+/Dokumente/Bundesnormen/NOR40198826/image006.jpg
 
 m: Breite des Feldes MI (mm):
 
@@ -164,7 +170,9 @@ m: Breite des Feldes MI (mm):
 
 - – mit zwei Zeichen. max 78
 
-/Dokumente/Bundesnormen/NOR40187199/image007.png
+/Dokumente/Bundesnormen/NOR40198826/image007.jpg
+
+/Dokumente/Bundesnormen/NOR40198826/image008.png
 
 Für VZT Muster VI: Untergrund der Tafel blau mit roten Feld mit Angabe der letzten zwei Ziffern der Jahreszahl des Kalenderjahres in dem die Zulassung erlischt.
 
@@ -172,17 +180,17 @@ Für PKT Muster VI: Untergrund der Tafel blau.
 
 ### Überstellungskennzeichen ÜKT einzeilig, Maße wie Muster IV
 
-/Dokumente/Bundesnormen/NOR40187199/image008.png
+/Dokumente/Bundesnormen/NOR40198826/image009.png
 
 ### Überstellungskennzeichen ÜKT zweizeilig, Maße wie Muster V
 
-/Dokumente/Bundesnormen/NOR40187199/image009.png
+/Dokumente/Bundesnormen/NOR40198826/image010.png
 
 ### A.1.1. EU-Emblem
 
-/Dokumente/Bundesnormen/NOR40187199/image010.png
+/Dokumente/Bundesnormen/NOR40198826/image011.png
 
-/Dokumente/Bundesnormen/NOR40187199/image011.jpg
+/Dokumente/Bundesnormen/NOR40198826/image012.jpg
 
 A.2. Inhalte der Felder
 
@@ -190,7 +198,7 @@ A.2. Inhalte der Felder
 
 | EU | I, III, VII, VIII | EU-Emblem, (siehe Muster EU) |
 
-| A | I, III | /Dokumente/Bundesnormen/NOR40187199/image012.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
+| A | I, III | /Dokumente/Bundesnormen/NOR40198826/image013.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
 
 | AI | Ia, IIIa, IV, V |
 
@@ -230,7 +238,7 @@ Zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – m
 
 ### A.2.1. Herstellerzeichen
 
-/Dokumente/Bundesnormen/NOR40187199/image013.png
+/Dokumente/Bundesnormen/NOR40198826/image014.png
 
 Das Herstellerzeichen besteht aus einer vereinfachten Darstellung des Bundeswappens mit der Umschrift „Republik Österreich“ in Blockbuchstaben mit mindestens 1 mm Höhe und mit der dem Kennzeichentafelhersteller verliehenen Kontrollnummer unterhalb der Umschrift. Wappen und Kontrollnummer müssen von einer elliptischen Prägeleiste mit den Hauptdurchmessern 12 mm × 18 mm umgeben sein.
 
@@ -250,7 +258,7 @@ Abmessungen und Aussehen der Wappen und der Schriftzeichen sind gemäß den beim
 
 ### A.2.3. Ablaufvignette
 
-/Dokumente/Bundesnormen/NOR40187199/image014.png
+/Dokumente/Bundesnormen/NOR40198826/image015.png
 
 Auf den Kennzeichentafeln für Überstellungskennzeichen ist der Aufdruck „gültig bis“ bzw. „valid until“ anzubringen und Raum für die aufzuklebende Etikette freizulassen; diese ist mit dem Ablaufdatum zu lochen. Die Etikette ist dann auf die Kennzeichentafel an der dafür vorgesehenen Stelle aufzukleben.
 
@@ -260,19 +268,19 @@ Material der Ablaufvignette: Selbstklebende, retroreflektierende, mit Wasserzeic
 
 ### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1
 
-/Dokumente/Bundesnormen/NOR40187199/image015.png
+/Dokumente/Bundesnormen/NOR40198826/image016.png
 
 ### Schriftzeichen für Felder AI, CI, DI, EI
 
-/Dokumente/Bundesnormen/NOR40187199/image016.png
+/Dokumente/Bundesnormen/NOR40198826/image017.png
 
 ### Schriftzeichen für Felder F, G, H, K
 
-/Dokumente/Bundesnormen/NOR40187199/image017.png
+/Dokumente/Bundesnormen/NOR40198826/image018.png
 
 ### Schriftzeichen für Felder L, M (nur bei mehr als vier Vormerkzeichen)
 
-/Dokumente/Bundesnormen/NOR40187199/image018.png
+/Dokumente/Bundesnormen/NOR40198826/image019.png
 
 Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarzer biegefester thermischer Beschichtungsfolie versehen sein, dass die auf den geprägten Schriftzeichen vorhandenen schwarzen Flächen folgende Maße (in mm, Toleranz + 0,5 / – 1,0 mm) ergeben:
 
@@ -626,36 +634,42 @@ Als nicht sachgemäße Verwendung gelten insbesondere mechanische Beschädigunge
 
 - 1. „Gewöhnliche Kennzeichentafeln“ (GKT) gemäß § 49 Abs. 4 Z 1 KFG 1967
 
-- – Garnitur zweiteilig, vordere Tafel nach Muster I und hintere Tafel nach Muster I oder III 21,00 €
+  - – Garnitur zweiteilig, vordere Tafel nach Muster I und hintere Tafel nach Muster I oder III 21,00 €
 
-- – Einzeltafel nach Muster I oder III 10,50 €
+  - – Einzeltafel nach Muster I oder III 10,50 €
 
 - 2. Kennzeichentafeln für Probekennzeichen (PKT)
 
-- – Garnitur zweiteilig, vordere Tafel nach Muster Ia, hintere Tafel nach Muster Ia oder IIIa 19,80 €
+  - – Garnitur zweiteilig, vordere Tafel nach Muster Ia, hintere Tafel nach Muster Ia oder IIIa 19,80 €
 
-- – Einzeltafel nach Muster Ia oder IIIa 9,90 €
+  - – Einzeltafel nach Muster Ia oder IIIa 9,90 €
 
 - 3. Kennzeichentafeln für Überstellungskennzeichen (ÜKT)
 
-- – Garnitur zweiteilig, vordere Tafel nach Muster IV, hintere Tafel nach Muster IV oder V 20,40 €
+  - – Garnitur zweiteilig, vordere Tafel nach Muster IV, hintere Tafel nach Muster IV oder V 20,40 €
 
-- – Einzeltafel nach Muster IV oder V 10,20 €
+  - – Einzeltafel nach Muster IV oder V 10,20 €
 
 - 4. Kennzeichentafeln für vorübergehend zugelassene Fahrzeuge (VZT)
 
-- – Garnitur zweiteilig, vordere Tafel nach Muster IV, hintere Tafel nach Muster IV oder V 20,40 €
+  - – Garnitur zweiteilig, vordere Tafel nach Muster IV, hintere Tafel nach Muster IV oder V 20,40 €
 
-- – Einzeltafel nach Muster IV oder V 10,20 €
+  - – Einzeltafel nach Muster IV oder V 10,20 €
 
 - 5. Kennzeichentafeln gemäß § 49 Abs. 3 KFG (AAT)
 
-- – Einzeltafel nach Muster Ia oder IIIa 10,70 €
+  - – Einzeltafel nach Muster Ia oder IIIa 10,70 €
 
 - 6. Kennzeichentafel für Motorräder (MRT)
 
-- – Einzeltafel nach Muster VIII oder Kennzeichentafel mit Probefahrtkennzeichen für Motorräder im Format wie Muster VIII 12,00 €
+  - – Einzeltafel nach Muster VIII oder Kennzeichentafel mit Probefahrtkennzeichen für Motorräder im Format wie Muster VIII 12,00 €
 
 - 7. Kennzeichentafel für Motorfahrräder (MFT)
 
-- – Einzeltafel nach Muster VI oder Kennzeichentafel mit Probefahrtkennzeichen für Motorfahrräder oder für vorübergehend zugelassene Motorfahrräder im Format wie Muster VI 7,50 €.
+  - – Einzeltafel nach Muster VI oder Kennzeichentafel mit Probefahrtkennzeichen für Motorfahrräder oder für vorübergehend zugelassene Motorfahrräder im Format wie Muster VI 7,50 €
+
+- 8. Kennzeichentafeln für historische Kraftwagen und historische Anhänger gemäß § 25d Abs. 5
+
+  - – Garnitur zweiteilig, vordere Tafel nach Muster IX und hintere Tafel nach Muster IX oder VII 24,00 €
+
+  - – Einzeltafel nach Muster IX oder VII 12,00 €
