@@ -2,6 +2,4 @@
 
 ### (§ 6)
 
-/Dokumente/Bundesnormen/NOR12158743/image001.png
-
-/Dokumente/Bundesnormen/NOR12158743/image002.png
+/Dokumente/Bundesnormen/NOR40200989/image001.jpg

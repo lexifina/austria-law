@@ -4,7 +4,7 @@
 
 ### Katalog der Prüfpositionen
 
-Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung des für die Prüfung oder Begutachtung verantwortlichen Organs.
+Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der Mängelgruppen. Die Entscheidung über die Zuordnung in die entsprechende Mängelgruppe liegt in der pflichtgemäßen Entscheidung des für die Prüfung oder Begutachtung verantwortlichen Organs. Wenn in der Anlage auf eine Fehleranzeige des Systems über die elektronische Schnittstelle verwiesen wird, so ist dies erst nach Erlassung des entsprechenden Durchführungsrechtsakts zu Artikel 4 Abs. 3 der Richtlinie 2014/45/EU anzuwenden.
 
 ### Prüfnummern
 
@@ -22,13 +22,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nicht ordnungsgemäß angebracht | LM, SM |
 
-| Beschriftung fehlt oder ist unleserlich | LM, SM |
+| Beschriftung fehlt oder ist unleserlich | SM |
 
 | umgebogen, beschädigt | LM, SM |
 
 | entspricht nicht den Fahrzeugdokumenten oder aufzeichnungen | VM, SM |
 
-| 0.2 | Fahrzeugidentifizierungsnummer |
+| 0.2 | Fahrzeugidentifizierungs-/Fahrgestell-/Seriennummer |
 
 | fehlt oder unauffindbar | SM |
 
@@ -38,9 +38,15 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | entspricht nicht den Fahrzeugdokumenten oder aufzeichnungen | SM |
 
+| Unleserliche Fahrzeugdokumente oder Unstimmigkeiten | LM |
+
 | 0.3 | Motortype |
 
 | fehlt, unvollständig, nicht lesbar, nicht der Fahrzeuggenehmigung entsprechend | SM, VM | Für Prüfungen gem. § 56 KFG und § 58 KFG relevant |
+
+| 0.4 | Übereinstimmung mit dem Genehmigungsdokument Fahrzeug entspricht offensichtlich nicht den Aufzeichnungen im Genehmigungsdokument | VM | Für Prüfungen von historischen Fahrzeugen gemäß § 34 Abs. 4 KFG relevant |
+
+| 0.5 | Führung des Fahrtenbuches Überschreitung der Fahrbeschränkung gemäß § 34 Abs. 4 KFG | Für Prüfungen von historischen Fahrzeugen gemäß § 34 Abs. 4 KFG relevant |
 
 | 1 | Bremsanlage |
 
@@ -48,7 +54,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 1.1.1 | Bremspedal-/Bremshebellagerung (Betätigungseinrichtung) |
 
-| schwergängig (bei ausreichender Wirkung der Betriebsbremse) | LM, SM |
+| Pedalachse schwergängig | SM |
 
 | erhebliche Abnutzung oder Spiel | SM |
 
@@ -76,7 +82,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 1.1.3 | Vakuumpumpe oder Kompressor und Speicher |
 
-| Luftdruck bzw. Vakuum unzureichend für mindestens zwei Bremsungen nach Ansprechen der Warneinrichtung (oder Manometeranzeige in der Gefahrzone) | SM, GV |
+| Luftdruck bzw. Unterdruck unzureichend für mindestens vier Bremsvorgänge nach Ansprechen der Warneinrichtung (oder Manometeranzeige in der Gefahrenzone) | SM |
+
+| unzureichend für mindestens zwei Bremsvorgänge nach Ansprechen der Warneinrichtung (oder Manometeranzeige in der Gefahrenzone) | GV |
 
 | Zeit für Aufbau des Luftdruckes/Vakuums bis zu einem sicheren Betriebswert nicht vorschriftsmäßig | SM |
 
@@ -114,7 +122,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Feststellratsche greift nicht ausreichend | SM, GV |
 
-| übermäßiger Verschleiß an Hebellagerung oder an Ratschenmechanismus | LM, SM |
+| Verschleiß an Hebellagerung oder an Ratschenmechanismus | LM, SM |
 
 | übermäßiger Hebelweg wegen falscher Einstellung | SM |
 
@@ -150,7 +158,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Behälter beschädigt, korrodiert, undicht, | LM, SM, GV |
 
-| Entwässerungsvorrichtung ohne Funktion | SM, GV |
+| Funktion der Entwässerungsvorrichtung beeinträchtigt | LM, SM, GV |
 
 | Behälter unsicher oder unsachgemäß montiert | SM, GV |
 
@@ -160,7 +168,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 1.1.10 | Bremskraftverstärker, Hauptbremszylinder (hydraulische Anlagen) |
 
-| Bremskraftverstärker schadhaft oder ohne Wirkung | SM |
+| Bremskraftverstärker schadhaft oder ohne Wirkung | SM, GV |
 
 | Hauptbremszylinder schadhaft oder undicht | SM, GV |
 
@@ -176,13 +184,15 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Bremsflüssigkeitsvorrat unzureichend oder über Maximum | LM, SM, GV |
 
+| Mangelhafte Funktion der Warnvorrichtung für Bremsflüssigkeitsstand | SM |
+
 | 1.1.11 | Starre Bremsleitungen |
 
 | Ausfall- oder Bruchgefahr | GV |
 
 | Leitungen oder Anschlüsse undicht | SM, GV |
 
-| Leitungen beschädigt | LM, SM, GV |
+| Leitungen beschädigt | SM, GV |
 
 | Leitungen übermäßig korrodiert | SM, GV |
 
@@ -194,13 +204,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Ausfall- oder Bruchgefahr | GV |
 
-| Schläuche beschädigt, durchgescheuert, verdreht oder zu kurz | SM, GV |
+| Schläuche beschädigt, scheuern, angescheuert, verdreht oder zu kurz | LM, SM, GV |
 
 | Schläuche oder Anschlüsse undicht | SM, GV |
 
-| Ausbeulung der Schläuche unter Druck | GV |
+| Ausbeulung der Schläuche unter Druck | SM, GV |
 
-| Porosität | LM, SM, GV |
+| Porosität | SM, GV |
 
 | unsachgemäß repariert | SM, GV |
 
@@ -212,7 +222,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | verschmutzt (Öl, Fett usw.) | SM, GV |
 
-| fehlender Belag oder Klotz | GV |
+| Belag oder Klotz fehlt oder falsch montiert | GV |
 
 | falscher Belag oder Klotz | SM, GV |
 
@@ -222,9 +232,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Bremstrommel oder Bremsscheibe trägt nur auf weniger als 75% der Reibfläche | SM |
 
-| Trommel oder Scheibe übermäßig abgenutzt, übermäßige Riefenbildung | SM, GV |
+| Trommel oder Scheibe übermäßig abgenutzt, übermäßige Riefenbildung | GV |
 
-| Trommel oder Scheibe gerissen | LM, SM, GV |
+| Trommel oder Scheibe gerissen | GV |
 
 | Trommel oder Scheibe ungenügend gesichert oder gebrochen | GV |
 
@@ -250,7 +260,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Seil, Zugstange oder Verbindung ungenügend gesichert | SM, GV |
 
-| Seilführung schadhaft | LM, SM |
+| Seilführung schadhaft | SM |
 
 | Ummantelung der Seilhülle gebrochen | LM |
 
@@ -282,6 +292,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Unzureichender oder übermäßiger Weg des Betätigungskolbens oder der Membrane | SM, GV |
 
+| Staubabdichtung beschädigt | LM |
+
 | Staubabdichtung fehlt oder ist übermäßig beschädigt | SM |
 
 | schwergängig | SM, GV |
@@ -300,9 +312,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | undicht | SM, GV |
 
-| Typenschild fehlt | VM | z. B.: ALB-Schild fehlt wenn vorgeschrieben |
+| Typenschild fehlt | LM | z. B.: ALB-Schild fehlt wenn vorgeschrieben |
 
-| Daten unleserlich oder nicht vorschriftsmäßig | VM |
+| Daten unleserlich oder nicht vorschriftsmäßig | LM, VM |
 
 | 1.1.18 | Automatische Gestängesteller und anzeige |
 
@@ -354,11 +366,15 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | unbrauchbar oder undicht | SM |
 
+| 1.1.23 | Auflaufbremse |
+
+| Wirksamkeit unzureichend | SM |
+
 | 1.2 | Betriebsbremse Wirkung und Wirksamkeit |
 
 | 1.2.1 | Wirkung (schrittweise Steigerung bis zur maximalen Bremskraft) |
 
-| ungenügende Bremskraft an einem oder mehreren Rädern | LM, SM, GV |
+| ungenügende Bremskraft an einem oder mehreren Rädern | SM, GV |
 
 | Bremskraft an einem Rad beträgt weniger als 85% der größten an einem anderen Rad derselben Achse gemessenen Höchstbremskraft | LM |
 
@@ -426,6 +442,22 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Abbremswirkung der Betriebsbremse, bezogen auf die zulässige Höchstmasse oder, im Fall von Sattelanhängern, auf die Summe der zulässigen Achslasten, wenn durchführbar, von weniger als der Hälfte der für die Betriebsbremsanlage geforderten Mindestbremswirksamkeit | GV |
 
+| 1.2.3 | Wirksamkeit für Prüfungen im Rahmen einer technischen Unterwegskontrolle |
+
+| Abbremswirkung von weniger als den unten angegebenen Werten für Fahrzeuge, die einer technischen Unterwegskontrolle (nach RL 2014/47/EU) unterzogen werden: |
+
+| Klassen M1, M2 und M3:……………………………………....................................... 50 % |
+
+| Klasse N 1:……………………………………………………..................................... 45 % |
+
+| Klassen N2 und N3: …………………………………………...................................... 43 % |
+
+| Klassen O3 und O4: …………………………………………...................................... 40 % | SM |
+
+| Abbremswirkung der Betriebsbremse von weniger als der Hälfte der für die Betriebsbremsanlage geforderten |
+
+| Mindestbremswirksamkeit | GV |
+
 | 1.3 | Hilfsbremse (Notbremse), Wirkung und Wirksamkeit (falls getrennte Anlage) |
 
 | 1.3.1 | Wirkung |
@@ -482,15 +514,21 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | in der Fahrzeugkombination nicht betriebsfähig | SM |
 
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
+
 | 1.7 | Elektronisches Bremssystem (EBS) |
 
 | Warnvorrichtung defekt | SM |
 
 | Warnvorrichtung zeigt Funktionsstörung des Systems an | SM |
 
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
+
+| Anschluss zwischen Zugfahrzeug und Anhänger ist nicht kompatibel oder fehlt | GV |
+
 | 1.8 | Bremsflüssigkeit |
 
-| Bremsflüssigkeit offensichtlich verschmutzt | SM |
+| Bremsflüssigkeit verschmutzt oder weist Ablagerungen auf | SM |
 
 | Siedepunkt niedriger als 180° C/ Wasseranteil größer als 1,5 % | LM |
 
@@ -534,7 +572,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | übermäßiger Verschleiß an den Verbindungsstellen | SM, GV |
 
-| ein Bauteil gebrochen oder verformt | LM, SM, GV |
+| ein Bauteil gebrochen oder verformt | SM, GV |
 
 | Mangelhafte Befestigung, Befestigungsvorrichtungen fehlen | SM, GV |
 
@@ -554,7 +592,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 2.1.5 | Servolenkung |
 
-| Flüssigkeitsleck | SM, GV |
+| Flüssigkeitsleck oder Funktionsfähigkeit beeinträchtigt | SM, GV |
 
 | Flüssigkeit unzureichend | LM, SM |
 
@@ -572,7 +610,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 2.2.1 | Zustand des Lenkrads/der Lenkstange |
 
-| Relativbewegung zwischen Lenkrad und Lenksäule wegen Lockerung | SM |
+| Relativbewegung zwischen Lenkrad und Lenksäule wegen Lockerung | SM, GV |
 
 | Sperrvorrichtung auf Lenkradnabe fehlt | SM, GV |
 
@@ -582,7 +620,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Befestigung mangelhaft | SM, GV |
 
-| 2.2.2 | Lenksäule/-bügel und gabel |
+| 2.2.2 | Lenksäule/-bügel, Gabeljoch und Gabel sowie Lenkungsdämpfer |
 
 | übermäßiger Aufwärts- oder Abwärtsweg des Lenkradzentrums | SM, GV |
 
@@ -622,9 +660,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Lenkhilfe funktioniert nicht | SM |
 
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
+
 | 3. | Sicht |
 
-| 3.1 | Sichtfeld | Sichtfeld gemäß Richtlinie 77/649/EWG |
+| 3.1 | Sichtfeld | Sichtfeld innerhalb des fahrerseitigen Wischbereichs der Scheibenwischer |
 
 | Behinderung des Sichtfelds des Fahrers, wodurch seine frontale oder seitliche Sicht beeinträchtigt wird (keinen Mangel stellen die gesetzlich vorgeschriebenen und ordnungsgemäß montierten Geräte zur Mauterfassung dar, wie zB Go Box, sofern diese am Rand des Hauptsichtbereichs des Lenkers oder außerhalb davon angebracht sind) | LM, SM, GV |
 
@@ -640,7 +680,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Windschutzscheibe gesprungen | LM, SM |
 
-| Windschutzscheibe im Hauptsichtbereich des Fahrers sichtbehindernd beschädigt oder gesprungen | SM, GV |
+| Windschutzscheibe im Hauptsichtbereich des Fahrers sichtbehindernd beschädigt oder gesprungen | SM |
 
 | Nicht vorschriftsmäßige Einfärbung der Scheibe durch Folien oder Lacke, erhebliche Veränderung der Scheibenoberfläche | SM, VM | z. B. sandgestrahlte Fahrgestellidentifizierungsnummern zulässig |
 
@@ -666,6 +706,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Genehmigungszeichen fehlt | SM, VM |
 
+| Erforderliches Sichtfeld nicht erfasst | SM |
+
 | 3.4 | Scheibenwischer |
 
 | arbeitet zu schnell oder zu langsam | SM |
@@ -679,6 +721,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 | Heckscheibenwischer defekt, fehlt od. unwirksam | LM |
 
 | 3.5 | Scheibenwaschanlage |
+
+| Waschanlage funktioniert nicht ordnungsgemäß (Pumpe funktioniert, aber fehlende Waschflüssigkeit oder Wasserstrahl falsch ausgerichtet) | LM |
 
 | (für die Windschutzscheibe) fehlt oder unwirksam | SM |
 
@@ -702,15 +746,17 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Scheinwerfer innen verschmutzt oder nass | LM, SM |
 
-| Befestigung unzureichend | LM, SM |
+| Befestigung unzureichend | SM |
 
-| Bei Leuchten mit mehreren Lichtquellen 50% oder mehr der Lichtquellen ausgefallen | SM |
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| Bei Leuchten mit mehreren Lichtquellen weniger als 50% der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
 | 4.1.2 | Einstellung |
 
 | Scheinwerfer zu hoch oder zu niedrig | SM |
+
+| System gibt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
 
 | 4.1.3 | Schaltung |
 
@@ -722,9 +768,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Verpflichtende Fernlichtkontrollleuchte defekt, fehlt oder Schaltfehler | SM, VM |
 
+| System gibt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
+
 | 4.1.4 | Übereinstimmung mit den Vorschriften |
 
-| Farbe oder Leuchtkraft nicht vorschriftsmäßig | SM, VM |
+| Scheinwerfer, Lichtfarbe, Leuchtkraft oder Genehmigungszeichen nicht vorschriftsmäßig | SM, VM |
 
 | Produkte auf den Linsen oder der Lichtquelle, die offensichtlich die Leuchtkraft reduzieren oder die Farbe verändern | SM |
 
@@ -754,6 +802,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | manuelle Vorrichtung kann vom Fahrersitz aus nicht betätigt werden | SM |
 
+| System gibt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
+
 | 4.1.6 | Scheinwerferwaschanlage (falls vorgeschrieben) |
 
 | fehlt/defekt | SM | Der Mängelkatalog gibt Auskunft bei welchen Fahrzeugen diese vorgeschrieben sind. |
@@ -770,9 +820,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Schlussleuchten fehlen oder sind ohne Funktion | SM, GV |
 
-| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
 | Befestigung unzureichend | LM, SM |
 
@@ -790,7 +840,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 4.2.3 | Übereinstimmung mit den Vorschriften |
 
-| Farbe oder Leuchtkraft nicht vorschriftsmäßig | SM, VM |
+| Leuchte, Lichtfarbe, Leuchtkraft oder Genehmigungszeichen nicht vorschriftsmäßig | LM, SM, VM |
 
 | Produkte auf Linse oder Lichtquelle, wodurch Leuchtkraft reduziert oder Farbe verändert wird | SM, VM |
 
@@ -810,9 +860,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Alle Leuchten ohne Funktion oder in ihrer Wirkung erheblich beeinträchtigt | GV |
 
-| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
+| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
 | Befestigung unzureichend | LM, SM |
 
@@ -828,9 +878,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Schaltfehler | SM |
 
+| System gibt eine Fehlermeldung über die elektronische Fahrzeugschnittstelle | SM |
+
+| Notbremslicht funktioniert nicht oder nicht ordnungsgemäß | SM |
+
 | 4.3.3 | Übereinstimmung mit den Vorschriften |
 
-| Lichtfarbe oder Leuchtkraft nicht vorschriftsmäßig | SM, VM |
+| Leuchte, Lichtfarbe, Leuchtkraft oder Genehmigungszeichen nicht vorschriftsmäßig | LM, SM, VM |
 
 | offensichtlich falsche Leuchtmittel | SM, VM |
 
@@ -848,9 +902,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Alle Leuchten einer Seite fehlen, ohne Funktion oder in ihrer Wirkung stark beeinträchtigt | GV |
 
-| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
+| Bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
 | Befestigung unzureichend | LM, SM |
 
@@ -874,7 +928,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 4.4.3 | Übereinstimmung mit den Vorschriften |
 
-| Lichtfarbe oder Leuchtkraft nicht vorschriftsmäßig | SM, VM |
+| Leuchte, Lichtfarbe, Leuchtkraft oder Genehmigungszeichen nicht vorschriftsmäßig | SM, VM |
 
 | Produkte auf Linse oder Lichtquelle, wodurch Leuchtkraft reduziert oder Farbe verändert wird | SM, VM |
 
@@ -894,9 +948,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Alle oder eine Leuchte(n) fehlt(en), ohne Funktion oder in ihrer Wirkung stark beeinträchtigt | SM | Der Mängelkatalog gibt Auskunft bei welchen Fahrzeugen diese vorgeschrieben sind. |
 
-| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
+| Bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
 | Befestigung unzureichend | LM, SM |
 
@@ -924,7 +978,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 4.5.4 | Übereinstimmung mit den Vorschriften |
 
-| Farbe oder Leuchtkraft nicht vorschriftsmäßig | SM, VM |
+| Leuchte, Lichtfarbe, Position, Leuchtkraft oder Genehmigungszeichen nicht vorschriftsmäßig | SM, VM |
 
 | Scheinwerfer mit Licht verschiedener Farbe | SM, VM |
 
@@ -936,7 +990,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | offensichtlich falsche Leuchtmittel | SM, VM |
 
-| System nicht vorschriftsmäßig | LM, SM, VM |
+| System nicht vorschriftsmäßig | SM, VM |
 
 | 4.6 | Rückfahrscheinwerfer |
 
@@ -946,7 +1000,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Reflektor fehlt, blind, verrostet | LM, SM | SM: 10% oder mehr der Fläche |
 
-| Streu- oder Leuchtscheibe geringfügig gesprungen | LM |
+| Streu-/Leucht-/Abschlussscheibe beschädigt | LM |
 
 | Streu- oder Leuchtscheibe fehlt, durchgehend gesprungen oder ausgebrochen | SM |
 
@@ -956,21 +1010,21 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | sonstige Mängel zB nicht vorschriftsmäßig | LM, SM, VM |
 
-| bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen | SM |
+| Bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
 | Befestigung unzureichend | LM, SM |
 
 | 4.6.2 | Übereinstimmung mit den Vorschriften |
 
-| Farbe oder Leuchtkraft nicht vorschriftsmäßig | LM, SM, VM |
+| Leuchte, Lichtfarbe, Position, Leuchtkraft oder Genehmigungszeichen nicht vorschriftsmäßig | SM, VM |
 
 | blendet | SM |
 
 | Abweichung von den Anbringungsvorschriften | SM, VM |
 
-| System nicht vorschriftsmäßig | LM, SM, VM |
+| System nicht vorschriftsmäßig | SM, VM |
 
 | 4.6.3 | Schaltung |
 
@@ -986,7 +1040,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Befestigung unzureichend | LM, SM |
 
-| Leuchte strahlt direktes Licht nach hinten aus | LM, SM, VM |
+| Leuchte strahlt direktes oder weißes Licht nach hinten aus | LM, SM, VM |
 
 | 4.7.2 | Übereinstimmung mit den Vorschriften |
 
@@ -1080,11 +1134,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Schaltfehler | LM, SM |
 
-| bei Leuchten mit mehreren Lichtquellen: 50% oder mehr der Lichtquellen ausgefallen | SM |
+| Bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen; bei LED mehr als 1/3 nicht funktionstüchtig | SM |
 
-| bei Leuchten mit mehreren Lichtquellen: 50% oder weniger der Lichtquellen ausgefallen | LM |
+| bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen; bei LED bis zu 1/3 nicht funktionstüchtig | LM |
 
-| Befestigung unzureichend | LM, SM |
+| Befestigung unzureichend | SM |
 
 | 4.14.2 | Übereinstimmung mit den Vorschriften |
 
@@ -1104,7 +1158,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 5.1.1 | Achsen / Achskörper |
 
-| angerissen, gebrochen oder verbogen, Korrosion | LM, SM, GV |
+| angerissen oder Korrosion | LM, SM, GV |
+
+| Achse gebrochen oder verbogen | GV |
 
 | unsichere Befestigung am Fahrzeug | SM, GV |
 
@@ -1178,7 +1234,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 5.2.3 | Reifen |
 
-| Reifengröße, Tragfähigkeit oder Geschwindigkeitsklasse nicht vorschriftsmäßig mit resultierender Beeinträchtigung der Verkehrssicherheit | SM, GV |
+| Reifengröße, Tragfähigkeit, Genehmigungszeichen oder Geschwindigkeitsklasse nicht vorschriftsmäßig mit resultierender Beeinträchtigung der Verkehrssicherheit | SM, GV |
 
 | Reifen unterschiedlicher Größe auf derselben Achse oder an Zwillingsrädern | SM, GV |
 
@@ -1192,7 +1248,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nachgeschnittene Reifen nicht vorschriftsmäßig | SM, GV, VM | z. B. bei M1 oder L |
 
-| Luftdrucküberwachungssystem defekt oder offensichtlich unwirksam | LM |
+| Luftdrucküberwachungssystem defekt oder offensichtlich unwirksam | LM, SM |
 
 | Winterreifen nicht achsweise | SM |
 
@@ -1252,7 +1308,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | unsicher am Fahrgestell oder an der Achse befestigt | LM, SM |
 
-| beschädigt, wesentliche Leckage oder Funktionsstörung | LM, SM, GV |
+| beschädigt, wesentliche Leckage oder Funktionsstörung | SM, GV |
 
 | fehlt | GV |
 
@@ -1260,7 +1316,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 5.3.2.1 | Wirksamkeit der Dämpfung |
 
-| offensichtlich beeinträchtigte Dämpfungseigenschaft | LM, SM, GV |
+| Erheblicher Unterschied zwischen links und rechts | SM |
+
+| offensichtlich beeinträchtigte Dämpfungseigenschaft | SM, GV |
 
 | 5.3.3 | Drehstäbe, Führungslenker, Dreiecklenker und Aufhängungsarme |
 
@@ -1328,7 +1386,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 6.1.2 | Auspuffrohre und Schalldämpfer |
 
-| Auspuffanlage unsicher | LM, SM |
+| Auspuffanlage unsicher | SM |
 
 | Rauchgase dringen in Fahrer- oder Fahrgastzelle ein | SM, GV |
 
@@ -1352,15 +1410,15 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Kraftstoffaustritt oder fehlender oder undichter Tankdeckel | SM, GV |
 
-| Leitungen beschädigt oder durchgescheuert | LM, SM |
+| Leitungen beschädigt oder angescheuert | LM, SM |
 
 | Kraftstoffabsperrventil (falls kraftfahrrechtlich vorgeschrieben) funktioniert nicht einwandfrei | SM |
 
 | Ent- Belüftung offensichtlich mangelhaft | SM |
 
-| Brandgefahr aufgrund von: - Kraftstoffaustritt - mangelhaft abgeschirmtem Kraftstofftank oder Auspuff - Zustand des Motorraums | SM, GV |
+| Brandgefahr aufgrund von: – Kraftstoffaustritt – mangelhaft abgeschirmtem Kraftstofftank oder Auspuff – Zustand des Motorraums | GV |
 
-| LPG/CNG oder Wasserstoffsystem zum Fahrzeugantrieb |
+| LPG/CNG/LNG- oder Wasserstoffsystem zum Fahrzeugantrieb |
 
 | Nachweis der Genehmigung fehlt | SM, VM |
 
@@ -1374,7 +1432,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | mangelhafte Befestigung von Anlagenbauteilen | SM, GV |
 
-| mangelhafter Schutz von Anlagenbauteilen | LM, SM |
+| mangelhafter Schutz von Anlagenbauteilen | LM, SM, GV |
 
 | mangelhafter Zustand/Verlegung von Kraftgasleitungen | LM, SM, GV |
 
@@ -1384,7 +1442,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | locker oder beschädigt, dadurch Verletzungsgefahr bei Berührung oder Kontakt | SM, GV |
 
-| Einrichtung offensichtlich nicht vorschriftsmäßig | LM, SM, VM |
+| Einrichtung offensichtlich nicht vorschriftsmäßig | SM, VM |
 
 | Abmessungen und Zustand des Unterfahrschutzes und Seitenunterfahrschutzes bei Lastkraftwagen und Anhängern in den Abmessungen offensichtlich unzureichend bzw. fehlt | SM, VM |
 
@@ -1402,7 +1460,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Anhängevorrichtung |
 
-| Bauteil beschädigt, defekt oder gerissen, in der Funktion beeinträchtigt | LM, SM, GV |
+| Bauteil beschädigt, defekt oder gerissen, in der Funktion beeinträchtigt | SM, GV |
 
 | Bauteil stark oder übermäßig abgenutzt | SM, GV |
 
@@ -1419,6 +1477,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 | nicht selbsttätig schließend | VM | wenn vorgeschrieben |
 
 | Typenschild/Genehmigungszeichen fehlt | VM |
+
+| Verbindungseinrichtung zu schwach, nicht kompatibel oder Anhängevorrichtung nicht vorschriftsmäßig | GV, VM |
 
 | Zugeinrichtung am Anhänger |
 
@@ -1470,9 +1530,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | unzulässige Veränderung der Betätigungseinrichtung | SM |
 
-| unzulässige Veränderung des Motors | SM |
+| unzulässige Veränderung des Motors | SM, GV |
 
-| offensichtliche Steigerung der Motorleistung durch unzulässiges Chip- Tuning | SM |
+| offensichtliche Steigerung der Motorleistung durch unzulässiges Chip- Tuning | SM, GV |
 
 | 6.1.10 | Abschleppeinrichtung vorne/hinten |
 
@@ -1496,6 +1556,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nicht genehmigte Veränderungen (Zu- oder Anbauten) | VM |
 
+| nicht genehmigte Veränderungen mit daraus resultierender offensichtlicher Beeinträchtigung der Verkehrs- und Betriebssicherheit | SM, GV |
+
 | Laderaumboden, Wände, Rungen, Verschlüsse: ungenügende Befestigung | SM, GV |
 
 | Laderaumplane, Gestell, Verschlüsse Spiegelgestell beschädigt | LM, SM |
@@ -1506,7 +1568,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Karosserie oder Fahrerhaus unsicher | SM, GV |
 
-| Karosserie/Fahrerhaus sitzt offensichtlich nicht korrekt ausgerichtet auf dem Fahrgestell | LM, SM |
+| Karosserie/Fahrerhaus sitzt offensichtlich nicht korrekt ausgerichtet auf dem Fahrgestell | SM |
 
 | Kippmechanismus des Führerhauses beschädigt oder ausgeschlagen | LM, SM |
 
@@ -1524,7 +1586,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 6.2.3 | Türen und Türanschläge, Schlösser |
 
-| Tür öffnet oder schließt nicht einwandfrei | LM, SM |
+| Tür öffnet oder schließt nicht einwandfrei | SM |
 
 | Tür kann sich versehentlich öffnen oder bleibt nicht geschlossen | SM, GV |
 
@@ -1546,7 +1608,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | locker oder Sitzstruktur defekt | SM, GV |
 
-| keine sichere Lehnenbefestigung oder Arretierung | SM, GV |
+| keine sichere Lehnenbefestigung oder Arretierung | GV |
 
 | Einstellmechanismus funktioniert nicht einwandfrei | SM, GV |
 
@@ -1556,7 +1618,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | defekt oder unsicher | LM, SM |
 
-| Montage der Sitze offensichtlich nicht vorschriftsmäßig | LM, SM |
+| Montage der Sitze nicht vorschriftsmäßig | LM, SM |
 
 | Sitzpolster schadhaft | LM |
 
@@ -1618,7 +1680,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Sicherheitsgurt beschädigt | LM, SM |
 
-| Sicherheitsgurt nicht vorschriftsmäßig | LM, SM |
+| Sicherheitsgurt nicht vorschriftsmäßig | SM |
 
 | Gurtschloss beschädigt oder funktioniert nicht einwandfrei | SM |
 
@@ -1628,19 +1690,27 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Kraftbegrenzer fehlt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM |
 
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+
 | 7.1.4 | Gurtstraffer |
 
 | Fehlt, offensichtlich defekt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM |
 
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+
 | 7.1.5 | Airbag |
 
-| fehlt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM | Anm.: gilt nur für Frontairbags, sofern laut Aufschrift auf Gurtlasche erforderlich |
+| fehlt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM |
 
-| funktioniert offensichtlich nicht | SM | Anm.: gilt nur für Frontairbags, sofern laut Aufschrift auf Gurtlasche erforderlich |
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+
+| funktioniert offensichtlich nicht | SM |
 
 | 7.1.6 | Zusätzliche Rückhaltesysteme (SRS) |
 
-| SRS-Störungsanzeige (MIL) weist auf Fehler im System hin | LM, SM | Anm.: sofern Fehlerauslese „Sitzkissen“ ergibt, LM mit Dokumentation im Gutachten sonst SM |
+| SRS-Störungsanzeige (MIL) weist auf Fehler im System hin | SM |
+
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
 
 | 7.2 | Feuerlöscher (falls erforderlich) |
 
@@ -1662,17 +1732,17 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.4 | Warndreieck (falls vorgeschrieben) |
 
-| fehlt oder beschädigt | LM |
+| fehlt, ist unvollständig oder beschädigt | LM |
 
 | Nicht vorschriftsmäßig | LM |
 
 | 7.5 | Verbandskasten (falls vorgeschrieben) |
 
-| fehlt oder unvollständig | LM |
+| fehlt, unvollständig oder nicht vorschriftsmäßig | LM |
 
 | 7.6 | Unterlegkeil(e) für Räder (falls vorgeschrieben) |
 
-| fehlen, unbrauchbar | LM, SM |
+| Fehlen oder sind nicht in gutem Zustand, unzureichende Stabilität oder falsche Abmessungen | SM |
 
 | Befestigung mangelhaft | LM, SM, GV |
 
@@ -1680,9 +1750,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | funktionslos | SM |
 
+| funktioniert nicht ordnungsgemäß | LM |
+
 | Betätigungseinrichtung unsicher | LM |
 
 | zu laut, zu leise | SM |
+
+| nicht vorschriftsmäßig | LM |
 
 | Folgetonhorn (ausgenommen Einsatzfahrzeuge) | SM |
 
@@ -1694,9 +1768,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nicht vorschriftsmäßig eingebaut | LM, SM, VM |
 
-| funktioniert nicht, offensichtlich erhebliche Abweichungen | SM | offensichtlich erhebliche Abweichung für Prüfung gem. § 56 KFG und § 58 KFG relevant |
+| funktioniert nicht, offensichtlich erhebliche Abweichungen | SM |
 
 | fehlt | SM |
+
+| Funktionsfähigkeit beeinträchtigt | LM |
 
 | Beleuchtung mangelhaft | LM, SM |
 
@@ -1704,7 +1780,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.9 | Fahrtschreiber/ Kontrollgerät (Vorhandensein und Verplombung) |
 
-| nicht vorschriftsmäßig eingebaut | LM, SM, VM |
+| nicht vorschriftsmäßig eingebaut | SM, VM |
 
 | funktioniert nicht, offensichtlich falsche oder mangelhafte Aufzeichnung | SM |
 
@@ -1720,9 +1796,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.10 | Geschwindigkeitsbegrenzer (falls eingebaut / vorgeschrieben) |
 
-| nicht vorschriftsmäßig eingebaut | LM, SM, VM |
+| nicht vorschriftsmäßig eingebaut | SM, VM |
 
-| Einbauschild ungültig, fehlt | SM |
+| Einbauschild ungültig, fehlt oder ist unleserlich | SM |
 
 | funktioniert offensichtlich nicht | SM |
 
@@ -1738,19 +1814,23 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.11 | Kilometerzähler (falls vorhanden) |
 
-| funktioniert offensichtlich nicht | LM |
+| Offensichtlich manipuliert (Betrug), um den Kilometerstand eines Fahrzeugs zu verringern oder falsch darzustellen | SM |
+
+| funktioniert offensichtlich nicht | SM |
 
 | 7.12 | Fahrdynamikregelung (Electronic Stability Control, ESC) (falls eingebaut/vorgeschrieben) |
 
-| Raddrehzahlsensoren fehlen oder sind schadhaft | LM, SM |
+| Raddrehzahlsensoren fehlen oder sind schadhaft | SM |
 
-| Kabel beschädigt | LM, SM |
+| Kabel beschädigt | SM |
 
-| andere Bauteile fehlen oder sind beschädigt | LM, SM |
+| andere Bauteile fehlen oder sind beschädigt | SM |
 
-| Schalter beschädigt oder funktioniert nicht einwandfrei | LM, SM |
+| Schalter beschädigt oder funktioniert nicht einwandfrei | SM |
 
-| ESC-Störungsanzeige (MIL) weist auf Fehler im System hin | LM, SM |
+| ESC-Störungsanzeige (MIL) weist auf Fehler im System hin | SM |
+
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
 
 | 7.13 | Antimanipulationsmaßnahmen (Klasse L, wenn vorgeschrieben) |
 
@@ -1760,15 +1840,15 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.14 | Ständer, Fußrasten |
 
-| Ständer fehlt oder unbrauchbar | SM |
+| Ständer fehlt, ist locker, stark korrodiert oder unbrauchbar | SM |
 
 | Anfahrsicherung (falls vorgeschrieben) ohne Funktion bzw. fehlt, Ständer klappt nicht automatisch in geschlossene Fahrtstellung | SM, GV |
 
-| Seitenständer vorschriftswidrig | SM, VM |
+| Ständer vorschriftswidrig | SM, VM |
 
 | Ständer in Fahrtstellung nicht fixiert | SM, GV |
 
-| Fußrasten fehlen, stark beschädigt, nicht arretierbar | SM |
+| Fußrasten fehlen, sind locker, stark korrodiert, stark beschädigt oder nicht arretierbar | SM |
 
 | Fußrastenoberfläche glatt | LM |
 
@@ -1796,7 +1876,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.16 | Zapfwellenabdeckung |
 
-| fehlt, gebrochen | LM, SM |
+| Schutzkappe fehlt oder beschädigt (Zugmaschine nach 31.12.1985 genehmigt sowie Schutzvorrichtung für Zapfwelle vorhanden und intakt) | LM |
+
+| Schutzkappe fehlt oder beschädigt (Zugmaschine mit defekter bzw. ohne Schutzvorrichtung für Zapfwelle) | SM |
+
+| fehlende oder beschädigte Schutzvorrichtung, die Bestandteil der Genehmigung ist (mit oder ohne intakter Schutzkappe) | SM |
+
+| Schutzkappe fehlt oder beschädigt (Zugmaschine vor 1.1.1986 genehmigt und mit nicht genehmigter Schutzvorrichtung) | SM |
 
 | 7.17 | Kipp- bzw. Ladevorrichtung |
 
@@ -1814,7 +1900,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 7.19 | Haltegriffe |
 
-| fehlt oder beschädigt | SM |
+| fehlt, beschädigt oder nicht vorschriftsmäßig | SM |
 
 | 7.20 | Druckbehälter |
 
@@ -1864,11 +1950,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 8.2.1.1 | Abgasnachbehandlungssystem |
 
-| das vom Hersteller eingebaute Abgasnachbehandlungssystem fehlt, wurde verändert oder ist offensichtlich defekt | LM, SM |
+| das vom Hersteller eingebaute Abgasnachbehandlungssystem fehlt, wurde verändert oder ist offensichtlich defekt | SM, GV |
 
 | Leckagen, die die Emissionsmessungen beeinträchtigen | SM |
 
-| 8.2.1.2 | Abgase |
+| 8.2.1.2 | Abgase | Für Fahrzeuge mit modernem Abgasnachbehandlungssystem (ausgenommen Fahrzeuge der Klasse L), die ab dem 1. 1. 2006 erstmalig zum Verkehr zugelassen wurden, kann die Messung der Abgase unter folgenden Voraussetzungen entfallen: – OBD-Kontrollleuchte leuchtet bei Einschalten der Zündung – OBD-Kontrollleuchte leuchtet nicht bzw. blinkt nicht bei laufendem Motor – OBD-System kann ausgelesen werden – OBD-System zeigt keinen abgasrelevanten Fehlercode an – Anzahl der unterstützten Prüfbereitschaftstests (Readiness Codes) 0 – Alle unterstützten Prüfbereitschaftstests wurden durchgeführt |
 
 | Auspuffanlage undicht, schadhaft | SM |
 
@@ -1900,15 +1986,19 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | CO-Emissionen überschreiten bei Leerlauf des Motors 4,5 % | SM |
 
+| Bei technischer Unterwegskontrolle gemäß Richtlinie 2014/47/EU: Abgasfernmessung weist auf erhebliche Abweichung hin | SM |
+
 | 8.2.2 | Emissionen von Dieselmotoren |
 
 | 8.2.2.1 | Abgasnachbehandlungssystem |
 
-| das vom Hersteller eingebaute Abgasnachbehandlungssystem fehlt oder ist offensichtlich defekt | LM, SM |
+| das vom Hersteller eingebaute Abgasnachbehandlungssystem fehlt oder ist offensichtlich defekt | SM, GV |
 
 | Leckagen, die die Emissionsmessungen beeinträchtigen | SM |
 
-| 8.2.2.2 | Abgastrübung |
+| Zu wenig Reagenzmittel (falls anwendbar) | SM |
+
+| 8.2.2.2 | Abgastrübung | Für Fahrzeuge, die ab dem 1. 1. 2006 erstmalig zum Verkehr zugelassen wurden, kann die Messung der Abgase unter folgenden Voraussetzungen entfallen: – OBD-Kontrollleuchte leuchtet bei Einschalten der Zündung – OBD-Kontrollleuchte leuchtet nicht bzw. blinkt nicht bei laufendem Motor – OBD-System kann ausgelesen werden – OBD-System zeigt keinen abgasrelevanten Fehlercode an – Anzahl der unterstützten Prüfbereitschaftstests (Readiness Codes) 0 – Alle unterstützten Prüfbereitschaftstests wurden durchgeführt |
 
 | Luftfilter unsachgemäß befestigt/lose | LM, SM |
 
@@ -1924,7 +2014,11 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | ii) bei Kraftfahrzeugen mit Turbomotor 3,0 m 1 | SM |
 
-| iii) bei Kraftfahrzeugen, welche gem. den Grenzwerten Zeile B, Anh. I, Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO 4) genehmigt wurden oder welche gem. den Grenzwerten Zeile B1, Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder bei Kraftfahrzeugen mit einer erstmaligen Zulassung nach dem 1. Juli 2008 1,5 m 1 | SM |
+| iii) bei Kraftfahrzeugen, welche gem. den Grenzwerten Zeile B, Anh. I, Abschnitt 5.3.1.4. der Richtlinie 70/220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO 4) genehmigt wurden oder welche gem. den Grenzwerten Zeile B1, Anh. I, Abschnitt 6.2.1. der Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab EURO IV) genehmigt wurden oder bei Kraftfahrzeugen mit einer erstmaligen Zulassung nach dem 1. Juli 2008 1,5 m –1 | SM |
+
+| iv) bei Fahrzeugen, deren Typgenehmigung entsprechend der Verordnung (EG) Nr. 715/2007 Anhang I Tabelle 2 (Euro 6) erteilt wurde oder deren Typgenehmigung entsprechend der Verordnung (EG) Nr. 595/2009 (Euro VI) erteilt wurde 0,7 m –1. | SM |
+
+| Bei technischer Unterwegskontrolle gemäß Richtlinie 2014/47/EU: Abgasfernmessung weist auf erhebliche Abweichung hin | SM |
 
 | 8.3 | Unterdrückung elektromagnetischer Interferenzen |
 
@@ -2042,7 +2136,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 9.10.1 | Türen |
 
-| Türenschutz für diese Beförderungsart nicht vorschriftsmäßig | LM, SM, VM |
+| Türenschutz für diese Beförderungsart nicht vorschriftsmäßig | SM, VM |
 
 | 9.10.2 | Signaleinrichtungen und Sonderausstattung |
 
@@ -2060,7 +2154,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Warnvorrichtung(en) defekt | LM, SM |
 
-| nicht vorschriftsmäßig | LM, SM, VM |
+| nicht vorschriftsmäßig | SM, VM |
 
 | 9.11.2 | Rollstuhlhalterungen |
 
@@ -2070,17 +2164,17 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Steuerung(en) defekt | LM, SM |
 
-| nicht vorschriftsmäßig | LM, SM, VM |
+| nicht vorschriftsmäßig | SM, VM |
 
 | 9.11.3 | Signaleinrichtungen und Sonderausstattung |
 
-| Signaleinrichtung oder Sonderausstattung fehlt oder nicht vorschriftsmäßig | LM, SM, VM |
+| Signaleinrichtung oder Sonderausstattung fehlt oder nicht vorschriftsmäßig | SM, VM |
 
 | 9.12 | Sonstige Sonderausstattungen |
 
 | 9.12.1 | Einrichtungen für Nahrungszubereitung |
 
-| Einrichtung nicht vorschriftsmäßig | LM, SM, VM |
+| Einrichtung nicht vorschriftsmäßig | SM, VM |
 
 | Einrichtung derart beschädigt, dass Benutzung gefährlich wäre | SM |
 
