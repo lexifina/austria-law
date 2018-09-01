@@ -6,4 +6,4 @@ Folgende Daten können bei der Erstellung der Auswertungen nach § 42b Abs. 1 ve
 
 im Dienstgeberbereich: Stammdaten, Beitragskontodaten, GPLA-Daten, Prüfakte-Daten, Beitragsabrechnungsdaten, ÖNACE-Daten und Meldedaten;
 
-im DienstnehmerInnenbereich: Stammdaten und Versicherungsdaten.
+im DienstnehmerInnenbereich: Stammdaten, Versicherungsdaten und Leistungsdaten.
