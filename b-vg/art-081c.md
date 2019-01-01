@@ -1,4 +1,4 @@
-## 6. Universitäten
+## 5. Universitäten
 
 Artikel 81c. (1) Die öffentlichen Universitäten sind Stätten freier wissenschaftlicher Forschung, Lehre und Erschließung der Künste. Sie handeln im Rahmen der Gesetze autonom und können Satzungen erlassen. Die Mitglieder universitärer Kollegialorgane sind weisungsfrei.
 
