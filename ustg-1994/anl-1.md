@@ -90,7 +90,7 @@
 
 - 31. Zubereitete Enzyme, die Nährstoffe enthalten (aus Unterposition 3507 90 der Kombinierten Nomenklatur).
 
-- 32. Süßungsmittel (aus Unterposition 3824 99 96 der Kombinierten Nomenklatur)
+- 32. Süßungsmittel (aus Unterpositionen 3824 99 92 und 3824 99 93 der Kombinierten Nomenklatur)
 
 - 33. Waren des Kapitels 49 der Kombinierten Nomenklatur, und zwar
 
