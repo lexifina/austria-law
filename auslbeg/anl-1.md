@@ -8,9 +8,9 @@
 
 | Abschluss eines Studiums an einer tertiären Bildungseinrichtung mit vierjähriger Mindestdauer | 20 |
 
-| - im Fachgebiet Mathematik, Informatik, Naturwissenschaften oder Technik (MINT-Fächer). | 30 |
+| – im Fachgebiet Mathematik, Informatik, Naturwissenschaften oder Technik (MINT-Fächer). | 30 |
 
-| - mit Habilitation oder gleichwertiger Qualifikation (z. B. PhD) | 40 |
+| – mit Habilitation oder gleichwertiger Qualifikation (z. B. PhD) | 40 |
 
 | Letztjähriges Bruttojahresgehalt in einer Führungsposition eines börsennotierten Unternehmens oder eines Unternehmens, für dessen Aktivitäten bzw. Geschäftsfeld eine positive Stellungnahme der zuständigen Außenhandelsstelle vorliegt: |
 
@@ -26,7 +26,7 @@
 
 | Sprachkenntnisse | maximal anrechenbare Punkte: 10 |
 
-| Deutsch- oder Englischkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau oder zur vertieften elementaren Sprachverwendung | 5 10 |
+| Deutsch- oder Englischkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau (A 1) oder zur vertieften elementaren Sprachverwendung (A 2) | 5 10 |
 
 | Alter | maximal anrechenbare Punkte: 20 |
 

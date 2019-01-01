@@ -18,13 +18,13 @@
 
 | Sprachkenntnisse | maximal anrechenbare Punkte: 15 |
 
-| Deutschkenntnisse zur vertieften elementaren Sprachverwendung | 5 |
+| Deutschkenntnisse zur vertieften elementaren Sprachverwendung (A 2) | 5 |
 
-| Deutschkenntnisse zur selbständigen oder zur vertieften selbständigen Sprachverwendung | 10 |
+| Deutschkenntnisse zur selbständigen oder zur vertieften selbständigen Sprachverwendung (B 1 oder B 2) | 10 |
 
-| Englischkenntnisse zur vertieften selbständigen Sprachverwendung | 10 |
+| Englischkenntnisse zur vertieften selbständigen Sprachverwendung (B 2) | 10 |
 
-| Deutschkenntnisse zur kompetenten Sprachverwendung | 15 |
+| Deutschkenntnisse zur kompetenten Sprachverwendung (C 1) | 15 |
 
 | Zusatzpunkte | maximal anrechenbare Punkte: 30 |
 
