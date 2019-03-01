@@ -230,4 +230,110 @@
 
   - m) Angabe des Zeitpunktes der letzten Änderung der Ausschreibung (TT/MM/JJJJ, hh:mm)
 
-(Anm.: Abschnitt 2 tritt mit 1.3.2019 in Kraft)
+## 2. Abschnitt
+
+## Kerndaten für die Bekanntgabe
+
+- 1. Kerndaten für die Bekanntgabe von vergebenen Aufträgen und abgeschlossenen Rahmenvereinbarungen
+
+  - a) Bei Aufträgen im Sektorenbereich: Angabe, ob mit dieser Bekanntgabe die Vergabe von Dienstleistungsaufträgen auf dem Gebiet der Forschung und Entwicklung bekannt gegeben wird und dabei die Angaben beschränkt werden
+
+  - b) Name des Auftraggebers, der die Leistung beschafft bzw. die Rahmenvereinbarung abgeschlossen hat (alle Auftraggeber, die die Leistung beschafft bzw. die Rahmenvereinbarung abgeschlossen haben, und deren Information gemäß lit. c und d sind in dem entsprechenden Kerndatenfeld anzugeben)
+
+  - c) Stammzahl des Auftraggebers gemäß § 6 EGovG sowie eine eindeutige, vom Auftraggeber vergebene Geschäftszahl des Vergabeverfahrens (Stammzahl-Geschäftszahl)
+
+  - d) Angabe des Vollziehungsbereiches, dem der Auftraggeber zuzurechnen ist (Bund, Bgld, Ktn, NÖ, OÖ, Sbg, Stmk, T, Vbg, W)
+
+  - e) Angabe, ob der geschätzte Auftragswert im Ober- oder im Unterschwellenbereich lag (OSB, USB)
+
+  - f) Name des Auftragnehmers oder der Partei der Rahmenvereinbarung
+
+  - g) Stammzahl des Auftragnehmers oder der Partei der Rahmenvereinbarung gemäß § 6 EGovG (wenn vorhanden; nicht anzugeben bei natürlichen Personen)
+
+  - h) CPV-Code Hauptteil bzw. Hauptteile
+
+  - i) CPV-Code Zusatzteil bzw. Zusatzteile (sofern vorhanden)
+
+  - j) Art des Auftrages (Bau-, Liefer- oder Dienstleistungsauftrag)
+
+  - k) Bezeichnung des Auftrages bzw. der Rahmenvereinbarung
+
+  - l) Kurze Beschreibung des Auftrages bzw. der Rahmenvereinbarung
+
+  - m) Auftragswert des Auftrages bzw. Wertumfang der Rahmenvereinbarung ohne Umsatzsteuer in Euro
+
+  - n) Tag des Vertragsabschlusses bzw. des Abschlusses der Rahmenvereinbarung (TT/MM/JJJJ)
+
+  - o) Bei Zielschuldverhältnissen: in Aussicht genommener Erfüllungszeitpunkt (TT/MM/JJJJ)
+
+  - p) Bei Dauerschuldverhältnissen oder Rahmenvereinbarungen: Laufzeit des Vertrages bzw. Laufzeit der Rahmenvereinbarung (in Monaten oder Tagen)
+
+  - q) Bezeichnung der Verfahrensart (offenes Verfahren, nicht offenes Verfahren mit vorheriger Bekanntmachung, nicht offenes Verfahren ohne vorherige Bekanntmachung, Verhandlungsverfahren mit vorheriger Bekanntmachung, Verhandlungsverfahren ohne vorherige Bekanntmachung, wettbewerblicher Dialog, Innovationspartnerschaft, besonderer Dienstleistungsauftrag mit vorheriger Bekanntmachung, besonderer Dienstleistungsauftrag ohne vorherige Bekanntmachung, dynamisches Beschaffungssystem, Direktvergabe mit vorheriger Bekanntmachung, Direktvergabe)
+
+  - r) Angabe, ob es sich bei der Bekanntgabe um die Bekanntgabe des Abschlusses einer Rahmenvereinbarung handelt
+
+  - s) Anzahl der eingegangenen Angebote
+
+  - t) Im Oberschwellenbereich: Anzahl der Klein- und Mittelunternehmen (KMU) gemäß der Empfehlung 2003/361/EG, die Angebote abgegeben haben (einschließlich KMU in Arbeits- oder Bietergemeinschaften)
+
+  - u) Angabe, ob der bzw. zumindest ein Auftragnehmer ein KMU ist
+
+- 2. Kerndaten für die Bekanntgabe von Wettbewerben
+
+  - a) Name des Auftraggebers, der den Wettbewerb durchgeführt hat (alle Auftraggeber, die den Wettbewerb durchgeführt haben, und deren Information gemäß lit. b und c sind in dem entsprechenden Kerndatenfeld anzugeben)
+
+  - b) Stammzahl des Auftraggebers gemäß § 6 EGovG sowie eine eindeutige, vom Auftraggeber vergebene Geschäftszahl des Vergabeverfahrens (Stammzahl-Geschäftszahl)
+
+  - c) Angabe des Vollziehungsbereiches, dem der Auftraggeber zuzurechnen ist (Bund, Bgld, Ktn, NÖ, OÖ, Sbg, Stmk, T, Vbg, W)
+
+  - d) Angabe, ob der geschätzte Auftragswert bzw. die Summe der Preisgelder und Zahlungen im Ober- oder im Unterschwellenbereich lag (OSB, USB)
+
+  - e) Name des Gewinners des Wettbewerbes
+
+  - f) Stammzahl des Gewinners gemäß § 6 EGovG (wenn vorhanden; nicht anzugeben bei natürlichen Personen)
+
+  - g) CPV-Code Hauptteil bzw. Hauptteile
+
+  - h) CPV-Code Zusatzteil bzw. Zusatzteile (sofern vorhanden)
+
+  - i) Bezeichnung des Wettbewerbes
+
+  - j) Kurze Beschreibung des Wettbewerbes
+
+  - k) Preisgeld bzw. Summe der Preisgelder ohne Umsatzsteuer in Euro
+
+  - l) Bezeichnung der Verfahrensart (offener Ideenwettbewerb, offener Realisierungswettbewerb, nicht offener Ideenwettbewerb, nicht offener Realisierungswettbewerb, geladener Ideenwettbewerb, geladener Realisierungswettbewerb)
+
+  - m) Anzahl der Teilnehmer am Wettbewerb
+
+  - n) Im Oberschwellenbereich: Anzahl der beteiligten KMU
+
+  - o) Angabe, ob der bzw. zumindest ein Gewinner ein KMU ist
+
+- 3. Kerndaten für die Bekanntgabe der Änderung von vergebenen Aufträgen und abgeschlossenen Rahmenvereinbarungen gemäß § 365 Abs. 4
+
+  - a) Name des Auftraggebers, der die Leistung beschafft bzw. die Rahmenvereinbarung abgeschlossen hat (alle Auftraggeber, die die Leistung beschafft bzw. die Rahmenvereinbarung abgeschlossen haben, und deren Information gemäß lit. b sind in dem entsprechenden Kerndatenfeld anzugeben)
+
+  - b) Stammzahl des Auftraggebers gemäß § 6 EGovG sowie eine eindeutige, vom Auftraggeber vergebene Geschäftszahl des Vergabeverfahrens (Stammzahl-Geschäftszahl)
+
+  - c) Name des Auftragnehmers oder der Partei der Rahmenvereinbarung der zusätzlichen bzw. der geänderten Leistung
+
+  - d) Stammzahl des Auftragnehmers oder der Partei der Rahmenvereinbarung gemäß § 6 EGovG (wenn vorhanden; nicht anzugeben bei natürlichen Personen)
+
+  - e) CPV-Code Hauptteil bzw. Hauptteile der zusätzlichen bzw. der geänderten Leistung
+
+  - f) CPV-Code Zusatzteil bzw. Zusatzteile der zusätzlichen bzw. der geänderten Leistung (sofern vorhanden)
+
+  - g) Art des zusätzlichen bzw. geänderten Auftrages (Bau-, Liefer- oder Dienstleistungsauftrag)
+
+  - h) Bezeichnung des Auftrages bzw. der Rahmenvereinbarung und der zusätzlichen bzw. geänderten Leistungen
+
+  - i) Kurze Beschreibung des Auftrages bzw. der Rahmenvereinbarung und der zusätzlichen bzw. geänderten Leistungen
+
+  - j) Beschreibung der Gründe für die Notwendigkeit zusätzlicher bzw. geänderter Leistungen
+
+  - k) Auftragswert des Auftrages bzw. Wertumfang der Rahmenvereinbarung ohne Umsatzsteuer in Euro, vor der Änderung
+
+  - l) Auftragswert der zusätzlichen bzw. der geänderten Leistung
+
+  - m) Angabe, ob der bzw. zumindest ein Auftragnehmer der zusätzlichen bzw. geänderten Leistung ein KMU ist
