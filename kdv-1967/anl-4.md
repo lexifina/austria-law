@@ -18,23 +18,23 @@
 
 | 7 | 0.3 | 0.3 | 0.3 | 0.3 | Merkmale zur Typidentifizierung | Angabe fakultativ |
 
-| 8 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.3.1 | 0.3.1 | 0.3.1 | 0.3.1 | x | M, N, O, L: Anbringungsstelle der vorgeschriebenen Schilder; T, C, R und S: Herstellerschild (Lage und Anbringungsart) | Für die Klasse L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG oder kurze Angabe im Klartext; TB, EG |
+| 8 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.3.1 | 0.3.1 | 0.3.1 | 0.3.1 | x | M, N, O, L: Anbringungsstelle der vorgeschriebenen Schilder; T, C, R und S: Herstellerschild (Lage und Anbringungsart) | Für die Klasse L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG bzw. der Verordnung (EU) Nr. 901/2014 oder kurze Angabe im Klartext; TB, EG |
 
-| 9 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.3.2 | 0.3.2 | 0.3.2 | 0.3.2 | x | Anbringungsstelle der Fahrzeug-Identifizierungsnummer am Fahrgestell | Für die Klasse L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG oder kurze Angabe im Klartext; TB, EG |
+| 9 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.3.2 | 0.3.2 | 0.3.2 | 0.3.2 | x | Anbringungsstelle der Fahrzeug-Identifizierungsnummer am Fahrgestell | Für die Klasse L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG bzw. der Verordnung (EU) Nr. 901/2014 oder kurze Angabe im Klartext; TB, EG |
 
 | 10 | J | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | x | Fahrzeugklasse | TB, EG, EI |
 
-| 11 | J | 39 | x | 0.4.1 | Fahrzeugklasse nach Richtlinie 97/24, Kapitel 7 (falls zutreffend) A, B, C, D; N1: Gruppe I, II oder III bei Klasse N1; bei Klassen M2, M3 Klasse I/II/III/A/B; Ergänzung Fahrzeugart | Wenn Ausnahmen für bestimmte Fahrzeugarten in Anspruch genommen werden, ist diese hier einzutragen, zB „landwirtschaftliches Fahrzeug“; Angabe der Busklasse nur dann erforderlich, wenn dies aus dem Eintrag in Zeile 133 nicht hervorgeht; TB, EG |
+| 11 | J | 39 | x | 0.4.1 | N1: Gruppe I, II oder III bei Klasse N1; bei Klassen M2, M3 Klasse I/II/III/A/B; Ergänzung Fahrzeugart | Wenn Ausnahmen für bestimmte Fahrzeugarten in Anspruch genommen werden, ist diese hier einzutragen, zB „landwirtschaftliches Fahrzeug“; bei historischen Fahrzeugen ist hier „historisch“ einzutragen, Angabe der Busklasse nur dann erforderlich, wenn dies aus dem Eintrag in Zeile 133 nicht hervorgeht; TB, EG |
 
 | 12 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | x | Name und Adresse des Herstellers | TB, EG |
 
 | 13 | 0.6 | 0.6 | 0.6 | 0.6 | T, C, R und S: Anbringungsstelle der vorgeschriebenen Schilder | Angabe fakultativ; hier können eventuell vorhandene Typenschilder von Fahrerhaus, etc. eingetragen werden; das Fabrikschild des Fahrzeuges der Klassen T, C, R und S ist im Feld Herstellerschild (Lage und Anbringungsart) einzutragen; |
 
-| 14 | 0.5.1 | 0.6 | 0.6 | 0.6 | Hersteller Basisfahrzeug Name und Adresse | Klassen T, C, R und S: bei Mehrstufengenehmigungen. Verpflichtend für vervollständigte Fahrzeuge der Klasse N 1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
+| 14 | 0.5.1 | 0.6 | 0.6 | 0.6 | Hersteller Basisfahrzeug Name und Adresse | Klassen T, C, R und S: bei Mehrstufengenehmigungen. Verpflichtend für vervollständigte Fahrzeuge der Klassen M1 und N1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
 
-| 15 | 0.2.2. | 0.6 | 0.6 | 0.6 | Typgenehmigungsnummer Basisfahrzeug | Klassen T, C, R und S: bei Mehrstufengenehmigungen. Verpflichtend für vervollständigte Fahrzeuge der Klasse N 1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
+| 15 | 0.2.2. | 0.6 | 0.6 | 0.6 | Typgenehmigungsnummer Basisfahrzeug | Klassen T, C, R und S: bei Mehrstufengenehmigungen. Verpflichtend für vervollständigte Fahrzeuge der Klassen M1 und N1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
 
-| 16 | 0.6 | 0.6 | 0.6 | Datum Typgenehmigung Basisfahrzeug | Klassen T, C, R und S: bei Mehrstufengenehmigungen. Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
+| 16 | 0.6 | 0.6 | 0.6 | Datum Typgenehmigung Basisfahrzeug | Angabe fakultativ |
 
 | 17 | 0.9 | 0.9 | 0.9 | 0.9 | 0.6 | 0.6 | 0.6 | Hersteller Stufe 2 Name und Adresse; bei Klassen M, N, O Name und Adresse des Bevollmächtigten des Herstellers gemäß Punkt 0.9 der Übereinstimmungsbescheinigung | Bei Mehrstufengenehmigungen; hier ist NICHT der österreichische Bevollmächtigte gemäß §29 Abs. KFG 1967 einzutragen |
 
@@ -70,9 +70,7 @@
 
 | 33 | 1.4 | 1.4 | Fahrersitz umkehrbar Ja/Nein | „Ja“ oder „Nein“; TB |
 
-| 34 | 13 | 13 | 13 | 13 | 12.1 | 2.1.1 | 2.1.1 | 2.1.1 | 2.1.1 | x | Masse in fahrbereitem Zustand (T, C, R und S: Leermasse in fahrbereitem Zustand) | kg | TB, EG |
-
-| 35 | 12.2 | Leermasse des Fahrzeuges | kg | EG |
+| 34 | 13 | 13 | 13 | 13 | 12.1 | 2.1.1 | 2.1.1 | 2.1.1 | 2.1.1 | x | Masse in fahrbereitem Zustand (T, C, R und S: Leermasse in fahrbereitem Zustand) | kg | Bei Fahrzeugen mit Typgenehmigung, die dem CO2-Monitoring gemäß Verordnung (EG) Nr. 443/2009, der Verordnung (EU) Nr. 510/2011 bzw. der Verordnung (EU) 2019/631 unterliegen darf hier die „tatsächliche Masse des Fahrzeugs“ nicht eigetragen werden; TB, EG |
 
 | 36 | F1 | 16.1 | 16.1 | 16.1 | 16.1 | 14.1 | 2.2.1 | 2.2.1 | 2.2.1 | 2.2.1 | x | Technisch zulässige Gesamtmasse in beladenem Zustand (T, C, R und S: Zulässige Gesamtmasse(n)der Zugmaschine / des beladenen Anhängers / der gezogenen auswechselbaren Maschine / je nach den vorgesehenen Reifentypen) | kg | Hier ist bei T, C, R und S die von der Bereifung unabhängige technisch zulässige Gesamtmasse einzutragen; TB, EG, EI |
 
@@ -120,13 +118,13 @@
 
 | 59 | 2.3 | 2.3 | Ballastmassen (Gesamtmasse, Werkstoff, Zahl der Teile) | Angabe fakultativ |
 
-| 60 | 18.4 | 18.4 | 18.4 | 17 | x | x | x | 2.4.1 | x | Technisch zulässige Masse eines Anhängers (ungebremst) (T und C: Ungebremste Anhängemasse) | kg | Für R und S dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C nach Richtlinie 2003/37/EG jedenfalls anzugeben; für alle Fahrzeuge unter Feld O2 in den Daten für die Zulassungsbescheinigung anzugeben; kann bei Gebrauchtimporten von Fahrzeugen der Klasse M1 mit EG-Betriebserlaubnis entfallen, wenn auch keine höchste zulässige Anhängelast ungebremst festgelegt wird. TB, EG |
+| 60 | 18.4 | 18.4 | 18.4 | 17 | x | x | x | 2.4.1 | x | Technisch zulässige Masse eines Anhängers (ungebremst) (T und C: Ungebremste Anhängemasse) | kg | Für R und S dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C jedenfalls anzugeben; für alle Fahrzeuge unter Feld O2 in den Daten für die Zulassungsbescheinigung anzugeben; kann bei Gebrauchtimporten von Fahrzeugen der Klasse M1 mit EG-Betriebserlaubnis entfallen, wenn auch keine höchste zulässige Anhängelast ungebremst festgelegt wird. TB, EG |
 
-| 61 | x | x | x | 2.4.2 | x | Anhängemasse mit unabhängiger Bremsung | kg | Für R und S dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C nach Richtlinie 2003/37/EG jedenfalls anzugeben; für alle Fzge. der Klassen T und C unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
+| 61 | x | x | x | 2.4.2 | x | Anhängemasse mit unabhängiger Bremsung | kg | Für R und S dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C jedenfalls anzugeben; für alle Fzge. der Klassen T und C unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
 
-| 62 | x | x | x | 2.4.3 | x | Anhängemasse bei Auflaufbremsung | kg | Für R und S dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C nach Richtlinie 2003/37/EG jedenfalls anzugeben; für alle Fzge. der Klassen T und C unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
+| 62 | x | x | x | 2.4.3 | x | Anhängemasse bei Auflaufbremsung | kg | Für R und S dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C jedenfalls anzugeben; für alle Fzge. der Klassen T und C unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
 
-| 63 | x | x | x | 2.4.4. | x | Anhängemasse bei Hilfskraftbremsung (hydraulisch oder pneumatisch) | kg | Mit durchgehender Bremsanlage; für R und S, dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C nach Richtlinie 2003/37/EG jedenfalls anzugeben; für alle Fuge. der Klassen T und C unter Feld O1 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
+| 63 | x | x | x | 2.4.4. | x | Anhängemasse bei Hilfskraftbremsung (hydraulisch oder pneumatisch) | kg | Mit durchgehender Bremsanlage; für R und S, dann anzugeben, wenn hinten eine Anhängevorrichtung vorhanden ist; für T und C jedenfalls anzugeben; für alle Fuge. der Klassen T und C unter Feld O1 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
 
 | 64 | 17 | Größte Anhängelast gebremst | kg | EG |
 
@@ -142,7 +140,7 @@
 
 | 70 | 2.4.4 | 2.4.5 | x | Technisch zulässige Gesamtmasse(n)der Einheit Zugmaschine-Anhänger (je nach Konfiguration der Anhängerbremsanlage): auflaufgebremster Anhänger | kg | Wenn die Summe aus „höchstem zulässigem Gesamtgewicht“ + „höchste zulässige Anhängelast auflaufgebremst“ größer ist als die „Technisch zulässige Gesamtmasse der Einheit Zugmaschine-Anhänger“, ist diese unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
 
-| 71 | 2.4.4 | 2.4.5 | x | Technisch zulässige Gesamtmasse(n)der Einheit Zugmaschine-Anhänger (je nach Konfiguration der Anhängerbremsanlage): unabhängig gebremster Anhänger | kg | Wenn die Summe aus „höchstem zulässigem Gesamtgewicht“ + „höchste zulässige Anhängelast unanhängig gebremst“ größer ist als die „Technisch zulässige Gesamtmasse der Einheit Zugmaschine-Anhänger“, ist diese unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
+| 71 | 2.4.4 | 2.4.5 | x | Technisch zulässige Gesamtmasse(n)der Einheit Zugmaschine-Anhänger (je nach Konfiguration der Anhängerbremsanlage): unabhängig gebremster Anhänger | kg | Wenn die Summe aus „höchstem zulässigem Gesamtgewicht“ + „höchste zulässige Anhängelast unabhängig gebremst“ größer ist als die „Technisch zulässige Gesamtmasse der Einheit Zugmaschine-Anhänger“, ist diese unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
 
 | 72 | 2.4.4 | 2.4.5 | x | Technisch zulässige Gesamtmasse(n)der Einheit Zugmaschine-Anhänger (je nach Konfiguration der Anhängerbremsanlage): hilfskraftgebremster Anhänger | kg | Wenn die Summe aus „höchstem zulässigem Gesamtgewicht“ + „höchste zulässige Anhängelast hilfskraftgebremst“ größer ist als die „Technisch zulässige Gesamtmasse der Einheit Zugmaschine-Anhänger“, ist diese unter Feld A18 in den Daten für die Zulassungsbescheinigung anzugeben; TB, EG |
 
@@ -178,7 +176,7 @@
 
 | 88 | 6 | 6 | 6 | 6 | 7.1 | 2.7.2 | 2.7.2.2 | 2.7.2 | 2.7.2 | x | Breite | mm | TB, EG |
 
-| 89 | 7 | 7 | 7 | 7 | 8 | 2.7.3 | x | 2.7.3 | 2.7.3 | x | Höhe | mm | Bei N2, N3 Angabe fakultativ; bei Achshubeinrichtung ist deren Auswirkung zu berücksichtigen; TB, EG |
+| 89 | 7 | 7 | 7 | 7 | 8 | 2.7.3 | x | 2.7.3 | 2.7.3 | x | Höhe | mm | bei Achshubeinrichtung ist deren Auswirkung zu berücksichtigen; TB, EG |
 
 | 91 | 20 | 20 | 20 | 20 | 3.1.1 | 3.1.1 | x | Hersteller (T, C: Fabrikmarke) Antriebsmaschine | TB, EG |
 
@@ -194,7 +192,7 @@
 
 | 97 | P5 | 21 | 21 | 21 | 21 | 3.2.1.2 | 3.2.1.2 | x | Baumusterbezeichnung des Herstellers gemäß Kennzeichnung am Motor; T und C: Antriebsmaschine, Typ | Wenn die Typen-/Baumusterbezeichnung des Motors bei einzeln genehmigten Fahrzeugen nicht verfügbar ist, kann stattdessen die Motornummer angegeben werden. TB, EG, EI |
 
-| 98 | 3.2.1.2 | 3.2.1.2 | Antriebsmaschine, Typ-Genehmigungsnummer | Nur die Genehmigungsnummer nach 97/68/EWG oder 2000/25/EWG, nicht die der Trübungsmessung (77/537/EWG); TB |
+| 98 | 3.2.1.2 | 3.2.1.2 | Antriebsmaschine, Typ-Genehmigungsnummer | Nur die Genehmigungsnummer nach Richtlinie 97/68/EG, 2000/25/EG, Verordnung (EU) 2015/96 oder Verordnung (EU) 2016/1628, nicht die der Trübungsmessung (77/537/EWG oder ECE-R24); TB |
 
 | 99 | 24 | 24 | 24 | 23 | 3.2.1.6 | 3.2.1.6 | x | Anzahl der Zylinder | TB, EG |
 
@@ -232,9 +230,9 @@
 
 | 117 | 29 | Übersetzungsverhältnisse, 8. Gang | TB |
 
-| 127 | 4.7 | 4.7 | berechnete, bauartbedingte Höchstgeschwindigkeit in km/h | km/h |
+| 127 | 4.7 | 4.7 | berechnete, bauartbedingte Höchstgeschwindigkeit in km/h | km/h | Angabe entfällt bei Fahrzeugen mit EU-Typgenehmigung nach Verordnung (EU) Nr. 167/2013 |
 
-| 128 | 29 | 29 | 29 | 29 | 44 | 4.7.1 | x | x | 4.7.1 | x | Höchstgeschwindigkeit (T und C: gemessene Höchstgeschwindigkeit km/h) | km/h | Bei Fahrzeugen der Klassen M, N und O mit EG-Betriebserlaubnis die unter Punkt 29 der EG-Übereinstimmungsbescheinigung bzw. 4.7 des Beschreibungsbogen eingetragene Höchstgeschwindigkeit. Bei anderen Kraftfahrzeugen mit Geschwindigkeitsbegrenzer nach Richtlinie 92/24/EWG ist die Bauartgeschwindigkeit ohne Geschwindigkeitsbegrenzer einzutragen – bei zusätzlicher Geschwindigkeitsbegrenzung das Motormanagement ist die durch das Motormanagement begrenzte Höchstgeschwindigkeit einzutragen. O, R, S: technisch zulässige Höchstgeschwindigkeit; TB, EG |
+| 128 | 29 | 29 | 29 | 29 | 44 | 4.7.1 | x | x | 4.7.1 | x | Höchstgeschwindigkeit | km/h | Bei Fahrzeugen der Klassen M, N und O mit EG-Betriebserlaubnis die unter Punkt 29 der EG-Übereinstimmungsbescheinigung bzw. 4.7 des Beschreibungsbogens eingetragene Höchstgeschwindigkeit. Bei Fahrzeugen mit EU-Typgenehmigung gemäß Verordnung (EU) Nr. 167/2013: vom Hersteller angegebene bauartbedingte Höchstgeschwindigkeit; O, R, S: technisch zulässige Höchstgeschwindigkeit; TB, EG |
 
 | 129 | 7.1 | 7.1 | x | Art der Lenkhilfe (T und C: Art der Lenkanlage: Muskelkraft-/Hilfskraft-/Fremdkraftlenkanlage) | TB, EG |
 
@@ -250,7 +248,7 @@
 
 | 135 | 41 | 41 | 41 | x | 41 | Anzahl der Türen | Als Tür sind die verschließbaren Öffnungen zu zählen, die üblicherweise zum Ein- und Aussteigen geeignet sind; hintere Flügeltüren von LKW sind als 2 Türen zu zählen; TB, EG |
 
-| 136 | 41 | 41 | 41 | x | 41 | Anordnung der Türen | Angabe nach dem Muster „2/2“ für 2 vorne und 2 hinten; für Klassen L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG oder kurze Angabe nach Muster; TB, EG |
+| 136 | 41 | 41 | 41 | x | 41 | Anordnung der Türen | Angabe nach dem Muster „2/2“ für 2 vorne und 2 hinten; für Klassen L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG bzw. der Verordnung (EU) Nr. 901/2014 oder kurze Angabe nach Muster; TB, EG |
 
 | 137 | 10.1 | 10.1 | x | Rahmen/Führerhaus | Wenn Rahmen, dann Angabe „Rahmen“, wenn Führerhaus, dann Angabe „Führerhaus“; TB, EG |
 
@@ -270,7 +268,7 @@
 
 | 145 | 10.3.2 | 10.3.2 | x | Beifahrersitze, Anzahl | TB, EG |
 
-| 146 | 42.1 | Lage der Sitze | Angabe für Klassen M, N und O in den Anmerkungen, falls erforderlich; für Klassen L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG oder kurze Angabe Worten; O: nur bei Omnibusanhängern; |
+| 146 | 42.1 | Lage der Sitze | Angabe für Klassen M, N und O in den Anmerkungen, falls erforderlich; für Klassen L entweder codiert nach den Vorgaben der Richtlinie 2002/24/EG bzw. der Verordnung (EU Nr. 901/2014 oder kurze Angabe Worten; O: nur bei Omnibusanhängern; |
 
 | 147 | S2 | 43 | S2 | Anzahl der Stehplätze | O: nur bei Omnibusanhängern; TB, EG, EI |
 
@@ -288,13 +286,13 @@
 
 | 157 | 45 | 13 | 13 | x | Geräuschpegel (T und C: Geräuschpegel außen), Nummer der Basisrichtlinie | Siehe Anmerkung 10 |
 
-| 158 | U | 45 | 13 | 13 | x | Geräuschpegel (T und C: Geräuschpegel außen), Nummer der letzen Änderungsrichtlinie und ggf. Umsetzungsstufe | Siehe Anmerkung 10; O: bei Anhängern mit während der Fahrt laufenden Maschinen, wie zB Kühlaggregaten; Eintrag: „§8 KDV 1967“, entfällt bei solchen Fahrzeugen mit EG-Betriebserlaubnis; TB, EG |
+| 158 | U | 45 | 13 | 13 | x | Geräuschpegel (T und C: Geräuschpegel außen), Nummer der letzten Änderungsrichtlinie und ggf. Umsetzungsstufe | Siehe Anmerkung 10; O: bei Anhängern mit während der Fahrt laufenden Maschinen, wie zB Kühlaggregaten; Eintrag: „§8 KDV 1967“, entfällt bei solchen Fahrzeugen mit EG-Betriebserlaubnis; TB, EG |
 
 | 159 | U1 | 46 | 46 | 46 | 45 | 13.1 | 13.1 | x | Standgeräusch in dB(A) | dB(A) | In die Zulassungsbescheinigung wird aufgerundete Ganzzahl übernommen; TB, EG, EI |
 
 | 160 | U2 | 46 | 46 | 46 | 45 | 13.1 | 13.1 | x | Drehzahl bei Standgeräusch in 1/min | min-1 | In die Zulassungsbescheinigung wird die kaufm. gerundete Ganzzahl übernommen; TB, EG, EI |
 
-| 161 | U3 | 46 | 46 | 46 | x | 45 | 13.2 | 13.2 | x | Fahrgeräusch in dB(A) | dB(A) | O: bei Anhängern mit während der Fahrt laufenden Maschinen, wie zB Kühlaggregaten (gemessen nach Anlage 1c); in die Zulassungsbescheinigung wird die kaufm. gerundete Ganzzahl übernommen; TB, EG |
+| 161 | U3 | 46 | 46 | 46 | 45 | 13.2 | 13.2 | x | Fahrgeräusch in dB(A) | dB(A) | In die Zulassungsbescheinigung wird die kaufm. gerundete Ganzzahl übernommen; TB, EG |
 
 | 162 | 14 | 14 | Geräuschpegel (innen) in Ohrenhöhe des Fahrers, Nummer der Basisrichtlinie | Siehe Anmerkung 10; TB |
 
@@ -306,49 +304,49 @@
 
 | 166 | V | 48 | 48 | 48 | 46 | 15 | 15 | x | Abgasverhalten (T und C: Auspuffgas), Nummer der letzten Änderungsrichtlinie, ggf. Umsetzungsstufe | Siehe Anmerkungen 10 und 11; TB, EG |
 
-| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), CO | g/kWh oder g/km | /Dokumente/Bundesnormen/NOR40187197/image001.png |
+| 167 | V1 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | Typ I, ESC, NEFZ, WLTP, WHSC bzw. NRSC: CO | g/kWh oder g/km | Siehe Anmerkung 11, TB |
 
-| 168 | V2 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), HC bzw. THC | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Summenwert „HC+NOx“ bzw. „THC+NOx“ bewertet, muss der Wert für „HC“ bzw. „THC“ nicht angegeben werden; TB |
+| 168 | V2 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | Typ I, ESC, NEFZ, WLTP, WHSC bzw. NRSC: HC bzw. THC | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Summenwert „HC+NOx“ bzw. „THC+NOx“ bewertet, muss der Wert für „HC“ bzw. „THC“ nicht angegeben werden; TB |
 
-| 169 | V3 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), NOx | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 169 | V3 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | Typ I, ESC, NEFZ, WLTP, WHSC bzw. NRSC: NOx | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 170 | V4 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, L: Typ I, T und C: Auspuffgas), HC+NOx bzw. THC+NOx | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Einzelwert „HC“ bzw. „THC“ bewertet, muss der Wert für „HC+NOx“ bzw. „THC+NOx“ nicht angegeben werden; TB |
+| 170 | V4 | 48 | 48 | 48 | 46 | 15.1 | 15.1 | x | Typ I, ESC, NEFZ, WLTP, WHSC bzw. NRSC: HC+NOx bzw. THC+NOx | g/kWh oder g/km | Siehe Anmerkung 11; wird aufgrund der auf das Fahrzeug zutreffenden Bestimmungen nur der Einzelwert „HC“ bzw. „THC“ bewertet, muss der Wert für „HC+NOx“ bzw. „THC+NOx“ nicht angegeben werden; TB |
 
-| 171 | V5 | 48 | 48 | 48 | 15.1 | 15.1 | x | 1. Prüfverfahren (ESC, T und C: Auspuffgas), Partikelmasse | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 171 | V5 | 48 | 48 | 48 | 15.1 | 15.1 | x | Typ I, ESC, NEFZ, WLTP, WHSC bzw. NRSC: Partikelmasse | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 172 | V6 | 48.1 | 48.1 | 48.1 | 46 | 15.1 | 15.1 | x | Korrigierter Wert des Absorptionskoeffizienten (T und C: Ruß in 1/m) | m-1 | Wenn der Absorptionskoeffizient nicht vorliegt (Altfahrzeuge), ist hier die Schwärzungszahl in BE einzutragen und in den Anmerkungen darauf hinzuweisen; TB, EG |
+| 172 | V6 | 48.1 | 48.1 | 48.1 | 46 | 15.1 | x | Korrigierter Wert des Absorptionskoeffizienten | m-1 | Wenn der Absorptionskoeffizient nicht vorliegt (Altfahrzeuge), ist hier die Schwärzungszahl in BE einzutragen und in den Anmerkungen darauf hinzuweisen; TB, EG |
 
-| 173 | 48 | 48 | 48 | 15.2 | 15.2 | x | 2. Prüfverfahren (ETC, T und C: Auspuffgas), CO | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 173 | 48 | 48 | 48 | 15.2 | 15.2 | x | ETC, WHTC bzw. NRTC: CO | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 174 | 48 | 48 | 48 | 15.2 | 15.2 | x | 2. Prüfverfahren (ETC, T und C: Auspuffgas), NOx in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 174 | 48 | 48 | 48 | 15.2 | 15.2 | x | ETC, WHTC bzw. NRTC: NOx in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 175 | 48 | 48 | 48 | 15.2 | 15.2 | x | 2. Prüfverfahren (ETC, T und C: Auspuffgas), NMHC in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 175 | 48 | 48 | 48 | 15.2 | 15.2 | x | ETC, WHTC bzw. NRTC: NMHC in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 176 | 48 | 48 | 48 | 2. Prüfverfahren (ETC, T und C: Auspuffgas), THC | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 176 | 48 | 48 | 48 | ETC, WHTC bzw. NRTC: THC in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 177 | 48 | 48 | 48 | 15.2 | 15.2 | x | 2. Prüfverfahren (ETC, T und C: Auspuffgas), CH4 in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 177 | 48 | 48 | 48 | 15.2 | 15.2 | x | ETC, WHTC bzw. NRTC: CH4 in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 178 | 48 | 48 | 48 | 15.2 | 15.2 | x | 2. Prüfverfahren (ETC, T und C: Auspuffgas), Partikel in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
+| 178 | 48 | 48 | 48 | 15.2 | 15.2 | x | ETC, WHTC bzw. NRTC: Partikelmasse in g/kWh | g/kWh oder g/km | Siehe Anmerkung 11; TB |
 
-| 179 | 46 | Prüfung Typ II; Kleinkrafträder, CO | g/min | Siehe Anmerkung 11 |
+| 179 | 46 | Prüfung Typ II; Kleinkrafträder, CO | g/min | Wenn zutreffend; Siehe Anmerkung 11 |
 
-| 180 | 46 | Prüfung Typ II; Kleinkrafträder, HC | g/min | Siehe Anmerkung 11 |
+| 180 | 46 | Prüfung Typ II; Kleinkrafträder, HC | g/min | Wenn zutreffend; Siehe Anmerkung 11 |
 
-| 181 | 46 | Prüfung Typ II; Krafträder und dreirädrige Kraftfahrzeuge, CO | % vol. | Siehe Anmerkung 11 |
+| 181 | 46 | Prüfung Typ II; Krafträder und dreirädrige Kraftfahrzeuge, CO | % vol. | Wenn zutreffend; Siehe Anmerkung 11 |
 
-| 184 | 49 | 49 | CO2-Emissionen innerorts | g/km | Nur für Fahrzeuge der Klassen M1 und N1, für die der Kraftstoffverbrauch nach der Richtlinie 80/1268/EWG oder Verordnung (EG) Nr. 715/2007 ermittelt werden muss; alle Antriebsarten außer reinen Elektrofahrzeugen; siehe Anmerkung 11; TB |
+| 184 | 49.1 | 49.1 | NEFZ: CO2-Emissionen innerorts | g/km | Nur für Fahrzeuge der Klassen M1 und N1, für die der Kraftstoffverbrauch nach der Richtlinie 80/1268/EWG oder Verordnung (EG) Nr. 715/2007 gemäß NEFZ-Prüfverfahren (Verordnung (EU) Nr. 692/2008) ermittelt wurde; alle Antriebsarten außer reinen Elektrofahrzeugen; siehe Anmerkung 22; TB |
 
-| 185 | 49 | 49 | CO2-Emissionen außerorts | g/km | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts; TB |
+| 185 | 49.1 | 49.1 | NEFZ: CO2-Emissionen außerorts | g/km | Anwendbarkeit siehe Anmerkung zu Zeile 184; TB |
 
-| 186 | V7 | 49 | 49 | CO2-Emissionen kombiniert | g/km | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts; siehe Anmerkung 11; TB, EG, EI |
+| 186 | V7 | 49.1 | 49.1 | NEFZ: CO2-Emissionen kombiniert | g/km | Muss für alle Fahrzeuge der Klassen M1 und N1 erfasst werden, die dem CO2-Monitoring unterliegen (Verordnungen (EU) Nr. 443/2009, (EU) Nr. 510/2011 bzw. (EU) 2019/631) und die vor dem 1.1.2021 erstmalig zugelassen werden; Eintragung entfällt nach dem 31.12.2020; bei Fahrzeugen, die nach WLTP geprüft wurden (Verordnung (EU) 2017/1151) die berechneten CO2-Emissionen nach NEFZ; siehe Anmerkungen 22 und 22; TB, EG, EI |
 
-| 187 | V8 | 49 | 49 | Einheit für Kraftstoffverbrauch | l/100 km oder m³/100 km, Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts; TB, EG |
+| 187 | V8 | 49 | 49 | 4.0.2 | Einheit für Kraftstoffverbrauch | l/100 km, kg/100 km oder m³/100 km, Anwendbarkeit siehe Anmerkungen zu den Zeilen 184 bzw. 186; TB, EG |
 
-| 188 | 49 | 49 | Kraftstoffverbrauch innerorts | l/100 km oder m³/100 km, Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts; siehe Anmerkung 11; TB |
+| 188 | 49 | 49 | NEFZ: Kraftstoffverbrauch innerorts | l/100 km, kg/100km oder m³/100 km, Anwendbarkeit siehe Anmerkungen zu den Zeilen 184 bzw. 186; siehe Anmerkung 22; TB |
 
-| 189 | 49 | 49 | Kraftstoffverbrauch außerorts | l/100 km oder m³/100 km, Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts; siehe Anmerkung 11; TB |
+| 189 | 49 | 49 | NEFZ: Kraftstoffverbrauch außerorts | l/100 km, kg/100km oder m³/100 km, Anwendbarkeit siehe Anmerkungen zu den Zeilen 184 bzw. 186; siehe Anmerkung 22; TB |
 
-| 190 | V8 | 49 | 49 | Kraftstoffverbrauch kombiniert | l/100 km oder m³/100 km, Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts;; siehe Anmerkung 11; TB, EG, EI |
+| 190 | V8 | 49 | 49 | NEFZ: Kraftstoffverbrauch kombiniert | l/100 km, kg/100km oder m³/100 km, Anwendbarkeit siehe Anmerkungen zu den Zeilen 184 bzw. 186; siehe Anmerkung22; TB, EG, EI |
 
 | 191 | x | x | x | x | 47 | 16 | 16 | 16 | 16 | x | Steuerleistung Österreich | Bei Typendaten ist hier die Nummer des zutreffenden Typendatensatzes einzutragen |
 
@@ -406,9 +404,9 @@
 
 | 219 | A13 | A13 | A13 | A13 | A13 | A13 | A13 | A13 | A13 | A13 | A13 | Bereifung und Räder Zeile 3 | Bereifung und Räder, die in Feld A13 der Zulassungsbescheinigung eingetragen werden; zusätzliche Angaben können in Feld A19 eingetragen werden; EG |
 
-| 220 | T | 29 | 29 | 29 | 29 | 44 | T | T | T | T | T | Höchstgeschwindigkeit, Wert für die Zulassungsbescheinigung | km/h | Bei Fahrzeugen der Klassen M, N, O, L, R und S ist hier der kaufmännisch auf ganze km/h gerundete Wert aus dem Feld „Daten der Übereinstimmungsbescheinigung, Seite 2 ff. – Höchstgeschwindigkeit“ zu übernehmen, bei Fahrzeugen der Klassen T, C und lof ist bei einer nach der Richtlinie 74/152/EWG gemessenen Höchstgeschwindigkeit von mehr als bis zu der Wert 20,0 km/h 28,0 km/h „25“ 28,0 km/h 33,0 km/h „30“ 33,0 km/h 43,0 km/h „40“ 43,0 km/h 53,0 km/h „50“; einzutragen. TB, EG, EI (bei Fahrzeugen, bei denen die Höchstgeschwindigkeit aufgrund gesetzlicher Bestimmungen eingeschränkt ist) |
+| 220 | T | 29 | 29 | 29 | 29 | 44 | T | T | T | T | T | Höchstgeschwindigkeit, Wert für die Zulassungsbescheinigung | km/h | Bei Fahrzeugen der Klassen M, N, O, L, R und S ist hier der kaufmännisch auf ganze km/h gerundete Wert aus dem Feld „Daten der Übereinstimmungsbescheinigung, Seite 2 ff. – Höchstgeschwindigkeit“ zu übernehmen, bei Fahrzeugen der Klassen T, C und lof ist bei einer nach der Richtlinie 74/152/EWG gemessenen Höchstgeschwindigkeit von mehr als bis zu der Wert 20,0 km/h 28,0 km/h „25“ 28,0 km/h 33,0 km/h „30“ 33,0 km/h 43,0 km/h „40“ 43,0 km/h 53,0 km/h „50“; Einzutragen; bei Fahrzeugen mit einer EU-Typgenehmigung gemäß Verordnung (EU) Nr. 167/2013 ist die vom Hersteller angegebene bauartbedingte Höchstgeschwindigkeit zugrunde zu legen. TB, EG, EI (bei Fahrzeugen, bei denen die Höchstgeschwindigkeit aufgrund gesetzlicher Bestimmungen eingeschränkt ist) |
 
-| 221 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | Farbe der Begutachtungsplakette | Farbe gemäß § 6 PBStV; TB, EG, EI |
+| 221 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | A16 | Farbe der Begutachtungsplakette | Es werden nur Ausnahmen von der Begutachtungspflicht gemäß § 57a Abs. 1 KFG 1967 eingetragen; TB, EG, EI |
 
 | 222 | A17 | A17 | A17 | A17 | A17 | A17 | A17 | A17 | A17 | A17 | A17 | Auflagen und Bedingungen für die Zulassung, Text für die Zulassungsbescheinigung | TB, EG |
 
@@ -450,13 +448,13 @@
 
 | 241 | 23 | 23 | 23 | Reiner Elektroantrieb Ja/Nein | EG |
 
-| 242 | 23.1 | 23.1 | 23.1 | Hybrid-(Elektro-)Fahrzeug Ja/Nein | EG |
+| 242 | 23.1 | 23.1 | 23.1 | Hybrid-(Elektro-)Fahrzeug | Art, des Elektro-Hybridantriebs, wenn zutreffend; EG |
 
 | 243 | 26.1 | 26.1 | 26.1 | Fahrzeug mit Einstoffbetrieb / Zweistoffbetrieb / Flexfuel-Fahrzeug | EG |
 
-| 244 | 27 | 27 | 27 | Nennleistung Verbrennungsmotor in kW | siehe Anmerkung 20 |
+| 244 | 27 | 27 | 27 | 1.9 | 6.3.2.1.2 | 3.6 | x | Nennleistung Verbrennungsmotor in kW | siehe Anmerkung 20 |
 
-| 245 | 27 | 27 | 27 | Nenndauerleistung Elektromotor in kW | siehe Anmerkung 20 |
+| 245 | 27 | 27 | 27 | 3.3.3.4 | x | x | x | Nenndauerleistung Elektromotor in kW | siehe Anmerkung 20 |
 
 | 246 | 32 | 32 | 32 | Lage der belastbaren Achse(n) | Angabe der Achsnummern; nicht bei N1, M2; TB |
 
@@ -470,41 +468,79 @@
 
 | 251 | 45.1 | 45.1 | 45.1 | Kennwerte D, V, S, U der Anhängevorrichtung |
 
-| 252 | V | 47 | 47 | 47 | V | V | V | V | Abgasnorm | Eintragung gemäß Anmerkung 21; TB, EG, EI |
+| 252 | V9 | 47 | 47 | 47 | V | V | V | V | Abgasnorm | Eintragung gemäß Anmerkung 21; TB, EG, EI |
 
 | 253 | 48 | 48 | 48 | ELR-Test, Rauchtrübung | m-1 | Bei Genehmigung nach Richtlinie 2005/55/EG, TB, EG |
 
-| 254 | 48 | 48 | 48 | Prüfverfahren Typ I, NMHC | g/km | Bei Emissionen nach VO (EG) Nr. 715/2007, TB, EG |
+| 254 | 48 | 48 | 48 | Typ I, ESC, NEFZ, WLTP bzw. WHSC: NMHC | g/km | Bei Emissionen nach Verordnung (EG) Nr. 715/2007 und Verordnung (EG) Nr. 595/2009, TB, EG |
 
-| 255 | 48 | 48 | 48 | Prüfverfahren Typ I, Partikelzahl | 1 | Bei Emissionen nach VO (EG) Nr. 715/2007 Stufe Euro6, TB, EG |
+| 255 | 48 | 48 | 48 | Typ I, ESC, NEFZ, WLTP, WHSC bzw. NRSC: Partikelzahl | 1 | Bei Emissionen nach Verordnung (EG) Nr. 715/2007 Stufe Euro6, Verordnung (EG) Nr. 595/2009 und Verordnung (EU) 2018/985, TB, EG |
 
-| 256 | 49.1 | 49.1 | CO2, gewichtet, kombiniert | g/km | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts, jedoch nur bei Hybridfahrzeugen, TB, EG |
+| 256 | V7 | 49.1 | 49.1 | NEFZ: CO2, gewichtet, kombiniert | g/km | Anwendbarkeit siehe Anmerkung zu Zeile 186, jedoch nur bei extern aufladbaren Hybridfahrzeugen; siehe Anmerkung22 TB, EG |
 
-| 257 | 49.1 | 49.1 | Kraftstoffverbrauch gewichtet, kombiniert | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts, jedoch nur bei Hybridfahrzeugen, TB, EG |
+| 257 | V8 | 49.1 | 49.1 | NEFZ: Kraftstoffverbrauch gewichtet, kombiniert | l/100 km, kg/100 km oder m³/100 km, Anwendbarkeit siehe Anmerkung zu Zeile 186, jedoch nur bei extern aufladbaren Hybridfahrzeugen; siehe Anmerkung 22, TB, EG |
 
-| 258 | 49.2 | 49.2 | Stromverbrauch gewichtet, kombiniert | Wh/km | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts, jedoch nur bei reinen Elektrofahrzeugen und extern aufladbaren Hybridfahrzeugen TB, EG |
+| 258 | 49.2 / 49.5 | 49.2 | 4.0.4 | Stromverbrauch gewichtet, kombiniert | Wh/km | Anwendbarkeit siehe Anmerkung zu Zeile 186, jedoch nur bei reinen Elektrofahrzeugen und extern aufladbaren Hybridfahrzeugen; bei NEFZ und WLTP; Klassen L: mit Genehmigung nach Verordnung (EU) Nr. 168/2013; TB, EG |
 
-| 259 | 49.2 | 49.2 | Elektrische Reichweite | km | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts, jedoch nur bei reinen Elektrofahrzeugen und extern aufladbaren Hybridfahrzeugen TB, EG |
+| 259 | 49.2 / 49.5 | 49.2 | 4.0.5 | Elektrische Reichweite | km | Anwendbarkeit siehe Anmerkung zu CO2-Emissionen innerorts, jedoch nur bei reinen Elektrofahrzeugen und extern aufladbaren Hybridfahrzeugen; bei NEFZ und WLTP; Klassen L: mit Genehmigung nach Verordnung (EU) Nr. 168/2013; TB, EG |
 
 | 260 | 51 | 51 | 51 | 51 | Fahrzeuge mit besonderer Zweckbestimmung: Bezeichnung gemäß Anhang II, Nr. 5 der Richtlinie 2007/46/EG | kann entfallen, wenn dies bereits aus der Codierung der Aufbauart hervorgeht |
 
 | 261 | zusätzliche Daten der Übereinstimmungsbescheinigung nach VO (EU) Nr. 1230/2012, 143/2013 und 195/2013 |
 
-| 262 | 0.2.2 | Type des Basisfahrzeugs | Verpflichtend für vervollständigte Fahrzeuge der Klasse N 1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
+| 262 | 0.2.2 | Type des Basisfahrzeugs | Verpflichtend für vervollständigte Fahrzeuge der Klassen M und N, auch wenn das Basisfahrzeug ein vollständiges Fahrzeug war. Bei Fahrzeugen der Klasse O fakultative Angabe |
 
-| 263 | 0.2.2 | Variante des Basisfahrzeugs | Verpflichtend für vervollständigte Fahrzeuge der Klasse N 1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
+| 263 | 0.2.2 | Variante des Basisfahrzeugs | siehe Anmerkung zu Zeile 262 |
 
-| 264 | 0.2.2 | Version des Basisfahrzeugs | Verpflichtend für vervollständigte Fahrzeuge der Klasse N 1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe |
+| 264 | 0.2.2 | Version des Basisfahrzeugs | siehe Anmerkung zu Zeile 262 |
 
-| 265 | 14 | Masse des Basisfahrzeugs in fahrbereitem Zustand | kg | Verpflichtend für vervollständigte Fahrzeuge der Klasse N 1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe). |
+| 265 | 14 | Masse des Basisfahrzeugs in fahrbereitem Zustand | kg | siehe Anmerkung zu Zeile 262; bei Basisfahrzeugen mit Typgenehmigung darf hier nicht die tatsächliche Masse des Basisfahrzeugs eingetragen werden |
 
 | 266 | 49.3 | 49.3 | Fahrzeug mit Ökoinnovation(en) ausgestattet: ja/nein | Bei Fahrzeugen im Geltungsbereich der Verordnung (EG) Nr. 715/2007 |
 
 | 267 | 49.3.1. | 49.3.1. | Allgemeiner Code der Ökoinnovation(en) | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EG) Nr. 715/2007, gemäß den Erläuterungen in Anhang IX der Richtlinie 2007/46/EG |
 
-| 268 | 49.3.2 | 49.3.2 | Gesamteinsparungen von CO 2 -Emissionen durch die Ökoinnovation(en) | g/km | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EG) Nr. 715/2007, gemäß den Erläuterungen in Anhang IX der Richtlinie 2007/46/EG |
+| 268 | 49.3.2 | 49.3.2 | NEFZ: Gesamteinsparungen von CO 2 -Emissionen durch die Ökoinnovation(en) | g/km | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EG) Nr. 715/2007, gemäß den Erläuterungen in Anhang IX der Richtlinie 2007/46/EG. Eintragung entfällt nach dem 31.12.2020. |
 
-| 269 | 13.2 | 13.2 | 13.2 | 13.2 | Tatsächliche Masse des Fahrzeugs | Kg |
+| 269 | 13.2 | 13.2 | 13.2 | 13.2 | Tatsächliche Masse des Fahrzeugs | kg |
+
+| 270 | zusätzliche Daten der Übereinstimmungsbescheinigung nach Verordnung (EU) 2017/1151 |
+
+| 271 | x | x | x | Klasse des Basisfahrzeugs | Verpflichtend für vervollständigte Fahrzeuge der Klasse N1 im Geltungsbereich der Verordnung (EG) Nr. 715/2007 (auch bei Einzelgenehmigung als letzte Genehmigungsstufe oder vollständigem Basisfahrzeug). Bei allen anderen Fahrzeugen der Klassen M, N und O fakultative Angabe; EG |
+
+| 272 | 47.1.1. | 47.1.1. | 47.1.1. | WLTP: Prüfmasse | kg | Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; EG |
+
+| 273 | 47.1.2 | 47.1.2 | 47.1.2 | Querschnittsfläche | m² | Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; EG |
+
+| 274 | 47.1.3.0 | 47.1.3.0 | 47.1.3.0 | Fahrwiderstandskoeffizient f0 | N | Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; EG |
+
+| 275 | 47.1.3.1 | 47.1.3.1 | 47.1.3.1 | Fahrwiderstandskoeffizient f1 | N/(km/h) | Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; EG |
+
+| 276 | 47.1.3.2 | 47.1.3.2 | 47.1.3.2 | Fahrwiderstandskoeffizient f2 | N/(km/h)² | Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; EG |
+
+| 277 | x | x | X | Technisch zulässige Masse des Basisfahrzeugs | kg | Bei Mehrstufen-Genehmigungen von Fahrzeugen, die der Verordnung (EU) 2017/1151 unterliegen, wenn die technisch zulässige Gesamtmasse in beladenem Zustand in der ersten Genehmigungsstufe von der des vervollständigten Fahrzeugs abweicht; EG |
+
+| 278 | A24 | 49.4 | 49.4 | 49.4 | 4.0.3 | WLTP/WMTC: kombinierte CO2-Emissionen | g/km | Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; bei allen Antriebsarten außer reine Elektrofahrzeuge und nicht extern aufladbare Elektrofahrzeuge; Klassen L: mit Genehmigung nach Verordnung (EU) Nr. 168/2013, jeweils anwendbarer Prüfzyklus; siehe Anmerkung 22; EG, EI |
+
+| 279 | A25 | 49.4 | 49.4 | 49.4 | 4.0.2 | WLTP/WMTC: kombinierter Verbrauch | l/100 km, kg/100 km oder m³/100 km, Verpflichtend für alle Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/1151; bei allen Antriebsarten außer reine Elektrofahrzeuge und nicht extern aufladbare Elektrofahrzeuge; siehe Anmerkung22; Klassen L: mit Genehmigung nach Verordnung (EU) Nr. 168/2013, jeweils anwendbarer Prüfzyklus; EG, EI |
+
+| 280 | A24 | 49.4 | 49.4 | 49.4 | WLTP: gewichtete, kombinierte CO2-Emissionen | g/km | Verpflichtend für alle extern aufladbaren Elektro-Hybridfahrzeuge (OVC-HEV) im Geltungsbereich der Verordnung (EU) 2017/1151; siehe Anmerkung 22; EG, EI |
+
+| 281 | A25 | 49.4 | 49.4 | 49.4 | WLTP: gewichteter kombinierter Verbrauch | l/100 km, kg/100 km oder m³/100 km, Verpflichtend für alle extern aufladbaren Elektro-Hybridfahrzeuge (OVC-HEV) im Geltungsbereich der Verordnung (EU) 2017/1151; siehe Anmerkung 22; EG, EI |
+
+| 282 | 49.3.2 | 49.3.2 | 49.3.2 | WLTP: Gesamteinsparungen CO2-Emissionen durch Ökoinnovation(en) | g/km | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EU) 2017/1151, gemäß den Erläuterungen in Anhang IX der Richtlinie 2007/46/EG; EG, EI |
+
+| 283 | 49.1 | 49.1 | 49.1 | NEFZ: Abweichungsfaktor | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EG) Nr. 715/2007; EG, EI |
+
+| 284 | 49.1 | 49.1 | 49.1 | NEFZ: Differenzierungsfaktor | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EG) Nr. 715/2007; EG, EI |
+
+| 285 | 0.2.3.1 | 0.2.3.1 | 0.2.3.1 | WLTP: Kennung der Interpolationsfamilie | Wenn zutreffend, bei Fahrzeugen im Geltungsbereich der Verordnung (EU) 2017/1151; EG, EI |
+
+| 286 | x | x | x | Informationen für die Begutachtung | Technische Angaben, die für eine ordnungsgemäße Begutachtung und Überprüfung gemäß den §§ 56 bis 58 erforderlich sind; EG |
+
+| 287 | x | Kryptografischer Hash des Hersteller-Datenprotokolls | Verpflichtend für Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/2400, EG |
+
+| 288 | x | Kryptografischer Hash des Kunden-Informationsprotokolls | Verpflichtend für Fahrzeuge im Geltungsbereich der Verordnung (EU) 2017/2400, EG |
 
 Anmerkungen zur Anlage 4:
 
@@ -526,7 +562,7 @@ Anmerkungen zur Anlage 4:
 
 | L1e-L7e | Für die Klassen L1e, L2e, L3e, L4e, L5e, L6e und L7e zutreffende zulassungsrelevante Daten |
 
-| T, C nach 2003/37/EG | Für Fahrzeuge der Klassen T und C, mit einer EU-Betriebserlaubnis nach der Richtlinie 2003/37/EG oder einer österreichischen nationalen Typengenehmigung zutreffende zulassungsrelevante Daten |
+| T, C nach 2003/37/EG | Für Fahrzeuge der Klassen T und C, mit einer EU-Betriebserlaubnis nach der Richtlinie 2003/37/EG, der Verordnung (EU) Nr. 167/2013 oder einer österreichischen nationalen Typengenehmigung zutreffende zulassungsrelevante Daten |
 
 | R nach 2003/37/EG | Für Fahrzeuge der Klassen R, zutreffende zulassungsrelevante Daten |
 
@@ -538,7 +574,7 @@ Anmerkungen zur Anlage 4:
 
 | Einheit | Einheit des Merkmals |
 
-| 2) Für die Fahrzeuge der einzelnen Klassen sind die Zulassungsrelevanten Daten anzugeben, für die in der der Fahrzeugklasse entsprechenden Spalte „M1“ bis „T nach 2001/3/EG“ eine Eintragung angegeben ist. Die Ziffern entsprechen den im für die Klasse zutreffenden Muster der Übereinstimmungsbescheinigung angeführten Ziffern der Merkmale. Die Eintragung „x“ bedeutet, dass diese Angabe auch dann erforderlich ist, wenn sie in der Übereinstimmungsbescheinigung für die betreffende Klasse nicht angeführt ist. 3) Die Zulassungsrelevanten Daten sind nach einem vom Bundesministerium für Verkehr, Innovation und Technologie genehmigten Muster anzugeben. 4) Die Felder, bei denen in der Spalte „Anmerkung“ die Anmerkung „TB“ aufscheint, müssen für jeden in der Typenbeschreibung vorkommenden Wert mindestens einmal in den als Anlage zum Antrag auf Typengenehmigung beigefügten Typenscheinmustern vorhanden sein – siehe § 20 Abs. 3 Z 3. 5) Für die angeführten Felder gelten die selben Fußnoten wie in dem für die Fahrzeugklasse zutreffenden Muster der Übereinstimmungsbescheinigung nach Richtlinie oder Verordnung der EU, auch wenn diese in dieser Anlage nicht wiedergegeben wurden. 6) Auf ein Fahrzeug nicht zutreffende Felder – wie zB Spurweiten für die 3. bis 5. Achse, wenn das Fahrzeug nur 2 Achsen aufweist oder die Übersetzungsverhältnisse für die Gänge 7 bis 16, wenn das Fahrzeug nur 6 Gänge aufweist – können in den „Daten der Übereinstimmungsbescheinigung Seite 1“ und in den „Daten der Übereinstimmungsbescheinigung Seite 2ff“ entfallen. Die Merkmale im Abschnitt Zulassungsbescheinigung oder mit einer Eintragung in der Spalte „ZS“ dürfen nicht entfallen. 7) Vollständige Dimensionsangabe von Reifen und Rädern, einschließlich Betriebskennung der Reifen und Einpresstiefe der Räder. Muster für diese Angabe: „175/70 R13 82T auf 5Jx13/ET42“; fehlen Teile dieser Angaben zu den Reifen und Rädern, hat der Fahrzeughersteller für die entsprechende Information des Lenkers/Zulassungsbesitzers und über die dabei einzuhaltenden Bedingungen zu sorgen. Klassen T, C, R und S: Angaben zu Massen und Reifen, Reifendimension und von den Reifen abhängige zulässige Achslasten, Stützlasten und zulässiges Gesamtgewicht sind gegebenenfalls in Tabellenform beizubringen. 8) Als Übersetzungsverhältnis ist das Verhältnis Eingangsdrehzahl / Ausgangsdrehzahl einzutragen. Bei stufenlosem Getriebe ist im Feld „Übersetzungsverhältnisse, 1. Gang“ der Höchstwert oder der Höchst- und Mindestwert einzutragen. 9) Sofern nicht anders angegeben, gilt für die Zahlenwerte: - Angaben in mm, kg, min-1, dB(A) sowie CO2-Emissionen: kaufmännisch gerundete Ganzzahl, - Übersetzungsverhältnisse, korrigierter Wert des Absorptionskoeffizienten [m-1]: Zahl mit mind.1 Vorkomma- und 3 Nachkommastellen (kaufmännisch gerundet), - Emissionen [g/km, g/kWh]: Zahl mit mind. 1 Vorkomma und 4 Nachkommastellen (kaufmännisch gerundet). Wenn in der EG-Übereinstimmungsbescheinigung die Emissionswerte in mg/km bzw. in mg/kWh angegeben sind, können diese in den Typenscheinen und Datenauszügen auch in mg/km bzw. in mg/km angegeben sein. In die Genehmigungsdatenbank sind diese Werte jedoch in g/km bzw. g/kWh einzugeben. 10) Nummer der letzten für die Genehmigung gültigen Änderungsrichtlinie; bei einer Richtlinie mit mehreren Umsetzungsstufen ist auch die Umsetzungsstufe anzugeben: Die Umsetzungsstufe ist, wie in der Richtlinie vorgesehen, anzugeben, zB: „2003/76B/EWG“; bei Genehmigungen nach ECE-Regelungen ist entsprechend der Umsetzungsstufe in der ECE-Regelung ein „I“ oder „II“, etc. anzugeben, zB für eine Genehmigung nach der ECE-Regelung 83 in der Änderungsserie 05, Umsetzungsstufe II: „ECE-R83.05II“. Bei Motoren, bei deren Genehmigungszeichen eine Kennzeichnung für die Kraftstoffart oder Gasgruppe angefügt ist, ist dieses Kennzeichen bei der Angabe der Umsetzungsstufe mit anzugeben, zB: „2001/27B2/EG HLt“ 11) Abgasverhalten und Verbrauch: Bei Fahrzeugen mit alternativen Antriebssystemen (Hybridfahrzeuge) oder die mit alternativen Kraftstoffen betrieben werden können (Flüssiggas, bivalenter Betrieb mit Benzin oder Flüssiggas, bivalenter Betrieb mit Benzin oder Erdgas, bivalenter Betrieb mit Wasserstoff oder Benzin, bivalenter Betrieb mit Benzin oder Biogas, Zweistoffbetrieb mit Ethanol (E85), Flexfuel mit Ethanol (E85)) und bei denen dieser alternative Antrieb in der Kraftstoffart eingetragen ist, können die Emissionswerte für den alternativen Kraftstoff eingetragen werden. Die Emissionswerte für den anderen Kraftstoff sind in die Anmerkungen einzutragen. Sind in den Prüfergebnissen gemäß Anhang VIII der Richtlinie nur die ungünstigsten Ergebnisse angeführt, sind diese einzutragen. 12) Wenn die Gültigkeit der Genehmigung von der Verwendungsbestimmung des Fahrzeuges abhängig ist, ist hier die Verwendungsbestimmung einzutragen. Für die Angabe der Verwendungsbestimmung sind vorzugsweise die in der Anlage 4 der Zulassungsstellenverordnung BGBl. II Nr. 464/1998 angegebenen Werte einzusetzen. 13) Eine eventuell erteilte Ausnahmegenehmigung ist im Feld 51 „Ausnahmen“ einzutragen; ein entsprechender Kurztext nach dem Muster „Ausnahmegenehmigung wegen ??“ ist in das Feld A18 einzutragen. 14) Wenn nicht bescheidmäßig anders festgelegt, entspricht das höchste zulässige Gesamtgewicht für Fahrzeuge mit EU-Betriebserlaubnis der „Technisch zulässigen Gesamtmasse in beladenem Zustand“, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter F2 die Unter- und Obergrenze des höchsten zulässigen Gesamtgewichts einzutragen. Wird bei Anhängerbetrieb von Kraftfahrzeugen eine höhere „Technisch zulässige Gesamtmasse in beladenem Zustand“ im Sinne der Bestimmungen der Richtlinien 92/21/EWG bzw. 97/27/EG erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchstes zulässiges Gesamtgewicht bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 15) Wenn nicht bescheidmäßig anders festgelegt, entsprechen die höchsten zulässigen Achslasten für Fahrzeuge mit EU-Betriebserlaubnis den „Technisch zulässigen maximalen Achslasten“ für die einzelnen Achsen, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter N1 bis N3 die Unter- und Obergrenze der höchsten zulässigen Achslast einzutragen. Für jede einzelne Achse einer Achsgruppe ist als höchste zulässige Achslast bei Doppelachsen die Hälfte, bei Dreifachachsen das Drittel der zulässigen Höchstlast für die Achsgruppe einzutragen. Als zulässige Höchstlast für die Achsgruppe ist die technisch zulässige maximale Masse je Achsgruppe, höchstens jedoch der sich aus §4 Abs. 8 KFG 1967 ergebende Werte anzunehmen. Ist bei Anhängerbetrieb von Kraftfahrzeugen eine höhere „Technisch zulässige maximale Achslast“ im Sinne der Bestimmungen der Richtlinien 92/21/EWG bzw. 97/27/EG erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchste zulässige Achslast Achse x bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 16) Wenn nicht bescheidmäßig anders festgelegt, entspricht die höchste zulässige Stützlast für Fahrzeuge mit EU-Betriebserlaubnis der „Größten vertikalen Stützlast“. Bei Sattelzugfahrzeugen und Sattelanhängern kann soll die höchste zulässige Sattellast in das Feld „höchste zulässige Sattellast“ eingetragen werden. 17) In das Feld A19 sind Anmerkungen einzutragen, die aufgrund der Bestimmungen in dieser Anlage in das Feld A19 der Zulassungsbescheinigung Teil I einzutragen sind oder wichtige Informationen für den Lenker oder die Organe der Straßenaufsicht darstellen und die in der Zulassungsbescheinigung angegeben werden sollen. Diese sind in Klartext abzufassen und müssen sich gegebenenfalls auf Feldbezeichnungen in der Zulassungsbescheinigung Teil I beziehen. 18) Ende Erstzulassung: Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten der Zeitpunkt bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des In-Kraft-Tretens einer Einzelrichtlinie oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert, ist in diesem Feld das Datum des letzten Tages anzugeben, an dem das Fahrzeug zugelassen werden darf. Dieses darf nach erteilter Ausnahmegenehmigung auf das sich aus dem Bescheid für die Ausnahmegenehmigung ergebende Datum abgeändert werden. Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten kein Datum bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des Inkrafttretens einer Einzelrichtlinie oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert oder ist der bekannte Zeitraum länger als 2 Jahre, ist in diesem Feld das Datum der Eingabe des Datensatzes in die Genehmigungsdatenbank plus 2 Jahre zu übermitteln. Ergibt sich aufgrund von Änderungen im KFG 1967 oder in einer aufgrund des KFG 1967 erlassenen Verordnung oder in einer Richtlinie ein früheres Datum für das Ende der Erstzulassung, ist dieses frühere Datum vom Einbringer des Datensatzes in der Genehmigungsdatenbank einzutragen. 19) Die in der Spalte „Anmerkung“ angeführten Fußnoten haben folgende Bedeutung: |
+| 2) Für die Fahrzeuge der einzelnen Klassen sind die Zulassungsrelevanten Daten anzugeben, für die in der der Fahrzeugklasse entsprechenden Spalte „M1“ bis „T nach 2001/3/EG“ eine Eintragung angegeben ist. Die Ziffern entsprechen den im für die Klasse zutreffenden Muster der Übereinstimmungsbescheinigung angeführten Ziffern der Merkmale. Die Eintragung „x“ bedeutet, dass diese Angabe auch dann erforderlich ist, wenn sie in der Übereinstimmungsbescheinigung für die betreffende Klasse nicht angeführt ist. 3) Die Zulassungsrelevanten Daten sind nach einem vom Bundesministerium für Verkehr, Innovation und Technologie genehmigten Muster anzugeben. 4) Die Felder, bei denen in der Spalte „Anmerkung“ die Anmerkung „TB“ aufscheint, müssen für jeden in der Typenbeschreibung vorkommenden Wert mindestens einmal in den als Anlage zum Antrag auf Typengenehmigung beigefügten Typenscheinmustern vorhanden sein – siehe § 20 Abs. 3 Z 3. 5) Für die angeführten Felder gelten dieselben Fußnoten wie in dem für die Fahrzeugklasse zutreffenden Muster der Übereinstimmungsbescheinigung nach Richtlinie oder Verordnung der EU, auch wenn diese in dieser Anlage nicht wiedergegeben wurden. 6) Auf ein Fahrzeug nicht zutreffende Felder – wie zB Spurweiten für die 3. bis 5. Achse, wenn das Fahrzeug nur 2 Achsen aufweist oder die Übersetzungsverhältnisse für die Gänge 7 bis 16, wenn das Fahrzeug nur 6 Gänge aufweist – können in den „Daten der Übereinstimmungsbescheinigung Seite 1“ und in den „Daten der Übereinstimmungsbescheinigung Seite 2ff“ entfallen. Die Merkmale im Abschnitt Zulassungsbescheinigung oder mit einer Eintragung in der Spalte „ZS“ dürfen nicht entfallen. 7) Vollständige Dimensionsangabe von Reifen und Rädern, einschließlich Betriebskennung der Reifen und Einpresstiefe der Räder. Muster für diese Angabe: „175/70 R13 82T auf 5Jx13/ET42“; fehlen Teile dieser Angaben zu den Reifen und Rädern, hat der Fahrzeughersteller für die entsprechende Information des Lenkers/Zulassungsbesitzers und über die dabei einzuhaltenden Bedingungen zu sorgen. Klassen T, C, R und S: Angaben zu Massen und Reifen, Reifendimension und von den Reifen abhängige zulässige Achslasten, Stützlasten und zulässiges Gesamtgewicht sind gegebenenfalls in Tabellenform beizubringen. 8) Als Übersetzungsverhältnis ist das Verhältnis Eingangsdrehzahl / Ausgangsdrehzahl einzutragen. Bei stufenlosem Getriebe ist im Feld „Übersetzungsverhältnisse, 1. Gang“ der Höchstwert oder der Höchst- und Mindestwert einzutragen. Für Fahrzeuge der Klasse L mit EU-Typgenehmigung nach Verordnung (EU) Nr. 168/2013 gilt: bei mit CVT ausgerüsteten Fahrzeugen ist Folgendes anzugeben: 1. „Übersetzungsverhältnis bei bauartbedingter Höchstgeschwindigkeit des Fahrzeugs“, 2. „Übersetzungsverhältnis bei Höchstleistung“; 3. „Übersetzungsverhältnis bei maximalem Drehmoment“; die Übersetzungsverhältnisse müssen gegebenenfalls das Verhältnis des Primärantriebs umfasse; bei Radnabenmotoren ohne Getriebe „entfällt“ oder „1“ eintragen. 9) Sofern nicht anders angegeben, gilt für die Zahlenwerte: - Angaben in mm, kg, min-1, dB(A) sowie CO2-Emissionen: kaufmännisch gerundete Ganzzahl, - Übersetzungsverhältnisse, korrigierter Wert des Absorptionskoeffizienten [m-1]: Zahl mit mind.1 Vorkomma- und 3 Nachkommastellen (kaufmännisch gerundet), - Emissionen [g/km, g/kWh]: Zahl mit mind. 1 Vorkomma- und 4 Nachkommastellen (kaufmännisch gerundet). Wenn in der EG-Übereinstimmungsbescheinigung die Emissionswerte in mg/km bzw. in mg/kWh angegeben sind, können diese in den Typenscheinen und Datenauszügen auch in mg/km bzw. in mg/km angegeben sein. In die Genehmigungsdatenbank sind diese Werte jedoch in g/km bzw. g/kWh einzugeben. 10) Nummer der letzten für die Genehmigung gültigen Änderungsrichtlinie; bei einer Richtlinie mit mehreren Umsetzungsstufen ist auch die Umsetzungsstufe anzugeben: Die Umsetzungsstufe ist, wie in der Richtlinie vorgesehen, anzugeben, zB: „2003/76B/EWG“; bei Genehmigungen nach ECE-Regelungen ist entsprechend der Umsetzungsstufe in der ECE-Regelung ein „I“ oder „II“, etc. anzugeben, zB für eine Genehmigung nach der ECE-Regelung 83 in der Änderungsserie 05, Umsetzungsstufe II: „ECE-R83.05II“. Bei Motoren, bei deren Genehmigungszeichen eine Kennzeichnung für die Kraftstoffart oder Gasgruppe angefügt ist, ist dieses Kennzeichen bei der Angabe der Umsetzungsstufe mit anzugeben, zB: „2001/27B2/EG HLt“ 11) Abgasverhalten, limitierte Schadstoffe (CO, HC, THC, NOx, HC+NOx, THC+NOx, NMHC, CH4, Partikelmasse und Partikelzahl): Bei Fahrzeugen mit alternativen Antriebssystemen (Hybridfahrzeuge) oder die mit alternativen Kraftstoffen betrieben werden können (Flüssiggas, bivalenter Betrieb mit Benzin oder Flüssiggas, bivalenter Betrieb mit Benzin oder Erdgas, bivalenter Betrieb mit Wasserstoff oder Benzin, bivalenter Betrieb mit Benzin oder Biogas, Zweistoffbetrieb mit Ethanol (E85), Flexfuel mit Ethanol (E85)) und bei denen dieser alternative Antrieb in der Kraftstoffart eingetragen ist, können die Emissionswerte für den alternativen Kraftstoff eingetragen werden. Die Emissionswerte für den anderen Kraftstoff sind in die Anmerkungen einzutragen. Sind in den Prüfergebnissen gemäß Anhang VIII der Richtlinie nur die ungünstigsten Ergebnisse angeführt, sind diese einzutragen. Fahrzeuge mit Einstoffbetrieb: es sind die Emissions-Messwerte gemäß den jeweils anzuwendenden Rechtsakten der Union für die limitierten Schadstoffe einzutragen. Fahrzeuge mit Zweistoffbetrieb und Flexfuel-Fahrzeuge: sofern sich aus den jeweils anzuwendenden Rechtakten der Union keine anderen Vorschriften ergeben, sind die Werte für den Kraftstoff einzutragen, der das schlechteste Emissionsverhalten ergibt, die Emissions-Messwerte für den anderen Kraftstoff sind in die Anmerkungen einzutragen. 12) Wenn die Gültigkeit der Genehmigung von der Verwendungsbestimmung des Fahrzeuges abhängig ist, ist hier die Verwendungsbestimmung einzutragen. Für die Angabe der Verwendungsbestimmung sind die in der Anlage 4 der Zulassungsstellenverordnung BGBl. II Nr. 464/1998 angegebenen Kennziffern einzusetzen. 13) Eine eventuell erteilte Ausnahmegenehmigung ist im Feld 51 „Ausnahmen“ einzutragen; ein entsprechender Kurztext nach dem Muster „Ausnahmegenehmigung wegen ??“ ist in das Feld A18 einzutragen. 14) Wenn nicht bescheidmäßig anders festgelegt, entspricht das höchste zulässige Gesamtgewicht für Fahrzeuge mit EU-Betriebserlaubnis der „Technisch zulässigen Gesamtmasse in beladenem Zustand“, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter F2 die Unter- und Obergrenze des höchsten zulässigen Gesamtgewichts einzutragen. Wird bei Anhängerbetrieb von Kraftfahrzeugen vom Hersteller des Kraftfahrzeugs eine Überschreitung der „Technisch zulässigen Gesamtmasse in beladenem Zustand“ im Sinne der Bestimmungen der des Anhangs I Teil A Nummer 2.7 der Verordnung (EU) Nr. 1230/2012 erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchstes zulässiges Gesamtgewicht bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 15) Wenn nicht bescheidmäßig anders festgelegt, entsprechen die höchsten zulässigen Achslasten für Fahrzeuge mit EU-Betriebserlaubnis den „Technisch zulässigen maximalen Achslasten“ für die einzelnen Achsen, höchstens jedoch den nach §4 KFG 1967 für das Fahrzeug zutreffenden Werten. Bei Anhängern mit einer genehmigten Bandbreite für das höchste zulässige Gesamtgewicht ist unter N1 bis N3 die Unter- und Obergrenze der höchsten zulässigen Achslast einzutragen. Für jede einzelne Achse einer Achsgruppe ist als höchste zulässige Achslast bei Doppelachsen die Hälfte, bei Dreifachachsen das Drittel der zulässigen Höchstlast für die Achsgruppe einzutragen. Als zulässige Höchstlast für die Achsgruppe ist die technisch zulässige maximale Masse je Achsgruppe, höchstens jedoch der sich aus §4 Abs. 8 KFG 1967 ergebende Werte anzunehmen. Wird bei Anhängerbetrieb von Kraftfahrzeugen vom Hersteller des Kraftfahrzeugs eine Überschreitung der „Technisch zulässigen maximalen Achslast“ im Sinne der Bestimmungen des Anhangs I Teil A Nummer 2.7 der Verordnung (EU) Nr. 1230/2012 erlaubt, ist in Feld A19 sinngemäß einzutragen: „höchste zulässige Achslast Achse x bei Anhängerbetrieb: xxxx kg“; für die entsprechende Information des Lenkers über die dabei einzuhaltenden Bedingungen ist der Fahrzeughersteller verantwortlich. 16) Wenn nicht bescheidmäßig anders festgelegt, entspricht die höchste zulässige Stützlast für Fahrzeuge mit EU-Betriebserlaubnis der „Größten vertikalen Stützlast“. Bei Sattelzugfahrzeugen und Sattelanhängern muss die höchste zulässige Sattellast in das Feld „höchste zulässige Sattellast“ eingetragen werden. 17) In das Feld A19 sind Anmerkungen einzutragen, die aufgrund der Bestimmungen in dieser Anlage in das Feld A19 der Zulassungsbescheinigung Teil I einzutragen sind oder wichtige Informationen für den Lenker oder die Organe der Straßenaufsicht darstellen und die in der Zulassungsbescheinigung angegeben werden sollen. Diese sind in Klartext abzufassen und müssen sich gegebenenfalls auf Feldbezeichnungen in der Zulassungsbescheinigung Teil I beziehen. 18) Ende Erstzulassung: Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten der Zeitpunkt bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des Inkrafttretens eines Rechtsaktes der EU oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert, ist in diesem Feld das Datum des letzten Tages anzugeben, an dem das Fahrzeug zugelassen werden darf. Dieses darf nach erteilter Ausnahmegenehmigung auf das sich aus dem Bescheid für die Ausnahmegenehmigung ergebende Datum abgeändert werden. Ist zum Zeitpunkt der Eingabe der Genehmigungsdaten oder der Typendaten kein Datum bekannt, ab dem die Übereinstimmungsbescheinigung oder der Typenschein für das Fahrzeug seine Gültigkeit aufgrund des Inkrafttretens eines Rechtsaktes der EU oder einer Bestimmung des KFG 1967 oder dieser Verordnung verliert oder ist der bekannte Zeitraum länger als 2 Jahre, ist in diesem Feld das Datum der Eingabe des Datensatzes in die Genehmigungsdatenbank plus 2 Jahre zu übermitteln. Ergibt sich aufgrund von Änderungen im KFG 1967 oder in einer aufgrund des KFG 1967 erlassenen Verordnung oder eines Rechtsaktes der EU ein früheres Datum für das Ende der Erstzulassung, ist dieses frühere Datum vom Einbringer des Datensatzes in der Genehmigungsdatenbank einzutragen. 19) Die in der Spalte „Anmerkung“ angeführten Fußnoten haben folgende Bedeutung: |
 
 | Anmerkung | Bedeutung |
 
@@ -546,9 +582,9 @@ Anmerkungen zur Anlage 4:
 
 | EG | Für dieses Feld ist bei einzeln genehmigten Fahrzeugen jedenfalls eine Angabe zu machen, wenn dieses auf das ggst. Fahrzeug zutrifft |
 
-| EI | Bei Eingabe von Genehmigungsdaten für Fahrzeuge, die in einem anderen Mitgliedsstaat bereits zugelassen waren, bei denen eine Zulassungsbescheinigung im Sinne der Richtlinie 1999/37/EG vorgelegt wird und keine Übereinstimmungsbescheinigung vorgelegt werden kann. |
+| EI | Bei Eingabe von Genehmigungsdaten für Fahrzeuge, die in einem anderen Mitgliedstaat bereits zugelassen waren, bei denen eine Zulassungsbescheinigung im Sinne der Richtlinie 1999/37/EG vorgelegt wird und keine Übereinstimmungsbescheinigung vorgelegt werden kann. |
 
-| 20) Die Leistung ist anzugeben: a) bei Fahrzeugen, die nur über einen Verbrennungsmotor verfügen, in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244) und in der Rubrik „Nennleistung in kW“ (Zeile 102), b) bei Fahrzeugen, die nur über einen oder mehrere Elektromotoren für den Antrieb des Fahrzeugs verfügen, die Summe der Nenndauerleistungen dieser Motoren in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245) und in der Rubrik „Nennleistung in kW“ (Zeile 102), c) bei Fahrzeugen, die sowohl über einen Verbrennungsmotor als auch über einen Elektromotor verfügen (Elektro- Hybridfahrzeuge) die Nennleistung des Verbrennungsmotors in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244), die Leistung des Elektromotors in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245), in der Rubrik „Nennleistung in kW“ (Zeile 102) wird die Nennleistung des Verbrennungsmotors angegeben. Bei Verbrennungsmotoren, die bei Betrieb mit unterschiedlichen Kraftstoffen unterschiedliche Nennleistungen aufweisen, ist die Nennleistung für den Kraftstoff anzugeben, der die höchste Nennleistung ergibt. 21) Als Abgasnorm ist der aufgrund der Genehmigung des Fahrzeugs bzw. des Motors hinsichtlich der Emissionen jeweils zutreffende Eintrag aus den folgenden Tabellen einzutragen: a) Fahrzeuge der Klassen M und N, die unter den Anwendungsbereich der Richtlinie 70/220/EWG bzw. der Verordnung (EG) Nr. 715/2007 fallen Euro 0 Euro 1 Euro 2 Euro 3 Euro 4 Euro 5 Euro 6 n.z. b) Fahrzeuge der Klassen M und N, die in den Anwendungsbereich der Richtlinien 88/77/EWG, 2005/55/EG oder der Verordnung (EU) Nr. 595/2009 fallen: Euro 0 Euro I Euro II Euro III Euro IV Euro V Euro EEV Euro VI c) Fahrzeuge der Klassen L, die in den Anwendungsbereich der Richtlinie 97/24/EG fallen: Euro 0 Euro 1 Euro 2 Euro 3 d) Fahrzeuge der Klassen T, die in den Anwendungsbereich der Richtlinie 2000/25/EG oder deren Motoren in den Anwendungsbereich der Richtlinie 97/68/EG fallen: Stufe 0 Stufe I Stufe II Stufe IIIA Stufe IIIB Stufe IV e) Fahrzeuge aller Klassen mit reinem Elektroantrieb Alternativ f) Fahrzeuge, die nicht unter die lit. a bis e fallen sowie Fahrzeuge, für die bzw. für deren Motoren kein Nachweis nach einem der oben angeführten Rechtsakte vorliegt: n.z. |
+| 20) Die Leistung ist anzugeben: a) bei Fahrzeugen, die nur über einen Verbrennungsmotor verfügen, in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244) und in der Rubrik „Nennleistung in kW“ (Zeile 102), b) bei Fahrzeugen, die nur über einen oder mehrere Elektromotoren für den Antrieb des Fahrzeugs verfügen, die Summe der Nenndauerleistungen dieser Motoren in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245) und in der Rubrik „Nennleistung in kW“ (Zeile 102); bei Fahrzeugen der Klassen M und N ist die 30- Minuten-Leistung und bei Fahrzeugen der Klasse L die 15/30-Minuten-Leistung einzutragen, c) bei Fahrzeugen, die sowohl über einen Verbrennungsmotor als auch über einen Elektromotor verfügen (Elektro- Hybridfahrzeuge) die Nennleistung des Verbrennungsmotors in der Rubrik „Nennleistung Verbrennungsmotor in kW“ (Zeile 244), die Leistung des Elektromotors in der Rubrik „Nenndauerleistung Elektromotor in kW“ (Zeile 245), in der Rubrik „Nennleistung in kW“ (Zeile 102) wird die Nennleistung des Verbrennungsmotors angegeben. Bei Verbrennungsmotoren, die bei Betrieb mit unterschiedlichen Kraftstoffen unterschiedliche Nennleistungen aufweisen, ist die Nennleistung für den Kraftstoff anzugeben, der die höchste Nennleistung ergibt. 21) Als Abgasnorm ist der aufgrund der Genehmigung des Fahrzeugs bzw. des Motors hinsichtlich der Emissionen jeweils zutreffende Eintrag aus den folgenden Tabellen einzutragen: a) Fahrzeuge der Klassen M und N, die unter den Anwendungsbereich der Richtlinie 70/220/EWG bzw. der Verordnung (EG) Nr. 715/2007 fallen Euro 0 Euro 1 Euro 2 Euro 3 Euro 4 Euro 5 Euro 6 n.z. b) Fahrzeuge der Klassen M und N, die in den Anwendungsbereich der Richtlinien 88/77/EWG, 2005/55/EG oder der Verordnung (EU) Nr. 595/2009 fallen: Euro 0 Euro I Euro II Euro III Euro IV Euro V Euro EEV Euro VI c) Fahrzeuge der Klassen L, die in den Anwendungsbereich der Verordnung (EU) Nr. 168/2013 fallen: Euro 0 Euro 1 Euro 2 Euro 3 Euro 4 Euro 5 d) Fahrzeuge der Klassen T oder C, die in den Anwendungsbereich der Verordnung (EU) Nr. 167/2013 oder deren Motoren in den Anwendungsbereich der Verordnung (EU) 2016/1628 fallen, sowie nicht der Verordnung (EU) Nr. 167/2013 unterliegende Fahrzeuge, deren Motoren in den Anwendungsbereich der Verordnung (EU) 2016/1628 fallen: Stufe 0 Stufe I Stufe II Stufe IIIA Stufe IIIB Stufe IV Stufe V e) Fahrzeuge aller Klassen mit reinem Elektroantrieb Alternativ f) Fahrzeuge, die nicht unter die lit. a bis e fallen sowie Fahrzeuge, für die bzw. für deren Motoren kein Nachweis nach einem der oben angeführten Rechtsakte vorliegt: n.z. 22) Die Angabe der CO2-Emissionen und des Kraftstoffverbrauchs nach NEFZ bzw. WLTP hat für Fahrzeuge der Klassen M1 und N1 nach den Vorschriften der Verordnungen (EU) Nr. 692/2008, (EU) Nr. 443/2009, (EU) Nr. 510/2011, (EU) 2017/1151 bzw. (EU) 2019/631 zu erfolgen. Die Angabe der CO2-Emissionen und des Kraftstoffverbrauchs für Fahrzeuge der Klasse L hat nach den Vorschriften der Verordnung (EU) Nr. 134/2014 zu erfolgen. Für Fahrzeuge, die ausschließlich mit Verbrennungsmotoren angetrieben werden sowie für nicht extern aufladbare Hybridelektrofahrzeuge sind die CO2-Emissionen kombiniert nach NEFZ (Zeile 186) im Feld V7 der Zulassungsbescheinigung und – sofern zutreffend – nach WLTP/WMTC (Zeile 278) im Feld A24 der Zulassungsbescheinigung, der Kraftstoffverbrauch kombiniert nach NEFZ (Zeile 190) im Feld V8 der Zulassungsbescheinigung und – sofern zutreffend – nach WLTP/WMTC (Zeile 279) im Feld A25 der Zulassungsbescheinigung anzugeben. Für extern aufladbare Hybridelektrofahrzeug sind die CO2-Emissionen gewichtet, kombiniert nach NEFZ (Zeile 256) im Feld V7 der Zulassungsbescheinigung und – sofern zutreffend – nach WLTP/WMTC (Zeile 280) im Feld A24 der Zulassungsbescheinigung, der Kraftstoffverbrauch gewichtet, kombiniert nach NEFZ (Zeile 257) im Feld V8 der Zulassungsbescheinigung und – sofern zutreffend – nach WLTP/WMTC (Zeile 281) im Feld A25 der Zulassungsbescheinigung anzugeben. |
 
 ### Tabellenteil
 
@@ -628,45 +664,45 @@ Tabelle für die Kraftstoffarten:
 
 | Code | Fahrzeugart | Klasse | Fahrzeugklasse nach Richtlinie 97/24/EG, Kapitel 7 / Gruppe | Bezeichnung in der Zulassungsbescheinigung |
 
-| 910 | zweirädriges Kleinkraftrad | L1e | Klasse gem. 97/24/7: A | zweirädriges Kleinkraftrad |
+| 910 | zweirädriges Kleinkraftrad | L1e, L1e-A, L1e-B | Klasse gem. 97/24/7: A | zweirädriges Kleinkraftrad |
 
-| 911 | dreirädriges Kleinkraftrad | L2e | dreirädriges Kleinkraftrad |
+| 911 | dreirädriges Kleinkraftrad | L2e, L2e-P, L2e-U | dreirädriges Kleinkraftrad |
 
-| 912 | Motorrad | L3e | Klasse gem. 97/24/7: D | Motorrad |
+| 912 | Motorrad | L3e, L3e-A1, L3e-A1E, L3e-A1E, L3e-A2, L3e-A2E, L3e-A2T, L3e-A3, L3e-A3E, L3e-A3T | Klasse gem. 97/24/7: D | Motorrad |
 
-| 913 | Kleinmotorrad | L3e | Klasse gem. 97/24/7: B | Kleinmotorrad |
+| 913 | Kleinmotorrad | L3e, L3e-A1, L3e-A1E, L3e-A1T | Klasse gem. 97/24/7: B | Kleinmotorrad |
 
 | 914 | Leichtmotorrad | L3e | Klasse gem. 97/24/7: B, C | Leichtmotorrad |
 
-| 915 | Motorrad mit Beiwagen | L4e | Motorrad mit Beiwagen |
+| 915 | Motorrad mit Beiwagen | L4e, L4e-A1, L4e-A1E, L4e-A1T, L4e-A2, L4e-A2E, L4e-A2T, L4e-A3, L4e-A3E, L4e-A3T | Motorrad mit Beiwagen |
 
-| 916 | Kleinmotorrad mit Beiwagen | L4e | Kleinmotorrad mit Beiwagen |
+| 916 | Kleinmotorrad mit Beiwagen | L4e, L4e-A1, L4e-A1E, L4e-A1T | Kleinmotorrad mit Beiwagen |
 
 | 917 | Leichtmotorrad mit Beiwagen | L4e | Leichtmotorrad mit Beiw. |
 
-| 918 | dreirädriges Kraftfahrzeug | L5e | dreirädriges Kraftfahrzeug |
+| 918 | dreirädriges Kraftfahrzeug | L5e, L5e-A, L5e-B | dreirädriges Kraftfahrzeug |
 
-| 919 | vierrädriges Leichtkraftfahrzeug | L6e | vierrädriges LeichtKFZ |
+| 919 | vierrädriges Leichtkraftfahrzeug | L6e, L6e-A, L6e-BP, L6e-BU | vierrädriges LeichtKFZ |
 
-| 920 | vierrädriges Kraftfahrzeug | L7e | vierrädriges Kraftfahrzeug |
+| 920 | vierrädriges Kraftfahrzeug | L7e, L7e-A1, L7e-A2, L7e-B1, L7e-B2, L7e-CP, L7e-CU | vierrädriges Kraftfahrzeug |
 
 | 930 | Personenkraftwagen | M1, M1G | Personenkraftwagen |
 
-| 931 | Omnibus M2, M2G, M3, M3G | Omnibus |
+| 931 | Omnibus | M2, M2G, M3, M3G | Klasse I, II, III, A oder B | Omnibus |
 
-| 932 | Lastkraftwagen N1, N1G, N2, N2G, N3, N3G | bei N1, N1G: Gruppe I, II oder III | Lastkraftwagen |
+| 932 | Lastkraftwagen | N1, N1G, N2, N2G, N3, N3G | bei N1, N1G: Gruppe I, II oder III | Lastkraftwagen |
 
 | 933 | Sattelzugfahrzeug | N1, N1G, N2, N2G, N3, N3G | bei N1, N1G: Gruppe I, II oder III | Sattelzugfahrzeug |
 
-| 934 | Zugmaschine | -, lof, T1, T2, T3, T4.1, T4.2, T4.3, T5 | Zugmaschine |
+| 934 | Zugmaschine | -, lof, T1, T2, T3, T4.1, T4.2, T4.3, T5, T1a, T1b, T2a, T2b, T3a, T3b, T4.1a, T4.1b, T4.2a, T4.2b, T4.3a, T4.3b | Zugmaschine |
 
-| 935 | Zugmaschine auf Ketten | C1, C2, C3, C4.1, C5 | Zugmaschine auf Ketten |
+| 935 | Zugmaschine auf Ketten | C1, C2, C3, C4.1, C5, C4.2, C4.3, C1a, C1b, C2a, C2b, C3a, C3b, C4.1a, C4.1b, C4.2a, C4.2b, C4.3a, C4.3b | Zugmaschine auf Ketten |
 
-| 936 | Motorkarren | -, lof, T4.3 | Motorkarren |
+| 936 | Motorkarren | -, lof, T4.3, T4.3a | Motorkarren |
 
-| 937 | Sonderkraftfahrzeug | -, C1, C2, C3, C4.1, C5 | Sonderkraftfahrzeug |
+| 937 | Sonderkraftfahrzeug | -, C1, C2, C3, C4.1, C5, C4.2, C4.3, C1a, C1b, C2a, C2b, C3a, C3b, C4.1a, C4.1b, C4.2a, C4.2b, C4.3a, C4.3b | Sonderkraftfahrzeug |
 
-| 938 | Kraftwagen | -, M1, M1G, M2, M2G, M3, M3G, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3 | Kraftwagen |
+| 938 | Kraftwagen | -, M1, M1G, M2, M2G, M3, M3G, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T1a, T1b, T2a, T2b, T3a, T3b, T4.1a, T4.1b, T4.2a, T4.2b, T4.3a, T4.3b | Kraftwagen |
 
 | 950 | Anhänger | -, O1, O2, O3, O4, R1a, R1b, R2a, R2b, R3a, R3b, R4a, R4b | Anhänger |
 
@@ -684,15 +720,15 @@ Tabelle für die Kraftstoffarten:
 
 | 956 | Gezogene auswechselbare Maschine | S1a, S1b, S2a, S2b | Gez. auswb. Maschine |
 
-| 939 | selbstfahrende Arbeitsmaschine | -, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T5, C1, C2, C3, C4.1, C5 | selbstf. Arbeitsmaschine |
+| 939 | selbstfahrende Arbeitsmaschine | -, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T5, C1, C2, C3, C4.1, C5, C4.2, C4.3, T1a, T1b, T2a, T2b, T3a, T3b, T4.1a, T4.1b, T4.2a, T4.2b, T4.3a, T4.3b, C1a, C1b, C2a, C2b, C3a, C3b, C4.1a, C4.1b, C4.2a, C4.2b, C4.3a, C4.3b | selbstf. Arbeitsmaschine |
 
 | 957 | Anhänger-Arbeitsmaschine | -, O1, O2, O3, O4, S1a, S1b, S2a, S2b | Anhänger-Arbeitsmaschine |
 
-| 941 | Spezialkraftwagen | - | Spezialkraftwagen |
+| 941 | Spezialkraftwagen | -, M1, M1G, M2, M2G, M3, M3G, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T1a, T1b, T2a, T2b, T3a, T3b, T4.1a, T4.1b, T4.2a, T4.2b, T4.3a, T4.3b | Spezialkraftwagen |
 
-| 942 | Transportkarren | -, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T5, C1, C2, C3, C4.1, C5 | Transportkarren |
+| 942 | Transportkarren | -, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, T5, C1, C2, C3, C4.1, C5, C4.2, C4.3, T1a, T1b, T2a, T2b, T3a, T3b, T4.1a, T4.1b, T4.2a, T4.2b, T4.3a, T4.3b, C1a, C1b, C2a, C2b, C3a, C3b, C4.1a, C4.1b, C4.2a, C4.2b, C4.3a, C4.3b | Transportkarren |
 
-| 960 | Unvollständiges Fahrzeug | -, M1, M1G, M2, M2G, M3, M3G, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, C1, C2, C3, C4.1, C5, O1, O2, O3, O4, R1a, R1b, R2a, R2b, R3a, R3b, R4a, R4b | Unvollständiges Fahrzeug |
+| 960 | Unvollständiges Fahrzeug | -, M1, M1G, M2, M2G, M3, M3G, N1, N1G, N2, N2G, N3, N3G, T1, T2, T3, T4.1, T4.2, T4.3, C1, C2, C3, C4.1, C5, O1, O2, O3, O4, R1a, R1b, R2a, R2b, R3a, R3b, R4a, R4b, L1e, L2e, L3e, L4e, L5e, L6e, L7e, C4.2, C4.3, T1a, T1b, T2a, T2b, T3a, T3b, T4.1a, T4.1b, T4.2a, T4.2b, T4.3a, T4.3b, C1a, C1b, C2a, C2b, C3a, C3b, C4.1a, C4.1b, C4.2a, C4.2b, C4.3a, C4.3b, L2e-U, L4e-A1, L4e-A1E, L4e-A1T, L4e-A2, L4e-A2E, L4e-A2T, L4e-A3, L4e-A3E, L4e-A3T, L5e-B, L6e-BU, L7e-CU | Unvollständiges Fahrzeug |
 
 3) Tabelle für die Aufbauarten
 
@@ -882,7 +918,7 @@ Tabelle für die Kraftstoffarten:
 
 | SH | Rollstuhlgerechtes Fahrzeug |
 
-| Anmerkungen: Im Feld „Zusatz zu Art des Aufbaues“ können bei nationalen österreichischen Typengenehmigungen und bei Einzelgenehmigungen noch zusätzlich genauere Angaben zur Art des Aufbaus gemacht werden (zB ausgestattet mit Hubbrille, Kompressor). Dies ist jedenfalls notwendig bei MA „Spezialaufbauten“. Wenn erforderlich, ist ein entsprechender Text in Feld A19 Anmerkungen aufzunehmen. Die Aufbauarten DA (Sattelanhänger), DB (Deichselanhänger) und DC (Zentralachsanhänger) dürfen nur für Fahrzeuge mit EU-Betriebserlaubnis und nur dann verwendet werden, wenn die Angabe einer anderen zutreffenden Aufbauart nicht möglich ist.“ |
+| Anmerkungen: Im Feld „Zusatz zu Art des Aufbaues“ können bei nationalen österreichischen Typengenehmigungen und bei Einzelgenehmigungen noch zusätzlich genauere Angaben zur Art des Aufbaus gemacht werden (zB ausgestattet mit Hubbrille, Kompressor). Dies ist jedenfalls notwendig bei MA „Spezialaufbauten“ und 99 „Sonstige, nicht in diesem Verzeichnis enthaltene Aufbauten“. Wenn erforderlich, ist ein entsprechender Text in Feld A19 Anmerkungen aufzunehmen. Die Aufbauarten DA (Sattelanhänger), DB (Deichselanhänger) und DC (Zentralachsanhänger) dürfen nur für Fahrzeuge mit EU-Betriebserlaubnis und nur dann verwendet werden, wenn die Angabe einer anderen zutreffenden Aufbauart nicht möglich ist.“ |
 
 4) Tabelle für die Farben
 
@@ -900,7 +936,7 @@ Tabelle für die Kraftstoffarten:
 
 | BLA | Blau | Azurblau, Brilliantblau, Capriblau, Enzianblau, Enzianblau hochglänzend, Graublau, Grünblau, Himmelblau, Himmelblau hochglänzend, Kobaltblau, Lichtblau, Lichtblau hochglänzend, Nachtblau, Ozeanblau, Ozeanblau hochglänzend, Saphirblau, Schwarzblau, Stahlblau, Taubenblau, Türkisblau, Ultramarinblau, Violettblau, Wasserblau, Hellblau, Dunkelblau |
 
-| GRU | Grün | Blaßgrün, Blaugrün, Braungrün, Braunoliv, Chromoxidgrün, Farngrün, Flaschengrün, Gelbgrün, Gelboliv, Gelboliv hochglänzend, Grasgrün, Grauoliv, Laubgrün, Laubgrün hochglänzend, Lichtgrün, Maigrün, Opalgrün, Kieferngrün, Maigrün, Moosgrün, Minzgrün, Minzgrün hochglänzend, Olivgrün, Patinagrün, Resedagrün, Smaragdgrün, Smaragdgrün hochglänzend, Schilfgrün, Schilfgrün hochglänzend, Schwarzgrün, Schwarzgrün hochglänzend, Schwarzoliv, Tannengrün, Türkisgrün, Weißgrün, Hellgrün, Dunkelgrün |
+| GRU | Grün | Blassgrün, Blaugrün, Braungrün, Braunoliv, Chromoxidgrün, Farngrün, Flaschengrün, Gelbgrün, Gelboliv, Gelboliv hochglänzend, Grasgrün, Grauoliv, Laubgrün, Laubgrün hochglänzend, Lichtgrün, Maigrün, Opalgrün, Kieferngrün, Maigrün, Moosgrün, Minzgrün, Minzgrün hochglänzend, Olivgrün, Patinagrün, Resedagrün, Smaragdgrün, Smaragdgrün hochglänzend, Schilfgrün, Schilfgrün hochglänzend, Schwarzgrün, Schwarzgrün hochglänzend, Schwarzoliv, Tannengrün, Türkisgrün, Weißgrün, Hellgrün, Dunkelgrün |
 
 | GRA | Grau | Achatgrau, Aluminium, Anthrazitgrau, Basaltgrau, Beigegrau, Betongrau, Braungrau, Blaugrau, Broncemetallic, Eisengrau, Fehgrau, Fehgrau hochglänzend, Gelbgrau, Granitgrau, Graphitgrau, Grüngrau, Khakigrau, Kieselgrau, Kieselgrau hochglänzend,, Lichtgrau, Lichtgrau hochglänzend, Mausgrau, Moosgrau, Olivgrau, Plantingrau, Quarzgrau, Schiefergrau, Schwarzgrau, Silbergrau, Silbergrau hochglänzend, Silbermetallic, Staubgrau, Steingrau, Umbragrau, Zeltgrau, Zementgrau, Hellgrau, Dunkelgrau, Silber |
 

@@ -10,7 +10,7 @@
 
 | Vorbereitung | Durchführung der Überprüfungen, die vor Antritt einer Fahrt notwendig sind, sowie richtige Inbetriebnahme des Kraftfahrzeuges | Wo das Kraftfahrzeug abgestellt ist | Rundgang- und Innenkontrollen. Richtige Vorbereitung und Durchführung des Startes |
 
-| Vorschulung | Elementare Fahrzeugbeherrschung | Parkplatz oder möglichst verkehrsfreie Straße | Die im § 70 Abs. 3 lit. b KFG 1967 angeführten Übungen |
+| Vorschulung | Elementare Fahrzeugbeherrschung | Parkplatz oder möglichst verkehrsfreie Straße | Die im § 11 Abs. 4 Z 2 FSG angeführten Übungen |
 
 | Grundschulung | Einführung in den Verkehrsraum. Aufbau des Drei-Blick-Trainings. | Verkehrsarme Straßen | Richtiges Benützen der Fahrbahn. Zielklares Bewegen |
 
