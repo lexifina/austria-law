@@ -4,7 +4,7 @@
 
 ### Verzeichnis der dem Steuersatz von 10% unterliegenden Gegenstände
 
-- 1. Bienen (Unterposition 0106 41 00 der Kombinierten Nomenklatur) und ausgebildete Blindenführhunde (aus Unterposition 0106 19 00 der Kombinierten Nomenklatur).
+- 1. Bienen (Unterposition 0106 41 00 der Kombinierten Nomenklatur) und Assistenzhunde gemäß § 39a Bundesbehindertengesetz, BGBl. Nr. 283/1990, die ausschließlich für den persönlichen Gebrauch von Behinderten bestimmt sind.
 
 - 2. Fleisch und genießbare Schlachtnebenerzeugnisse (Kapitel 2 der Kombinierten Nomenklatur).
 
