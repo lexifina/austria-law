@@ -14,23 +14,17 @@ Kapitel 3: Theoretische Lehrinhalte Klasse B
 
 Kapitel 4: Theoretische Lehrinhalte Klasse BE
 
-Kapitel 5: Theoretische Lehrinhalte Klasse C1
+Kapitel 5: Theoretische Lehrinhalte Klasse C/C1 (Ausdehnung von B)
 
-Kapitel 6: Theoretische Lehrinhalte Klasse C
+Kapitel 6: Theoretische Lehrinhalte Klasse C/C1 (Ausdehnung von D/D1)
 
-Kapitel 7: Theoretische Lehrinhalte Klasse C (Ausdehnung von C1)
+Kapitel 7: Theoretische Lehrinhalte Klassen CE, C1E, DE und D1E
 
-Kapitel 8: Theoretische Lehrinhalte Klassen CE, C1E, DE und D1E
+Kapitel 8: Theoretische Lehrinhalte Klasse D/D1 (Ausdehnung von B)
 
-Kapitel 9: Theoretische Lehrinhalte Klasse D1
+Kapitel 9: Theoretische Lehrinhalte Klasse D/D1 (Ausdehnung von C/C1)
 
-Kapitel 10: Theoretische Lehrinhalte Klasse D (Ausdehnung von B)
-
-Kapitel 11: Theoretische Lehrinhalte Klasse D (Ausdehnung von C)
-
-Kapitel 12: Theoretische Lehrinhalte für die Klasse D (Ausdehnung von D1)
-
-Kapitel 13: Theoretische Lehrinhalte Klasse F
+Kapitel 10: Theoretische Lehrinhalte Klasse F
 
 ### 1. Basis-Lehrplan für die Ersterteilung aller Klassen (20 Unterrichtseinheiten)
 
@@ -170,19 +164,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 4 | Ladungssicherung |
 
-### 5. Theoretische Lehrinhalte für die Klasse C1 (8 Unterrichtseinheiten)
-
-| Abschnitt | Lehrinhalt |
-
-| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse C1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung Pflichten des Zulassungsbesitzers, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, besondere Bestimmungen für den ruhenden Verkehr Besondere Transporte Sondervorschriften für bestimmte Fahrzeuge (inkl. Zugmaschinen) Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Ziehen von Anhängern |
-
-| 2 | Technische Bauteile von Lastkraftfahrzeugen, Sattelkraftfahrzeugen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
-
-| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität. Beladung, Ladungssicherung. |
-
-| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
-
-### 6. Theoretische Lehrinhalte für die Klasse C (Zehn Unterrichtseinheiten)
+### 5. Theoretische Lehrinhalte für die Klassen C/C1 (Ausdehnung von B; 10 Unterrichtseinheiten)
 
 | Abschnitt | Lehrinhalt |
 
@@ -194,17 +176,19 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-### 7. Theoretische Lehrinhalte für die Klasse C (Ausdehnung von C1; 4 Unterrichtseinheiten)
+### 6. Theoretische Lehrinhalte Klasse C/C1 (Ausdehnung von D/D1; 4 Unterrichtseinheiten):
 
 | Abschnitt | Lehrinhalt |
 
-| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse C und die Klasse C1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung Pflichten des Zulassungsbesitzers, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Besondere Transporte Sondervorschriften für bestimmte Fahrzeuge (inkl. Zugmaschinen) Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Ziehen von Anhängern |
+| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse C und C1 Bauart und Ausrüstung der Kfz und Anhänger, Pflichten des Zulassungsbesitzers, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, Besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, Besondere Bestimmungen für den ruhenden Verkehr. Besondere Transporte Sondervorschriften für bestimmte Fahrzeuge (inkl. Zugmaschinen) Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Ziehen von Anhängern |
 
 | 2 | Technische Bauteile von Lastkraftfahrzeugen, Sattelkraftfahrzeugen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung; Kraftübertragung; Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
 
-| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung |
+| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität. Beladung, Ladungssicherung. |
 
-### 8. Theoretische Lehrinhalte für die Klassen CE, C1E, DE und D1E (6 Unterrichtseinheiten)
+| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, Technischer Zustand, Bedienung und Fahrweise |
+
+### 7. Theoretische Lehrinhalte für die Klassen CE, C1E, DE und D1E (6 Unterrichtseinheiten)
 
 | Abschnitt | Lehrinhalt |
 
@@ -214,19 +198,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 3 | Fahrphysik und Ladetechnik Fahrstabilität, Beladung, Ladungssicherung. |
 
-### 9. Theoretische Lehrinhalte für die Klassen D1 (8 Unterrichtseinheiten)
-
-| Abschnitt | Lehrinhalt |
-
-| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse D1 Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung in Omnibussen und Omnibusanhängern (Linienverkehr und Gelegenheitsverkehr) Pflichten des Zulassungsbesitzers, Pflichten des Betriebsleiters, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, besondere Bestimmungen für den ruhenden Verkehr Arbeitszeiten, Lenkzeiten, Ruhezeiten Handhabung von Schaublatt und Kontrollgerät Besondere Ausstattungsgegenstände Ziehen von Anhängern |
-
-| 2 | Technische Bauteile von Omnibussen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung, Kraftübertragung, Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen |
-
-| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung, fahrgastorientierter Fahrstil |
-
-| 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
-
-### 10. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von B; 12 Unterrichtseinheiten)
+### 8. Theoretische Lehrinhalte für die Klassen D/D1 (Ausdehnung von B; 12 Unterrichtseinheiten)
 
 | Abschnitt | Lehrinhalt |
 
@@ -238,7 +210,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-### 11. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von C; 4 Unterrichtseinheiten)
+### 9. Theoretische Lehrinhalte für die Klassen D/D1 (Ausdehnung von C/C1; 4 Unterrichtseinheiten)
 
 | Abschnitt | Lehrinhalt |
 
@@ -250,17 +222,7 @@ Kapitel 13: Theoretische Lehrinhalte Klasse F
 
 | 4 | Ökologischer und ökonomischer Betrieb Ausstattung, technischer Zustand, Bedienung und Fahrweise |
 
-### 12. Theoretische Lehrinhalte für die Klasse D (Ausdehnung von D1; 4 Unterrichtseinheiten)
-
-| Abschnitt | Lehrinhalt |
-
-| 1 | Gesetzliche Vorschriften Lenkberechtigung für die Klasse D Bauart und Ausrüstung der Kfz und Anhänger, Zulassung und Überprüfung Beladung, Personenbeförderung in Omnibussen und Omnibusanhängern (Linienverkehr und Gelegenheitsverkehr) Pflichten des Zulassungsbesitzers, Pflichten des Betriebsleiters, Pflichten des Kraftfahrzeuglenkers Wahl der Fahrgeschwindigkeit, Abstände beim Hintereinanderfahren, besondere Fahrverbote, Verhalten bei Eisenbahnkreuzungen, besondere Bestimmungen für den ruhenden Verkehr Arbeitszeiten, Lenkzeiten, Ruhezeiten, Handhabung von Schaublatt und Kontrollgerät Besondere Ausstattungsgegenstände Ziehen von Anhängern |
-
-| 2 | Technische Bauteile von Omnibussen und Anhängern Motor, Kraftstoffanlage, Auspuff, Kühlung, Schmierung, Kraftübertragung, Rahmen und Aufbauten; Fahrwerk; Bremsanlagen Einrichtungen zur Verbindung von Fahrzeugen Elektrische Anlage und Kontrolleinrichtungen Komfortausstattung |
-
-| 3 | Fahrphysik und Ladetechnik Kraftschluss, Fahrwiderstände, Achslasten und Achslaständerungen, Fahrstabilität Beladung, Ladungssicherung |
-
-### 13. Theoretische Lehrinhalte für die Klasse F (4 Unterrichtseinheiten)
+### 10. Theoretische Lehrinhalte für die Klasse F (4 Unterrichtseinheiten)
 
 | Abschnitt | Lehrinhalt |
 
