@@ -96,6 +96,8 @@
 
 | Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat und die im Gebiet der Gemeinden Fischamend, Klein-Neusiedl und Schwadorf gelegenen Teile des Flughafens Wien-Schwechat | SW |
 
+| BH Tulln für das Gebiet der Gemeinde Klosterneuburg (Außenstelle Klosterneuburg) | KG |
+
 ### IV. OBERÖSTERREICH
 
 | Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Linz | L |
