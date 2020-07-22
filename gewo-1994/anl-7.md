@@ -26,7 +26,7 @@ Die nachstehende Liste ist eine nicht erschöpfende Aufzählung von Faktoren und
 
   - e) Produkte, bei denen die Risiken der Geldwäscherei und Terrorismusfinanzierung durch andere Faktoren wie etwa Beschränkungen der elektronischen Geldbörse oder die Transparenz der Eigentumsverhältnisse gesteuert werden (z. B. bestimmten Arten von E-Geld).
 
-- 3. Risikofaktoren in geographischer Hinsicht:
+- 3. Risikofaktoren in geographischer Hinsicht – Registrierung, Niederlassung, Wohnsitz in::
 
   - a) Mitgliedstaaten,
 
