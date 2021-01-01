@@ -105,3 +105,5 @@
   - e) kartographische Erzeugnisse aller Art, einschließlich Wandkarten, topographische Pläne und Globen, gedruckt (Position 4905 der Kombinierten Nomenklatur).
 
 - 34. Arzneimittel.
+
+- 35. Waren der monatlichen Damenhygiene aller Art (aus Unterpositionen 3924 90, 4014 90, 0511 99 39 und 9619 00 der Kombinierten Nomenklatur).
