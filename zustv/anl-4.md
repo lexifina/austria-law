@@ -24,7 +24,7 @@
 
 | 28 | zur Verwendung im Rahmen des Schaustellergewerbes bestimmt |
 
-| 29 | zur Verwendung für die entgeltliche Personenbeförderung im Rahmen des Ausflugswagen, Stadtrundfahrten-, Mietwagen-, oder Gästewagengewerbes bestimmt |
+| 29 | zur Verwendung für die entgeltliche Personenbeförderung im Rahmen des Ausflugswagen, Stadtrundfahrten-, Mietwagengewerbes mit Omnibussen oder Gästewagengewerbes bestimmt |
 
 | 30 | zur Verwendung im Bereich des Straßendienstes gemäß § 27 Abs. 1 StVO 1960 BGBl. Nr. 159/1960, zuletzt geändert mit BGBl. I Nr. 6/2017 (StVO 1960) bestimmt |
 
