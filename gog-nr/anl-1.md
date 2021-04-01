@@ -678,9 +678,9 @@ Die Auskunftsperson hat im Fall des Ausschlusses das Recht, die Befragung in Anw
 
 ### Zuständigkeit und Verfahren des Bundesverwaltungsgerichts
 
-§ 56. (1) In den Fällen der §§ 36 Abs. 1 und 4 und 45 Abs. 2 entscheidet das Bundesverwaltungsgericht durch Senat.
+§ 56. (1) In den Fällen der §§ 36 Abs. 1 und 4 und 45 Abs. 2 entscheidet das Bundesverwaltungsgericht durch Senat. Das Bundesverwaltungsgericht hat die für seine Entscheidung notwendigen Ermittlungen durchzuführen.
 
-(2) In den Fällen der §§ 36 Abs. 1 und 45 Abs. 2 hat das Bundesverwaltungsgericht binnen vierzehn Tagen zu entscheiden.
+(2) In den Fällen der §§ 36 Abs. 1 und 45 Abs. 2 hat das Bundesverwaltungsgericht binnen vier Wochen zu entscheiden.
 
 (3) Jeder Beschluss gemäß Abs. 1 hat eine Belehrung über die Möglichkeit der Erhebung einer Beschwerde beim Verfassungsgerichtshof und einer ordentlichen oder außerordentlichen Revision beim Verwaltungsgerichtshof zu enthalten. Das Bundesverwaltungsgericht hat ferner hinzuweisen:
 
