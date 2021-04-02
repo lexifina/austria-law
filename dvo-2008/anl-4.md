@@ -204,11 +204,13 @@ Das Untersuchungsergebnis für die Feldprobe ergibt sich als arithmetisches Mitt
 
 Die gewählten Aufbereitungs-, Aufschluss-, Auslaug- und Bestimmungsmethoden sind für jede analytische Untersuchung festzulegen und im jeweiligen Analysenbericht, gemeinsam mit der Bestimmungs- und Nachweisgrenze für jeden untersuchten Parameter, zu dokumentieren. Auf Verlangen ist auch die Messunsicherheit anzugeben.
 
+Im Falle eines Ergebnisses unterhalb der Bestimmungsgrenze, ist die Bestimmungsgrenze als Messwert (Analysenergebnis gemäß § 3 Z 3a bzw. Untersuchungsergebnis gemäß § 3 Z 58) anzuführen (Beispiel: Messung unter der Bestimmungsgrenze von 7 mg/l: Angabe von 7 mg/l).
+
 ### 5.1. Aufschluss- und Auslaugmethoden
 
 Bei der Probenvorbereitung und der Wahl der Aufschluss- und Auslaugmethoden ist darauf zu achten, dass die Analysenergebnisse nicht durch Störeffekte wie Adsorption am Filtermaterial, Matrixeffekte, Interferenzen oder Querempfindlichkeiten verfälscht werden.
 
-Die Herstellung von Analysenproben (Prüfmengen) aus der Laborprobe hat nach den Vorgaben der ÖNORM EN 15002 „Charakterisierung von Abfällen – Herstellung von Prüfmengen aus der Laboratoriumsprobe“, ausgegeben am 1. April 2006, zu erfolgen.
+Die Herstellung von Analysenproben (Prüfmengen) aus der Laborprobe hat nach den Vorgaben der ÖNORM EN 15002 „Charakterisierung von Abfällen – Herstellung von Prüfmengen aus der Laboratoriumsprobe“, ausgegeben am 1. Juli 2015, zu erfolgen.
 
 Als Gehalte im Feststoff gelten die mit Königswasseraufschluss mobilisierbaren Gehalte an Metallen und Halbmetallen. Zur Bestimmung der Gehalte im Feststoff ist, soweit nachfolgend nicht anderes bestimmt ist, die Gesamtfraktion des Abfalls – im Bedarfsfall nach Zerkleinerung – einem Säureaufschluss gemäß der
 
@@ -220,13 +222,13 @@ Die Elution hat gemäß der
 
 - – ÖNORM EN 12457-4 „Charakterisierung von Abfällen – Auslaugung – Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)“, ausgegeben am 1. Jänner 2003,
 
-aus der Gesamtfraktion des Abfalls zu erfolgen. Eine Zerkleinerung ist vorzunehmen, wenn sie für die Probenahme oder die Durchführung der Untersuchung notwendig ist oder die Korngröße des Abfalls über 10 mm liegt. Der Abfall darf nicht gemahlen werden. Das beim Zerkleinern anfallende Feinkorn ist der Probe beizumischen. Für die Bestimmung organischer Inhaltsstoffe im Eluat (einschließlich TOC) hat die Trennung von Feststoff und Flüssigkeit ausschließlich durch Zentrifugieren zu erfolgen. Dabei ist so lange zu zentrifugieren, bis ein möglichst klarer Überstand erhalten wird. Die Trübung des Zentrifugates ist nach der ÖNORM EN ISO 7027 „Wasserbeschaffenheit – Bestimmung der Trübung (ISO 7027:1999)“, ausgegeben am 1. Mai 2000, zu messen und im Analysenbericht anzugeben. Die Konzentrationen der gelösten Stoffe sind im Zentrifugat nach den Verfahren der Abfall- oder Wasseranalytik zu bestimmen.
+aus der Gesamtfraktion des Abfalls zu erfolgen. Eine Zerkleinerung ist vorzunehmen, wenn sie für die Probenahme oder die Durchführung der Untersuchung notwendig ist oder die Korngröße des Abfalls über 10 mm liegt. Der Abfall darf nicht gemahlen werden. Das beim Zerkleinern anfallende Feinkorn ist der Probe beizumischen. Für die Bestimmung organischer Parameter im Eluat ist die ÖNORM S 2117 „Herstellung eines Eluates aus ungemahlenen Abfallproben mit einer Korngröße kleiner 10 mm für die Untersuchung der aquatischen Ökotoxizität und der organischen Parameter“, ausgegeben am 1. Februar 2018, anzuwenden.
 
 Zutreffendenfalls sind folgende Normen anzuwenden:
 
-- – ÖNORM EN 14997 „Charakterisierung von Abfällen – Untersuchung des Auslaugungsverhaltens – Einfluss des pH-Wertes auf die Auslaugung bei kontinuierlicher pH-Wert-Kontrolle“, ausgegeben am 1. April 2007, oder ÖNORM CEN/TS 14429 „Charakterisierung von Abfällen – Untersuchung des Auslaugverhaltens – Einfluss des pH-Wertes unter vorheriger Säure/Base Zugabe“, ausgegeben am 1. Jänner 2006;
+- – ÖNORM EN 14997 „Charakterisierung von Abfällen – Untersuchung des Auslaugungsverhaltens – Einfluss des pH-Wertes auf die Auslaugung bei kontinuierlicher pH-Wert-Kontrolle“, ausgegeben am 15. Mai 2015, oder ÖNORM EN 14429 „Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens – Einfluss des pH-Wertes auf die Elution unter vorheriger Säure/Base-Zugabe“, ausgegeben am 1. Mai 2015
 
-- – ÖNORM CEN/TS 14405 „Charakterisierung von Abfällen – Auslaugungsverhalten – Perkolationsprüfung im Aufwärtsstrom (unter festgelegten Bedingungen), ausgegeben am 1. August 2004, oder DIN CEN/TS 19528 „Elution von Feststoffen – Perkolationsverfahren zur gemeinsamen Untersuchung des Elutionsverhaltens von anorganischen und organischen Stoffen“; ausgegeben am 1. Jänner 2009;
+- – ÖNORM EN 14405 „Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens – Perkolationsprüfung im Aufwärtsstrom (unter festgelegten Bedingungen)“, ausgegeben am 15. Mai 2017 oder DIN CEN/TS 19528 „Elution von Feststoffen – Perkolationsverfahren zur gemeinsamen Untersuchung des Elutionsverhaltens von anorganischen und organischen Stoffen“; ausgegeben am 1. Jänner 2009;
 
 - – ÖNORM CEN/TS 15364 „Charakterisierung von Abfällen – Untersuchung des Auslaugverhaltens – Prüfung der Säure- und Base-Neutralisierungskapazität“, ausgegeben am 1. Juni 2006.
 
@@ -238,11 +240,11 @@ Es sind folgende Bestimmungsmethoden anzuwenden:
 
 - – ÖNORM EN 16192 „Charakterisierung von Abfällen – Analyse von Eluaten“, ausgegeben am 1. Februar 2012
 
-- – ÖNORM EN 12879 „Charakterisierung von Schlämmen – Bestimmung des Glühverlustes der Trockenmasse“, ausgegeben am 1. Dezember 2000
+- – ÖNORM EN 15935 „Schlamm, behandelter Bioabfall, Boden und Abfall – Bestimmung des Glühverlusts“, ausgegeben am 1. Oktober 2012
 
-- – ÖNORM EN 13137 „Charakterisierung von Abfall – Bestimmung des gesamten organischen Kohlenstoffs (TOC) in Abfall, Schlämmen und Sedimenten“, ausgegeben am 1. Dezember 2001
+- – ÖNORM EN 15936 „Schlamm, behandelter Bioabfall, Boden und Abfall – Bestimmung des gesamten organischen Kohlenstoffs (TOC) mittels trockener Verbrennung“, ausgegeben am 15. Oktober 2012
 
-- – ÖNORM EN 16023 „Charakterisierung von Abfällen – Bestimmung des Brennwertes und Berechnung des Heizwertes“, 2. Entwurf ausgegeben am 1. März 2012, mit folgenden Abweichungen für die Bestimmung des Brennwertes bei Abfällen aus der mechanisch-biologischen Abfallbehandlung:
+- – ONR CEN/TS 16023 „Charakterisierung von Abfällen – Bestimmung des Brennwertes und Berechnung des Heizwertes (CEN/TS 16023:2013)“, ausgegeben am 15. Februar 2014, mit folgenden Abweichungen für die Bestimmung des Brennwertes bei Abfällen aus der mechanisch-biologischen Abfallbehandlung:
 
 - 1. Trocknungstemperatur: Trocknung bis höchstens 105°C (+-2°C) zulässig.
 
@@ -262,8 +264,6 @@ Es sind folgende Bestimmungsmethoden anzuwenden:
 
 - – ÖNORM S 2027-4 „Beurteilung von Abfällen aus der mechanisch-biologischen Behandlung – Teil 4: Stabilitätsparameter – Atmungsaktivität (AT4)“, ausgegeben am 1. Juni 2012
 
-- – ÖNORM EN 14345 „Charakterisierung von Abfällen – Bestimmung des Kohlenwasserstoffgehalts mittels Gravimetrie“, ausgegeben am 1. Dezember 2004, (anwendbar ab 5 000 mg/kg)
-
 - – ÖNORM EN 14039 „Charakterisierung von Abfällen – Bestimmung des Gehalts an Kohlenwasserstoffen von C10 bis C40 mittels Gaschromatographie“, ausgegeben am 1. Jänner 2005, (anwendbar bis 10 000 mg/kg) – Soll die Methode zur Bestimmung des Gehalts an Kohlenwasserstoffen über 10 000 mg/kg verwendet werden, sind entsprechende Verdünnungen des Extraktes vorzunehmen. Zur Bestimmung des Gehalts an Kohlenwasserstoffen unter 100 mg/kg TM sind höhere Probe- und Lösemittelmengen (mit entsprechenden Aufkonzentrationen) anzuwenden.
 
 - – ÖNORM S 2116-1 „Untersuchung stabilisierter Abfälle – Teil 1: Herstellung der Probekörper“, ausgegeben am 1. Jänner 2010
@@ -272,9 +272,9 @@ Es sind folgende Bestimmungsmethoden anzuwenden:
 
 - – ÖNORM S 2116-3 „Untersuchung stabilisierter Abfälle – Teil 3: Schnellkarbonatisierung“, ausgegeben am 1. Jänner 2010
 
-- – ÖNORM S 2116-4 „Untersuchung stabilisierter Abfälle – Elutionstests über 24 Stunden, 64 Tage, 2 Tage“, ausgegeben am 1. Jänner 2001
+- – Für den 24 Stunden Test die ÖNORM S 2116-4 „Untersuchung stabilisierter Abfälle – Elutionstests über 24 Stunden, 64 Tage, 2 Tage“, ausgegeben am 1. Jänner 2001 für den 64 Tage sowie den 2 Tage Test die ÖNORM EN 15863 „Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens für die grundlegende Charakterisierung – Dynamisches Elutionsverfahren für monolithische Abfälle mit periodischer Erneuerung des Elutionsmittels unter festgelegten Prüfbedingungen“, ausgegeben am 15. Mai 2015
 
-- – ÖNORM S 2116-5 „Untersuchung stabilisierter Abfälle – Verfügbarkeitstest“, ausgegeben am 1. Jänner 2001
+- – ÖNORM S 2116-5 „Untersuchung stabilisierter Abfälle – Teil 5: Verfügbarkeitstest“, ausgegeben am 15. August 2019
 
 - – ÖNORM S 2116-6 „Untersuchung stabilisierter Abfälle – Teil 6: Schnellalterung“, ausgegeben am 1. Jänner 2010
 
@@ -282,15 +282,37 @@ Es sind folgende Bestimmungsmethoden anzuwenden:
 
 - – ÖNORM EN ISO 9377-2 „Wasserbeschaffenheit – Bestimmung des Kohlenwasserstoff-Index – Teil 2: Verfahren nach Lösemittelextraktion und Gaschromatographie (ISO 9377-2:2000)“, ausgegeben am 1. Juni 2001
 
-- – ÖNORM L 1200 „Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Böden, Klärschlämmen und Komposten“, ausgegeben am 1. Jänner 2003, oder ÖNORM EN 15527 „Charakterisierung von Abfällen – Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Abfall mittels Gaschromatographie-Massenspektrometrie (GC/MS)“, ausgegeben am 1. September 2008
+- – ÖNORM EN 16181 „Boden, behandelter Bioabfall und Schlamm - Bestimmung von polycyclischen aromatischen Kohlenwasserstoffen (PAK) mittels Gaschromatographie (GC) und Hochleistungs-Flüssigkeitschromatographie (HPLC)“, ausgegeben am 15. Dezember 2018, oder ÖNORM EN 15527 „Charakterisierung von Abfällen – Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Abfall mittels Gaschromatographie-Massenspektrometrie (GC/MS)“, ausgegeben am 1. September 2008
 
-- – ÖNORM EN ISO 22155 „Bodenbeschaffenheit – Gaschromatographische Bestimmung flüchtiger aromatischer Kohlenwasserstoffe, Halogenkohlenwasserstoffe und ausgewählter Ether – Statisches Dampfraumverfahren“ (ISO 22155:2011), ausgegeben am 15. April 2013
+- – ÖNORM EN ISO 22155 „Bodenbeschaffenheit – Gaschromatographische Bestimmung flüchtiger aromatischer Kohlenwasserstoffe, Halogenkohlenwasserstoffe und ausgewählter Ether – Statisches Dampfraum-Verfahren“, ausgegeben am 15. Juni 2016
+
+- – ÖNORM EN ISO 15009 „Bodenbeschaffenheit – Gaschromatographische Bestimmung des Anteils an flüchtigen aromatischen Kohlenwasserstoffen, Naphthalin und flüchtigen Halogenkohlenwasserstoffen – Purge-und-Trap-Anreicherung mit thermischer Desorption“, ausgegeben am 15. Juni 2016
 
 - – ÖNORM EN ISO 9562 „Wasserbeschaffenheit – Bestimmung adsorbierbarer organisch gebundener Halogene (AOX) (ISO 9562:2004)“, ausgegeben am 1. Dezember 2004
 
 - – ÖNORM EN ISO 16265 „Wasserbeschaffenheit – Bestimmung des Indexes von methylenblauaktiven Substanzen (MBAS) – Verfahren mittels kontinuierlicher Durchflussanalyse (CFA)“, ausgegeben am 15. April 2012, oder ÖNORM EN 903 „Wasserbeschaffenheit – Bestimmung von anionischen oberflächenaktiven Substanzen durch Messung des Methylenblau-Index MBAS (ISO 7875-1:1984 modifiziert), ausgeben am 1. März 1994
 
 - – ÖNORM M 6614 „Wasseruntersuchung – Bestimmung der extrahierbaren organisch gebundenen Halogene (EOX)“, ausgegeben am 1. Juni 2001
+
+- – ÖNORM EN 15863 „Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens für die grundlegende Charakterisierung – Dynamisches Elutionsverfahren für monolithische Abfälle mit periodischer Erneuerung des Elutionsmittels unter festgelegten Prüfbedingungen“, ausgegeben am 15. Mai 2015
+
+- – ÖNORM S 2029 „Abschätzung der Selbsterhitzung und Gasbildung von alkalischen Rückständen unter Deponiebedingungen“, ausgegeben am 15. November 2020
+
+- – ÖNORM EN ISO 17294-2: „Wasserbeschaffenheit - Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von ausgewählten Elementen einschließlich Uran-Isotope (ISO 17294-2:2016)“, ausgegeben am 15. Jänner 2017 oder ÖNORM EN ISO 12846 „Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels Atomabsorptionsspektrometrie (AAS) mit und ohne Anreicherung (ISO 12846:2012)“, ausgegeben am 1. Juli 2012 oder ÖNORM EN 16175-1 „Schlamm, behandelter Bioabfall und Boden – Bestimmung von Quecksilber – Teil 1: Kaltdampf-Atomabsorptionsspektrometrie (CV-AAS)“, ausgegeben am 1. Jänner 2017
+
+- – ÖNORM EN ISO 10523 „Wasserbeschaffenheit – Bestimmung des pH-Wertes“, ausgegeben am 15. April 2012
+
+- – ISO/TS 15923-2 “Water quality -- Determination of selected parameters by discrete analysis systems – Part 2: Chromium(VI), fluoride, total alkalinity, total hardness, calcium, magnesium, iron, iron(II), manganese and aluminium with photometric detection”, ausgegeben am 1. September 2017
+
+- – ÖNORM EN ISO 17294-2 „Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von ausgewählten Elementen einschließlich Uran-Isotope“ (ISO 17294-2:2016), ausgegeben am 15. Jänner 2017
+
+- – ÖNORM EN ISO 14403-1 „Wasserbeschaffenheit – Bestimmung von Gesamtcyanid und freiem Cyanid mittels Fließanalytik (FIA und CFA) – Teil 1: Verfahren mittels Fließinjektionsanalyse (FIA)“ (ISO 14403-1:2012), ausgegeben am 15. Oktober 2012
+
+- – ÖNORM EN ISO 14403-2 „Wasserbeschaffenheit – Bestimmung von Gesamcyanid und freiem Cyanid mittels Fließanalytik (FIA und CFA) – Teil 2: Verfahren der kontinuierlichen Durchflussanalyse (CFA)“ (ISO 14403-2:2012), ausgegeben am 15. Oktober 2012
+
+- – ÖNORM EN ISO 11885 „Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)“ (ISO 11885:2007), ausgegeben am 1. November 2009
+
+- – ÖNORM EN 16171 „Schlamm, behandelter Bioabfall und Boden – Bestimmung von Elementen mittels Massenspektrometrie mit induktiv gekoppeltem Plasma (ICP-MS)“, ausgegeben am 15. Jänner 2017
 
 ### 6. Beurteilungswerte und Variabilitäten
 
@@ -422,7 +444,7 @@ Ein Beurteilungsnachweis hat weiters folgende nachvollziehbare Begründungen und
 
 - 33. Bestätigung, dass der Abfall nicht unter die Deponierungsverbote gemäß § 7 und bei einer Untertagedeponie gemäß Anhang 6 Kapitel 2.1 fällt
 
-- 34. Den Nachweis, dass der Abfall im Fall der Deponierung keine gefahrenrelevanten Eigenschaften gemäß Anlage 3 der Abfallverzeichnisverordnung idgF, aufweist; die Bewertung der Kriterien H1 bis H3 und H12 bis H14 der Anlage 3 der Abfallverzeichnisverordnung idgF ist in der Beurteilung der Zulässigkeit der Ablagerung implizit enthalten; für jene Abfälle, die gemäß der Abfallverzeichnisverordnung idgF gefährlich sind, ist ergänzend eine Beurteilung vorzunehmen, ob unter Deponiebedingungen von diesen Abfällen Gefährdungen entsprechend den Kriterien H4 bis H11 ausgehen
+- 34. Den Nachweis, dass der Abfall im Fall der Deponierung keine gefahrenrelevanten Eigenschaften gemäß Anhang 3 der Abfallverzeichnisverordnung (AVVO) BGBl. II Nr. 409/2020 idgF, aufweist; die Bewertung der Kriterien HP 1, HP 2, HP 3, HP 9, HP 12, HP 14 bezüglich Ozonschichtschädigung, HP 14 bezüglich Gewässergefährdung bei Ablagerung auf Baurestmassendeponien, Reststoffdeponien sowie Massenabfalldeponien und HP 15 ist in der Beurteilung der Zulässigkeit der Ablagerung implizit enthalten; für jene Abfälle, die gemäß der Abfallverzeichnisverordnung idgF gefährlich sind, ist ergänzend eine Beurteilung vorzunehmen, ob unter Deponiebedingungen von diesen Abfällen Gefährdungen entsprechend den Kriterien HP 4, HP 5, HP 6, HP 7, HP 8, HP 10, HP 11, HP 13 und HP 14 bezüglich Gewässergefährdung bei Ablagerung auf Bodenaushubdeponien und Inertabfalldeponien ausgehen
 
 - 35. Im Falle der Inanspruchnahme von höheren Grenzwerten für Gehalte im Feststoff (Gesamtgehalte) aufgrund geogener Hintergrundbelastungen: Bestätigung und geologische Begründung, dass es sich bei den betroffenen Parametern tatsächlich um eine geogene Hintergrundbelastung handelt
 
@@ -560,13 +582,13 @@ Für geogene Hintergrundgehalte im Feststoff (Gesamtgehalte) gelten für die Abl
 
 ### 1.2. Grundlegende Charakterisierung von Aushubmaterial vor Beginn der Aushub- oder Abräumtätigkeit (in-situ)
 
-Die grundlegende Charakterisierung von Aushubmaterial vor Beginn der Aushub- oder Abräumtätigkeit (in-situ) ist gemäß ÖNORM S 2126 „Charakterisierung von Aushubmaterial vor Beginn der Aushub- oder Abräumtätigkeit“, ausgegeben am 1. Dezember 2010, mit den in diesem Anhang festgelegten Vorgaben (insbesondere Parameterumfang und Grenzwerte), Ergänzungen und Änderungen durchzuführen.
+Die grundlegende Charakterisierung von Aushubmaterial vor Beginn der Aushub- oder Abräumtätigkeit (in-situ) ist gemäß ÖNORM S 2126 „Grundlegende Charakterisierung von Aushubmaterial vor Beginn der Aushub- oder Abräumtätigkeit“, ausgegeben am 1. Februar 2016, mit den in diesem Anhang festgelegten Vorgaben (insbesondere Parameterumfang und Grenzwerte), Ergänzungen und Änderungen durchzuführen.
 
 Erstuntersuchung
 
 Für die Erstuntersuchung gemäß ÖNORM S 2126 definiert die folgende Tabelle abhängig von der jeweiligen Aushubkategorie den maximalen Beurteilungsmaßstab, die Mindestanzahl an zu gewinnenden qualifizierten Stichproben (qSP), den Parameterumfang, die Grenzwerte sowie die zugeordneten Deponie(unter)klassen nach der Erstuntersuchung.
 
-Tabelle 2: Vorgaben zur Erstuntersuchung von Aushubmaterial gemäß ÖNORM S 2126
+Tabelle 2: Vorgaben zur Erstuntersuchung von Aushubmaterial
 
 | Aushubkategorie | Art des Aushubmaterials | Maximaler Beurteilungs-maßstab | Mindest-anzahl qSP | Parameterumfang | Grenzwerte | Zugeordnete Deponie(n) nach Erstuntersuchung |
 
@@ -792,7 +814,7 @@ Vorgaben hinsichtlich der Zulässigkeit der Ablagerung:
 
 Eine Ablagerung von Gleisaushubmaterial aus Aushubbereichen, die der Aushubkategorie III zugeordnet worden sind, auf einer Bodenaushubdeponie ist unter folgenden Bedingungen zulässig:
 
-- – Das Material darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 68 mm) darf höchstens 20 Gewichtsprozent betragen;
+- – Das Material darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 63 mm) darf höchstens 20 Gewichtsprozent betragen;
 
 - – Das Material darf ausschließlich aus den horizontalen Bereichen der HE 1 oder HE 2 stammen, nicht jedoch aus Gleisbereichen von Ver- und Umladestellen oder -anlagen, Lokabstellgleisen, Umschlaganlagen oder Wartungs- und Betankungsgleisen;
 
@@ -812,7 +834,7 @@ Die einzelnen Abfallchargen sind getrennt als sonstiger, einmalig anfallender Ab
 
 Die Ablagerung von Gleisaushubmaterial bei Untersuchung nach Beginn der Aushub- oder Abräumtätigkeit auf einer Bodenaushubdeponie ist unter folgenden Bedingungen zulässig:
 
-- – Die Abfallcharge an Gleisaushubmaterial darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 63mm) darf höchstens 20 Gewichtsprozent betragen;
+- – Die Abfallcharge an Gleisaushubmaterial darf ausschließlich aus Bodenaushubmaterial und Bodenbestandteilen bestehen. Der Anteil an Gleisschotter (natürliche, gebrochene, ungebundene Gesteinskörnung aus mineralischen Quellen mit einer Korngröße zwischen 38 und 63 mm) darf höchstens 20 Gewichtsprozent betragen;
 
 - – Der Anfallsort der gesamten Abfallcharge, die Zuordnung zu einem Gleisbereich gemäß Tabellen 3 und 4 der horizontalen Einteilung sowie die Zuordnung zu einer Kategorie der vertikalen Einteilung eines konkreten Gleisabschnitts müssen im Beurteilungsnachweis dokumentiert sein;
 
@@ -1024,7 +1046,7 @@ Relevante Parameter sind – so sie nicht in den Tagessammelproben untersucht we
 
 Unkritische Parameter sind zumindest in der ersten Tages- oder Wochensammelprobe des zweiten zu untersuchenden Quartals zu untersuchen.
 
-Für die Beurteilung des Deponieverhaltens von Abfallströmen mit einer Jahresanfallsmenge von mehr als 10 000 t (ausgenommen Abfälle, welche in der Folge verfestigt, stabilisiert oder immobilisiert werden) sind im Rahmen der grundlegenden Charakterisierung an zumindest einer Tagessammelprobe eine Perkolationsprüfung und eine Prüfung der pH-Abhängigkeit (ÖNORM EN 14997 oder ÖNORM CEN/TS 14429) für alle zum jeweiligen Zeitpunkt als relevant und grenzwertrelevant eingestuften Parameter (Gehalte im Eluat) durchzuführen. Für die Perkolationsprüfung ist entweder die ÖNORM CEN/TS 14405 oder die DIN 19528, für die Prüfung der pH-Abhängigkeit ist die ÖNORM EN 14997 oder die ÖNORM CEN/TS 14429 anzuwenden. Die Ergebnisse aus diesen Untersuchungen sind bei der Beurteilung des Deponieverhaltens mit einzubeziehen.
+Für die Beurteilung des Deponieverhaltens von Abfallströmen mit einer Jahresanfallsmenge von mehr als 10 000 t (ausgenommen Abfälle, welche in der Folge verfestigt, stabilisiert oder immobilisiert werden) sind im Rahmen der grundlegenden Charakterisierung an zumindest einer Tagessammelprobe eine Perkolationsprüfung und eine Prüfung der pH-Abhängigkeit (ÖNORM EN 14997 oder ÖNORM EN 14429) für alle zum jeweiligen Zeitpunkt als relevant und grenzwertrelevant eingestuften Parameter (Gehalte im Eluat) durchzuführen. Für die Perkolationsprüfung ist entweder die ÖNORM EN 14405 oder die DIN 19528, für die Prüfung der pH-Abhängigkeit ist die ÖNORM EN 14997 oder die ÖNORM EN 14429 anzuwenden. Die Ergebnisse aus diesen Untersuchungen sind bei der Beurteilung des Deponieverhaltens mit einzubeziehen.
 
 ### 3.5.2. Übereinstimmungsbeurteilungen für große Abfallströme (zweites bis achtes Jahr)
 
@@ -1304,7 +1326,7 @@ Liegt das Untersuchungsergebnis einer Wochensammelprobe für einen relevanten od
 
 - 5. Die Einschränkungen bei der Auswahl der Parameter und die Zusammenfassung von Proben sind im aktuellen Beurteilungsnachweis zu dokumentieren.
 
-Für die Beurteilung des Deponieverhaltens von Abfällen aus der mechanisch-biologischen Behandlung, die wie ein Abfallstrom einer grundlegenden Charakterisierung und Übereinstimmungsbeurteilungen unterzogen werden, mit einer Jahresanfallsmenge von mehr als 10 000 t sind im Rahmen der grundlegenden Charakterisierung an zumindest einer Tagessammelprobe eine Perkolationsprüfung und eine Prüfung der pH-Abhängigkeit für alle zum jeweiligen Zeitpunkt als relevant und grenzwertrelevant eingestuften Parameter (Gehalte im Eluat) durchzuführen. Für die Perkolationsprüfung ist entweder die ÖNORM CEN/TS 14405 oder die DIN 19528, für die Prüfung der pH-Abhängigkeit ist die ÖNORM EN 14997 oder die ÖNORM CEN/TS 14429 anzuwenden. Die Ergebnisse aus diesen Untersuchungen sind bei der Beurteilung des Deponieverhaltens miteinzubeziehen.
+Für die Beurteilung des Deponieverhaltens von Abfällen aus der mechanisch-biologischen Behandlung, die wie ein Abfallstrom einer grundlegenden Charakterisierung und Übereinstimmungsbeurteilungen unterzogen werden, mit einer Jahresanfallsmenge von mehr als 10 000 t sind im Rahmen der grundlegenden Charakterisierung an zumindest einer Tagessammelprobe eine Perkolationsprüfung und eine Prüfung der pH-Abhängigkeit für alle zum jeweiligen Zeitpunkt als relevant und grenzwertrelevant eingestuften Parameter (Gehalte im Eluat) durchzuführen. Für die Perkolationsprüfung ist entweder die ÖNORM EN 14405 oder die DIN 19528, für die Prüfung der pH-Abhängigkeit ist die ÖNORM EN 14997 oder die ÖNORM EN 14429 anzuwenden. Die Ergebnisse aus diesen Untersuchungen sind bei der Beurteilung des Deponieverhaltens miteinzubeziehen.
 
 Einhaltung der Grenzwerte
 

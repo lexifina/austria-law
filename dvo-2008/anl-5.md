@@ -22,7 +22,7 @@ Eignungsprüfung im Rahmen der grundlegenden Charakterisierung Zusätzlich zu de
 
 - 1. Untersuchung des verfestigten Abfalls: Herstellung und Lagerung von Probekörpern gemäß ÖNORM S 2116-1 „Untersuchung stabilisierter Abfälle – Teil 1: Herstellung der Probekörper“, ausgegeben am 1. Jänner 2010, und Elution nach einer Aushärtezeit von 28 bis höchstens 56 Tagen; bei Verfestigung mit hydraulischen Bindemitteln jedenfalls nach 28 Tagen; die Elution ist an Probekörpern, welche auf 10 mm gebrochen wurden, gemäß ÖNORM EN 12457-4 „Charakterisierung von Abfällen – Auslaugung – Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)“, ausgegeben am 1. Jänner 2003, vorzunehmen; der Mittelwert dieser Eluate hat die jeweiligen Grenzwerte einzuhalten;
 
-- 2. Untersuchung des Auslaugverhaltens des verfestigten Abfalls unter pH-Wert-Kontrolle gemäß ÖNORM EN 14997 „Charakterisierung von Abfällen – Untersuchung des Auslaugungsverhaltens – Einfluss des pH-Wertes auf die Auslaugung bei kontinuierlicher pH-Wert-Kontrolle“, ausgegeben am 1. April 2007, oder ÖNORM CEN/TS 14429 „Charakterisierung von Abfällen – Untersuchung des Auslaugverhaltens – Einfluss des pH-Wertes unter vorheriger Säure/Base Zugabe“, ausgegeben am 1. Jänner 2006;
+- 2. Untersuchung des Auslaugverhaltens des verfestigten Abfalls unter pH-Wert-Kontrolle gemäß ÖNORM EN 14997 oder ÖNORM EN 14429;
 
 - 3. entsprechend den Gegebenheiten auf den jeweiligen Kompartimenten sind Vorgaben für physikalische Eigenschaften, insbesondere hinsichtlich der Standsicherheit des Deponiekörpers, festzulegen (zB Druckfestigkeit, Wasserdurchlässigkeit, geotechnisches Verhalten) und es ist zu untersuchen, ob der Abfall diese Vorgaben einhält;
 
@@ -90,7 +90,7 @@ Bei stabilisierten Schlacken und Aschen aus (Mit)Verbrennungsanlagen gemäß Abf
 
 b) Untersuchung der Verfügbarkeit von Schadstoffen für die Auslaugung (Verfügbarkeitstest)
 
-Zur Bestimmung des Anteils von Schadstoffen, welcher in langen Zeiträumen unter extremen Bedingungen ausgelaugt werden kann, ist ein Verfügbarkeitstest gemäß ÖNORM S 2116-5 „Untersuchung verfestigter Abfälle – Verfügbarkeitstest“, ausgegeben am 1. Jänner 2001, durchzuführen. Die Säureneutralisationskapazität und die Verfügbarkeiten der relevanten Parameter sind zu bestimmen. Welche Parameter für diesen Versuch relevant sind, ist aufgrund der Gehalte im Feststoff und im Eluat aus den 24-stündigen Versuchen mit dem nicht stabilisierten Abfall und dem stabilisierten Abfall zu ermitteln. Die Parameterauswahl ist zu begründen.
+Zur Bestimmung des Anteils von Schadstoffen, welcher in langen Zeiträumen unter extremen Bedingungen ausgelaugt werden kann, ist ein Verfügbarkeitstest gemäß ÖNORM S 2116-5 durchzuführen. Die Säureneutralisationskapazität und die Verfügbarkeiten der relevanten Parameter sind zu bestimmen. Welche Parameter für diesen Versuch relevant sind, ist aufgrund der Gehalte im Feststoff und im Eluat aus den 24-stündigen Versuchen mit dem nicht stabilisierten Abfall und dem stabilisierten Abfall zu ermitteln. Die Parameterauswahl ist zu begründen.
 
 c) Parameterauswahl für alle weiteren Eluatuntersuchungen
 
@@ -98,11 +98,11 @@ Aufgrund der Ergebnisse der grundlegenden Charakterisierung des nicht stabilisie
 
 d) Elution über 64 Tage
 
-Zur Beurteilung des mittelfristigen Auslaugverhaltens ist ein Elutionstest über 64 Tage gemäß ÖNORM S 2116-4 „Untersuchung verfestigter Abfälle – Elutionstests über 24 Stunden, 64 Tage, 2 Tage“, ausgegeben am 1. Jänner 2001, durchzuführen. Jedes der Eluate ist auf die gemäß lit. c festgesetzten Parameter zu analysieren. Zusätzlich ist zumindest ein Element zu untersuchen, welches unabhängig vom pH-Wert in der Porenflüssigkeit gut löslich ist und nur eine vernachlässigbare chemische Wechselwirkung mit der Matrix aufweist (Natrium oder Kalium). Die Bestimmung von Natrium oder Kalium dient nur zur Evaluierung des Stofftransportmechanismus. Die aus dem stabilisierten Abfall ausgelaugten Stoffmengen sind gemäß ÖNORM S 2116-4 zu bestimmen und die Stofftransportmechanismen abzuschätzen. Die Ergebnisse des Versuchs sind detailliert zu beschreiben.
+Zur Beurteilung des mittelfristigen Auslaugverhaltens ist ein Elutionstest über 64 Tage gemäß ÖNORM EN 15863, durchzuführen. Jedes der Eluate ist auf die gemäß lit. c festgesetzten Parameter zu analysieren. Zusätzlich ist zumindest ein Element zu untersuchen, welches unabhängig vom pH-Wert in der Porenflüssigkeit gut löslich ist und nur eine vernachlässigbare chemische Wechselwirkung mit der Matrix aufweist (Natrium oder Kalium). Die Bestimmung von Natrium oder Kalium dient nur zur Evaluierung des Stofftransportmechanismus. Die aus dem stabilisierten Abfall ausgelaugten Stoffmengen sind gemäß ÖNORM EN 15863 zu bestimmen und die Stofftransportmechanismen abzuschätzen. Die Ergebnisse des Versuchs sind detailliert zu beschreiben.
 
 e) Elution über zwei Tage
 
-Der Elutionstest über zwei Tage ist gemäß ÖNORM S 2116-4 durchzuführen. Jedes der drei Eluate ist auf die gemäß lit. c festgesetzten Parameter zu analysieren.
+Der Elutionstest über zwei Tage ist gemäß ÖNORM EN 15863 durchzuführen. Jedes der drei Eluate ist auf die gemäß lit. c festgesetzten Parameter zu analysieren.
 
 Dieser Elutionstest ist im Rahmen der Untersuchungen zur Langzeitbeständigkeit anzuwenden. Ferner dient dieser Versuch zur laufenden Überprüfung stabilisierter Abfälle (Übereinstimmungsbeurteilungen) und für Identitätskontrollen.
 
@@ -228,7 +228,7 @@ a) Elution über 24 Stunden (Umspülungseluat)
 
 Für diesen Test kann der Probekörper in ein feinmaschiges Gittergefäß oder Kunststoffnetz eingebracht werden, wobei die Oberfläche des Probekörpers frei umspülbar sein muss.
 
-Die Elution über 24 Stunden ist analog der ÖNORM S 2116-4 „Untersuchung verfestigter Abfälle – Elutionstests über 24 Stunden, 64 Tage, 2 Tage“, ausgegeben am 1. Jänner 2001, vorzunehmen. Allfällige Abweichungen, die sich aufgrund der Besonderheit des immobilisierten Abfalls als notwendig erweisen, sind zulässig, müssen jedoch dokumentiert werden.
+Die Elution über 24 Stunden ist analog der ÖNORM S 2116-4, vorzunehmen. Allfällige Abweichungen, die sich aufgrund der Besonderheit des immobilisierten Abfalls als notwendig erweisen, sind zulässig, müssen jedoch dokumentiert werden.
 
 Das Eluat ist auf all jene Parameter zu untersuchen, die aufgrund der Beurteilung des nicht immobilisierten Abfalls und des Wissens über die Art der mineralischen Hilfsstoffe, unter Bedachtnahme auf mögliche Wechselwirkungen, relevant sein könnten.
 
