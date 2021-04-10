@@ -96,9 +96,9 @@ A. Kennzeichentafeln und Formate
 
 | Motorfahrräder (MFT) | – | rot | weiß | – | 6 *) | VI |
 
-| Motorrad (MRT) | + | weiß | schwarz | + | 4 **) | VII,VIII |
+| Motorrad (MRT) | + | weiß | schwarz | + | 4 bis 6 **) | VII,VIII |
 
-| *) Anzahl der Zeichen insgesamt (Zulassungsbereich + Vormerkzeichen) **) Anzahl der Vormerkzeichen bei Nachbestellungen und Wunschkennzeichen bis zu 6 Zeichen ***) Anzahl der Vormerkzeichen bei den in den Landeshauptstätten und Wien zugewiesenen Kennzeichen bis zu 4 Zeichen |
+| *) Anzahl der Zeichen insgesamt (Zulassungsbereich + Vormerkzeichen) **) Anzahl der Vormerkzeichen bei Nachbestellungen und Wunschkennzeichen bis zu 6 Zeichen ***) Anzahl der Vormerkzeichen bei den in den Landeshauptstädten und Wien zugewiesenen Kennzeichen bis zu 4 Zeichen |
 
 | KENNZEICHENFORMATE |
 
@@ -126,7 +126,7 @@ A. Kennzeichentafeln und Formate
 
 ### A.1. Maße und Schriftfelder
 
-/Dokumente/Bundesnormen/NOR40219375/image001.jpg
+/Dokumente/Bundesnormen/NOR40232546/image001.jpg
 
 | a: Breite des Feldes A (mm) |
 
@@ -152,17 +152,17 @@ A. Kennzeichentafeln und Formate
 
 | – mit einem Zeichen : 32 (bei W : 44, A:35, I : 9, L : 28) | – mit zwei Zeichen: max. 90 |
 
-/Dokumente/Bundesnormen/NOR40219375/image002.png
+/Dokumente/Bundesnormen/NOR40232546/image002.png
 
-/Dokumente/Bundesnormen/NOR40219375/image003.png
+/Dokumente/Bundesnormen/NOR40232546/image003.png
 
-/Dokumente/Bundesnormen/NOR40219375/image004.png
+/Dokumente/Bundesnormen/NOR40232546/image004.png
 
-/Dokumente/Bundesnormen/NOR40219375/image005.png
+/Dokumente/Bundesnormen/NOR40232546/image005.png
 
 Bei Nachbestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten mit sechs Vormerkzeichen steht die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile.
 
-/Dokumente/Bundesnormen/NOR40219375/image006.jpg
+/Dokumente/Bundesnormen/NOR40232546/image006.jpg
 
 m: Breite des Feldes MI (mm):
 
@@ -170,9 +170,9 @@ m: Breite des Feldes MI (mm):
 
 - – mit zwei Zeichen. max 78
 
-/Dokumente/Bundesnormen/NOR40219375/image007.jpg
+/Dokumente/Bundesnormen/NOR40232546/image007.jpg
 
-/Dokumente/Bundesnormen/NOR40219375/image008.png
+/Dokumente/Bundesnormen/NOR40232546/image008.png
 
 Für VZT Muster VI: Untergrund der Tafel blau mit roten Feld mit Angabe der letzten zwei Ziffern der Jahreszahl des Kalenderjahres in dem die Zulassung erlischt.
 
@@ -180,17 +180,17 @@ Für PKT Muster VI: Untergrund der Tafel blau.
 
 ### Überstellungskennzeichen ÜKT einzeilig, Maße wie Muster IV
 
-/Dokumente/Bundesnormen/NOR40219375/image009.png
+/Dokumente/Bundesnormen/NOR40232546/image009.png
 
 ### Überstellungskennzeichen ÜKT zweizeilig, Maße wie Muster V
 
-/Dokumente/Bundesnormen/NOR40219375/image010.png
+/Dokumente/Bundesnormen/NOR40232546/image010.png
 
 ### A.1.1. EU-Emblem
 
-/Dokumente/Bundesnormen/NOR40219375/image011.png
+/Dokumente/Bundesnormen/NOR40232546/image011.png
 
-/Dokumente/Bundesnormen/NOR40219375/image012.jpg
+/Dokumente/Bundesnormen/NOR40232546/image012.jpg
 
 A.2. Inhalte der Felder
 
@@ -198,7 +198,7 @@ A.2. Inhalte der Felder
 
 | EU | I, III, VII, VIII | EU-Emblem, (siehe Muster EU) |
 
-| A | I, III | /Dokumente/Bundesnormen/NOR40219375/image013.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
+| A | I, III | /Dokumente/Bundesnormen/NOR40232546/image013.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
 
 | AI | Ia, IIIa, IV, V |
 
@@ -238,7 +238,7 @@ Zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – m
 
 ### A.2.1. Herstellerzeichen
 
-/Dokumente/Bundesnormen/NOR40219375/image014.png
+/Dokumente/Bundesnormen/NOR40232546/image014.png
 
 Das Herstellerzeichen besteht aus einer vereinfachten Darstellung des Bundeswappens mit der Umschrift „Republik Österreich“ in Blockbuchstaben mit mindestens 1 mm Höhe und mit der dem Kennzeichentafelhersteller verliehenen Kontrollnummer unterhalb der Umschrift. Wappen und Kontrollnummer müssen von einer elliptischen Prägeleiste mit den Hauptdurchmessern 12 mm × 18 mm umgeben sein.
 
@@ -254,7 +254,7 @@ Die Wappen sind nach den Darstellungen in transluszierendem Druck herzustellen; 
 
 | Gold | Gelb |
 
-Abmessungen und Aussehen der Wappen und der Schriftzeichen sind gemäß den beim Bundesminister für Verkehr, Innovation und Technologie aufliegenden Mustern zu gestalten.
+Abmessungen und Aussehen der Wappen und der Schriftzeichen sind gemäß den beim Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie aufliegenden Mustern zu gestalten.
 
 (_______________________
 
@@ -262,7 +262,7 @@ Anm. 1: Z 8 der Novelle BGBl. II Nr. 350/2019 lautet: „In der Anlage 5e wird i
 
 ### A.2.3. Ablaufvignette
 
-/Dokumente/Bundesnormen/NOR40219375/image015.png
+/Dokumente/Bundesnormen/NOR40232546/image015.png
 
 Auf den Kennzeichentafeln für Überstellungskennzeichen ist der Aufdruck „gültig bis“ bzw. „valid until“ anzubringen und Raum für die aufzuklebende Etikette freizulassen; diese ist mit dem Ablaufdatum zu lochen. Die Etikette ist dann auf die Kennzeichentafel an der dafür vorgesehenen Stelle aufzukleben.
 
@@ -272,19 +272,19 @@ Material der Ablaufvignette: Selbstklebende, retroreflektierende, mit Wasserzeic
 
 ### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1
 
-/Dokumente/Bundesnormen/NOR40219375/image016.png
+/Dokumente/Bundesnormen/NOR40232546/image016.png
 
 ### Schriftzeichen für Felder AI, CI, DI, EI
 
-/Dokumente/Bundesnormen/NOR40219375/image017.png
+/Dokumente/Bundesnormen/NOR40232546/image017.png
 
 ### Schriftzeichen für Felder F, G, H, K
 
-/Dokumente/Bundesnormen/NOR40219375/image018.png
+/Dokumente/Bundesnormen/NOR40232546/image018.png
 
 ### Schriftzeichen für Felder L, M (nur bei mehr als vier Vormerkzeichen)
 
-/Dokumente/Bundesnormen/NOR40219375/image019.png
+/Dokumente/Bundesnormen/NOR40232546/image019.png
 
 Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarzer biegefester thermischer Beschichtungsfolie versehen sein, dass die auf den geprägten Schriftzeichen vorhandenen schwarzen Flächen folgende Maße (in mm, Toleranz + 0,5 / – 1,0 mm) ergeben:
 
@@ -420,7 +420,7 @@ Die weißen Flächen an den Stirnseiten der hochgeprägten Schriftzeichen müsse
 
 ### B.1. Beschaffenheit der Kennzeichentafeln
 
-Die Ausführung der einzelnen Kennzeichentafelarten muss den beim Bundesminister für Verkehr, Innovation und Technologie aufliegenden Mustern entsprechen.
+Die Ausführung der einzelnen Kennzeichentafelarten muss den beim Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie aufliegenden Mustern entsprechen.
 
 Die Ecken der Tafeln müssen mit einem Radius von 7 mm abgerundet sein.
 
@@ -438,7 +438,7 @@ Die weißen Kennzeichen müssen entlang ihren Längsrändern mit je zwei im Abst
 
 Die Folien müssen retroreflektierend und PVC-frei sein und auf einer Seite eine haltbare, druckempfindliche und selbstklebende Beschichtung aufweisen.
 
-Die katadioptrisch wirkenden Elemente der Folie müssen in einer transparenten Kunstharzschicht liegen. Ist die Folie mit Schutzzeichen ausgerüstet, so müssen diese vom Bundesminister für Verkehr, Innovation und Technologie anerkannt sein. Sie müssen in der rückstrahlenden Schicht der Folie eingebracht sein und dürfen nicht durch chemische oder physikalische Einflüsse trennbar sein, ohne diese zu zerstören. Sie müssen während der gesamten Lebensdauer der Kennzeichentafeln sichtbar sein. Die Abstände zwischen benachbarten Schutzzeichen dürfen in einer Richtung gemessen 110 mm, in der dazu senkrechten Richtung gemessen 80 mm nicht übersteigen.
+Die katadioptrisch wirkenden Elemente der Folie müssen in einer transparenten Kunstharzschicht liegen. Ist die Folie mit Schutzzeichen ausgerüstet, so müssen diese vom Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie anerkannt sein. Sie müssen in der rückstrahlenden Schicht der Folie eingebracht sein und dürfen nicht durch chemische oder physikalische Einflüsse trennbar sein, ohne diese zu zerstören. Sie müssen während der gesamten Lebensdauer der Kennzeichentafeln sichtbar sein. Die Abstände zwischen benachbarten Schutzzeichen dürfen in einer Richtung gemessen 110 mm, in der dazu senkrechten Richtung gemessen 80 mm nicht übersteigen.
 
 Nach dem Aufbringen der Grundfolie auf eine für die Herstellung von Kennzeichentafeln geeignete Platine darf die Grundfolie von der Platine nicht mehr als Ganzes abnehmbar sein. Die Grundfolie muss auch nach der Verarbeitung der Platine eine glatte Oberfläche aufweisen und frei von Poren, Rissen, Schuppen oder Flecken sein. Die Grundfolie muss den im Punkt B 2.5 sowie Punkt B3 angegebenen Anforderungen entsprechen.
 
@@ -462,7 +462,7 @@ Für die Prüfung sind je zehn Kennzeichentafeln (Prüfmuster) der geprüften Au
 
 ### B 2.4.2. Durchführung der Prüfung:
 
-Der Bundesminister für Verkehr, Innovation und Technologie kann jederzeit Stichproben der Serienherstellung entnehmen und auf Kosten des Herstellers die Prüfung auf Einhaltung der Lieferbedingungen veranlassen. Die entnommenen Kennzeichentafeln sind dem Bundesminister für Verkehr, Innovation und Technologie zu überlassen. Jedenfalls ist nach jeder Neuerteilung einer Ermächtigung zur Herstellung von Kennzeichentafeln eine Prüfung von Kennzeichenmustern aller Arten und Typen im genannten Sinne vor Erstauslieferung an die beliehenen Versicherer oder Behörden durchzuführen. Ohne vollständig ordnungsgemäßes Prüfergebnis darf keine Auslieferung erfolgen.
+Der Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie kann jederzeit Stichproben der Serienherstellung entnehmen und auf Kosten des Herstellers die Prüfung auf Einhaltung der Lieferbedingungen veranlassen. Die entnommenen Kennzeichentafeln sind dem Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie zu überlassen. Jedenfalls ist nach jeder Neuerteilung einer Ermächtigung zur Herstellung von Kennzeichentafeln eine Prüfung von Kennzeichenmustern aller Arten und Typen im genannten Sinne vor Erstauslieferung an die beliehenen Versicherer oder Behörden durchzuführen. Ohne vollständig ordnungsgemäßes Prüfergebnis darf keine Auslieferung erfolgen.
 
 ### B 2.4.3. Prüfungsverfahren für Kennzeichentafeln:
 
@@ -624,7 +624,7 @@ __________
 
 Anforderungen an die Hersteller
 
-1. Die Hersteller sind verpflichtet, die Kennzeichentafeln mit den Materialien und den technischen Einrichtungen herzustellen, die den Bedingungen des Herstellungsverfahren entsprechen. Beabsichtigte Änderungen im Herstellungsverfahren oder bei den Materialien bedürfen der vorherigen Genehmigung durch den Bundesminister für Verkehr, Innovation und Technologie.
+1. Die Hersteller sind verpflichtet, die Kennzeichentafeln mit den Materialien und den technischen Einrichtungen herzustellen, die den Bedingungen des Herstellungsverfahren entsprechen. Beabsichtigte Änderungen im Herstellungsverfahren oder bei den Materialien bedürfen der vorherigen Genehmigung durch den Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie.
 
 2. Der Hersteller übernimmt die Gewährleistung dafür, dass die Kennzeichen laut Vorschriften dieser Verordnung ordnungsgemäß hergestellt werden und dass bei sachgemäßer Verwendung unter normalen Klimabedingungen die technischen Werte fünf Jahre im geforderten Ausmaß erhalten bleiben.
 

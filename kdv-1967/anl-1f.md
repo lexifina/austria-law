@@ -56,7 +56,7 @@
 
   - h) zu Anhang 10 Z 2: Bei Sattelzugfahrzeugen und Sattelanhängern tritt an die Stelle des Symbols für die Abbremsung J:g das
 
-/Dokumente/Bundesnormen/NOR40050955/image001.png
+/Dokumente/Bundesnormen/NOR40232541/image001.png
 
 .
 
@@ -248,7 +248,7 @@ wobei die Zeichen bedeuten
 
 | 3.3.2. | Die Betätigungseinrichtung muß so beschaffen sein, daß ihre Wirkungsweise im Betrieb nicht vom Prüfer beeinflußt wird. |
 
-| 3.3.3. | Der Simulator muß zB durch Wahl der Blende nach 3.3.1. so eingestellt sein, daß bei Anschluß eines Kalibrierbehälters von 385 ±5 cm3 die Zeit für den Druckanstieg von 0,65 bar auf 4,9 bar 0,2 ±0,01 Sekunden beträgt. Bei Anschluß eines Kalibrierbehälters von 1 155 ±15 cm3 anstelle des vorher erwähnten muß – ohne erneute Justierung – die Zeit für den Druckanstieg von 0,65 bar auf 4,9 bar 0,38 /Dokumente/Bundesnormen/NOR40050955/image002.png 0,02 Sekunden betragen. Zwischen diesen beiden Werten muß der Druck annähernd linear mit der Zeit ansteigen. Die Kalibrierbehälter müssen ohne Zwischenschaltung von flexiblen Leitungen an die Kupplungsköpfe angeschlossen werden, und die zugehörigen Leitungen dürfen an keiner Stelle einen Innendurchmesser von weniger als 10 mm aufweisen. |
+| 3.3.3. | Der Simulator muß zB durch Wahl der Blende nach 3.3.1. so eingestellt sein, daß bei Anschluß eines Kalibrierbehälters von 385 ±5 cm3 die Zeit für den Druckanstieg von 0,65 bar auf 4,9 bar 0,2 ±0,01 Sekunden beträgt. Bei Anschluß eines Kalibrierbehälters von 1 155 ±15 cm3 anstelle des vorher erwähnten muß – ohne erneute Justierung – die Zeit für den Druckanstieg von 0,65 bar auf 4,9 bar 0,38 /Dokumente/Bundesnormen/NOR40232541/image002.png 0,02 Sekunden betragen. Zwischen diesen beiden Werten muß der Druck annähernd linear mit der Zeit ansteigen. Die Kalibrierbehälter müssen ohne Zwischenschaltung von flexiblen Leitungen an die Kupplungsköpfe angeschlossen werden, und die zugehörigen Leitungen dürfen an keiner Stelle einen Innendurchmesser von weniger als 10 mm aufweisen. |
 
 | 3.3.4. | Das Schema in der Anlage zu diesem Anhang zeigt ein Beispiel für die Ausführungen und den Gebrauch des Simulators. |
 
@@ -268,11 +268,11 @@ wobei die Zeichen bedeuten
 
 | 1. | Kalibrierer des Simulators |
 
-/Dokumente/Bundesnormen/NOR40050955/image003.png
+/Dokumente/Bundesnormen/NOR40232541/image003.png
 
 | 2. | Bei Prüfung des Anhängers |
 
-/Dokumente/Bundesnormen/NOR40050955/image004.png
+/Dokumente/Bundesnormen/NOR40232541/image004.png
 
 | A | = | Auffülleinrichtung mit Absperrventil | PP | = | Prüfanschluß |
 
@@ -590,7 +590,7 @@ wobei die Zeichen bedeuten
 
 | 3.1.3. | Für die Überprüfung der Übereinstimmung mit den Vorschriften nach 3.1.1. muß der Erzeuger die Reibungskurven der Vorderachse und der Hinterachse gemäß nachstehenden Formeln nachweisen: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image005.png /Dokumente/Bundesnormen/NOR40050955/image006.png |
+| /Dokumente/Bundesnormen/NOR40232541/image005.png /Dokumente/Bundesnormen/NOR40232541/image006.png |
 
 | 3.1.4. | Kraftfahrzeuge außer Sattelzugfahrzeuge. |
 
@@ -602,7 +602,7 @@ wobei die Zeichen bedeuten
 
 | Die Höhe des Schwerpunktes ist vom Erzeuger anzugeben. Für Fahrzeuge, die mit einer Druckluftbremsanlage ausgerüstet sind, muß |
 
-| das Verhältnis /Dokumente/Bundesnormen/NOR40050955/image007.png bzw. /Dokumente/Bundesnormen/NOR40050955/image007.png in Abhängigkeit vom Druck pm in den im Diagramm 2 angegebenen Bereichen liegen. |
+| das Verhältnis /Dokumente/Bundesnormen/NOR40232541/image007.png bzw. /Dokumente/Bundesnormen/NOR40232541/image007.png in Abhängigkeit vom Druck pm in den im Diagramm 2 angegebenen Bereichen liegen. |
 
 | 3.1.5. | Sattelzugfahrzeuge Die Kurven sind für folgende Beladungszustände aufzuzeichnen: |
 
@@ -612,7 +612,7 @@ wobei die Zeichen bedeuten
 
 | 3.1.5.1.2. | Sattelzugfahrzeug mit beladenem Sattelanhänger Ein Sattelzugfahrzeug in betriebsbereitem Zustand einschließlich Lenker und einem beladenen Sattelanhänger wird als beladenes Sattelkraftfahrzeug betrachtet. Die auf das Sattelzugfahrzeug übertragene dynamische Belastung des Sattelanhängers wird durch ein Gewicht PS dargestellt, das auf die Sattelkupplung wirkt und folgende Größe hat: Ps = Pso (1 + 0,45 z) wobei Pso die Differenz zwischen dem Höchstgewicht des Sattelzugfahrzeuges und seinem Eigengewicht ist. Für h ist folgender Wert einzusetzen: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image008.png |
+| /Dokumente/Bundesnormen/NOR40232541/image008.png |
 
 | darin bedeuten: |
 
@@ -620,7 +620,7 @@ wobei die Zeichen bedeuten
 
 | P = Po + Ps = P1 + P2. |
 
-| 3.1.5.1.3. | Für Fahrzeuge mit Druckluftbremsanlage muß das zulässigeVerhältnis /Dokumente/Bundesnormen/NOR40050955/image009.png in Abhängigkeit vom Druck pm in den im Diagramm 3 angegebenen Bereichen liegen. |
+| 3.1.5.1.3. | Für Fahrzeuge mit Druckluftbremsanlage muß das zulässigeVerhältnis /Dokumente/Bundesnormen/NOR40232541/image009.png in Abhängigkeit vom Druck pm in den im Diagramm 3 angegebenen Bereichen liegen. |
 
 | 3.2. | Kraftfahrzeuge mit mehr als 2 Achsen Für Fahrzeuge mit mehr als 2 Achsen gelten die Vorschriften nach 3.1. Die Vorschriften nach 3.1.1. gelten hinsichtlich der Blockierreihenfolge als erfüllt, wenn bei einer Abbremsung zwischen 0,15 und 0,30 der an einer der Vorderachsen benötigte Kraftschlußbeiwert höher ist als der an einer der Hinterachsen. |
 
@@ -628,7 +628,7 @@ wobei die Zeichen bedeuten
 
 | 4.1. | Sattelanhänger mit Druckluftbremsanlagen |
 
-| 4.1.1. | Bei Sattelanhängern mit Druckluftbremsanlage muß das zulässige Verhältnis /Dokumente/Bundesnormen/NOR40050955/image007.png in Abhängigkeit vom Druck pm für alle zulässigen Achsbelastungen in zwei Bereichen liegen, die aus dem Diagramm 4 A und 4 B für den leeren und für den beladenen Zustand zu entnehmen sind. Diese Vorschrift muß für alle zulässigen Achsbelastungen des Sattelanhängers erfüllt sein. |
+| 4.1.1. | Bei Sattelanhängern mit Druckluftbremsanlage muß das zulässige Verhältnis /Dokumente/Bundesnormen/NOR40232541/image007.png in Abhängigkeit vom Druck pm für alle zulässigen Achsbelastungen in zwei Bereichen liegen, die aus dem Diagramm 4 A und 4 B für den leeren und für den beladenen Zustand zu entnehmen sind. Diese Vorschrift muß für alle zulässigen Achsbelastungen des Sattelanhängers erfüllt sein. |
 
 | 5. | Vorschriften für Anhänger |
 
@@ -668,7 +668,7 @@ wobei die Zeichen bedeuten
 
 ### (siehe 3.1.1)
 
-/Dokumente/Bundesnormen/NOR40050955/image010.png
+/Dokumente/Bundesnormen/NOR40232541/image010.png
 
 ### DIAGRAMM 1 B
 
@@ -676,7 +676,7 @@ wobei die Zeichen bedeuten
 
 ### (siehe 3.1.1)
 
-/Dokumente/Bundesnormen/NOR40050955/image011.png
+/Dokumente/Bundesnormen/NOR40232541/image011.png
 
 ### DIAGRAMM 2
 
@@ -684,31 +684,31 @@ wobei die Zeichen bedeuten
 
 ### (siehe 3.1.4.1)
 
-/Dokumente/Bundesnormen/NOR40050955/image012.png
+/Dokumente/Bundesnormen/NOR40232541/image012.png
 
 Zwischen den Werten
 
-/Dokumente/Bundesnormen/NOR40050955/image013.png
+/Dokumente/Bundesnormen/NOR40232541/image013.png
 
 und
 
-/Dokumente/Bundesnormen/NOR40050955/image014.png
+/Dokumente/Bundesnormen/NOR40232541/image014.png
 
 bzw.
 
-/Dokumente/Bundesnormen/NOR40050955/image015.png
+/Dokumente/Bundesnormen/NOR40232541/image015.png
 
 und
 
-/Dokumente/Bundesnormen/NOR40050955/image016.png
+/Dokumente/Bundesnormen/NOR40232541/image016.png
 
 ist es nicht erforderlich, daß das Verhältnis
 
-/Dokumente/Bundesnormen/NOR40050955/image017.png
+/Dokumente/Bundesnormen/NOR40232541/image017.png
 
 oder
 
-/Dokumente/Bundesnormen/NOR40050955/image018.png
+/Dokumente/Bundesnormen/NOR40232541/image018.png
 
 = proportional zu dem am Kupplungskopf der Bremsleitung gemessenen Druck ist.
 
@@ -718,19 +718,19 @@ oder
 
 ### (siehe 3.1.5)
 
-/Dokumente/Bundesnormen/NOR40050955/image019.png
+/Dokumente/Bundesnormen/NOR40232541/image019.png
 
 (1) Zwischen den Werten
 
-/Dokumente/Bundesnormen/NOR40050955/image013.png
+/Dokumente/Bundesnormen/NOR40232541/image013.png
 
 und
 
-/Dokumente/Bundesnormen/NOR40050955/image014.png
+/Dokumente/Bundesnormen/NOR40232541/image014.png
 
 ist es nicht erforderlich, daß das Verhältnis
 
-/Dokumente/Bundesnormen/NOR40050955/image017.png
+/Dokumente/Bundesnormen/NOR40232541/image017.png
 
 proportional zu dem am Kupplungskopf der Bremsleitung gemessenen Druck pm ist.
 
@@ -742,25 +742,25 @@ Das nach diesem Diagramm erforderliche Verhältnis gilt fortschreitend für die 
 
 ### (Siehe 4)
 
-/Dokumente/Bundesnormen/NOR40050955/image020.png
+/Dokumente/Bundesnormen/NOR40232541/image020.png
 
 Zwischen den Werten
 
-/Dokumente/Bundesnormen/NOR40050955/image021.png
+/Dokumente/Bundesnormen/NOR40232541/image021.png
 
 und
 
-/Dokumente/Bundesnormen/NOR40050955/image022.png
+/Dokumente/Bundesnormen/NOR40232541/image022.png
 
 ist es nicht erforderlich, daß das Verhältnis
 
-/Dokumente/Bundesnormen/NOR40050955/image023.png
+/Dokumente/Bundesnormen/NOR40232541/image023.png
 
 proportional zu dem am Kupplungskopf der Bremsleitung gemessenen Druck ist.
 
 Der Zusammenhang zwischen Abbremsung
 
-/Dokumente/Bundesnormen/NOR40050955/image024.png
+/Dokumente/Bundesnormen/NOR40232541/image024.png
 
 und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bestimmen: Die Faktoren Kc (beladen) und Kv (leer) sind mit Hilfe des Diagrammes 4 B zu ermitteln. Das „Beladen“- und das „Leer“-Band sind durch Multiplikation der Werte der oberen und der unteren Grenzlinie des Bandes in Diagramm 4 A mit dem jeweiligen Kc bzw. Kv zu bestimmen.
 
@@ -768,7 +768,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 ### (siehe 4)
 
-/Dokumente/Bundesnormen/NOR40050955/image025.png
+/Dokumente/Bundesnormen/NOR40232541/image025.png
 
 ### Tabelle 5
 
@@ -778,7 +778,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | Kontrolldaten | Belastung des Fahrzeugs | Achslast der Achse Nr. 2 (kg) | Eingangsdruck (bar) | Nenn- Ausgangsdruck (bar) |
 
-| /Dokumente/Bundesnormen/NOR40050955/image026.png | Höchstgewicht | 10 000 | 6 | 6 |
+| /Dokumente/Bundesnormen/NOR40232541/image026.png | Höchstgewicht | 10 000 | 6 | 6 |
 
 | Eigengewicht | 1 500 | 6 | 2,4 |
 
@@ -846,7 +846,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 5.1.2.3 | Die Bremsdauer t ist mit folgender Formel zu bestimmen: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image027.png (aber nicht weniger als 15 sec) |
+| /Dokumente/Bundesnormen/NOR40232541/image027.png (aber nicht weniger als 15 sec) |
 
 | wobei t in Sekunden ausgedrückt wird und vmax die Bauartgeschwindigkeit des Fahrzeuges in km/h mit einer oberen Grenze von 160 km/h darstellt. |
 
@@ -924,7 +924,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 1.1.3 | Zur Bestimmung der größten erreichbaren Abbremsung des Fahrzeuges sind mehrere Prüfungen bei verschiedenen Leitungsdrücken durchzuführen. Während jeder Prüfung muß ein konstanter, vorgegebener Druck aufrechterhalten werden, und die Abbremsung wird anhand der Zeit (t) bestimmt, die gebraucht wird, um die Geschwindigkeit von 40 km/h auf 20 km/h zu reduzieren. Dazu wird folgende Formel benutzt: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image028.png |
+| /Dokumente/Bundesnormen/NOR40232541/image028.png |
 
 | zmax ist der maximale Wert von z; t in Sekunden. |
 
@@ -936,7 +936,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 1.1.7 | Beispielsweise wird bei einem zweiachsigen Fahrzeug mit gebremster Vorderachse (1) der Kraftschlußbeiwert durch folgende Formel bestimmt: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image029.png |
+| /Dokumente/Bundesnormen/NOR40232541/image029.png |
 
 | Die Größen (P, h, E) sind im Anhang 10 erklärt. |
 
@@ -944,7 +944,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 1.2.1 | Die Kraftschlußausnutzung ε ist definiert als der Quotient aus der größten erreichbaren Abbremsung bei regelnder ABV (zmax) und dem Kraftschlußbeiwert (k), dh. |
 
-| /Dokumente/Bundesnormen/NOR40050955/image030.png |
+| /Dokumente/Bundesnormen/NOR40232541/image030.png |
 
 | 1.2.2 | Die Abbremsung (zmax) wird mit regelnder ABV gemessen und folgt aus dem Durchschnittswert von drei Prüfungen, wobei die Zeit berücksichtigt wird, die erforderlich ist, um die Geschwindigkeit von 40 km/h auf 20 km/h zu reduzieren, wie schon in Z 1.1.3 beschrieben. |
 
@@ -962,7 +962,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 2.1.3 | Folgende Bedingung ist für jede Achse zu überprüfen: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image031.png |
+| /Dokumente/Bundesnormen/NOR40232541/image031.png |
 
 | Dabei bedeuten: |
 
@@ -980,7 +980,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 2.2.2 | Bei Sattelanhängern ist das folgende Verfahren anzuwenden: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image032.png |
+| /Dokumente/Bundesnormen/NOR40232541/image032.png |
 
 | 2.2.2.1 | Die Kraftschlußausnutzung wird anhand folgender Formel berechnet: |
 
@@ -992,19 +992,19 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 2.2.2.2 | Der Wert für z0 kann durch das in Z 1.1.3 dieser Anlage beschriebene Verfahren zur Bestimmung der maximalen Abbremsung (z*) berechnet werden. |
 
-| Dann ist: /Dokumente/Bundesnormen/NOR40050955/image033.png |
+| Dann ist: /Dokumente/Bundesnormen/NOR40232541/image033.png |
 
 | Dabei bedeuten: |
 
 | TR = Bremskraft = z* . (P + PM) – 0,01 . W |
 
-| PRdyn = dynamische Last = /Dokumente/Bundesnormen/NOR40050955/image034.png |
+| PRdyn = dynamische Last = /Dokumente/Bundesnormen/NOR40232541/image034.png |
 
 | Die Größen sind im Anhang 10 definiert. (W ist die Achslast der ungebremsten Achsen). |
 
 | 2.2.2.3 | Der Wert zmax kann durch dasselbe Verfahren ermittelt werden: Wird die Abbremsung z* bei regelnder ABV gemessen und berechnet man TR und PRdyn mittels der in Z 2.2.2.2 genannten Formeln, dann ist |
 
-| /Dokumente/Bundesnormen/NOR40050955/image035.png |
+| /Dokumente/Bundesnormen/NOR40232541/image035.png |
 
 | Anlage 2 zum Anhang 13: |
 
@@ -1016,7 +1016,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 | 3 | Die vorgeschriebene Abbremsung (z3) für beladene Kraftfahrzeuge ist: |
 
-| /Dokumente/Bundesnormen/NOR40050955/image036.png und /Dokumente/Bundesnormen/NOR40050955/image037.png |
+| /Dokumente/Bundesnormen/NOR40232541/image036.png und /Dokumente/Bundesnormen/NOR40232541/image037.png |
 
 | Anhang 14 |
 
@@ -1072,7 +1072,7 @@ und Bremsleitungsdruck im beladenen und unbeladenen Zustand ist wie folgt zu bes
 
 Zuordnung von Abbremsung des Anhängers und mittlere Vollverzögerung J der Fahrzeugkombination von Zugfahrzeug und Anhänger (Anhänger beladen und unbeladen)
 
-/Dokumente/Bundesnormen/NOR40050955/image038.png
+/Dokumente/Bundesnormen/NOR40232541/image038.png
 
 ### Anmerkungen
 
@@ -1094,7 +1094,7 @@ ___________________
 
 3) Eine ABV mit Select-high-Regelung hat sowohl direkt als auch indirekt geregelte Räder; in Einrichtungen mit Select-low-Regelung gelten alle Räder mit Gebern als direkt geregelte Räder.
 
-4) Diese Norm liegt beim Bundesministerium für Verkehr, Innovation und Technologie zur Einsicht während der Amtsstunden auf.
+4) Diese Norm liegt beim Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie zur Einsicht während der Amtsstunden auf.
 
 5) Falls solche Fahrbahnoberflächen nicht zur Verfügung stehen, dürfen nach Ermessen des Sachverständigen bis zur Verschleißgrenze abgenutzte Reifen und höhere Kraftschlußbeiwerte bis maximal 0,4 verwendet werden. Der ermittelte Wert, die Reifentype und die Beschaffenheit der Fahrbahn sind festzuhalten.
 
