@@ -92,7 +92,7 @@ A. Kennzeichentafeln und Formate
 
 | Vorübergehende Zulassung (VZT) | – | blau/rot | weiß | + | 4 | IV,V |
 
-| Ausländische Anhänger (AAT) | – | rot | weiß | + | 6 | Ia, IIIa |
+| Ausländische Anhänger (AAT) | + | rot | weiß | + | 6 | I, III, jedoch ohne rot-weiß-roten Randstreifen |
 
 | Motorfahrräder (MFT) | – | rot | weiß | – | 6 *) | VI |
 
@@ -126,7 +126,7 @@ A. Kennzeichentafeln und Formate
 
 ### A.1. Maße und Schriftfelder
 
-/Dokumente/Bundesnormen/NOR40232546/image001.jpg
+/Dokumente/Bundesnormen/NOR40232547/image001.jpg
 
 | a: Breite des Feldes A (mm) |
 
@@ -152,17 +152,17 @@ A. Kennzeichentafeln und Formate
 
 | – mit einem Zeichen : 32 (bei W : 44, A:35, I : 9, L : 28) | – mit zwei Zeichen: max. 90 |
 
-/Dokumente/Bundesnormen/NOR40232546/image002.png
+/Dokumente/Bundesnormen/NOR40232547/image002.png
 
-/Dokumente/Bundesnormen/NOR40232546/image003.png
+/Dokumente/Bundesnormen/NOR40232547/image003.png
 
-/Dokumente/Bundesnormen/NOR40232546/image004.png
+/Dokumente/Bundesnormen/NOR40232547/image004.png
 
-/Dokumente/Bundesnormen/NOR40232546/image005.png
+/Dokumente/Bundesnormen/NOR40232547/image005.png
 
 Bei Nachbestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten mit sechs Vormerkzeichen steht die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile.
 
-/Dokumente/Bundesnormen/NOR40232546/image006.jpg
+/Dokumente/Bundesnormen/NOR40232547/image006.jpg
 
 m: Breite des Feldes MI (mm):
 
@@ -170,9 +170,9 @@ m: Breite des Feldes MI (mm):
 
 - – mit zwei Zeichen. max 78
 
-/Dokumente/Bundesnormen/NOR40232546/image007.jpg
+/Dokumente/Bundesnormen/NOR40232547/image007.jpg
 
-/Dokumente/Bundesnormen/NOR40232546/image008.png
+/Dokumente/Bundesnormen/NOR40232547/image008.png
 
 Für VZT Muster VI: Untergrund der Tafel blau mit roten Feld mit Angabe der letzten zwei Ziffern der Jahreszahl des Kalenderjahres in dem die Zulassung erlischt.
 
@@ -180,17 +180,17 @@ Für PKT Muster VI: Untergrund der Tafel blau.
 
 ### Überstellungskennzeichen ÜKT einzeilig, Maße wie Muster IV
 
-/Dokumente/Bundesnormen/NOR40232546/image009.png
+/Dokumente/Bundesnormen/NOR40232547/image009.png
 
 ### Überstellungskennzeichen ÜKT zweizeilig, Maße wie Muster V
 
-/Dokumente/Bundesnormen/NOR40232546/image010.png
+/Dokumente/Bundesnormen/NOR40232547/image010.png
 
 ### A.1.1. EU-Emblem
 
-/Dokumente/Bundesnormen/NOR40232546/image011.png
+/Dokumente/Bundesnormen/NOR40232547/image011.png
 
-/Dokumente/Bundesnormen/NOR40232546/image012.jpg
+/Dokumente/Bundesnormen/NOR40232547/image012.jpg
 
 A.2. Inhalte der Felder
 
@@ -198,7 +198,7 @@ A.2. Inhalte der Felder
 
 | EU | I, III, VII, VIII | EU-Emblem, (siehe Muster EU) |
 
-| A | I, III | /Dokumente/Bundesnormen/NOR40232546/image013.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
+| A | I, III | /Dokumente/Bundesnormen/NOR40232547/image013.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
 
 | AI | Ia, IIIa, IV, V |
 
@@ -238,7 +238,7 @@ Zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – m
 
 ### A.2.1. Herstellerzeichen
 
-/Dokumente/Bundesnormen/NOR40232546/image014.png
+/Dokumente/Bundesnormen/NOR40232547/image014.png
 
 Das Herstellerzeichen besteht aus einer vereinfachten Darstellung des Bundeswappens mit der Umschrift „Republik Österreich“ in Blockbuchstaben mit mindestens 1 mm Höhe und mit der dem Kennzeichentafelhersteller verliehenen Kontrollnummer unterhalb der Umschrift. Wappen und Kontrollnummer müssen von einer elliptischen Prägeleiste mit den Hauptdurchmessern 12 mm × 18 mm umgeben sein.
 
@@ -262,7 +262,7 @@ Anm. 1: Z 8 der Novelle BGBl. II Nr. 350/2019 lautet: „In der Anlage 5e wird i
 
 ### A.2.3. Ablaufvignette
 
-/Dokumente/Bundesnormen/NOR40232546/image015.png
+/Dokumente/Bundesnormen/NOR40232547/image015.png
 
 Auf den Kennzeichentafeln für Überstellungskennzeichen ist der Aufdruck „gültig bis“ bzw. „valid until“ anzubringen und Raum für die aufzuklebende Etikette freizulassen; diese ist mit dem Ablaufdatum zu lochen. Die Etikette ist dann auf die Kennzeichentafel an der dafür vorgesehenen Stelle aufzukleben.
 
@@ -272,19 +272,19 @@ Material der Ablaufvignette: Selbstklebende, retroreflektierende, mit Wasserzeic
 
 ### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1
 
-/Dokumente/Bundesnormen/NOR40232546/image016.png
+/Dokumente/Bundesnormen/NOR40232547/image016.png
 
 ### Schriftzeichen für Felder AI, CI, DI, EI
 
-/Dokumente/Bundesnormen/NOR40232546/image017.png
+/Dokumente/Bundesnormen/NOR40232547/image017.png
 
 ### Schriftzeichen für Felder F, G, H, K
 
-/Dokumente/Bundesnormen/NOR40232546/image018.png
+/Dokumente/Bundesnormen/NOR40232547/image018.png
 
 ### Schriftzeichen für Felder L, M (nur bei mehr als vier Vormerkzeichen)
 
-/Dokumente/Bundesnormen/NOR40232546/image019.png
+/Dokumente/Bundesnormen/NOR40232547/image019.png
 
 Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarzer biegefester thermischer Beschichtungsfolie versehen sein, dass die auf den geprägten Schriftzeichen vorhandenen schwarzen Flächen folgende Maße (in mm, Toleranz + 0,5 / – 1,0 mm) ergeben:
 
