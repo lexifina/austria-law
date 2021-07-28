@@ -14,7 +14,7 @@
 
 - 6. Vorarlberger Energienetze GmbH
 
-- 7. Netz Burgenland Erdgas GmbH
+- 7. Netz Burgenland GmbH
 
 - 8. Energienetze Steiermark GmbH
 
@@ -22,9 +22,9 @@
 
 - 10. Stadtwerke Bregenz GmbH
 
-- 11. LINZ GAS Netz GmbH
+- 11. LINZ NETZ GmbH
 
-- 12. Elektrizitätswerk Wels AG
+- 12. eww ag
 
 - 13. Stadtbetriebe Steyr GmbH
 
@@ -38,7 +38,7 @@
 
 - 18. Energie Klagenfurt GmbH
 
-- 19. EVA-Erdgasversorgung Außerfern GmbH
+- 19. Elektrizitätswerke Reutte AG
 
 - 20. GasNetz Veitsch
 
