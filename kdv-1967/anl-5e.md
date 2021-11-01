@@ -126,7 +126,7 @@ A. Kennzeichentafeln und Formate
 
 ### A.1. Maße und Schriftfelder
 
-/Dokumente/Bundesnormen/NOR40232548/image001.jpg
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img1is.jpg
 
 | a: Breite des Feldes A (mm) |
 
@@ -152,17 +152,17 @@ A. Kennzeichentafeln und Formate
 
 | – mit einem Zeichen : 32 (bei W : 44, A:35, I : 9, L : 28) | – mit zwei Zeichen: max. 90 |
 
-/Dokumente/Bundesnormen/NOR40232548/image002.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img2is.png
 
-/Dokumente/Bundesnormen/NOR40232548/image003.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img3is.png
 
-/Dokumente/Bundesnormen/NOR40232548/image004.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img4is.png
 
-/Dokumente/Bundesnormen/NOR40232548/image005.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img5is.png
 
 Bei Nachbestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten mit sechs Vormerkzeichen steht die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile.
 
-/Dokumente/Bundesnormen/NOR40232548/image006.jpg
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img6is.jpg
 
 m: Breite des Feldes MI (mm):
 
@@ -170,9 +170,9 @@ m: Breite des Feldes MI (mm):
 
 - – mit zwei Zeichen. max 78
 
-/Dokumente/Bundesnormen/NOR40232548/image007.jpg
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img7is.jpg
 
-/Dokumente/Bundesnormen/NOR40232548/image008.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img8is.png
 
 Für VZT Muster VI: Untergrund der Tafel blau mit roten Feld mit Angabe der letzten zwei Ziffern der Jahreszahl des Kalenderjahres in dem die Zulassung erlischt.
 
@@ -180,17 +180,17 @@ Für PKT Muster VI: Untergrund der Tafel blau.
 
 ### Überstellungskennzeichen ÜKT einzeilig, Maße wie Muster IV
 
-/Dokumente/Bundesnormen/NOR40232548/image009.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img9is.png
 
 ### Überstellungskennzeichen ÜKT zweizeilig, Maße wie Muster V
 
-/Dokumente/Bundesnormen/NOR40232548/image010.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img10is.png
 
 ### A.1.1. EU-Emblem
 
-/Dokumente/Bundesnormen/NOR40232548/image011.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img11is.png
 
-/Dokumente/Bundesnormen/NOR40232548/image012.jpg
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img12is.jpg
 
 A.2. Inhalte der Felder
 
@@ -198,7 +198,7 @@ A.2. Inhalte der Felder
 
 | EU | I, III, VII, VIII | EU-Emblem, (siehe Muster EU) |
 
-| A | I, III | /Dokumente/Bundesnormen/NOR40232548/image013.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
+| A | I, III | /Dokumente/Bundesnormen/NOR40232549/hauptdokument.img13is.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
 
 | AI | Ia, IIIa, IV, V |
 
@@ -238,7 +238,7 @@ Zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – m
 
 ### A.2.1. Herstellerzeichen
 
-/Dokumente/Bundesnormen/NOR40232548/image014.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img14is.png
 
 Das Herstellerzeichen besteht aus einer vereinfachten Darstellung des Bundeswappens mit der Umschrift „Republik Österreich“ in Blockbuchstaben mit mindestens 1 mm Höhe und mit der dem Kennzeichentafelhersteller verliehenen Kontrollnummer unterhalb der Umschrift. Wappen und Kontrollnummer müssen von einer elliptischen Prägeleiste mit den Hauptdurchmessern 12 mm × 18 mm umgeben sein.
 
@@ -262,7 +262,7 @@ Anm. 1: Z 8 der Novelle BGBl. II Nr. 350/2019 lautet: „In der Anlage 5e wird i
 
 ### A.2.3. Ablaufvignette
 
-/Dokumente/Bundesnormen/NOR40232548/image015.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img15is.png
 
 Auf den Kennzeichentafeln für Überstellungskennzeichen ist der Aufdruck „gültig bis“ bzw. „valid until“ anzubringen und Raum für die aufzuklebende Etikette freizulassen; diese ist mit dem Ablaufdatum zu lochen. Die Etikette ist dann auf die Kennzeichentafel an der dafür vorgesehenen Stelle aufzukleben.
 
@@ -272,19 +272,19 @@ Material der Ablaufvignette: Selbstklebende, retroreflektierende, mit Wasserzeic
 
 ### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1
 
-/Dokumente/Bundesnormen/NOR40232548/image016.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img16is.png
 
 ### Schriftzeichen für Felder AI, CI, DI, EI
 
-/Dokumente/Bundesnormen/NOR40232548/image017.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img17is.png
 
 ### Schriftzeichen für Felder F, G, H, K
 
-/Dokumente/Bundesnormen/NOR40232548/image018.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img18is.png
 
 ### Schriftzeichen für Felder L, M (nur bei mehr als vier Vormerkzeichen)
 
-/Dokumente/Bundesnormen/NOR40232548/image019.png
+/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img19is.png
 
 Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarzer biegefester thermischer Beschichtungsfolie versehen sein, dass die auf den geprägten Schriftzeichen vorhandenen schwarzen Flächen folgende Maße (in mm, Toleranz + 0,5 / – 1,0 mm) ergeben:
 
@@ -436,7 +436,7 @@ Die weißen Kennzeichen müssen entlang ihren Längsrändern mit je zwei im Abst
 
 ### B 2.1. Folie:
 
-Die Folien müssen retroreflektierend und PVC-frei sein und auf einer Seite eine haltbare, druckempfindliche und selbstklebende Beschichtung aufweisen.
+Die Folien müssen retroreflektierend und bei weißen Kennzeichentafeln mikroprismatisch sein und auf einer Seite eine haltbare, druckempfindliche und selbstklebende Beschichtung aufweisen.
 
 Die katadioptrisch wirkenden Elemente der Folie müssen in einer transparenten Kunstharzschicht liegen. Ist die Folie mit Schutzzeichen ausgerüstet, so müssen diese vom Bundesminister für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie anerkannt sein. Sie müssen in der rückstrahlenden Schicht der Folie eingebracht sein und dürfen nicht durch chemische oder physikalische Einflüsse trennbar sein, ohne diese zu zerstören. Sie müssen während der gesamten Lebensdauer der Kennzeichentafeln sichtbar sein. Die Abstände zwischen benachbarten Schutzzeichen dürfen in einer Richtung gemessen 110 mm, in der dazu senkrechten Richtung gemessen 80 mm nicht übersteigen.
 
@@ -554,11 +554,11 @@ Die spezifischen Rückstrahlwerte von beschichteten ungeprägten Platinen müsse
 
 | Farbe | Anleuchtwinkel | Minimaler Retroreflexionskoeffizient [cd/(1x/m2)] |
 
-| Weiß | 5 | 50 |
+| Weiß | 5 | 80 |
 
-| 30 | 24 |
+| 30 | 50 |
 
-| 40 | 11 |
+| 40 | 6 |
 
 | Rot | 5 | 10 |
 
@@ -590,11 +590,11 @@ Bei Messungen nach den Richtlinien der CIE-Publikation Nr. 15 (1971) und bei Bel
 
 | Farbe | 1 | 2 | 3 | 4 | Mindestleucht-dichtefaktor ß |
 
-| Weiß | x | 0,350 | 0,300 | 0,285 | 0,335 |
+| Weiß | x | 0,355 | 0,305 | 0,285 | 0,335 |
 
-| 0,35 |
+| 0,55 |
 
-| y | 0,360 | 0,310 | 0,325 | 0,375 |
+| y | 0,355 | 0,305 | 0,325 | 0,375 |
 
 | Rot | x | 0,690 | 0,595 | 0,569 | 0,655 |
 
