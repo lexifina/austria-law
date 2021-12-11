@@ -10,7 +10,7 @@
 
 | R3 | Recycling/Rückgewinnung organischer Stoffe, die nicht als Lösemittel verwendet werden (einschließlich der Kompostierung und sonstiger biologischer Umwandlungsverfahren) 2) |
 
-| R4 | Recycling/Rückgewinnung von Metallen und Metallverbindungen |
+| R4 | Recycling/Rückgewinnung von Metallen und Metallverbindungen 2a) |
 
 | R5 | Recycling/Rückgewinnung von anderen anorganischen Stoffen 3) |
 
@@ -60,19 +60,19 @@ Der Wert der Energieeffizienzformel wird mit einem Klimakorrekturfaktor (Climate
 
 CCF = 1, wenn HDD
 
-/Dokumente/Bundesnormen/NOR40193410/image001.png
+/Dokumente/Bundesnormen/NOR40239377/image001.png
 
 3 350
 
 CCF = 1,25, wenn HDD
 
-/Dokumente/Bundesnormen/NOR40193410/image002.png
+/Dokumente/Bundesnormen/NOR40239377/image002.png
 
 2 150
 
 CCF = – (0,25/1 200)
 
-/Dokumente/Bundesnormen/NOR40193410/image003.png
+/Dokumente/Bundesnormen/NOR40239377/image003.png
 
 HDD + 1,698, wenn 2 150 HDD 3 350
 
@@ -80,19 +80,19 @@ HDD + 1,698, wenn 2 150 HDD 3 350
 
 CCF = 1, wenn HDD
 
-/Dokumente/Bundesnormen/NOR40193410/image001.png
+/Dokumente/Bundesnormen/NOR40239377/image001.png
 
 3 350
 
 CCF = 1,12, wenn HDD
 
-/Dokumente/Bundesnormen/NOR40193410/image002.png
+/Dokumente/Bundesnormen/NOR40239377/image002.png
 
 2 150
 
 CCF = – (0,12/1 200)
 
-/Dokumente/Bundesnormen/NOR40193410/image003.png
+/Dokumente/Bundesnormen/NOR40239377/image003.png
 
 HDD + 1,335, wenn 2 150 HDD 3 350
 
@@ -100,13 +100,15 @@ HDD + 1,335, wenn 2 150 HDD 3 350
 
 Der HDD-Wert (Heating Degree Days, Heizgradtage) sollte dem Durchschnitt der jährlichen HDD-Werte für den Standort der Verbrennungsanlage entsprechen, berechnet für einen Zeitraum von 20 aufeinanderfolgenden Jahren vor dem Jahr, für das der CCF bestimmt wird. Der HDD-Wert sollte nach der folgenden Eurostat-Methode berechnet werden: HDD = (18 °C – Tm)
 
-/Dokumente/Bundesnormen/NOR40193410/image003.png
+/Dokumente/Bundesnormen/NOR40239377/image003.png
 
 d, wenn Tm weniger als oder gleich 15 °C (Heizschwelle) beträgt, und HDD = null, wenn Tm über 15 °C beträgt; dabei ist Tm die mittlere Außentemperatur (Tmin + Tmax)/2 über einen Zeitraum von d Tagen. Die Berechnungen sind täglich durchzuführen (d = 1) und auf ein Jahr hochzurechnen.
 
-- 2) Dies schließt Vergasung und Pyrolyse unter Verwendung der Bestandteile als Chemikalien ein.
+- 2) Dies schließt die Vorbereitung zur Wiederverwendung, Vergasung und Pyrolyse unter Verwendung der Bestandteile als Chemikalien und die Verwertung organischer Stoffe zur Verfüllung ein.
 
-- 3) Dies schließt die Bodenreinigung, die zu einer Verwertung des Bodens und zu einem Recycling anorganischer Baustoffe führt, ein.
+- 2a) Dies schließt die Vorbereitung zur Wiederverwendung ein.
+
+- 3) Dies schließt die Vorbereitung zur Wiederverwendung, das Recycling anorganischer Baustoffe, die Verwertung anorganischer Stoffe zur Verfüllung und die Bodenreinigung, die zu einer Verwertung des Bodens führt, ein.
 
 - 4) Falls sich kein anderer R-Code für die Einstufung eignet, kann dies vorbereitende Verfahren einschließen, die der Verwertung einschließlich der Vorbehandlung vorangehen, wie Demontage, Sortieren, Zerkleinern, Verdichten, Pelletieren, Trocknen, Schreddern, Konditionierung, Neuverpacken, Trennung, Vermengen oder Vermischen vor Anwendung eines der unter R1 bis R11 aufgeführten Verfahren.
 
