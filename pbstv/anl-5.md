@@ -6,7 +6,7 @@
 
 ### ANWENDUNGSBEREICH:
 
-Diese Prüfvorschrift gilt für selbstklebende, retroreflektierende Folien, mittels derer Begutachtungsplaketten gemäß § 57a Abs. 5 KFG 1967 hergestellt werden. Die Prüfvorschrift ist ein Teil der bei der Ermächtigung zur Herstellung gemäß § 57a Abs. 7 KFG 1967 vorgeschriebenen Auflagen und dient zur Sicherstellung der in § 7 angegebenen technischen Materialeigenschaften. Die Prüfvorschrift wird unter Berücksichtigung des Standes der Technik laufend aktualisiert. Die zur Herstellung der Begutachtungsplaketten ermächtigten Personen werden vom Bundesminister für Wissenschaft und Verkehr über Änderungen der Prüfvorschriften, die Auswirkungen auf die Herstellung haben, in Kenntnis gesetzt.
+Diese Prüfvorschrift gilt für selbstklebende, retroreflektierende Folien, mittels derer Begutachtungsplaketten gemäß § 57a Abs. 5 KFG 1967 hergestellt werden. Die Prüfvorschrift ist ein Teil der bei der Ermächtigung zur Herstellung gemäß § 57a Abs. 7 KFG 1967 vorgeschriebenen Auflagen und dient zur Sicherstellung der in § 7 angegebenen technischen Materialeigenschaften. Die Prüfvorschrift wird unter Berücksichtigung des Standes der Technik laufend aktualisiert. Die zur Herstellung der Begutachtungsplaketten ermächtigten Personen werden vom Bundesminister oder die Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über Änderungen der Prüfvorschriften, die Auswirkungen auf die Herstellung haben, in Kenntnis gesetzt.
 
 - 1. ANTRAG
 
@@ -36,7 +36,7 @@ Diese Folienstücke müssen frei von Knicken und anderen Beschädigungen, die ih
 
 Die Folie muß auf der Vorderseite retroreflektierend sein und auf der Rückseite eine haltbare, druckempfindliche und selbstklebende Beschichtung aufweisen. Diese Klebeschicht muß bis zum Gebrauch mit einem ohne Zuhilfenahme von Hilfsmitteln abziehbaren Schutzsystem abgedeckt sein. Die rückstrahlend wirkenden Teile der Folie müssen vollständig unter einer glatten Oberfläche liegen; diese darf keine durch Augenschein erkennbaren Poren, Risse, Schuppen, Flecken oder Verwerfungen aufweisen.
 
-Die Folie muß ein vom Bundesminister für Wissenschaft und Verkehr genehmigtes Schutzzeichen aufweisen.
+Die Folie muß ein vom Bundesminister oder die Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie genehmigtes Schutzzeichen aufweisen.
 
 Das Schutzzeichen
 
