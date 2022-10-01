@@ -22,7 +22,7 @@
 
 | Berufserfahrung (ausbildungsadäquat oder in Führungsposition) | maximal anrechenbare Punkte: 20 |
 
-| Berufserfahrung (pro Jahr) sechsmonatige Berufserfahrung in Österreich | 2 10 |
+| Berufserfahrung (pro Halbjahr) sechsmonatige Berufserfahrung in Österreich | 1 10 |
 
 | Sprachkenntnisse | maximal anrechenbare Punkte: 10 |
 

@@ -12,9 +12,9 @@
 
 | Abschluss eines Studiums an einer tertiären Bildungseinrichtung mit dreijähriger Mindestdauer | 30 |
 
-| ausbildungsadäquate Berufserfahrung | maximal anrechenbare Punkte: 20 |
+| Berufserfahrung | maximal anrechenbare Punkte: 20 |
 
-| Berufserfahrung (pro Jahr) Berufserfahrung in Österreich (pro Jahr) | 2 4 |
+| Berufserfahrung (pro Halbjahr) Berufserfahrung in Österreich (pro Halbjahr) | 1 2 |
 
 | Sprachkenntnisse Deutsch | maximal anrechenbare Punkte: 15 |
 
@@ -28,6 +28,6 @@
 
 | bis 30 Jahre bis 40 Jahre | 15 10 |
 
-| Summe der maximal anrechenbaren Punkte Zusatzpunkte für Profisportler/innen und Profisporttrainer/innen | 90 20 |
+| Summe der maximal anrechenbaren Punkte Zusatzpunkte für Profisportler/innen und Profisporttrainer/innen Zusatzpunkte für Englischkenntnisse, sofern die vorherrschende Unternehmenssprache Englisch ist | 90 20 5 |
 
 | erforderliche Mindestpunkteanzahl | 55 |

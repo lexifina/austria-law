@@ -6,15 +6,11 @@
 
 | Qualifikation | maximal anrechenbare Punkte: 30 |
 
-| abgeschlossene Berufsausbildung im Mangelberuf | 20 |
-
-| allgemeine Universitätsreife im Sinne des § 64 Abs. 1 des Universitätsgesetzes 2002, BGBl. I Nr. 120 | 25 |
-
-| Abschluss eines Studiums an einer tertiären Bildungseinrichtung mit dreijähriger Mindestdauer | 30 |
+| abgeschlossene Berufsausbildung im Mangelberuf | 30 |
 
 | ausbildungsadäquate Berufserfahrung | maximal anrechenbare Punkte: 20 |
 
-| Berufserfahrung (pro Jahr) Berufserfahrung in Österreich (pro Jahr) | 2 4 |
+| Berufserfahrung (pro Halbjahr) Berufserfahrung in Österreich (pro Halbjahr) | 1 2 |
 
 | Sprachkenntnisse Deutsch | maximal anrechenbare Punkte: 15 |
 
@@ -26,8 +22,8 @@
 
 | Alter | maximal anrechenbare Punkte: 15 |
 
-| bis 30 Jahre bis 40 Jahre | 15 10 |
+| bis 30 Jahre bis 40 Jahre bis 50 Jahre | 15 10 5 |
 
-| Summe der maximal anrechenbaren Punkte | 90 |
+| Summe der maximal anrechenbaren Punkte Zusatzpunkte für Englischkenntnisse, sofern die vorherrschende Unternehmenssprache Englisch ist | 90 5 |
 
 | erforderliche Mindestpunkteanzahl | 55 |

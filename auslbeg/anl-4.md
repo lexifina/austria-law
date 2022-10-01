@@ -14,7 +14,7 @@
 
 | Berufserfahrung | maximal anrechenbare Punkte: 10 |
 
-| Berufserfahrung (pro Jahr) | 2 |
+| Berufserfahrung (pro Halbjahr) | 1 |
 
 | Sprachkenntnisse | maximal anrechenbare Punkte: 15 |
 
