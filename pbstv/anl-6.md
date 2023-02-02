@@ -232,6 +232,8 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Bremstrommel oder Bremsscheibe trägt nur auf weniger als 75% der Reibfläche | SM |
 
+| Trommel oder Scheibe abgenutzt | SM |
+
 | Trommel oder Scheibe übermäßig abgenutzt, übermäßige Riefenbildung | GV |
 
 | Trommel oder Scheibe gerissen | GV |
@@ -396,15 +398,15 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Mindestbremswirksamkeit |
 
-| Klasse M1:…………………………………………………………………………………. 58 % | 50% bei Fahrzeugen mit erstmaliger Zulassung vor dem 25.07.2010 |
+| Klasse M1 bis 3 500 kg:…………………………….……………………………………. 58 % | 50% bei Fahrzeugen mit erstmaliger Zulassung vor dem 25.07.2010 |
 
 | Klasse N1: ……………………………………………………………………………….. 50 % |
 
-| Klasse M2, M3:………………………………………………………………………….. 50 % | 48% bei Fahrzeugen, die nicht mit ABV ausgerüstet sind oder mit erstmaliger Zulassung vor dem 1.10.1991 |
+| Klasse M1 3 500 kg, M2, M3:…………………………………...…………………….. 50 % | 48% bei Fahrzeugen, die nicht mit ABV ausgerüstet sind oder mit erstmaliger Zulassung vor dem 1.10.1991 |
 
-| Klasse N2, N3:……………………………………………………………………………... 50 % | 43% bei Fahrzeugen mit erstmaliger Zulassung vor dem 01.01.1989 45% bei Fahrzeugen mit erstmaliger Zulassung vom 01.01.1989 bis zum 30.06.2012 |
+| Klasse N2, N3:……………………………………………………………….…………... 50 % | 43% bei Fahrzeugen mit erstmaliger Zulassung vor dem 01.01.1989 45% bei Fahrzeugen mit erstmaliger Zulassung vom 01.01.1989 bis zum 30.06.2012 |
 
-| Klasse T5, C5: …………………………………………………………………………… 45 % |
+| Klasse T, C jeweils über 40 km/h: ………………………………………………………… 45 % |
 
 | Klasse O1, O2, R:………………………………………………………………………….. 43% | 40% bei Fahrzeugen mit erstmaliger Zulassung vor dem 01.01.1989 |
 
@@ -416,13 +418,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Zentralachsanhänger:…………………………………………………………………….. .50% |
 
-| Zugmaschinen (25 bis 40 km/h)T1, T2, T3, T4 |
+| Klasse T, C jeweils bis 40 km/h ………………………………………………………… 30 % |
 
-| C1, C2, C3, C4 |
-
-| bei Hinterradbremse ……………………………………………………………………... 30 % |
-
-| bei automatisch abschaltbarem Allradantrieb……………………………………………. 40 % |
+| bei Allradbremse (permanent oder automatisch zugeschaltet; mit und ohne automatisch zuschaltendem Allradantrieb)…………………………………………………………… 40 % |
 
 | Klassen L (beide Bremsanlagen): |
 
@@ -1690,19 +1688,19 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Kraftbegrenzer fehlt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM |
 
-| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
 
 | 7.1.4 | Gurtstraffer |
 
 | Fehlt, offensichtlich defekt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM |
 
-| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
 
 | 7.1.5 | Airbag |
 
 | fehlt oder ist offensichtlich nicht für das Fahrzeug geeignet | SM |
 
-| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
 
 | funktioniert offensichtlich nicht | SM |
 
@@ -1710,7 +1708,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | SRS-Störungsanzeige (MIL) weist auf Fehler im System hin | SM |
 
-| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM, GV |
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | SM |
 
 | 7.2 | Feuerlöscher (falls erforderlich) |
 
@@ -1786,7 +1784,7 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | Verplombung schadhaft oder fehlt | SM |
 
-| Kalibrierungsplakette fehlt, ist unleserlich oder veraltet | SM, VM |
+| Einbauplakette ungültig, fehlt oder ist unleserlich | SM |
 
 | pos. Prüfnachweis fehlt bzw. offensichtliche Abweichungen | SM, VM |
 
@@ -1798,15 +1796,13 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | nicht vorschriftsmäßig eingebaut | SM, VM |
 
-| Einbauschild ungültig, fehlt oder ist unleserlich | SM |
+| Einbauplakette ungültig, fehlt oder ist unleserlich | SM |
 
 | funktioniert offensichtlich nicht | SM |
 
 | Abregelgeschwindigkeit falsch eingestellt (falls geprüft) | SM |
 
 | Verplombung schadhaft oder fehlt | SM, VM |
-
-| Kalibrierungsplakette fehlt, ist unleserlich oder abgelaufen | SM, VM |
 
 | pos. Prüfnachweis fehlt bzw. offensichtliche Abweichungen | SM, VM | Anm: Prüfnachweis muss bei Begutachtung vorgelegt werden |
 
@@ -1926,6 +1922,44 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | 15. April |
 
+| 7.25 | eCall (falls eingebaut, gemäß den EU-Typgenehmigungsvorschriften) | Sichtprüfung und – sofern die technischen Merkmale des Fahrzeugs dies ermöglichen und die erforderlichen Daten zur Verfügung gestellt werden – ergänzt durch die Verwendung einer elektronischen Schnittstelle |
+
+| 7.25.1 | Einbau und Konfiguration |
+
+| System oder Bauteil fehlt | SM |
+
+| falsche Softwareversion | LM |
+
+| falsche Systemkodierung | LM |
+
+| 7.25.2 | Zustand |
+
+| System oder Bauteile beschädigt | LM |
+
+| eCall-Störungsanzeige (MIL) weist auf Fehler im System hin | LM |
+
+| Ausfall der elektronischen e-Call Steuereinheit | LM |
+
+| Ausfall der Mobilfunknetz-Kommunikationsausrüstung | LM |
+
+| Ausfall des GPS-Signals | LM |
+
+| Audiokomponenten nicht angeschlossen | LM |
+
+| Stromquelle nicht angeschlossen oder unzureichende Ladung | LM |
+
+| System zeigt über die elektronische Fahrzeugschnittstelle Fehler an | LM |
+
+| 7.25.3 | Leistung |
+
+| Mindestdatensatz (MSD) fehlerhaft | LM |
+
+| Audiokomponenten funktionieren nicht ordnungsgemäß | LM |
+
+| 7.26 | Radar- oder Laserblocker |
+
+| Radar- oder Laserblocker angebracht | GV | Für Prüfungen gem. § 56 KFG 1967 und § 58 KFG 1967 relevant |
+
 | 8 | Umweltbelastung |
 
 | 8.1 | Lärmentwicklung |
@@ -1970,9 +2004,9 @@ Dieser Katalog enthält die häufigsten Mängel und ihre Zuordnung in eine der M
 
 | b) oder, falls hierzu keine Angaben vorliegen, überschreiten HC-Gehalt und/oder CO-Emissionen folgende Werte |
 
-| i) bei Kraftfahrzeugen ohne modernes Abgasnachbehandlungssystem wie z. B. 3-Wege-Katalysatator mit Lambdasondenregelung HC-Gehalt über 600 ppm, CO-Gehalt über → 4,5 % für Kraftfahrzeuge mit erstmaliger Zulassung vor 1.1.1980 oder → 3,5 % für Kraftfahrzeuge mit erstmaliger Zulassung ab 1.1.1980 | SM |
+| i) bei Kraftfahrzeugen ohne modernes Abgasnachbehandlungssystem wie z. B. 3-Wege-Katalysatator mit Lambdasondenregelung HC-Gehalt im Leerlauf des Motors über 600 ppm, CO-Gehalt über → 4,5 % für Kraftfahrzeuge mit erstmaliger Zulassung vor 1.1.1980 oder → 3,5 % für Kraftfahrzeuge mit erstmaliger Zulassung ab 1.1.1980 | SM |
 
-| ii) bei Kraftfahrzeugen mit modernem Abgasnachbehandlungssystem wie z. B. 3-Wege-Katalysatator mit Lambdasondenregelung je nach Datum der Erstzulassung oder Erstinbetriebnahme gemäß den einschlägigen Vorschriften HC-Wert über 60 ppm → bei Leerlauf des Motors: 0,5 % → bei erhöhter Leerlaufdrehzahl: 0,3 % oder für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 01. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220 /EWG idF. 98/69/EG oder später geänderten Fassungen ( d.h. ab EURO III) genehmigt wurden → bei Leerlauf des Motors: 0,3 % → bei erhöhter Leerlaufdrehzahl: 0,2 % | SM |
+| ii) bei Kraftfahrzeugen mit modernem Abgasnachbehandlungssystem wie z. B. 3-Wege-Katalysatator mit Lambdasondenregelung je nach Datum der Erstzulassung oder Erstinbetriebnahme gemäß den einschlägigen Vorschriften HC-Wert im Leerlauf des Motors über 60 ppm CO-Gehalt über → bei Leerlauf des Motors: 0,5 % → bei erhöhter Leerlaufdrehzahl: 0,3 % oder für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 01. Juli 2002 oder solchen, welche gemäß den Grenzwerten der Richtlinie 70/220 /EWG idF. 98/69/EG oder später geänderten Fassungen ( d.h. ab EURO III) genehmigt wurden → bei Leerlauf des Motors: 0,3 % → bei erhöhter Leerlaufdrehzahl: 0,2 % | SM |
 
 | c) Lambda außerhalb des Bereichs 1 ± 0,03 oder nicht in Übereinstimmung mit Herstellerangaben | SM |
 
