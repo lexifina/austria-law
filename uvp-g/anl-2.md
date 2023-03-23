@@ -10,7 +10,7 @@
 
 | C | Wasserschutz- und Schongebiet | Wasserschutz- und Schongebiete gemäß §§ 34, 35 und 37 WRG 1959 |
 
-| D | belastetes Gebiet (Luft) | gemäß § 3 Abs. 8 festgelegte Gebiete |
+| D | belastetes Gebiet (Luft) | gemäß § 3 Abs. 10 festgelegte Gebiete |
 
 | E | Siedlungsgebiet | in oder nahe Siedlungsgebieten. Als Nahebereich eines Siedlungsgebietes gilt ein Umkreis von 300 m um das Vorhaben, in dem Grundstücke wie folgt festgelegt oder ausgewiesen sind: 1. Bauland, in dem Wohnbauten errichtet werden dürfen (ausgenommen reine Gewerbe-, Betriebs- oder Industriegebiete, Einzelgehöfte oder Einzelbauten), 2. Gebiete für Kinderbetreuungseinrichtungen, Kinderspielplätze, Schulen oder ähnliche Einrichtungen, Krankenhäuser, Kuranstalten, Seniorenheime, Friedhöfe, Kirchen und gleichwertige Einrichtungen anerkannter Religionsgemeinschaften, Parkanlagen, Campingplätze und Freibeckenbäder, Garten- und Kleingartensiedlungen. |
 
