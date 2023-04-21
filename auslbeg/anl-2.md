@@ -12,13 +12,17 @@
 
 | Berufserfahrung (pro Halbjahr) Berufserfahrung in Österreich (pro Halbjahr) | 1 2 |
 
-| Sprachkenntnisse Deutsch | maximal anrechenbare Punkte: 15 |
+| Sprachkenntnisse | maximal anrechenbare Punkte: 25 |
 
-| Deutschkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau (A 1) Deutschkenntnisse zur vertieften elementaren Sprachverwendung (A 2) Deutschkenntnisse zur selbständigen Sprachverwendung (B 1) | 5 10 15 |
+| Deutschkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau (A1) Deutschkenntnisse zur vertieften elementaren Sprachverwendung (A2) Deutschkenntnisse zur selbständigen Sprachverwendung (B1) | 5 10 15 |
 
-| Sprachkenntnisse Englisch | maximal anrechenbare Punkte: 10 |
+| Englischkenntnisse zur vertieften elementaren Sprachverwendung (A2) Englischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 10 |
 
-| Englischkenntnisse zur vertieften elementaren Sprachverwendung (A 2) Englischkenntnisse zur selbständigen Sprachverwendung (B 1) | 5 10 |
+| Französischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 |
+
+| Spanischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 |
+
+| Bosnisch-, Kroatisch- oder Serbischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 |
 
 | Alter | maximal anrechenbare Punkte: 15 |
 

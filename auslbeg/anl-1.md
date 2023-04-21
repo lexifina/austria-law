@@ -8,7 +8,7 @@
 
 | Abschluss eines Studiums an einer tertiären Bildungseinrichtung mit vierjähriger Mindestdauer | 20 |
 
-| – im Fachgebiet Mathematik, Informatik, Naturwissenschaften oder Technik (MINT-Fächer). | 30 |
+| – im Fachgebiet Mathematik, Informatik, Naturwissenschaften oder Technik (MINTFächer). | 30 |
 
 | – mit Habilitation oder gleichwertiger Qualifikation (z. B. PhD) | 40 |
 
@@ -26,7 +26,13 @@
 
 | Sprachkenntnisse | maximal anrechenbare Punkte: 10 |
 
-| Deutsch- oder Englischkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau (A 1) oder zur vertieften elementaren Sprachverwendung (A 2) | 5 10 |
+| Deutsch- oder Englischkenntnisse zur elementaren Sprachverwendung auf einfachstem Niveau (A1) oder zur vertieften elementaren Sprachverwendung (A2) | 5 10 |
+
+| Französischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 |
+
+| Spanischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 |
+
+| Bosnisch-, Kroatisch- oder Serbischkenntnisse zur selbständigen Sprachverwendung (B1) | 5 |
 
 | Alter | maximal anrechenbare Punkte: 20 |
 
@@ -34,7 +40,7 @@
 
 | Studium in Österreich | maximal anrechenbare Punkte: 10 |
 
-| zweiter Studienabschnitt bzw. Hälfte der vorgeschriebenen ECTS-Anrechnungspunkte | 5 |
+| zweiter Studienabschnitt bzw. Hälfte der vorgeschriebenen ECTSAnrechnungspunkte | 5 |
 
 | gesamtes Diplom- oder Bachelor- und Masterstudium | 10 |
 
