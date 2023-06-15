@@ -1,125 +1,95 @@
-### Anhang I
+### Anhang 1 zu § 42
 
-Die Maßnahmen in den im Folgenden angeführten Maßnahmenfeldern gelten nach Maßgabe der Bestimmungen der Richtlinien gemäß § 27 in dem Umfang als Energieeffizienzmaßnahme gemäß § 5 Abs. 1 Z 7, als sie nachweisliche, mess- oder schätzbare Verringerungen des Verbrauchs von Endenergie nach sich ziehen:
+## Mindestvorgaben für Energieaudits und Managementsysteme
 
-- 1. Wohn- und Tertiärsektor
+## 1. Abschnitt
 
-  - a) Energie-(effizienz)beratung und –analyse (zB Energieausweis, Antriebsoptimierung), Energieaudits, Energiemanagementsysteme oder vergleichbare Managementsysteme;
+## Allgemeines
 
-  - b) Heizung und Kühlung (zB Anlagen mit hohem Nutzungsgrad, hocheffiziente Wärmepumpen, neue Kessel mit hohem Wirkungsgrad, Einbau/Modernisierung von Fernwärme-/ Fernkältesystemen, Optimierung Regelungs- und Steuerungstechnik mittels selbsttätigen Fühl- und Regelelementen ohne Fremdenergie zB Thermostatventile, hocheffiziente Umwälzpumpen, bedarfsorientierte Temperaturregelung und Steuerung); Verstärkung solarer und geothermischer Primärenergieformen, Vermeidung und Verminderung von Verteilverlusten;
+Energieaudits und Managementsysteme haben
 
-  - c) Wärmedämmung und Belüftung (Niedrigenergie- und Passivhausstandard im Neubau; kontrollierte Be- und Entlüftungssysteme mit Wärmerückgewinnung; Sanierungsmaßnahmen im Gebäudebestand wie zB Dach- und Fassadendämmung, Dämmung der obersten Geschoßdecke, Wärmeschutzverglasung);
+- 1. eine allgemeine Unternehmens- und Tätigkeitsbeschreibung zu beinhalten;
 
-  - d) Warmwasser (zB Installation neuer Geräte, hocheffiziente Speicher, unmittelbare und effiziente Nutzung in der Raumheizung, Energiespararmaturen, Waschmaschinen; Fernwärme, solare Warmwasserbereitung), Rückgewinnung der Abwasserwärme;
+- 2. den einschlägigen europäischen, internationalen oder übernommenen Normen zu entsprechen;
 
-  - e) Beleuchtung (zB neue effiziente Leuchtmittel und Vorschaltgeräte, bedarfsorientierte Steuersysteme, gezielte Tageslichtnutzung);
+- 3. auf aktuellen, gemessenen und belegbaren Daten zum Energieverbrauch für alle eingesetzten Energieträger zu basieren, wobei die ausgewiesenen Mengen in energetische Einheiten umzurechnen sind und auf Lastprofilen oder Zähleinrichtungen zu basieren haben;
 
-  - f) Kochen und Kühlen (zB neue energieeffiziente Geräte, Systeme zur Wärmerückgewinnung, Abschattung von Gebäuden zur Verringerung des Kühlbedarfs);
+- 4. die wesentlichen Energieverbrauchsbereiche aufzuzeigen, wobei pro wesentlichem Energieverbrauchsbereich eine Vor-Ort-Begehung durchzuführen ist, und Folgendes zu identifizieren und analysieren:
 
-  - g) sonstige Ausrüstungen und Geräte (zB Kraft-Wärme-Kopplungsanlagen, neue effiziente Geräte, bedarfsorientierte Steuerung für eine optimierte Energieverwendung, Minimierung der Energieverluste im Bereitschaftsmodus, Einbau von Kondensatoren zur Begrenzung der Blindleistung, verlustarme Transformatoren, primärseitige Schaltung, etc.);
+  - a) hauptenergieverbrauchende Faktoren und Energieumwandlungsanlagen auf Basis von Energie, Treib- oder Kraftstoffrechnungen, Subzählern, Berechnungen oder Messungen (Energiebilanz);
 
-  - h) Einsatz erneuerbarer Energien in Haushalten und Gewerbe, wodurch die Menge der zugekauften Energie verringert wird (zB solarthermische Anwendungen, Erzeugung von Warmbrauchwasser, solarunterstützte Raumheizung und –kühlung, erneuerbare Fernwärme, Photovoltaik);
+  - b) relevante Einflüsse auf den Energieverbrauch, insbesondere auf die hauptenergieverbrauchenden Faktoren und Energieumwandlungsanlagen;
 
-  - i) Maßnahmen zur Verringerung der grauen Energie;
+  - c) relevante Energieleistungskennzahlen einschließlich deren Entwicklung und
 
-  - j) Maßnahmen zur Verringerung des Personenverkehrs (Forcierung des öffentlichen Verkehrs, Wechsel der Antriebstechnik);
+  - d) Abwärmepotenziale;
 
-  - k) Maßnahmen zur Reduktion des Stand-by Verbrauches;
+- 5. auf dynamischen Wirtschaftlichkeitsberechnungen zu basieren, um langfristige Einsparungen und Investitionen sowie Restwerte unter Berücksichtigung von Zins- und Preisentwicklungen zu betrachten; ist eine dynamische Wirtschaftlichkeitsberechnung nicht möglich oder nicht im erforderlichen Ausmaß durchführbar, kann eine statische Wirtschaftlichkeitsberechnung durchgeführt werden, wobei die Gründe dafür anzugeben und nachvollziehbar zu dokumentieren sind;
 
-  - l) Smart home Anwendungen, zB Inhome-Displays;
+- 6. verhältnismäßig und repräsentativ zu sein, sodass ein zuverlässiges Bild der Gesamtenergieeffizienz und die wichtigsten Verbesserungsmöglichkeiten darstellbar sind;
 
-  - m) konkrete Projekte mit einschlägigen Sozialeinrichtungen und Schuldenberatungsstellen zur Bekämpfung von Energiearmut durch Energieeffizienzmaßnahmen (zB qualifizierte Energieberatung durch Berater mit sozialarbeiterischer Erfahrung oder Gerätetauschaktionen);
+- 7. für das jeweilige Unternehmen relevante Maßnahmen zur
 
-  - n) Substitution von Energieträgern durch Nutzung von bisher nicht genutzter Abwärme;
+  - a) Reduktion des Energieverbrauchs;
 
-- 2. Industriesektor
+  - b) Verbesserung der Energieeffizienz und
 
-  - a) Energie-(effizienz)beratung und –analyse (zB Energieausweis, Antriebsoptimierung), Energieaudits, Energiemanagementsysteme oder vergleichbare Managementsysteme, Einbau und Betrieb von Smart Metering;
+  - c) Forcierung des Einsatzes von erneuerbaren Energieträgern
 
-  - b) Messdienstleistungen, Erstellung von Messkonzepten zur Analyse des Energieverbrauchs bzw. Auslesung der Wärme- und Warmwasserverbräuche, Temperaturen;
+zu identifizieren, analysieren und empfehlen sowie die Wechselwirkungen der relevanten Maßnahmen zu berücksichtigen;
 
-  - c) Fertigungsprozesse (zB effizienter Einsatz von Druckluft, Kondensat sowie Schaltern und Ventilen, Einsatz automatischer und integrierter Systeme, energieeffizienter Betriebsbereitschaftsmodus);
+- 8. Maßnahmen zur Einführung oder Verbesserung des Monitoringsystems zu prüfen und
 
-  - d) Motoren und Antriebe (zB vermehrter Einsatz elektronischer Steuerungen, Regelantriebe, integrierte Anwendungsprogramme, Frequenzwandler, hocheffiziente Elektromotoren);
+- 9. detaillierte und validierte Berechnungen für empfohlene Maßnahmen zu beinhalten und klare Informationen über potenzielle Einsparungen zu liefern.
 
-  - e) Lüfter, Gebläse, Regelantriebe und Lüftung (zB neue hocheffiziente Geräte/Systeme, Einsatz natürlicher Lüftung, Leistungsanpassung, Wartungssystematik);
+## 2. Abschnitt
 
-  - f) Bedarfsmanagement (zB Lastmanagement, Regelsysteme für Spitzenlastabbau);
+## Wesentliche Energieverbrauchsbereiche
 
-  - g) Einsatz hocheffizienter Kraft-Wärme-Kopplung;
+Energieaudits und Managementsysteme haben für die wesentlichen Energieverbrauchsbereiche gemäß Z 1 bis 3 zusätzlich folgende Informationen zu enthalten:
 
-  - h) Maßnahmen in der Energiebereitstellungskette (zB Repowering oder Bau von Erzeugungsanlagen, Speichertechnologien, Einsatz hocheffizienter Pumpen, druckunabhängige, voreinstellbare Drosselorgane zum hydraulischen Abgleich, Rücklauftemperaturabsenkung in Fernwärmenetzen);
+- 1. Gebäude:
 
-  - i) Einbindung von Erneuerbaren Energien in die Energiebereitstellung (zB Windkraft, Photovoltaik, Solarthermie, Geothermie, Wärmepumpen, Rückgewinnung von Prozesswärme und Einbindung zur Abdeckung des Wärmebedarfs am Standort, Rückgewinnung und energetische Nutzung biogener Reststoffe oder Abfälle);
+  - a) Darstellung der Eigentumsverhältnisse und Nutzungsvereinbarungen, um Einflussmöglichkeiten auf den Energieverbrauch aufzuzeigen;
 
-  - j) Rückgewinnung von Abwärme oder überschüssiger Prozesswärme und Lieferung an Betriebe in der Nachbarschaft, die damit einen Teil ihres Wärmebedarfs decken können;
+  - b) Art der Gebäudenutzung;
 
-  - k) Einbindung von Abwärme oder überschüssiger Prozesswärme in lokale Nah- oder Fernwärmeversorgungsnetze, auch zur Kälteerzeugung;
+  - c) Identifikation und Analyse des aktuellen Zustands der thermischen Gebäudehülle, um relevante Maßnahmen gemäß Anhang 1, 1. Abschnitt Z 7 identifizieren, analysieren und empfehlen zu können;
 
-  - l) Heizung und Kühlung (zB Anlagen mit hohem Nutzungsgrad, hocheffiziente Wärmepumpen, neue Kessel mit hohem Wirkungsgrad, Einbau/Modernisierung von Fernwärme-/Fernkältesystemen, Optimierung Regelungs- und Steuerungstechnik, hocheffiziente Umwälzpumpen, bedarfsorientierte Steuerung); Verstärkung solarer und geothermischer Primärenergieformen, Vermeidung und Verminderung von Verteilverlusten;
+  - d) Identifikation und Analyse der wesentlichen energierelevanten Teile der technischen Ausstattung von Gebäuden, um relevante Maßnahmen gemäß Anhang 1, 1. Abschnitt Z 7 identifizieren, analysieren und empfehlen zu können;
 
-  - m) Beleuchtung und Lichtoptimierung (zB neue effiziente Leuchtmittel und Vorschaltgeräte, bedarfsorientierte Steuersysteme, gezielte Tageslichtnutzung, Lichtoptimierung in Hallen, Sportstätten, Weihnachtsbeleuchtungsservice);
+  - e) Darstellung besonderer klimatischer Anforderungen im Inneren des Gebäudes und
 
-  - n) Brennwerttechnologie;
+  - f) Analyse des Nutzerinnen- und Nutzerverhaltens.
 
-  - o) Maßnahmen zur Reduktion des Energieverbrauches bei Prozesskälte;
+- 2. Produktionsprozesse:
 
-  - p) Reduktion der Prozesswärme;
+  - a) Erfassung und Analyse von wesentlichen energierelevanten Produktions- und Betriebsmittelprozessen;
 
-  - q) alle gebäudebezogenen Maßnahmen der Z 1, soweit sie auf Betriebs- und Geschäftsgebäude des Industriesektors Anwendung finden;
+  - b) Prüfung von Austausch, Änderung oder Aufstockung der Ausstattung;
 
-- 3. Verkehrssektor
+  - c) Prüfung von unternehmensspezifischen Maßnahmen, die einen effizienteren Betrieb, eine fortlaufende Optimierung und eine verbesserte Instandhaltung gewährleisten.
 
-  - a) Technische Möglichkeiten bei Kraftfahrzeugen (Einsatz verbrauchsarmer Fahrzeuge, Alternativantriebe wie zB Elektromobilität, Gewichtsreduktion, Vermeidung verbrauchssteigernder Zusatzausstattung, Verbrauchsmonitoring, Reifendruckreglersysteme, Leichtlauföle, etc.);
+- 3. Transport:
 
-  - b) Schaffung von attraktiver Infrastruktur, innovative Geschäftsmodelle, Nutzbremssysteme, etc.;
+  - a) Erhebung
 
-  - c) Technische Möglichkeiten bei der Infrastruktur – Verkehrslenkung- und –steuerung und dergleichen (zB Routenplanung und Routenanpassung aufgrund aktueller Verkehrssituationen);
+    - aa) der genutzten Kraftfahrzeugklassen;
 
-  - d) Technische Möglichkeiten bei Tunnelanlagen – Tunnelthermie;
+    - bb) des gesamten Energieverbrauchs;
 
-  - e) Intelligente Speicher- und Nutzungskonzepte für E-Mobility;
+    - cc) der eingesetzten Energieträger und
 
-  - f) Fuhrparkumstellungen;
+    - dd) der Fahrleistung und technischen Hauptmerkmale jedes Kraftfahrzeugs.
 
-  - g) Verkehrsverlagerung auf andere Verkehrsträger (Attraktivierung öffentlicher Verkehr, Parkplatzbewirtschaftung, Ausbau Radwegenetz, Tarif-Verbundsysteme, etc.);
+  - b) Prüfung von unternehmensspezifischen Verbesserungsmaßnahmen bei
 
-  - h) Ersatz innerbetrieblicher Gütertransporte durch Bandförderungen, Schächte etc.;
+    - aa) Tourenoptimierungen oder Fahrtroutenplanungen;
 
-  - i) Verringerung des Transportbedarfs (zB durch Dezentralisierung von Produktionskapazitäten);
+    - bb) effizienterem Betrieb von Kraftfahrzeugen;
 
-  - j) Zusammenlegung räumlich getrennter Verarbeitungsstufen;
+    - cc) energie- und CO2-relevanten Vorgaben für die Anschaffung für Kraftfahrzeuge;
 
-  - k) Verringerung der Energieintensität von Transporten zB durch Vermeidung von Leerfahrten, Steigerung der Auslastung von Fahrzeugen oder Einbindung der Eisenbahn- und der Binnenschifffahrt in die Logistik
+    - dd) Instandhaltungsprogrammen und
 
-  - l) Raumplanerische Maßnahmen (Stellplatzregelungen, Unterstützung autofreies Wohnen, Infrastrukturmaßnahmen, Erschließungskonzepte, etc.);
-
-  - m) Begleitmaßnahmen, Öffentlichkeitsarbeit (Mobilitätsmanagement in Betrieben und Gemeinden, Kennzeichnung des Energieverbrauchs von PKW, Sensibilisierung in Schulen, Kampagnen, Aktionstage, Spritspartrainings);
-
-- 4. Sonstige und sektorübergreifende Maßnahmen
-
-  - a) Standards und Normen, die hauptsächlich auf die Erhöhung der Energieeffizienz von Erzeugnissen und Dienstleistungen, einschließlich Gebäuden, abzielen;
-
-  - b) Energieetikettierungsprogramme;
-
-  - c) Verbrauchserfassung, intelligente Verbrauchsmesssysteme, wie Einzelmessgeräte mit Fernablesung bzw. -steuerung, und informative Abrechnung, soweit hierzu nicht ohnehin eine gesetzliche Verpflichtung besteht;
-
-  - d) Schulungs- und Aufklärungsmaßnahmen zur Förderung der Anwendung energieeffizienter Technologien und/oder Verfahren;
-
-  - e) Brennwerttechnologie;
-
-  - f) Energiespeicher;
-
-  - g) Informationskampagnen, Aus- und Weiterbildung (zB Energiespar-Check), insbesondere branchenbezogene Awarenesskampagnen und Motivationsprogramme durch Fachorganisationen der Wirtschaftskammer;
-
-  - h) Abwärmenutzung;
-
-  - i) Regelmäßige Wartung und Service;
-
-  - j) Hydraulische Sanierung.
-
-- 5. Übergeordnete Maßnahmen
-
-  - a) Vorschriften, Steuern und sonstige Abgaben, die eine Verringerung des Endenergieverbrauchs bewirken;
-
-  - b) gezielte Aufklärungskampagnen, die auf die Verbesserung der Energieeffizienz und auf energieeffizienzsteigernde Maßnahmen abzielen, insbesondere Maßnahmen zur Anpassung des Nutzerverhaltens an den tatsächlichen Bedarf.
+    - ee) alternativem Dienstreise-, Mitarbeitermobilitäts- oder Kundenmobilitätsmanagement.
