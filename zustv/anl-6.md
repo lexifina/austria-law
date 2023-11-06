@@ -2,4 +2,4 @@
 
 ## Zulassungsbescheinigung
 
-(Anm.: Anlage 6 als PDF dokumentiert)
+(Anm.: Anlage 6 und die Änderungen, BGBl. II Nr. 282/2023, als PDF dokumentiert)
