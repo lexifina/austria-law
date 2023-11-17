@@ -42,4 +42,6 @@
 
 - 19. die Leitung von Reitsham bis Freilassing und zur Übergabestation in Hochfilzen;
 
-- 20. die Leitung von Hochfilzen bis zur Staatsgrenze bei Kiefersfelden.
+- 20. die Leitung von Hochfilzen bis zur Staatsgrenze bei Kiefersfelden;
+
+- 21. die Süd 1 Leitung zwischen Wiener Neustadt und Semmering.
