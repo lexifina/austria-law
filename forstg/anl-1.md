@@ -136,8 +136,6 @@ und für die inländische forstliche Nutzung geeignete, fremdländische, bestand
 
 Acer
 
-Ailanthus
-
 Betula
 
 Carya
