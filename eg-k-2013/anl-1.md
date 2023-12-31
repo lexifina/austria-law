@@ -28,7 +28,11 @@
 
 - 12. Stoffe und Gemische mit nachgewiesenermaßen karzinogenen, mutagenen oder sich möglicherweise auf die Fortpflanzung auswirkenden Eigenschaften, die sich über die Luft auswirken;
 
-- 13. Polychlordibenzodioxine und Polychlordibenzofurane.
+- 13. Polychlordibenzodioxine und Polychlordibenzofurane;
+
+- 14. unverbrannte gasförmige organische Verbindungen (OGC);
+
+- 15. Ammoniak (NH3).
 
 ### Wasser
 

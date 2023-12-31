@@ -12,9 +12,9 @@
 
     - aa) 6 % für feste Brennstoffe,
 
-    - bb) 3 % für Anlagen für flüssige und gasförmige Brennstoffe mit Ausnahme von Gasturbinen und Gasmotoren,
+    - bb) 3 % für Anlagen für flüssige und gasförmige Brennstoffe mit Ausnahme von Gasturbinen und Motoren,
 
-    - cc) 15 % für Gasturbinen und Gasmotoren sowie
+    - cc) 15 % für Gasturbinen und Motoren sowie
 
     - dd) 0 % für Ammoniak (NH3)-Emissionen von Einrichtungen zur Minderung von Stickstoffoxid (NOx)-Emissionen
 
@@ -22,7 +22,7 @@ zu berechnen.
 
   - b) Im Falle von kombinierten Gas- und Dampfturbinen-Anlagen (GuD) mit Zusatzfeuerung kann der Bezugssauerstoffgehalt von der Behörde unter Berücksichtigung der besonderen Merkmale der betreffenden Anlage festgelegt werden.
 
-- 2. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 2. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
   - a) Bestehende Anlagen
 
@@ -46,7 +46,7 @@ zu berechnen.
 
 | 300 | 200 | 200 | 200 |
 
-- 3. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 3. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Im Allgemeinen | 35 |
 
@@ -56,7 +56,7 @@ zu berechnen.
 
 | Hochofengase mit niedrigem Heizwert | 200 |
 
-- 4. Stickstoffoxid (NOx)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 4. Stickstoffoxid (NOx)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
   - a) Bestehende Anlagen
 
@@ -82,7 +82,7 @@ zu berechnen.
 
 | 300 | 200 | 200 | 150 |
 
-- 5. Kohlenmonoxid (CO)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 5. Kohlenmonoxid (CO)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Motoren:
 
   - a) Bestehende Anlagen
 
@@ -106,11 +106,11 @@ zu berechnen.
 
 | NOx | CO |
 
-| Mit Erdgas betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren | 100 | 100 |
+| Mit Erdgas betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren | 100 | 100 |
 
-| Mit Hochofengas, Koksofengas oder aus Raffinerierückständen erzeugtem Gas mit niedrigem Heizwert betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren | 200 | --- |
+| Mit Hochofengas, Koksofengas oder aus Raffinerierückständen erzeugtem Gas mit niedrigem Heizwert betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren | 200 | --- |
 
-| Mit sonstigen Gasen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren | 200 | --- |
+| Mit sonstigen Gasen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren | 200 | --- |
 
 | Mit Erdgas 1) betriebene Gasturbinen (einschließlich GuD) 50 – 200 MW Brennstoffwärmeleistung | 50 2) 3) | 100 |
 
@@ -118,25 +118,25 @@ zu berechnen.
 
 | Anders als mit Erdgas betriebene Gasturbinen (einschließlich GuD) | 120 | --- |
 
-| Gasmotoren | 100 | 100 |
+| Motoren | 100 | 100 |
 
 | Anmerkungen: 1) Erdgas im Sinne dieser Bestimmung ist natürlich vorkommendes Methangas mit nicht mehr als 20 Volumen-% Inertgasen und sonstigen Bestandteilen. 2) 75 mg/Nm³ in folgenden Fällen, in denen der Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen bestimmt wird: a) Gasturbinen in Anlagen mit Kraft-Wärme-Kopplung mit einem Gesamtwirkungsgrad von über 75 %; b) Gasturbinen in Kombinationskraftwerken, deren elektrischer Gesamtwirkungsgrad im Jahresdurchschnitt über 55 % liegt; c) Gasturbinen für mechanische Antriebszwecke. 3) Für einstufige Gasturbinen, die keiner der unter Anmerkung 2 genannten Kategorien zuzurechnen sind und deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt ein NOx-Emissionsgrenzwert von 50xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. 4) Für einstufige Gasturbinen, deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt für mit Erdgas betriebene Gasturbinen ein NOxEmissionsgrenzwert von 35xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. |
 
     - aa) Für Gasturbinen (einschließlich GuD) gelten die in der Tabelle angeführten NOx- und COEmissionsgrenzwerte nur bei einer Last von über 70 %
 
-    - bb) Gasturbinen und Gasmotoren für den Notbetrieb, die weniger als 500 Betriebsstunden jährlich in Betrieb sind, fallen nicht unter die in der Tabelle angeführten Emissionsgrenzwerte. Der Betreiber solcher Anlagen hat die geleisteten Betriebsstunden zu registrieren.
+    - bb) Gasturbinen und Motoren für den Notbetrieb, die weniger als 500 Betriebsstunden jährlich in Betrieb sind, fallen nicht unter die in der Tabelle angeführten Emissionsgrenzwerte. Der Betreiber solcher Anlagen hat die geleisteten Betriebsstunden zu registrieren.
 
   - b) Altanlagen
 
 | NOx | CO |
 
-| Mit Erdgas betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren | 100 | 100 |
+| Mit Erdgas betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren | 100 | 100 |
 
-| Mit Hochofengas, Koksofengas oder aus Raffinerierückständen erzeugtem Gas mit niedrigem Heizwert betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren 50 – 500 MW Brennstoffwärmeleistung | 300 | --- |
+| Mit Hochofengas, Koksofengas oder aus Raffinerierückständen erzeugtem Gas mit niedrigem Heizwert betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren 50 – 500 MW Brennstoffwärmeleistung | 300 | --- |
 
 | 500 MW Brennstoffwärmeleistung | 200 | --- |
 
-| Mit sonstigen Gasen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren 50 – 500 MW Brennstoffwärmeleistung | 300 | --- |
+| Mit sonstigen Gasen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren 50 – 500 MW Brennstoffwärmeleistung | 300 | --- |
 
 | 500 MW Brennstoffwärmeleistung | 200 | --- |
 
@@ -144,15 +144,15 @@ zu berechnen.
 
 | Anders als mit Erdgas betriebene Gasturbinen (einschließlich GuD) | 120 | --- |
 
-| Gasmotoren | 100 | 100 |
+| Motoren | 100 | 100 |
 
 | Anmerkungen: 1) Erdgas im Sinne dieser Bestimmung ist natürlich vorkommendes Methangas mit nicht mehr als 20 Volumen-% Inertgasen und sonstigen Bestandteilen. 2) 75 mg/Nm³ in folgenden Fällen, in denen der Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen bestimmt wird: a) Gasturbinen in Anlagen mit Kraft-Wärme-Kopplung mit einem Gesamtwirkungsgrad von über 75 %; b) Gasturbinen in Kombinationskraftwerken, deren elektrischer Gesamtwirkungsgrad im Jahresdurchschnitt über 55 % liegt; c) Gasturbinen für mechanische Antriebszwecke. 3) Für einstufige Gasturbinen, die keiner der unter Anmerkung 2 genannten Kategorien zuzurechnen sind und deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt ein NOxEmissionsgrenzwert von 50xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. |
 
     - aa) Für Gasturbinen (einschließlich GuD) gelten die in der Tabelle angeführten NOx- und COEmissionsgrenzwerte nur bei einer Last von über 70 %.
 
-    - bb) Gasturbinen und Gasmotoren für den Notbetrieb, die weniger als 500 Betriebsstunden jährlich in Betrieb sind, fallen nicht unter die in der Tabelle angeführten Emissionsgrenzwerte. Der Betreiber solcher Anlagen hat die geleisteten Betriebsstunden zu registrieren.
+    - bb) Gasturbinen und Motoren für den Notbetrieb, die weniger als 500 Betriebsstunden jährlich in Betrieb sind, fallen nicht unter die in der Tabelle angeführten Emissionsgrenzwerte. Der Betreiber solcher Anlagen hat die geleisteten Betriebsstunden zu registrieren.
 
-- 8. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 8. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Brennstoffwärmeleistung (MW) | Steinkohle und Braunkohle sowie andere feste Brennstoffe | Biomasse | Flüssige Brennstoffe |
 
@@ -162,7 +162,7 @@ zu berechnen.
 
 | 300 | 20 | 20 | 20 |
 
-- 9. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 9. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene bestehende Anlagen und Altanlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Im Allgemeinen | 5 |
 
@@ -172,7 +172,7 @@ zu berechnen.
 
 - 10. Ammoniak (NH3)-Emissionsgrenzwert (in mg/Nm3):
 
-  - a) Bei Anlagen, in denen NH3 oder Ammoniumverbindungen (NH4+-Verbindungen) zur Minderung der NOxEmissionen eingesetzt werden, darf der Gehalt an NH3 im Verbrennungsgas (NH3Schlupf) einen Emissionsgrenzwert von 10 mg/Nm3 nicht überschreiten.
+  - a) Bei Anlagen, in denen NH3 oder Ammoniumverbindungen (NH4+-Verbindungen) zur Minderung der NOxEmissionen eingesetzt werden, darf der Gehalt an NH3 im Verbrennungsgas (NH3Schlupf) einen Emissionsgrenzwert von 10 mg/Nm3 nicht überschreiten. Abweichend davon gilt bei Anlagen, die Biomasse verbrennen und mit unterschiedlichen Lasten arbeiten, ein Emissionsgrenzwert von 20 mg/Nm3.
 
   - b) Ist der Einrichtung zur NOxReduktion ein Abscheideverfahren nachgeschaltet, welches geeignet ist NH3 abzuscheiden, findet der Emissionsgrenzwert für NH3 keine Anwendung.
 
@@ -186,9 +186,9 @@ zu berechnen.
 
     - aa) 6 % für feste Brennstoffe,
 
-    - bb) 3 % für Anlagen für flüssige und gasförmige Brennstoffe mit Ausnahme von Gasturbinen und Gasmotoren,
+    - bb) 3 % für Anlagen für flüssige und gasförmige Brennstoffe mit Ausnahme von Gasturbinen und Motoren,
 
-    - cc) 15 % für Gasturbinen und Gasmotoren sowie
+    - cc) 15 % für Gasturbinen und Motoren sowie
 
     - dd) 0 % für Ammoniak (NH3)-Emissionen von Einrichtungen zur Minderung von Stickstoffoxid (NOx)-Emissionen
 
@@ -196,7 +196,7 @@ zu berechnen.
 
   - b) Im Falle von kombinierten Gas- und Dampfturbinen-Anlagen (GuD) mit Zusatzfeuerung kann der Bezugssauerstoffgehalt von der Behörde unter Berücksichtigung der besonderen Merkmale der betreffenden Anlage festgelegt werden.
 
-- 2. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 2. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Brennstoff-wärmeleistung (MW) | Steinkohle und Braunkohle sowie andere feste Brennstoffe | Biomasse | Flüssige Brennstoffe |
 
@@ -206,7 +206,7 @@ zu berechnen.
 
 | 300 | 150 200 bei Wirbelschichtfeuerung mit zirkulierender oder druckaufgeladener Wirbelschicht | 150 | 150 |
 
-- 3. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 3. Schwefeldioxid (SO2)-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Im Allgemeinen | 35 |
 
@@ -216,21 +216,21 @@ zu berechnen.
 
 | Hochofengase mit niedrigem Heizwert | 200 |
 
-- 4. Stickstoffoxid (NOx)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 4. Stickstoffoxid (NOx)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Brennstoffwärme-leistung (MW) | Steinkohle und Braunkohle sowie andere feste Brennstoffe | Biomasse | Flüssige Brennstoffe |
 
 | Allgemein | Heizöl schwer, mittel, leicht | Heizöl extra-leicht |
 
-| 50-100 | 200 400 bei Braunkohlefeuerungen | 250 | 150 | 100 | 150 1) |
+| 50-100 | 200 400 bei Braunkohlestaubfeuerungen | 250 | 150 | 100 | 150 1) |
 
 | 100-300 | 200 | 200 | 150 | 100 | 150 |
 
-| 300 | 150 200 bei Braunkohlefeuerungen | 150 | 100 | 100 | 100 |
+| 300 | 150 200 bei Braunkohlestaubfeuerungen | 150 | 100 | 100 | 100 |
 
 | Anmerkung: 1) Dieser Grenzwert bezieht sich auf einen Gehalt an organisch gebundenem Stickstoff von 140 mg/kg Heizöl EL. Bei höheren Stickstoffgehalten ist der Grenzwert um je 0,2 mg/Nm3 pro 1 mg Stickstoff im Heizöl EL zu erhöhen. |
 
-- 5. Kohlenmonoxid (CO)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 5. Kohlenmonoxid (CO)-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | feste Brennstoffe (ausgenommen Biomasse) | 150 |
 
@@ -244,7 +244,7 @@ zu berechnen.
 
 | NOx | CO |
 
-| Anlagen mit Ausnahme von Gasturbinen und Gasmotoren | 100 | 100 80 bei Erdgas |
+| Anlagen mit Ausnahme von Gasturbinen und Motoren | 100 | 100 80 bei Erdgas |
 
 | Gasturbinen (einschließlich GuD) |
 
@@ -252,15 +252,15 @@ zu berechnen.
 
 | 200 MW | 352) | 100 |
 
-| Gasmotoren | 75 | 100 |
+| Motoren | 75 | 100 |
 
 | Anmerkung: 1) Für einstufige Gasturbinen, deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt ein NOx-Emissionsgrenzwert von 50xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. 2) Für einstufige Gasturbinen, deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt für mit Erdgas betriebene Gasturbinen ein NOxEmissionsgrenzwert von 35xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. |
 
   - a) Für Gasturbinen (einschließlich GuD) gelten die in der Tabelle angeführten NOx- und COEmissionsgrenzwerte nur bei einer Last von über 70 %.
 
-  - b) Gasturbinen und Gasmotoren für den Notbetrieb, die weniger als 500 Betriebsstunden jährlich in Betrieb sind, fallen nicht unter die in der Tabelle angeführten Emissionsgrenzwerte. Der Betreiber solcher Anlagen hat die geleisteten Betriebsstunden zu registrieren.
+  - b) Gasturbinen und Motoren für den Notbetrieb, die weniger als 500 Betriebsstunden jährlich in Betrieb sind, fallen nicht unter die in der Tabelle angeführten Emissionsgrenzwerte. Der Betreiber solcher Anlagen hat die geleisteten Betriebsstunden zu registrieren.
 
-- 8. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 8. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit festen oder flüssigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Brennstoffwärmeleistung (MW) |
 
@@ -268,7 +268,7 @@ zu berechnen.
 
 | 300 | 10 20 für Biomasse |
 
-- 9. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Gasmotoren:
+- 9. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit gasförmigen Brennstoffen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren:
 
 | Im Allgemeinen | 5 |
 
@@ -278,6 +278,6 @@ zu berechnen.
 
 - 10. Ammoniak (NH3)-Emissionsgrenzwert (in mg/Nm3):
 
-  - a) Bei Anlagen, in denen NH3 oder Ammoniumverbindungen (NH4+-Verbindungen) zur Minderung der NOxEmissionen eingesetzt werden, darf der Gehalt an NH3 im Verbrennungsgas (NH3Schlupf) einen Emissionsgrenzwert von 10 mg/Nm3 nicht überschreiten.
+  - a) Bei Anlagen, in denen NH3 oder Ammoniumverbindungen (NH4+-Verbindungen) zur Minderung der NOxEmissionen eingesetzt werden, darf der Gehalt an NH3 im Verbrennungsgas (NH3Schlupf) einen Emissionsgrenzwert von 10 mg/Nm3 nicht überschreiten. Abweichend davon gilt bei Anlagen, die Biomasse verbrennen und mit unterschiedlichen Lasten arbeiten, ein Emissionsgrenzwert von 20 mg/Nm3.
 
   - b) Ist der Einrichtung zur NOxReduktion ein Abscheideverfahren nachgeschaltet, welches geeignet ist NH3 abzuscheiden, findet der Emissionsgrenzwert für NH3 keine Anwendung.
