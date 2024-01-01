@@ -46,7 +46,7 @@ Gesellschaft im Sinne des Artikels 2 der genannten Richtlinie ist jede Gesellsch
 
   - s) Gesellschaften niederländischen Rechts mit der Bezeichnung „naamloze vennnootschap“, „besloten vennootschap met beperkte aansprakelijkheid“, „Open commanditaire vennootschap“, „Coöperatie“, „onderlinge waarborgmaatschappij“, „Fonds voor gemene rekening“, „vereniging op coöperatieve grondslag“, „vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt“ und andere nach niederländischem Recht gegründete Gesellschaften, die der niederländischen Körperschaftsteuer unterliegen;
 
-  - t) Gesellschaften österreichischen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Gesellschaft mit beschränkter Haftung“, „Versicherungsvereine auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaften“, „Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts“, „Sparkassen“ und andere nach österreichischem Recht gegründete Gesellschaften, die der österreichischen Körperschaftsteuer unterliegen;
+  - t) Gesellschaften österreichischen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Gesellschaft mit beschränkter Haftung“, „Flexible Kapitalgesellschaft“, „Versicherungsvereine auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaften“, „Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts“, „Sparkassen“ und andere nach österreichischem Recht gegründete Gesellschaften, die der österreichischen Körperschaftsteuer unterliegen;
 
   - u) Gesellschaften polnischen Rechts mit der Bezeichnung: ‚spółka akcyjna‘, ‚spółka z ograniczoną odpowiedzialnością‘, ‚spółka komandytowo-akcyjna‘;
 
