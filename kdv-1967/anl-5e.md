@@ -126,7 +126,9 @@ A. Kennzeichentafeln und Formate
 
 ### A.1. Maße und Schriftfelder
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img1is.jpg
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img1is.jpg
+
+Der rote Einsatz für die Jahreszahlen am rechten Rand kann auch soweit verkleinert werden, dass er sich innerhalb des geprägten Randes befindet und der geprägte Rand ausgespart wird.
 
 | a: Breite des Feldes A (mm) |
 
@@ -152,17 +154,19 @@ A. Kennzeichentafeln und Formate
 
 | – mit einem Zeichen : 32 (bei W : 44, A:35, I : 9, L : 28) | – mit zwei Zeichen: max. 90 |
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img2is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img2is.png
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img3is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img3is.png
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img4is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img4is.png
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img5is.png
+Der rote Einsatz für die Jahreszahlen am rechten Rand kann auch soweit verkleinert werden, dass er sich innerhalb des geprägten Randes befindet und der geprägte Rand ausgespart wird.
+
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img5is.png
 
 Bei Nachbestellungen von Wunschkennzeichen für Motorräder als Muster VII in Landeshauptstädten mit sechs Vormerkzeichen steht die erste Stelle des Vormerkzeichens in der oberen Zeile nach dem Wappen und die restlichen fünf Stellen des Vormerkzeichens in der unteren Zeile.
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img6is.jpg
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img6is.jpg
 
 m: Breite des Feldes MI (mm):
 
@@ -170,9 +174,9 @@ m: Breite des Feldes MI (mm):
 
 - – mit zwei Zeichen. max 78
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img7is.jpg
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img7is.jpg
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img8is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img8is.png
 
 Für VZT Muster VI: Untergrund der Tafel blau mit roten Feld mit Angabe der letzten zwei Ziffern der Jahreszahl des Kalenderjahres in dem die Zulassung erlischt.
 
@@ -180,17 +184,17 @@ Für PKT Muster VI: Untergrund der Tafel blau.
 
 ### Überstellungskennzeichen ÜKT einzeilig, Maße wie Muster IV
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img9is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img9is.png
 
 ### Überstellungskennzeichen ÜKT zweizeilig, Maße wie Muster V
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img10is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img10is.png
 
 ### A.1.1. EU-Emblem
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img11is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img11is.png
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img12is.jpg
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img12is.jpg
 
 A.2. Inhalte der Felder
 
@@ -198,7 +202,7 @@ A.2. Inhalte der Felder
 
 | EU | I, III, VII, VIII | EU-Emblem, (siehe Muster EU) |
 
-| A | I, III | /Dokumente/Bundesnormen/NOR40232549/hauptdokument.img13is.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
+| A | I, III | /Dokumente/Bundesnormen/NOR40261185/hauptdokument.img13is.png | Bezeichnung der Behörde oder des sachlichen Bereiches |
 
 | AI | Ia, IIIa, IV, V |
 
@@ -238,7 +242,7 @@ Zwischen Buchstaben- und Ziffernblock ist – ausgenommen im Schriftfeld H – m
 
 ### A.2.1. Herstellerzeichen
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img14is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img14is.png
 
 Das Herstellerzeichen besteht aus einer vereinfachten Darstellung des Bundeswappens mit der Umschrift „Republik Österreich“ in Blockbuchstaben mit mindestens 1 mm Höhe und mit der dem Kennzeichentafelhersteller verliehenen Kontrollnummer unterhalb der Umschrift. Wappen und Kontrollnummer müssen von einer elliptischen Prägeleiste mit den Hauptdurchmessern 12 mm × 18 mm umgeben sein.
 
@@ -262,7 +266,7 @@ Anm. 1: Z 8 der Novelle BGBl. II Nr. 350/2019 lautet: „In der Anlage 5e wird i
 
 ### A.2.3. Ablaufvignette
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img15is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img15is.png
 
 Auf den Kennzeichentafeln für Überstellungskennzeichen ist der Aufdruck „gültig bis“ bzw. „valid until“ anzubringen und Raum für die aufzuklebende Etikette freizulassen; diese ist mit dem Ablaufdatum zu lochen. Die Etikette ist dann auf die Kennzeichentafel an der dafür vorgesehenen Stelle aufzukleben.
 
@@ -270,27 +274,23 @@ Material der Ablaufvignette: Selbstklebende, retroreflektierende, mit Wasserzeic
 
 ### A.3. Form und Größe der Schriftzeichen
 
-### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1
+### Schriftzeichen für die Felder A, C, D, E, L, M, L1, M1, AI, BI, CI, DI, EI
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img16is.png
-
-### Schriftzeichen für Felder AI, CI, DI, EI
-
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img17is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img16is.png
 
 ### Schriftzeichen für Felder F, G, H, K
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img18is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img17is.png
 
 ### Schriftzeichen für Felder L, M (nur bei mehr als vier Vormerkzeichen)
 
-/Dokumente/Bundesnormen/NOR40232549/hauptdokument.img19is.png
+/Dokumente/Bundesnormen/NOR40261185/hauptdokument.img18is.png
 
 Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarzer biegefester thermischer Beschichtungsfolie versehen sein, dass die auf den geprägten Schriftzeichen vorhandenen schwarzen Flächen folgende Maße (in mm, Toleranz + 0,5 / – 1,0 mm) ergeben:
 
 | Schriftzeichen in den Kennzeichenfeldern | Strichbreite | Schrifthöhe | Schriftzeichenbreite |
 
-| Muster I, III, VII |
+| Muster I, II, VII, Ia, IIIa, IV, V |
 
 | Schriftzeichen |
 
@@ -315,32 +315,6 @@ Die Stirnseite der hochgeprägten Schriftzeichen muss so mit geeigneter schwarze
 | 3, 4, 6, 8, 9, 0 | 10 | 72 | 38 |
 
 | 2, 5, 7 | 10 | 71 | 38 |
-
-| Muster Ia, IIIa, IV, V |
-
-| Schriftzeichen |
-
-| A | 10 | 72 | 47 |
-
-| B, D, E, Z | 10 | 70 | 42 |
-
-| I | 10 | 72 | 10 |
-
-| L | 10 | 71 | 36 *) oder 31 |
-
-| F, J, P, R, T | 10 | 71 | 42 |
-
-| C, G, H, K, N, O, S, U, V, X, Y | 10 | 72 | 42 |
-
-| M | 10 | 72 | 47 *) oder 42 |
-
-| W | 10 | 72 | 57 *) oder 46 |
-
-| 1 | 10 | 72 | 25 |
-
-| 3, 4, 6, 8, 9, 0 | 10 | 72 | 42 |
-
-| 2, 5, 7 | 10 | 71 | 42 |
 
 | Muster VII (nur bei mehr als vier Vormerkzeichen) |
 
@@ -632,7 +606,7 @@ Er verpflichtet sich, die Republik Österreich diesbezüglich schad- und klaglos
 
 Die Erfüllung der Gewährleistung ist entsprechend (zB Gemeinschaftshaftung, Bankgarantie, Nachweis der entsprechenden wirtschaftlichen Leistungsfähigkeit ) sicherzustellen und nachzuweisen.
 
-Als nicht sachgemäße Verwendung gelten insbesondere mechanische Beschädigungen, Reinigung mit anderen als Autopflegemitteln ohne Scheuerwirkung, die häufige Verwendung von Dampfreinigungseinrichtungen, die Reinigung mit trockenen Putzlappen, die überwiegende Verwendung des Fahrzeuges abseits von Straße mit fester Fahrbahn (zB Baustellen- und insbesondere Straßenbaufahrzeuge), die Verwendung von anderen Teerentfernern als solchen auf Leicht- oder Reinbenzinbasis. Hierauf ist in der vom Kennzeichentafelhersteller jeder ausgelieferten Kennzeichentafel/jedem Kennzeichentafelsatz (bestehend aus mehreren Tafeln mit gleichem Kennzeichen) beizugebenden Gebrauchsanleitung hinzuweisen.
+Als nicht sachgemäße Verwendung gelten insbesondere mechanische Beschädigungen, Reinigung mit anderen als Autopflegemitteln ohne Scheuerwirkung, die häufige Verwendung von Dampf- und Hochdruckreinigungseinrichtungen, die Reinigung mit trockenen Putzlappen, die überwiegende Verwendung des Fahrzeuges abseits von Straße mit fester Fahrbahn (zB Baustellen- und insbesondere Straßenbaufahrzeuge), die Verwendung von anderen Teerentfernern als solchen auf Leicht- oder Reinbenzinbasis. Hierauf ist in der vom Kennzeichentafelhersteller jeder ausgelieferten Kennzeichentafel/jedem Kennzeichentafelsatz (bestehend aus mehreren Tafeln mit gleichem Kennzeichen) beizugebenden Gebrauchsanleitung hinzuweisen.
 
 ### C. Entgelte für Typen von Kennzeichentafeln
 
