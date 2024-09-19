@@ -60,11 +60,11 @@ Für Stellen gemäß den §§ 18 Abs. 1 und 20 Abs. 1 gelten ergänzend zu den A
 
 - 1. Für die Überwachung von Qualitätsmanagementsystemen von Herstellerbetrieben und Füllstellen darf nur Prüfpersonal mit nachgewiesenen Kenntnissen zur Beurteilung der angewandten Fertigungs- und Füllmethoden und Qualitätssicherungssysteme eingesetzt werden.
 
-- 2. Konformitätsbewertungsstellen für das Inverkehrbringen haben dem Bundesminister für Wissenschaft, Forschung und Wirtschaft auf Verlangen Auskunft über ihre Tätigkeiten zu erteilen. Dies bezieht sich auch auf Auskünfte bezüglich bereits beauftragter jedoch erst zukünftig durchzuführender Prüftätigkeiten (Tätigkeitsplanung).
+- 2. Konformitätsbewertungsstellen für das Inverkehrbringen haben der Bundesministerin bzw. dem Bundesminister für Arbeit und Wirtschaft auf Verlangen Auskunft über ihre Tätigkeiten zu erteilen. Dies bezieht sich auch auf Auskünfte bezüglich bereits beauftragter jedoch erst zukünftig durchzuführender Prüftätigkeiten (Tätigkeitsplanung).
 
-- 3. Die Konformitätsbewertungsstellen haben den auf Basis dieses Gesetzes und der zugehörigen Verordnungen erfolgten Anordnungen des Bundesministers für Wissenschaft, Forschung und Wirtschaft unverzüglich oder innerhalb einer gegebenen Frist Folge zu leisten.
+- 3. Die Konformitätsbewertungsstellen haben den auf Basis dieses Gesetzes und der zugehörigen Verordnungen erfolgten Anordnungen der Bundesministerin bzw. des Bundesministers für Arbeit und Wirtschaft unverzüglich oder innerhalb einer gegebenen Frist Folge zu leisten.
 
-- 4. Die Konformitätsbewertungsstellen haben dem Bundesminister für Wissenschaft, Forschung und Wirtschaft die aktuellen Kontaktdaten und die Zustelladresse ihres Sitzes mitzuteilen.
+- 4. Die Konformitätsbewertungsstellen haben der Bundesministerin bzw. dem Bundesminister für Arbeit und Wirtschaft die aktuellen Kontaktdaten und die Zustelladresse ihres Sitzes mitzuteilen.
 
 ## Teil 3
 
