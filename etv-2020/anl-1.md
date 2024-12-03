@@ -1,16 +1,16 @@
 ### Anhang I
 
-## Verzeichnis der gemäß § 2 Abs. 1 verbindlichen rein österreichischen elektrotechnischen Normen und elektrotechnischen Referenzdokumente
+## Verzeichnis der gemäß § 3 Abs. 1 verbindlichen rein österreichischen elektrotechnischen Normen und elektrotechnischen Referenzdokumente
 
 | Nr. | Bezeichnung | Titel |
 
-| 1 | ÖVE-E 36/1970 | Errichtung und Betrieb von Elektrofischereianlagen (ausgenommen § 10.5) |
+| (Anm.: Nr. 1 aufgehoben durch Z 5, BGBl. II Nr. 329/2024) |
 
 | 2 | OVE E 8014:2019-01-01 | Fundamenterder und ergänzende Maßnahmen mit Erdung und Potentialausgleich für Einrichtungen der Informationstechnik |
 
-| 3 | OVE E 8065: 2017-03-01 | Errichtung elektrischer Anlagen in explosionsgefährdeten Bereichen |
+| 3 | OVE E 8065:2023-06-01 | Errichtung elektrischer Anlagen in explosionsgefährdeten Bereichen |
 
-| 4 | ÖVE/ÖNORM E 8385:2006-05-01 | Betrieb von elektrischen Anlagen -- Besondere Festlegungen für landwirtschaftliche und gartenbauliche Betriebsstätten |
+| 4 | OVE E 8385:2020-09-01 | Betrieb von elektrischen Anlagen -- Besondere Festlegungen für landwirtschaftliche und gartenbauliche Betriebsstätten |
 
 | 5 | ÖVE/ÖNORM E 8610:2012-11-01 | Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Dreipolige Steckdosen mit N- und Schutzkontakt; 16 A, AC 230/400 V |
 
@@ -40,13 +40,13 @@
 
 | 18 | ÖVE/ÖNORM E 8626:2012-11-01 | Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Lehren zur Überprüfung der Funktionsmaße |
 
-| 19 | OVE E 8684-1:2019-12-01 | Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 1: Allgemeine Anforderungen |
+| 19 | OVE E 8684-1:2021-12-01 | Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 1: Allgemeine Anforderungen |
 
 | 20 | ÖVE/ÖNORM E 8701-1:2003-01-01 | Prüfung nach Instandsetzung und Änderung und Wiederkehrende Prüfung elektrischer Geräte - Teil 1: Allgemeine Anforderungen |
 
 | 21 | ÖVE/ÖNORM E 8701-2-2:2003-11-01 | Prüfung nach Instandsetzung und Änderung und Wiederkehrende Prüfung elektrischer Geräte - Teil 2-2: Besondere Anforderungen für Elektrowerkzeuge |
 
-| 22 | ÖVE-EN 31/1981 | Errichtung von Elektrozaunanlagen |
+| (Anm.: Nr. 22 aufgehoben durch Z 9, BGBl. II Nr. 329/2024) |
 
 | 23 | ÖVE EN 50110-2-700:1998-11 | Betrieb von elektrischen Anlagen - Teil 2-700: Betrieb elektrischer Anlagen im Bergbau |
 
