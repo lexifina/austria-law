@@ -182,6 +182,8 @@
 
 | Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Leoben | LE |
 
+| BH Liezen für das Gebiet der Gemeinden Bad Aussee, Altaussee, Grundlsee und Bad Mitterndorf (Außenstelle Bad Aussee) | BA |
+
 ### VII. TIROL
 
 | Landespolizeidirektion Tirol für das Gebiet der Gemeinde Innsbruck | I |
