@@ -1,0 +1,1 @@
+Artikel 148e. Die Volksanwaltschaft hat Informationen von allgemeinem Interesse in einer für jedermann zugänglichen Art und Weise zu veröffentlichen, soweit und solange diese nicht nach Maßgabe des Art. 22a Abs. 2 zweiter Satz geheim zu halten sind.
