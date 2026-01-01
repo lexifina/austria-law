@@ -106,4 +106,4 @@
 
 - 34. Arzneimittel.
 
-- 35. Waren der monatlichen Damenhygiene aller Art (aus Unterpositionen 3924 90, 4014 90, 0511 99 39 und 9619 00 der Kombinierten Nomenklatur).
+(Anm.: Z 35 aufgehoben durch Art. 58 Z 4, BGBl. I Nr. 25/2025)
