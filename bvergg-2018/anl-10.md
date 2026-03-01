@@ -28,6 +28,6 @@
 
 - 2. der Summe der geschätzten Werte der aufgrund der Rahmenvereinbarung zu vergebenden Aufträge, die voraussichtlich gleichzeitig ausgeführt werden,
 
-zu berechnen. Ist keiner dieser Wert bekannt, so ist als Grundlage der geschätzte Wert der Rahmenvereinbarung heranzuziehen.
+zu berechnen. Ist keiner dieser Werte bekannt, so ist als Grundlage der geschätzte Wert der Rahmenvereinbarung heranzuziehen.
 
 (5) Bei einem dynamischen Beschaffungssystem ist der höchstzulässige Gesamtjahresumsatz gemäß Abs. 2 auf Grundlage des geschätzten Wertes des größten aufgrund des dynamischen Beschaffungssystems zu vergebenden Auftrages zu berechnen.

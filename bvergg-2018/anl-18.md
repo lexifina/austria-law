@@ -12,4 +12,4 @@
 
 - 5. öffentliche Dienstleistungsaufträge im Sinne der Verordnung (EG) Nr. 1370/2007 für die Bereitstellung von Personenverkehrsdiensten mit Bussen, Straßenbahnen, Eisenbahnen oder Untergrundbahnen, die auf der Grundlage eines wettbewerblichen Vergabeverfahrens gemäß Art. 5 Abs. 3 der Verordnung vergeben wurden und deren Laufzeit nicht den in Art. 4 Abs. 3 oder 4 der Verordnung genannten Zeitraum übersteigt;
 
-- 6. Erteilung von Rechten aufgrund eines Vergabeverfahrens mit vorheriger Bekanntmachung gemäß den Richtlinien 2009/81/EG, 2014/23/EU, 2014/24/EU und 2014/25/EU bzw. gemäß den in den entsprechenden Umsetzungsakten festgelegten Vergabefahren mit vorheriger Bekanntmachung.
+- 6. Erteilung von Rechten aufgrund eines Vergabeverfahrens mit vorheriger Bekanntmachung gemäß den Richtlinien 2009/81/EG, 2014/23/EU, 2014/24/EU und 2014/25/EU bzw. gemäß den in den entsprechenden Umsetzungsakten festgelegten Vergabeverfahren mit vorheriger Bekanntmachung.

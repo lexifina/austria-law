@@ -4,34 +4,36 @@
 
 - 1. Bundeskanzleramt
 
-- 2. Bundesministerium für öffentlichen Dienst und Sport
+- 2. Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport
 
-- 3. Bundesministerium für Europa, Integration und Äußeres
+- 3. Bundesministerium für europäische und internationale Angelegenheiten
 
-- 4. Bundesministerium für Arbeit, Soziales, Gesundheit und Konsumentenschutz
+- 4. Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
 
-- 5. Bundesministerium für Bildung, Wissenschaft und Forschung
+- 5. Bundesministerium für Bildung
 
-- 6. Bundesministerium für Digitalisierung und Wirtschaftsstandort
+- 6. Bundesministerium für Finanzen
 
-- 7. Bundesministerium für Finanzen
+- 7. Bundesministerium für Frauen, Wissenschaft und Forschung
 
 - 8. Bundesministerium für Inneres
 
-- 9. Bundesministerium für Landesverteidigung**)
+- 9. Bundesministerium für Innovation, Mobilität und Infrastruktur
 
-- 10. Bundesministerium für Nachhaltigkeit und Tourismus
+- 10. Bundesministerium für Justiz
 
-- 11. Bundesministerium für Verfassung, Reformen, Deregulierung und Justiz
+- 11. Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft
 
-- 12. Bundesministerium für Verkehr, Innovation und Technologie
+- 12. Bundesministerium für Landesverteidigung**)
 
-- 13. AIT Austrian Institute of Technology GmbH
+- 13. Bundesministerium für Wirtschaft, Energie und Tourismus
 
-- 14. Bundesbeschaffung Ges. m. b. H.
+- 14. AIT Austrian Institute of Technology GmbH
 
-- 15. Bundesrechenzentrum Ges. m. b. H
+- 15. Bundesbeschaffung GmbH.
+
+- 16. Bundesrechenzentrum GmbH
 
 *) Sofern sich aufgrund einer Änderung des Bundesministeriengesetzes 1986 (BMG), BGBl Nr. 76/1986, Änderungen im Zusammenhang mit den nachfolgend aufgeführten Bundesministerien ergeben, so treten an Stelle der im Anhang genannten Bundesministerien deren Nachfolger. Sofern sich Änderungen im Zusammenhang mit anderen im Anhang genannten zentralen öffentlichen Auftraggebern ergeben, so treten an deren Stelle ihre Rechtsnachfolger.
 
-**)Vgl. dazu die Warenliste in Anhang IV.
+**) Vgl. dazu die Warenliste in Anhang IV.

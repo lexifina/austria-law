@@ -58,8 +58,6 @@ Die einschlägigen Berufs- oder Handelsregister, Bescheinigungen oder Erklärung
 
 - – für Schweden das „aktiebolags-, handels- eller föreningsregistren“;
 
-- – im Fall des Vereinigten Königreichs kann der Unternehmer aufgefordert werden, eine Bescheinigung des „Registrar of Companies“ vorzulegen, aus der hervorgeht, dass er „incorporated“ oder „registered“ ist, oder anderenfalls eine Bescheinigung über eine von dem Betreffenden abgegebene eidesstattliche Erklärung, dass er den betreffenden Beruf an einem bestimmten Ort unter einer bestimmten Firma ausübt;
-
 - – für Island die „Firmaskrá“;
 
 - – für Liechtenstein das „Gewerberegister“;
