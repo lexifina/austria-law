@@ -2,4 +2,4 @@ Artikel 148b. (1) Alle Organe des Bundes, der Länder, der Gemeinden und der Gem
 
 (2) Die Volksanwaltschaft unterliegt der Verpflichtung zur Geheimhaltung im gleichen Umfang wie das Organ, an das die Volksanwaltschaft in Erfüllung ihrer Aufgaben herangetreten ist. Bei der Erstattung der Berichte an den Nationalrat und an den Bundesrat ist die Volksanwaltschaft zur Geheimhaltung nur insoweit verpflichtet, als dies im Interesse der nationalen Sicherheit oder der umfassenden Landesverteidigung oder zur Wahrung überwiegender berechtigter Interessen eines anderen erforderlich ist.
 
-(3) Die Abs. 1 und 2 gelten sinngemäß auch für die Mitglieder der Kommissionen und die Mitglieder und Ersatzmitglieder des Menschenrechtsbeirats.
+(3) Die Abs. 1 und 2 gelten sinngemäß auch für die Mitglieder der Kommissionen (Art. 148h Abs. 3 und 4) und die Mitglieder und Ersatzmitglieder des Menschenrechtsbeirats.
