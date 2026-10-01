@@ -1,6 +1,6 @@
 ### Anhang VI
 
-## In die Bekanntmachung gemäß § 56 und in die Bekanntgabe gemäß § 61 aufzunehmende Angaben
+## In die Bekanntmachung gemäß den §§ 56 und 59 sowie in die Bekanntgabe gemäß den §§ 61 und 62 aufzunehmende Angaben
 
 ## TEIL A
 

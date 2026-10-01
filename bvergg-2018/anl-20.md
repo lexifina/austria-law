@@ -1,6 +1,6 @@
 ### Anhang XX
 
-## In die Bekanntmachung gemäß § 225 und in die Bekanntgabe gemäß § 231 aufzunehmende Angaben
+## In die Bekanntmachung gemäß den §§ 225 und 229 sowie in die Bekanntgabe gemäß den §§ 231 und 232 aufzunehmende Angaben
 
 ## KAPITEL A
 
