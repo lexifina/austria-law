@@ -1,0 +1,42 @@
+{
+  "corpus": "at/bund/acts",
+  "name": "Austrian federal law (Bundesrecht konsolidiert): B-VG, DSG",
+  "label": "Austria",
+  "language": "de",
+  "acts": [
+    "B-VG (BGBl. Nr. 1/1930)",
+    "DSG (BGBl. I Nr. 165/1999)"
+  ],
+  "history_from": "1930-01-03",
+  "record_to": "2026-06-12",
+  "record_note": "checked against the RIS OGD data retrieved 2026-10-28",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "built": "2026-10-28",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "future_branch": null,
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Gazette",
+      "Date-note"
+    ],
+    "time": "12:00 Europe/Vienna (UTC+1, UTC+2 in summer time); before 1970: 1970-01-01 UTC, seconds apart"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "laws do not act retroactively",
+      "meaning": "a law applies to facts from the day it takes effect and does not affect earlier acts or rights acquired before then, unless it says otherwise; in criminal law a later law applies to earlier acts only where it is more favourable to the offender",
+      "authority": "§ 5 ABGB (\"Gesetze wirken nicht zurück und haben daher auf vorhergegangene Handlungen und auf vorher erworbene Rechte keinen Einfluß.\"); § 1 and § 61 StGB; Art. 7 EMRK",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "(par|art)-0*([0-9]+[a-z]?)\\.md",
+    "cites": "(§|Art\\.) ?{n}([^0-9a-z]|$)"
+  },
+  "tool": "tools/stand_am.py"
+}
