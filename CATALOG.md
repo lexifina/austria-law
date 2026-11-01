@@ -63,8 +63,8 @@ fail because the source changed during acquisition, repeat with a fresh cache.
 
 A small manual probe on 2026-11-01 returned **10,679 title hits** and 100 title records on the first page.
 This is a source-reported count, not a completed catalog or a count of statutes alone. At that count a complete
-catalog takes 107 API requests, at least 212 seconds of inter-request pauses plus response times. No bulk run
-or full-text acquisition was performed while preparing this change. `tools/fixtures/federal-title.json` is one
+catalog takes 107 API requests, at least 212 seconds of inter-request pauses plus response times. No bulk catalog run was performed while preparing this change. A separate manual one-law full-text probe and
+the initial/weekly text downloader are documented in [CURRENT_SYNC.md](CURRENT_SYNC.md). `tools/fixtures/federal-title.json` is one
 unaltered document reference from that first page; pagination tests use synthetic envelopes. Its source is the
 same query produced by `query_url('federal', '2026-11-01', 1)`, retrieved on 2026-11-01. It is covered by the RIS
 CC BY 4.0 attribution below.

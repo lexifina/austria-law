@@ -88,6 +88,7 @@ headings of the parts that begin with a provision are `##` lines, its own headin
 
 [`CATALOG.md`](CATALOG.md) describes a separate, resumable RIS title-catalog importer and its access rules.
 A catalog lists instruments and source links; it does not expand the two-act legal-text history above.
+[`CURRENT_SYNC.md`](CURRENT_SYNC.md) covers separate current-text snapshots and incremental weekly refreshes.
 
 ## How it is built
 

@@ -131,15 +131,17 @@ class Client:
         self.cache, self.offline, self.user_agent = cache, offline, user_agent
         self.last = 0.0
 
-    def get(self, url):
+    def get(self, url, *, kind="json", validate=None):
         key = hashlib.sha256(url.encode()).hexdigest()
-        body_path = self.cache / (key + '.json')
+        body_path = self.cache / (key + ('.json' if kind == 'json' else '.html'))
         meta_path = self.cache / (key + '.meta.json')
         if body_path.exists() and meta_path.exists():
             body = body_path.read_bytes()
             meta = json.loads(meta_path.read_text(encoding='utf-8'))
             if meta['url'] != url or meta['sha256'] != hashlib.sha256(body).hexdigest():
                 raise ValueError(f'cache integrity failure: {body_path}')
+            if validate:
+                validate(body)
             return body, meta
         if self.offline:
             raise ValueError(f'not cached: {url}')
@@ -150,7 +152,8 @@ class Client:
                 time.sleep(30)
             try:
                 request = urllib.request.Request(url, headers={
-                    'User-Agent': self.user_agent, 'Accept-Encoding': 'gzip', 'Accept': 'application/json',
+                    'User-Agent': self.user_agent, 'Accept-Encoding': 'gzip',
+                    'Accept': 'application/json' if kind == 'json' else 'text/html',
                 })
                 try:
                     with urllib.request.urlopen(request, timeout=120) as response:
@@ -160,9 +163,14 @@ class Client:
                 finally:
                     self.last = time.monotonic()
                 # Do not persist an HTTP-200 error or HTML page as a successful result.
-                result = json.loads(body)['OgdSearchResult']
-                if 'OgdDocumentResults' not in result:
-                    raise ValueError(f'RIS returned no results: {result}')
+                if kind == 'json':
+                    result = json.loads(body)['OgdSearchResult']
+                    if 'OgdDocumentResults' not in result:
+                        raise ValueError(f'RIS returned no results: {result}')
+                elif validate is None:
+                    raise ValueError('HTML downloads require a validator')
+                if validate:
+                    validate(body)
                 meta = {'url': url, 'sha256': hashlib.sha256(body).hexdigest(),
                         'retrieved_at': dt.datetime.now(dt.timezone.utc).isoformat()}
                 atomic_write(body_path, body)
