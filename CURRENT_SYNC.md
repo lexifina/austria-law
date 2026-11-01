@@ -63,7 +63,7 @@ depends on the number of changed instruments. A complete re-download should ordi
 `tools/run_current_job.py` runs a sync, verifies and exports the completed generation into an isolated checkout,
 pushes a dated branch to the configured `fork` remote, and opens a data-only PR against `lexifina/austria-law`.
 It requires authenticated `gh`, Git, a read-only `origin` pointing at the upstream repo, and a writable `fork`
-remote. It never merges a PR or rewrites existing branches. The notice gate applies before the download starts.
+remote. It skips publication when an update has no text or catalog-metadata changes. It never merges a PR or rewrites existing branches. The notice gate applies before the download starts.
 
 ```sh
 python tools/run_current_job.py --root ../ris-sync --repo . --date 2026-11-01 \

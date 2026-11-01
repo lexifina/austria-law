@@ -181,6 +181,21 @@ class SyncTests(unittest.TestCase):
             self.assertFalse((root / '.running').exists())
             self.assertEqual(sync.read(root / 'status.json')['phase'], 'failed')
 
+    def test_job_does_not_open_pr_for_unchanged_snapshot(self):
+        import run_current_job
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.run_sync(root, '2026-11-01', FakeClient(['20000001']))
+            self.run_sync(root, '2026-11-08', FakeClient(['20000001']))
+            argv = ['run_current_job.py', '--root', str(root), '--repo', str(root),
+                    '--date', '2026-11-08', '--notice-file', str(root / 'notice.json')]
+            with patch('sys.argv', argv), patch('subprocess.run'), patch.object(run_current_job, 'command') as command:
+                with contextlib.redirect_stdout(io.StringIO()):
+                    run_current_job.main()
+                command.assert_not_called()
+            self.assertEqual(sync.read(root / 'job-2026-11-08.json')['phase'], 'no_changes')
+
     def test_boundary_query_names(self):
         url = sync.changes_url('starts', '2026-11-01', '2026-11-08', 1)
         q = parse_qs(urlsplit(url).query)

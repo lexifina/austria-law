@@ -25,8 +25,8 @@ def main():
     root, repo = args.root.resolve(), args.repo.resolve()
     root.mkdir(parents=True, exist_ok=True)
     job = root / ('job-' + args.date.isoformat() + '.json')
-    if job.exists() and sync_current.read(job).get('phase') == 'published':
-        print(sync_current.read(job)['pr_url'])
+    if job.exists() and sync_current.read(job).get('phase') in ('published', 'no_changes'):
+        print(sync_current.read(job).get('pr_url', 'No changes to publish.'))
         return
     try:
         invocation = [sys.executable, '-u', str(Path(__file__).with_name('sync_current.py')),
@@ -37,6 +37,10 @@ def main():
         manifest = sync_current.read(root / 'runs' / str(args.date) / 'manifest.json')
         if not manifest['complete'] or manifest['as_of'] != str(args.date):
             raise ValueError('sync did not produce the requested complete generation')
+        if manifest.get('previous_as_of') and not manifest['changes']:
+            sync_current.save(job, {'phase': 'no_changes', 'as_of': str(args.date), 'count': manifest['count']})
+            print('No changes to publish.', flush=True)
+            return
         branch = 'codex/current-federal-' + str(args.date)
         checkout = root / ('pr-' + str(args.date))
         if not checkout.exists():

@@ -255,6 +255,8 @@ def sync(root, date, client, progress):
             unchanged = before and block_hash((previous_run / before['file']).read_bytes()) == block_hash(html)
             if not unchanged:
                 changes.append({'nr': nr, 'change': 'added' if before is None else 'changed'})
+            elif catalog_fingerprint(row) != catalog_fingerprint(before['catalog']):
+                changes.append({'nr': nr, 'change': 'metadata'})
         records.append(entry)
         # Persist each response in the cache; retain the prior published manifest until all succeed.
         progress('texts', i, len(new))
