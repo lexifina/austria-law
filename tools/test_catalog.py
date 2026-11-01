@@ -99,6 +99,14 @@ class CatalogTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, 'not in force'):
                 self.collect([page([value])])
 
+    def test_source_title_without_start_date_is_retained_as_unknown(self):
+        value = json.loads((Path(__file__).parent / 'fixtures/undated-title.json').read_text())
+        result = catalog.record(value, 'federal', DATE)
+        self.assertEqual(result['nr'], '10001518')
+        self.assertIsNone(result['in_force_from'])
+        self.assertEqual(result['validity_status'], 'unknown_missing_start_date')
+        self.assertIn('späteren Zeitpunkt', result['ris_notes'])
+
     def test_end_date_is_inclusive(self):
         value = ref(1)
         value['Data']['Metadaten']['Bundesrecht']['BrKons']['Ausserkrafttretensdatum'] = DATE

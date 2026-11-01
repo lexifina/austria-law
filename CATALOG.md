@@ -1,7 +1,6 @@
 # Current federal-law catalog
 
-`tools/catalog.py` discovers the **§ 0 title records in Bundesrecht konsolidiert (BrKons)** that RIS reports as in
-force on an explicit date. This includes regulations, treaties and other federal instruments, not just statutes.
+`tools/catalog.py` discovers the **§ 0 title records in Bundesrecht konsolidiert (BrKons)** returned by RIS for an explicit as-of date. This includes regulations, treaties and other federal instruments, not just statutes.
 It is a metadata catalog with dated links to the full consolidated text. It does not import that text or amendment
 histories, does not cover Land law, and does not claim to enumerate every source of Austrian law.
 
@@ -56,7 +55,9 @@ sections for BrKons and complex parameters.
 
 The importer rejects API errors, incorrect page number/size, truncated pages, changing hit counts, repeated
 document IDs, multiple title records for a law, wrong applications, records other than `§ 0`/`Norm`, and title
-versions outside the requested inclusive validity window. It checks cached bytes against their recorded hash.
+versions whose recorded dates fall outside the requested inclusive validity window. Some RIS title records have
+no Inkrafttretensdatum (for example NOR11001538); these are retained with `validity_status: unknown_missing_start_date`,
+the missing date left null, and the source Beachte note preserved. Their entry into force is not asserted. It checks cached bytes against their recorded hash.
 Only a fully enumerated result gets `complete: true`, scoped explicitly to this query. RIS has no transactional
 snapshot token: these checks cannot detect every concurrent edit, or prove RIS itself is complete. If checks
 fail because the source changed during acquisition, repeat with a fresh cache.

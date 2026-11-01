@@ -88,3 +88,6 @@ identity and truncated HTML. A live weekly bulk refresh has not yet been run.
 
 Source: Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt, https://www.ris.bka.gv.at, CC BY 4.0.
 Access rules and the recommendation to use History are in https://data.bka.gv.at/ris/api/v2.6/.
+
+RIS can return undated title records in the as-of query. Their catalog records explicitly flag unknown validity
+and retain source notes; inclusion in a snapshot does not establish that such an instrument entered into force.

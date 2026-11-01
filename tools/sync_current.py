@@ -193,7 +193,7 @@ def changed_laws(client, start, end):
 
 def catalog_fingerprint(row):
     return {key: row.get(key) for key in ('nr', 'kurztitel', 'titel_html', 'abkuerzung', 'typ',
-            'kundmachungsorgan', 'in_force_from', 'in_force_to', 'document_id')}
+            'kundmachungsorgan', 'in_force_from', 'in_force_to', 'validity_status', 'ris_notes', 'document_id')}
 
 
 def link_or_copy(source, target):
@@ -216,7 +216,8 @@ def sync(root, date, client, progress):
             return previous
         raise ValueError('cannot replace a newer snapshot with an older one')
     progress('catalog', 0, None)
-    index = catalog.discover(['federal'], date, client.get)
+    index = catalog.discover(['federal'], date, client.get,
+                             progress=lambda done, total: progress('catalog', done, total))
     save(run / 'catalog.json', index)
     old = {row['nr']: row for row in previous['records']} if previous else {}
     new = {row['nr']: row for row in index['records']}
@@ -323,7 +324,9 @@ def main():
         manifest = sync(args.root, args.date.isoformat(), client, progress)
         progress('complete', manifest['count'], manifest['count'], manifest=f'runs/{args.date}/manifest.json')
     except BaseException as exc:
-        progress('failed', 0, None, error=str(exc))
+        last = read(status) if status.exists() else {}
+        progress('failed', last.get('completed', 0), last.get('total'),
+                 failed_phase=last.get('phase'), error=str(exc))
         raise
     finally:
         if awake is not None:

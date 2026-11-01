@@ -90,10 +90,11 @@ def record(ref, scope, date):
     if not re.fullmatch(r'\d{8}', nr):
         raise ValueError(f'invalid Gesetzesnummer: {nr!r}')
     start, end = norm.get('Inkrafttretensdatum'), norm.get('Ausserkrafttretensdatum')
-    if not start or start > date or (end and end < date):
+    if (start and start > date) or (end and end < date):
         raise ValueError(f'{nr}: title record is not in force on {date}')
     # Parse the dates too, rather than accepting malformed lexical comparisons.
-    dt.date.fromisoformat(start)
+    if start:
+        dt.date.fromisoformat(start)
     if end:
         dt.date.fromisoformat(end)
     urls = {}
@@ -111,7 +112,9 @@ def record(ref, scope, date):
         'kurztitel': law.get('Kurztitel', '').strip(),
         'titel_html': law.get('Titel', ''), 'abkuerzung': norm.get('Abkuerzung'),
         'typ': norm.get('Typ'), 'kundmachungsorgan': norm.get('Kundmachungsorgan'),
-        'in_force_from': start, 'in_force_to': end, 'document_id': md['Technisch']['ID'],
+        'in_force_from': start, 'in_force_to': end,
+        'validity_status': 'within_recorded_dates' if start else 'unknown_missing_start_date',
+        'ris_notes': norm.get('Beachte'), 'document_id': md['Technisch']['ID'],
         'document_url': md['Allgemein'].get('DokumentUrl'),
         'eli': norm.get('Eli') or law.get('Eli'),
         'full_text_url': full_url, 'title_document_urls': urls,
@@ -196,7 +199,7 @@ class Client:
         raise AssertionError('unreachable')
 
 
-def discover(scopes, date, get):
+def discover(scopes, date, get, progress=None):
     records, queries, totals = [], [], {}
     for scope in scopes:
         expected_total, seen, seen_laws = None, set(), set()
@@ -218,14 +221,17 @@ def discover(scopes, date, get):
                 records.append(row)
             queries.append({'scope': scope, 'page': page, 'hits': total, **provenance})
             print(f'{scope}: page {page}/{max(1, math.ceil(total / 100))}, {len(seen)}/{total} titles', flush=True)
+            if progress:
+                progress(len(seen), total)
             if len(seen) == total:
                 break
             page += 1
         totals[scope] = expected_total
     return {
         'schema_version': 1, 'as_of': date, 'complete': True,
-        'coverage': 'All RIS consolidated-law § 0 title records in force on as_of in the listed jurisdictions; '
-                    'not a full-text or historical-version download, nor all Austrian sources of law.',
+        'coverage': 'All consolidated-law § 0 title records returned by the RIS as-of-date query for the listed '
+                    'jurisdictions. Records without a start date have unknown validity, explicitly flagged. '
+                    'Not a full-text or historical-version download, nor all Austrian sources of law.',
         'source': SOURCE, 'source_url': 'https://www.ris.bka.gv.at/',
         'license': 'CC-BY-4.0',
         'attribution': 'Quelle: ' + SOURCE + ', https://www.ris.bka.gv.at, CC BY 4.0. '
