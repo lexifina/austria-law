@@ -1,93 +1,91 @@
-# Current text downloads and weekly updates
+# Current federal law: clean import and update checks
 
-`tools/sync_current.py` downloads one RIS whole-law HTML response for each current federal instrument. It first
-completes the catalog described in CATALOG.md, then acquires the texts sequentially. It retains every
-`documentContent` block in RIS order, including repeated article designations originating in different amending
-acts. It checks the returned instrument, date, application, title block and complete HTML response. Scripts,
-event handlers, UI tokens and transient IDs are excluded; legal wording and block order are preserved, and
-source links become absolute. External binary annexes/images remain links and are not mirrored.
+The current snapshot is separate from the existing `b-vg/` and `dsg/` amendment histories.
+The importer does not reconstruct history or infer enactment dates. See [CURRENT_FORMAT.md](CURRENT_FORMAT.md)
+for the finalized data contract.
 
-This is a current-text snapshot, separate from the repository's existing amendment histories. It does not need
-the missing `reproduce.py` history-builder dependency. No historical enactment dates or amendment authors are
-invented for the snapshot.
-
-## Initial run and advance notice
-
-Send the RIS notice with the real downloader IP, user agent, period, and recurring weekly access if desired.
-Record a notice **actually sent**, outside the repository, as JSON with `sent_at` (ISO timestamp), `user_agent`,
-`source_ip`, and `weekly` (boolean). This file is an operational record, not an email sender or an approval
-response. Never create a sent-notice record merely to bypass the gate. Do not commit the notice or source IP.
+## Setup
 
 ```sh
-python tools/sync_current.py --root ../ris-sync --date 2026-11-01 \
-  --notice-file ../ris-sync/notice-sent.json --wait-for-notice
+python3 -m venv .venv
+.venv/bin/pip install -r tools/requirements-current.txt
 ```
 
-The optional wait flag arms the run but performs no RIS requests until the sent-notice record exists.
-`status.json` distinguishes `waiting_for_notice`, `catalog`, `texts`, `failed`, and `complete`. The raw-response
-cache makes interrupted downloads resumable. A lock permits one sync at a time. On macOS, `caffeinate` inhibits
-idle system sleep during an authorised network run, not while awaiting the notice; lid closure, shutdown and
-manual sleep can still interrupt it. Resume the same command afterward. Use only one RIS process per source IP.
+## Capture, build, validate, review, export
 
-A completed generation lives in `runs/<date>/`, with a catalog, `current/<Gesetzesnummer>.html` files and a
-manifest containing hashes, sources and provision designations. Only after all acquisitions succeed does
-`latest.json` point to the new generation. Failures leave the previous published generation intact. Raw-response
-caches are immutable acquisitions for that date; use a fresh root/cache to deliberately reacquire the same date.
+These stages are separate. Neither downloading nor checking for updates pushes commits, opens a PR or merges.
 
-`--offline` permits a full replay from cached source responses without sending requests.
-
-## Weekly refresh
-
-Run the same command with the next snapshot date and the same root. The updater:
-
-1. Refreshes the small current title catalog to identify new, removed or retitled instruments.
-2. Queries `History?Anwendung=Bundesnormen&IncludeDeletedDocuments=True` from two days before the last completed
-   snapshot through the new date, paging through all results.
-3. Also queries versions whose Inkrafttretensdatum or Ausserkrafttretensdatum falls in that window. This catches
-   provisions taking effect or expiring even if they were published before the previous scan.
-4. Downloads whole-law texts only for affected instruments and reuses verified local files for the others.
-5. Records added, changed and removed instruments, comparing extracted legal-content blocks to suppress changes
-   caused only by the page wrapper. It advances the checkpoint only after the entire new generation succeeds.
-
-Unknown deletion records without a law number conservatively trigger reconciliation of all current texts.
-Unrecognised response/pagination schemas fail instead of silently advancing the checkpoint. The history feed
-may include historical corrections that do not change today's text; those can cause harmless extra fetches.
-Source coverage still depends on what RIS exposes and there is no transactional source snapshot token.
-
-The baseline includes 107 catalog requests at the observed 10,679-title count. Each weekly scan similarly needs
-a few minutes for catalog metadata, plus change-feed pages and the affected full texts. The actual duration
-depends on the number of changed instruments. A complete re-download should ordinarily be unnecessary.
-
-## Data pull requests
-
-`tools/run_current_job.py` runs a sync, verifies and exports the completed generation into an isolated checkout,
-pushes a dated branch to the configured `fork` remote, and opens a data-only PR against `lexifina/austria-law`.
-It requires authenticated `gh`, Git, a read-only `origin` pointing at the upstream repo, and a writable `fork`
-remote. It skips publication when an update has no text or catalog-metadata changes. It never merges a PR or rewrites existing branches. The notice gate applies before the download starts.
+For the completed initial download, reuse the cache without contacting RIS:
 
 ```sh
-python tools/run_current_job.py --root ../ris-sync --repo . --date 2026-11-01 \
-  --notice-file ../ris-sync/notice-sent.json --wait-for-notice
+.venv/bin/python tools/run_current_job.py --root ../ris-sync --date 2026-11-01 \
+  --notice-file ../ris-sync/notice-sent.json --offline
 ```
 
-For an export without publication, use `tools/export_current.py --root ../ris-sync --checkout <checkout>`.
-It verifies every content hash and the catalog/manifest IDs before copying any files. Exported files are
-`data/current/*.html`, `data/current-catalog.json` and `data/current-snapshot.json`.
+For a new capture, omit `--offline`, with a valid notice covering that period. The job creates a candidate under
+`<root>/clean/<date>/`. `--candidate` selects another output location. Candidates are immutable: a retry verifies
+an existing generation; use a new candidate directory when changing conversion code or identity resolutions.
+`--previous` selects a verified clean baseline; otherwise the last successful clean candidate is used for a newer date.
 
-## Validation and provenance
+`job-<date>.json` reports `ready_for_review`, `no_changes`, `needs_attention` or `failed`. Exit status 2 means
+validation requires attention. `quality-report.json` lists every blocking issue and changed instrument.
+The clean baseline advances only after all clean-data checks succeed. The separate raw `latest.json` means
+capture completed, and does not imply that its data is reviewed or publishable.
+
+Inspect changed Markdown, metadata and rendered examples, including tables, notes and source attachments.
+Then record the actual review, bound to the exact candidate manifest:
 
 ```sh
-python -m unittest discover -s tools -p test_catalog.py -v
-python -m unittest discover -s tools -p 'test_*current.py' -v
+.venv/bin/python tools/clean_current.py review ../ris-sync/clean/2026-11-01 \
+  --reviewer 'Reviewer name' --notes 'Describe the inspected cases and remaining limitations.'
+.venv/bin/python tools/export_current.py --candidate ../ris-sync/clean/2026-11-01 --checkout <data-checkout>
 ```
 
-A manual ABGB full-law probe on 2026-11-01 returned 1,380 provision blocks, including repeated article
-labels. The extractor retained all blocks in order and removed active page code. Offline tests cover partial
-failure, prior-generation preservation, incremental downloads, effective-date changes, deletions, wrong-page
-identity and truncated HTML. A live weekly bulk refresh has not yet been run.
+The export verifies all hashes and the review receipt before replacing generated data. It refuses unrelated
+files in the destination and can migrate the previous HTML export after verifying its manifest. Publishing
+is a separate Git/PR action after inspecting the staged diff. Keep the resulting PR in draft during review.
+An unchanged scan requires no PR. Refresh an existing pending data PR rather than opening duplicates.
 
-Source: Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt, https://www.ris.bka.gv.at, CC BY 4.0.
-Access rules and the recommendation to use History are in https://data.bka.gv.at/ris/api/v2.6/.
+## Incremental checks and automation
 
-RIS can return undated title records in the as-of query. Their catalog records explicitly flag unknown validity
-and retain source notes; inclusion in a snapshot does not establish that such an instrument entered into force.
+Run `run_current_job.py` with a newer date and the same root. It refreshes the title catalog, queries RIS History
+with deleted documents and a two-day overlap, and checks provisions entering into force or expiring in the
+window. Only affected whole-law texts are fetched; other verified captures are reused. Unmapped deletion
+records trigger full reconciliation. Pagination, application and effective-date filters are checked.
+
+Normalization still checks the entire candidate offline. The clean diff compares provisions and metadata;
+observation dates, retrieval hashes and source-block positions do not create substantive changes. The report
+lists added/removed instruments and provisions, changed text, and changed metadata. Missing or unexpected
+structures stop automatic export. An unknown ambiguous identity requires a reviewed source-to-key mapping.
+
+This command can be invoked by a scheduler. It has no GitHub side effects and no interactive prompts. No weekly
+schedule is installed by these tools. A live incremental RIS run has not yet been exercised; regression tests
+simulate added/removed laws, amendments, effective dates, deletion fallback and interrupted acquisition.
+RIS has no transactional snapshot token, so completeness remains bounded by its catalog and change feed.
+
+## RIS access and notice
+
+Record a notice actually sent in a local file outside Git: `sent_at` (ISO timestamp), `user_agent`, `source_ip`,
+`period_start`, `period_end` (inclusive Vienna dates), and `weekly` (boolean). Do not put the IP or receipt in Git.
+A recurring check needs a notice covering recurring use and its dates. The initial notice does not authorize
+later access automatically. The downloader checks the period before starting and before every network request.
+
+Only one sequential connection is used, with a two-second pause after a response. Access waits for 20:00–05:00
+Vienna time, weekends or Austrian public holidays. A lock prevents simultaneous syncs within one job root;
+use only one downloader per source IP. The response cache is verified and resumable. An incomplete capture
+never replaces the prior complete capture. `--offline` sends no RIS requests. There is no email sender.
+
+`status.json` describes capture progress. `--wait-for-notice` waits for a notice file without fetching.
+On macOS, `caffeinate` inhibits idle sleep during authorized capture; lid closure and shutdown still interrupt it.
+
+## Checks
+
+```sh
+.venv/bin/python -m unittest discover -s tools -p 'test_catalog.py' -v
+.venv/bin/python -m unittest discover -s tools -p 'test_*current.py' -v
+.venv/bin/python tools/clean_current.py verify ../ris-sync/clean/2026-11-01
+.venv/bin/python tools/clean_current.py reproduce ../ris-sync/clean/2026-11-01 --run ../ris-sync/runs/2026-11-01
+```
+
+Source: [RIS, Bundeskanzleramt](https://www.ris.bka.gv.at), CC BY 4.0.
+[Official API and access information](https://data.bka.gv.at/ris/api/v2.6/).

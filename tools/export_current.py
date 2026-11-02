@@ -1,46 +1,71 @@
-"""Export a verified completed snapshot into a checkout for a separate data PR."""
+"""Export an independently reviewed clean candidate into a checkout. No network or PR writes."""
+
 import argparse
-import hashlib
-import json
 from pathlib import Path
-import re
+import os
 import shutil
+import tempfile
+import clean_current as clean
 
 
-def export(root, checkout):
-    latest = json.loads((root / 'latest.json').read_text())
-    run = root / Path(latest['manifest']).parent
-    manifest = json.loads((run / 'manifest.json').read_text())
-    catalog = json.loads((run / 'catalog.json').read_text())
-    if not manifest.get('complete') or not catalog.get('complete'):
-        raise ValueError('only complete snapshots can be exported')
-    records = manifest['records']
-    ids = {r['nr'] for r in records}
-    if (len(records) != manifest['count'] or len(ids) != len(records)
-            or ids != {r['nr'] for r in catalog['records']}):
-        raise ValueError('snapshot/catalog counts or instruments differ')
-    # Verify everything before modifying the destination checkout.
-    for row in records:
-        if not re.fullmatch(r'\d{8}', row['nr']) or row['file'] != f'current/{row["nr"]}.html':
-            raise ValueError('unexpected snapshot path')
-        raw = (run / row['file']).read_bytes()
-        if hashlib.sha256(raw).hexdigest() != row['sha256']:
-            raise ValueError(f'{row["nr"]}: snapshot hash mismatch')
-    target = checkout / 'data' / 'current'
-    target.mkdir(parents=True, exist_ok=True)
-    for row in records:
-        shutil.copyfile(run / row['file'], target / (row['nr'] + '.html'))
-    for path in target.iterdir():
-        if re.fullmatch(r'\d{8}\.html', path.name) and path.stem not in ids:
-            path.unlink()
-    (checkout / 'data/current-snapshot.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
-    (checkout / 'data/current-catalog.json').write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n')
-    return manifest['count']
+def export(candidate, checkout, review=None):
+    manifest = clean.verify(candidate)
+    review = review or candidate.with_name(candidate.name + "-review.json")
+    receipt = clean.read(review)
+    if (
+        not receipt.get("reviewer")
+        or not receipt.get("notes")
+        or receipt.get("manifest_sha256") != clean.digest(candidate / "manifest.json")
+    ):
+        raise ValueError("review receipt does not match the exact validated candidate")
+    data = checkout / "data"
+    data.mkdir(parents=True, exist_ok=True)
+    target = data / "current"
+    if target.exists():
+        if (target / "manifest.json").exists():
+            clean.verify(target)
+        else:
+            # Recognise only the previous generated HTML export before replacing it.
+            old = clean.read(data / "current-snapshot.json")
+            files = {r["nr"] + ".html": r["sha256"] for r in old["records"]}
+            if {p.name for p in target.iterdir()} != set(files):
+                raise ValueError("unrecognised destination files")
+            if any(clean.digest(target / name) != sha for name, sha in files.items()):
+                raise ValueError("previous export hash mismatch")
+    stage = Path(tempfile.mkdtemp(prefix=".current-", dir=data))
+    backup = data / ".current-backup"
+    if backup.exists():
+        raise ValueError(
+            "unfinished prior export; inspect .current-backup before retrying"
+        )
+    try:
+        shutil.copytree(candidate, stage, dirs_exist_ok=True)
+        clean.verify(stage)
+        if target.exists():
+            os.replace(target, backup)
+        try:
+            os.replace(stage, target)
+        except BaseException:
+            if backup.exists():
+                os.replace(backup, target)
+            raise
+        if backup.exists():
+            shutil.rmtree(backup)
+        for name in ("current-catalog.json", "current-snapshot.json"):
+            path = data / name
+            if path.exists():
+                path.unlink()
+        clean.save(data / "current-review.json", receipt)
+    finally:
+        if stage.exists():
+            shutil.rmtree(stage)
+    return manifest["instrument_count"]
 
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--root', type=Path, required=True)
-    parser.add_argument('--checkout', type=Path, required=True)
-    args = parser.parse_args()
-    print(f'Exported {export(args.root, args.checkout)} instruments')
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--candidate", type=Path, required=True)
+    ap.add_argument("--checkout", type=Path, required=True)
+    ap.add_argument("--review", type=Path)
+    args = ap.parse_args()
+    print(f"Exported {export(args.candidate, args.checkout, args.review)} instruments")

@@ -130,8 +130,9 @@ def atomic_write(path, data):
 
 class Client:
     """One sequential connection with a two-second pause after every response."""
-    def __init__(self, cache, offline=False, user_agent=None):
+    def __init__(self, cache, offline=False, user_agent=None, before_request=None):
         self.cache, self.offline, self.user_agent = cache, offline, user_agent
+        self.before_request = before_request
         self.last = 0.0
 
     def get(self, url, *, kind="json", validate=None):
@@ -154,6 +155,8 @@ class Client:
                 print('Outside RIS bulk access hours; checking again in 30 seconds.', flush=True)
                 time.sleep(30)
             try:
+                if self.before_request:
+                    self.before_request()
                 request = urllib.request.Request(url, headers={
                     'User-Agent': self.user_agent, 'Accept-Encoding': 'gzip',
                     'Accept': 'application/json' if kind == 'json' else 'text/html',

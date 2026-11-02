@@ -206,6 +206,17 @@ def link_or_copy(source, target):
         shutil.copyfile(source, target)
 
 
+def check_notice_period(notice, now=None):
+    """Check at request time too: waiting for an access window cannot extend a notice."""
+    now=now or dt.datetime.now(ZoneInfo('Europe/Vienna'))
+    start=notice.get('period_start');end=notice.get('period_end')
+    if not start or not end:
+        raise ValueError('sent notice needs explicit period_start and period_end before network access')
+    first,last=dt.date.fromisoformat(start),dt.date.fromisoformat(end)
+    if not first<=now.date()<=last:
+        raise ValueError('current date is outside the announced RIS access period')
+
+
 def sync(root, date, client, progress):
     run = root / 'runs' / date
     run.mkdir(parents=True, exist_ok=True)
@@ -312,7 +323,9 @@ def main():
                 if not notice.get(key):
                     raise ValueError(f'notice receipt is missing {key}')
             dt.datetime.fromisoformat(notice['sent_at'])
-            if (args.root / 'latest.json').exists() and not notice.get('weekly'):
+            check_notice_period(notice)
+            latest=read(args.root/'latest.json') if (args.root/'latest.json').exists() else None
+            if latest and latest['as_of']<args.date.isoformat() and not notice.get('weekly'):
                 raise ValueError('recurring downloads were not included in the sent notice')
         if args.date > dt.datetime.now(ZoneInfo('Europe/Vienna')).date():
             raise ValueError('snapshot date is in the future')
@@ -320,7 +333,8 @@ def main():
             awake = subprocess.Popen(['caffeinate', '-i', '-w', str(os.getpid())])
         cache = args.root / 'cache' / args.date.isoformat()
         cache.mkdir(parents=True, exist_ok=True)
-        client = catalog.Client(cache, args.offline, notice.get('user_agent', UA))
+        client = catalog.Client(cache, args.offline, notice.get('user_agent', UA),
+                                before_request=lambda: check_notice_period(notice))
         manifest = sync(args.root, args.date.isoformat(), client, progress)
         progress('complete', manifest['count'], manifest['count'], manifest=f'runs/{args.date}/manifest.json')
     except BaseException as exc:
