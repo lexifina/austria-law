@@ -1,0 +1,3 @@
+Bundesgesetz über die Finanzierung politischer Parteien (Parteiengesetz 2012 – PartG) StF: [BGBl. I Nr. 56/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/56>) (NR: GP XXIV [RV 1782](<https://www.parlament.gv.at/gegenstand/XXIV/I/1782>) [AB 1844](<https://www.parlament.gv.at/gegenstand/XXIV/I/1844>) [S. 163.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/163>) BR: [8746](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8746>) [AB 8751](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8751>) [S. 810.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/810>))
+
+Der Nationalrat hat beschlossen:

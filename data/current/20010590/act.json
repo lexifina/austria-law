@@ -1,0 +1,743 @@
+{
+  "sample_only": false,
+  "included_provisions": 27,
+  "source_provision_count": 27,
+  "schema_version": 1,
+  "gesetzesnummer": "20010590",
+  "short_title": "RfG Anforderungs-Verordnung",
+  "abbreviation": "RfG Anforderungs-V",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40213356",
+    "valid_from": "2019-04-27",
+    "valid_to": "2028-09-30",
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010590&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:58:58.336024+00:00",
+    "response_sha256": "fa9458c169dcc667575933e2ff4040c29b92ac901177b204141a700f317c330a",
+    "snapshot_sha256": "2e3b59df6864e4d8319c6f4304e550df65602a2c28248d5732f0378743b29d27",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c90220db9b1df3cc34d514b167f0364ec6227c0fa386d3872cbf9d3d9374b3c",
+      "sha256": "1f1ba7d082c928137d701d586e61d2ee15ed4fdc790efc5d23efda7000ebf806",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Vorstands der E-Control betreffend die Festlegung von allgemeinen technischen Anforderungen für den Netzanschluss von Stromerzeugungsanlagen (RfG Anforderungs-V) StF: BGBl. II Nr. 56/2019"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 271/2023 BGBl. II Nr. 95/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 56/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/56"
+        },
+        {
+          "text": "BGBl. II Nr. 271/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/271"
+        },
+        {
+          "text": "BGBl. II Nr. 95/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/95"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Regelungsgegenstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6df00ab7339c27ec32b706ec4e52f8bb88862f170f994db9e34050f2c265e69c",
+      "sha256": "1e4d6c4a127aaeb0ac24a708c968815f1ef9cc0cd4495cb840b155d238048918",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anwendungsbereich und Schwellenwerte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ad7ba3a7bb4ec3ca819941f96f6ecc09dbfe656ae248ee663e823eb62972c0d",
+      "sha256": "353a0550983846043c5eeac8ab84fa1c257dab7d5b7cd4ea0e2fa91543f6c882",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Mindestfrequenzbereiche und -zeiträume",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08d77e8d517ee47ac6ad41bea8d3f0c0426c549e0228740bf6e9790f6db4b479",
+      "sha256": "fdadf81b7d846a76cd1930f182e56655d8875686bc48d400c9f24675748a7407",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Mindest-Frequenzgradient",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe9c97301a328313c2870dac2b09c91dfdfe0dd74146d746846ec0c77157d2ff",
+      "sha256": "54153f13207ca5a0cc49a755fd71e2c1c2c2e0bd3927cfc7eb4aaf46fd883577",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Wirkleistungsreduktion bei Überfrequenz (LFSM-O)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0bbb714092cd3934616fb52ec40bc531802b03499bdaef56265e352de0616f67",
+      "sha256": "d42eea65291cdab6997e7244c15988ad7f2a708f48e8c9953bc560d3acf08174",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Zulässige Verringerung der maximalen Wirkleistungsabgabe bei abnehmender Frequenz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb690fa633f8cbdb052c1520a0e1aa93cd93b1618966eade927c40e479dc1d20",
+      "sha256": "1cf3c1799de96ccc385b5dd2dd170a0b1539ea2033212513ed44607fa5c6fc3e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Wirkleistungserhöhung bei Unterfrequenz (LFSM-U)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "941023c256fad7a11144dab56b41c774e865cfbee800e46420b23e217c26801d",
+      "sha256": "4dad48ecfdf34ccdcd2246f0357e0a172cbfc41df3ad1b9d4c1f0ccbd030ed58",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Fault-Ride-Through (FRT)-Fähigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce314e706b3c9946b7e25fbd08a6bfff8abf040b441b791a4373ce4efdd24ecb",
+      "sha256": "de6b7a79e2967ed0de0910b17519fea9d94065e44766a74e698278b1507105a4",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40213338/hauptdokument.img1is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40213338/hauptdokument.img2is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40213338/hauptdokument.img3is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40213338/hauptdokument.img4is.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Wiederaufnahme der Wirkleistungsabgabe nach Fehlerklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "673bc93938ffdd6713496f68172ff8e3694392cd376a40251d0c95155d2d4dda",
+      "sha256": "c15958128ffae14d28002ae9c181dcd3fce3e74159ce0acbf5ed8ff07192215e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Priorisierung des Wirkleistungs- oder Blindleistungsbeitrags bei nichtsynchronen Stromerzeugungsanlagen bei Fehlern, die eine FRT-Fähigkeit erfordern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e8983c5f6fb7194e79e1365c5b8a98140f7694d608aa7c406167383e3590227",
+      "sha256": "135a9c85c9212dbab4d1474b38110a25959ec46f6dd2ec96d4fe39d1c90a2409",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Bereitstellung einer dynamischen Blindstromstützung nichtsynchroner Stromerzeugungsanlagen bei Fehlern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f22537d425a408bcef60af5516d985070a7c24aee9f32453eccc446b231f06df",
+      "sha256": "7e82aa6dc179dbe0fec605eaaa4058a84459a29a86aac34aba4058ac6861380c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "∆iB1 = k * ∆u1",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "∆iB2 = k * ∆u2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "∆iB1...zusätzlicher Blindstrom im Mitsystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "∆iB2...zusätzlicher Blindstrom im Gegensystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "∆u1...Änderung der Mitsystemspannung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "∆u2...Änderung der Gegensystemspannung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "k…Verstärkungsfaktor (2 ≤ k ≤ 6); einstellbar in Schritten von 0,5 (ausgenommen Stromerzeugungsanlagen mit direkt gekoppelten Asynchrongeneratoren bei asymmetrischen Fehlern)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Mindestspannungsbereiche und –zeiträume",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9963cd0f85c87f87389ae4e7cb886b899e7195597308d0425ccd0e98d474d9a8",
+      "sha256": "7265a4f48935478e720dc572968b5c5f89ad2fa6e83ff9cf8627247235c782b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Fähigkeit von Stromerzeugungsanlagen des Typs B zur Abgabe von Blindleistung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a23e4a6bbfee166359ddd3bb45d68137d406f42eb56282a762938d7500563f2",
+      "sha256": "a985407df0ac5dce1374d632f43a6d4fd189fe1830a3c7c47b479186a1613df5",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40213343/hauptdokument.img1is.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "§ 14.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb9691cef530c4b9245a9f052f74ed5ad0d95a92e487a2f641f962dba5b89852",
+      "sha256": "bfce1c187cc0b7f0575128032064a3a1f97d68c1566734bc628796513721385b",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40213344/hauptdokument.img1is.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Fähigkeit von Stromerzeugungsanlagen der Typen C und D zur Abgabe von Blindleistung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08cbb6c7a560aad19525d4a19560021077bd321150b06454750f4e7d5cf4a43c",
+      "sha256": "8bb30e3bba960b83ddf19c8c04ab64abe8222f427a67ef2157a001b5ed6d7692",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40255663/hauptdokument.img1is.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11dbcd29df0a41ed7a1f7c9192a85d5d949e020787537344f68cb6d7c54a5632",
+      "sha256": "b24dff83385b205e476f20ba2fedd74eeb89a832913c00e71623dcc8ede23abb",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40255664/hauptdokument.img1is.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Dynamik der Blindleistungsregelung bei nichtsynchronen Stromerzeugungsanlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dff7538c1b0fc8b20fddf504f7d1f4ac99bce4569ac759e32a5c2f88ced25a83",
+      "sha256": "7e77bcf1df2ccf0f0ffccd242060cdd7de897e095b83682236dd8bb12ddd084d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Bereitstellung einer PSS-Funktion (Power System Stabilizer) bei synchronen Stromerzeugungsanlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "531180edf69ff1e103576c2c9ddfbbc1f4e45afc098683b57996aec4d6275ecd",
+      "sha256": "427821c5ef0054281774dd643969106ec6414bab87cc321c4d1749bad0959ba3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Bedingungen und Merkmale für die automatische Netzzuschaltung im Falle eines gestörten Betriebs",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04244010f744eeac18b46796944147760bb0024c1e7036f01a33aa635f4ce01c",
+      "sha256": "16eff5383779b09ce94d2a45ce778c22391467e4da86222858854497aff960e7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Bedingungen und Merkmale für die Wiedereinschaltung nach einer unbeabsichtigten Trennung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bcbefed2a1cf5cbda831db880e8c36437ac4d397a54f8fbf936b08eba6cb444a",
+      "sha256": "c6ee5f36f41f4e3cb610f0bf194c2c254f48ede27fc0bfb7e647fd49348a94a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Bedingungen für Stromerzeugungsanlagen mit Schwarzstartfähigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c28b16ab2050c226918cfe7542b2fb725bf891bfa883de2f312a806a900e8336",
+      "sha256": "2d6214366de7b9ec63c9e5921aa6a1f020b3e8e2d26db8b306d70dadc473b399",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Bedingungen für das Abfangen auf Eigenbedarfsbetrieb",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e986d24a8feb7024581de5acce23a68575e05a7b8f3cbf68077d8a60dc3b1ff",
+      "sha256": "9bba7dd61129be301d3cc0e2c3020395a04db501b97c0a5523a08f158b98fe3d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Gradient der Wirkleistungsabgabe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9fc8bf2003ecb471524020bbcd5d6dbc5312421a5442cb82762bd1324d7e0bd9",
+      "sha256": "f6cbd02fa537bb994a11e565c4cc3e144eb0564772709b3a4f39bb32181acccc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Zeiträume zur Erreichung des Sollwerts der Wirkleistungsabgabe sowie Toleranzbereich für den neuen Sollwert",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d2e379769c7e19e19d92b310e8b61a8b9eeb7ba7290f3956bc990640173cd55",
+      "sha256": "629d00bd0a143ecef9601b5b710f4dc60f836fbcd7b3bf9d45ddb1fc7b688e8c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24a",
+      "source_heading": "Gruppenfreistellung – Freistellung gemäß Art. 63 der Verordnung (EU) 2016/631",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0024a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "76f8030374f3d09d3fc16fc31f65b7e6a63739d2ee7cabe21f76811668c28720",
+      "sha256": "8d7d3dd962b4d9c180be5ac674a8adabb366614c54aad932c12d15ed6ddc3e04",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Inkrafttreten und Befristung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2830bc4b55bc9cb8c85cfca928884eb3324eb8ea0c529c5c13d1751e7c8fdb7d",
+      "sha256": "3e406104e1188a262908467e4f0af8b1b775899eb9d571e719fe7cd74b5e73e5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 271/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/271"
+        },
+        {
+          "text": "BGBl. II Nr. 95/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/95"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Bundesgesetz über die Oesterreichische Nationalbank (Nationalbankgesetz 1984 – NBG) StF: [BGBl. Nr. 50/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_50_0/1984_50_0.pdf>) (WV) idF [BGBl. Nr. 612/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_612_0/1986_612_0.pdf>) (DFB)

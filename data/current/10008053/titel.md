@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Verlängerung des Internationalen Kakaoübereinkommens 1993 und dessen Geltungsbereich StF: [BGBl. III Nr. 97/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_97_3/1999_97_3.pdf>)

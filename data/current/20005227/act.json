@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005227",
+  "short_title": "Staatswappen der Republik Kenia",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005697",
+    "valid_from": "2007-02-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005227&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:27:11.833647+00:00",
+    "response_sha256": "ea8cfeb87dcb2242cfde163230f8017036821ca4050daac9aa807b7e46f9019e",
+    "snapshot_sha256": "7268eae628b67cdac58eb81663b01449f5425ea1f954781d461483592f3a772f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "28cb1a780f59627d6ff290f2eaf68f46df46f8f4e90715b639229065e10b1dec",
+      "sha256": "7bd38bc4d53d18270f71760960714c552ffd1b8e40c73d02bf1a6b35521dc5bb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Staatswappen der Republik Kenia StF: BGBl. II Nr. 28/2007"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 28/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/28"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0ae954a89cea0a03819b5052bee619512178f264e21ce685c3ee5140ff3e59d8",
+      "sha256": "2b1433e160991ff4e399dd3495475914557cb538e7a28106c516b7c0bc746285",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 151/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/151"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Bundesgesetz vom 8. März 1979 über die Gemeinnützigkeit im Wohnungswesen (Wohnungsgemeinnützigkeitsgesetz – WGG) StF: [BGBl. Nr. 139/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_139_0/1979_139_0.pdf>) (NR: GP XIV [RV 760](<https://www.parlament.gv.at/gegenstand/XIV/I/760>) [AB 1220](<https://www.parlament.gv.at/gegenstand/XIV/I/1220>) [S. 122.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/122>) BR: [2000](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2000>) [AB 2014](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2014>) [S. 385.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/385>))
+
+Der Nationalrat hat beschlossen:

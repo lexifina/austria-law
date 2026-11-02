@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003541",
+  "short_title": "Errichtung einer vierten Notarstelle in Wien-Landstraße",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003570",
+    "valid_from": "1997-05-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003541&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:31.217127+00:00",
+    "response_sha256": "9649bc5c173e8ec34d0f99f415f5148b60a6b1738b804098ea7d146f5b4d9de6",
+    "snapshot_sha256": "dbf9af0bf3af390f0f24dd2132510054b8c83a5c934607f9e76f4dbef8470b35",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03d5ac519f5e6705e97e5d6698dc8dc991236d0a533480ba9206abd7b3669757",
+      "sha256": "cb7c8f990729d2a7b474d79eb94ba413892b542bbe27a12eda3da9191713c8c0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Wien-Landstraße StF: BGBl. II Nr. 119/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 119/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_119_2/1997_119_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35a819eea767812e1335cad6c13cdbf8cbed6b1d4ca603e306e2b2ac7ed99f5e",
+      "sha256": "50146a6547e98aeefb469af112a49c529c5ac85d090807987fab637260915d7c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

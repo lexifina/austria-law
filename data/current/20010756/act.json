@@ -1,0 +1,391 @@
+{
+  "sample_only": false,
+  "included_provisions": 11,
+  "source_provision_count": 11,
+  "schema_version": 1,
+  "gesetzesnummer": "20010756",
+  "short_title": "DCC Anforderungs-V",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40217311",
+    "valid_from": "2019-09-07",
+    "valid_to": "2028-09-30",
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010756&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:02:35.272313+00:00",
+    "response_sha256": "b006269dfb0899ce089b1953960259a58a6e97f79a0f2102aa777dca3f9fa540",
+    "snapshot_sha256": "5fcad0d5881ba854e6b1dff8a7d3f654a4cb8df09f27a8252c76f8e4acdc958a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "361d577ed0e1960f208aad9fac57a40696fb0de2263097f2b4b65167a68d086d",
+      "sha256": "1de449cfe6ec533c7fe1f7568df104e8002b69097e3ec55aabe0c10b2ecbe59e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Vorstands der E-Control betreffend die Festlegung von allgemeinen technischen Anforderungen für den Lastanschluss (DCC Anforderungs-V) StF: BGBl. II Nr. 268/2019"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 94/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 268/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/268"
+        },
+        {
+          "text": "BGBl. II Nr. 94/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/94"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Regelungsgegenstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acb9edda09aeab24a8da8c6c941412b6ff5edfb70687400ed49ee1791313e78d",
+      "sha256": "7631fee9b757d75f796d0320a006fbd067cb0a24116db13428e787894929110d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d8683eb288451a83ede9b5b45772939c8b95f3ce441bcb30a9c6ec867bdb627e",
+      "sha256": "6bedc5083ddfb0f1167bf7675ad2dad214506604a94469629011fac53ce4ad67",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Mindestfrequenzbereiche und -zeiträume",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9de715cce62480bf5e863defb954bc781cab803d1bf135b3fd528640f085a59",
+      "sha256": "5f8af9930e4ccc8a76688738a416cf7fae354a0a85290d524fb0ef5bbf5df835",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Mindestspannungsbereiche und -zeiträume",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "64c448f67470e10bac7fc6eca00c4eaf92b41fc71d8ccd5e246dbdc42a701567",
+      "sha256": "e78e66d0bf6920110c7c6ef6932173b24d7852370913208857909569a7d3fca3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Anforderungen hinsichtlich Spannungsqualität für Verbrauchsanlagen mit Übertragungsnetzanschluss und Verteilernetze mit Übertragungsnetzanschluss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db24852da821b09fb8066338a6d12a0d3419fc4add209eeff3d6a9ba0457e1e2",
+      "sha256": "e00f8996d67b52ee2d938b3ef3c6547bcaca8a71a58d80dc22403ae8205dbffa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Anforderungen hinsichtlich der Blindleistung für Verbrauchsanlagen mit Übertragungsnetzanschluss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9c0c229cd5ab7f628a19ac39dbefb84c4c3397cfc9349c0c093f40d8043d538",
+      "sha256": "d6fd8a314a4b260f8d562c304bb17c742050bb1f0e87c2ea814a4b68b3ad9690",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 56/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/56"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217306/hauptdokument.img1is.png",
+          "alt": "Zulässiger Blindleistungsbereich für Verbrauchsanlagen mit Übertragungsnetzanschluss",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Anforderungen hinsichtlich der Blindleistung für Verteilernetze mit Übertragungsnetzanschluss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e953cacb0624f1543291bef451b6c9ba5cfb08f7cd81704578562e60bd5d113",
+      "sha256": "b7038942396fd25492f07c4dca140bea9c1f78074a4eba3249ef884f1e33f945",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img1is.png",
+          "alt": "Zulässiger Blindleistungsbereich für Verteilernetze mit Übertragungsnetzanschluss",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img2is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img3is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img4is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img5is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img6is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img7is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img8is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img9is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img10is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img11is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img12is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img13is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img14is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img15is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img16is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217307/hauptdokument.img17is.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Anforderungen hinsichtlich Verbrauchseinheiten mit lastseitiger Steuerung zur Wirkleistungsregelung, zur Blindleistungsregelung sowie zum Engpassmanagement",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7be84c348f93a88e86418469825e727e20a0f762e70020fd4671c8175fd447b2",
+      "sha256": "8eaafd4e5329d9b34b776dd6ff66e4a0a32dedfe4ef42c2ae72b6b0458c95c09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Anforderungen hinsichtlich Verbrauchseinheiten mit lastseitiger Steuerung zur Netzfrequenzregelung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba98bd46ad411a042b902b0dc197298c8c1bcf3147097ac37d8dd18e85d9316a",
+      "sha256": "8af1502a5cecba031c48975cd769e1fb1752e33c9ceb95118b6ee6aad6b146f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Inkrafttreten und Befristung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85e2ac3bee97516dff5ff8e6a4b4ddb9c0d5126fd686dbd67ae9cd118effd156",
+      "sha256": "edd0d54c55201ea9056c60313516ba750a37c282deaab0331bbdcf4d72ff87c2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

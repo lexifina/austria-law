@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Bildung, Wissenschaft und Forschung über den Ausspruch des Verfassungsgerichtshofes vom 10. Dezember 2020, dass § 5 Abs. 1 in Verbindung mit Anlage B, Z 4.2 sowie § 7 Abs. 3, 4 und 6 der Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung zur Bewältigung der COVID-19 Folgen im Schulwesen für die Schuljahre 2019/20 und 2020/21 (C-SchVO), [BGBl. II Nr. 208/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/208>), gesetzwidrig war StF [BGBl. II Nr. 24/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/24>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

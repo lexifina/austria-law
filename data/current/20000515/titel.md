@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über Privilegien und Immunitäten der Europäischen Fernmeldesatellitenorganisation (EUTELSAT) StF: [BGBl. III Nr. 49/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_49_3/2000_49_3.pdf>)

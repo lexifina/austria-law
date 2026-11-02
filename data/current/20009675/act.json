@@ -1,0 +1,620 @@
+{
+  "sample_only": false,
+  "included_provisions": 24,
+  "source_provision_count": 24,
+  "schema_version": 1,
+  "gesetzesnummer": "20009675",
+  "short_title": "Vermessungsverordnung 2016",
+  "abbreviation": "VermV 2016",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40187506",
+    "valid_from": "2016-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009675&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:38:47.681954+00:00",
+    "response_sha256": "f127fd8d4e6fdcb8de824b68ae08ca44608a1ded3f5c00410b1d5a0adeffc383",
+    "snapshot_sha256": "5dee939303a7cdb0598379be22d14a5c0ec68516fbb7b1a5eede6ea2997e3d7f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94d06fd3ba1861d16aff80a0f7ea35bf64c08943b51a11e1386726578bd2a5db",
+      "sha256": "2eb85dad59f80beae3c1c791d116f1ab9dac4603f38c05b604444078b3fc2671",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über Vermessungen und Pläne (Vermessungsverordnung 2016 – VermV 2016) StF: BGBl. II Nr. 307/2016"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 235/2018"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 307/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/307"
+        },
+        {
+          "text": "BGBl. II Nr. 235/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/235"
+        },
+        {
+          "text": "BGBl. Nr. 306/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_306_0/1968_306_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 51/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/51"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a6a3d6cd57dcf48b68c67c8aff7070c68eca33be6fe917305fe534a12e16601",
+      "sha256": "5c5de42f369495a1e6b31d2bd9db17709f3bf230db691c6829d24f6b592b9f7d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 306/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_306_0/1968_306_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 51/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/51"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "2. Abschnitt Bestimmungen über Vermessungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d0f0513aff6ac83025cd25a6db7b008c38118f06b5d14416003e44363e2b188",
+      "sha256": "1341d6eb658e0787c96cad8aeadc12800349f0c892e52dbd39f092f8cf1f64b3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Anschluss an das Festpunktfeld",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b23bcc865d8543058b397005dee8602c6f44fd6dbe026532755342013573319",
+      "sha256": "77eef12ebd3836e7dcab543e7fa379adb25c5fd8efc22d19ddb37fae19769fd0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Umfang der Vermessung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "48d9538698d6e420bad364b8c866d66bf1983606355c73bff72776763279ab6a",
+      "sha256": "91bc3f53dec1abef9bf03a5b2f91c7a8e94035fbc216a95e2dee5a43728bde5e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 116/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/116"
+        },
+        {
+          "text": "BGBl. II Nr. 242/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/242"
+        },
+        {
+          "text": "BGBl. Nr. 3/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=3/1930&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Überprüfung und Vermessung der Grenzpunkte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0155acb5090db5ee74ba0a126f62d82fca51b0474fd72b13f627ded2ba8f8646",
+      "sha256": "6b7c87305b5ec4eb43d6092ca7ae2e0ee63bd2137dd5a012c725dfca55b4c9f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Genauigkeit der Messungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6d1dc8f8536b50be696478257d6be11e5f41bb08ef6f1d647bc104805f3f6d4",
+      "sha256": "19fb7e9c3b4f2db7255dd476b205056efeaec05ed719a0e10cef586b823ba39c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Flächenermittlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de839f803db12f825d291d37e216272ce9adaeefeffd7e2fee4d6889aa445a38",
+      "sha256": "e2873add19202d86f00b56b7005c6ffa39d73ab6bccf3214bd0fa265737f3d0e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "3. Abschnitt Bestimmungen über Pläne",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b83075867eba402e42e2f3dff032f988a43fd04e7c235eb201aab979f5b4589",
+      "sha256": "90c696d402d5b77412966f4a9c42a40cbaf6feea76baf22f0d43928136f44935",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Zeichnerische Darstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0bcfa79084612f72b840633e25f1bd20c93c025f25aece5f2f962ccf1e15b1eb",
+      "sha256": "c2e75b79542ed65c26aa59ec496d31dd0f7c6d4937024474b8d6c856f417ad0a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Mappenberichtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1bf46b4a3cb4e041f548329c2770652bdd7a0c2b37159d5ca4297569c869c793",
+      "sha256": "2803b09634f5c4877e4e44d06eb0839fd008096874d495fe388ea3a5b6ae54c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Qualitätsverbesserung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79a436646ffe80bbfeb0f89d11ba1cbac855944d41a27f878894368423ddd7fa",
+      "sha256": "04d87fd14752546a6e8f2486b893f819a3dfa89c459f49fe351cffc1d3970289",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Pläne zur Umwandlung in den Grenzkataster",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "319381f009ad97e95d5de8fd93d891340cb909547223bbc4b2dc654242bf9462",
+      "sha256": "127c3f63755e247e1137611566404c360cc40e5ee7774834ac77ff5a59bf6486",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Beilagen zu Plänen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d82d5e9be61e461cf20d6cac820e5969d3bf0d88dc3dfd4515efe1dba25ecae",
+      "sha256": "9e227420d3459ddf8a892c17c75b302afb5d5bdeb11816fc938bf0d0b5b6ac2e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Sonderbestimmungen für Pläne der Agrarbehörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5ff9ce55b7dc4d93200770267511654fb47ec6aeacf55415a39953ed371ca217",
+      "sha256": "9425b49c25fe38cd3d7e3214d8acb782b2cee3d3f57407a7cd49935cafb29849",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Sonderbestimmungen für Pläne in Gebieten mit Bodenbewegungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7d507aca9c6ad5102d2bae3e8f6ad894e02e2996044f4fa1630e5a06f85272b",
+      "sha256": "6f471d607d8c5efd9432b6c079b218873409a9f44a8a6ad7cfed1656e0ad5419",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15a",
+      "source_heading": "Sonderbestimmungen für Anbringen mit strukturierten Dokumenten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "507c1e5bd335960fd44b8b392be35b939e5926c0e607219757e850a62adff122",
+      "sha256": "e6dcc830691762c86bca68412b6c320ac8be980db43ae0f3daa3ecfe10a17ab5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Änderung von Plänen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e9af4ecee8f6e8bd35391a5b445e1fefb3db4dd255d6516cc0ce0d08e9a0670",
+      "sha256": "3eff4e07336bf6963164277cc7a895b9b2e788b2c71fe85449986d6c587b60aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "4. Abschnitt Bestimmungen über die zulässigen Formate und die technischen Anforderungen für die automationsunterstützte Einbringung von Plänen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "defa61a93d4121eaad6b15c92e4e6a9810eda29d881cc79f057dedb2bcfae909",
+      "sha256": "97126ba05c95d30db0507d8da312594701135deaeedeb5623ed48c92cf69a250",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Form der Übermittlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9dc07fcd282a598ac8f84b91401e49a3755a30127b8563ff669c68e04a818ee9",
+      "sha256": "db669aba2f93d2962c7cdc09640f4ec445539a563cfa7e83d7824badf1c4531f",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 217/1896",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=217/1896&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Identifizierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13cfd20dfa28cab08ef103d9e43e887dbc0a10127d9fede4e06ee1a60c0b029b",
+      "sha256": "708ebe9daa20af9e793dbbd4a13e9b4dfa148d1a507e3c7b7b9b5233817a52a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Technische Bedingungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a157dbf7d4c134e566e496edeaec05762ce44c5b6213e9ff295b75e5aefb227",
+      "sha256": "05c5a40e585ae0bab7ed53ec3f88339ebfe284e6f5dc59e8b42226ac721b64a1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "5. Abschnitt Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "399f9a7ce54bb70c58cc15cf725822e164638ad969ccb94ff50c16a3aee864ea",
+      "sha256": "f2e3f5e8a0a2f9fbdbaa64e89757d93e50c9a6df567d9754c93e89c4eb255e2e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 115/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/115"
+        },
+        {
+          "text": "BGBl II Nr. 241/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/241"
+        },
+        {
+          "text": "BGBl. II Nr. 115/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/115"
+        },
+        {
+          "text": "BGBl. II Nr. 235/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/235"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang zur Vermessungsverordnung 2016 – Zeichenschlüssel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69ffd2757b8400ce26f0ec518026a21593a5a40e3a83114b46122418dddb6a8e",
+      "sha256": "2b563fb483056c45c3bd6f3af9eb711a36f94d4d764f8a018052aa83e76238e8",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anhang",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40207282/II_235_2018_Anhang.pdf",
+              "title": "PDF-Dokument: Anhang",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40207282/II_235_2018_Anhang.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

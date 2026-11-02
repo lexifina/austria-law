@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. Feber 1982 betreffend das kubanische amtliche Gewährzeichen für Industrieerzeugnisse StF: [BGBl. Nr. 140/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_140_0/1982_140_0.pdf>)

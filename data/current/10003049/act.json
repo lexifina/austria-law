@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003049",
+  "short_title": "Errichtung einer zweiten Notarstelle in Weiz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003074",
+    "valid_from": "1992-07-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003049&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:56.666961+00:00",
+    "response_sha256": "d34c3c46b1118780d315cfdfe403762f5ed853adda5cec086a0f3d7394ee179f",
+    "snapshot_sha256": "4eb9b090972a5761fa6de520c4580e9cdbe73c4a1ad07b4aa8f240125a41cb4b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13c2a78223308a226b023338887bfdafb529060f2553f11f1121c221a96eadd8",
+      "sha256": "d4da333f121ac5575a265c729d492f1f87bfc9d2b6be490c8bc5aa2a228017f6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Weiz StF: BGBl. Nr. 398/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 398/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_398_0/1992_398_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e55834d6cf0f1d866da261618c4f3bdd348056aca0647067bc032391e0839796",
+      "sha256": "0bbfc3608320ac83c0de54b8c5ae1d4044afcecea1909e2290d3ed8f882773b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

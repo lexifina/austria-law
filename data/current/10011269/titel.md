@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Juni 1950, betreffend die Ratifikation des Abkommens über die Internationale Zivilluftfahrt durch Syrien StF: [BGBl. Nr. 124/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_124_0/1950_124_0.pdf>)

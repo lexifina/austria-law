@@ -1,0 +1,3 @@
+Bundesgesetz über die Überwachung des Handels mit Exemplaren wildlebender Tier- und Pflanzenarten (Artenhandelsgesetz 2009 – ArtHG 2009) StF: [BGBl. I Nr. 16/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/16>) (NR: GP XXIV [RV 318](<https://www.parlament.gv.at/gegenstand/XXIV/I/318>) [AB 348](<https://www.parlament.gv.at/gegenstand/XXIV/I/348>) [S. 41.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/41>) BR: [AB 8195](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8195>) [S. 777.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/777>)) \[CELEX-Nr.: [32008L0099](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0099:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

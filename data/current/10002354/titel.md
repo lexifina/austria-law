@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 8. März 1976 betreffend staatliche Hoheitszeichen und amtliche Prüfungs- und Gewährzeichen des Königreiches Dänemark StF: [BGBl. Nr. 121/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_121_0/1976_121_0.pdf>)
+
+Auf Grund des § 6 Abs. 2 Markenschutzgesetz 1970, BGBl. Nr. 260, wird im Einvernehmen mit dem Bundesminister für Auswärtige Angelegenheiten kundgemacht, daß § 6 Abs. 1 des Markenschutzgesetzes 1970 auf staatliche Hoheitszeichen und amtliche Prüfungs- und Gewährzeichen des Königreiches Dänemark, die in einer Liste im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen, Anwendung findet.

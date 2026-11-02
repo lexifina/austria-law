@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Durchführung der Ausbilderprüfung (Ausbilderprüfungsordnung) StF: [BGBl. Nr. 852/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_852_0/1995_852_0.pdf>)
+
+Auf Grund des § 29d und des § 29f Abs. 1 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch das Kompetenzbereinigungsgesetz 1992, [BGBl. Nr. 256/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_256_0/1993_256_0.pdf>), und auf Grund des § 352a Abs. 2 der Gewerbeordnung 1994, BGBl. Nr. 194, wird verordnet:

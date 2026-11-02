@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Staatsemblem und die Staatsfahne von Turkmenistan und die Standarte des Präsidenten von Turkmenistan StF: [BGBl. II Nr. 144/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_144_2/1998_144_2.pdf>)

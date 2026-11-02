@@ -1,0 +1,3 @@
+Bundesgesetz über die Kammern für Arbeiter und Angestellte und die Bundeskammer für Arbeiter und Angestellte (Arbeiterkammergesetz 1992 – AKG) StF: [BGBl. Nr. 626/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_626_0/1991_626_0.pdf>) (NR: GP XVIII [IA 229/A](<https://www.parlament.gv.at/gegenstand/XVIII/A/229>) [AB 252](<https://www.parlament.gv.at/gegenstand/XVIII/I/252>) [S. 44.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/44>) BR: [AB 4127](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4127>) [S. 546.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/546>))
+
+Der Nationalrat hat beschlossen:

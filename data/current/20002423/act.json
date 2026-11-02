@@ -1,0 +1,114 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20002423",
+  "short_title": "Bestattungs-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002660",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002423&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:45:57.678940+00:00",
+    "response_sha256": "3f419ca6b6769dbcf6e813a963cc9f192d0cbdc7952e657427a36b94b73e4d7f",
+    "snapshot_sha256": "39ed577e8fb51cdd316064aa65a8810bafdc0c62f4eb5955dad231ae758b34f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "16a3a0dd2a61b87793dd59d84a8a3d8eda3b410dfb7c902970e0f5727d7ab74a",
+      "sha256": "a7ccfafcd17968691bb335110a73f2dc58bb80ba0b055ed8794ae73f19e9c58e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das reglementierte Gewerbe der Bestattung (Bestattungs-Verordnung) StF: BGBl. II Nr. 32/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 399/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 32/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_32_2/2003_32_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 399/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/399"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Zugangsvoraussetzungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "586e1748e10ab21400274186fccbe580a84381338a41135c82b1069e6e16b961",
+      "sha256": "72cec6d3438daaa46e740c20b42a0236e3ab7c0207da1657ed201634431fc128",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "570f6b50c6021d3b0d8816473ce54eb9d3d8092150c6410c5335a71bc9c89a03",
+      "sha256": "3bd0ebda5ca720c369b8c8bed157835a1b68f67397c322d4d96f6f7ad0174e37",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

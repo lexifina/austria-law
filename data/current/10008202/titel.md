@@ -1,0 +1,3 @@
+Notenwechsel zwischen der Österreichischen Botschaft Belgrad und dem Staatssekretariat für Auswärtige Angelegenheiten der Sozialistischen Föderativen Republik Jugoslawien, betreffend den Abschluß eines Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Sozialistischen Föderativen Republik Jugoslawien über materielle Hilfeleistung an hilfsbedürftige, in ihre Heimatländer zu repatriierende Personen StF: [BGBl. Nr. 165/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_165_0/1964_165_0.pdf>)
+
+Das in diesem Notenwechsel enthaltene Abkommen tritt am 1. August 1964 in Kraft.

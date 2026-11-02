@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit und Soziales vom 30. Juli 1987, mit der die Geschäftsführung des Bundeseinigungsamtes geregelt wird (Bundeseinigungsamts-Geschäftsordnung – BEA-Geo.) StF: [BGBl. Nr. 415/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_415_0/1987_415_0.pdf>)
+
+Auf Grund des § 161 Abs. 1 Z 6 des Arbeitsverfassungsgesetzes (ArbVG), [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), zuletzt geändert durch Artikel IV des Bundesverfassungsgesetzes [BGBl. Nr. 321/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_321_0/1987_321_0.pdf>), wird verordnet:

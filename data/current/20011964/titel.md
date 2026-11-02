@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 14. Juni 2022, dass § 5 der Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes, [BGBl. II Nr. 98/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/98>), idF [BGBl. II Nr. 107/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/107>) gesetzwidrig war StF: [BGBl. II Nr. 281/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/281>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

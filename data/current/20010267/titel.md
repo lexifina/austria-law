@@ -1,0 +1,1 @@
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus, mit der Großlagen festgelegt werden (Großlagenverordnung 2018) StF: [BGBl. II Nr. 184/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/184>)

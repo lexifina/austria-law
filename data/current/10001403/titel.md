@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr über die Aufhebung der Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend die Zuordnung von Frequenzen zur Veranstaltung von Rundfunk (Frequenznutzungsplan), [BGBl. Nr. 957/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_957_0/1993_957_0.pdf>), durch den Verfassungsgerichtshof StF: [BGBl. Nr. 740/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_740_0/1995_740_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 erster Satz des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

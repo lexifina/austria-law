@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen zur Festlegung der Untersuchungsanstalten die berechtigt sind, Nahrungsergänzungsmittel auf Inhaltsstoffe mit Arzneimittelwirkung zu untersuchen (Arzneimittel-Untersuchungsanstaltenverordnung 2006) StF: [BGBl. II Nr. 78/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/78>)
+
+Auf Grund des § 76a Abs. 7 Arzneimittelgesetz, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 153/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/153>), wird, hinsichtlich § 1 Abs. 1 und § 2 Abs. 2 und 3 im Einvernehmen mit dem Bundeskanzler, verordnet:

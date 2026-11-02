@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000493",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000495",
+    "valid_from": "1971-02-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000493&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:31:01.683968+00:00",
+    "response_sha256": "87886a8adfcc9adf41207e0a0e30f99bac44f703279af33b00e885d286cfa45a",
+    "snapshot_sha256": "4025d61611852e99f3bdbf627311dd02b4a9b11b427f36ba017731f5452694c7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b43096688f1b0215fb7bc5581d621b063a23d08ffb0cefa73094a867bcc56d6",
+      "sha256": "ba2f687c3ab3d6fcd34e40bfc81d45223b4fa09073e58cb694180629b32865c1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 27. Jänner 1971 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung eines Gesetzes über Maßnahmen zum Schutz gegen den Baulärm (Baulärmgesetz) StF: BGBl. Nr. 52/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_52_0/1971_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "124ba2c1a153836efce7f98f65b0bf1d18d994d0ecaa1d06df21ea8e83d7465e",
+      "sha256": "6c5358cbcd1d1934fa58556ce74ae6ad27a92d54f4988b8554a0850bedeec18a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

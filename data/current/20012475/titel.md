@@ -1,0 +1,3 @@
+Bundesgesetz über einen Zweckzuschuss an die Länder für die Jahre 2024 und 2025 zur Beibehaltung der Förderung für den Umstieg auf klimafreundliche Heizungen und für Zwecke der thermisch-energetischen Sanierung (Heizungsumstiegs-Zweckzuschussgesetz – HeUZG) StF: [BGBl. I Nr. 197/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/197>) (NR: GP XXVII [IA 3742/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/3742>) [AB 2350](<https://www.parlament.gv.at/gegenstand/XXVII/I/2350>) S. 247. BR: [AB 11379](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11379>) S. [962](<https://www.parlament.gv.at/gegenstand/BR/I-BR/962>).)
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. September 1979 betreffend ein staatliches Hoheitszeichen der Vereinigten Staaten von Amerika StF: [BGBl. Nr. 422/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_422_0/1979_422_0.pdf>)

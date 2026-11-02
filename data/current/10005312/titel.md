@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung von Kanada betreffend den Commonwealth Kriegsfriedhof in Klagenfurt StF: [BGBl. Nr. 124/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_124_0/1968_124_0.pdf>)

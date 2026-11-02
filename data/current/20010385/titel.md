@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Justiz vom 28. September 1959, betreffend Errichtung einer Notarstelle in Köflach. StF: [BGBl. Nr. 214/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_214_0/1959_214_0.pdf>)

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008445",
+  "short_title": "Erste Transparenzdatenbank-Übertragungsverordnung BMWF",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40151465",
+    "valid_from": "2013-06-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008445&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:15:08.497488+00:00",
+    "response_sha256": "3b4d1f0afca519e94dc226c20f2a9f1486260aa5262095b4467a4e28aca98190",
+    "snapshot_sha256": "b9b67771936a6a4a9a81fd84529abf4cbe6177db8f73863e2194deeed7a6f738",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0bafdf242ca46ee951f0d35bde55d4cdadd1f1cb8d5afbe2d66ef23effc2b438",
+      "sha256": "082b93c941d87a6d2de96f9c977226fd67c2ae045b0073419de0044be022b811",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wissenschaft und Forschung zur Bestimmung von Einrichtungen als leistungsdefinierende Stellen (erste Transparenzdatenbank-Übertragungsverordnung BMWF) StF: BGBl. II Nr. 167/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 167/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/167"
+        },
+        {
+          "text": "BGBl. I Nr. 99/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/99"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "440ab8b56a5c726e0c187b475fb36181e5bbddb20143d9ff782e0c85f195f68e",
+      "sha256": "914faf66269448c33cc377ba8b8808cda847c076c6548e2c3c4a57ed4ee9a5aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

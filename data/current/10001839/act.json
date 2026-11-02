@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001839",
+  "short_title": "Auslieferung von Verbrechern",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001861",
+    "valid_from": "1935-02-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001839&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:21.140678+00:00",
+    "response_sha256": "18b5e3003f4acc336ce4a518c7841bb0dc188a7013fd8eca2f0bc45d9dcdc906",
+    "snapshot_sha256": "4ede6ba90356cbf2999228bba0a1664fecd3e6c774ab8bf5b6e1e451978cf934",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60ea4a0fe8d810566e8d430cdf9191fdc28e9b63c90f355536eece8705f898b0",
+      "sha256": "b6cbda2ce9a1eed6ba9a9c15c926a87807e8fcf3301d7a671ccf2ee2ea3d135b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes, betreffend die Anwendung des österreichisch-britischen Auslieferungsvertrages im Verhältnis zu den malaiischen Staaten. StF: BGBl. Nr. 53/1935"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 53/1935",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=53/1935&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af48f69429abee39d04fbc26d512c30d0458e14ba4480fcdf16b4af1a7540911",
+      "sha256": "ebd899198017de00c797ec37f713697ebc87b8abe7bafff7e0bb06d05561b819",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

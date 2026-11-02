@@ -1,0 +1,1730 @@
+{
+  "sample_only": false,
+  "included_provisions": 39,
+  "source_provision_count": 39,
+  "schema_version": 1,
+  "gesetzesnummer": "20003901",
+  "short_title": "Wasserstraßengesetz",
+  "abbreviation": "WaStG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40272776",
+    "valid_from": "2026-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003901&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:06:24.625857+00:00",
+    "response_sha256": "4c41346a2b9ce1bec7384e351678bbdc1c17b7805bbefe6f5ce258f93ef035b5",
+    "snapshot_sha256": "48d4a062a7d7f9a07aaef11f3b05e7e94523d5996afdefe8e4ecbca71249a61c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5ad29b7841441980187e03f1c6f8c37fcda65193a0127cae0a0ecb68108c952",
+      "sha256": "59a3b66274f7b6c9dfc6fd602000284536d5b639a7b7ec5d6c908f3874f2052a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Aufgaben und Organisation der Bundes-Wasserstraßenverwaltung – Wasserstraßengesetz (WaStG) StF: BGBl. I Nr. 177/2004 (NR: GP XXII RV 669 AB 753 S. 90. BR: AB 7201 S. 717.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 97/2005 (NR: GP XXII IA 651/A AB 1007 S. 117. BR: AB 7370 S. 724.) BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.) [CELEX-Nr.: 32010L0012] BGBl. I Nr. 112/2011 (NR: GP XXIV RV 1494 AB 1500 S. 130. BR: 8602 AB 8603 S. 802.) [CELEX-Nr.: 32009L0133, 32010L0024] BGBl. I Nr. 35/2012 (NR: GP XXIV RV 1685 AB 1708 S. 148. BR: 8686 AB 8688 S. 806.) BGBl. I Nr. 103/2017 (NR: GP XXV IA 2230/A AB 1735 S. 190. BR: AB 9885 S. 870.) BGBl. I Nr. 86/2025 (NR: GP XXVIII RV 251 AB 285 S. 52. BR: AB 11715 S. 983.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 177/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/177"
+        },
+        {
+          "text": "RV 669",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/669"
+        },
+        {
+          "text": "AB 753",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/753"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/90"
+        },
+        {
+          "text": "AB 7201",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7201"
+        },
+        {
+          "text": "S. 717.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/717"
+        },
+        {
+          "text": "BGBl. I Nr. 97/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/97"
+        },
+        {
+          "text": "IA 651/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/A/651"
+        },
+        {
+          "text": "AB 1007",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1007"
+        },
+        {
+          "text": "S. 117.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/117"
+        },
+        {
+          "text": "AB 7370",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7370"
+        },
+        {
+          "text": "S. 724.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/724"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "RV 981",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/981"
+        },
+        {
+          "text": "AB 1026",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1026"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/90"
+        },
+        {
+          "text": "8437",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8437"
+        },
+        {
+          "text": "AB 8439",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8439"
+        },
+        {
+          "text": "S. 792.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/792"
+        },
+        {
+          "text": "32010L0012",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0012:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/112"
+        },
+        {
+          "text": "RV 1494",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1494"
+        },
+        {
+          "text": "AB 1500",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1500"
+        },
+        {
+          "text": "S. 130.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/130"
+        },
+        {
+          "text": "8602",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8602"
+        },
+        {
+          "text": "AB 8603",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8603"
+        },
+        {
+          "text": "S. 802.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/802"
+        },
+        {
+          "text": "32009L0133",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0133:DE:HTML"
+        },
+        {
+          "text": "32010L0024",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0024:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35"
+        },
+        {
+          "text": "RV 1685",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1685"
+        },
+        {
+          "text": "AB 1708",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1708"
+        },
+        {
+          "text": "S. 148.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/148"
+        },
+        {
+          "text": "8686",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8686"
+        },
+        {
+          "text": "AB 8688",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8688"
+        },
+        {
+          "text": "S. 806.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/806"
+        },
+        {
+          "text": "BGBl. I Nr. 103/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/103"
+        },
+        {
+          "text": "IA 2230/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/A/2230"
+        },
+        {
+          "text": "AB 1735",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1735"
+        },
+        {
+          "text": "S. 190.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/190"
+        },
+        {
+          "text": "AB 9885",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9885"
+        },
+        {
+          "text": "S. 870.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/870"
+        },
+        {
+          "text": "BGBl. I Nr. 86/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/86"
+        },
+        {
+          "text": "RV 251",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/251"
+        },
+        {
+          "text": "AB 285",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/285"
+        },
+        {
+          "text": "S. 52.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/52"
+        },
+        {
+          "text": "AB 11715",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11715"
+        },
+        {
+          "text": "S. 983.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/983"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Teil: Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben der Bundes-Wasserstraßenverwaltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze der Wasserstraßenerhaltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Teil: Organisation der Bundes-Wasserstraßenverwaltung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt: Errichtung der via donau – Österreichische Wasserstraßen-Gesellschaft m. b. H.",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "via donau – Österreichische Wasserstraßen-Gesellschaft m. b. H.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausübung der Gesellschafterrechte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eigentum an den Geschäftsanteilen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtsanwendung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Errichtungserklärung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Firmenbuchanmeldung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unternehmensgegenstand – Aufgaben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vermögensübergang",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erwerb und Verwertung von Liegenschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11b.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fruchtnießung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11c.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dingliche Rechte, sonstige Verfügungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewertung (Anm.: aufgehoben durch Art. 156 Z 9, BGBl. I Nr. 111/2010)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt: Organe der Gesellschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsrat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestellung der ersten Organe (Anm.: aufgehoben durch Art. 156 Z 9, BGBl. I Nr. 111/2010)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt: Allgemeine Rechte und Pflichten der Gesellschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unternehmenskonzept, Rechnungs- und Berichtswesen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgeltlichkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgelt für die Schleusenaufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abgeltung durch den Bund",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsrecht des Bundes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verschwiegenheitspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Amtshaftung und Organhaftpflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt: Überleitung der Bediensteten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beamte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vertragliche Bedienstete",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestimmungen für Bedienstete, die Arbeitnehmer der Gesellschaft werden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Interessenvertretung der Arbeitnehmer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt: Rechtsvertretung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beratung und Vertretung durch die Finanzprokuratur",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Teil: Übergangs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Weitergeltung von Befähigungen und Berechtigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kollektivvertragsfähigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Außer-Kraft-Treten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Teil: Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c06b4fe829496b4b407954c924557839aece38434a5e7041731f7c3482c8068d",
+      "sha256": "ad060144a81616c36c3703102e7a60ff64bd5597de58228389e0a45f50878664",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 62/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_62_1/1997_62_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Aufgaben der Bundes-Wasserstraßenverwaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f789d2033cdb4591f6081c378f997568625d37fdd701e276913a88f6b28ed3af",
+      "sha256": "1807b3a93e3316bdbe68b82816def09c2ff280ea02df01a5e09dd9c3af0488a2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 372/1927",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=372/1927&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 367/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_367_0/1973_367_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 148/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_148_0/1985_148_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 40/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_40_0/1960_40_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Grundsätze der Wasserstraßenerhaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c695f091f2568a01fe2002f641a82a398355a3cda2a7c4b7feceaa5f4d2bb89",
+      "sha256": "f859ce6dadbde5fcc232d2956d7fe122232bc4c6996950cf87d472e30a714ea6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Teil: Organisation der Bundes-Wasserstraßenverwaltung 1. Abschnitt: Errichtung der via donau – Österreichische Wasserstraßen-Gesellschaft m. b. H.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cba470877ee0822fd9523308defb5fa340a31b76d556c323695e2f81e8520aab",
+      "sha256": "70f5c2339c0cb2a459cfb2cd80edf164aa6befac3ebb8655ed93ee19a40b9443",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 98/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_98_0/1965_98_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 58/1906",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=58/1906&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Ausübung der Gesellschafterrechte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "067f661d51bddad25ef564adf393c090b38b1ae8408140d5833f36e1d97bc0cd",
+      "sha256": "053e82a120d847dfd5861d64ac33f66af5788a8ba8c3843f6f5c7706d22162b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Eigentum an den Geschäftsanteilen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "324ce32efb2a82ff66289b6fa52e09cb41bcaadd0045c5b960c8799908b62412",
+      "sha256": "8f63631e239597c23f346ff158de301ffeb44c29a68d735baf57bc653d72afa6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Rechtsanwendung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b62295348d7f4c67d62a1f918bba4335df65dc1ed4edf68ad549621e4b9297a8",
+      "sha256": "68f6c9742b1400dfbbf3b0c72ef12631432fd28b47b383b2a683504962701d9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Errichtungserklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2158df95476934fbcccd8a9e57f259f550e2a04c7042e6eea16ca047bdd9c3a6",
+      "sha256": "c9b5d237e6f2ceb410a212e85f35f75e68076a046f2edf18ca61b672bcb8e7b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Firmenbuchanmeldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06b202c6d6c1bbd51ce70e79d34347204dba36dba4cd7a2af4e108f74aaceec4",
+      "sha256": "dfdc0dfc6dc9f1d1710aac4328526bfeeaf1002a12b998f2fdeda5792beceb3a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Unternehmensgegenstand – Aufgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3111cfccc6fcc23031653191f14b2abb770a3350ef37b08f8de9a4013621e940",
+      "sha256": "8fc4f753293bd4ad33b60fda85b1eafb784322f375c392aaf8b6787a88ce0b8a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Vermögensübergang",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eba110062d230a22e31943edf691192691c37521d7d57c1c46696d31a5da0e76",
+      "sha256": "fad3f29f414be970f82041a6de2727596c37abc212855252f9b95e2566bb0b16",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 11/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_11_0/1992_11_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 810/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_810_0/1992_810_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11a",
+      "source_heading": "Erwerb und Verwertung von Liegenschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ae6d23e89dca8c20466d7e11240601116938e03cd02a68c3200702a40b7a302",
+      "sha256": "478123d35759b6b0a8727eeaf8a037ecce0326a7500d3b15ea4c10d439c7fc2a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 213/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11b",
+      "source_heading": "Fruchtnießung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0011b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "309912bf8f0579f3cc16fe03264e94b6b5603f955be1fc1f443ac1aea1aca670",
+      "sha256": "376d8c71e8d47c010e63ea991ec3155fd22c963af30f4bd336924765399ef880",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11c",
+      "source_heading": "Dingliche Rechte, sonstige Verfügungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0011c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8c4a6531558d77a692c7a14d6f232a306f03aba5b43188b1587c132e5bcd6aa",
+      "sha256": "2376b82b35d16b10c827298e170198ace06afdbbbe5a2e17434c333ed4f02183",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 213/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "2. Abschnitt: Organe der Gesellschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "623b822eaf1f6a885d46a44b345e043b561685dd7a5f0fed819e7935c140500e",
+      "sha256": "3db31f02318c06b0e28ac88402930a82f722c9775cda0282c054db9145c68b2b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Aufsichtsrat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b82588bb42154a99af35874d0148c86e7307e34cf34b646451b7bae04e2f6562",
+      "sha256": "bd6bf8bbfb6e20d84284bbf9dee4bfd05f38f80fc5c3a626b3693c97f323d0f2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 22/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "3. Abschnitt: Allgemeine Rechte und Pflichten der Gesellschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65dfd5e96e58e8c007d2a3c5fdd0bf6579682ed2de6e954ad81d0c2109c5f115",
+      "sha256": "58e6064019529f57e4e1ea70fe7d669fa5cf4ddf5381386ae1ee471070bc8027",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Entgeltlichkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cbe3e9394f6fa56107a9bf63a2cafb20ea876cc3c121730c94e521c13050b6a0",
+      "sha256": "52a402756f71519f1067d74a2c31018f2998d5ace40765ad48f2b094bd8f2d3e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17a",
+      "source_heading": "Entgelt für die Schleusenaufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0017a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f67b8811d530520313c45615860d1420df9a44fdcc3d904462c59312d9ff5c23",
+      "sha256": "b0e5c62a7d72acd83aca24adacc06f89c4a3795d8e1ec56ebf1478471314ba35",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Abgeltung durch den Bund",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7dceb11b5ef85afba7ca61912ab68235b2f694144a4b254af351cda5e3a183e1",
+      "sha256": "9ac4ab19b191654f5d2a324d4041af0dd614dc12335d701d8378f34d87ab1ddd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 86/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/86"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Aufsichtsrecht des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb1de30e425093cf49a9e0d3222dbd579d18e3fc652e0cb40db0a142a425f234",
+      "sha256": "e08621dd77e2c04010209c620c77abfc88def94737af3056c2f3c79901985739",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Verschwiegenheitspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a326d9b9fc028fe47e5b163551b03a0ce2b53d4277c6e0c61d73f397363a66a1",
+      "sha256": "8c29b3b768203222d89baa0d9e19a059416d148c014418a226cad0dc7ffcacb0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Amtshaftung und Organhaftpflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06147713bb7e1f9b9770284a6d0e2a461d9e563874145d815b83fdbcbd524551",
+      "sha256": "d7a59acd6ad91a99c7b850a282fda85056a309e36f1be69593d77b5073668475",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 20/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_20_0/1949_20_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 113/1895",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1895&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 181/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_181_0/1967_181_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "4. Abschnitt: Überleitung der Bediensteten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a8ad8692dde2b5b8c6053fcd88f447bf0fec1ea473ad1062ef260e99aa4491d",
+      "sha256": "e8b60b7221d352a9bbfea5ce6965d4ec0133747bd69993e593514d5fbdb4829d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Vertragliche Bedienstete",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acc89552a6849068fab53fe08151a7b8be489be27565908204cc31f7085f2885",
+      "sha256": "6ed91a129c56245b7d8fba8d0ad51a42b1a7c042fa4f35b5a3b71e9eb1af304a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Bestimmungen für Bedienstete, die Arbeitnehmer der Gesellschaft werden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f5be29330b618672513d6890e9130c7d98fce023cd59cfb37b440b4d9daebd0",
+      "sha256": "215290f6ab1056a7a101f9174280c8b9dc5c928195a5ffccc056e684585c0d5d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08c2a845d64b7fe3da16ddbe204260a1179e6b98836e73fe2176ec8cfa71126a",
+      "sha256": "36b0ed5bee6cf9d292ddaada2c2c1b1917ef81f60302e8e3fbe73924c3d7c662",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 100/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_100_0/1993_100_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Interessenvertretung der Arbeitnehmer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0d58db3cd57dae45c37bf0b1a1a23ba09579d41f663cac4478d3d1d750fa4e2",
+      "sha256": "6dbf2231d0704145ed30449e22a40a87f2af4dfd1d7fcc6f54403059432a1750",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 133/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_133_0/1967_133_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "5. Abschnitt: Rechtsvertretung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4544f5cfe970ca85d904366242f74c5a23948cc634c8cb4cade177e281e91f2",
+      "sha256": "2bea19cf2b44ed343abddbd84276c07476c474c3f18234e07a3692386c2d3383",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "3. Teil: Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "baf2252cb6c253c7abcc0e8e589a1b4bcdbd4e43415d90a1a02ced2e23db11ed",
+      "sha256": "b22137922dc832b1c259e061735bd5054ba99f6942197c77a11f733ef8030e33",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 142/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 156/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_156_0/1994_156_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Kollektivvertragsfähigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12a6ea1660e018bed5f6ab473d4e2bd9f37b75f1d6633841f90bde5a05a8a796",
+      "sha256": "c247f93db8285b65e9014730656fb17aace70a3b33da33f968dcd74a53166853",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c7bad3cdca7eca7404a012f7e44b1d4a4392c5194575449359a3e1ebdc4492ad",
+      "sha256": "058fcffa61feccafa1028dcec0bdd24826595167dd3714b809897d9e56cca026",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56903b214d0e1d36a672d256ce65d0181e2b6a9e5df672d82161eabfeab6bd50",
+      "sha256": "21ff999e5ec09e8f067d3b80086fef308b2acdca56ec15878c85fd2952be07ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85ae3d46fa3f761b2723ff3119ae5a8cb296aa605dee7ee3a7e4b35edf1935cf",
+      "sha256": "a27d6f66273994da68e3b6d9760567230c68e32fd7ef9381fb9592317e828db9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Außer-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97946f5b1b4d40540cf5d3d76af8553f0b86913a49756e44e8c718665846c9e0",
+      "sha256": "a6462bbf2e3484ac63265afe580850322bdc07245e7414f1cb57091f4796e78c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 274/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_274_0/1985_274_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 11/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_11_0/1992_11_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 810/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_810_0/1992_810_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "829fc246286bbe6c89256ed2cb3994ff26cdb2216c502a87070a7138fd51c6a2",
+      "sha256": "362970c9d855ecf40c5486ded350fbc39bcaa3901487e2e5d8885bf1d9a0afca",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35"
+        },
+        {
+          "text": "BGBl. I Nr. 103/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/103"
+        },
+        {
+          "text": "BGBl. I Nr. 86/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/86"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1 (zu § 11 Abs. 2)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72d1c972a99aa7e79455fc3af5a8dac121b7f0b9b42ecce1ac9d8bdd558daa45",
+      "sha256": "f7af6a573a69bc38bf48a0040299cba0d6dfb78223cd4cb8f0b7d532a2168e0f",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 1",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40125846/I_111_2010_Anlage_1.pdf",
+              "title": "PDF-Dokument: Anlage 1",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40125846/I_111_2010_Anlage_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2 (zu § 11 Abs. 1)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0fc7f38af23cfce5627860472e6508478c01cb9bd1f194150fa80fefeddc7ed8",
+      "sha256": "b4d9415918f09639ac56a0c98e9fd45725b3e7eb84b238288b7d73acdea5ea31",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 2",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40125847/I_111_2010_Anlage_2.pdf",
+              "title": "PDF-Dokument: Anlage 2",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40125847/I_111_2010_Anlage_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

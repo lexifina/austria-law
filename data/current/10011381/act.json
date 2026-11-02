@@ -1,0 +1,152 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011381",
+  "short_title": "Luftverkehrsabkommen – Fluglinienplan (BRD)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – BRD",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011646",
+    "valid_from": "1966-09-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011381&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:54:49.121842+00:00",
+    "response_sha256": "8a2d8f32e6b2f510e5afe9f9554a663709a867bb6e19515452f65698f8b4b583",
+    "snapshot_sha256": "3b0cafbcb8330206a48e8bbd97fc621c531b34f13842eb4c17e8385220e0a6cd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1e8cb4cab8edcfe718999bab215e5645acbdbad41f62d47eb0b79bc28744c2d3",
+      "sha256": "0cf949b28643fda488adfe756e925bad323f32ab660d298fba66ff11096394a8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel betreffend den im Abkommen zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Luftverkehr, BGBl. Nr. 136/1966, vorgesehenen Fluglinienplan StF: BGBl. Nr. 206/1966"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 536/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 136/1966",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_136_0/1966_136_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 206/1966",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_206_0/1966_206_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 536/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_536_0/1991_536_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Fluglinienplan",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27bc2fbeecfc7dc99bdfdb906a2f7f680491e8f87f8861ea55f80905d1e378c5",
+      "sha256": "b9e26174b26682d0b4c20adc6ee84c02872a00a53f99dc719668f796d7df4ac5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Punkte im Hoheitsgebiet der Bundesrepublik Deutschland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Punkte im Hoheitsgebiet der Republik Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Alle Punkte in der Bundesrepublik Deutschland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1. Wien 2. Salzburg 3. Klagenfurt 4. Innsbruck 5. Graz 6. Linz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Punkte im Hoheitsgebiet der Republik Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Punkte im Hoheitsgebiet der Bundesrepublik Deutschland",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Alle Punkte in der Republik Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1. Berlin 2. Düsseldorf 3. Frankfurt 4. München 5. Stuttgart 6. Hamburg 7. Dresden oder Leipzig 8. ein weiterer von den Luftfahrtbehörden zu vereinbarender Punkt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012361",
+  "short_title": "Aufteilungsschlüssel in der Krankenversicherung der Pensionistinnen und Pensionisten (Kalenderjahr 2022)",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40255733",
+    "valid_from": "2023-09-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012361&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:33:28.428507+00:00",
+    "response_sha256": "9985a7ad8a1fb4b225e9c26ad923247b3e3c7d4c91069a7544ab5b29f6ad9288",
+    "snapshot_sha256": "c08831d9356245bfcdf80b34ea6b376d2f68e08a35de52a753af94f7b9c23d3f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b83a8a4084a1ea163a48680c8a96ee345464b6af26cd0d9638ff9fd606439ef",
+      "sha256": "f9c6014055d69d9525a235ee3d3e3ce3f2c382d81e80ee3465dbde917fe90788",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Aufteilungsschlüssel in der Krankenversicherung der Pensionistinnen und Pensionisten StF: BGBl. II Nr. 279/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 279/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/279"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/110"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc4b6f625455e5f9a1a6857fa6b206eece3ec9daa55522c3306bc8be4fa0b043",
+      "sha256": "e437234929d00566653d161ac23e8aad8878869ffc93ce7b5d9546779daf7dfe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Österreichische Gesundheitskasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "99,95171",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "0,04829",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

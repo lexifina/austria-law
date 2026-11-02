@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über das Entgelt (Preis) für die Überlassung von Räumen und Grundstücken durch gemeinnützige Bauvereinigungen (Entgeltrichtlinienverordnung 1994 – ERVO 1994) StF: [BGBl. Nr. 924/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_924_0/1994_924_0.pdf>)
+
+Auf Grund des § 13 Abs. 3 des Wohnungsgemeinnützigkeitsgesetzes, [BGBl. Nr. 139/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_139_0/1979_139_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 800/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_800_0/1993_800_0.pdf>), wird verordnet:

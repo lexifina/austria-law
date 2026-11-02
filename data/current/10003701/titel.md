@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Regionalfahne und das Regionalemblem der Sonderverwaltungsregion Hongkong der Volksrepublik China StF: [BGBl. II Nr. 155/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_155_2/1999_155_2.pdf>)

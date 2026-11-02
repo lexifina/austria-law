@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 21. September 1981 betreffend das Emblem, die Flagge, die Bezeichnungen und die Abkürzungen der Bezeichnungen der Weltorganisation für Tourismus StF: [BGBl. Nr. 458/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_458_0/1981_458_0.pdf>)

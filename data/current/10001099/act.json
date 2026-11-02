@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001099",
+  "short_title": "VfGH-Aufhebung Richtlinien Österreichisches Staatsarchiv",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001103",
+    "valid_from": "1991-02-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001099&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:17.321736+00:00",
+    "response_sha256": "2ee99f997f15d6882efde8edad62d726a66d3edc71b3e617375ae0443834fa5a",
+    "snapshot_sha256": "c20293a09cd68ab607d76a919dcf39658d798f7b95acef4729a21a49d0a78e8f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1227b0532ca798ba70cb40bf2e5e506832d455817cb00d661ace44148541f865",
+      "sha256": "1266b98fcea24b0e39669de9a93f2f42a4131f4d91df146e5fb90740fd58f510",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über die Aufhebung der „Richtlinien für die Behandlung von Benützungsansuchen für die vom Österreichischen Staatsarchiv verwahrten Archivalien'' StF: BGBl. Nr. 79/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 79/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_79_0/1991_79_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60b2ec7d067cb4dab3560e5aa7ef9f544e43043527fce0a69baa2a9c792a8e7a",
+      "sha256": "a0d2ddde040ecd3a180aae2dee0ef795d8074baac45d60140d86a2ad1551c575",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

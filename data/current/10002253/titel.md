@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 21. Mai 1973 betreffend das Staatssiegel, das Kennzeichen der Gebietskörperschaften und das Zivilschutzzeichen Algeriens StF: [BGBl. Nr. 264/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_264_0/1973_264_0.pdf>)

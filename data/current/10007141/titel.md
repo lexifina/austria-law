@@ -1,0 +1,1 @@
+Selbstbeschränkungs- und Autorisationsabkommen betreffend den Export bestimmter Kleidung von Macao nach Österreich StF: [BGBl. Nr. 16/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_16_0/1991_16_0.pdf>)

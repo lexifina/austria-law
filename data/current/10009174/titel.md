@@ -1,0 +1,1 @@
+Verordnung des Ministers für Cultus und Unterricht vom 18. October 1877, womit die Anerkennung der altkatholischen Religionsgesellschaft ausgesprochen wird. StF: [RGBl. Nr. 99/1877](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=99/1877&amp;SkipToDocumentPage=True>)

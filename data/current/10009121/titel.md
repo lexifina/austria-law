@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über den Schutz der Arbeitnehmer/innen bei Bildschirmarbeit (Bildschirmarbeitsverordnung – BS-V) StF: [BGBl. II Nr. 124/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_124_2/1998_124_2.pdf>) \[CELEX-Nr.: [390L0270](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0270:DE:HTML>)\]
+
+Auf Grund der §§ 67 und 68 des Bundesgesetzes über Sicherheit und Gesundheitsschutz bei der Arbeit (ArbeitnehmerInnenschutzgesetz – ASchG), [BGBl. Nr. 450/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf>), in der Fassung [BGBl. I Nr. 9/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_9_1/1997_9_1.pdf>) wird verordnet:

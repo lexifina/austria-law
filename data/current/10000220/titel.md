@@ -1,0 +1,3 @@
+Bundesgesetz vom 30. Juni 1949 über die Rückstellung gewerblicher Schutzrechte (Sechstes Rückstellungsgesetz). StF: [BGBl. Nr. 199/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_199_0/1949_199_0.pdf>) idF [BGBl. Nr. 83/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_83_0/1950_83_0.pdf>) (DFB) (NR: GP V [RV 810](<https://www.parlament.gv.at/gegenstand/V/I/810>) [AB 936](<https://www.parlament.gv.at/gegenstand/V/I/936>) [S. 117.](<https://www.parlament.gv.at/gegenstand/V/NRSITZ/117>) BR: [S. 46.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/46>))
+
+Der Nationalrat hat beschlossen:

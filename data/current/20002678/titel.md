@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen und der Bundesministerin für Arbeit, Familie und Jugend über die Statistik der Lohn-, Einkommen-, Umsatz- und Körperschaftsteuer sowie Transferzahlungen (Steuerstatistik-Verordnung) StF: [BGBl. II Nr. 229/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_229_2/2003_229_2.pdf>)
+
+Auf Grund der §§ 4 Abs. 3, 5 Abs. 1 und 2, 6 Abs. 1, 8 Abs. 1 sowie 10 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>) in der Fassung [BGBl. I Nr. 136/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_136_1/2001_136_1.pdf>), wird im Einvernehmen mit dem Bundeskanzler angeordnet:

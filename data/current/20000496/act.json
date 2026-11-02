@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000496",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Hernals",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000532",
+    "valid_from": "2000-04-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000496&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:19:24.513071+00:00",
+    "response_sha256": "62c287ccc6bd9353ea265612bdf46c84eee80a0eea54bdcacc1d9ebd556c0689",
+    "snapshot_sha256": "fb5008f416ee7769c40080f1e97d770d8bbb4c8ab3c4bf041ab68ad66d3e09dd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69f29dd82a97991666ced0100e69272d4216e555469e4d38f861e7550fcf868d",
+      "sha256": "85ddfd132fcc32d82ec136f179026d6923430873b9803ce8fd6337e818bac934",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Wien-Hernals StF: BGBl. II Nr. 98/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 98/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_98_2/2000_98_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77ce1f08ceffd5498be90a5baabd5bdc3f845185b218c5c7fe78b805bb787a03",
+      "sha256": "7508010f3d613e258fa8b81f37c9cae1fc422b1e5c400664ac5c6d1878200c8e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

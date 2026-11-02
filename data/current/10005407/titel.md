@@ -1,0 +1,1 @@
+Vereinbarung über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Obernberg am Inn StF: [BGBl. Nr. 492/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_492_0/1975_492_0.pdf>) idF [BGBl. Nr. 596/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_596_0/1975_596_0.pdf>) (DFB)

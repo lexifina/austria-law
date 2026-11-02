@@ -1,0 +1,1 @@
+Notenwechsel vom 11. Jänner 1980 über die Errichtung vorgeschobener österreichischer Grenzdienststellen am Grenzübergang Wegscheid StF: [BGBl. Nr. 104/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_104_0/1980_104_0.pdf>)

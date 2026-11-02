@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012234",
+  "short_title": "Bestimmung des Straßenverlaufes der S 16 Arlberg Schnellstraße – Halbanschlußstelle Dalaas/West im Bereich der Gemeinden Dalaas und Innerbraz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012516",
+    "valid_from": "1993-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012234&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:06:57.634095+00:00",
+    "response_sha256": "5fad9c15bbfbed8fc7d8ed56a13fdf532a89e886dcd1c0468cafaafb50a909a1",
+    "snapshot_sha256": "b8c4584e3f959c95cce7ec021cb120700ffce6c78bf404ad6d14107e30c1cc2c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f81ebb57b677f9680ac04c30524f52cc49eeebe9c911be1fd3a0a594616fac5b",
+      "sha256": "5c2dec89623db0264c25a760eda5144fefc276f82ee416d441be28ca52a4bc1e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der S 16 Arlberg Schnellstraße – Halbanschlußstelle Dalaas/West im Bereich der Gemeinden Dalaas und Innerbraz StF: BGBl. Nr. 923/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 923/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_923_0/1993_923_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 420/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_420_0/1992_420_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5abf046d5b9a80abc99d02609526737ef755502b33f514a1245f1e23576c2445",
+      "sha256": "9f3bdfbd211fe1abfe6da343711ce5e4929beb83864bb7e27d9b8874e914db62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

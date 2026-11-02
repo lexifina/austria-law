@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit und Generationen über Kaffee- und Zichorienextrakte StF: [BGBl. II Nr. 391/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_391_2/2000_391_2.pdf>) \[CELEX-Nr.: [399L0004](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0004:DE:HTML>)\]
+
+Auf Grund der §§ 10 Abs. 1 und 19 Abs. 1 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 105/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_105_1/2000_105_1.pdf>), wird – hinsichtlich des § 4 im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit – verordnet:

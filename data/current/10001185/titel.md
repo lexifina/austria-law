@@ -1,0 +1,3 @@
+Bundesgesetz über die Beschäftigung parlamentarischer Mitarbeiterinnen und Mitarbeiter (Parlamentsmitarbeiterinnen- und Parlamentsmitarbeitergesetz – ParlMG) StF: [BGBl. Nr. 288/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_288_0/1992_288_0.pdf>) (NR: GP XVIII [IA 329/A](<https://www.parlament.gv.at/gegenstand/XVIII/A/329>) [AB 545](<https://www.parlament.gv.at/gegenstand/XVIII/I/545>) [S. 71.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/71>) BR: [AB 4270](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4270>) [S. 554.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/554>))
+
+Der Nationalrat hat beschlossen:

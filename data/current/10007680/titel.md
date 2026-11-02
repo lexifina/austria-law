@@ -1,0 +1,11 @@
+VERTRAG ZWISCHEN DEM KÖNIGREICH BELGIEN, DEM KÖNIGREICH DÄNEMARK, DER BUNDESREPUBLIK DEUTSCHLAND, DER GRIECHISCHEN REPUBLIK, DEM KÖNIGREICH SPANIEN, DER FRANZÖSISCHEN REPUBLIK, IRLAND, DER ITALIENISCHEN REPUBLIK, DEM GROSSHERZOGTUM LUXEMBURG, DEM KÖNIGREICH DER NIEDERLANDE, DER PORTUGIESISCHEN REPUBLIK, DEM VEREINIGTEN KÖNIGREICH GROSSBRITANNIEN UND NORDIRLAND (MITGLIEDSTAATEN DER EUROPÄISCHEN UNION) UND DEM KÖNIGREICH NORWEGEN, DER REPUBLIK ÖSTERREICH, DER REPUBLIK FINNLAND, DEM KÖNIGREICH SCHWEDEN ÜBER DEN BEITRITT DES KÖNIGREICHS NORWEGEN, DER REPUBLIK ÖSTERREICH, DER REPUBLIK FINNLAND UND DES KÖNIGREICHS SCHWEDEN ZUR EUROPÄISCHEN UNION SAMT SCHLUSSAKTE (EU-BEITRITTSVERTRAG) PROTOKOLL NR. 3 ÜBER DIE SAMEN StF: [BGBl. Nr. 45/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_45_0/1995_45_0.pdf>) (NR: GP XIX [RV 11](<https://www.parlament.gv.at/gegenstand/XIX/I/11>) [AB 25](<https://www.parlament.gv.at/gegenstand/XIX/I/25>) [S. 4](<https://www.parlament.gv.at/gegenstand/XIX/NRSITZ/4>) BR: [AB 4933](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4933>) [S. 591](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/591>))
+
+DIE HOHEN VERTRAGSPARTEIEN -
+
+IN ANERKENNTNIS der Verpflichtungen und Zusagen Norwegens, Schwedens und Finnlands gegenüber den Samen im Rahmen des innerstaatlichen und internationalen Rechts;
+
+IM HINBLICK insbesondere darauf, daß Norwegen, Schweden und Finnland sich verpflichtet haben, die Lebensgrundlagen, Sprache, Kultur und Lebensweise der Samen zu erhalten und zu entwickeln;
+
+IN ANBETRACHT der Abhängigkeit der traditionellen Kultur und Lebensweise der Samen von primären Wirtschaftstätigkeiten wie Rentierhaltung in den traditionellen Siedlungsgebieten der Samen -
+
+SIND WIE FOLGT ÜBEREINGEKOMMEN:

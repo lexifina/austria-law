@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über den akademischen Grad „Master of Business Administration“ (4. MBA-Verordnung) StF: [BGBl. II Nr. 17/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_17_2/2000_17_2.pdf>)
+
+Gemäß § 26 Abs. 2 des Bundesgesetzes über die Studien an den Universitäten (Universitäts-Studiengesetz – UniStG), [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 167/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_167_1/1999_167_1.pdf>), wird verordnet:

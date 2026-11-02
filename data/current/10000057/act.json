@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000057",
+  "short_title": "Einzelverträge mit Belgien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000057",
+    "valid_from": "1920-12-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000057&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:21:45.368864+00:00",
+    "response_sha256": "7958266bb77b4a60f17370986ca13fe17262b7cc9e4778171d9d36fefe09de1b",
+    "snapshot_sha256": "712ae28b7a9b6197f0c4fcd34545910f235528036940a1dfc66d962af5a9cb32",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3836dd7e780b848f30ef7e00aa93926d08a36ba58f29eca072cc65a517ec51bf",
+      "sha256": "06a496b4d06accfeb2fc72cef0fdc42f779c1ff035d05df90027c3ab9879e2d4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit den Bundesministerien für Äußeres, für Inneres und Unterricht und für Justiz vom 23. März 1921, betreffend die Geltung gewisser Einzelverträge mit Belgien. StF: BGBl. Nr. 244/1921"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 244/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=244/1921&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aef876f75607d95cbae8a33dad108b6c51ee44e4c8576b94fd72a7d4c0877830",
+      "sha256": "1ec104d5eb986dadf7a6c818349e485cd9d963aa55bf4fcfae8f517c554b9572",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

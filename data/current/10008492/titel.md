@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit und Umweltschutz vom 20. Mai 1981 über vordringliche Maßnahmen zur Erhaltung der Volksgesundheit StF: [BGBl. Nr. 274/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_274_0/1981_274_0.pdf>)
+
+Auf Grund des § 132 c Abs. 1 des Allgemeinen Sozialversicherungsgesetzes, [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 585/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_585_0/1980_585_0.pdf>) wird im Einvernehmen mit dem Bundesminister für soziale Verwaltung verordnet:

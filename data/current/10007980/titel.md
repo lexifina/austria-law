@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung im Lehrberuf Bodenleger (Bodenleger-Ausbildungsordnung) StF: [BGBl. II Nr. 153/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_153_2/1998_153_2.pdf>)
+
+Auf Grund der §§ 8, 24 und 27 Abs. 2 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch die Berufsausbildungsgesetz-Novelle 1997, [BGBl. I Nr. 67/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_67_1/1997_67_1.pdf>), wird - hinsichtlich des § 12 im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales - verordnet:

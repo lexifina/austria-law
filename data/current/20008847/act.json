@@ -1,0 +1,975 @@
+{
+  "sample_only": false,
+  "included_provisions": 35,
+  "source_provision_count": 35,
+  "schema_version": 1,
+  "gesetzesnummer": "20008847",
+  "short_title": "Fern- und Auswärtsgeschäfte-Gesetz",
+  "abbreviation": "FAGG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40162350",
+    "valid_from": "2014-06-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008847&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:21:46.622253+00:00",
+    "response_sha256": "5ae001a962989a420adbee668f6b5c239362bbf4e0569aaabf981404d603f0b5",
+    "snapshot_sha256": "6460da2d7f8f3fde0dd43cef7f25d03ed6f896fe8cd1319cf8e33bcff69913cb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6fc8000d38ef69232ac0828367817d8aee88e4cb56797fc88a6f2dfa34dc69c",
+      "sha256": "64d12322710983e1d5ac45a5db94878f670e404960b4a5dee5c59c22d3b6e6c2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Fernabsatz- und außerhalb von Geschäftsräumen geschlossene Verträge (Fern- und Auswärtsgeschäfte-Gesetz – FAGG) StF: BGBl. I Nr. 33/2014 idF BGBl. I Nr. 83/2015 (VFB) (NR: GP XXV RV 89 AB 92 S. 21. BR: AB 9169 S. 829.) [CELEX-Nr.: 32011L0083]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 50/2017 (NR: GP XXV RV 1513 AB 1533 S. 173. BR: AB 9768 S. 866.) [CELEX-Nr.: 32015L2302] BGBl. I Nr. 109/2022 (NR: GP XXVII RV 1529 AB 1567 S. 167. BR: AB 11061 S. 943.) [CELEX-Nr.: 32019L2161] BGBl. I Nr. 59/2026 (NR: GP XXVIII RV 498 AB 566 S. 87. BR: 11835 AB 11846 S. 993.) [CELEX-Nr.: 32023L2673, 32024L0825]"
+        },
+        {
+          "kind": "Umsetzungshinweis für folgende Bestimmung",
+          "text": "CELEX-Nr.: 32023L1791"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 33/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/33"
+        },
+        {
+          "text": "BGBl. I Nr. 83/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/83"
+        },
+        {
+          "text": "RV 89",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/89"
+        },
+        {
+          "text": "AB 92",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/92"
+        },
+        {
+          "text": "S. 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/21"
+        },
+        {
+          "text": "AB 9169",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9169"
+        },
+        {
+          "text": "S. 829.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/829"
+        },
+        {
+          "text": "32011L0083",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0083:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/50"
+        },
+        {
+          "text": "RV 1513",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1513"
+        },
+        {
+          "text": "AB 1533",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1533"
+        },
+        {
+          "text": "S. 173.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/173"
+        },
+        {
+          "text": "AB 9768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9768"
+        },
+        {
+          "text": "S. 866.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/866"
+        },
+        {
+          "text": "32015L2302",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2302:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/109"
+        },
+        {
+          "text": "RV 1529",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1529"
+        },
+        {
+          "text": "AB 1567",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1567"
+        },
+        {
+          "text": "S. 167.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/167"
+        },
+        {
+          "text": "AB 11061",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11061"
+        },
+        {
+          "text": "S. 943.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/943"
+        },
+        {
+          "text": "32019L2161",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L2161:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/59"
+        },
+        {
+          "text": "RV 498",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/498"
+        },
+        {
+          "text": "AB 566",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/566"
+        },
+        {
+          "text": "S. 87.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/87"
+        },
+        {
+          "text": "11835",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11835"
+        },
+        {
+          "text": "AB 11846",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11846"
+        },
+        {
+          "text": "S. 993.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/993"
+        },
+        {
+          "text": "32023L2673",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2673:DE:HTML"
+        },
+        {
+          "text": "32024L0825",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024L0825:DE:HTML"
+        },
+        {
+          "text": "32023L1791",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L1791:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc23311811780c838d3dcabd8827a40f4bb8450afe5f382c061351ae24c0e427",
+      "sha256": "774f198f0ca939e355c3032eb60062cb2ec69801e5ba2615984a388441069275",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1a",
+      "source_heading": "Geltungsbereich für Finanzdienstleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0001a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb5049f491ffa17771733160f3ab0287193a168ef753f0f3861e36839b80a1ac",
+      "sha256": "505aa6f4e2a0ebe320f795518fd3eb0b054d848ac0e3893c6614f856c09eae5c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zwingendes Recht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cfc2ef3fb8ef5d1c64ea11c7a597c4b4c6fd4a3dbc9374b87c8cf4ed1d91b15c",
+      "sha256": "4962ac45a2722397e94fd4881a283f9dae445cca8a0fa57ba4b925350fa56cc7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfd971b2a5f1f55c292065f1f9c0628321e3f80bafdbeb7f75ee9f36bc82ef5c",
+      "sha256": "7c73a70c75d6dd6022947e96d979d5a5f04853444bd325b1bf0c933f3d67e1d7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Informationspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54117347838bb1a4195a04b2412e9f07d59257b2b371ae8650a444c90f48cdc4",
+      "sha256": "0a9853ae88ab786e052822596338d86db039d6bc81ceebd3c16fd1756935ed7f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4a",
+      "source_heading": "Zusätzliche Informationserteilung bei auf Online-Marktplätzen geschlossenen Verträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0004a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d60762726b4847ab0ca8a29013ca331b7309933f9046d447c63fa6d731529c8",
+      "sha256": "9a74f0584ff3acaa44bc7a60d0119fa1fc411ac7edb6d62f9a35c79801c2bf17",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Informationserteilung bei außerhalb von Geschäftsräumen geschlossenen Verträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f331ea05c75b69fe9f717fc34f6048940b502414f46d352f6469b886a67f43d0",
+      "sha256": "e05dc22b2a5c53ff93ee2b1f1b8b6e2ac792da59794abec9a29c79a19b802897",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Vereinfachte Informationserteilung bei Handwerkerverträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a7ce4e96bed5ce9b22380d1e93e4835b2d557796e6fdc6d7d2f3ec2d7549fd7",
+      "sha256": "75e83eea06afeee31f248194efc6282058139c8bba92be636080fae212d26066",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Informationserteilung bei Fernabsatzverträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "896b116e4ccdaf4aaef61cc06cc62f8fc543583fe97c2d2ce40fbab0e9c460b0",
+      "sha256": "bce01af634a10d63d117990638c597740ea03d5cdb18abe9a00463af8a1a6973",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Besondere Erfordernisse bei elektronisch geschlossenen Verträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08a688f0199e0d6ab1bb51e303dcd9cca997da156fc54f86e15d6dc27b5e6e8b",
+      "sha256": "1e498dfe49dd1444fe8f63dd406d41165aee77475948db8fd435171de5d4622d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Besondere Erfordernisse bei telefonisch geschlossenen Verträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6a2071fc8c6791017c0be65ef4607d21763ee659d8eecd22ce604c28b2caf30d",
+      "sha256": "c369e31f7901d0fc14419d85f54c2deb66ac18be80075da1afc206bb006b80cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Beginn der Vertragserfüllung vor Ablauf der Rücktrittsfrist",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b1fdc6d260e3f35b0522949d288d3e2d5b099cd6c11493f53f6cae783a90277",
+      "sha256": "3b25360514e9444e0d235d5321e137857864601111da82e70ff5f85c565bc412",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "3. Abschnitt Rücktritt vom Vertrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e497ee464090bf576cb7f4d01358c8fe0ac8007632949d235dbc7c30b885bc28",
+      "sha256": "78b3953c42960d6eb20fa6631ece65930395357377ad1051d6b893bc6e52d181",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Unterbliebene Aufklärung über das Rücktrittsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55e5415b0fa1e04915aaa48dfc292133187368e524874c279f0b99e079db6a12",
+      "sha256": "9028c87be748d6fb4f95749d14b9b5f67c5a2a273f102c869ac296af3405c915",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Ausübung des Rücktrittsrechts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4e1328e57d5a9d69f83a5e4a2487f261d7701b8c7896db7d21a4131030c4594",
+      "sha256": "272df61ee3705858818e97e4553e84325351d3cb0c90b06c57af0d9c5039e61a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13a",
+      "source_heading": "Ausübung des Rücktrittsrechts bei Fernabsatzverträgen, die über eine Online-Benutzeroberfläche geschlossen werden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0013a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3650705fdf8637672d77b77259330e0e6c29d8a7da3fab018b07c95c12519eb0",
+      "sha256": "3c9e8bef25e3930a0c584be52acda4c47a4888a0f8f785c03ab9dee6a836c717",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Pflichten des Unternehmers bei Rücktritt des Verbrauchers vom Vertrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "218b3d23fa3ba530025254c3996b6e510e210b76725a57a70462034791d3ef96",
+      "sha256": "deaa9bf2eec86ddf97257f5b276efc3d60a2a9bb80b322b2653d08ea68bb85ca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Pflichten des Verbrauchers bei Rücktritt vom Kaufvertrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "555fe52bc4a432477c83d4fd8bdcaccea8a0e4a1f1eed359ffb6f81b82fca174",
+      "sha256": "1b4199489d098522d3a030fdc9a675bcecc925f6f0774d081ddfd5f004e96f0f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Pflichten des Verbrauchers bei Rücktritt von einem Vertrag über Dienstleistungen, Energie- und Wasserlieferungen oder digitale Leistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88255efff96601ba4187f375a18855fd46a2f2c7a9161358a7e16d35183a9ff3",
+      "sha256": "a197d1b4f2a3634f01468da11de4f9158dc85bec6d25919d2151096b7d470b87",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Auswirkungen des Rücktritts auf akzessorische Verträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d3cac645e39c2e3559ed208ca2fa3df542c7c1e66f8f83ee44c9e086f17a247",
+      "sha256": "31a6492d77ef76d257b36be7e7fe104c976a3d40212baef54e236fc691968f54",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Ausnahmen vom Rücktrittsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce3b7e1024a2831ed06f39b399c8b5092bde769968c8ec74b3505947bece56ef",
+      "sha256": "b73bb2c0c5e262d57499d189d423ae6e66798f978191b8f06e27d5ecb50474c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18a",
+      "source_heading": "3a. Abschnitt Fernabsatzverträge über Finanzdienstleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0018a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1de169e10079aa9033f2eb5654a4028280b208846b5340ff4a1f4f90ee3caf8",
+      "sha256": "99b566516c9a33e859e63d3390b3e15d327d25101d28306a4bda986c091aea84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18b",
+      "source_heading": "Rücktrittsrecht bei Fernabsatzverträgen über Finanzdienstleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0018b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e45e9be8cc4e6635b15723b4faf74b61d1942948cfbc647f6d19c1138a7a0d5",
+      "sha256": "f1bea3b414bc18c8d158167eb26594f464eb700d6e67e5bdae32e622959b9d2c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18c",
+      "source_heading": "Zahlung für eine vor Rücktritt vom Vertrag erbrachte Dienstleistung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0018c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1dfa6678fe88ddef34c3e2c61b545848b8e097a537b3af22824633c82a4af84d",
+      "sha256": "ee5fd1dce2f68ca4f6f1db802a32b72dad56eaee874311fd5e012ea6a0e387d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18d",
+      "source_heading": "Angemessene Erläuterungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0018d.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b79a1463629b965e373c590098f461a41385efbec38c373b3afbf34fc730c84e",
+      "sha256": "875ac50d2d0a48c1945e365ca1256e60612d84f6a2ad0525138c243b02b4ea12",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "4. Abschnitt Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0cfa244e3c3061b07c0e65ec53d08f3a16ea16726f83e6471c9c783b244999fe",
+      "sha256": "e982313b93fd233ce6ffce962dd58f696a2b2698347573927c27b4654b16e45b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "5. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a22bc0049ff9d2946087371a2c7d061a8256f9b5b13e7004f0291fdad97bddfe",
+      "sha256": "b146c5dc3408f77175306cfb252195f02022fd5df4a38b3838c92ea0655d1e0b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/50"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/109"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/59"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/59"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "621cd428891bc3be9efe4038d0af883f300bad787c0ab1682ab920cd8c23b240",
+      "sha256": "cca4fd0cdac171d2aacf942a5dc0b6f876b33d704c97b4b0391a4b62497a2523",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d50214ab49af2115e8b70252570f249c6fd5eb6a61c5ea3043b590bfb662125",
+      "sha256": "e73cdab30b1d70cb1ab4360cfba057b17668c4bd611979b72b5f0f6262d8a8a8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Informationen zur Ausübung des Widerrufsrechts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da31f7cdcb87d9ea666456dbfb9518fe3e68aecd793e2f7948ccdbe72f199339",
+      "sha256": "e524119fc28217dd0798838d684cde9b6910c4f8e5f506fc67fe36ee5075c4bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4f901719d85044a97cdac266e2a0fe2d92ac2e3bcf1344c00dae49f0a2e7158",
+      "sha256": "5665342ac296e682d4581df3e312433822b5ac735362b357d3120c2fa20cc5f4",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage II",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40279265/I_59_2026_Anlage_II.pdf",
+              "title": "PDF-Dokument: Anlage II",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40279265/I_59_2026_Anlage_II.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anhang III",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf75340ef085217a2dcfa753fd8eb697efa190f27a14cdd8f60264fe2d7706bb",
+      "sha256": "fb9854afe50a127d25fc98260a4ab766d725a7fe76d26ae3a964d46ff65b57e7",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage III",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40279266/I_59_2026_Anlage_III.pdf",
+              "title": "PDF-Dokument: Anlage III",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40279266/I_59_2026_Anlage_III.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 4",
+      "source_heading": "Artikel 4 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "art-004.md",
+      "source_context": "BGBl. I Nr. 109/2022",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "68d1183b727a9aa6d247213fd159e979bd110780eb043895fcb885d876751c1c",
+      "sha256": "da21b175857df602eb6104adb35026211fab795dc56ac981253824793630f992",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 109/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/109"
+        },
+        {
+          "text": "BGBl. I Nr. 33/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/33"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 7",
+      "source_heading": "Artikel 7 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "art-007.md",
+      "source_context": "BGBl. I Nr. 59/2026",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2fedb7fa663d91ec8338dd8a6f99e17cba5538e4e6587ac0872f8abf653e893a",
+      "sha256": "6c9c2e83c90a1b29ae758938ac5b67a30e95db24c6cfc1d8b0cdb80c42761f2d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 59/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/59"
+        },
+        {
+          "text": "BGBl. I Nr. 33/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/33"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

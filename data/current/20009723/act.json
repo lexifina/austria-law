@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20009723",
+  "short_title": "Section Control-Messstreckenverordnung Haag – Ried",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40188406",
+    "valid_from": "2016-12-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009723&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:39:27.233305+00:00",
+    "response_sha256": "0594555201e3926ff5bb8c5b6412723a993c0e32e0992bb4774fb817f170f338",
+    "snapshot_sha256": "20547e9f8c306600e1b44a3476d0d44e489e48258adc57db55164afd84e2f773",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c289a7f9fa0c13843c50d16875d24f176c75df27358baea06c0f63802f810e44",
+      "sha256": "2c41deb893151708800002a5bb5f35996bec9a2208b688bfbf91bfa24bede72b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung auf dem Abschnitt Haag am Hausruck – Ried im Innkreis auf der A 8 Innkreisautobahn (Section Control-Messstreckenverordnung Haag – Ried) StF: BGBl. II Nr. 374/2016"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 374/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/374"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "707188138395868ff5cde5dc32d6338ae1b74b85ad697c5c7a1747cb835c21b7",
+      "sha256": "9f196e71bfc82641768c5360761f1c61a8555f2d8644210a0ca260afb332abd5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d027ee48b9be2004d497ca87078dcedc2b3974f12e8d40fbe6ce0c557088d27c",
+      "sha256": "bef069bcd6a915583ac0d295510b50a37385ad57c877521e826060ce606d5ef5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

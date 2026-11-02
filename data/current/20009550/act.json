@@ -1,0 +1,1673 @@
+{
+  "sample_only": false,
+  "included_provisions": 40,
+  "source_provision_count": 40,
+  "schema_version": 1,
+  "gesetzesnummer": "20009550",
+  "short_title": "Verbraucherzahlungskontogesetz",
+  "abbreviation": "VZKG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40198574",
+    "valid_from": "2018-01-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009550&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:35:28.257685+00:00",
+    "response_sha256": "d6337754a8e6cbea476c16ddc460da68d5835d5e1b5e4c71230b681cf17575fa",
+    "snapshot_sha256": "5b8c2d0bd4978bc0ea4b984cb58ce5ce16d26204aead6aff59348e093ac37bfa",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc3059c3960bc84cd03b2de941b18b58436b9ece7b8460df4eed6bcb8877b07c",
+      "sha256": "23ef80339280d0c2d8ea9a5ec3a6e6f31b14f5b561072be5b0db05dcb00ba0e1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Vergleichbarkeit von Entgelten für Verbraucherzahlungskonten, den Wechsel von Verbraucherzahlungskonten und den Zugang zu Verbraucherzahlungskonten mit grundlegenden Funktionen (Verbraucherzahlungskontogesetz – VZKG) StF: BGBl. I Nr. 35/2016 (NR: GP XXV RV 1059 AB 1095 S. 126. BR: AB 9579 S. 853.) [CELEX-Nr.: 32014L0092]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 118/2016 (NR: GP XXV RV 1335 AB 1391 S. 158. BR: 9671 AB 9690 S. 863.) [CELEX-Nr.: 32015L0849] BGBl. I Nr. 158/2017 (NR:GP XXV IA 2284/A S. 199. BR: 9902 AB 9910 S. 873.) BGBl. I Nr. 17/2018 (NR: GP XXVI RV 11 AB 60 S. 15. BR: AB 9939 S. 878.) [CELEX-Nr.: 32015L2366] BGBl. I Nr. 72/2018 (VfGH) BGBl. I Nr. 5/2025 (NR: GP XXVIII IA 2/A AB 6 S. 3. BR: AB 11608 S. 972.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 35/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/35"
+        },
+        {
+          "text": "RV 1059",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1059"
+        },
+        {
+          "text": "AB 1095",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1095"
+        },
+        {
+          "text": "AB 9579",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9579"
+        },
+        {
+          "text": "853",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/853"
+        },
+        {
+          "text": "32014L0092",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0092:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "RV 1335",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1335"
+        },
+        {
+          "text": "AB 1391",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1391"
+        },
+        {
+          "text": "S. 158.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/158"
+        },
+        {
+          "text": "9671",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9671"
+        },
+        {
+          "text": "AB 9690",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9690"
+        },
+        {
+          "text": "S. 863.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/863"
+        },
+        {
+          "text": "32015L0849",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L0849:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 158/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/158"
+        },
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "RV 11",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/11"
+        },
+        {
+          "text": "AB 60",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/60"
+        },
+        {
+          "text": "S. 15.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/15"
+        },
+        {
+          "text": "AB 9939",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9939"
+        },
+        {
+          "text": "S. 878.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/878"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 72/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/72"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/5"
+        },
+        {
+          "text": "IA 2/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/A/2"
+        },
+        {
+          "text": "AB 6",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/6"
+        },
+        {
+          "text": "S. 3.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/3"
+        },
+        {
+          "text": "AB 11608",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11608"
+        },
+        {
+          "text": "S. 972.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/972"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelungsgegenstand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unwirksame Vereinbarungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgeltansprüche unabhängiger Betreiber von Geldautomaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Vergleichbarkeit der Entgelte für Zahlungskonten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Informationspflichten des Zahlungsdienstleisters",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unentgeltlichkeit der Informationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgeltinformation und Glossar",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahlungskonten im Paket mit anderen Produkten und Diensten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgeltaufstellung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung firmeneigener Bezeichnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Vergleichswebsite der Bundesarbeitskammer",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übertragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgeltvergleich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Teilnahme am Entgeltvergleich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenverwendung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Kontowechsel",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bereitstellung eines Kontowechsel-Service",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationen zum Kontowechsel-Service",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermächtigung und Einleitung des Kontowechsels",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten des übertragenden Zahlungsdienstleisters",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten des empfangenden Zahlungsdienstleisters",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erleichterung der grenzüberschreitenden Kontoeröffnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgelte für den Kontowechsel-Service",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Haftung für Schäden des Verbrauchers",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Zugang zu Zahlungskonten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 22",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nichtdiskriminierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Recht auf Zugang zu einem Zahlungskonto mit grundlegenden Funktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ablehnungsgründe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Merkmale eines Zahlungskontos mit grundlegenden Funktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgelte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rahmenverträge und Kündigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Informationen und Unterstützungsleistungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Zuständige Behörde",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 29",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben der FMA",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verpflichtung zur Zusammenarbeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berufsgeheimnis",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Straf- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 32",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen und Verordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzung von Unionsrecht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d7cc9d4fe7332dfd476dd193201e35b4a68a4af0aa6c99bd3350d407ead0d72",
+      "sha256": "7b7ec733ddda1b3c7434f7a3916176094a50d3bd89b0517187d263d3ab8b30da",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd1b3829f0d5e7d64e95c04fbbb99a343c390f05d46a8816b89acdb254e12721",
+      "sha256": "15cc5705569b7f7dc047093590830746a3f38bd894a3c0124a9a71f13e931201",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/107"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b742428e5f9a8c36d0bcef62af3e0dfe18afeb5a50af5a5c6ea49eea2c28c507",
+      "sha256": "699206e0e9c1ba33633829b51b1de6c7f6ee572c4ae2f5697cc3d6d5edf9d93b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Unwirksame Vereinbarungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b05e761c2c836f070319a2f4c881f8d2ea52ad684df1a6f516156c548f3cab9",
+      "sha256": "4d45b4f9f188ecc452af431d0544cbfe18340379342a0b9ea6e1827946e8199b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "2. Hauptstück Vergleichbarkeit der Entgelte für Zahlungskonten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbbdf53bb2b2a4dd01c3b14fc89affcd3e23792c7335d39056d2ab1d148b54ec",
+      "sha256": "e88e60898157997525211d41977b4fc71ae2696ff3175f2ecb6beab1257d8dd0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Entgeltinformation und Glossar",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef95c4c7ecb69a086d3e71c42962dc93bb14afa25d08eaae5277377a8de52380",
+      "sha256": "9fb4ea14bdde646f89b304aec81bef0118938527e4705cc1368bfb1d633282f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Zahlungskonten im Paket mit anderen Produkten oder Diensten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "439f7b9a36cf9180ba20a6f8c457f01b5c29481fe49af2902bff9aba97dd1013",
+      "sha256": "ab26ad4cecb2fd1b07f7481c6d12ed3248af18dbf4721d9fc3421523615e56e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Entgeltaufstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21ea06786703fb57f2f06c39df0f227bd2f5cee079bd7d97a51766634382d161",
+      "sha256": "3e5346b825cb52bd6602d9c6b0c88c596c7d8891fbfc2850433042d6bd86c8ff",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 28/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/28"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Verwendung firmeneigener Bezeichnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54d426d94fc06084e51c4184eec648bb4f955baa51c18aa701fdc12bd6c9af9f",
+      "sha256": "f5813b8f7e0d7363f2eb0992480233f09e3d65c2b88dc219eaa03776945af106",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "2. Abschnitt Vergleichswebsite der Bundesarbeitskammer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "84bcf35d33f8a4c55d3013467c13bd5fb7c937ec09ace3b053fd427a1f9b7aca",
+      "sha256": "c0bc8e2c6744b25d8758b2b63b3e56ad85da2c190e5e962f8f72ecf7dcfb8ef4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 626/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_626_0/1991_626_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Entgeltvergleich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8dcd386ed8b7294b45edf4490b59aef731841773833d6b05fe55eb29e212b564",
+      "sha256": "99c0f0269f2d9e934b8bd25fc56e96759fe1bf1dad383d84651516d1175804fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Teilnahme am Entgeltvergleich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67b5eb4fbc46df054df20a79235be2e3fb1f73b4559f697b4992e29d126ae677",
+      "sha256": "a6180c48a4dc0caeda99c5cd317abbb8d3792a85a68467d9a6103f64c48e3047",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Datenverwendung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c04d1b2e24a1a1dd71f423db2852248a9d8563272f8a867032c65c8827cffa70",
+      "sha256": "827e52246d85465debff9d9a181187f21b284036ef9457413b13fcbde167bc4a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "3. Hauptstück Kontowechsel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f85833338f1b2dd21f60a650126cd32dde7fa1718af6380dbf9e3a9bd9e31049",
+      "sha256": "fcc670705a43f0c31f6b64896520a51d498f02177736a2dd017dce6370b2c689",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Informationen zum Kontowechsel-Service",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be4475b6a9bf845bb3b577e13d1f78800d532b4afe95fdbbecc0e5e2b42c9d70",
+      "sha256": "803c13262c0051ead0aea17a2933f381e5822db42751ac71d37995ecfade52ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Ermächtigung und Einleitung des Kontowechsels",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e2f707506fd2107503e93011dea18b25f58bb29b74664f199edbbc03a182efd",
+      "sha256": "c764307f6c7fcc7377f3e325c7ff26033cea8396cb6223de21155d1f8115ade1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Pflichten des übertragenden Zahlungsdienstleisters",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03fffea9dde33cb7fc04dee49e5e36e206be153940d8a1148ab163a30e73aa36",
+      "sha256": "b67db280146e90eb58c1b17a3a6ca7bf10938c6b75b2e72c930e8453e2fbded5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Pflichten des empfangenden Zahlungsdienstleisters",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6a5d0b0792fd8f7f148b26ba570d5dc16bae02b011671e860584b498b1afa5a",
+      "sha256": "b35d5092d1eeca911609e63a76e7ad0edea13d3e1ce9eb34553569ded8644acc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Erleichterung der grenzüberschreitenden Kontoeröffnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73683b84460325d55deb7aa310f32f6e358a9b98b4e66c968c2a273e86139d39",
+      "sha256": "9a5d9b166fb74d63a42a25a31d70292b12db463b7d6a0bb927570124b17a8649",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Entgelte für den Kontowechsel-Service",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51482e9edb2904cac5e4f5d8d30fc2b7e519964a4e257a0cdf6c866985e3d267",
+      "sha256": "562222ed518ce51b4628ef138d212ebc9a0b09af538933c6ed9309e6b5dc16db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Haftung für Schäden des Verbrauchers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "647001943615bb26a6062ae870f48624027b9a190a5e5200b561dcf21906f053",
+      "sha256": "1630c1c20d945a0b3052c96ddf350f39d3e59f45796d358f1ab00e0ab65bcb9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "4. Hauptstück Zugang zu Zahlungskonten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50cfab6e914ac4fb4d30c289b13a72dd1df5c7bc16e550596cabd4a826c5092f",
+      "sha256": "e23d4a59e0589367d53c61a3930d807474e2437490980d3fee8a87b84992636e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Recht auf Zugang zu einem Zahlungskonto mit grundlegenden Funktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14cfb03b65ad5c7e7340c56b19751a409b7ac4817c1eca499927827bb099c4d9",
+      "sha256": "649c7f42a787a99f1128b0afac3ccf6311062a5cf3b78002be10b539cb6e789d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        },
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        },
+        {
+          "text": "BGBl. I Nr. 123/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_123_1/2003_123_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Ablehnungsgründe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bec47d09b5e0aa0141ea59fffd3f6e18ab041c963d600bf30bbd11dd7a69c930",
+      "sha256": "af138245069deff4bc67f41b5abde9423911224728868744537ba3c8ca2ef6cb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Merkmale eines Zahlungskontos mit grundlegenden Funktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d73e484432c27c03ce6a5d74ce9a762c9afc3646e0e2368ffeeb9cbd063fdc2e",
+      "sha256": "aee0e023afe7c0ea2ef44ead44b10ca9f100eed6fd2cfcbccaab477b3b98e4c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Entgelte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f89bcc149dd6a706329b4e6a34a54df4ea33f876ccce23774541aba751616cbd",
+      "sha256": "513f329faf6e88430268386f15bb58b78500b440de556083f465c0aeaaedd682",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Rahmenverträge und Kündigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6809b37f00b99808461e5e3f0f9cbcd32965469d466e5f0e5eebd640afd84fe3",
+      "sha256": "e4a89c1bd1a61e4c17dbaac96b83597421546e7616fe0319f54ab41c42dcd242",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. 140/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_140_0/1979_140_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Allgemeine Informationen und Unterstützungsleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3221d959e1e548e029bd5347d997d0b3388a65874c64701727c998fcfdc62661",
+      "sha256": "58d3dd5752260cd2eeda8902537999dccdb97044c5cfda0b83254ea89c4ccdbe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "5. Hauptstück Zuständige Behörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c52e3514a89ed2d46c0acf895887002e697037aaa2f88a7293007e7361163cad",
+      "sha256": "96642a18032bd3c05b18b96c628a33af57fa9ec0b1ac35402587a331c576026c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Verpflichtung zur Zusammenarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8dc8c68365ce2286a829b5adb8866570817e5e630e3c2cc97c6dee056fa9990",
+      "sha256": "b99ad444338f9fed1059017202acd6a8fda55641ce7bdda1665262116bb16336",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Berufsgeheimnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dca0f4912e38459dbe70df884fe4074e35c403920a273399abd6343053cea757",
+      "sha256": "aa49ef3aa7faa153252839003334e7304fb0eddcde770624ab229d4cda16081d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 97/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_97_1/2001_97_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "6. Hauptstück Straf- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38ac4371ee16f1a8c6581e5f013ac963ad5026af5069bc40aa248856e03a278f",
+      "sha256": "b80fd4e90c3163c6ed66fcdb88c56ca3e0279ad1fd4d879805fb2be98affd101",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 194/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Verweisungen und Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f29c2c9f50610bf53d7557baf5d26de0b33457d8ca3cec67b5b00005493b392",
+      "sha256": "4f6de6bff5540a62b7304bdf47ec04db430f218bbd72f56170aa1ab3327b77c2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1cea023777ac22fd935299522db1ae0d3c1ed039352cef18ebfe41912711ce89",
+      "sha256": "30ccc55c6e1198c5790dd82b3970c5c57ac5da71822c0dacab1cc839778edd9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19e17963db8ff6108a429981401bfd04be2fa38916c8cfa9e748c6d9568c7144",
+      "sha256": "99394eeabf2bbc0410974ee0c7bb0a4d9d0af8d0c146e5c52a167a659d5a6f34",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "24a34646cf9b5ab498c2d6798dd3d26c4b104ffe1b5bff86b09e3bc85810ea85",
+      "sha256": "3f4a78bf487fd1b3777832dca39789ee2bba9ffb5e97647542e88f77571167a5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "BGBl. I Nr. 158/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/158"
+        },
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Umsetzung von Unionsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5419bf01b7e9faf72a64690a4abb2ed48f8f041c81ac5f88ccece8514a4fa664",
+      "sha256": "a5b173823e3dd8471a518d68f15f225692b1ebebac3e71e876a7e8e20486ad60",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2016-118.md",
+      "source_context": "BGBl. I Nr. 118/2016",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60c15e676c75fa90bd728982e0a0344e202f389db9f2ddff0d360af04bdf11a2",
+      "sha256": "478cbdcec159f1869459a4fca13b8b88161995202bdb7b720738229d47c1e8d5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/35"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2018-17.md",
+      "source_context": "BGBl. I Nr. 17/2018",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "354d417e1cd12ee688f29dfc1ec2ec71ec23f0a8fa1d0bf203c27176f8822d2c",
+      "sha256": "118c548adb14044a08c3e411f33c1d78774b91dd3a088af4a790d5a6b2638053",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/35"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

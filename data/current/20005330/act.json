@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005330",
+  "short_title": "VfGH-Aufhebung von Verordnungen betreffend den AMA-Marketingbeitrag für Wein",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005806",
+    "valid_from": "2007-05-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005330&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:28:41.745258+00:00",
+    "response_sha256": "9893a03a6c33c07dbaf5522d046a09dafccc903a3d942acd2fdb51bcb59510d0",
+    "snapshot_sha256": "d4306d3381980095af238e7018480ad3add95044b2f5cf947f1aa272b7b3269b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "feab3c0f8efd41ecd8ac76e093c8ccc136391a07f0a394112c1c03a24b35bc5d",
+      "sha256": "8fda45ae5fa1b04488bb9dc38d234e9ed3f7156b929778d0f558158497f7ee50",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Aufhebung von Verordnungen betreffend den AMA-Marketingbeitrag für Wein durch den Verfassungsgerichtshof StF: BGBl. II Nr. 106/2007"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 106/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/106"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed67547751b3282673d7730e2fb760eeb724670c3ba304a9a876da75ed4f6230",
+      "sha256": "42a3a9971a628061eb35ad1d5af819d14bf3e7488a3994829b7ca6ceeee116c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

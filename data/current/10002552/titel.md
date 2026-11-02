@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 21. Jänner 1982 betreffend das brasilianische amtliche Zeichen für Kaffee StF: [BGBl. Nr. 50/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_50_0/1982_50_0.pdf>)

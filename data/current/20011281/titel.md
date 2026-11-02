@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Verlustberücksichtigung 2019 und 2018 (COVID-19-Verlustberücksichtigungsverordnung) StF: [BGBl. II Nr. 405/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/405>)
+
+Auf Grund des § 124b Z 355 des Einkommensteuergesetzes 1988 (EStG 1988), [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 99/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/99>), und des § 26c Z 76 des Körperschaftsteuergesetzes 1988 (KStG 1988), [BGBl. Nr. 401/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_401_0/1988_401_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 96/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/96>), wird verordnet:

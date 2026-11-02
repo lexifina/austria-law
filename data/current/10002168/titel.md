@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 7. April 1970, betreffend Zeichen der Gemeinsamen Afrikanisch-Madegassischen Organisation (O.C.A.M.) StF: [BGBl. Nr. 144/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_144_0/1970_144_0.pdf>)

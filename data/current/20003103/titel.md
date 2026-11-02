@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz, mit der der Anpassungsfaktor, die Anpassungsfaktormesszahl, die Anpassungsrichtwertmesszahl und die Pensionserhöhung für das Jahr 2004 festgesetzt werden StF: [BGBl. II Nr. 598/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_598_2/2003_598_2.pdf>)
+
+Auf Grund des § 108 Abs. 5 in Verbindung mit den §§ 108f Abs. 1, 4 und 5, 299a sowie 607 Abs. 3a des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird mit Zustimmung der Bundesregierung verordnet:

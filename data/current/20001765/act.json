@@ -1,0 +1,127 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20001765",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Stadt Graz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001918",
+    "valid_from": "2002-01-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001765&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:37:11.730622+00:00",
+    "response_sha256": "c0375e69ca952693c55bfaa261e69333bfcf301ed97ee9d98f23158305e9231b",
+    "snapshot_sha256": "96b65b696073b9cbf3d2e0c3e125714e27812139f1197ab261f79b446ae490bf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2699226196e78a50a37e0ea9b92af43e2bdbe854c1a984b4f66039a443449fd5",
+      "sha256": "7006fae8279cf168543742484925d6fe8d20a95627bf3d166b83ed14f9acc7b5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Stadt Graz StF: BGBl. II Nr. 40/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 40/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_40_2/2002_40_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 142/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c569915f7b189d40dde8b6663e6471835c9b55593780697b3a682fc8d2001c3",
+      "sha256": "1a1b520b006768a65b8ba54af4338f28b27edd1f5b9b164da545d8767014f43c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage zu BGBl. II Nr. 40/2002",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb079ad956ff524a596baab3685d67be8c894f57bcc4ac21b58cdda6472d506d",
+      "sha256": "8af3867e567ed3b45bbe037d454cdabba44fb3fd6a859579ff1a551d30a620b3",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40028086/II_40_2002_Anlage.pdf",
+              "title": "PDF-Dokument: Anlage",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 40/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_40_2/2002_40_2.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40028086/II_40_2002_Anlage.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

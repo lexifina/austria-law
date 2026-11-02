@@ -1,0 +1,7 @@
+(Übersetzung.) Übereinkommen zum Schutze der für die Landwirtschaft nützlichen Vögel StF: [StGBl. Nr. 304/1920](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=304/1920&amp;SkipToDocumentPage=True>)
+
+Seine Majestät der Kaiser von Österreich, König von Böhmen u. u., und Apostolischer König von Ungarn, gleichzeitig auch im Namen Seiner Durchlaucht des Fürsten von Liechtenstein; Seine Majestät der Deutsche Kaiser, König von Preußen, im Namen des Deutschen Reiches; Seine Majestät der König der Belgier; Seine Majestät der König von Spanien und, in Seinem Namen, Ihre Majestät die Königin-Regentin dieses Königreiches; der Präsident der französischen Republik; Seine Majestät der König der Hellenen; Seine königliche Hoheit der Großherzog von Luxemburg; Seine Durchlaucht der Fürst von Monaco; Seine Majestät der König von Portugal und Algarvien; Seine Majestät der König von Schweden und Norwegen, im Namen von Schweden, und der Schweizerische Bundesrat haben in der Erkenntnis der Nützlichkeit eines gemeinsamen Vorgehens in den verschiedenen Ländern zur Erhaltung der der Landwirtschaft nützlichen Vögel beschlossen, zu diesem Zwecke ein Übereinkommen zu treffen und haben zu ihren Bevollmächtigten ernannt:
+
+(Es folgen die Namen der Bevollmächtigten),
+
+welche nach Mitteilung ihrer in guter und gehöriger Form befundenen Vollmachten über folgende Artikel übereingekommen sind:

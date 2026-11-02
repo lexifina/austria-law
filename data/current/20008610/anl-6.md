@@ -1,0 +1,9 @@
+## ANHANG IV
+
+## ZUGESTÄNDNISSE DER GEMEINSCHAFT FÜR MONTENEGRINISCHE FISCHEREIERZEUGNISSE LISTE DER IN ARTIKEL 29 ABSATZ 2 DIESES ABKOMMENS GENANNTEN ERZEUGNISSE
+
+(Anm.: Anhang IV ist als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: Anhang IV](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40157107/III_259_2013_Anhang_IV.pdf>)

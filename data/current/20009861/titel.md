@@ -1,0 +1,1 @@
+Bundesgesetz über die unentgeltliche Eigentumsübertragung von Liegenschaften und Mobilien des Bundes an das Land Salzburg StF: [BGBl. I Nr. 55/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/55>) (NR: GP XXV [RV 1415](<https://www.parlament.gv.at/gegenstand/XXV/I/1415>) [AB 1565](<https://www.parlament.gv.at/gegenstand/XXV/I/1565>) S. 171.)

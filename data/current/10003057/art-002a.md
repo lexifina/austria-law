@@ -1,0 +1,7 @@
+### Artikel 2 <sup>bis</sup>
+
+(1) Dieses Übereinkommen lässt die sonstigen Rechte, Verpflichtungen und Verantwortlichkeiten, die sich für Staaten und Einzelpersonen aus dem Völkerrecht, insbesondere den Zielen und Grundsätzen der Charta der Vereinten Nationen sowie den internationalen Menschenrechten, dem internationalen Flüchtlingsrecht und dem humanitären Völkerrecht ergeben, unberührt.
+
+(2) Dieses Übereinkommen findet keine Anwendung auf die Tätigkeiten von Streitkräften während eines bewaffneten Konflikts im Sinne des humanitären Völkerrechts, die von jenem Recht erfasst werden, und auf die Tätigkeiten, die Streitkräfte eines Staates in Erfüllung ihrer dienstlichen Pflichten ausüben, soweit sie von anderen Regeln des Völkerrechts erfasst sind.
+
+(3) Dieses Übereinkommen lässt die Rechte, Verpflichtungen und Verantwortlichkeiten, die sich aus dem am 1. Juli 1968 in Washington, London und Moskau beschlossenen Vertrag über die Nichtverbreitung von Atomwaffen, dem am 10. April 1972 in Washington, London und Moskau beschlossenen Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen und dem am 13. Januar 1993 in Paris beschlossenen Übereinkommen über das Verbot der Entwicklung, Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die Vernichtung solcher Waffen für die Vertragsstaaten dieser Verträge ergeben, unberührt.

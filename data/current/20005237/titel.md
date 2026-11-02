@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und das Emblem des Basler Übereinkommens über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung in chinesischer Sprache StF: [BGBl. II Nr. 31/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/31>)

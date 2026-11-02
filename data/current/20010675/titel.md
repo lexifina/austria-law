@@ -1,0 +1,3 @@
+Bundesgesetz über die Einrichtung eines Institutes des Bundes für Qualitätssicherung im österreichischen Schulwesen und die Eingliederung des Bundesinstitutes für Bildungsforschung, Innovation und Entwicklung des österreichischen Schulwesens (IQS-Gesetz – IQS-G) StF: [BGBl. I Nr. 50/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/50>) (NR: GP XXVI [RV 596](<https://www.parlament.gv.at/gegenstand/XXVI/I/596>) [AB 614](<https://www.parlament.gv.at/gegenstand/XXVI/I/614>) S. 74. BR: [AB 10177](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10177>) S. [893](<https://www.parlament.gv.at/gegenstand/BR/I-BR/893>).)
+
+Der Nationalrat hat beschlossen:

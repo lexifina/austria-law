@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 12. Juli 1985 betreffend Hoheitszeichen Irlands StF: [BGBl. Nr. 371/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_371_0/1985_371_0.pdf>)

@@ -1,0 +1,5 @@
+## Artikel 38 <sup>bis</sup>
+
+### Vereinbarungen über regionale Zentren
+
+Wenn eine Vertragspartei es als Teile ihrer Aktionen gegen den illegalen Suchtgifthandel unter gebührender Beachtung ihrer Verfassungs-, Rechts- und Verwaltungsordnung für wünschenswert hält und – falls sie es wünscht –, kann sie mit der technischen Beratung durch den Suchtgiftkontrollrat oder durch besondere Behörden und in Beratung mit anderen interessierten Vertragsparteien in der Region das Treffen von Vereinbarungen fördern, die die Entwicklung der regionalen Zentren für wissenschaftliche Forschung und Aufklärung ins Auge fassen, um die sich aus dem illegalen Suchtgiftgebrauch und -handel ergebenden Probleme zu bekämpfen.

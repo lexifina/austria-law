@@ -1,0 +1,1 @@
+Bundesgesetz vom 19. Dezember 1929 über grundbücherliche Teilungen, Ab- und Zuschreibungen (Liegenschaftsteilungsgesetz \[Lieg. Teil. G.\]). StF: [BGBl. Nr. 3/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=3/1930&amp;SkipToDocumentPage=True>)

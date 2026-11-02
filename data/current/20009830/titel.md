@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über den Kostenersatz aus den Bedürfnissen von Lehre und Forschung im Klinischen Bereich von Universitäten (KMA-Verordnung) StF: [BGBl. II Nr. 70/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/70>)
+
+Auf Grund der §§ 46 Abs. 3 und 56 des Bundesgesetzes über Krankenanstalten und Kuranstalten (KAKuG), [BGBl. Nr. 1/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_1_0/1957_1_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 3/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/3>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,1 @@
+Übereinkommen zwischen der Österreichischen Bundesregierung und der Königlich Belgischen Regierung über die Ergänzung des Luftverkehrsabkommens zwischen Österreich und Belgien, [BGBl. Nr. 41/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_41_0/1955_41_0.pdf>). StF: [BGBl. Nr. 93/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_93_0/1956_93_0.pdf>)

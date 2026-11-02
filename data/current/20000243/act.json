@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000243",
+  "short_title": "Errichtung einer zweiten Notarstelle in Hartberg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000275",
+    "valid_from": "1999-12-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000243&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:16:56.933587+00:00",
+    "response_sha256": "5fcddb57ea7e03c0fa47dbef72d05b0fc913c742141770f1a3858cac94f67079",
+    "snapshot_sha256": "24e601f3f095bfb5f79bbd0e76bc92725e5ce34251bdc590eeb5b863c5e14b32",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7737a73415eb5f6d4b48546737a90bf86b19ed71ff2222ccdef6cc4bfe105ecc",
+      "sha256": "606d265aa5acff17aa0997c9a0f969788c60a60f0a14c5f7463f9b2a1139a0b8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Hartberg StF: BGBl. II Nr. 455/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 455/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_455_2/1999_455_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c7604721651abbd1e0d4115e6c3f76ab5e5f0fd97a14faf01a5f3c8da017f7f2",
+      "sha256": "7335f7822505158b476385a8162d1db2aaa641d59af82d805c19405e0fd396db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

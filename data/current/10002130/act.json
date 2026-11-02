@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002130",
+  "short_title": "Hoheitszeichen - Kanada",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002153",
+    "valid_from": "1969-05-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002130&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:58:23.684823+00:00",
+    "response_sha256": "013642a9a4914bd26ae238302c1cac44fab3c96d647a2129d02a7e8586da4909",
+    "snapshot_sha256": "90d22b30fc8c7501882f85f61c44bb4339eb3e7fb32f65bac2d4a7136f464406",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89d07ef5e8a2c732ebbaa6a04368f6195b48c44305acf58d942269e678aee9b6",
+      "sha256": "5c66288d29e3f5a5145569b4d97dffd8a9f3bdfe83abd77f0fe1b584ce12666b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 14. April 1969, betreffend zwei kanadische Hoheitszeichen StF: BGBl. Nr. 130/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 130/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_130_0/1969_130_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c181f31b04c1f92bb84c163a7ff3048227210e8553072d0798694a8aba008e8d",
+      "sha256": "c9e8824b8808a0ef1bddacc2416f06bc657d44bd095bb89206f0c1e6d210b5a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

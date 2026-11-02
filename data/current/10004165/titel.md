@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 2. Mai 1973 betreffend den Beitritt Spaniens zum Europäischen Abkommen vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: [BGBl. Nr. 231/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_231_0/1973_231_0.pdf>)

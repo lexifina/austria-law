@@ -1,0 +1,1 @@
+Bundesgesetz vom 1. Juli 1964, betreffend hypothekarische Belastung von bundeseigenen Liegenschaften wegen Aufnahme von Wohnhaus-Wiederaufbaudarlehen zwecks Wiederaufbaues von kriegszerstörten oder kriegsbeschädigten Wohnhäusern. [BGBl. Nr. 152/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_152_0/1964_152_0.pdf>)

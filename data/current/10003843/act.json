@@ -1,0 +1,118 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10003843",
+  "short_title": "Österreichische Anleihen - Bereinigung (Vereinigtes Königreich)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Vereinigtes Königreich",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003878",
+    "valid_from": "1954-10-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003843&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:20:15.981601+00:00",
+    "response_sha256": "ddb2973aedac43ce0badd49e740cf59f120d7a3a55dc9098871ba7951bba73af",
+    "snapshot_sha256": "423047041eb1a27c02eb5f9c1d981e2c2e3a54faa773f5df3212d07ddfb59418",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "225740648feae40486d153386b258318e9da6f496d54d8da3ec8266733fd356f",
+      "sha256": "f1945ad4f6f81e8b0347a47bff3b3cb1e3850f6fe8c04b75f760f086d508c380",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Abkommen mit Großbritannien über die Bereinigung von in Großbritannien begebenen österreichischen Anleihen StF: BGBl. Nr. 259/1954 (NR: GP VII RV 277 AB 334 S. 43. BR: S. 95.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 259/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_259_0/1954_259_0.pdf"
+        },
+        {
+          "text": "RV 277",
+          "url": "https://www.parlament.gv.at/gegenstand/VII/I/277"
+        },
+        {
+          "text": "AB 334",
+          "url": "https://www.parlament.gv.at/gegenstand/VII/I/334"
+        },
+        {
+          "text": "S. 43.",
+          "url": "https://www.parlament.gv.at/gegenstand/VII/NRSITZ/43"
+        },
+        {
+          "text": "S. 95.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/95"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "(Übersetzung)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be858f673823d4dc34ca18f74a02711cc9022306026625a08b0abfcbb6be3366",
+      "sha256": "3572fcbcf2a372c5f0252267c7aa721f46abd88926c982191ffa650df4600d40",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Annex.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "845a2577ba4d0791de09967f7195ef259b546ee55d8948e86a0bf08b701db707",
+      "sha256": "490b28f725ead7ff8b7f68d57ce6b09075c022cd2ad013d6c31a87f9dcffe2cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

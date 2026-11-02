@@ -1,0 +1,5 @@
+### Artikel VII
+
+1\. Die Gesetze und Vorschriften, welche auf dem Gebiete eines vertragschließenden Teiles den Eintritt der im internationalen Luftverkehr verwendeten Luftfahrzeuge in sein Gebiet, ihren Aufenthalt auf demselben und ihren Austritt aus demselben, oder den Betrieb dieser Luftfahrzeuge auf diesem Gebiet regeln, finden auf die Luftfahrzeuge der namhaft gemachten Unternehmung des anderen vertragschließenden Teiles Anwendung.
+
+2\. Die Gesetze und Vorschriften, welche auf dem Gebiete eines vertragschließenden Teiles den Eintritt, Aufenthalt oder Austritt der Besatzungen, Fluggäste, Post und Waren regeln, sowie jene, welche die verschiedenen Formalitäten der Kontrolle, die Einwanderung, das Paß- und Zollwesen und die Quarantäne betreffen, finden auf die Besatzungen, Fluggäste, Post und Waren, welche von den Luftfahrzeugen der namhaft gemachten Unternehmung des anderen vertragschließenden Teiles befördert werden, Anwendung, solange sich diese innerhalb des genannten Gebietes befinden.

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000564",
+  "short_title": "Förderungsstellen des Bundes für Erwachsenenbildung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000566",
+    "valid_from": "1975-10-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000564&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:32:08.138694+00:00",
+    "response_sha256": "e0fcb4007298748b02ae575d3109233e82de3a2f31220c63b925da116ba8f835",
+    "snapshot_sha256": "f542de1d43a33ac637933aa54cebf0143b13f8d5b6c090e6362d09d60e6f9e68",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ade96fbb4abe8a966c14018d497e68b3411fd5877ec05065242863dbd48b45a",
+      "sha256": "a89eedda18b23efb350afd637c7336a6339042725836bddaa153127b3d3923ff",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Unterricht und Kunst vom 16. September 1975, mit der im Land Vorarlberg die Besorgung der Geschäfte von Förderungsstellen des Bundes für Erwachsenenbildung dem Landeshauptmann übertragen wird StF: BGBl. Nr. 523/1975"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 523/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_523_0/1975_523_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e78199fa473ea11daf7c6800522de187f757f43a1ebdba064c923544a7affbc6",
+      "sha256": "b1540f7fd2ea4508da8432a23b861bd3788cb3115396c31ce385609d8acfdadd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 171/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_171_0/1973_171_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

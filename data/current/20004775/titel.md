@@ -1,0 +1,1 @@
+Bundesgesetz, mit dem eine Ermächtigung zur Verfügung über Bundesvermögen erteilt wird StF: [BGBl. I Nr. 72/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/72>) (NR: GP XXII [RV 1425](<https://www.parlament.gv.at/gegenstand/XXII/I/1425>) [AB 1473](<https://www.parlament.gv.at/gegenstand/XXII/I/1473>) [S. 150.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/150>))

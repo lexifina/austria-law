@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003233",
+  "short_title": "Errichtung einer zweiten Notarstelle in Bad Ischl",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003259",
+    "valid_from": "1994-04-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003233&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:13:21.049687+00:00",
+    "response_sha256": "1d3616b23e34ac0e786c92249dd2ff700b064006724fd77fda8af6f1f45c1fb6",
+    "snapshot_sha256": "f4d5caaa355f03dfc2dcd05a7dda7ce94ef88203b5af3b94f40c486c5fc24b05",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebaece1be0e8c563856d8a70f5a965f32c4acb4908f2d3f7a96a297da5357d0e",
+      "sha256": "c50bc3ad5e3419bfbda52986108cc537414dbda56e983216cd2ca5c2e39cbccb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Bad Ischl StF: BGBl. Nr. 261/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 261/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_261_0/1994_261_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb59b8a83a9d047dd877a3e050e2edd8ed0591c5063c0d3bfcd7e2ec52d82855",
+      "sha256": "54ec8e6329aeed465a9fa0d4585a205c1d501077861b7142847fe415956cdc0f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

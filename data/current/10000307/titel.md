@@ -1,0 +1,3 @@
+Bundesgesetz vom 26. Juni 1958 zur Durchführung der Artikel 38 bis 43 des Vertrages zwischen der Republik Österreich und der Bundesrepublik Deutschland zur Regelung vermögensrechtlicher Beziehungen (Vermögensvertragsdurchführungsgesetz). StF: [BGBl. Nr. 132/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_132_0/1958_132_0.pdf>) (NR: GP VIII [RV 464](<https://www.parlament.gv.at/gegenstand/VIII/I/464>) [AB 486](<https://www.parlament.gv.at/gegenstand/VIII/I/486>) [S. 61.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/61>) BR: [S. 136.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/136>))
+
+Der Nationalrat hat beschlossen:

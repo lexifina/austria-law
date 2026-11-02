@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 22. Feber 1972, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen werden StF: [BGBl. Nr. 75/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_75_0/1972_75_0.pdf>) idF [BGBl. Nr. 142/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_142_0/1973_142_0.pdf>) (DFB)
+
+Auf Grund des § 8 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), wird - bezüglich der Verhältniszahlen im Sinne des § 8 Abs. 3 des Berufsausbildungsgesetzes gemäß § 35 Z 1 dieses Gesetzes im Einvernehmen mit dem Bundesminister für soziale Verwaltung - verordnet:

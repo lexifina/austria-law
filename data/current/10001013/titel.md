@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 26. Jänner 1989 über den Ausspruch des Verfassungsgerichtshofes, daß der Erlaß des Bundesministers für Bauten und Technik Nr. 68 betreffend die Dampfkesselverordnung gesetzwidrig war StF: [BGBl. Nr. 66/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_66_0/1989_66_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

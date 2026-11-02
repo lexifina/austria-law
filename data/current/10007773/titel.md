@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Verwendung elektrischer Betriebsmittel und elektrischer Anlagen im Bergbau (Bergpolizeiverordnung für Elektrotechnik – BPV-Elektrotechnik) StF: [BGBl. Nr. 737/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_737_0/1996_737_0.pdf>) \[CELEX-Nr.: [392L0104](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0104:DE:HTML>), [392L0091](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0091:DE:HTML>)\]
+
+Auf Grund des § 205 des Berggesetzes 1975, BGBl. Nr. 259, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 219/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_219_0/1996_219_0.pdf>), wird verordnet:

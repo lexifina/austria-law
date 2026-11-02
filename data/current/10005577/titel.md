@@ -1,0 +1,1 @@
+Übergangsrecht anläßlich von Novellen zum Staatsbürgerschaftsgesetz 1965 (Staatsbürgerschafts-Übergangsrecht 1985) StF: [BGBl. Nr. 311/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_311_0/1985_311_0.pdf>)

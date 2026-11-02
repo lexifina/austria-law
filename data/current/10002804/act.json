@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002804",
+  "short_title": "Errichtung einer Notarstelle in Schruns",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002827",
+    "valid_from": "1987-12-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002804&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:30.079658+00:00",
+    "response_sha256": "c1bf3d588e3e4b0d319d9caac2a67e2d8975cfb01ea7bd5edce6aa14f2b6b314",
+    "snapshot_sha256": "40f1eb872d42d5748c7bc88f31aa8b614294e192b5dd360164964be75a142d1a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2855c9c94584b1f6359ab6e5def4c984728cc9bd6e5e1f2d27c3c3e5b0c9983d",
+      "sha256": "18444ecd7699380234c1fd78688ac98b164ecf696c913a2188539ad4cabacdd4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 27. November 1987 betreffend die Errichtung einer Notarstelle in Schruns StF: BGBl. Nr. 596/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 596/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_596_0/1987_596_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8f2234720e0b5fc9454d1ec1f604a356a6769f91cf1c478eb8757f61386531c",
+      "sha256": "fb8917204b67cd70e0ec6020345c46a74df601372bfeeb857c182125115689e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

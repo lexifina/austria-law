@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002606",
+  "short_title": "Hoheitszeichen - Korea",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002629",
+    "valid_from": "1983-10-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002606&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:06:50.658644+00:00",
+    "response_sha256": "c5e133f98f1101255f8a4c4107c50786f75a3fd90d39173722abebb6a5e5bcc3",
+    "snapshot_sha256": "aad30cad2acab06cec78015ec70e47f3bbf421139d7505d4fdacb4c6c0c729b8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "340c48c2a60df8dc036bbe208ca12a39965c0dc89cc508df78415020250bbbe6",
+      "sha256": "9b9dee45f3ca551fc7d6e66b2b6ed579fe38d4ab3abeeebf0234f2abf9e06042",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 16. September 1983 betreffend Hoheitszeichen der Republik Korea StF: BGBl. Nr. 500/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 500/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_500_0/1983_500_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae21866f5de40a336d70bf343e6c00acf1ab68a2c8f854498635631d543f452e",
+      "sha256": "691242ed98dbcb3c0ea9c69268aa306d6471eec0148e35183c5a0558a447b779",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

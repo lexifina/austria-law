@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004709",
+  "short_title": "Handels- und Schiffahrtsvertrag",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005139",
+    "valid_from": "1933-09-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004709&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:18:44.471025+00:00",
+    "response_sha256": "ec4901c7fc6915bac80adb712bf3722139a97621d41e05dded5161a3bc6071dd",
+    "snapshot_sha256": "c4ee149db7983a69e0e07ef4d1dae2c3b3d360fa543b58f0a1db8c4a61af54a6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dbad4157bedc41dca652543bf5b9c4e7d234b34321e97fec6cba4bb4e648099e",
+      "sha256": "3aee8e38d9d3ef53e4020b68ccc7194079728ba95574000371e1d37e78ea165c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 9. September 1933, betreffend das endgültige Inkrafttreten des Zusatzprotokolls zum österreichisch- italienischen Handels- und Schiffahrtsvertrag. StF: BGBl. Nr. 411/1933"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 411/1933",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=411/1933&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b56d1d560913a2f3ac8669f76cf0a51053a21fac1821621974dbd2461d051f33",
+      "sha256": "a9cdfb20e93e745a25aec8a82d87d361c6c2fef93969e291d6e3107258aeba68",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

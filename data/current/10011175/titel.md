@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Meldung von sehr giftigen, giftigen und ätzenden Zubereitungen und die Mitteilung von Vergiftungsfällen (Giftinformations-Verordnung 1999) StF: [BGBl. II Nr. 137/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_137_2/1999_137_2.pdf>)
+
+Auf Grund der §§ 37 Abs. 2, 38 und 39 Abs. 1 des Chemikaliengesetzes 1996, [BGBl. I Nr. 53/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_53_1/1997_53_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 98/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/98>), wird verordnet:

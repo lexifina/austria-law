@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, mit der Ergänzungen zu und Abweichungen von Bestimmungen des Tiermehl-Gesetzes erlassen werden (Tiermehl-Gesetz-Anpassungsverordnung 2004) StF: [BGBl. II Nr. 294/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/294>)
+
+Auf Grund des § 7 des Tiermehl-Gesetzes, [BGBl. I Nr. 143/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_143_1/2000_143_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 74/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_74_1/2001_74_1.pdf>), wird im Einvernehmen mit der Bundesministerin für Gesundheit und Frauen verordnet:

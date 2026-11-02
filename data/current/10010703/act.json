@@ -1,0 +1,118 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10010703",
+  "short_title": "Einteilung des Bundesgebietes in Ozon-Überwachungsgebiete",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010922",
+    "valid_from": "1992-08-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010703&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:45:03.246263+00:00",
+    "response_sha256": "b425119157aff69527a2e6b17e2a3b1b8dd78cc5d7cdd115bbcbad8c0ab18190",
+    "snapshot_sha256": "ca1a96f6d58b411e7ac727f6776d867a2762c2f63df34f9bdd99405c6b0ebbf2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "893be6c867891cffbbe956ad7b1714e447ac721d9cc7ad3c6bc882502aa4da5c",
+      "sha256": "210e29f6238d77b9c8d1a380eaf849b49d3f81d96d08d323c3cf2430be5836e9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Umwelt, Jugend und Familie über die Einteilung des Bundesgebietes in Ozon-Überwachungsgebiete StF: BGBl. Nr. 513/1992"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 359/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 513/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_513_0/1992_513_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 359/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_359_2/1998_359_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 38/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_38_0/1989_38_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 210/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_210_0/1992_210_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Einteilung in Ozon-Überwachungsgebiete",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8210afcf1bc0ff78b71d0499a36221445d246ca0ac2839df5931ed3703687246",
+      "sha256": "8176d71456eb1443a7c5292265067082776229211059ac451546f6344f9c7229",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zusammensetzung der Ozon-Überwachungsgebiete",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2bf174eaace88b9223b0fdce806d0455b2bf5d13b65cfa10db81edf6487d51b9",
+      "sha256": "f737c4784e685ec40a9e21eb0aacd0382f0d9bc769f92aca66064caa555ba7f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

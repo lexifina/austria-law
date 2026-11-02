@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz vom 22. April 1948 über die vorzeitige Beendigung der im Nationalsozialistengesetz vorgesehenen Sühnefolgen für jugendliche Personen. StF: [BGBl. Nr. 70/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_70_0/1948_70_0.pdf>) (NR: GP V [RV 537 u.](<https://www.parlament.gv.at/gegenstand/V/I/537>) [RV 565](<https://www.parlament.gv.at/gegenstand/V/I/565>) [AB 543 u.](<https://www.parlament.gv.at/gegenstand/V/I/543>) [AB 581](<https://www.parlament.gv.at/gegenstand/V/I/581>) S. 76. u. 80. BR: S. [28](<https://www.parlament.gv.at/gegenstand/BR/I-BR/28>). u. [30](<https://www.parlament.gv.at/gegenstand/BR/I-BR/30>).)
+
+Der Nationalrat hat beschlossen:

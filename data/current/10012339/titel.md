@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf der Vereinbarung zwischen der zuständigen Behörde für das ADR des Vereinigten Königreichs, der Schweiz, Polens, Schwedens, Norwegens, Portugals sowie Luxemburgs und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich gemäß Rn. 2010 und 10 602 ADR betreffend Beförderung von Octafluorpropan StF: [BGBl. Nr. 765/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_765_0/1994_765_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

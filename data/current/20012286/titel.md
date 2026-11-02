@@ -1,0 +1,3 @@
+Verordnung der Vorsitzenden der Volksanwaltschaft über die Grundausbildung für die Bediensteten der Volksanwaltschaft (VA-Grundausbildungsverordnung) StF: [BGBl. II Nr. 182/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/182>)
+
+Gemäß § 26 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), in der geltenden Fassung, und des § 67 des Vertragsbedienstetengesetzes 1948 (VBG 1948), [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), in der geltenden Fassung, wird folgende Grundausbildungsverordnung erlassen:

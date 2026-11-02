@@ -1,0 +1,2015 @@
+{
+  "sample_only": false,
+  "included_provisions": 6,
+  "source_provision_count": 6,
+  "schema_version": 1,
+  "gesetzesnummer": "20009372",
+  "short_title": "Sicherungseinrichtungen-Meldeverordnung",
+  "abbreviation": "SiEi-MV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40176390",
+    "valid_from": "2015-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009372&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:31:35.147071+00:00",
+    "response_sha256": "4d4754f597faa89a111345df137dce3c15e26cdfa8683e3b688249850a5933bc",
+    "snapshot_sha256": "4373c68591d752f68dd5ee60a489e58618f4c90303a7445f41716c054561c1dc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "388213947a7d522ca063456a2e30a8eb42ac2da7e907f8a9b8f2bd90ad324096",
+      "sha256": "432eece0f918eba6d2d8b8649fc6c0672e8ba99e1c2d30364bf4521c499efa74",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Meldungen von Sicherungseinrichtungen (Sicherungseinrichtungen-Meldeverordnung – SiEi-MV) StF: BGBl. II Nr. 391/2015"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 257/2016 BGBl. II Nr. 359/2022 BGBl. II Nr. 144/2024 BGBl. II Nr. 264/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 391/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/391"
+        },
+        {
+          "text": "BGBl. II Nr. 257/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/257"
+        },
+        {
+          "text": "BGBl. II Nr. 359/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/359"
+        },
+        {
+          "text": "BGBl. II Nr. 144/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/144"
+        },
+        {
+          "text": "BGBl. II Nr. 264/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/264"
+        },
+        {
+          "text": "BGBl. I Nr. 117/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/117"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Darstellung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e27a72c9798bf0eb95f6068e3a761323a2c54e9ee42d6b9aeb73b13fb90816c",
+      "sha256": "7a2c17085635a0bdce435439b2337728c0142411ffd38fc11bc5624ae234e020",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1a",
+      "source_heading": "Qualifizierung der verfügbaren Finanzmittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0001a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88cabb991a1e629a9c628d1916531687c92e5fd009c657140dd3c5c246bb0ab3",
+      "sha256": "aff2b0fbe8047135e74e4c47c08a8ceb622d157b41bb8539258ebb35aa78f8f6",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmalig auf Meldungen zum Stichtag 31. Dezember 2022 anzuwenden (vgl. § 3 Abs. 3)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Meldetechnische Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9167ef278a06d5e0b22e9ea2f09a30133422a6748aff31513e5c63ea5304a4a",
+      "sha256": "1cdf8af2715cffdaa03e7ffcb00525a92d20f93eb64ec57041c5118eaef26a98",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmals auf die Meldungen zum Stichtag 31. Dezember 2016 anzuwenden (vgl. § 3 Abs. 2)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1cd62a173bdc4cb592dfa939ab7631a013291f3cbcfaf54a1dac452da8ba7448",
+      "sha256": "f3afcd13af6db39b1b00ef579281a0da15d8a67ee7ebf51a0d08564e1927eb8a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 257/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/257"
+        },
+        {
+          "text": "BGBl. II Nr. 359/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/359"
+        },
+        {
+          "text": "BGBl. II Nr. 144/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/144"
+        },
+        {
+          "text": "BGBl. II Nr. 264/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/264"
+        },
+        {
+          "text": "BGBl. II Nr. 144/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/144"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Meldungen von Sicherungseinrichtungen (Sicherungseinrichtungen-Meldeverordnung – SiEi-MV)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec5c5c9f4b64b9f3b43697b65d8d5aac4ecf47e57d8d90bd3ecc2306e091a4aa",
+      "sha256": "c4c50579c3022868880ae218a47c5cbe9c04382f0fe0ab4075d07424d849714d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmalig auf Meldungen zum Stichtag 31. Dezember 2026 anzuwenden (vgl. § 3 Abs. 5)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 264/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/264"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Informationen zum Melder/Basisangaben",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Name des Sachbearbeiters:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Telefonnummer:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "E-Mail-Adresse:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gewählter Ansatz für die Zuweisung von Rückflüssen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[1. Ansatz A 2. Ansatz B 3. Noch keine Entscheidung]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "A. Informationen im Zusammenhang mit den gedeckten Einlagen der Mitgliedsinstitute",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sicherungseinrichtung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl der Mitgliedsinstitute der Sicherungseinrichtung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der gedeckten Einlagen (§ 7 Abs. 1 Z 5 ESAEG) bei den Mitgliedsinstituten (ohne zeitlich begrenzt gedeckte Einlagen gemäß § 12 ESAEG)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "B.1 Informationen im Zusammenhang mit der Darstellung der Indikatoren zur Berechnung der Beiträge und Sonderbeiträge gemäß 3. Hauptstück 2. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 6
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "KERNINDIKATOREN",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Gewichtung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anmerkungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angewandte Kapitalindikatoren",
+                "rowspan": 1,
+                "colspan": 5
+              }
+            ],
+            [
+              {
+                "text": "4.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verschuldungsquote",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kapitaldeckungsquote",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Harte Kernkapitalquote (CET1-Quote)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angewandte Liquiditätsindikatoren",
+                "rowspan": 1,
+                "colspan": 5
+              }
+            ],
+            [
+              {
+                "text": "4.2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mindestliquiditätsquote (LCR)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strukturelle Liquiditätsquote (NSFR)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: 4.2.3 aufgehoben durch Z 2, BGBl. II Nr. 264/2026)",
+                "rowspan": 1,
+                "colspan": 6
+              }
+            ],
+            [
+              {
+                "text": "4.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angewandte Indikatoren zur Qualität der Aktiva",
+                "rowspan": 1,
+                "colspan": 5
+              }
+            ],
+            [
+              {
+                "text": "4.3.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Quote notleidender Kredite (NPL-Quote)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angewandte Indikatoren zu Geschäftsmodell und Geschäftsleitung",
+                "rowspan": 1,
+                "colspan": 5
+              }
+            ],
+            [
+              {
+                "text": "4.4.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhältnis des Gesamtrisikobetrages (TREA) zu den Gesamtaktiva",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.4.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtkapitalrendite (RoA)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angewandte Indikatoren zum potentiellen Verlust für die Einlagensicherung",
+                "rowspan": 1,
+                "colspan": 5
+              }
+            ],
+            [
+              {
+                "text": "4.5.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhältnis der gedeckten Einlagen zu den unbelasteten Vermögenswerten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ZUSÄTZLICHE INDIKATOREN",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kategorie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gewichtung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anmerkungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusätzlicher Indikator 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "B.2 Informationen im Zusammenhang mit der Ermittlung der Risikogewichtung zur Berechnung der Beiträge und Sonderbeiträge gemäß 3. Hauptstück 2. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 5
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitgliedsinstitut",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OeNB Identnummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermitteltes Risikogewicht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Risikoklasse (bei Verwendung der Bucket Methode1)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Firma Mitgliedsinstitut 1]",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "B.3 Informationen im Zusammenhang mit der konkreten Berechnung der Beiträge und Sonderbeiträge gemäß 3. Hauptstück 2. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der für das Berichtsjahr von den Mitgliedsinstituten eingehobenen Beiträge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: nach Mitgliedsinstituten:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Firma Mitgliedinstitut 1]",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der Zahlungsverpflichtungen gemäß § 7 Abs. 1 Z 13 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: nach Mitgliedsinstituten:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Firma Mitgliedsinstitut 1]",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der für die Unterlegung der Zahlungsverpflichtungen gemäß § 7 Abs. 1 Z 13 ESAEG (Position 8.) geforderten Sicherheiten bei den Mitgliedsinstituten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 9. nach Vermögenswerten:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Barmittel",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Notenbankguthaben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Schuldverschreibungen, bei denen nach dem Standardansatz für Kreditrisiken gemäß Teil 3 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013, ABl. Nr. L 176 vom 27.06.2013 S. 1, in der Fassung der Verordnung (EU) 2021/558, ABl. Nr. L 116 vom 06.04.2021 S. 25, ein Risikogewicht von 0% anzusetzen ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Schuldverschreibungen, bei denen nach dem Standardansatz für Kreditrisiken gemäß Teil 3 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 20% anzusetzen ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Schuldverschreibungen, bei denen nach dem Standardansatz für Kreditrisiken gemäß Teil 3 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 50% anzusetzen ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: andere qualifizierte Positionen gemäß Art. 336 Abs. 4 der Verordnung (EU) Nr. 575/2013",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.1.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: sonstige Vermögenswerte, die von der FMA gemäß § 19 Abs. 4 ESAEG als ähnlich sicher und liquide eingestuft wurden, sofern diese Aktiva nicht unter 9.1.1 bis 9.1.6 fallen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Vermögenswerte, die gemäß Art. 10 der Delegierten Verordnung (EU) 2015/61, ABl. Nr. L11 vom 17.01.2015 S. 1, in der Fassung der Verordnung (EU) 2022/786, ABl. Nr. L 141 vom 20.05.2022 S. 1, als Aktiva der Stufe 1 gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Vermögenswerte, die gemäß Art. 11 der Delegierten Verordnung (EU) 2015/61 als Aktiva der Stufe 2A gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Vermögenswerte, die gemäß Art. 12 der Delegierten Verordnung (EU) 2015/61 als Aktiva der Stufe 2B gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 9. nach Veranlagung bei Kreditinstituten:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: bei Kreditinstituten, die der meldenden Sicherungseinrichtung angehören",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: bei Kreditinstituten, die einer anderen Sicherungseinrichtung in Österreich angehören",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.2.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: bei Kreditinstituten, die einer anderen Sicherungseinrichtung außerhalb Österreichs angehören",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 9. nach Veranlagung in Fremdwährungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.3.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Gesamtbetrag von Vermögenswerten, die nicht in Euro denominiert sind",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der für das Berichtsjahr von den Mitgliedsinstituten eingehobenen Sonderbeiträgen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: nach Mitgliedsinstituten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Firma Mitgliedsinstitut 1]",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rückflüsse aus Sicherungsfällen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "C.1 Informationen über die verfügbaren Finanzmittel des Einlagensicherungsfonds gemäß 3. Hauptstück 1. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der verfügbaren Finanzmittel des Einlagensicherungsfonds gemäß § 7 Abs. 1 Z 12 ESAEG (Marktwert)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 12. nach Vermögenswerten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Barmittel",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Notenbankguthaben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Schuldverschreibungen, bei denen nach dem Standardansatz für Kreditrisiken gemäß Teil 3 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 0% anzusetzen ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Schuldverschreibungen, bei denen nach dem Standardansatz für Kreditrisiken gemäß Teil 3 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 20% anzusetzen ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Schuldverschreibungen, bei denen nach dem Standardansatz für Kreditrisiken gemäß Teil 3 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 50% anzusetzen ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: andere qualifizierte Positionen gemäß Art. 336 Abs. 4 der Verordnung (EU) Nr. 575/2013",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: sonstige Vermögenswerte, die von der FMA gemäß § 19 Abs. 4 ESAEG als ähnlich sicher und liquide eingestuft wurden, sofern diese Aktiva nicht unter 12.1.1 bis 12.1.6 fallen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Vermögenswerte, die gemäß Art. 10 der Delegierten Verordnung (EU) 2015/61 als Aktiva der Stufe 1 gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Vermögenswerte, die gemäß Art. 11 der Delegierten Verordnung (EU) 2015/61 als Aktiva der Stufe 2A gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Vermögenswerte, die gemäß Art. 12 der Delegierten Verordnung (EU) 2015/61 als Aktiva der Stufe 2B gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.1.8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Veranlagungen bei staatlichen Stellen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 12. nach Veranlagung bei Kreditinstituten:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: bei Kreditinstituten, die der meldenden Sicherungseinrichtung angehören",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: bei Kreditinstituten, die einer anderen Sicherungseinrichtung in Österreich angehören",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.2.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: bei Kreditinstituten, die einer anderen Sicherungseinrichtung außerhalb Österreichs angehören",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 12. nach Veranlagung in Fremdwährungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.3.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: Gesamtbetrag von Vermögenswerten, die nicht in Euro denominiert sind",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschlüsselung der Position 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.4.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: qualifizierte verfügbare Finanzmittel",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.4.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: sonstige verfügbare Finanzmittel",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veranlagungserträge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "C.2 Informationen über die Verwendung der Finanzmittel des Einlagensicherungsfonds gemäß 3. Hauptstück 3. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der verwendeten Finanzmittel gemäß § 28 Abs. 1 Z 1 bis 6 i. V. m. § 29 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: für die Entschädigung der Einleger im Sicherungsfall gemäß § 28 Abs. 1 Z 1 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: für die Zwecke einer Abwicklung gemäß § 28 Abs. 1 Z 2 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: für Aufwendungen für Finanzmittel gemäß § 28 Abs. 1 Z 3 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: für die Bedienung von Verpflichtungen aus Kreditoperationen gemäß § 28 Abs. 1 Z 4 i. V. m. § 25 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: für die Vergabe von Krediten gemäß § 28 Abs. 1 Z 5 i. V. m. § 29 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "hievon: für Stützungsmaßnahmen innerhalb eines institutsbezogenen Sicherungssystems gemäß § 30 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "C.3 Informationen über etwaige andere Finanzierungsmechanismen gemäß 3. Hauptstück 2. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausstehende Verbindlichkeiten, die zum Zweck einer Inanspruchnahme eines Einlagensicherungssystems oder einer Investition eingegangen worden sind",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[BETRAG]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Obligatorische Kreditvergabe von Mitgliedsbanken",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[JA/NEIN]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kreditrahmen (oder Ähnliches) von der Zentralbank",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[JA/NEIN]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kreditrahmen (oder Ähnliches) von der Regierung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[JA/NEIN]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kreditrahmen (oder Ähnliches) bei (Geschäfts-)Bank(en)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[JA/NEIN]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[TEXT]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "C.4 Informationen über die Übertragung von Finanzmitteln einer Sicherungseinrichtung gemäß 4. Hauptstück 2. Abschnitt ESAEG",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der von anderen Sicherungseinrichtungen übertragenen Finanzmittel gemäß § 39 Abs. 2 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtbetrag der an andere Sicherungseinrichtungen übertragenen Finanzmittel gemäß § 39 Abs. 2 ESAEG",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    }
+  ]
+}

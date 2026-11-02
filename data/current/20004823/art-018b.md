@@ -1,0 +1,15 @@
+## Artikel 18b
+
+### Polizeiliche Durchbeförderung
+
+(1) Beamten der Behörden sowie der Justizbehörden eines Vertragsstaates ist die Durchbeförderung von Personen, die fremdenpolizeilichen Zwangsmaßnahmen unterliegen oder die sich aufgrund einer gerichtlichen Anordnung in Haft befinden, durch das Hoheitsgebiet des anderen Vertragsstaates gestattet. Von der beabsichtigten Durchbeförderung ist die Zentralstelle des anderen Vertragsstaates rechtzeitig unter Angabe der Durchbeförderungsroute und des gewählten Verkehrsmittels sowie der Personalien der zu befördernden Person zu verständigen. Die Durchbeförderung erfolgt grundsätzlich in Begleitung von Beamten des Gebietsstaates. Im Einzelfall kann bei Vorliegen des Einvernehmens der zuständigen Behörden der Vertragsstaaten der Gebietsstaat auf die Begleitung verzichten.
+
+(2) Für die Beamten gemäß Absatz 1 gilt Kapitel VI. Bei der polizeilichen Durchbeförderung dürfen die Dienstwaffen auch zur Aufrechterhaltung des Gewahrsams oder zur Verhinderung des Entkommens im Rahmen des innerstaatlichen Rechts des Gebietsstaates gebraucht werden.
+
+(3) Die Durchbeförderung hat auf dem schnellst möglichen Weg und ohne unnötigen Aufenthalt zu erfolgen. Die Beamten dürfen auf dem Hoheitsgebiet des anderen Vertragsstaates keine über die Durchbeförderung hinausgehenden Amtshandlungen vornehmen, es sei denn, dass diese im Zusammenhang mit der Beförderung erforderlich sind. Die Durchbeförderung hat mit einer ausreichenden, genügend ausgerüsteten Anzahl von Beamten zu erfolgen. Dabei sind alle erforderlichen Sicherheitsmaßnahmen zu treffen, um das Entkommen der Beförderten oder die Gefährdung Dritter oder von Sachen oder Störungen des Verkehrs zu verhindern. Zu diesem Zweck ist, falls erforderlich, auch die Anwendung von Zwangsmitteln, wie das Anlegen von Handfesseln, zulässig. Die Durchbeförderung in öffentlichen Verkehrsmitteln ist ausschließlich im Eisenbahnverkehr zulässig. Der Vertragsstaat, der die Durchbeförderung durchführt, erstattet dem Eisenbahnunternehmen die Fahrtkosten für die durchbeförderten Personen und die begleitenden Beamten.
+
+(4) Personen, die transportunfähig sind oder nach den eisenbahnrechtlichen Bestimmungen nicht befördert werden dürfen, sind von dieser Art der Beförderung ausgeschlossen. Dies gilt auch für Personen, deren Beförderung im Eisenbahnverkehr eine Gefahr für die öffentliche Sicherheit und Ordnung darstellt.
+
+(5) Im Falle des Entkommens eines Beförderten sind die begleitenden Beamten zu seiner sofortigen Verfolgung und zur unverzüglichen Verständigung des nächsten erreichbaren Beamten der Behörden des territorial zuständigen Vertragsstaates verpflichtet. Die Verfolgung durch die begleitenden Beamten endet spätestens, wenn die Behörden des territorial zuständigen Vertragsstaates die Verfolgung aufnehmen und die Einstellung der Verfolgung durch die begleitenden Beamten ausdrücklich verlangen.
+
+(6) Durchbeförderte Personen benötigen im Durchgangsverkehr weder ein Reisedokument noch einen Sichtvermerk.

@@ -1,0 +1,4074 @@
+{
+  "sample_only": false,
+  "included_provisions": 59,
+  "source_provision_count": 59,
+  "schema_version": 1,
+  "gesetzesnummer": "20008506",
+  "short_title": "Emissionsschutzgesetz für Kesselanlagen",
+  "abbreviation": "EG-K 2013",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40257986",
+    "valid_from": "2023-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008506&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:15:58.897643+00:00",
+    "response_sha256": "d81045ba9849456222fafcd104ed270379d05d6be2bf0a6bde0029eac91250c7",
+    "snapshot_sha256": "d3f6ced7a65b876fd4cab7427c1e34bb7f55fa8faf557a0cceac9ba625e83a2b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eda2b9a3d65cd090faa87044e6f31b5a8d593436889ab8ad823cae2420598c1c",
+      "sha256": "85485166221de273464f00f8ddcccb500aa0851b39d20337871262ea0397280e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die integrierte Vermeidung und Verminderung von Emissionen aus Dampfkesselanlagen (Emissionsschutzgesetz für Kesselanlagen – EG-K 2013) StF: BGBl. I Nr. 127/2013 (NR: GP XXIV RV 2321 AB 2395 S. 207. BR: AB 9035 S. 822.) [CELEX-Nr. 32010L0075, 32011L0092, 32012L0018, 32012L0033]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 81/2015 (NR: GP XXV RV 624 AB 655 S. 81. BR: AB 9397 S. 843.) [CELEX-Nr.: 32012L0018] BGBl. I Nr. 173/2023 (NR: GP XXVII RV 2246 AB 2347 S. 245. BR: AB 11377 S. 961.) [CELEX-Nr.: 32010L0075, 32015L2193] BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.) BGBl. I Nr. 89/2025 (NR: GP XXVIII RV 252 AB 356 S. 55. BR: AB 11727 S.984.) [CELEX-Nr.: 32010L0075, 32012L0018]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 127/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/127"
+        },
+        {
+          "text": "RV 2321",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2321"
+        },
+        {
+          "text": "AB 2395",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2395"
+        },
+        {
+          "text": "S. 207.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/207"
+        },
+        {
+          "text": "AB 9035",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9035"
+        },
+        {
+          "text": "S. 822.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/822"
+        },
+        {
+          "text": "32010L0075",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0075:DE:HTML"
+        },
+        {
+          "text": "32011L0092",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0092:DE:HTML"
+        },
+        {
+          "text": "32012L0018",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0018:DE:HTML"
+        },
+        {
+          "text": "32012L0033",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0033:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/81"
+        },
+        {
+          "text": "RV 624",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/624"
+        },
+        {
+          "text": "AB 655",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/655"
+        },
+        {
+          "text": "S. 81.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/81"
+        },
+        {
+          "text": "AB 9397",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9397"
+        },
+        {
+          "text": "S. 843.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/843"
+        },
+        {
+          "text": "32012L0018",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0018:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        },
+        {
+          "text": "RV 2246",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2246"
+        },
+        {
+          "text": "AB 2347",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2347"
+        },
+        {
+          "text": "S. 245.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/245"
+        },
+        {
+          "text": "AB 11377",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11377"
+        },
+        {
+          "text": "S. 961.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/961"
+        },
+        {
+          "text": "32010L0075",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0075:DE:HTML"
+        },
+        {
+          "text": "32015L2193",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2193:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        },
+        {
+          "text": "BGBl. I Nr. 89/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/89"
+        },
+        {
+          "text": "RV 252",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/252"
+        },
+        {
+          "text": "AB 356",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/356"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/55"
+        },
+        {
+          "text": "AB 11727",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11727"
+        },
+        {
+          "text": "S.984.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/984"
+        },
+        {
+          "text": "32010L0075",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0075:DE:HTML"
+        },
+        {
+          "text": "32012L0018",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0018:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis 1. Hauptstück Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aggregationsregel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Emissionen und Immissionen 1. Abschnitt Grundsätze und BVT-Schlussfolgerungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "BVT-Schlussfolgerungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Emissionsgrenzwerte",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Situationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Emissionsgrenzwerte und äquivalente Parameter für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Altanlagen und bestehende Anlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Neue Anlagen und Aktualisierung von Genehmigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erweiterungen und Änderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Genehmigung von Anlagen 1. Abschnitt Anforderungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Emissionen und Immissionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wesentliche Änderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendung anderer Verwaltungsvorschriften des Bundes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Antrag",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Antragserfordernisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Öffentlichkeitsbeteiligung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anlagen mit einer Brennstoffwärmeleistung von weniger als 50 MW",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grenzüberschreitende Auswirkungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beteiligung von Umweltorganisationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Information der Öffentlichkeit über erteilte Genehmigungen für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Bescheidinhalt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 23",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bescheidinhalte für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Besondere Verfahrensbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Versuchsbetrieb",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zukunftstechniken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geologische Speicherung von Kohlendioxid",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stilllegung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Anzeigeverfahren, Genehmigungsentfall",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 30",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genehmigungsfreistellung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachträgliche Änderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genehmigung nach anderen Rechtsvorschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Überwachung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 33",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen an Sachverständige",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Emissionsmessungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Hauptstück Pflichten des Betreibers",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 36",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lärmmessungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Emissionserklärung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Hauptstück Anforderungen gemäß anderer Rechtsvorschriften des Bundes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 39",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Maßnahmen nach der GewO 1994",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Maßnahmen nach dem IG-L",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abfallverbrennung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Hauptstück Anpassung an die besten verfügbaren Techniken",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 42",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überprüfung der Genehmigungsauflagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aktualisierung der Genehmigungsauflagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Hauptstück Strafbestimmungen und Vollziehung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 44",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behörden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Hauptstück Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 47",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Weitergeltungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestehende Genehmigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 52",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzung von Rechtsakten der Europäischen Union",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schadstoffliste",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kriterien für die Ermittlung des Standes der Technik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Emissionsgrenzwerte für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vom Betreiber vorzulegende Informationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung der Emissionen und Beurteilung der Emissionsmessungen von Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1505192a5ec830dadf252251b0e385538c89dfa4131bb63f589317a501d4ecf0",
+      "sha256": "4bd9626b2bef6ba4b9e3b3e9c57e9f622ab64af45de1c233b75fb3b32edefb40",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Aggregationsregel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9915341ec487966626899f8a34a49a55d5ac18b5e26d217107d5c279395144c",
+      "sha256": "2f6a3b95d0ad93a2eda5c8d55f9f4e9772f1c69f6a8280ccacdb1445e6dfc320",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e6f30cd1d378742ac2507c89797690d38305cbe94dbcb453784a825f43ec77c",
+      "sha256": "776fab61f997e2ad259692a42c763d8286b925a736d78f27c35b5ab409422930",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 98/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/98"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Hauptstück Emissionen und Immissionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f1c67a3520a24f9aa80a0e91dd598baff3f8bf521a60bf5730b784d10185b53",
+      "sha256": "6524d16a9179af5f4a274f35db58eb628218f1867ac79d112e0dbfd5b2f0920d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "BVT-Schlussfolgerungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "381fa7c153e33b48bd54506e1262fd8d4bedc25670e4bde4dc1556873ac08b47",
+      "sha256": "877dcfa60273a098484d218a48dec3d6a6817ceba88889ca95727b317f47db6f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "2. Abschnitt Emissionsgrenzwerte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb4ab54e59daf28689daa009be50b61519907a05f37b8cf40d967ac897371478",
+      "sha256": "becded1042ff4d11f21e7eaa59242308cbbf59230988de5ee0fdef816f7c241f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 293/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/293"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Besondere Situationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e509da28a7ad993ed21b663c6537cf16b4529d7c7f7f883e170a92e507fc7f7",
+      "sha256": "fe4a6deccd6dcdbf1b343dfcd5314cf87a904f73c580006f11c0e4685255f082",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "3. Abschnitt Emissionsgrenzwerte und äquivalente Parameter für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca9bc0760957f9d1949e88f3665e5fa3f12698629f34b2e64e13a11c2c92b293",
+      "sha256": "48e43969bacf4f7fe880832caf18e6d1186a9c57559115d8ce7d0ae08f6de1bf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Altanlagen und bestehende Anlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "abd145a2e61cd09a5736b4a0fa32e6f4463d04b8deeb2ec30827f066214b0345",
+      "sha256": "63f10fb1489395ceab165770168355d9cd6f0a857e14129d17d92f3f362d4bd6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Neue Anlagen und Aktualisierung von Genehmigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcb1867b7b55393f485daeaa0072f02266e5f0f8a477885300177b4b3d96e83b",
+      "sha256": "ea7772cc0b0666a7ab51515976330439bc72107e67c1d9564160207f8d84fa82",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Erweiterungen und Änderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "564e1b9cb2ed2d6701a53c27477b1640e4412104b52aa74d3923e97f134ed08a",
+      "sha256": "efe1312550e0b628372f2d847f8e1953571a628f10fbcbf7d427ef4f50f85c37",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "3. Hauptstück Genehmigung von Anlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "68d8b52929701f9f613d29a11f451056564f36db842cb7d959a823ce77b7b407",
+      "sha256": "d92844bfb03f3a7c943d26d25073fc864599c8f28f143d1c867b50943d2a72f1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 102/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Emissionen und Immissionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a1001b218dad2abbb264d2a39811917bab62bae24bc1ded6ce6b480727fcf98",
+      "sha256": "db65990dcca865fcfbf2599f759e00a1406262405f01ddd9cc089e3bade1ecac",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 115/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Anforderungen für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfc53e5de850e5ce35ccb03368a65d3e405898e93e7bfa5c9865a70ca41ff7b8",
+      "sha256": "2dec7734f4c62bfb1e63728ec38419af5a0c5c260d3320436bf5ef00e140fe7c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Wesentliche Änderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "375345e3e7abdc7185f8e3725988a11216ff77a6838f9edc83c70a54f0d50c7c",
+      "sha256": "3227c87338b03ad5dcaea1fb58cc8124f07eaf4351b086a3cb1117c2321fd2e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Anwendung anderer Verwaltungsvorschriften des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4bb9dad73fff33208cffe72c2d185cd13a98bd524bbc84f9a39b88336b29cd2",
+      "sha256": "6b45292859967495fbf4e526c9082cd8d2d2fffd802c512acb075c588067612a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 299/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_299_0/1989_299_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "2. Abschnitt Antrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a05c91881c1c18d400138ce02de3c44f188da16d95dc46b35bb40b261144dd93",
+      "sha256": "9c4ede6f23d545dd25f4f5e60ed76b8157433103a70649c14392356fd6b90418",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "3. Abschnitt Öffentlichkeitsbeteiligung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "554b1e3f3ded0912fefbc0e855234bbe6ccf3c5df07babecc95a48fbcc943a08",
+      "sha256": "a64f469e1957b5d3ba5c8cec9d740fe1025097a33b1ae50e812dfbc0589c9f0c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26f5444ff0e787de7c05762ca96a00d6f4ee9d4f695f489c334e2417744378e8",
+      "sha256": "10c319fbb5a05d5df97da77674fc3ed35afeb71e2fec234c6d5f6a7beb7e0cfd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 495/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_495_0/1993_495_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Grenzüberschreitende Auswirkungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "405d9516775a526edffe11a0ac92c20387c8ddd8510167e236f28994fef72058",
+      "sha256": "c596f01dd89896f16fe90ca2adb8a0db567dfb9ad3c6c1bb1915eacfc40efd49",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Beteiligung von Umweltorganisationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5643a4a5ca9f4d40de1eae35d0dd319ef6907f0b95b353efe4905607d1b7106",
+      "sha256": "728478dc75d5b9b4ed262e5f9dae0a710659659f2ac6bc80576107a934b38376",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Information der Öffentlichkeit über erteilte Genehmigungen für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7924153541221c366c539995925582d74beb727f13dc1f726c9f1f8a8980079c",
+      "sha256": "2f131fbdfad9ddbe148acbac7f907555e6e2b26a182743a1671d48837f6de386",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "4. Abschnitt Bescheidinhalt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a532bb2c47b6f53ea4e1137dff9710605ae700a96eb5c5cd72e67ce500566ae0",
+      "sha256": "00040833eca50415caba3a35bd51f856dbe7df5919cca0b310f0731f1dbf2ff6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Bescheidinhalte für Anlagen mit einer Brennstoffwärmeleistung von 50 MW oder mehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c262bb8adac32ae4cdd242f5f3ff5189611165252f28c7a0027ba4d38e947740",
+      "sha256": "012abb923f5ceca5ba42d5aa101d9453ab856b44ad5c46baaf1755e6c897a55a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "5. Abschnitt Besondere Verfahrensbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6f033cd18d1cfac0431456c229c9274a3feb47af28fc57a7594d57217c2bdc5",
+      "sha256": "76775aed456028e40b64678580ada870576fd6539368c48047028af956d7d3e7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Versuchsbetrieb",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "802e6664e41ced48255ee5e1dedc70a67101d3241de361f46cb66714b255dfb2",
+      "sha256": "9856f3b633ebb2313ee50358c4c0ca88dd2825b879782d4613ce162d748c5af6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Zukunftstechniken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "84b423b423335ab2dd421dcbc7a9e326bf2d0ca83cde9a508a261dbcea87e228",
+      "sha256": "b33e901cf86809f1a5aa8a8bf3cf9f56f52307ccb99c20a30846f3d67c760823",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Geologische Speicherung von Kohlendioxid",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08f06be7df07bdaa880889bb08b11d378fec1f1e540ce6112bc360ff96ed42ac",
+      "sha256": "829e7043cd2226902cfe2f1073e10957553ccdf18a9caced4d6edc82bd0dd916",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Stilllegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7dd52794045bacce1c0cdac17cc0ef5acb43fa8716bb6be900c82437c90afd0",
+      "sha256": "99b9ccfd1b2147ca7dbbb86fa56be0c0896677f14ca2c2285cc224e2ec7ad7ce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "6. Abschnitt Anzeigeverfahren, Genehmigungsentfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "47497514815c4618f32037db4f108177877187607da961cb3adac2f0c746bab2",
+      "sha256": "d016edfa0b1f70f871093551216d98fe4970e2afa35ceb17f6accb037f5f6f85",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Nachträgliche Änderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7e4a4269dc3ca7c4b95ac796ef98033e266823004b6c527505f5e0b3dd25320",
+      "sha256": "2355e48cfc1d45c2987f89864b4a3b03653b61c826535a2320d9895024c500e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Genehmigung nach anderen Rechtsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52b44f4e9d65c5d90d3050c07b48965c2ed032b072ce874765fc34e0d759f990",
+      "sha256": "56a947ebaa79c308cb9482f0621f8657b9e906696094957179551adf713915a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "4. Hauptstück Überwachung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b86e25017db0d9adf5fc5b3cad222c445d1a4ae932797132ca2a1e01e134a8a2",
+      "sha256": "d2d3986c513ef2ba5d7ab52d5204b799a1e2e6300f4f613d1c120bed5a3d750b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Anforderungen an Sachverständige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "928539a2ddfddb72022f2300a3368d628393b9d8ee12c9dcb48092201d01c031",
+      "sha256": "775d6ecc6956e30187f363cb2b52c44038c23a29a63b2287ca35661814092221",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 153/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/153"
+        },
+        {
+          "text": "BGBl. Nr. 909/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_909_0/1993_909_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/150"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Emissionsmessungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "701eebc48b1cd6608f0a727282277d48f87aaf33f6985398d013549c358f039b",
+      "sha256": "ce773e8080eda1283afa793b48f8c84a2d101aaead04b7683085f8abb4994c62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "5. Hauptstück Pflichten des Betreibers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf505ee60c9b9a640cb8081986bdb7c50fa1c83b7ffbd9de063de6ce07276612",
+      "sha256": "e0f3af59985663549ed06a1312a85b5aed26cf8aaa55f8a517df5b5faebc9655",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Lärmmessungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c801f39d95797bb450f5e4281c2464a7df955daa803356e829dcb24ee1fe03e8",
+      "sha256": "fc8c06181e5e2ee6befcb9e31ae7eb0d8880a862ffaacebe08f828a424055e2b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 60/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/60"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Emissionserklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3114c7b42ff29a8fd196fa7b4460bc16041d226b56e22ebf244231b286689bce",
+      "sha256": "3810023355dba74c187de12fc83109cf21a541270c9184931c6d28a30d1e47d4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 5/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/5"
+        },
+        {
+          "text": "BGBl. I Nr. 152/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_152_1/1998_152_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "6. Hauptstück Anforderungen gemäß anderer Rechtsvorschriften des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e7f3cc1caee2dd49a7102032767ff7ffc2a8e4b5ff2da4d558ab274e9ea9370",
+      "sha256": "31ca14e8a438314fa957a8ea42ed836a4cae545a8439fcb1e91aeab240fa7f96",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Maßnahmen nach dem IG-L",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8cc7fa1a467288e1efba5374e9d707947d50987b5077b60bfab137f926f3cab1",
+      "sha256": "9d575c13c8883a872f0484ea2480769c3a3181cc7f39fc0a2b47df95ec7cfbe2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Abfallverbrennung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d0a979aa6e4e5693736a52403f0c87de47245df7c1225e988ee24adab9b8532",
+      "sha256": "8012f24d6cfccefea91d884ca26634dcfad5afefe58954a73e6ccbaee4d81d9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "7. Hauptstück Anpassung an die besten verfügbaren Techniken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f9a370f69b481680c36e4611e43755d8e3a516ef2c96d4980d419ca61c8b350",
+      "sha256": "dfef0ab138e5bc2efce885ce735c2b5dd0bddf7b010b961dd847de175f8495df",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Aktualisierung der Genehmigungsauflagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "785bf169950e1c0140f58a2bc16eab1c65f2e2f99d4fd0bcb6f0959bf4c394d7",
+      "sha256": "b7afbd330fa6a6a571c5f1d57df2f1c14d6cd07024a3f9ce1a3440bd022e1c43",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "8. Hauptstück Strafbestimmungen und Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4495b0b0645027bb535cb98fb3f5e0b40a808733e7ef6b26d1cbb08f3725a68f",
+      "sha256": "e56af176357b5d8df98cf88b43d540ec04b9be5e1c5581b0caf23537c88c6005",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 38/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_38_1/1999_38_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Behörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3cb612be4eba5b9f229a05b2ff18fd62e6818b3d6a9f237372bfad4b4802bb71",
+      "sha256": "7f6e4d9428c928f3716e2e9f1abba568e080459b8aea4c4547701ba5c92a73ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27db94cb3c18cc9a382a24e66591bdcacca42bc49c619de551a2d1debc239cf4",
+      "sha256": "b8ad9148d6cd177db58e2c2f9ead7ff14eaf2135460c98a82a0411ae8e4780e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "9. Hauptstück Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "16487948c496a338e87e90363c24fb2517960668d35c694950918ede59cebddb",
+      "sha256": "044c76a711dd4889f217858a6ee7ee3bedae8837686b1141ac7b8e1f328367bf",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 81/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/81"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/81"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/81"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "BGBl. I Nr. 89/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/89"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38673bfff006bd632bc54e9979fbff21f9f66c92ae72aea7ce41e4cc5826d80a",
+      "sha256": "a68a05fa4549fbde164ec632c3e3731bd9e77e108f5f4a556bc66ed718b3c4f5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 150/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/150"
+        },
+        {
+          "text": "BGBl. II Nr. 153/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/153"
+        },
+        {
+          "text": "BGBl. Nr. 380/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_380_0/1988_380_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/150"
+        },
+        {
+          "text": "BGBl. Nr. 19/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_19_0/1989_19_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 153/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/153"
+        },
+        {
+          "text": "BGBl. II Nr. 231/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/231"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/150"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        },
+        {
+          "text": "BGBl. II Nr. 153/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/153"
+        },
+        {
+          "text": "BGBl. I Nr. 173/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/173"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Weitergeltungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14c7ec49194fb24b6b5c2008486395ea2cec2b6cae993e424dafc4e1a98271bf",
+      "sha256": "275a7ce2f54df90756e7e559fb8a98a91fce9bf5b59488b0fe9ac3c68146d4a8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 389/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_389_2/2002_389_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 476/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/476"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/150"
+        },
+        {
+          "text": "BGBl. II Nr. 292/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/292"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Bestehende Genehmigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f93cba0254e99ebcdb71de5abbd5ecc9a22705ae4b920c925e43d6febd556bc",
+      "sha256": "79525ed8fa333fc9d0cbf20f2c83d6a5bfc36c5db7f40eb40a8b901b726ac0c3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2938044d425ee6b83a1d79a8c3ecb4df8cf877ab60802f71d1a79febad794535",
+      "sha256": "adfa86db93776c303fda861f857f6bbb4b47c3b1512383dae5e8a45b35365e83",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "248d5cc59991364811b099c9686ab37eae764650444c49647469fbf2531d6aba",
+      "sha256": "ef123f8b0c3c142ee903c5659e2415d9af7bf10372c57a9795e725c6b185503a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Umsetzung von Rechtsakten der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93e8aba2e2445ae7efdfd6c5bd4d9fc54954304efbc347bbd84b2be9081a7013",
+      "sha256": "62b5508f22211afdbc98ca7728008759ca8575baadd5c095d28772d0575ebd4b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1 Schadstoffliste Luft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be7134789eefbdae8d253f5d24c31ba32313e6c985827eddc4f426cc139f9454",
+      "sha256": "93b468a48196e15db46f3eb88660ee185073dadc1cce8c8a1c16add2c9c9e52e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2 Kriterien für die Ermittlung des Standes der Technik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cfb3664476af4c8a95d5fe39841e58064a7be9115e593df23b5ad3fa57d0490",
+      "sha256": "cf1a80400669b905c05a5c2371d55238cd1bad9fea57fd09d9359ec122cb6458",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0b7527f54ceab97638b9d13466a595e95ff0c895d79bfc9682a13c1b4b278e9f",
+      "sha256": "daa5c50c3c4cad03a56bcc01d341fabad4a89d960757dcf960f420b08534323e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärme-leistung (MW)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200 400 bei Braunkohlestaubfeuerungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "350",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärme-leistung (MW)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "400",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "350",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-150",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "150-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Im Allgemeinen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "35",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Flüssiggas",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Koksofengase mit niedrigem Heizwert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "400",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hochofengase mit niedrigem Heizwert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärme leistung (MW)",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "Allgemein",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Heizöl schwer, mittel, leicht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Heizöl extra-leicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1501)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1501)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anmerkung: 1) Dieser Grenzwert bezieht sich auf einen Gehalt an organisch gebundenem Stickstoff von 140 mg/kg Heizöl EL. Bei höheren Stickstoffgehalten ist der Grenzwert um je 0,2 mg/Nm3 pro 1 mg Stickstoff im Heizöl EL zu erhöhen.",
+                "rowspan": 1,
+                "colspan": 6
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärme-leistung (MW)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "300 450 bei Braunkohle-staubfeuerungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "feste Brennstoffe (ausgenommen Biomasse)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "80",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "feste Brennstoffe (ausgenommen Biomasse)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "175",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "NOx",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "CO",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit Erdgas betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit Hochofengas, Koksofengas oder aus Raffinerierückständen erzeugtem Gas mit niedrigem Heizwert betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit sonstigen Gasen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit Erdgas 1) betriebene Gasturbinen (einschließlich GuD) 50 – 200 MW Brennstoffwärmeleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50 2) 3)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 200 MW Brennstoffwärmeleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "35 2) 4)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anders als mit Erdgas betriebene Gasturbinen (einschließlich GuD)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "120",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anmerkungen: 1) Erdgas im Sinne dieser Bestimmung ist natürlich vorkommendes Methangas mit nicht mehr als 20 Volumen-% Inertgasen und sonstigen Bestandteilen. 2) 75 mg/Nm³ in folgenden Fällen, in denen der Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen bestimmt wird: a) Gasturbinen in Anlagen mit Kraft-Wärme-Kopplung mit einem Gesamtwirkungsgrad von über 75 %; b) Gasturbinen in Kombinationskraftwerken, deren elektrischer Gesamtwirkungsgrad im Jahresdurchschnitt über 55 % liegt; c) Gasturbinen für mechanische Antriebszwecke. 3) Für einstufige Gasturbinen, die keiner der unter Anmerkung 2 genannten Kategorien zuzurechnen sind und deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt ein NOx-Emissionsgrenzwert von 50xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. 4) Für einstufige Gasturbinen, deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt für mit Erdgas betriebene Gasturbinen ein NOx-Emissionsgrenzwert von 35xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist.",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "NOx",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "CO",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit Erdgas betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit Hochofengas, Koksofengas oder aus Raffinerierückständen erzeugtem Gas mit niedrigem Heizwert betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren 50 – 500 MW Brennstoffwärmeleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 500 MW Brennstoffwärmeleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit sonstigen Gasen betriebene Anlagen mit Ausnahme von Gasturbinen und Motoren 50 – 500 MW Brennstoffwärmeleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 500 MW Brennstoffwärmeleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mit Erdgas betriebene 1) Gasturbinen (einschließlich GuD)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50 2) 3)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anders als mit Erdgas betriebene Gasturbinen (einschließlich GuD)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "120",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "---",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anmerkungen: 1) Erdgas im Sinne dieser Bestimmung ist natürlich vorkommendes Methangas mit nicht mehr als 20 Volumen-% Inertgasen und sonstigen Bestandteilen. 2) 75 mg/Nm³ in folgenden Fällen, in denen der Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen bestimmt wird: a) Gasturbinen in Anlagen mit Kraft-Wärme-Kopplung mit einem Gesamtwirkungsgrad von über 75 %; b) Gasturbinen in Kombinationskraftwerken, deren elektrischer Gesamtwirkungsgrad im Jahresdurchschnitt über 55 % liegt; c) Gasturbinen für mechanische Antriebszwecke. 3) Für einstufige Gasturbinen, die keiner der unter Anmerkung 2 genannten Kategorien zuzurechnen sind und deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt ein NOx-Emissionsgrenzwert von 50xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist.",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärmeleistung (MW)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "25",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "25 20 für Torf",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "25",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Im Allgemeinen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hochofengas",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anderweitig verwertbare Gase der Stahlindustrie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoff-wärmeleistung (MW)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200 400 bei Braunkohle-staubfeuerungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "350",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150 200 bei Wirbelschichtfeuerung mit zirkulierender oder druckaufgeladener Wirbelschicht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Im Allgemeinen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "35",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Flüssiggas",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Koksofengase mit niedrigem Heizwert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "400",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hochofengase mit niedrigem Heizwert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärme-leistung (MW)",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Steinkohle und Braunkohle sowie andere feste Brennstoffe",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Biomasse",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "Allgemein",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Heizöl schwer, mittel, leicht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Heizöl extra-leicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200 400 bei Braunkohlestaubfeuerungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "250",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150 1)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "100-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150 200 bei Braunkohlestaubfeuerungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anmerkung: 1) Dieser Grenzwert bezieht sich auf einen Gehalt an organisch gebundenem Stickstoff von 140 mg/kg Heizöl EL. Bei höheren Stickstoffgehalten ist der Grenzwert um je 0,2 mg/Nm3 pro 1 mg Stickstoff im Heizöl EL zu erhöhen.",
+                "rowspan": 1,
+                "colspan": 6
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "feste Brennstoffe (ausgenommen Biomasse)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "150",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "flüssige Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "80",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "NOx",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "CO",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlagen mit Ausnahme von Gasturbinen und Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100 80 bei Erdgas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gasturbinen (einschließlich GuD)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-200 MW",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "501)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 200 MW",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "352)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Motoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "75",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anmerkung: 1) Für einstufige Gasturbinen, deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt ein NOx-Emissionsgrenzwert von 50xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist. 2) Für einstufige Gasturbinen, deren Wirkungsgrad unter ISO-Grundlastbedingungen mehr als 35 % beträgt, gilt für mit Erdgas betriebene Gasturbinen ein NOx-Emissionsgrenzwert von 35xη/35, wobei η der in Prozent ausgedrückte Wirkungsgrad der Gasturbine unter ISO-Grundlastbedingungen ist.",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Brennstoffwärmeleistung (MW)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "50-300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "> 300",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "10 20 für Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Im Allgemeinen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hochofengas",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anderweitig verwertbare Gase der Stahlindustrie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage 4",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e07973f747cb9f57c75ead127bd48d8b77ef467bedd99ab02c4f31dd330c5d8",
+      "sha256": "8e03d14983d41158b7e2c8fa31311915ef598f63c5c4548a47c536f078500581",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 5",
+      "source_heading": "Anlage 5",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "anl-5.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e53c3221a3912798017e9c5633826805cc12e432f052af325e747f6261e46218",
+      "sha256": "e118ba6c78f27a90d06d7e96073cb0de29604af9ebfdaae395a4d3072e5753eb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Schadstoff",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Messunsicherheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SO2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "NOX",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "20 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Staub",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "30 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "CO",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "10 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "OGC",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "30 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "HCl",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "40 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "PCDD/F",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "NH3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "40 %",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

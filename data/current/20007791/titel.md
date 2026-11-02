@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, betreffend die Kriterien für die Beurteilung, ob eine PM10-Grenzwertüberschreitung auf Aufwirbelung von Partikeln nach Ausbringung von Streusalz oder Streusplitt zurückzuführen ist (IG-L - Winterstreuverordnung) StF: [BGBl. II Nr. 131/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/131>)
+
+Auf Grund des § 7 Abs. 3 des Immissionsschutzgesetzes – Luft (IG-L), [BGBl. I Nr. 115/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 77/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/77>), wird verordnet:

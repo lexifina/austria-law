@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über technische Spezifikationen für Ladepunkte und für Tankstellen für alternative Kraftstoffe (Ladepunkte- und Tankstellen-Verordnung – LT-V) StF: [BGBl. II Nr. 280/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/280>) \[CELEX-Nr.: [32014L0094](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0094:DE:HTML>)\]
+
+Auf Grund des § 4 Abs. 4 des Bundesgesetzes zur Festlegung einheitlicher Standards beim Infrastrukturaufbau für alternative Kraftstoffe, [BGBl. I Nr. 38/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/38>), wird verordnet:

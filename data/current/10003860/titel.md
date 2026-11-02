@@ -1,0 +1,3 @@
+Bundesgesetz vom 13. Juli 1955 über die Bewertung von Vermögenschaften (Bewertungsgesetz 1955 – BewG 1955) StF: [BGBl. Nr. 148/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_148_0/1955_148_0.pdf>) idF [BGBl. Nr. 231/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_231_0/1955_231_0.pdf>) (DFB) (NR: GP VII [RV 579](<https://www.parlament.gv.at/gegenstand/VII/I/579>) [AB 590](<https://www.parlament.gv.at/gegenstand/VII/I/590>) [S. 74.](<https://www.parlament.gv.at/gegenstand/VII/NRSITZ/74>) BR: [S. 107.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/107>))
+
+Der Nationalrat hat beschlossen:

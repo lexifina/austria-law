@@ -1,0 +1,1 @@
+Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Vereinigten Staaten von Amerika zur Abänderung des Luftverkehrsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Vereinigten Staaten von Amerika StF: [BGBl. Nr. 488/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_488_0/1992_488_0.pdf>)

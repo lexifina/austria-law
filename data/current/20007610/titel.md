@@ -1,0 +1,3 @@
+Bundesgesetz über die Transparenz von Medienkooperationen sowie von Werbeaufträgen und Förderungen an Medieninhaber eines periodischen Mediums (Medienkooperations- und -förderungs-Transparenzgesetz, MedKF-TG) StF: [BGBl. I Nr. 125/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/125>) (NR: GP XXIV [RV 1276](<https://www.parlament.gv.at/gegenstand/XXIV/I/1276>) [AB 1607](<https://www.parlament.gv.at/gegenstand/XXIV/I/1607>) [S. 137.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/137>) BR: [AB 8635](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8635>) [S. 803.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/803>))
+
+Der Nationalrat hat beschlossen:

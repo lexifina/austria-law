@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 22. Dezember 1971 betreffend ein spanisches Gewährzeichen StF: [BGBl. Nr. 14/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_14_0/1972_14_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Steiermärkischen Landesregierung vom 8. Mai 1972 über den Schutz der Dienstnehmer in Betrieben der Land und Forstwirtschaft (Steiermärkische land und forstwirtschaftliche Dienstnehmerschutzverordnung) StF: LGBlStmk. Nr. 60/1972
+
+Auf Grund des § 72 Abs. 4 der Steiermärkischen Landarbeitsordnung vom 8. Juni 1949, LGBl. Nr. 46, in der Fassung der Gesetze LGBl. Nr. 83/1958, Nr. 55/1961, Nr. 37/1962, Nr. 138/1962, Nr. 93/1964, Nr. 34/1965, Nr. 127/1967 und Nr. 34/1971, wird nach Anhörung der Landeskammer für Land- und Forstwirtschaft in Steiermark und der Steiermärkischen Kammer für Arbeiter und Angestellte in der Land- und Forstwirtschaft sowie der Land- und forstwirtschaftlichen SoziaIversicherungsanstalt, Landesstelle Graz, verordnet:

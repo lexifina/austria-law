@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über den Inhalt des Bauentwurfes von Seilbahnen sowie über die Anforderungen an die Ersteller der Gutachten und des Sicherheitsberichtes (Seilbahn-Bauentwurfsverordnung – SeilBEV) StF: [BGBl. II Nr. 227/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/227>)
+
+Aufgrund des § 33 Abs. 4 des Seilbahngesetzes 2003, [BGBl. I Nr. 103/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_103_1/2003_103_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 139/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/139>), wird verordnet:

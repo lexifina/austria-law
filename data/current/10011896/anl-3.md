@@ -1,0 +1,31 @@
+## ANHANG III
+
+## Prinzipien der Nichtdiskriminierung innerhalb und des Wettbewerbs zwischen computergesteuerten Buchungssystemen
+
+In der Erkenntnis, daß Artikel 11 (Fairer Wettbewerb) des Abkommens Österreich – USA, den Fluglinienunternehmen der beiden Vertragsparteien „faire und gleiche Wettbewerbsmöglichkeiten“ garantiert,
+
+berücksichtigend, daß einer der wichtigsten Aspekte der Wettbewerbsfähigkeit eines Fluglinienunternehmens seine Möglichkeit ist, die Öffentlichkeit in fairer und unparteiischer Weise über seine Dienste zu informieren, und daß daher die Qualität der Information über Flugdienste, die Reisevermittlern, die diese Information direkt an das Reisepublikum verteilen, zur Verfügung steht, und die Möglichkeit eines Luftlinienunternehmens, diesen Büros wettbewerbsfähige computergesteuerten Buchungssystemen (CRS's) zur Verfügung zu stellen, die Grundlage für die Wettbewerbsmöglichkeiten eines Fluglinienunternehmens bilden, und
+
+daß es ebenso notwendig ist, den Schutz der Interessen der Verbraucher von Luftverkehrsprodukten vor jedem Mißbrauch solcher Information und ihrer irreführenden Darstellung, und den Zugang von Luftlinienunternehmen und Reiseveranstaltern zu effektiv wettbewerbsfähigen computergesteuerten Buchungssystemen sicherzustellen:
+
+- 1\. Kommen die Vertragsparteien überein, daß computergesteuerte Buchungssysteme eine integrierte Hauptanzeige haben sollen, für die
+
+  - a) Informationen betreffend den internationalen Fluglinienverkehr, einschließlich der Errichtung von Verbindungen auf diesem Verkehr, auf Grundlage von objektiven Kriterien, die weder direkt noch indirekt von der Identität des Fluglinienunternehmens oder der Marktidentität beeinflußt werden, herausgegeben und angezeigt werden sollen. Diese Kriterien sind einheitlich auf alle teilnehmenden Fluglinienunternehmen anzuwenden.
+
+  - b) CRS-Datenbanken so umfassend wie möglich sind;
+
+  - c) Systemverkäufer Informationen, die von teilnehmenden Fluglinienunternehmen eingegeben werden, nicht löschen dürfen; solche Informationen genau und klar sein müssen; zum Beispiel Flüge mit code-sharing, Flüge mit Flugzeugwechsel und Flüge mit Zwischenlandungen klar als solche bezeichnet werden sollen;
+
+  - d) alle computergesteuerten Buchungssysteme, die Reiseveranstaltern zur Verfügung stehen, die Information über Fluglinienverkehr direkt an die Fluggäste im Hoheitsgebiet von einer oder beiden Parteien verteilen, nicht nur verpflichtet, sondern auch berechtigt sind, gemäß den Regeln, die im Hoheitsgebiet gelten, in dem das computergesteuerte Buchungssystem eingesetzt wird, zu operieren;
+
+  - e) es Reiseveranstaltern gestattet ist, jede durch das computergesteuerte Reservierungssystem zur Verfügung stehende Nebenanzeige zu verwenden, solange der Reiseveranstalter einen eigenen Antrag für diese Anzeige stellt.
+
+- 2\. Eine Vertragspartei muß verlangen, daß jeder Systemverkäufer, der in ihrem Hoheitsgebiet tätig ist, allen Luftfahrtunternehmen, die bereit sind, jede geltende nichtdiskriminierende Gebühr zu zahlen, die Teilnahme an seinem computergesteuerten Buchungssystem gestattet. Eine Vertragspartei muß verlangen, daß alle Vertriebseinrichtungen, die ein Systemverkäufer anbietet, den teilnehmenden Fluglinienunternehmen auf nichtdiskriminierender Grundlage angeboten werden. Eine Partei muß verlangen, daß Systemverkäufer auf nichtdiskriminierender, objektiver, bezüglich des Beförderers neutraler und marktneutraler Basis den internationalen Fluglinienverkehr der teilnehmenden Luftlinienunternehmen auf allen Märkten, auf denen sie die entsprechenden Leistungen verkaufen wollen, anzeigen. Auf Verlangen muß ein Systemverkäufer Details der Updating- und Speicherverfahren seiner Datenbanken, seine Kriterien für die Herausgabe und die Reihung von Informationen, das Gewicht, das solchen Kriterien beigemessen wird, und die Kriterien, die für die Auswahl der Anschlußpunkte und die Aufnahme von Anschlußflügen verwendet werden, bekanntgeben.
+
+- 3\. Systemverkäufer, die im Hoheitsgebiet einer Partei tätig sind, können im Hoheitsgebiet der anderen Partei ihre computergesteuerten Buchungssysteme hereinbringen, unterhalten und Reiseveranstaltern oder Reisegesellschaften, deren Hauptgeschäft der Vertrieb von reisebezogenen Produkten ist, zur Verfügung stellen, wenn das CRS diesen Prinzipien entspricht.
+
+- 4\. Keine Vertragspartei soll in ihrem Hoheitsgebiet den CRS-Verkäufern der anderen Vertragspartei strengere Erfordernisse betreffend den Zugang zu und die Verwendung von Kommunikationseinrichtungen, die Auswahl und die Verwendung von technischer CRS-Hardware und -Software, und die technische Einrichtung von CRS-Hardware auferlegen oder ihre Auferlegung zulassen, als die, die ihren eigenen CRS-Verkäufern auferlegt werden.
+
+- 5\. Keine Vertragspartei soll in ihrem Hoheitsgebiet strengere Erfordernisse betreffend CRS-Anzeigen (einschließlich Darstellungskriterien), den Betrieb oder den Verkauf auferlegen als die, die ihren eigenen CRS-Verkäufern auferlegt werden.
+
+- 6\. Computergesteuerte Buchungssysteme, die im Hoheitsgebiet einer Vertragspartei verwendet werden und diese Grundsätze und andere relevante nichtdiskriminierende, regulatorische, technische und Sicherheitsstandards erfüllen, sollen effektiven und ungehinderten Zugang im Hoheitsgebiet der anderen Vertragspartei haben. Daraus folgt, daß ein namhaft gemachtes Fluglinienunternehmen im Hoheitsgebiet seines Heimatstaates an einem solchen System so umfassend teilnehmen kann wie in jedem System, das Reiseveranstaltern im Hoheitsgebiet der anderen Vertragspartei angeboten wird. Eigentümer/Betreiber von computergesteuerten Buchungssystemen einer Vertragspartei sollen die gleiche Möglichkeit haben, computergesteuerte Buchungssystemen, die diesen Prinzipien entsprechen, im Hoheitsgebiet der anderen Vertragsparteien zu besitzen/zu betreiben wie die Eigentümer/Betreiber dieser Vertragspartei. Jede Vertragspartei soll sicherstellen, daß ihre Fluglinienunternehmen und ihre Systemverkäufer Reiseveranstalter in ihrem Hoheitsgebiet nicht wegen ihrer Verwendung oder ihres Besitzes eines computergesteuerten Buchungssystems, das auch im Hoheitsgebiet der anderen Vertragspartei betrieben wird, diskriminieren.

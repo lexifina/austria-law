@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009811",
+  "short_title": "Rechtsstellung einer Gemeinde der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010004",
+    "valid_from": "1992-03-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009811&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:36:24.794279+00:00",
+    "response_sha256": "219e07fc49017a3717195435c6b0e566a3aee0dd729d732a2d829195ecb1f075",
+    "snapshot_sha256": "97715e2cadf2a5ec626ad3e26690ce6da17a1ec773f65beaaf419f9796894853",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "442a5675eea184de49bb35996efcc9b35cb37f8d85cd8d65045695c86a668943",
+      "sha256": "34b5d6cc24e9c3bf6df5fe0c22ab57a599407356ce5b23b6148cedb97487356b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und Kunst über die Rechtsstellung einer Gemeinde der Evangelischen Kirche StF: BGBl. Nr. 129/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 129/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_129_0/1992_129_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6cc8430cb68d963e0664b2c92370bbd40314617592e01972f419aba07aa6c84",
+      "sha256": "8069526c561879f93bf19470131fcb747e626ea95858dc097b1bb3763aa6857a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

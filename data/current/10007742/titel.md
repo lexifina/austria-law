@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der allgemeine Bestimmungen für die Durchführung von Lehrabschlußprüfungen festgelegt werden (Allgemeine Lehrabschlußprüfungsordnung) StF: [BGBl. Nr. 670/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_670_0/1995_670_0.pdf>)
+
+Auf Grund des § 24 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch das Kompetenzbereinigungsgesetz 1992, [BGBl. Nr. 256/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_256_0/1993_256_0.pdf>), wird verordnet:

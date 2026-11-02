@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002195",
+  "short_title": "Hoheitszeichen - Iran",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002218",
+    "valid_from": "1971-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002195&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:00:01.112234+00:00",
+    "response_sha256": "9f29407724c071ea7fa23285ebed4c7a4c36ee681522aa7a18fa68e45ef5423d",
+    "snapshot_sha256": "31936c6c417295c2a670e1544bbb5049943548cc3ce0577cf580cc0ecb3f3a90",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab80a3a392aff6926a182a3c6c51b3b2fa7ec21d94fa6629522faf3d0235ff65",
+      "sha256": "5b6c263be3ccc0cb050f4bfb0e26f633825ab1506164cdcd1510913167ce2abc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 6. September 1971 betreffend sechs iranische Hoheitszeichen StF: BGBl. Nr. 381/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 381/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_381_0/1971_381_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb892017632082a86089515a8a4745147a7472027e4c10111ad00c001cf29884",
+      "sha256": "66c7f75ee1c2d10c64c3679ef67bc95942cef3b18004455a66b56e274a1226f3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

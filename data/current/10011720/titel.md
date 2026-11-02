@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 25. August 1987 betreffend den Geltungsbereich des Protokolls über eine Änderung des Art. 50 (a) des Abkommens über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 426/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_426_0/1987_426_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend die steuerliche Kennzeichnung von Gasöl (Gasölkennzeichnungsverordnung) StF: [BGBl. II Nr. 450/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_450_2/2001_450_2.pdf>) \[CELEX-Nr.: [395L0060](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0060:DE:HTML>)\]
+
+Auf Grund des § 9 Abs. 2 des Mineralölsteuergesetzes 1995, [BGBl. Nr. 630/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_630_0/1994_630_0.pdf>), in der Fassung [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>) wird verordnet:

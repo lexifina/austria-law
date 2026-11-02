@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die Begründung von Vorbelastungen durch die Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie genehmigt wird StF: [BGBl. I Nr. 190/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/190>) (NR: GP XXVII [RV 1770](<https://www.parlament.gv.at/gegenstand/XXVII/I/1770>) [AB 1781](<https://www.parlament.gv.at/gegenstand/XXVII/I/1781>) [S. 183.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/183>) BR: [AB 11121](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11121>) [S. 947.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/947>))
+
+Der Nationalrat hat beschlossen:

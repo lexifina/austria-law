@@ -1,0 +1,9 @@
+## Anlage IV
+
+## Erstellung von Statistiken über die zu haltenden Vorräte und zur Übermittlung dieser Statistiken an die Kommission
+
+Es sind entweder entsprechend der Anzahl von Tagen der Nettoeinfuhren oder der Anzahl von Tagen des Inlandsverbrauchs – monatlich endgültige Statistiken über den Stand der am letzten Tag des jeweiligen Kalendermonats tatsächlich gehaltenen Vorratsmengen zu erstellen und der Kommission zu übermitteln. In den Statistiken ist auszuführen, warum die Berechnung auf den Nettoeinfuhren oder dem Inlandsverbrauch basiert, und anzugeben, welche der in Anlage III genannten Methoden zur Berechnung der Vorräte angewandt wurde.
+
+Befinden sich bei der Berechnung zu berücksichtigende Vorräte außerhalb des Hoheitsgebiets von Österreich, so sind die in den verschiedenen Mitgliedstaaten und von den ZBS am letzten Tag des Berichtszeitraums gehaltenen Vorräte im Einzelnen aufzuführen. Österreich gibt ferner stets an, ob die Vorräte dort aufgrund der Übertragung einer Verpflichtung durch ein oder mehrere Unternehmen, auf eigene Veranlassung oder auf Veranlassung der ZBS gehalten werden.
+
+Für sämtliche Vorräte, die im dem Hoheitsgebiet von Österreich für andere Mitgliedstaaten oder zentrale Bevorratungsstellen gehalten werden, sind nach Kategorien von Erzeugnissen aufgeschlüsselte Statistiken über die am letzten Tag jedes Kalendermonats gehaltenen Vorräte zu erstellen und diese der Kommission zu übermitteln. In dieser Statistik sind stets insbesondere die Namen der jeweiligen Mitgliedstaaten bzw. ZBS sowie die Mengen anzugeben. Die gemäß diesem Anhang erstellten Statistiken werden der Kommission binnen 55 Tagen nach Ende des Monats, auf den sich die Daten beziehen, übermittelt. Darüber hinaus sind sie der Kommission auf Anfrage binnen zwei Monaten zu übermitteln. Anfragen können bis zu fünf Jahren ab dem Datum gestellt werden, auf das sich die Daten beziehen.

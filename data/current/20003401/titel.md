@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz über die von den Personenstandsbehörden an die Österreichische Gesundheitskasse zu übermittelnden Daten (Personenstandsdatenverordnung) StF: [BGBl. II Nr. 239/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/239>)
+
+Auf Grund des § 360 Abs. 5 des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 18/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/18>), wird im Einvernehmen mit der Bundesministerin für Gesundheit und Frauen verordnet:

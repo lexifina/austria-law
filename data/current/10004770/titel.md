@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Europäischen Abkommens über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: [BGBl. Nr. 261/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_261_0/1993_261_0.pdf>)

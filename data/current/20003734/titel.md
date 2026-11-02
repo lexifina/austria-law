@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 20. August 1975 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation vom 22. Juli 1946 StF: [BGBl. Nr. 466/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_466_0/1975_466_0.pdf>)

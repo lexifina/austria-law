@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem Begleitmaßnahmen zum Umsatzsteuergesetz 1994 vorgesehen werden StF: [BGBl. Nr. 21/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_21_0/1995_21_0.pdf>) (NR: GP XIX [RV 26](<https://www.parlament.gv.at/gegenstand/XIX/I/26>) [AB 53](<https://www.parlament.gv.at/gegenstand/XIX/I/53>) [S. 12.](<https://www.parlament.gv.at/gegenstand/XIX/NRSITZ/12>) BR: [4960](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4960>) [AB 4950](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4950>) [S. 593.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/593>))
+
+Der Nationalrat hat beschlossen:

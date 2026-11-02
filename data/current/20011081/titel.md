@@ -1,0 +1,1 @@
+Verfügung der Bundesministerin für Landesverteidigung betreffend den vorläufigen Aufschub der Entlassung von Wehrpflichtigen aus dem Grundwehrdienst StF: [BGBl. II Nr. 101/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/101>)

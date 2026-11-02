@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 13. September 1977 betreffend den weiteren Geltungsbereich des Übereinkommens vom 23. September 1910 zur einheitlichen Feststellung bestimmter Regeln über Hilfeleistung und Bergung in Seenot samt Unterzeichnungsprotokoll StF: [BGBl. Nr. 466/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_466_0/1967_466_0.pdf>)

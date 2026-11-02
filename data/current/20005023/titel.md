@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Festsetzung der Höhe von Verwaltungsabgaben und Gebühren im Rahmen des LMSVG und des EU-QuaDG (LMSVG-EU-QuaDG-Abgabenverordnung – LMSVG-EU-QuaDG-AbV) StF: [BGBl. II Nr. 381/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/381>)
+
+Auf Grund der §§ 61 Abs. 1 Z 2, 62 Abs. 1 und 63 Abs. 1 des Lebensmittelsicherheits- und Verbraucherschutzgesetzes – LMSVG, [BGBl. I Nr. 13/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 136/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/136>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz über die Abschätzung der konsumentenschutzpolitischen Auswirkungen im Rahmen der wirkungsorientierten Folgenabschätzung bei Regelungsvorhaben und sonstigen Vorhaben (WFA-Konsumentenschutzpolitik-Verordnung – WFA-KV) StF: [BGBl. II Nr. 494/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/494>)
+
+Auf Grund des § 17 Abs. 3 Z 3 des Bundeshaushaltsgesetzes 2013 (BHG 2013), [BGBl. I Nr. 139/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 62/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/62>), wird im Einvernehmen mit dem Bundeskanzler und der Bundesministerin für Finanzen verordnet:

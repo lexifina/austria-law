@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000931",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters von Thüringerberg",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000934",
+    "valid_from": "1988-02-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000931&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:38:21.990808+00:00",
+    "response_sha256": "d5e6cda1fc047b8ee5a44d3a7441614d020e06f49fd69fdc1e0f6b4b3d2a978b",
+    "snapshot_sha256": "82d5778e819235ef33b5a313cf82698e6bfdfa3e842606c5467bc306c9001608",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12717e508d5b9d10b25c81992c30e8ad031ca92aa9d923aac2a1cc354687e400",
+      "sha256": "0b5b0ec6fa93859318f79a384d13fda6f6b5a7f75685dcabbbb0408bb1bd1a5c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 28. Jänner 1988 über die Aufhebung einiger Worte im ersten Absatz der Verordnung des Bürgermeisters der Gemeinde Thüringerberg, mit welcher das Betreiben von Süßigkeitenautomaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 104/1988 (VfGH)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 104/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_104_0/1988_104_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa4a6d8bce3aa371795b45c55b056e9efb85c20f7509fe506f7b7281a3607093",
+      "sha256": "c67cd47aec81cc52109efdbdf3af547ff5f162ed72755ca64007ee4a465709e6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

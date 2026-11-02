@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauenangelegenheiten und Verbraucherschutz über Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder (Beikostverordnung) StF: [BGBl. II Nr. 133/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_133_2/1998_133_2.pdf>) \[CELEX-Nr.: [396L0005](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0005:DE:HTML>)\]
+
+Auf Grund der §§ 10 Abs. 1, 17 und 19 Abs. 1 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 21/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_21_1/1997_21_1.pdf>), wird hinsichtlich der §§ 4 und 5 im Einvernehmen mit dem Bundesminister für wirtschaftliche Angelegenheiten verordnet:

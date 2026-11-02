@@ -1,0 +1,3 @@
+Bundesgesetz über den Verlauf der Staatsgrenze zwischen der Republik Österreich und der Republik Slowenien in den Grenzabschnitten II, IV bis VII und in Teilen der Grenzabschnitte IX und X (regulierter Glanzbach) sowie XIX (regulierter Rischbergbach) StF: [BGBl. I Nr. 40/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_40_1/1997_40_1.pdf>) (NR: GP XX [RV 153](<https://www.parlament.gv.at/gegenstand/XX/I/153>) [AB 231](<https://www.parlament.gv.at/gegenstand/XX/I/231>) [S. 34.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/34>) BR: [AB 5272](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5272>) [S. 616.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/616>))
+
+Der Nationalrat hat beschlossen:

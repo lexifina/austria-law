@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008561",
+  "short_title": "VfGH-Ausspruch, dass § 29 Abs. 1 des Staatsbürgerschaftsgesetzes 1965 verfassungswidrig war",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40155491",
+    "valid_from": "2013-08-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008561&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:16:44.336819+00:00",
+    "response_sha256": "ac14f76015862d4ceaabeb942876055fd618dc54c2348fd4110941fe6a9d78c3",
+    "snapshot_sha256": "b9e1c384b14284bba4cfe0c916992899dbf49a7356017d000a08911a57239f99",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad9cb33399ac0bc6e0dc6d1d1bc96d0c38e8113e629579fa3dcc475913d5fac6",
+      "sha256": "45f4e1c52324e0ecda6a282e100253bc6e9c1d89fd75730cd1da8b03ab1a2a45",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, dass § 29 Abs. 1 des Staatsbürgerschaftsgesetzes 1965 verfassungswidrig war StF: BGBl. I Nr. 186/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 186/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/186"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9acbf325ba76235705fba7a13dd13f874a9fbad51f2d1274dd19b54d23b5a6f1",
+      "sha256": "98df519c01c451009cf0e52e409bd2465f8f8013c94493e7e1a31f3a3f12df10",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 250/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_250_0/1965_250_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

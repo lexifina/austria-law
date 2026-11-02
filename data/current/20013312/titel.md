@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der das Lehrlingseinkommen für Veranstaltungstechnikerinnen und Veranstaltungstechniker geändert wird StF: [BGBl. II Nr. 298/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/298>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz ist gemäß § 26 Abs. 1 Arbeitsverfassungsgesetz, [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 25/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/25>) ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft das Lehrlingseinkommen festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Kosumentenschutz hat mit Beschluss vom 12. Oktober 2026 nach Durchführung einer Senatsverhandlung nachstehendes Lehrlingseinkommen festgesetzt:

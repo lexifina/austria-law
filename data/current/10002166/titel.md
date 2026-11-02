@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. März 1970, betreffend Zeichen des Afrikanisch-Madegassischen Amtes des gewerblichen Eigentums StF: [BGBl. Nr. 120/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_120_0/1970_120_0.pdf>)

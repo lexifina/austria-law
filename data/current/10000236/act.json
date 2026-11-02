@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000236",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000237",
+    "valid_from": "1951-02-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000236&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:24:49.462170+00:00",
+    "response_sha256": "08165b606dec5ce890d212cec8809b225cd09642c87d3469e56872a9901b6765",
+    "snapshot_sha256": "d82556ead6bdee85f8fa47c89f124f78a82efb717f3462447ea17a099f43cf4f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "997ad7a654bdb47ed2291d7e3d727b975c4edc2480f35cfdba1df86fab197a32",
+      "sha256": "1d45f26a25d2c55fd9a1acee68a38850e447f2da40411e6b590b787b7cf8d16b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 8. Jänner 1951, betreffend die Feststellungen des Verfassungsgerichtshofes über die Zuständigkeit zur Schaffung von Ehrenzeichen. StF: BGBl. Nr. 46/1951"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 46/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_46_0/1951_46_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ae13a2c01b1f3d7022c8fed85659b13e44d28ebd5b2c6a9b2fc33df30329e0d",
+      "sha256": "d7e01bbb159d6d1266a178211cbee99c984d1623bd9624d01c0dcbec88a8c50e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

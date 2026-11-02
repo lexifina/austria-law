@@ -1,0 +1,3 @@
+Verordnung des k. k. Statthalters vom 21. Mai 1913, Zl. X-56/53, betreffend die Statuten der Haselbach-Genossenschaft. StF: GVBlTirVbg. Nr. 40/1913
+
+Auf Grund des § 5 des Gesetzes vom 30. Mai 1911, L. G. Bl. Nr. 56, betreffend die Regulierung des Haselbaches bei Waidring und die Verbauung seiner Seitengräben, werden für die behufs Durchführung dieser Regulierung bestehende Wassergenossenschaft im Einvernehmen mit dem Tiroler Landesauschusse nachstehende Statuten festgesetzt, womit die bisherigen mit Dekret der k. k. Bezirkshauptmannschaft Kitzbühel vom 31. Oktober 1899, Zl. 11.973 genehmigten Statuten außer Wirksamkeit treten.

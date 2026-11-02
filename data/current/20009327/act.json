@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009327",
+  "short_title": "Aktionsprogramm Nitrat 2012 - Novelle",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40175589",
+    "valid_from": "2015-10-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009327&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:31:01.035281+00:00",
+    "response_sha256": "213a76a42eff617dd0d5af39161ab91271361d0c2f8dd7c723353f29e1b6d7dc",
+    "snapshot_sha256": "21f4bf20eb6bec0a1c7aafc8bd9fc8d68719ac1bce77e33e31b082fc79f81124",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2452c7631b58b3168787c30cd5e1b505db4dc75f4b03e880a0c060c518cf695d",
+      "sha256": "7f2aa6a3c07e142962a6c10749c9f57aa0bb80b8beab3895be3ea2e5c21134ac",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die zeitlich befristete Festlegung eines Düngemittelausbringungsverbotszeitraumes StF: BGBl. II Nr. 319/2015"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 319/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/319"
+        },
+        {
+          "text": "BGBl. I Nr. 54/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/54"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3795c8fdead60cb48180fa32f87ad6779db2fa802d1e3a70e1f81bcdf4392388",
+      "sha256": "0e5ad3026a6aeebd0d9310d4ddb2a22f06164aaec8f5cf7d64a1a36a04e87f64",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 260/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/260"
+        },
+        {
+          "text": "BGBl. II Nr. 319/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/319"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

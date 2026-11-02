@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010393",
+  "short_title": "Errichtung einer Notarstelle in Traun",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209400",
+    "valid_from": "1972-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010393&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:46.050667+00:00",
+    "response_sha256": "5e2c2295fadaeaf45c5a79861645f813df0a9820d9e9dfe3a786ba7a534959ba",
+    "snapshot_sha256": "d97eb5a9b2a51d46e85a9ba691908db721aa529c293223b8102e92344ad4d952",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "171b4bba629fd1fcdf7e8dcf09d3c20c2c1ec24c7e1a8e44ea3ec5d907d7b194",
+      "sha256": "d5a7da40c72cbe26121ab68e6d40edb103d0ac1b20947a2e48f40ba47c53635d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom. 13. Jänner 1972 betreffend die Errichtung einer Notarstelle in Traun StF: BGBl. Nr. 18/1972"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 18/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_18_0/1972_18_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20f8b058be88bdfad2008144124c01c0a6de5480cc7f638072bd9b2be0efc05b",
+      "sha256": "14c9146c809c520fa2dfa8f2145ba9fffeab4fda30be6a666ec9b891120be4d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

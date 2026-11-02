@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die Verwendung von Erlösen veräußerter Ehrengeschenke StF: [BGBl. II Nr. 462/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/462>)
+
+Auf Grund des § 59 Abs. 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), und des § 5 Abs. 1 des Vertragsbedienstetengesetzes 1948 (VBG), [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), jeweils zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 55/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/55>), wird verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz über die Weiterverwendung von Informationen öffentlicher Stellen, öffentlicher Unternehmen und von Forschungsdaten (Informationsweiterverwendungsgesetz 2022 – IWG 2022) StF: [BGBl. I Nr. 116/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/116>) (NR: GP XXVII [RV 1571](<https://www.parlament.gv.at/gegenstand/XXVII/I/1571>) [AB 1635](<https://www.parlament.gv.at/gegenstand/XXVII/I/1635>) S. 167. BR: [11000](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11000>) [AB 11041](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11041>) S. [943](<https://www.parlament.gv.at/gegenstand/BR/I-BR/943>).) \[CELEX-Nr.: [32019L1024](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1024:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

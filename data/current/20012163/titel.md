@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für EU und Verfassung betreffend die Kundmachung von Änderungen der Ausführungsordnung zum Budapester Vertrag über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren StF: [BGBl. III Nr. 8/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2023/8>)
+
+Auf Grund des § 5 Abs. 1 Z 6 des Bundesgesetzblattgesetzes, [BGBl. I Nr. 100/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 24/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24>), wird verordnet:

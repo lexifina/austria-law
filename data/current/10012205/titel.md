@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf von zwei Vereinbarungen zwischen dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich und Verkehrsminister der Volksrepublik Polen nach Rn. 2010 des ADR StF: [BGBl. Nr. 475/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_475_0/1993_475_0.pdf>)

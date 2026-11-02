@@ -1,0 +1,710 @@
+{
+  "sample_only": false,
+  "included_provisions": 25,
+  "source_provision_count": 25,
+  "schema_version": 1,
+  "gesetzesnummer": "20011921",
+  "short_title": "PEPP-Vollzugsgesetz",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40244741",
+    "valid_from": "2022-06-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011921&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:23:25.177336+00:00",
+    "response_sha256": "f379f14154576c0fbdfb2959ed3c1e1f13e660ec6cf3fd07e23d3012ad403404",
+    "snapshot_sha256": "2a465626e670afa823d73c1584b2f99c70228b0404a1b56f5514204d8f53a531",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89b86257d730cb1b0f959f6395dc5ec8fc1fc0c5ec2a48949a329bf6e4ae1150",
+      "sha256": "f98463203915ac59bbf64a7efbf8aeaf7d8b498f2940098de27f0e4a3604ea2f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über das Wirksamwerden der Verordnung (EU) 2019/1238 über ein Paneuropäisches Privates Pensionsprodukt (PEPP-Vollzugsgesetz) StF: BGBl. I Nr. 74/2022 (NR: GP XXVII RV 1445 AB 1460 S. 156. BR: AB 10969 S. 941.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.) BGBl. I Nr. 5/2026 (NR: GP XXVIII RV 366 AB 380 S. 63. BR: 11763 AB 11768 S. 986.) [CELEX-Nr.:32023L2864, 32024R0886, 32015L2366, 31998L0026]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 74/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/74"
+        },
+        {
+          "text": "RV 1445",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1445"
+        },
+        {
+          "text": "AB 1460",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1460"
+        },
+        {
+          "text": "S. 156.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/156"
+        },
+        {
+          "text": "AB 10969",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10969"
+        },
+        {
+          "text": "S. 941.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/941"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "RV 366",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/366"
+        },
+        {
+          "text": "AB 380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/380"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11763",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11763"
+        },
+        {
+          "text": "AB 11768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11768"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32023L2864",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2864:DE:HTML"
+        },
+        {
+          "text": "32024R0886",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024R0886:DE:HTML"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "31998L0026",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0026:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Zweck dieses Gesetzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e515b68eaef98616945fa4cdc881b47cff85b4d5eb4063c7084784282c0f466c",
+      "sha256": "d7340952844f141c1a4fce766fe21a16c05aecae4b3143f909becbc85b615ec4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zuständige Behörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51de0de2eef341111b33c28a08d12fc48c37fc1074769e9ac2dd776db6a117bc",
+      "sha256": "44b9a7211a0f63c62a3c7efcd11c6e95f5343037656b4c97a524b2189e2c1e45",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/77"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/135"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2a",
+      "source_heading": "ESAP-Sammelstelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95b42abef877ec63f6e7918bbc33829bcf03b27301aa9189108e342241b561d5",
+      "sha256": "fffafbc4e2b0a050e8483fc9385c87d8558334a336b27d783f31783adf5855ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Befugnisse der FMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41a62b0dfd57f1766fdc4cd7ffc32b9fa487bc6d0e6350cea551b6f1e4b7423c",
+      "sha256": "f6abc58869672d38e6e2de53478dfe4d0f7af3b5b563ad99c7b1dcf598ad376a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5830a5b69fa7f95e944aec856b13ec49180eb7856641954e68cda15d84ca5477",
+      "sha256": "a3b59310f6c7ac57d4217e937219dae34f690593be7791c172c94e47097da39f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Maßnahmen der FMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6ac84cc13b73b5ba894653ee5198714c1df2e7a001a90c638e7a45c8ad99cc2",
+      "sha256": "92925391fa5d0683687dc9117de0df4beeecfcf1fe17d5292004f90c68860780",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Wahrnehmung der Aufsichts- und Sanktionsbefugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "238dbf8a33501032fc3d8f4705b7ac53da4a13d57da2832d9fabe85ca2925d4d",
+      "sha256": "a5cd9492cd96c06d19618a4ce23f7fcea3ee1856bcd3d2184559563df18766b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Veröffentlichung von Entscheidungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10bdab853dd23355c38da38da5b088c1bdc280c9d16545a068a95cc6461bb9c2",
+      "sha256": "5cd574c6eec5785e8c7eb3ea5c100caaefc6e32d98dde386322282903b733250",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Rechtsmittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a5a88ad643b91c7b77f57f525a559df66056f9ed20b2af295d33b9f2f62873e",
+      "sha256": "f158e2eb88a840bdf2280faebb8298e63bec7e97a6e4fe25b0fddd4f59598be3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Meldung von Verwaltungsstrafen und verwaltungsrechtlichen Maßnahmen an die EIOPA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60150c53d6b6ba0016e70c292305aab703be6617f708549cd940aee1a6161f3b",
+      "sha256": "fa5cb5ec609496fc97f1cf6009ad93e994158843052da5fc325f24d459de7418",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Veröffentlichung nationaler Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7980bd13c9aa48bd0f9bb1b94a6c81f4fd31da15cd3d5595f26eb5b427a54240",
+      "sha256": "b22d3d16d251de401cffdafb2de5644437c6ea4a994463dd81f56ede5ace9443",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Vertriebsregime für PEPP-Anbieter und PEPP-Vertreiber",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d262cf85beb1d564f73922d8c8e145e8e1ae2b362dfc1cd4947031c18b0a764d",
+      "sha256": "b288e99ac13f195d9a3180c099628655624e2f6935116360dcfc3a497b8976f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Kenntnisse und Fähigkeiten für die PEPP-Beratung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e78575d931eacd70791dabaf06f673f5b7a00e7580c0649fe7d05aab2e94dae5",
+      "sha256": "a24b1d60162a62a3d21ca8af67461d915c3792cbac2932c274a17e78f9fbf891",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Meldewesen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "370d001a131bd0e78d3de52f9db1e3d98b6030046a0c4f9d5b6ffe4141765693",
+      "sha256": "d598d03c2181147916603835e7ec58ff0afb41ebb6bc0dee672257b4a9793368",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Form der Kommunikation mit der FMA – elektronische Übermittlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4645eef8a6f9bdb076f2712bb98a80740348340df5b02c5e675a190227dbdb8",
+      "sha256": "446c3cf6d6f4fa04856140ff5250e0f7edbf7a11a7687aa8010a1433cd3ae251",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Beschwerden an die FMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e497f51d647a7f82f9a3923e635f6a71ba581dec6c0a5fc74c1ce7b015b7767",
+      "sha256": "a962941e243cddcf9e3ef32ddbdc4334ae34c24e1fa539aa16923b23c14671e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Verschwiegenheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "959fe5f83e48c10f3a6fd885ce7008cf045ec5a12a5f49e945966a03b08d7a98",
+      "sha256": "c5aad201c19441fe6fad1d6830710360ad5a27529ad98167eaffb27967c6e8a9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 97/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_97_1/2001_97_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Berufsgeheimnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "993456446ee403e466c0db9ff9883936050d78c076aee90c499ea262a5474f6b",
+      "sha256": "1034b14539183c6e92988c3a2b3f19e4425f7f5001847712a7587d291c0530dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Besondere Verfahrensbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b43d38f5dfa341e52a21b397c84ab09a4768bc7443d66fe1d81290876485025",
+      "sha256": "90c4077a82d60184f0a3f063d3b978295acc5d2cefd35ca91feafc066955bf41",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 53/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_53_0/1991_53_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1908c31a6656911bf183eeede39d87c04eb12fde310dfd808ac340b024a1e19d",
+      "sha256": "d1b776b3f48196c8c41f672be8e14b493700747b8afb87fb9dfdbc517c31c460",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 97/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_97_1/2001_97_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c6e2d03a07e9147fd465f2af0a084163f34dd0d6ee14682eb1f7ba35d0ac175",
+      "sha256": "5e8a52be05e35a920c4952e9884205b5a98af2080c7235c55edd6572914e4467",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Verweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c1ee2b6b24241eb75dcf29fc56bf20b9a0639f6d848d1fe86c87be9a44687f6",
+      "sha256": "ef3f64cd040aba8f6d9603db6183c411b370163871f45222fdc027b9a6d62993",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06e44af12d5a760beb2003c6f7b1069ff23753ee332859d300875ca0e71f15ac",
+      "sha256": "1a3f30fc85b03bce9706ccdb287a0b30add65a561ce1603ed6d03ad20b530028",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8025f1e5988d2382c4660a45d2e5694ab3e302228feb89d685092b6584a9de1a",
+      "sha256": "251ed562de2d8e40494df83299cec3aee600bda7605400966a2944b241fd869c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über Verfahren zur Identifikation von Teilnehmern (Identifikationsverordnung – IVO) StF: [BGBl. II Nr. 7/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/7>)
+
+Auf Grund des § 97 Abs. 1a des Bundesgesetzes, mit dem ein Telekommunikationsgesetz erlassen wird (Telekommunikationsgesetz 2003-TKG 2003), [BGBl. I Nr. 70/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_70_1/2003_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 78/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/78>), wird im Einvernehmen mit dem Bundesminister für Inneres verordnet:

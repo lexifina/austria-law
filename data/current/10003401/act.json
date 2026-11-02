@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003401",
+  "short_title": "Errichtung einer achten Notarstelle in Linz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003428",
+    "valid_from": "1996-04-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003401&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:59.436774+00:00",
+    "response_sha256": "cbe7d5f7734fd9670f24334e2ec1794ae01cb1326c06bab90ad8dc610a661a7e",
+    "snapshot_sha256": "dd0f76c0d3d68d5d5c0b93be03d020f67343fa11670ccf19e16acd29204e708d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "009f8d4cf3aaf3205a6c35d4a0525492670198eeaf58fb905f84518efa6d798c",
+      "sha256": "fd076d137b16edcf941afd560c98cbbef92bbb428cd8267fd8cde278f2f717cc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer achten Notarstelle in Linz StF: BGBl. Nr. 174/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 174/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_174_0/1996_174_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "498866809237b9289ee1005838675458ee122423dfd409cecfd2715d426f9fb2",
+      "sha256": "a4a7a2cdbae0b31d005c1ab30c5130f3a51ddfa8aeff36afe09db3c3450cda79",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

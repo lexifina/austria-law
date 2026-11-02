@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003546",
+  "short_title": "Errichtung einer zweiten Notarstelle in St. Johann im Pongau",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003575",
+    "valid_from": "1997-06-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003546&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:33.321548+00:00",
+    "response_sha256": "525bb0f73ff5de46d38e55af570f677a0a17b4c012f5f62244de915c6d0a5ef5",
+    "snapshot_sha256": "071ef49e70f787005016b47e3343c7776ff011f696c189d56d5d42a059b8873b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "264ed4c335134cf3a3a909f84d32ec333a979ce81e0c6326498fe1559cbfe166",
+      "sha256": "a8ccb139db6a1b1e9b877f4ff72e128c240af9128cbbb22ab8224d0a0b65c6b5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in St. Johann im Pongau StF: BGBl. II Nr. 153/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 153/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_153_2/1997_153_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d830bee30fb1bab9825ccf1d60dfa13254839f618c50bc0e39fe014743ad0b8c",
+      "sha256": "ba0499592c66e0ea2aba212c93a309a4e0c13cabe1fdc7b047782f39ffb28691",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

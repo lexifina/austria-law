@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem und das Siegel der Multilateralen Investitionen Garantie Agentur StF: [BGBl. II Nr. 55/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_55_2/1998_55_2.pdf>)

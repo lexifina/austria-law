@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Familie und Jugend über die Erwerbsstatistik und Wohnungsstatistik 2010 (Erwerbs- und Wohnungsstatistikverordnung 2010 – EWStV 2010) StF: [BGBl. II Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/111>)
+
+Auf Grund der §§ 4 bis 10 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 125/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/125>), wird im Einvernehmen mit dem Bundeskanzler und dem Bundesminister für Wirtschaft, Familie und Jugend sowie hinsichtlich des § 14 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

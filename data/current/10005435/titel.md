@@ -1,0 +1,1 @@
+Vereinbarung über die Errichtung vorgeschobener österreichischer Grenzdienststellen für den Schiffsverkehr in Passau-Donaulände und in Obernzell (Donau) StF: [BGBl. Nr. 168/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_168_0/1977_168_0.pdf>)

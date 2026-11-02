@@ -1,0 +1,98 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012288",
+  "short_title": "ADR - Widerruf von drei Vereinbarungen",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012574",
+    "valid_from": "1993-11-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012288&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:07:43.101306+00:00",
+    "response_sha256": "6a96633d3fae80a87c75cdf1108c1e221a3092ecf7d7c49eb28244d7b9ea6345",
+    "snapshot_sha256": "24bc88c0f9dcf6e68b5a0e1964c72c2f37ed9105e2f56e3916a7f769a78724e1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b3eca04b8927cec3d3b4839e329ba654c8dee6eb2e4da1bc0a21ceeaa5c6c9bf",
+      "sha256": "378e51e6661ae7c1eb73b166535570c7d46bcc50139bb3d81b63ba780b91ae55",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf von drei Vereinbarungen zwischen dem Bundesminister für Verkehr der Bundesrepublik Deutschland und dem Bundesminister für Verkehr der Republik Österreich StF: BGBl. Nr. 750/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 750/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_750_0/1993_750_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0cb61fb5a4109a9482438b13f571406a722d77ecd62c88265311b1fc2551974",
+      "sha256": "d11b9d099ae717ddb985b840f0a45ce7fb21b037245177c352a173a186383553",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 178/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_178_0/1980_178_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 390/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_390_0/1981_390_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 387/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_387_0/1978_387_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 164/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_164_0/1993_164_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

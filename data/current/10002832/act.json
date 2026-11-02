@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002832",
+  "short_title": "Flagge - Kuba",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002855",
+    "valid_from": "1988-10-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002832&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:42.005529+00:00",
+    "response_sha256": "4a3c91062044052d02ed17fcbc0868936ce4eee6f27d628f545ae2d44b6f62b7",
+    "snapshot_sha256": "26783a77fd2ef1abda63557bbb5ea92aa7bd70cd8f5d212d0bf208fb8ac09d5b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a9a16fb9d0dc786a4e501c43cd128f386e126adc9f4094bf1c579bb8c06d725",
+      "sha256": "2e9dbf4cad523ca283439e78dcf6b5b220292306cf21f0af1a59179611702b05",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 6. September 1988 betreffend Flagge der Republik Kuba StF: BGBl. Nr. 546/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 546/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_546_0/1988_546_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e969c9fcd9445163169ed33fdfe036bfba51f5fabb38f8d59d49ce260efb11c0",
+      "sha256": "50b3c9d6307d5712b4b4275a67d43d575a9b272fc60685bffe2ddc84ff4b250f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9db83e881f66be8843460a7e0c38165b94420aa0742544f98cf015610cab08a8",
+      "sha256": "691757cee1f9d163065f8a084072b621c8b36a5de0a13d1699c9acba5f785262",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12034492/image001.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

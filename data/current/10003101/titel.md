@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem des Benelux-Markenamtes StF: [BGBl. Nr. 307/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_307_0/1993_307_0.pdf>)

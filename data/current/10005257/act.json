@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005257",
+  "short_title": "Sichtvermerkzwang - Aufhebung (Neuseeland)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Neuseeland",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005341",
+    "valid_from": "1958-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005257&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:41:31.542936+00:00",
+    "response_sha256": "b5fedb5fc766ad4f25cd6ffc5b4539ffec451f8080441d15f345479df5eca33c",
+    "snapshot_sha256": "ef3cb57e5f4d2205456826415b902085af24de84c79c9ddecadc33111e915626",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7542a61846fc101041a35c28a3ef55f3d5a5c0886b6058f43672532264edf14b",
+      "sha256": "265c2c3eafd32122d859ceae78a0804ac36862d56add6931e8269c653467393a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Bundesregierung der Republik Österreich und der Neu-Seeländischen Regierung über die Aufhebung des Sichtvermerkzwanges zwischen Österreich und Neu-Seeland StF: BGBl. Nr. 230/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 230/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_230_0/1958_230_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50e4e8e68d185a9535d36fc43fc32ba2b7eea5dc459f09c8b3584322fa847471",
+      "sha256": "e4f0948954f7a6ba5a04afa205f9fd4175239dff8f0ed4fb9bd5ff7d56d0a095",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über den Ersatz der Aufwendungen für die Mitglieder des wissenschaftlichen Beirates des Institutes des Bundes für Qualitätssicherung im österreichischen Schulwesen (IQS-WB-Aufwandersatzverordnung) StF: [BGBl. II Nr. 466/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/466>)
+
+Auf Grund des § 7 Abs. 8 des Bundesgesetzes über die Einrichtung eines Institutes des Bundes für Qualitätssicherung im österreichischen Schulwesen und die Eingliederung des Bundesinstitutes für Bildungsforschung, Innovation und Entwicklung des österreichischen Schulwesens (IQS-Gesetz – IQS-G), [BGBl. I Nr. 50/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/50>), wird verordnet:

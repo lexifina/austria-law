@@ -1,0 +1,15 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Von Art. 1 Z 34 hinsichtlich § 54a Abs. 5c sind Fahrzeuge ausgenommen, die vor Inkrafttreten dieser Verordnung bereits genehmigt worden sind. Diese dürfen aber nach dem 30. Juni 1994 nicht mehr erstmals zum Verkehr zugelassen werden.
+
+(2) Runderneuerte Reifen (§ 4 Abs. 4a), die schon vor dem 1. Jänner 1995 runderneuert worden sind, dürfen auch nach dem 1. Jänner 1995 feilgeboten und verwendet werden.
+
+(3) Austauschschalldämpferanlagen (§ 8 Abs. 3a), die schon vor Inkrafttreten des § 2 Abs. 1 lit. l und des § 8 Abs. 3a in einem Verfahren nach § 32 oder 33 KFG als für die Type des Fahrzeuges geeignet erklärt wurden, sind von Art. I Z 5 und Z 10 (hinsichtlich § 2 Abs. 1 lit. 1 und § 8 Abs. 3a) ausgenommen. Diese dürfen aber nach dem 1. Jänner 1996 nicht mehr feilgeboten werden.
+
+(4) Schneeketten, die dem Art. 1 Z 7 (§ 4 Abs. 7) nicht entsprechen, dürfen nach dem 30. September 1995 nicht mehr feilgeboten und nach dem 30. September 1997 nicht mehr verwendet werden.
+
+(5) Begutachtungsplaketten, deren Anbringung nicht dem Art. 1 Z 30 (hinsichtlich § 28a Abs. 4 lit. a) entspricht, dürfen noch bis zu 16 Monaten nach Inkrafttreten des Art. 1 Z 30 nach den bisherigen Vorschriften angebracht sein.
+
+(6) Von Art. I Z 8 (§ 6 Abs. 2), Z 9 (§ 7 Abs. 3), Z 12 (§ 10 Abs. 7), Z 14 (§ 17 Abs. 2), Z 15 (§ 18a Abs. 2), Z 31 (§ 52 Abs. 10) sind Fahrzeuge ausgenommen, die vor dem 1. Jänner 1994 bereits genehmigt worden sind. Diese Fahrzeuge müssen aber den bisherigen Vorschriften entsprechen.

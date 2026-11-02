@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit und Wirtschaft über die Erfassung von globalen Wertschöpfungsketten in der Unternehmensstatistik (Wertschöpfungskettenstatistik-Verordnung) StF: [BGBl. II Nr. 133/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/133>)
+
+Auf Grund der §§ 4 bis 10, 19, 30 und 32 Abs. 4 Z 1 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 185/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/185>), wird im Einvernehmen mit dem Bundeskanzler sowie hinsichtlich des § 12 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

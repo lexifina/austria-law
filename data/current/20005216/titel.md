@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit betreffend Mitteilung und Meldung von Preisen für Erdöl und Mineralölerzeugnisse und zugehöriger sonstiger Angaben nach dem Preistransparenzgesetz (Preistransparenzverordnung - Öl 2006) StF: [BGBl. II Nr. 7/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/7>)
+
+Auf Grund der §§ 1 und 12 Abs. 2 des Preistransparenzgesetzes, [BGBl. Nr. 761/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_761_0/1992_761_0.pdf>), zuletzt in der Fassung des Bundesgesetzes [BGBl. I Nr. 72/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_72_1/2002_72_1.pdf>), wird verordnet:

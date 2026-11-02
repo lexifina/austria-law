@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bundespostflagge und die Postsignalflagge für Seeschiffe der Bundesrepublik Deutschland StF: [BGBl. II Nr. 186/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/186>)

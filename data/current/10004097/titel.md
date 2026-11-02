@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 22. Juli 1971 betreffend die Ausdehnung des Geltungsbereiches des Zollabkommens vom 18. Mai 1956 über Behälter StF: [BGBl. Nr. 323/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_323_0/1971_323_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über den Schutz der Bediensteten durch persönliche Schutzausrüstung (Verordnung Persönliche Schutzausrüstung Bund – B-PSA-V) StF: [BGBl. II Nr. 120/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/120>)
+
+Aufgrund der §§ 3 bis 7, §§ 12 bis 15, § 17, § 65 Abs. 4 Z 1 bis 3, § 43 Abs. 2 Z 7, § 43 Abs. 3 Z 3, § 45 Abs. 6 Z 3, § 66, § 69, § 70, § 72 Z 5, § 74 Abs. 3 Z 5 und § 77 Abs. 3 Z 5 des Bundes-Bedienstetenschutzgesetzes – B-BSG, [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 164/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/164>), wird verordnet:

@@ -1,0 +1,13 @@
+Internationales Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“ samt Anlagen, Zeichnungsprotokoll und Protokoll für die Übergangszeit bis zum Inkrafttreten des Übereinkommens „EUROCONTROL“; Zusatzprotokoll zum Internationalen Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“ samt Zeichnungsprotokoll; Protokoll zur Änderung des Zusatzprotokolls vom 6. Juli 1970 zum Internationalen Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“; Protokoll zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“ vom 13. Dezember 1960 samt Anlagen StF: [BGBl. Nr. 282/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_282_0/1993_282_0.pdf>) (NR: GP XVIII [RV 651](<https://www.parlament.gv.at/gegenstand/XVIII/I/651>) [AB 925](<https://www.parlament.gv.at/gegenstand/XVIII/I/925>) [S. 102.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/102>) BR: [AB 4487](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4487>) [S. 565.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/565>))
+
+Der Nationalrat hat beschlossen:
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Beitrittsurkunde wurde am 17. März 1993 bei der Regierung des Königreichs Belgien hinterlegt; das Übereinkommen tritt für Österreich mit 1. Mai 1993 in Kraft.
+
+Nach Mitteilungen der belgischen Regierung haben folgende weitere Staaten das Übereinkommen ratifiziert bzw. sind ihm beigetreten:
+
+Belgien, Deutschland, Frankreich, Griechenland Irland, Luxemburg, Malta, Niederlande, Portugal, Schweiz, Türkei, Vereinigtes Königreich und Zypern.
+
+1\. Der Abschluß des nachstehenden Staatsvertrages: Internationales Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“ samt Anlagen, Zeichnungsprotokoll und Protokoll für die Übergangszeit bis zum Inkrafttreten des Übereinkommens „EUROCONTROL“; Zusatzprotokoll zum Internationalen Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“ samt Zeichnungsprotokoll; Protokoll zur Änderung des Zusatzprotokolls vom 6. Juli 1970 zum Internationalen Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“; Protokoll zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“ vom 13. Dezember 1960 samt Anlagen wird genehmigt.
+
+2\. Gemäß Art. 49 Abs. 2 B-VG ist dieses Vertragswerk dadurch kundzumachen, daß es beim Bundesministerium für öffentliche Wirtschaft und Verkehr und dem Bundesamt für Zivilluftfahrt aufgelegt wird.

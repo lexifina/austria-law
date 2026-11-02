@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001094",
+  "short_title": "VfGH-Aufhebung V des Milchwirtschaftsfonds",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001098",
+    "valid_from": "1991-02-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001094&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:10.962147+00:00",
+    "response_sha256": "bc953a5011f36fcec9b755c06daa474ad3de50f0047c226296dffb6633125433",
+    "snapshot_sha256": "60eeca6cc6a61786bc45032172022bf3d084e1331221c7da41828665ee7c1c8b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9e661bd248d00c81f9483ace55955e3147a78661a2e41c0feabb73fdf68185c",
+      "sha256": "56a95f6f3ddaf443999cf214701d9fc7a3f3aa8fbbddbd9086093903cf477c39",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft über die Feststellung des Verfassungsgerichtshofes, daß die Z 2 („Eigentumsübertragung von Futterflächen'') der Verordnung des geschäftsführenden Ausschusses des Milchwirtschaftsfonds vom 6. Oktober 1982 gesetzwidrig war StF: BGBl. Nr. 59/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 59/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_59_0/1991_59_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0857e88478f4a06d11bdbec08d41e6f29709003e57c11faf3ed79241bc58bc3",
+      "sha256": "d6fc55f6dae11d2edb2f6309e957b997d15ddc74915c1c075393525b38bc2dc2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

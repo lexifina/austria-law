@@ -1,0 +1,21 @@
+## Artikel III
+
+## (Übergangsbestimmungen)
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Von den einzelnen Bestimmungen dieser Verordnung sind Fahrzeuge ausgenommen, die vor Inkrafttreten der jeweiligen Bestimmung bereits genehmigt worden sind, sofern die folgenden Absätze nichts anderes bestimmen. Diese Fahrzeuge müssen aber den bisherigen Bestimmungen entsprechen. Die Bestimmungen des Art. I Z 3 (hinsichtlich § 1d Abs. 2 bis 4) sind jedenfalls anzuwenden.
+
+(2) Von Art. I Z 3 (§ 1d Abs. 1) sind Fahrzeuge der Kategorie M tief 1 und N tief 1 ausgenommen, wenn sie als Type vor dem 1. Jänner 1995 genehmigt worden sind, oder einzeln vor dem 1. Jänner 1996 genehmigt und erstmals zum Verkehr zugelassen worden sind. Typengenehmigte Fahrzeuge dürfen nach dem 1. Jänner 1996 aber nur mehr dann erstmals zum Verkehr zugelassen werden, wenn festgestellt worden ist, daß das Fahrzeug der Richtlinie 93/59/EWG entspricht. Fahrzeuge, die bereits in einem anderen EU-Mitgliedstaat zugelassen waren, werden wie in Österreich zugelassene Fahrzeuge behandelt.
+
+(3) Die Ermittlung des Absorptionskoeffizienten (§ 1d Abs. 1 Richtlinie 72/306/EWG) entfällt für Fahrzeuge gemäß § 1d Abs. 1 Z 3, die vor dem Inkrafttreten dieser Verordnung bereits genehmigt worden sind.
+
+(4) Art. I Z 13 (§ 4 Abs. 5a zweiter Satz) gilt nicht für Ersatzräder, die vor dem Inkrafttreten dieser Verordnung in Verkehr gebracht worden sind.
+
+(5) § 8 Abs. 1 Z 2 (Art. I Z 17) gilt nicht für Fahrzeuge, die vor dem 1. Oktober 1995 genehmigt worden sind. Solche Fahrzeuge müssen aber den bisherigen Bestimmungen entsprechen. § 8 Abs. 1 Z 3 (Art. I Z 17) gilt nicht für Fahrzeuge, die vor dem 1. Oktober 1995 genehmigt worden sind. Solche Fahrzeuge dürfen nach dem 1. Oktober 1996 aber nicht mehr erstmals zum Verkehr zugelassen werden. Fahrzeuge, die bereits in einem anderen EU-Mitgliedstaat zugelassen waren, werden wie in Österreich zugelassene Fahrzeuge behandelt.
+
+(6) Typenscheine (§ 21a), die vor Inkrafttreten dieser Verordnung ausgestellt worden sind, bleiben weiter gültig. Typenscheine und deren Datenblätter auf Basis der vor dem Inkrafttreten dieser Verordnung erteilten Genehmigungen können weiterhin nach dem bestehenden Muster ausgestellt werden.
+
+(Anm.: Abs. 7 aufgehoben durch [BGBl. Nr. 746/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_746_0/1995_746_0.pdf>))
+
+(8) Bei der Behörde vorrätige Kennzeichentafeln für Kleinmotorräder, die nicht den Bestimmungen der Anlage 5e entsprechen, dürfen noch aufgebracht und deren Kennzeichen zugewiesen werden. Ausgegebene Kennzeichentafeln für Kleinmotorräder bleiben weiter gültig.

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend die elektronische Übermittlung von Erklärungen gemäß § 4 NeuFöG, mit denen eine Neugründung oder eine Übertragung von Betrieben erklärt wird StF: [BGBl. II Nr. 216/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/216>)
+
+Auf Grund § 4 Abs. 5 des Neugründungs-Förderungsgesetzes, [BGBl. I Nr. 106/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_106_1/1999_106_1.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 180/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/180>), wird im Einvernehmen mit dem Bundesminister für Justiz, dem Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz und dem Bundesminister für Wirtschaft und Arbeit verordnet:

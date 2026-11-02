@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001751",
+  "short_title": "Auslieferung von Verbrechern",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001773",
+    "valid_from": "1921-01-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001751&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:52:04.303612+00:00",
+    "response_sha256": "c2cb3465fdcd3bdabdbb0f65d89e019c4b3adddc0fb83beb44827e087023f973",
+    "snapshot_sha256": "1f446ae53841a3ea40c17210a2c9bb16a9e5cc1cb05e0368c8932ee64ddb56d6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2430cb7d636f734c42d673e77d0873066f066969dc7895140da21be9e7c07fd8",
+      "sha256": "9d5610ad0410c3b588007621dd015b457eea25e5cb93edc26fc057067bb5f6be",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit den Bundesministerien für Äußeres und für Justiz vom 4. Jänner 1921, betreffend die Geltung des Auslieferungsvertrages der ehemaligen österreichisch-ungarischen Monarchie mit Großbritannien vom 3. Dezember 1873 und der dazu gehörigen Additionalerklärung vom 26. Juni 1901 für das Verhältnis zwischen der Republik Österreich und dem Vereinigten Königreiche Großbritannien und Irland. StF: BGBl. Nr. 43/1921"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 43/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=43/1921&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "47a6c9676f7f97bc1e86535888e76d59bf63516c373c05c384def6f552b838de",
+      "sha256": "fe425f993e1df91d039fb43916fb8404396a043598cd5ab684dea1f1043fbf6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

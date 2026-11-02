@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010694",
+  "short_title": "Errichtung einer Notarstelle in Tulln an der Donau",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40215542",
+    "valid_from": "2019-07-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010694&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:01:17.551438+00:00",
+    "response_sha256": "4117331186f22912e742eb859cf3109ec962b861b70d1f8b0571d88184e25226",
+    "snapshot_sha256": "deb8e44c0eb4d47c23bf35e0c755e81d33e775804c79108d35bc4c08b2a02712",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9864286b6e0499b3c9c217dc900b5f0e76044e2cb5b8bfa607c8fe0263ac5e65",
+      "sha256": "65ed4d4799e58501ca1d780de5ee3db7562876f0ed6730977b58950be5b5aa6e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz über die Errichtung einer Notarstelle in Tulln an der Donau StF: BGBl. II Nr. 181/2019"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 181/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/181"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 71/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/71"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40b0481d9244ec077350bea92679c37270a1a2522270bcc76a7607a2419efaa1",
+      "sha256": "58c7a19211d36660fd51aaa9e789d7285635834daa2b38d41352fdda3794d204",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

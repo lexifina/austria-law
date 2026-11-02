@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über den Lehrplan der Polytechnischen Schule und den Lehrplan für das Berufsvorbereitungsjahr StF: [BGBl. II Nr. 236/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_236_2/1997_236_2.pdf>)

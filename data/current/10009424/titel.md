@@ -1,0 +1,3 @@
+Bundesgesetz vom 6. Mai 1976 über die Schaffung einer Medaille für Verdienste um die Vorbereitung und Durchführung der XII. Olympischen Winterspiele Innsbruck 1976 StF: [BGBl. Nr. 255/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_255_0/1976_255_0.pdf>) (NR: GP XIV [RV 121](<https://www.parlament.gv.at/gegenstand/XIV/I/121>) [AB 173](<https://www.parlament.gv.at/gegenstand/XIV/I/173>) [S. 22.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/22>) BR: [AB 1503](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1503>) [S. 351.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/351>))
+
+Der Nationalrat hat beschlossen:

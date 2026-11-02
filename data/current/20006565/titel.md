@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die Berichtspflichten von landesgesundheitsfondsfinanzierten Krankenanstalten zu den Krankenanstalten-Rechnungsabschlüssen (Krankenanstalten-Rechnungsabschluss-Berichtsverordnung – KRBV) StF: [BGBl. II Nr. 405/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/405>)
+
+Auf Grund des § 7 Abs. 4 des Bundesgesetzes über die Dokumentation im Gesundheitswesen, [BGBl. Nr. 745/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_745_0/1996_745_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 179/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/179>), wird verordnet:

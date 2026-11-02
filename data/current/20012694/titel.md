@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die von Betreibern öffentlich zugänglicher Ladepunkte verpflichtend einzumeldenden statischen und dynamischen Daten (Ladepunkt-Daten-VO) StF: [BGBl. II Nr. 257/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/257>)
+
+Auf Grund des § 4a Abs. 3 des Bundesgesetzes zur Festlegung einheitlicher Standards beim Infrastrukturaufbau für alternative Kraftstoffe, [BGBl. I Nr. 38/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/38>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 150/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150>), wird verordnet:

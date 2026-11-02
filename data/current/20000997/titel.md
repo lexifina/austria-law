@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Madrider Abkommens über die internationale Registrierung von Marken StF: [BGBl. III Nr. 194/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_194_3/2000_194_3.pdf>)

@@ -1,0 +1,1 @@
+Notenwechsel zur Änderung des MEMORANDUM OF UNDERSTANDING zwischen der Regierung der Republik Österreich und der Regierung des Königreiches Thailand über den Export bestimmter Textilerzeugnisse aus Thailand nach Österreich StF: [BGBl. Nr. 603/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_603_0/1993_603_0.pdf>)

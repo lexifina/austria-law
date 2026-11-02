@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Begrenzung von wässrigen Emissionen aus Aquakulturanlagen (AEV Aquakultur) StF: [BGBl. II Nr. 397/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/397>) \[Celex-Nr. [31976L0464](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0464:DE:HTML>)\]
+
+Auf Grund der §§ 33b Abs. 3, 4, 5 und 7 sowie 33c Abs. 1 des Wasserrechtsgesetzes 1959 – WRG 1959, BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 82/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_82_1/2003_82_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit verordnet:

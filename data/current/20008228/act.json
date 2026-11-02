@@ -1,0 +1,3396 @@
+{
+  "sample_only": false,
+  "included_provisions": 81,
+  "source_provision_count": 81,
+  "schema_version": 1,
+  "gesetzesnummer": "20008228",
+  "short_title": "Personenstandsgesetz 2013",
+  "abbreviation": "PStG 2013",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40202678",
+    "valid_from": "2018-05-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008228&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:13:03.993274+00:00",
+    "response_sha256": "9c0055386810fb4625187f7ef61a80cec08069c302f04669e55ec7bb029fc86a",
+    "snapshot_sha256": "df361eb4d253f2535dbb8d281f3ecef203113c8077e43831dde0533b698cb5f9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c151b8bb20c30886a0ddfd15d35a1268e6ccc6ac641c131a1a3eb6862e96896a",
+      "sha256": "c7e35f071fa5c5b52bda5e70dde03eca5a1bd329365c51ea07010165d4b8784a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Regelung des Personenstandswesens (Personenstandsgesetz 2013 – PStG 2013) StF: BGBl. I Nr. 16/2013 (NR: GP XXIV RV 1907 AB 2042 S. 184. BR: 8825 AB 8839 S. 816.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 161/2013 (NR: GP XXIV RV 2211 AB 2547 S. 215. BR: 9046 AB 9058 S. 823.) BGBl. I Nr. 40/2014 (NR: GP XXV RV 53 AB 130 S. 25. BR: 9183 AB 9184 S. 830.) [CELEX-Nr.: 32008L0008] BGBl. I Nr. 80/2014 (NR: GP XXV IA 612/A AB 274 S. 44. BR: AB 9244 S. 834.) BGBl. I Nr. 120/2016 (NR: GP XXV RV 1345 AB 1388 S. 157. BR: 9714 S. 863.) BGBl. I Nr. 32/2018 (NR: GP XXVI RV 65 AB 97 S. 21. BR: 9947 AB 9956 S. 879.) [CELEX-Nr.: 32016L0680] BGBl. I Nr. 56/2018 (NR: GP XXVI RV 189 AB 207 S. 36. BR: 9998 AB 10020 S. 883.) [CELEX-Nr. 32016L0801] BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888.) BGBl. I Nr. 104/2018 (NR: GP XXVI RV 381 AB 396 S. 55. BR: AB 10112 S. 887.) BGBl. I Nr. 160/2023 (NR: GP XXVII RV 2202 AB 2288 S. 241. BR: 11356 AB 11354 S. 960.) BGBl. I Nr. 181/2023 (NR: GP XXVII AB 2354 S. 247. BR: AB 11399 S. 961.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 16/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/16"
+        },
+        {
+          "text": "AB 2042",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2042"
+        },
+        {
+          "text": "8825",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8825"
+        },
+        {
+          "text": "AB 8839",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8839"
+        },
+        {
+          "text": "816",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/816"
+        },
+        {
+          "text": "BGBl. I Nr. 161/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/161"
+        },
+        {
+          "text": "RV 2211",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2211"
+        },
+        {
+          "text": "AB 2547",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2547"
+        },
+        {
+          "text": "S. 215.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/215"
+        },
+        {
+          "text": "9046",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9046"
+        },
+        {
+          "text": "AB 9058",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9058"
+        },
+        {
+          "text": "S. 823.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/823"
+        },
+        {
+          "text": "BGBl. I Nr. 40/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/40"
+        },
+        {
+          "text": "RV 53",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/53"
+        },
+        {
+          "text": "AB 130",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/130"
+        },
+        {
+          "text": "S. 25.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/25"
+        },
+        {
+          "text": "9183",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9183"
+        },
+        {
+          "text": "AB 9184",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9184"
+        },
+        {
+          "text": "S. 830.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/830"
+        },
+        {
+          "text": "32008L0008",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0008:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 80/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/80"
+        },
+        {
+          "text": "IA 612/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/A/612"
+        },
+        {
+          "text": "AB 274",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/274"
+        },
+        {
+          "text": "S. 44.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/44"
+        },
+        {
+          "text": "AB 9244",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9244"
+        },
+        {
+          "text": "S. 834.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/834"
+        },
+        {
+          "text": "BGBl. I Nr. 120/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120"
+        },
+        {
+          "text": "RV 1345",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1345"
+        },
+        {
+          "text": "AB 1388",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1388"
+        },
+        {
+          "text": "S. 157.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/157"
+        },
+        {
+          "text": "9714",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9714"
+        },
+        {
+          "text": "S. 863.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/863"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        },
+        {
+          "text": "RV 65",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/65"
+        },
+        {
+          "text": "AB 97",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/97"
+        },
+        {
+          "text": "S. 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/21"
+        },
+        {
+          "text": "9947",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9947"
+        },
+        {
+          "text": "AB 9956",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9956"
+        },
+        {
+          "text": "S. 879.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/879"
+        },
+        {
+          "text": "32016L0680",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0680:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 56/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/56"
+        },
+        {
+          "text": "RV 189",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/189"
+        },
+        {
+          "text": "AB 207",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/207"
+        },
+        {
+          "text": "S. 36.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/36"
+        },
+        {
+          "text": "9998",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9998"
+        },
+        {
+          "text": "AB 10020",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10020"
+        },
+        {
+          "text": "S. 883.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/883"
+        },
+        {
+          "text": "32016L0801",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0801:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "RV 329",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/329"
+        },
+        {
+          "text": "AB 413",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/413"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/57"
+        },
+        {
+          "text": "10079",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10079"
+        },
+        {
+          "text": "AB 10082",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10082"
+        },
+        {
+          "text": "S. 888.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/888"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/104"
+        },
+        {
+          "text": "RV 381",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/381"
+        },
+        {
+          "text": "AB 396",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/396"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/55"
+        },
+        {
+          "text": "AB 10112",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10112"
+        },
+        {
+          "text": "S. 887.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/887"
+        },
+        {
+          "text": "BGBl. I Nr. 160/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/160"
+        },
+        {
+          "text": "RV 2202",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2202"
+        },
+        {
+          "text": "AB 2288",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2288"
+        },
+        {
+          "text": "S. 241.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/241"
+        },
+        {
+          "text": "11356",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11356"
+        },
+        {
+          "text": "AB 11354",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11354"
+        },
+        {
+          "text": "S. 960.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/960"
+        },
+        {
+          "text": "BGBl. I Nr. 181/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/181"
+        },
+        {
+          "text": "AB 2354",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2354"
+        },
+        {
+          "text": "S. 247.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/247"
+        },
+        {
+          "text": "AB 11399",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11399"
+        },
+        {
+          "text": "S. 961.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/961"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. HAUPTSTÜCK ALLGEMEINER TEIL",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Allgemeines",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenstand und Personenstandsfall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenstandsdaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Personenstandsbehörde und Aufgaben der Behörde",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behörden und Aufgaben der Behörden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtszug",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Standesamtsverbände",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auflösung und Umbildung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Mitwirkungspflichten von ordentlichen Gerichten und sonstigen Behörden",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ordentliche Gerichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Mitteilungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. HAUPTSTÜCK PERSONENSTANDSFALL",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Geburt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzeige der Geburt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eintragung der Geburt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Eintragung – Geburt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anmeldung durch die Personenstandsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vornamensgebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Eheschließung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermittlung der Ehefähigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erklärungen und Nachweise – Ehe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mündliche Verhandlung – Ehe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ehefähigkeitszeugnis",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Trauung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Örtliche Zuständigkeit – Ehe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Eintragung – Ehe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Eingetragene Partnerschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermittlung der Fähigkeit, eine eingetragene Partnerschaft zu begründen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erklärungen und Nachweise – Eingetragene Partnerschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mündliche Verhandlung – Eingetragene Partnerschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestätigung der Fähigkeit, eine eingetragene Partnerschaft zu begründen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begründung der eingetragenen Partnerschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Örtliche Zuständigkeit – Eingetragene Partnerschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Eintragung – Eingetragene Partnerschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Todesfall und Todeserklärungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzeige des Todes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eintragung des Todes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Eintragung – Tod",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abmeldung durch die Personenstandsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Eintragung bei Totgeburten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Todeserklärung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personen ungeklärter Herkunft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. HAUPTSTÜCK EINTRAGUNG DES PERSONENSTANDSFALLES UND PERSONENSTANDSREGISTER",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Eintragung des Personenstandsfalles",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflicht zur Eintragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundlage der Eintragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nähere Angaben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Namen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahrenshinweise",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abschluss der Eintragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderung und Ergänzung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichtigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Personenstandsregister",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zentrales Personenstandsregister (ZPR)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lokales Personenstandsregister (LPR)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. HAUPTSTÜCK VERARBEITUNG DER PERSONENSTANDSDATEN, PERSONENSTANDSURKUNDEN UND BESTÄTIGUNGEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Verarbeitung der personenbezogenen Daten des ZPR",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ZPR Abfrage",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übermittlung im Wege des ZPR",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übermittlungen an ordentliche Gerichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderungsdienst",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Statistische Erhebungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Auskunft, Personenstandsurkunden und Beauskunftungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenstandsurkunde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geburtsurkunde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Heiratsurkunde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Partnerschaftsurkunde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 57.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Urkunden über Todesfälle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 57a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Urkunden über Fehlgeburten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 58.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Auszüge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. HAUPTSTÜCK AUFBEWAHRUNG, NACHERFASSUNG, ALTMATRIKEN, SONSTIGE BESTIMMUNGEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 59.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufbewahrung der Akten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Nacherfassung und Aufbewahrung der Bücher",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 60.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufbewahrung der Bücher",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 61.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufbau des ZPR",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Altmatriken",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 62.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufbewahrung und Fortführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 63.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausstellung von Urkunden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Sonstige Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 64.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtsauskunft des Landeshauptmannes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 65.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anerkennung ausländischer Entscheidungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 66.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Namensfestsetzung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 67.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befugnis zur Beurkundung und Beglaubigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 68.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entgegennahme und Eintragung von Erklärungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 69.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Echtheit von Unterschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 70.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprache und Schrift",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. HAUPTSTÜCK STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 71.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Übergangs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 72.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttretens- und Übergangsbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 73.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitteilungsverpflichtungen der ordentlichen Gerichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 74.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Namensgebrauch",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 75.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wiederannahme des Geschlechtsnamens",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 76.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzeigepflichten und zwischenstaatliche Übereinkommen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 77.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 78.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 79.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. HAUPTSTÜCK ALLGEMEINER TEIL",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "221aee1d48ad341abf98fefcd1ba69e2152a3f70ef517e0f25c1f22b9c19e018",
+      "sha256": "c9db5ac31515d3bf6b591c005a0cc206b9aa1f9ead76fba71166f9c1f2c07b87",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Personenstandsdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d3bbe70e6cdfd706bcd93dab36a92590c1887cee27b3d1db7f89c07e6d60bf4",
+      "sha256": "86896d776503b3cdb0e499e092d3cd6d1bd65039e0f58782b1f23cbd87261790",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Personenstandsbehörde und Aufgaben der Behörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "71b4606fdd684b47ebc87958ee2bd3d7badee2711bfff5cf4917e0c9838196cb",
+      "sha256": "8326d905a23a4f8637aa26a25250befcb6e4ececdaa6c4a26db9b4d2d6f74437",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 120/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Rechtszug",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "778beb5a13fd22c41d3a1f828e9a1baa91f7f74f65830dc5a59919a4761dd5a1",
+      "sha256": "b17aee6b96b777e419e37beee4ddb20c41dbfc8bb822600e923cbc8e287dd8b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Standesamtsverbände",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "15e13779e5bd7beb058c2a60898767909f8911e98a1b8052602bd740572cbb58",
+      "sha256": "1f135b33ad00955d24ef16e83b34474f89960e1c9e8e169a4814de8c080c6f4f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Auflösung und Umbildung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1463451e11c1b9eada669e8a939119397a57280a458660015654f0d72e0a0614",
+      "sha256": "c84c7bec889ce137484bdbe0c03c62162a3101c6eff2ccb6e07a81383a6134bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "3. Abschnitt Mitwirkungspflichten von ordentlichen Gerichten und sonstigen Behörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "542dd9ac1ad3e1b41a02779374e4ec932687a43f68e8ff018b05467c762f3d0f",
+      "sha256": "9c036a52c254accd65f6820a799f0527050ab7714070877199c4aec1583f45bb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 264/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_264_0/1951_264_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Sonstige Mitteilungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2a990e130f4b71ad6a274581cfea68d2d8d9b597088dd0d659091c655400354",
+      "sha256": "d1759847a237a7ee889aee32cfa54e18a39d04d4f372f2679ab3f634d147f3f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "2. HAUPTSTÜCK PERSONENSTANDSFALL",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37bcd68b464c98c484db68991590098b9fbde0f5ceaf175e4c008a0ff889b893",
+      "sha256": "63cc1be5852f95370ea55a8e5deed32b4b170c53aa34e53b6215d7fbef9cafe4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 310/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_310_0/1994_310_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Eintragung der Geburt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ca1540716445d37c0af14973595b23bec369ae1eee48acd32ae460845c9227d",
+      "sha256": "14ce225d994d31c80624721bdfa92bf7596169fe1224d6dc7220758a184ae1cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Inhalt der Eintragung – Geburt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c47f045e8b42ab5cd546eef668dda0a6c623022c652977665f57a0f2c7fe662e",
+      "sha256": "9e7b492c63eb5bb08735cba091d01580078052a90b18d24a56141e727cc33a6c",
+      "notes": [],
+      "links": [
+        {
+          "text": "JGS Nr. 946/1811",
+          "url": "https://alex.onb.ac.at/cgi-content/alex?aid=jgs&datum=10120003&seite=00000275"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Anmeldung durch die Personenstandsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f6aaef59ae4159e7684dac05fbe08e9ae690b45f21b63e4e00257ca7b0b323b",
+      "sha256": "c5c5f1121b73c18e0639e094943191b2e434482918e087c9a453c998c8c78893",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 9/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_9_0/1992_9_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Vornamensgebung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cc40212a8bc62c44cff11880ce46411feba2fd07df5805158d75496aece2381",
+      "sha256": "efcc5c9a299543545462d6b82dea4a60f94740c09779405ca32c77bde9beecff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "2. Abschnitt Eheschließung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc4c0f01e7b951722e52a661fa9a5276234623062a3f0dff687ba3234469b029",
+      "sha256": "4e50fd24829deabc5e1072fd4c48c3899b393c87769e5896a062c0c0beb8f4e6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Erklärungen und Nachweise – Ehe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35ba8437d7f6ef672b3500bd337d6e3126fd279e1c816524b70f7c5e07cdcf61",
+      "sha256": "ece4fd83700e59f5ce6524dfdcb8b9d93def64c5415f537afde9de0486afac38",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Mündliche Verhandlung – Ehe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d34a978f95dd738b7231bb801988924fdc4d5e094bf72a69732ac4dcd0583749",
+      "sha256": "38b671831664385311a7ffaafb47a6d95aa007244736478ff4b0b92591b88a01",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Ehefähigkeitszeugnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1cf211f7c094bca637c6d9bd5ecf6c90d892a9d35aa3aab31512b66eabe1574",
+      "sha256": "345f4a995735977733c39cc53f5e4be4daf3f840c801b1d868dc7db490818766",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Trauung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "efb8cd76f57ec394541caae410b87c51dad432612fe5c1daee426a67b796ec9d",
+      "sha256": "89d83e38fee6a8ef6a1e988a0447957b5e45a8e475d803fbd8762d0d8b0e46c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Örtliche Zuständigkeit – Ehe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "728b162bb9fc36a5b1ebebfc7e861e2b1d52f3d04232dc1e7ea78bf2bb923dd5",
+      "sha256": "4a428a2eb6f7350623e86b6187507ec706cea498f085f865286ae6734233de35",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Inhalt der Eintragung – Ehe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77f26e6d7867df5dac2407a54d2103c0f15c44d290c560163830409f0018cc1f",
+      "sha256": "4f475512a377d0f1a1ae6bf16b3d9032cf4c997cb19f91decb2350d73793a85b",
+      "notes": [],
+      "links": [
+        {
+          "text": "dRGBl. I S 807/1938",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19380004&seite=00000807"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "3. Abschnitt Eingetragene Partnerschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "848a1e4c66f4915cef476039b02ef37637807f87faf3d37bd2953fd49299a6bb",
+      "sha256": "149c6d91c4484f612698ae4a1a453d042f9346c26e13a349cc99c94f4c7737cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Erklärungen und Nachweise – Eingetragene Partnerschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5f89ebd2f227faf3f6ab5571261881f4bd68048ce915c2ce16312323568457e",
+      "sha256": "47d44f941ed320ad95a8567213b0c64ec3b8c55d345f7ab801f335e5e0ceb753",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Mündliche Verhandlung – Eingetragene Partnerschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "74a6dd1a775a582ca23bbb96face8cb81676ca14154554b3755417cb557683c6",
+      "sha256": "63b8bbe7d844a8367248d69e4f62668bef7e979a8888773a4c2cfe773fdc39b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Bestätigung der Fähigkeit, eine eingetragene Partnerschaft zu begründen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cbb438a32ca4cacd92270f8619e92adef6bdc98c94f9066f051fb838e30e6996",
+      "sha256": "e0d9a95aa67adb3f30e08de2db9c7b1866cf459a4cfd7b630f1eb0c8e7ea51d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Begründung der eingetragenen Partnerschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49a3d8901d771f7bc419dff5526fb33ef6b7aecdd8a3913946b546da0f764902",
+      "sha256": "85a2ae90659482c77eebba13726e01628611ce4227e19a42b3552cb4698a20a1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Örtliche Zuständigkeit – Eingetragene Partnerschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "118d32c964666063f0dfd9329b2be8463ff4c2df7355c205de91a4743612623f",
+      "sha256": "67d0a6a69892af6eb7c35e780032eb5b9764886a960bbda66fe0404774650e60",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Inhalt der Eintragung – Eingetragene Partnerschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd16ed58ca83f894fdacb244ad3b05af58d22ee550d8dc852661c544f28069cc",
+      "sha256": "2140f3581e44a79984f50adf5524b1f8a438dc39ab10e5829ec8ce774e59ad9d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "4. Abschnitt Todesfall und Todeserklärungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88df0db4383909366e3b75d1cb9a8827a56325769de97f4dc65e178f66bcfcde",
+      "sha256": "6a70684d9f9df8eb3d42c3a61869ebcdee491aacba17b408e5d9724a41cf91f4",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Inkrafttreten vgl. § 72 Abs. 12 iVm BGBl. II Nr. 340/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 340/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/340"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Eintragung des Todes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f4cbf1e41c48fa92dd44cafa004ff4bf19eb656e81cdc7c4a580c239f36bf32",
+      "sha256": "51acb01f861ae64e3a9f6e3b6bc12c9f479641e67e440bae2d51ba28299a3f53",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Inhalt der Eintragung – Tod",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54f83e5d9b50dbf1281e03d6419a7666e468d8547a0570195edbe4aeca01a75b",
+      "sha256": "219ae5deb9f37c2f97fd4fd676ddf5a512f78cdbd7cf3ee94061b4fa2407cc19",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Abmeldung durch die Personenstandsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "863a550392f98c52f0ee1da02775c9ce1fdf43f7a455a71b1895be4a7bce8076",
+      "sha256": "095249b0f7ac4be6136b60cb68cf4c7af262aefb3f31160d3d106d1d4023e5bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Inhalt der Eintragung bei Totgeburten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a80b6763ce175d290b180c3b99611c1d0b658146d5bdde64aa1e509d555b66a4",
+      "sha256": "6115d5457f8c5a07efdcc15bbcd913170a7f3d86ca85a18dabc368cb7df28ff1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Todeserklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a5684e3602c300cc5890b427b2962e3edd38ff7b0d5a3e2f6c9bf9db665b72f0",
+      "sha256": "6feafdb94aad2aa6a5f6a0cdf332ad9581f770ee3733a30adb25cc58af33f927",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "5. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "345ddf0e9e7162ef0122555928499ff5217e9e6e703fe77267297f1835e6c2bf",
+      "sha256": "c7f5cec72e3debbce0af4fcffe29f8387e1e019e54d4d2ba4c4d7f8fb3c43276",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "3. HAUPTSTÜCK EINTRAGUNG DES PERSONENSTANDSFALLES UND PERSONENSTANDSREGISTER",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "212497c4ac25e87a538933886104571996b39863af5631ad3e56f25efb13d2fa",
+      "sha256": "8250bf374f97e9d8c2a7ea384fca5158a409b4c7edb5421275d1ed43399ae930",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 55/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_55_0/1955_55_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 78/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_78_0/1974_78_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Grundlage der Eintragung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5451ed7ffad65d3e9d684205ae5687012e4d97b7ce4e0b00730f5aa2d93e7f1d",
+      "sha256": "e3a5e61c4152d7a9d51008776cc72943bd7bab233ac254ac364d5fa5adfab6c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Nähere Angaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "391a7f8a6962326b815eef3d40c689c170bfeaf55731c97460738cddc5510db4",
+      "sha256": "e0ae7d341fabb7164056fcce3dabd81d3d46a19aa8111d329f40e9ad5c2bbc61",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Namen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ace82e198f99672d95053884290bf3039365c397e06680809eec54bc15a4886f",
+      "sha256": "2493083368588aa264bcc65f6811da5367d70b7dd30604fbfbded213cbf88eb2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Verfahrenshinweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "844159d58abcf3773a65561d6662272046002f9b4f4e9a233061ac8c26f72583",
+      "sha256": "eaa99e7c2e126cd69a79de6991814bf785f23908f26a02b949af0fa521966d9c",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1895",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1895&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Abschluss der Eintragung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "afd2e3f38105142dc80c2f8cc0973dc3eddb644441b81bde50c638aacbe2b07c",
+      "sha256": "15f2f511f74fb147d4545091f69b70e075721ec5072c77eb350ab3b6e80742bd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Änderung und Ergänzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a1784e36dc2f3974755f49dd2a5ca18e79d099e4dd25e1e7f40c0f576c2e30e",
+      "sha256": "c3bfd223af4eeb3f73d4b30a19ad029ce93a5f75a993947c5d3830f9a6d9aab8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Berichtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "353e347ae245df5a8286a4fb595f9e0f6c3cec5db363d7f8a9ba636850d3e6bd",
+      "sha256": "cb6fe430877e404d93a67f06a6cd293159f20f0d952df8cd81ac38a57a644eac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "2. Abschnitt Personenstandsregister",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd37fd04b63cd37da7ed944fdfe2c19e2c31ad63ba26929d137e7d782d2bd3f9",
+      "sha256": "3f6055f238c2cc47c819d0e8dfdf1785c52662682d5be23dac38b71813bd2a10",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Zentrales Personenstandsregister (ZPR)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57ddbb1a7a71ac0e9ed28e695d03e1cdb1dc7111aac6fd7820fcd94488496be8",
+      "sha256": "bf0690d01377df794ad6374e5ea459c29d9a1320a75349ca4ac0da39caed0f00",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Lokales Personenstandsregister (LPR)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b8001ec6c3c659b8fb29872eb5b32184baee05d3af32517c3147840fdcd4b02a",
+      "sha256": "354c9b2c54ebf72dbb8299113b235f6ce8088a8afa986f1c05d3a41299ffab62",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 49/1868",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=49/1868&SkipToDocumentPage=True"
+        },
+        {
+          "text": "dRGBl. I S 384/1939",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19390004&seite=00000384"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "4. HAUPTSTÜCK VERARBEITUNG DER PERSONENSTANDSDATEN, PERSONENSTANDSURKUNDEN UND BESTÄTIGUNGEN",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b16a535f4a1e8b4e51f0ac17cd5406b8a2a948cabc7913782a75523ab01f0898",
+      "sha256": "5d3125e1d47307acc2362bfc54bd2a4a845d04664e6a1c1151568f928b19ea07",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "ZPR Abfrage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5e479455d4bc1c42caa952b46529b3d58a49b3e33c73c151433851b4c7b6e28",
+      "sha256": "43c99f052c5939e73b0fa87b7f63ab938ca4fabbd4c9515430cc024b9378fc01",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 343/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_343_0/1970_343_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Übermittlung im Wege des ZPR",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90a6af46b04e07b404e4b7f4b1b96789523e1e01f3b4f49c0c354577f7c68287",
+      "sha256": "eec4f024723651885b821cc975a463119e1f7062dca0ea902011942cfac95500",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 218/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 566/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 277/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_277_0/1968_277_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Übermittlungen an ordentliche Gerichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d672ad79f762fc82de450ad22fd4e8ea285f9e891ac56a02b7f28ba0f93631a",
+      "sha256": "34ecbb82b6eea6cdfdd6a50aa9abd84b8a3ec35da55389c1baafeb54f68c9a16",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Änderungsdienst",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c3cfa5cb7ba0b60dbca528327817133e3ef2333b4b72dfada33faa1988c74ac",
+      "sha256": "94328f2d88ca5bf04c30daf0e12e7786c84ec90ff59e5b4a1dad3d6324cf10b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Statistische Erhebungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df6d5737056b119919e04cdc2e089b696d8cef4591c0310d31b68a02aa4e8450",
+      "sha256": "efbc1ea6a1a09343714c8a46a0ef90af301f2ec98c5621dcd03739bc1881765d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 20/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/20"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "2. Abschnitt Auskunft, Personenstandsurkunden und Beauskunftungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6b8896ffde121678a92d073952f1ea00f85489333b4e223db049061b8d3b8faa",
+      "sha256": "a6bcdf70555bb9476b4dcfbfdc1caf81323879ae2e317ab1e82feee7e7ca222e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_111_1/2003_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Personenstandsurkunde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6a09bbd2225bbc08234471d3d70211936837c39799b3b2bdc5ce3f62eaa44b6",
+      "sha256": "85a3490dc0cf7cf5b4ca793a4514af959b7d73a043c67886a6a802f4f962937b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "Geburtsurkunde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "325a7f9e95533b70d7c78ede63c56fd499182289833df46eadffe792d7e5745b",
+      "sha256": "12bb4a36cb5b1a706225f6d5c617751c27ff34aae2d777035aae4c444e616947",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "Heiratsurkunde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5ad2eeb7dc2a4ccc24697255e237f3d0cf1e3277672980178e72e0d7065674ff",
+      "sha256": "cb134845b2f532f24494db20ae36916376ad087085a8de61f4f2267aaa8f79fe",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 120/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "Partnerschaftsurkunde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62c09563c86bace365945cbedc82b2dfb6d6b131207efb20b3d7ebfa0e75b877",
+      "sha256": "577d9fd8618e49c5b74a8f74ea99b0344c7d14323f85f2cf7c355e3ee6001b11",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "Urkunden über Todesfälle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11759cfb65f762506b20a91c5eb00ced743aaeb84324edf82655a66f4785aa7d",
+      "sha256": "8b414a86a810af4b6153565460a376f7f166524bee6eac2f64f178b08984d0d3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57a",
+      "source_heading": "Urkunden über Fehlgeburten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "par-0057a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "16b7ba936898c13073bc06f889a2340e79ad9450f5da6a840d3a1275ed5728a8",
+      "sha256": "5032887ba3f9ad7ffefc5768f801c2e9d4cf4d1f6c09f76a5379c163f1f925d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "Sonstige Auszüge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ab80955bd1a6d15c331e10962fb80977c1118a582ba4ddeb3061e0bac541c2f",
+      "sha256": "41b95387f3456d74e5cbcfc41dad4ec361520154fee1fcbae3e6e74a2fe1d1e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "5. HAUPTSTÜCK AUFBEWAHRUNG, NACHERFASSUNG, ALTMATRIKEN, SONSTIGE BESTIMMUNGEN",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e51da9728ec05f9da9d076d6da3235acce382c84164aa8671f9f7c0eabaf5863",
+      "sha256": "84d83c7212a5a0eec0b55e5ed97942822d15bb0fa8bfec02fd88fc3c37782a64",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 60",
+      "source_heading": "2. Abschnitt Nacherfassung und Aufbewahrung der Bücher",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "par-0060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02f4dfe3756889d39305dbf66da5e6756de8c7ec67b0b65c7908cb0f050c6541",
+      "sha256": "6a72066643766f45a4241a2b3eb17099ac287350172c70769144407fc328a5d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 61",
+      "source_heading": "Aufbau des ZPR",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "par-0061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c1c1208588526a714a575f525e5e10d0fe378f69b5bb07c43b7e9980a948c4c3",
+      "sha256": "68db0a0ef051245e2b9e8762de89c44a5b54380452c90b1a18d31569b3abb3ca",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_60_0/1983_60_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/135"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 62",
+      "source_heading": "3. Abschnitt Altmatriken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "par-0062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "618574610d5ef1599c938e4a0d353da6ff529cacef02ad54de78d06e474f7cd8",
+      "sha256": "692149a09caa186b76b3a85cbf9031224b3ddad3324a05b2d9fc5e45594f123b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 63",
+      "source_heading": "Ausstellung von Urkunden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 64,
+        "stable_identity": false
+      },
+      "file": "par-0063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9badcb331ed930cb499e1f82ab734bcbe344e942d32898b0336080a823cf813",
+      "sha256": "4d2250bd47ba119d265fdc6db2b4ad866e6698361689f033891af25114be54f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 64",
+      "source_heading": "4. Abschnitt Sonstige Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 65,
+        "stable_identity": false
+      },
+      "file": "par-0064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "efdf5269f19d1b447f96bfc6b16c51a10c1fc6054dc0ee6a618ff97e8d2bde6c",
+      "sha256": "bd52125d57d2f7e195725f7b7c9e4e746f561cf7e90e0e7c91d0f61b67f79a2b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 65",
+      "source_heading": "Anerkennung ausländischer Entscheidungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 66,
+        "stable_identity": false
+      },
+      "file": "par-0065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "544bc0fe58c55419911b8f732ba83bc522852c83577e650e26415268f2993763",
+      "sha256": "9af13990d256d5e0345a456977280718302bb36337dbb2d062cdae99b2bab065",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 66",
+      "source_heading": "Namensfestsetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 67,
+        "stable_identity": false
+      },
+      "file": "par-0066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fdaad9689d9e7e1976b3a9358eacf4a02feef10a305f54a19cb3905b3fabb8af",
+      "sha256": "f53b368d6f01e99febb69ee5b4632b1e7d14808d3bee14433650b44a4e7c11cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 67",
+      "source_heading": "Befugnis zur Beurkundung und Beglaubigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 68,
+        "stable_identity": false
+      },
+      "file": "par-0067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb82877fca674a5c6aa70a1678ef54c62faf17729beb710f1074353781d37344",
+      "sha256": "6f627ac82faa4d6f3dd4f08c160e3505da8c21fe8ea868006fab6d48fe8cd51e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 120/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120"
+        },
+        {
+          "text": "BGBl. I Nr. 56/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/56"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 68",
+      "source_heading": "Entgegennahme und Eintragung von Erklärungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 69,
+        "stable_identity": false
+      },
+      "file": "par-0068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "afd9d4cadbc6a19f50f03f1fd6b541236e4e6557b5774164caab6d4682dccfbe",
+      "sha256": "01ed5af93697edbd99969c9df6b938e24cc29bcccb7a873ebaefde890c4adce1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 120/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 69",
+      "source_heading": "Echtheit von Unterschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 70,
+        "stable_identity": false
+      },
+      "file": "par-0069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "121fc8b54786650559978b4515b0d49925e4384e5ab97db32765c1d1921fd653",
+      "sha256": "29ce2b4b8118f08a45db574bcc35c93bc5681af8387c2a07bdf79f9be04b336e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 70",
+      "source_heading": "Sprache und Schrift",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 71,
+        "stable_identity": false
+      },
+      "file": "par-0070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a3efcb7dd1001a96825c11cf8e0a00500307123060d44299a3b78fa221f59b1",
+      "sha256": "083e593e9325d22ba96b9c15a5665ca25f0f32fe8b740884b3d38c4fd9f873da",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 396/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_396_0/1976_396_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 71",
+      "source_heading": "6. HAUPTSTÜCK STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 72,
+        "stable_identity": false
+      },
+      "file": "par-0071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f7e5f0716c30ab23bba9e36603d4d440c24401f606893cf6c6c67d09018b292",
+      "sha256": "d257ab67f12298e3cf66446bad32839d2409e92fa521e97fa78563bba2670a77",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72",
+      "source_heading": "2. Abschnitt Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 73,
+        "stable_identity": false
+      },
+      "file": "par-0072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d41188fa5bacdd928710773e3ba06db8bf82c9cb45c31a6d2069921a7f298ede",
+      "sha256": "0fc59762d9f04ce0748ae0f4c4bd6eb5b47ab9b8f9c3ce530229be8efee210db",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_60_0/1983_60_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 60/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_60_0/1983_60_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/135"
+        },
+        {
+          "text": "BGBl. Nr. 60/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_60_0/1983_60_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 161/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/161"
+        },
+        {
+          "text": "BGBl. I Nr. 161/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/161"
+        },
+        {
+          "text": "BGBl. I Nr. 161/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/161"
+        },
+        {
+          "text": "BGBl. I Nr. 16/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/16"
+        },
+        {
+          "text": "BGBl. I Nr. 120/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        },
+        {
+          "text": "BGBl. I Nr. 56/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/56"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/104"
+        },
+        {
+          "text": "BGBl. I Nr. 160/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/160"
+        },
+        {
+          "text": "BGBl. I Nr. 160/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/160"
+        },
+        {
+          "text": "BGBl. I Nr. 160/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/160"
+        },
+        {
+          "text": "BGBl. I Nr. 181/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/181"
+        },
+        {
+          "text": "BGBl. II Nr. 340/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/340"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 73",
+      "source_heading": "Mitteilungsverpflichtungen der ordentlichen Gerichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 74,
+        "stable_identity": false
+      },
+      "file": "par-0073.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66f5807bc57c102c22ecdd411aa791a00fee4cda5ae887b20289b1ca90f7b4f5",
+      "sha256": "1883bf47f6e5bc8d565248d12099161b83fe57d2c3020c3fee3ec2f3be436412",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 74",
+      "source_heading": "Namensgebrauch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 75,
+        "stable_identity": false
+      },
+      "file": "par-0074.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "735405dfee65c73b988421a8cf164bbb5337e92c207cfe605b018f06f3b08393",
+      "sha256": "50136a233dcfae33fa5f0ddaa9af0dc1ebeb0dbda1c67d542c23d857ab2e908f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 75",
+      "source_heading": "Wiederannahme des Geschlechtsnamens",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 76,
+        "stable_identity": false
+      },
+      "file": "par-0075.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "390d5a48a3a2b2e6d6d7bf5b37b30019eb47e1f96b5fa294f6b03c61d12d641c",
+      "sha256": "6662cd5bdb0059c604ffc7e440f30e21d55e8b89c79c1ccb72beffad82a10312",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 76",
+      "source_heading": "Anzeigepflichten und zwischenstaatliche Übereinkommen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 77,
+        "stable_identity": false
+      },
+      "file": "par-0076.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31e3d21839a311f45d9fd233343606683e339fc5c83cdfc30dfac0a0004e0dd8",
+      "sha256": "11b40375fa5c62a0097bcc03121abe5b961f295f6478876880765c8f446d07be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 77",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 78,
+        "stable_identity": false
+      },
+      "file": "par-0077.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa8bff5d17878e74629fa520c35d05aa3e363eef56cb29e7ff128b1e7911a28a",
+      "sha256": "9aace6ce0170f405990da629ce5aeca3349c2a36cc60554c3524659289eef111",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 78",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 79,
+        "stable_identity": false
+      },
+      "file": "par-0078.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27f3e6b2657d0d86dfcf5ad132980a92e4bf7d2af948baf0d7d7119757d0a14c",
+      "sha256": "3907c19651605962719b909c262389ee9b182d278f9da40804230ce4d99d17a1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_60_0/1983_60_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 79",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 80,
+        "stable_identity": false
+      },
+      "file": "par-0079.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9cac189fa1db6aa9d1db7eaee07a7d58b60b648436470761c9196e646b769098",
+      "sha256": "ad05d9065af41811e589f06ae31a8c2a13bad1de207d966ad58df4498e63e512",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

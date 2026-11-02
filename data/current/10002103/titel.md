@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. Juni 1967, betreffend die Ausdehnung des Geltungsbereiches der Berner Übereinkunft zum Schutze von Werken der Literatur und der Kunst vom 9. September 1886 StF: [BGBl. Nr. 232/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_232_0/1967_232_0.pdf>)

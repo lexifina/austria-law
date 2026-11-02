@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen hinsichtlich der Festlegung einer kostendeckenden Jahresgebühr für die Überwachung von Tabakerzeugnissen und verwandten Erzeugnissen und von kostendeckenden Gebühren für die Zulassung neuartiger Tabakerzeugnisse (TabGebV) StF: [BGBl. II Nr. 43/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/43>)
+
+Aufgrund der §§ 9 Abs. 9 und 10a Abs. 7 Z 1 des Tabak- und Nichtraucherinnen- bzw. Nichtraucherschutzgesetzes (TNRSG), [BGBl. Nr. 431/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_431_0/1995_431_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 22/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/22>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

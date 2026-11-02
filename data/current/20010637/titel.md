@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Maßnahmen der Produktintervention (FMA-Produktinterventionsverordnung – FMA-PIV) StF: [BGBl. II Nr. 118/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/118>)
+
+Auf Grund des § 90 Abs. 3 Z 15 in Verbindung mit Abs. 8 des Wertpapieraufsichtsgesetzes 2018 – WAG 2018, [BGBl. I Nr. 107/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 37/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37>), und des § 4 Abs. 3 und 4 des PRIIP-Vollzugsgesetzes, [BGBl. I Nr. 15/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/15>), in der Fassung der Berichtigung [BGBl. I Nr. 27/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/27>) wird verordnet:

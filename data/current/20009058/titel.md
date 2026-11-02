@@ -1,0 +1,3 @@
+Verordnung des Präsidenten des Verwaltungsgerichtshofes über die elektronische Einbringung von Schriftsätzen und Übermittlung von Ausfertigungen von Erledigungen des Verwaltungsgerichtshofes (VwGH-elektronischer-Verkehr-Verordnung – VwGH-EVV) StF: [BGBl. II Nr. 360/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/360>)
+
+Auf Grund der §§ 24a und 73 Verwaltungsgerichtshofgesetz 1985 – VwGG, [BGBl. Nr. 10/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_10_0/1985_10_0.pdf>) in der Fassung [BGBl. I Nr. 122/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/122>) wird nach Anhörung der Vollversammlung des Verwaltungsgerichtshofes verordnet:

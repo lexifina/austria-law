@@ -1,0 +1,127 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10012543",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Vösendorf, Hennersdorf, Leopoldsdorf, Lanzendorf und Schwechat",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012904",
+    "valid_from": "1995-10-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012543&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:10:13.106393+00:00",
+    "response_sha256": "477c64371dc013f47f0eaec14dc5ab58d9354ec5710ae215f33d1f7ecff0f9f3",
+    "snapshot_sha256": "cdddbd457fd4e50423fd327d663c20db2a017d49e0654921525f336ccdb41667",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1d95dc33a27e21ac27452c53d746ed468b32c85b04d78e19a4f0ad2e1ddc83a",
+      "sha256": "e180d991f0c039722dcfb645be2d280cc2f00227bc90bc26b6bfb0214a4bd87a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Vösendorf, Hennersdorf, Leopoldsdorf, Lanzendorf und Schwechat StF: BGBl. Nr. 680/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 680/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_680_0/1995_680_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 33/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_33_0/1994_33_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d9debeae129dffa5e0b1825e8767a3636e7057470ab84b8b285a15651cc77a6",
+      "sha256": "565fcd18381d9236ee9bb52db0ec443f497eb1a77a012b5fe7b097508338baaa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage (zu BGBl. Nr. 680/1995)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd7dd5c30f13b770fa4646332cf784848c2c5965bc14e1d2bd1dc28fb0357da7",
+      "sha256": "daa798179722fb5e05121323899ecf25bedab4ab70ce719ca6a7a00f2f83a35d",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12156244/680_1995_Anlage.pdf",
+              "title": "PDF-Dokument: Anlage",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 680/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_680_0/1995_680_0.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12156244/680_1995_Anlage.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 28. August 1957, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung in Angelegenheiten der Vertragsbeziehungen zwischen einem Weingartenbesitzer und einem Winzer. StF: [BGBl. Nr. 205/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_205_0/1957_205_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 26. Juni 1957, K II-2/57/22, zusammengefaßt hat:

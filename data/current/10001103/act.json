@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001103",
+  "short_title": "Privilegien und Immunitäten der EUTELSAT",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001107",
+    "valid_from": "1991-06-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001103&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:19.436257+00:00",
+    "response_sha256": "c8f8ca7c15be5f257157acf4d028c45842386b14f0fa898b62245c51507d36f4",
+    "snapshot_sha256": "6d43fa03036f65ab4f38e3acae75f2f1cdd2b777cbcafa59a759081050563fcb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37ab21a5afabb76158fc0181424f2d816455dc712cdd4e6b8ce91984c9bdb00c",
+      "sha256": "1f9e2c47956184b282ccd41016fae7fcd57bfa94ffd1576399277d1aa6fe3359",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über Privilegien und Immunitäten der Europäischen Fernmeldesatellitenorganisation (EUTELSAT) StF: BGBl. Nr. 271/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 271/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_271_0/1991_271_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80784d8fa5f47b91491274630babf4127e7e288b80556295992b81bed372cc5b",
+      "sha256": "36fabc5e961478783a15251363d01d676677d501f9bfbce645b767824fec9441",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 176/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_176_0/1989_176_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

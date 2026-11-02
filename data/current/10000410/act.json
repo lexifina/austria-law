@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000410",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000412",
+    "valid_from": "1965-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000410&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:29:23.578188+00:00",
+    "response_sha256": "68fc598acab86ec2d53a643f6f8d2a1bc0b0850a0398288135c6038240f10d43",
+    "snapshot_sha256": "91ebb97bb8df1e0b2abd5f5013072b964d22e6fb24d8b2e549aaf074eff9336b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88a824d9ca3393e36c5aeef0227ac4fbcf535cd8d89b6731bd4dbfc6f95668d0",
+      "sha256": "902647fd0ba55f195bb29372fc3675990f7055d2927f852f49d5bcce18dccfcf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 20. Dezember 1965 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung des unter Verwendung von Schieß- und Sprengmitteln, insonderheit von Pulver, betriebenen Böllerschießens StF: BGBl. Nr. 373/1965"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 373/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_373_0/1965_373_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32f470ba01048d414aac0d6410fd3cf87c6935dfc789563467851c5719adb460",
+      "sha256": "1c32b9f4f4faff903c64d6b7de8daf3740aa5b385b1d12f31348f950ff30c419",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

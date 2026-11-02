@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Republik Kroatien StF: [BGBl. Nr. 98/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_98_0/1994_98_0.pdf>)

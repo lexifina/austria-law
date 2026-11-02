@@ -1,0 +1,1013 @@
+{
+  "sample_only": false,
+  "included_provisions": 20,
+  "source_provision_count": 20,
+  "schema_version": 1,
+  "gesetzesnummer": "20009249",
+  "short_title": "Kapitalabfluss-Meldegesetz",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40200809",
+    "valid_from": "2018-04-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009249&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:29:20.013626+00:00",
+    "response_sha256": "333a01b27c00c01d0dad8cfbf6370daac9f23a286fbf82b05f7b7e3022a765a1",
+    "snapshot_sha256": "05820a7c871f99e031500c082a79fcda9761c95b6f6f0b796a69a69e7c927115",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": "Inhaltsverzeichnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11e611e7feb219ef977e05ce5a1fc1cb239983768c0a85a11036505719086fe4",
+      "sha256": "e7a7afbde39b1b318a6ba5edcb360b607fb0ef77324f198ccc004139de72a9f1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Meldepflicht von Kapitalabflüssen und von Kapitalzuflüssen (Kapitalabfluss-Meldegesetz) StF: BGBl. I Nr. 116/2015 (NR: GP XXV RV 685 AB 749 S. 83. BR: 9401 AB 9413 S. 844.) [CELEX-Nr.: 32014L0107]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 77/2016 (NR: GP XXV RV 1190 AB 1243 S. 136. BR: 9613 AB 9621 S. 856.) [CELEX-Nr.: 32010L0064, 32012L0013, 32013L0048, 32014L0086, 32015L2060, 32015L2376, 32016L0881] BGBl. I Nr. 17/2018 (NR: GP XXVI RV 11 AB 60 S. 15. BR: AB 9939 S. 878.) [CELEX-Nr.: 32015L2366] BGBl. I Nr. 62/2018 (NR: GP XXVI RV 190 AB 197 S. 34. BR: 9993 AB 10002 S. 882.) [CELEX: 32006L0112, 32014L0041, 32016L1164, 32017L2455] BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 116/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/116"
+        },
+        {
+          "text": "RV 685",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/685"
+        },
+        {
+          "text": "AB 749",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/749"
+        },
+        {
+          "text": "9401",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9401"
+        },
+        {
+          "text": "AB 9413",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9413"
+        },
+        {
+          "text": "844",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/844"
+        },
+        {
+          "text": "32014L0107",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0107:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/77"
+        },
+        {
+          "text": "RV 1190",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1190"
+        },
+        {
+          "text": "AB 1243",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1243"
+        },
+        {
+          "text": "S. 136.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/136"
+        },
+        {
+          "text": "9613",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9613"
+        },
+        {
+          "text": "AB 9621",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9621"
+        },
+        {
+          "text": "S. 856.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/856"
+        },
+        {
+          "text": "32010L0064",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0064:DE:HTML"
+        },
+        {
+          "text": "32012L0013",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0013:DE:HTML"
+        },
+        {
+          "text": "32013L0048",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0048:DE:HTML"
+        },
+        {
+          "text": "32014L0086",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0086:DE:HTML"
+        },
+        {
+          "text": "32015L2060",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2060:DE:HTML"
+        },
+        {
+          "text": "32015L2376",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2376:DE:HTML"
+        },
+        {
+          "text": "32016L0881",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0881:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "RV 11",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/11"
+        },
+        {
+          "text": "AB 60",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/60"
+        },
+        {
+          "text": "S. 15.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/15"
+        },
+        {
+          "text": "AB 9939",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9939"
+        },
+        {
+          "text": "S. 878.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/878"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/62"
+        },
+        {
+          "text": "RV 190",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/190"
+        },
+        {
+          "text": "AB 197",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/197"
+        },
+        {
+          "text": "S. 34.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/34"
+        },
+        {
+          "text": "9993",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9993"
+        },
+        {
+          "text": "AB 10002",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10002"
+        },
+        {
+          "text": "S. 882.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/882"
+        },
+        {
+          "text": "32006L0112",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0112:DE:HTML"
+        },
+        {
+          "text": "32014L0041",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0041:DE:HTML"
+        },
+        {
+          "text": "32016L1164",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L1164:DE:HTML"
+        },
+        {
+          "text": "32017L2455",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L2455:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        },
+        {
+          "text": "IA 985/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/A/985"
+        },
+        {
+          "text": "AB 692",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/692"
+        },
+        {
+          "text": "S. 88.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/88"
+        },
+        {
+          "text": "AB 10252",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10252"
+        },
+        {
+          "text": "S. 897.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/897"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1. Teil Kapitalabfluss-Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldezeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2. Teil Kapitalzufluss-Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldezeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3. Teil Nachversteuerung von meldepflichtigen Kapitalzuflüssen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einmalzahlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bedeckung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Selbstanzeige",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4. Teil Gemeinsame Bestimmungen und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verordnungsermächtigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren bei der Abgabenbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweis auf andere Rechtsvorschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenbezogene Bezeichnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1422c96a293252b5df824b4196adcb1a80b74665a86066404780d822514405db",
+      "sha256": "1e56a6cee508fadf9a3b25f329a3caed8c02eb7b36bef83c943bbe671bdaa2e7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 116/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/116"
+        },
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. Nr. 424/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_424_0/1969_424_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/77"
+        },
+        {
+          "text": "BGBl. Nr. 424/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_424_0/1969_424_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/77"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "1. Teil Kapitalabfluss-Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cadbd8ca1e7f26005d2aadcfc23367259291a7bb5e38fc94266a1142786ae139",
+      "sha256": "c82e34cd23683f3372836afdf601afb2eb768309fe5ce55e97c009747805f450",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Umfang der Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2fd4fe5d159cb64b277ca1d3d20211386a40d466d38c1b6dc883be75ff0d010",
+      "sha256": "acad9f5912badf30db7d97367c67123a3056fdf6d90dbfa24646f20d44cff4dc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        },
+        {
+          "text": "BGBl. I Nr. 22/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_22_1/2002_22_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Meldezeitraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cec7fe2b7dbff4f979a932a49522172b3ca383abdb121af9b342f139108921f0",
+      "sha256": "c23025b3c425e6c32ed92b27b3c40570286dbf40b76af5dd2cb7e8380cc72ef4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "2. Teil Kapitalzufluss-Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c81c675cbdbfde00be58025d68abdf1f556bb44a92ef74b2e5e9824358f8ad1",
+      "sha256": "019687e42a0990b54ab1b7d7e19f825740485ac5aca66d44729ab91ddcc696c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Umfang der Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8bd0f86d27554cf3860b905d8011bc4e4c0bf57ae6d7d776db1ae7e59c5d8eaa",
+      "sha256": "cdc2065966cc7fa05d7c32faf7409f9df251a966eb17cebc80fb5ad7f8b10ef0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Meldezeitraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93245169cab68ad2e118535b4940e00620bd81356b0e140a4ab71858f07682ad",
+      "sha256": "11fa330e5ed43c034b5e087c243c0cfcdc674a57a5c9e918d7ee4913831b6690",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "3. Teil Nachversteuerung von meldepflichtigen Kapitalzuflüssen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4e790ae55727833855d48254c8a033ef270504d37e48464b75da5e8ff6d2321",
+      "sha256": "7bfc2173c4f865b1aef674f2d54ed8977c6964b59b218dd53c4faf61b25dceed",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 103/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/103"
+        },
+        {
+          "text": "BGBl Nr. 60/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_60_0/1974_60_0.pdf"
+        },
+        {
+          "text": "BGBl Nr. 129/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_129_0/1958_129_0.pdf"
+        },
+        {
+          "text": "BGBl Nr. 194/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217629/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217629/image002.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217629/image002.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40217629/image002.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Bedeckung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "663c1a0d6b2d8893e2082d03e5fac39af55d52bc33371e6cdfbc223ca408e14a",
+      "sha256": "40c9e3fdabeff13e0c5f7f2ae3f092797d6cbedb7227eb30c14b865a5a914603",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Selbstanzeige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05865aa2ca0b296b90da5aa6e2d1591f5ff8490c65a4e14e53d61d31c9efb03a",
+      "sha256": "3507383a029dcf192bb6d97f06938d853f3572af0fc308ec6612173a00ca30b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "4. Teil Gemeinsame Bestimmungen und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da65322e2000bcae7575921d844a27b2a8be093b0bc6934cc732667420da2fc6",
+      "sha256": "66d652ff7796a775979ca57a7df3d127939af00b9e3614316aa9b55b608da688",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Verfahren bei der Abgabenbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8af98aff1ad1a7058c85694312f3ecfe00fb1fbac537dd018734b6ebb9a2b2e9",
+      "sha256": "3bce354d7dd8add03e75a1c2f7fe6198816017731b1660502a5a84ad9aaeed35",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "723ba55e3e888ffcff38fdc59c730059c4f19f4023ea5be508be4e40e6724116",
+      "sha256": "6178d9a2244b87062d4fecd13ad4b8365425d5a0c3340a2091deb051e3e283db",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 77/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/77"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Verweis auf andere Rechtsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50bbdcd8f36010c525fecbf176ae728d9990e77c81d856f4cc16aa0805d78029",
+      "sha256": "a231b04bad604e01ed4a618bbb26962435997fa7e9260b15647f9e03c2643772",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Personenbezogene Bezeichnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "362852ed5220ade5594bfbf17023966c52d68bd128903314e2e73a988c85396c",
+      "sha256": "9ec7be6e2b3da7761103f06dec2efbb2b783f3e0f48f6229484f350df7b4b412",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6a50a9d99e3f3dd7c667930ede796fa17d47a3558f213d5d36ea5fcf97e48371",
+      "sha256": "faaff8d951d2905afbbd771586ab11ef3a39b4a70929c38a555b9f88c4e1e656",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "17587517549dcb05f2acf5ffbe253c9c4f25933a71c3c55d0fc446a43befeb15",
+      "sha256": "d57b8970766c9c362e85d43c2a794c47e216ec36dfe182a6585c30833c3dac95",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65714f4aa228cb30f45003e79aa267e65b9224b637c7501d5857c69597346e63",
+      "sha256": "ee4073c7c7cf1815f0366bc71206207f33479e92d0b24793acf48989d0ecd7fa",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/62"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": "BGBl. I Nr. 17/2018",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d74bd04330891c12fd62c9b9d3d96b83509973d684bf768cee330b7ed48145a",
+      "sha256": "b5085bc50945979fa93a607bd65c2c8eac645ec74b449e42a8c0c07926fb670d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. I Nr. 116/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/116"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

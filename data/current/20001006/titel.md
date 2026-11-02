@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Advanced Studies (Paper and Pulp Technology)“, Universitätslehrgang „Paper and Pulp Technology“ der Fakultät für Maschinenbau der Technischen Universität Graz StF: [BGBl. II Nr. 374/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_374_2/2000_374_2.pdf>)
+
+Gemäß § 26 Abs. 1 des Bundesgesetzes über die Studien an den Universitäten (Universitäts-Studiengesetz – UniStG), [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 77/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_77_1/2000_77_1.pdf>), wird verordnet:

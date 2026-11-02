@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bezeichnung, Abkürzung der Bezeichnung und das Emblem für das ,,Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen'' StF: [BGBl. Nr. 490/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_490_0/1995_490_0.pdf>)

@@ -1,0 +1,1 @@
+Bundesgesetz über den Schutz des gesetzlichen Anspruches auf Unterhalt (Unterhaltsschutzgesetz 1985) StF: [BGBl. Nr. 452/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_452_0/1985_452_0.pdf>) (WV)

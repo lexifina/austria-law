@@ -1,0 +1,119 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011679",
+  "short_title": "Aufteilungsschlüssel in der Krankenversicherung der Pensionistinnen und Pensionisten (Kalenderjahr 2020)",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40238682",
+    "valid_from": "2021-10-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011679&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:19:10.048813+00:00",
+    "response_sha256": "4a1572bf8550b469287c9931ef8dba09e7d9d5745a5d0b399907f30e677ae773",
+    "snapshot_sha256": "f86ba06d5b1cc9c911ecf0a40831bd38478e9a58726a3ca953b08ab61750eccc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c8c1a4c4db3562e4daeb1e3358a61aa476fd427df789f6d405073ee8b477755",
+      "sha256": "eba249ca452992260672e7c9eeca2efa796976479f6cab9d4eb637a2239af9f3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Aufteilungsschlüssel in der Krankenversicherung der Pensionistinnen und Pensionisten StF BGBl. II Nr. 447/2021"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 447/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/447"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 179/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/179"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5887f0a1834bc25e0f03ed402f2b2199410c786803aab6ec57a2a4d4f0950cf4",
+      "sha256": "877a8c8ebc6bbf03a31cb48dde827da72a303a8be8f21c5e1024063f080b0e37",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Österreichische Gesundheitskasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "99,95057",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "0,04943",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

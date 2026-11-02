@@ -1,0 +1,3 @@
+Bundesgesetz über die Statistik zu Straßenverkehrsunfällen mit Personenschaden (Straßenverkehrsunfallstatistik-Gesetz, StVUSt-G) StF: [BGBl. I Nr. 7/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/7>) (NR: GP XXV [RV 1353](<https://www.parlament.gv.at/gegenstand/XXV/I/1353>) [AB 1421](<https://www.parlament.gv.at/gegenstand/XXV/I/1421>) S. 157. BR: [AB 9697](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9697>) S. [862](<https://www.parlament.gv.at/gegenstand/BR/I-BR/862>).) \[CELEX-Nr.: [32008L0096](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0096:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

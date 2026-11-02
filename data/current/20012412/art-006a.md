@@ -1,0 +1,3 @@
+### Überschreitung im Geldfluss aus der Finanzierungstätigkeit mit Bedeckung durch den Geldfluss aus der Finanzierungstätigkeit der Untergliederung 58
+
+Artikel VIa. Der Bundesminister für Finanzen ist ermächtigt, im Finanzjahr 2024 die Zustimmung zur Überschreitung in der Untergliederung 58 (Finanzierungen, Währungstauschverträge) für Auszahlungen im Geldfluss aus der Finanzierungstätigkeit bis zu insgesamt 15% der Gesamtauszahlungen im Geldfluss aus der Finanzierungstätigkeit zu geben, wenn die Bedeckung durch Mehreinzahlungen im Geldfluss aus der Finanzierungstätigkeit der Untergliederung 58 sichergestellt ist.

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres, mit der die Vergütung der Mitglieder des Beirats Ermittlungs- und Beschwerdestelle Misshandlungsvorwürfe festgelegt wird (Beiratsmitglieder-Vergütungsverordnung) StF: [BGBl. II Nr. 22/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/22>)
+
+Auf Grund des § 9a Abs. 11 des Gesetzes über das Bundesamt zur Korruptionsprävention und Korruptionsbekämpfung – BAK-G, [BGBl. I Nr. 72/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/72>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 107/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/107>), wird verordnet:

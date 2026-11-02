@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000532",
+  "short_title": "Eisenbahnen - Internationales Regime",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000568",
+    "valid_from": "1927-12-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000532&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:20:01.548566+00:00",
+    "response_sha256": "1b14af4c71d7479781f36cdf8a242173a0e06a401bda388b272e5aa10d69889a",
+    "snapshot_sha256": "2634c87287d3cd5909ff1a7a91eb385ea830b27cf9dc3a67b58b2a248e078dd9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5aefb8a4132f1029cb7289b32dbfdb32b490fd19ba579b5f45fb32caa73750f",
+      "sha256": "1f8cf6b622ff9ce24c0795743052009e55f9205bf594931c7005abab02b4dd78",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 1. Dezember 1927, betreffend die Ratifikation einiger internationaler Übereinkommen durch Schweden und den Beitritt Schwedens zu einem Zusatzprotokoll StF: BGBl. Nr. 347/1927"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 347/1927",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=347/1927&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad2a34da8ef2987ef010d43d5e67fa95be938793f3f8944eb52285c99598a2ba",
+      "sha256": "7315692a4568422b5d8f193ebaf463ae77baab36e11ffc9c512955baf39a0101",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

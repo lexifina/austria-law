@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 2. Juli 1980 betreffend die Erlassung einer wasserwirtschaftlichen Rahmenverfügung zum Schutze der Grundwasservorkommen im südlichen Salzburger Becken und im unteren Lammertal sowie der Karstwasservorräte des Tennengebirges, Hagengebirges und Hohen Göll StF: [BGBl. Nr. 315/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_315_0/1980_315_0.pdf>)
+
+Auf Grund des § 54 des Wasserrechtsgesetzes 1959, BGBl. Nr. 215, in der Fassung des Bundesgesetzes [BGBl. Nr. 207/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_207_0/1969_207_0.pdf>) wird verordnet:

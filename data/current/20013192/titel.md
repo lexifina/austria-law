@@ -1,0 +1,3 @@
+Verordnung der Rundfunk und Telekom Regulierungs-GmbH, mit der bestimmte Aspekte der Dienstequalität festgelegt werden (Dienstequalitätsverordnung – DQV) StF: [BGBl. II Nr. 138/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/138>)
+
+Auf Grund des § 46 Abs. 4 des Bundesgesetzes, mit dem ein Telekommunikationsgesetz erlassen wird (Telekommunikationsgesetz 2021 – TKG 2021), [BGBl. I Nr. 190/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/190>), zuletzt geändert durch [BGBl. I Nr. 94/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/94>), wird im Einvernehmen mit dem Bundesminister für Wohnen, Kunst, Kultur, Medien und Sport verordnet:

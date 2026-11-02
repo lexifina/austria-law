@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 15. Feber 1974, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen und solche Vorschriften geändert werden StF: [BGBl. Nr. 171/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_171_0/1974_171_0.pdf>)

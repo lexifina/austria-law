@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 17. Juni 1983 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung eines Gesetzes über die Errichtung von Bezirksgerichten StF: [BGBl. Nr. 339/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_339_0/1983_339_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, werden folgende Rechtssätze kundgemacht, in denen der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 11. März 1983, K II-1/79-20, – dem Bundeskanzler in der berichtigten Fassung zugestellt am 7. Juni 1983 – zusammengefaßt hat:

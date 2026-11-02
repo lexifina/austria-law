@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 7. Juli 1955 über die Genfer Abkommen zum Schutze der Opfer des Krieges. StF: [BGBl. Nr. 146/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_146_0/1955_146_0.pdf>)

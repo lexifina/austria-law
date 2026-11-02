@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Landesverteidigung über die Kennzeichnung und Lufttüchtigkeit von Militärluftfahrzeugen und über die Betriebstüchtigkeit von militärischem Luftfahrtgerät (Militärluftfahrzeug- und Militärluftfahrtgerätverordnung 2008 – MLFGV 2008) StF: [BGBl. II Nr. 379/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/379>)
+
+Auf Grund der §§ 11 Abs. 2, 21 Abs. 2 und 24 des Luftfahrtgesetzes (LFG), [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 83/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/83>), wird verordnet:

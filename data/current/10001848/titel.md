@@ -1,0 +1,1 @@
+Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte (Urheberrechtsgesetz). StF: [BGBl. Nr. 111/1936](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=111/1936&amp;SkipToDocumentPage=True>) (StR: 39/Gu. BT: 64/Ge S. 19.)

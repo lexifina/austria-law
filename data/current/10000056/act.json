@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000056",
+  "short_title": "Verhältnis zwischen Österreich und Griechenland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000056",
+    "valid_from": "1920-10-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000056&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:21:43.249197+00:00",
+    "response_sha256": "91b96c0c32d350d7d4628bed953532754cfe4bb09ffbe2aef4b8ab50e90a8070",
+    "snapshot_sha256": "16f2493efca1db085f50a06ca27b347e0b7f3688cf2056166764501a63e6b645",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0dd05b2e84aff837fb602c95637f19e73afd08323f352f7b87a3a6347f4e463",
+      "sha256": "7b2172c3d46a1252bc9ea3fead074f1817ba76796caf72116572ce78a15ebb71",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit den Bundesministerien für Äußeres und für Justiz vom 5. März 1921, betreffend die Geltung gewisser zwischen dem Kaisertum Österreich oder der österreichisch-ungarischen Monarchie und dem Königreiche Griechenland abgeschlossenen Staatsverträge für das Verhältnis zwischen der Republik Österreich und dem Königreiche Griechenland. StF: BGBl. Nr. 139/1921"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 139/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=139/1921&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33a4d5390001023aa2736403cfd28a5c516cea86551a3435a2b12d685b8042f2",
+      "sha256": "78f35be7803a67231cd1679458a07db2fa6cc044a65c3cc4cc8e3631a0d6b315",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

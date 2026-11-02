@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Compliance von COVID-19-Leistungen (Transparenzdatenbank-COVID-19-Compliance-Verordnung) StF: [BGBl. II Nr. 189/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/189>)
+
+Auf Grund des § 39f Abs. 3 des Bundesgesetzes über eine Transparenzdatenbank (Transparenzdatenbankgesetz 2012 – TDBG 2012), [BGBl. I Nr. 99/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/99>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 54/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/54>), wird im Einvernehmen mit dem Bundesminister für Kunst, Kultur, öffentlicher Dienst und Sport verordnet:

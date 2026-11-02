@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über den Aufwandersatz für den Betrieb und die Wartung des gemäß § 22 des Abfallwirtschaftsgesetzes 2002 eingerichteten elektronischen Registers (EDM-Aufwandersatzverordnung) StF: [BGBl. II Nr. 404/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/404>)
+
+Auf Grund des § 23 Abs. 4 AWG 2002 des Abfallwirtschaftsgesetzes 2002 [BGBl. I Nr. 102/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 9/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/9>) wird verordnet:

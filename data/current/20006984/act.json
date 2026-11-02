@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20006984",
+  "short_title": "Gebührenordnung für das Verfahren vor der Übernahmekommission",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40122810",
+    "valid_from": "2011-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006984&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:54:18.747857+00:00",
+    "response_sha256": "1409c3b686c1390889b7b2a2536c3fab6971b67fd97c65933ac561f267db71d2",
+    "snapshot_sha256": "875ab7488156dda081d0edec6a7b626939fa6e74118a3da1ed32d717f8483a3a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bebe2b596f687ec2b964bb9de3cd2201d21d97c865c027c648e143d00fdfb4c8",
+      "sha256": "909fdc902c165428e8032f8d5bccf0a3f2d58ef540b590f53fc7880368c47633",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Wiener Börse AG über die Gebührenordnung für das Verfahren vor der Übernahmekommission StF: BGBl. II Nr. 363/2010"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 363/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/363"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Gebührenordnung der Wiener Börse AG für das Verfahren vor der Übernahmekommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfc663531a3ef2ff0d1f43fadd0475d48daade88aca7cc82bf2b1da9af946439",
+      "sha256": "b352f811e53b0a7b65d03f989f2d48845d3559f31ee81539935af6462bddf902",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

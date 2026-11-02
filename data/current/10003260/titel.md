@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Republik Usbekistan StF: [BGBl. Nr. 770/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_770_0/1994_770_0.pdf>)

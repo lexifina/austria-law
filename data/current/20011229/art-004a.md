@@ -1,0 +1,9 @@
+## ARTIKEL 4 a
+
+### Gegenseitige Anerkennung der Regulierungsfeststellungen hinsichtlich Eignung und Staatszugehörigkeit von Luftfahrtunternehmen
+
+(1) Nach Empfang des Genehmigungsantrags eines Luftfahrtunternehmens einer Vertragspartei anerkennen die zuständigen Behörden der anderen Vertragspartei die Feststellung der Eignung und/oder Staatszugehörigkeit, die von der zuständigen Behörde der ersten Vertragspartei in Bezug auf dieses Luftfahrtunternehmen gemacht wurden, als handele es sich um Feststellungen ihrer eigenen zuständigen Behörden, und untersuchen diese Angelegenheiten nicht weiter, außer wie im nachstehenden Absatz 2 vorgesehen.
+
+(2) Falls die zuständigen Behörden der empfangenden Vertragspartei nach Empfang des Genehmigungsantrags eines Luftfahrtunternehmens oder nach Erteilung einer entsprechenden Genehmigung besonderen auf einem begründeten Zweifel beruhenden Anlass für Bedenken haben, dass trotz der Feststellung durch die zuständigen Behörden der anderen Vertragspartei die in Artikel 3 (Genehmigung) für die Erteilung von Genehmigungen oder Erlaubnissen festgelegten Bedingungen nicht erfüllt sind, haben sie diese Behörden unverzüglich zu informieren und fundierte Begründungen für ihre Bedenken anzugeben. In diesem Fall kann jede Vertragspartei um Konsultationen, die Vertreter der betreffenden zuständigen Behörden beider Vertragsparteien einschließen können, und/oder zusätzliche einschlägige Informationen ersuchen, und solchen Ersuchen ist so bald wie möglich stattzugeben. Wird die Angelegenheit keiner Lösung zugeführt, kann jede Vertragspartei den Gemeinsamen Ausschuss damit befassen, der nach Artikel 21 (Gemeinsamer Ausschuss) eingesetzt wurde.
+
+(3) Dieser Artikel deckt nicht die Anerkennung von Feststellungen bezüglich folgender Bereiche ab: – Flugsicherheitsbescheinigungen oder -genehmigungen, – Luftsicherheitsvorkehrungen oder – Versicherungsschutz.

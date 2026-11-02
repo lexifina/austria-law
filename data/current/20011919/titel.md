@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend Verbrauchsteuerermäßigungen für kleine unabhängige Erzeuger alkoholischer Getränke (Kleinerzeuger-VerbrauchsteuerermäßigungsV) StF: [BGBl. II Nr. 211/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/211>)
+
+Auf Grund der §§ 3 Abs. 9, 44 Abs. 4 und 47 Abs. 6 des Biersteuergesetzes 2022, [BGBl. Nr. 701/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_701_0/1994_701_0.pdf>) und auf Grund des § 2 Abs. 5 des Alkoholsteuergesetzes 2022, [BGBl. Nr. 703/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_703_0/1994_703_0.pdf>), jeweils in der Fassung des Bundesgesetzes [BGBl. I Nr. 227/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/227>), wird verordnet:

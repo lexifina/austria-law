@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001144",
+  "short_title": "VfGH-Aufhebung V d. Landeshauptmannes von Salzburg",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001148",
+    "valid_from": "1992-01-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001144&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:42:01.930364+00:00",
+    "response_sha256": "61ab6fc248e3d6d5d8d6b7970d89a6a908cf2abed976f3a85cb6276ce10070b7",
+    "snapshot_sha256": "f29ed5711462ffe270f01bd81340332ad38da1686f0ab20b7ef16ecb363b4b85",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55aa6f66078e339857bd0789059322950904da3c74b074d22f17acca379e9516",
+      "sha256": "d875a547f8455da66d49e590be21232a557cf024db538b92ff82290120dce707",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr über die Aufhebung der Verordnung des Landeshauptmannes von Salzburg vom 2. Juni 1989, LGBl. Nr. 59/1989, betreffend die Höchstzahl für Konzessionen zur Ausübung des Taxigewerbes in der Stadt Salzburg, durch den Verfassungsgerichtshof StF: BGBl. Nr. 60/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_60_0/1992_60_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "700f609b1a699867d31184d45ac4c73cc2c70880caf21adec96325b103e2b44d",
+      "sha256": "a38513a93926ea9135fc8e9e49024a39577891c4e8329008d0ab1dcc731204fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über das Gentechnikregister (Gentechnik-Registerverordnung) StF: [BGBl. II Nr. 141/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/141>)
+
+Auf Grund des § 101e Abs. 3 des Gentechnikgesetzes (GTG), [BGBl. Nr. 510/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_510_0/1994_510_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 127/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/127>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft und der Bundesministerin für Bildung, Wissenschaft und Kultur verordnet:

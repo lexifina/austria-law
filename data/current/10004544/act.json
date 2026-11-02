@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004544",
+  "short_title": "Einfuhr von Berufsausrüstung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004580",
+    "valid_from": "1987-07-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004544&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:32:07.653403+00:00",
+    "response_sha256": "2c9763e47498420923946496eedbaf645b0af5afc2afa6645c400c0e81ccf3c9",
+    "snapshot_sha256": "a7e885bd815c2ce598500cd3b179c9be044c3c249696458a61f78cdb0c6d0778",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ced6694ae00dc5f6458021f419c57b14d587fa6fea3b3deb1810b492eef1556b",
+      "sha256": "cdeee3aea61f8303786e2926d5e0316b5ccca72e63d604fb96ecdb4718f5e9c6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 30. Juni 1987 betreffend den Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von Berufsausrüstung StF: BGBl. Nr. 331/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 331/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_331_0/1987_331_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6cd37a2cd3b3c07354a9ffc485b7e89b33a3f0fa30b75f51552cc4bd29707474",
+      "sha256": "3e1dabd779b60fe14ab7d2e99c59668b6bed181e0053ee0d570edb0ad2a02f15",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 1/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_1_0/1963_1_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 438/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_438_0/1972_438_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

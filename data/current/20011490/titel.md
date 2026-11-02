@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 10. Dezember 2020, dass § 3 und § 4 Abs. 4 der Verordnung des Landeshauptmannes von Tirol vom 20. März 2020 nach § 2 Z 2 des COVID-19-Maßnahmengesetzes, LGBl. für Tirol Nr. 35/2020, bis zum Ablauf des 4. April 2020 gesetzwidrig waren StF: [BGBl. II Nr. 100/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/100>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und gemäß § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

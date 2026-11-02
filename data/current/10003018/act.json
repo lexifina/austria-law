@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003018",
+  "short_title": "Kundmachung gemäß § 16 Abs. 4 des Mietrechtsgesetzes",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003042",
+    "valid_from": "1991-11-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003018&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:32.780745+00:00",
+    "response_sha256": "20d58d66b804d5f2417281601677bd7f1276644309f3f7ed68eaaf2c792d58f9",
+    "snapshot_sha256": "3be9697e467dd41a9fbbe55b38bb5be2080debe8fef3fb70a8b54e5cfb00da60",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf93e3f03ae25342183e0a24e9a47943eee45ad32ddbb44848e19fd21f54e0e4",
+      "sha256": "6301b3474b0acb9d043d2aa81a80e5d8df421e9b92ecc9741f9b0877b8e13992",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Justiz gemäß § 16 Abs. 4 des Mietrechtsgesetzes StF: BGBl. Nr. 570/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 570/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_570_0/1991_570_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "224d2445720a96eacd7c15946cb1ad7d29ec1425ef474af6b07beeebeb81c929",
+      "sha256": "fd9ed9c7a90d48e4ab3674896f163ea760092ea572f192fec608c654be7f0501",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 68/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_68_0/1991_68_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

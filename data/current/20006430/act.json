@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20006430",
+  "short_title": "Errichtung einer weiteren Notarstelle in Feldkirch",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40109766",
+    "valid_from": "2009-09-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006430&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:45:58.438133+00:00",
+    "response_sha256": "c8bcf7835aa6ca9b37319cf0c9807b76bc0291d35ecd130a556a03462022b641",
+    "snapshot_sha256": "d0cbfc7e16904091556d4bd4afea463d4fda85d01955f43767961a37fe1a45a0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11e01f412b0d7b0f64a4bcdb1b8ebb9b3bb2e372632b42fd2e11329db92f3ba9",
+      "sha256": "9fc0d97d8a801e5f1b416cc65b9ddf1a8ee42008fd36a95ab3e84c03c48641af",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Feldkirch StF: BGBl. II Nr. 283/2009"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 283/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/283"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "202f11a1efd15c0b6542cceca101950e86511fcb8c68af7b9a6ce9c567fa7cdf",
+      "sha256": "95850ade785d5d6fd58b43a470cfea718d577dc88915046a3c1d071d926482b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

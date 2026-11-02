@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008434",
+  "short_title": "Geldstrafen- und Geldbußenverordnung des BMV",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008584",
+    "valid_from": "1978-06-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008434&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:20:05.570164+00:00",
+    "response_sha256": "49d6b0329064545a02a2b56ab55b8c2e74e4b7aa13089c402834bdaca1ef37d3",
+    "snapshot_sha256": "674c2ab0dc6c9f0814397d8dbde1fd422ae2696dca702240ff3adf50499876f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2b324f43fcf9da408c677ce9d47ca4ce9ca5af5ed06f6bee4d9fa7f2329db77",
+      "sha256": "170b735f31f4ff25582828e4c87a7da44e1c65f88f7640a22fa42aa88876ff24",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr vom 16. Mai 1978 über die Verwendung der Disziplinarstrafen Geldbuße und Geldstrafe StF: BGBl. Nr. 251/1978"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 251/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_251_0/1978_251_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4e18117d7200e1edfadf71829789b38cc96af3b48debd86f787b46c1cb52dd9",
+      "sha256": "1d2633e9ee0be52419320c9e62d5d997592c9381a43771ac7432dcfbc59d4941",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

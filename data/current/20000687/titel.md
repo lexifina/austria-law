@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie, mit der die Verordnung betreffend die Bestimmung des Straßenverlaufes der B 144 Gmundener Straße und der B 135 Gallspacher Straße im Bereich der Gemeinden Roitham und Laakirchen teilweise aufgehoben wird StF: [BGBl. II Nr. 153/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_153_2/2000_153_2.pdf>)

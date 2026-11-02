@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Internationalen Übereinkommens über das Harmonisierte System zur Bezeichnung und Kodierung der Waren, abgeändert durch das Änderungsprotokoll StF: [BGBl. Nr. 563/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_563_0/1994_563_0.pdf>)

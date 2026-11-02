@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für soziale Verwaltung vom 10. April 1962, womit eine Österreichische Arzneitaxe herausgegeben wird (Österreichische Arzneitaxe 1962). StF: [BGBl. Nr. 128/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_128_0/1962_128_0.pdf>)

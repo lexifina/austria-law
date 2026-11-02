@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz über die vorzeitige Freistellung werdender Mütter (Mutterschutzverordnung – MSchV) StF: [BGBl. II Nr. 310/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/310>) idF [BGBl. II Nr. 83/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/83>) (VFB)
+
+Auf Grund des § 3 Abs. 3 des Mutterschutzgesetzes 1979 (MSchG), [BGBl. Nr. 221/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_221_0/1979_221_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 126/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/126>), wird verordnet:

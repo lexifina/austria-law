@@ -1,0 +1,3529 @@
+{
+  "sample_only": false,
+  "included_provisions": 77,
+  "source_provision_count": 77,
+  "schema_version": 1,
+  "gesetzesnummer": "20003758",
+  "short_title": "Druckgeräteüberwachungsverordnung",
+  "abbreviation": "DGÜW-V",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40177751",
+    "valid_from": "2015-12-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003758&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:04:25.847976+00:00",
+    "response_sha256": "f5cc9ea4acc9bfccf83389e5cb5c8d8c6fa1c54b56898383f0eee96a25a022ab",
+    "snapshot_sha256": "fc2e5b7a0149a07e2dd8fcf7988844c3d53bbee0ed2a84bece9e819462a3b4f6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9293d431ea42bc0279accb6c3bc562559e141a07af1a972f5dc660f5a9613e82",
+      "sha256": "c63065a82582ddf6afb44667793ad7a4277ee86505d040673482c57f2b47db98",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über sicherheitstechnische Bestimmungen für Prüfungen bei der Inbetriebnahme und während des Betriebes von Druckgeräten (Druckgeräteüberwachungsverordnung - DGÜW-V) StF: BGBl. II Nr. 420/2004"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 165/2015 BGBl. I Nr. 161/2015 (BG) (NR: GP XXV RV 850 AB 938 S. 107. BR: AB 9509 S. 849.) [CELEX-Nr.: 32014L0068, 32014L0029]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 420/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/420"
+        },
+        {
+          "text": "BGBl. II Nr. 165/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/165"
+        },
+        {
+          "text": "BGBl. I Nr. 161/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/161"
+        },
+        {
+          "text": "RV 850",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/850"
+        },
+        {
+          "text": "AB 938",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/938"
+        },
+        {
+          "text": "S. 107.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/107"
+        },
+        {
+          "text": "AB 9509",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9509"
+        },
+        {
+          "text": "S. 849.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/849"
+        },
+        {
+          "text": "32014L0068",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0068:DE:HTML"
+        },
+        {
+          "text": "32014L0029",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0029:DE:HTML"
+        },
+        {
+          "text": "BGBl. Nr. 211/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_211_0/1992_211_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_136_1/2001_136_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Teil - Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Teil - Gefahrenpotential von Dampfkesseln, Druckbehältern und Rohrleitungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dampfkessel, Druckbehälter und Rohrleitungen mit hohem Gefahrenpotential",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dampfkessel, Druckbehälter und Rohrleitungen mit niedrigem Gefahrenpotential",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Teil - Prüfungen zur Inbetriebnahme",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Hauptstück - Allgemeines",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück - Erste Betriebsprüfung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kontrolle der Dokumentation und der Kennzeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Funktion der Ausrüstung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Äußerer Zustand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der Aufstellung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück - Betriebsprüfung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Äußerer Zustand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Funktion der Ausrüstung und Integration",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der Aufstellung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Innere Untersuchung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Druck- und Dichtheitsprüfung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Teil - Festlegung der Art der Überwachung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung bei Zuteilung zu Sonderbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung bei Zuteilung zu Prüfstufen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung bei Zuteilung zu speziellem Prüfprogramm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermittlung der hohen Güte von Druckbehältern und Rohrleitungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermittlung der technischen Kriterien für die Zuteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gefahrenanalyse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Maßnahmenkatalog",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Teil - Revisionsfristen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 28",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüffristen für Dampfkessel, Druckbehälter oder Rohrleitungen nach Sonderbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüffristen für Dampfkessel, Druckbehälter oder Rohrleitungen nach Prüfstufen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüffristen für Dampfkessel, Druckbehälter oder Rohrleitungen nach speziellem Prüfprogramm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Teil - Überwachungsmaßnahmen im Rahmen der wiederkehrenden Untersuchungen und Überprüfungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Hauptstück - Allgemeines und Grundsätze",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 33",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück - Überwachungsmaßnahmen für Dampfkessel",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 35",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Äußere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Innere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Druckprüfungen und Dichtheitsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück - Überwachungsmaßnahmen für Druckbehälter",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 39",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Äußere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Innere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Druckprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dichtheitsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück - Überwachungsmaßnahmen für Rohrleitungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 44",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dichtheitsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Äußere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Druckprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Innere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Teil - Dokumentation",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Hauptstück - Aufgaben der Betreiber und Prüfstellen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 49",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben der Betreiber und Prüfstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück - Bescheinigungen, Überwachungs-, Prüf- und Kontrollberichte",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 50",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bescheinigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 52",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachungsberichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfberichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 54",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kontrollberichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück - Prüfbuch",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 55",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 56",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück - Eintragungen und Anschluss von Dokumenten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 57",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der ersten Betriebsprüfung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 58",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der Zuteilung, Gefahrenanalyse, Maßnahmenkatalog",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 59",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation von Betriebsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 60",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der Überwachung gemäß einer Sonderbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 61",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der Überwachung gemäß Prüfstufen für Dampfkessel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 62",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der Überwachung gemäß Prüfstufen für Druckbehälter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 63",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der Überwachung gemäß Prüfstufen für Rohrleitungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 64",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation der Überwachung gemäß speziellem Prüfprogramm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 65",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation des Wechsels des Betreibers",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 66",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation des Wechsels der Kessel- bzw. Werksprüfstelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Teil - Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 67",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 68",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dampfkessel, Druckbehälter und Rohrleitungen mit niedrigem Gefahrenpotential",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 69",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dampfkessel, Druckbehälter und Rohrleitungen mit hohem Gefahrenpotential",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Teil - Äquivalenz- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 70",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Äquivalenzbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 71",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "EU-Notifikation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 72",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlagen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Anlage 1:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Diagramme für die Bewertung von Druckgeräten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 2:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebundener Teil des Prüfbuches gemäß § 56 Abs. 6",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 3:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonderbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 4:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Technische Regeln und deren Fundstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Teil Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "889010d83cd25c2eb9cb5e7b5ea2a9c6372babd5d57c25611dc649d7e6b04f92",
+      "sha256": "b08647424acc810ec79c2a04c9c89a3e29ab5b71663ecc955206abbba67d9fd3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e41ac3e16fd92585a988ede7e23488774a5dc66b8002c28d4ce43b4226cc89e",
+      "sha256": "8cb7301164454f639df87fee95d031dca35b8d8bdb7ab3cbd3aed960e9eccf43",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Teil",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "edd8c60de3c2e54d3ea820347120fcf8b0d877e9bd3d3764ad7fd1464c59e1ad",
+      "sha256": "795b1b6feb58e7b23029a549d1355c2fd2024b17e26ff7e0f1b0be9dadb86060",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Dampfkessel, Druckbehälter und Rohrleitung mit hohem Gefahrenpotential",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25b052a2b5b72aab3f9207dd119aef303cbf82a77a959e5c0d5a3eab368630f7",
+      "sha256": "262d66065c815b2dddc9e06bb49bdfd997193d21ee9d74ceccdcbc3cebf1af8d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Dampfkessel, Druckbehälter und Rohrleitung mit niedrigem Gefahrenpotential",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c008de8bbc8edc633d7849ae33906ff82af236bf832f7629dcbc2d092af68b17",
+      "sha256": "a5e5edecc2eba58d567c665176c84f4aa235caea996fcc273f5cae6e8550991b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "3. Teil Prüfungen zur Inbetriebnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "23d87cdae8a9832421ec17c9392bc9e5f35744124786183a2803664bc13e4ead",
+      "sha256": "09f7e62ca3c2c566bbbab79cf9c5ebeb13d55d014747a069bcc23d07a9406bbb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "2. Hauptstück Erste Betriebsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "441aa2b100d3d4c369d9eb2d621bfebcf9c3a315c674d279dd146e999c9ec23a",
+      "sha256": "5732d31a623583c49b940c358673ea9b2f9d5888514e62c775a2b34c24ea0457",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Kontrolle der Dokumentation und der Kennzeichnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3799084d421e0f70f4870d7fe0d10b162a753ff4e7928a4f023382e63e624daf",
+      "sha256": "6354d3a558eec4c4c51d999259b54f2ef67b58570f5188bd296e4a1f7b9897c3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Funktion der Ausrüstung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ed1546e7545217df9fdb846b4585ec59bb40ed4f5052be42a642c514bff1f2b",
+      "sha256": "5f041cb67e7d57184c78b44ee7a79280c7eb2b3333054b8e9723d8dee392d78b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Äußerer Zustand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7889121d6e7d0c1cd7c77627f04fd6b74f74e9fe86c41566e517b30c70dbeba",
+      "sha256": "82e9fa87b17b2d0fbabe6b2bfff1dfadeea5ea1b74cb5d861a8e6896173a0f6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Art der Aufstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3818a6bf4f460e5007fb129a4753c9b42bb8a0709541aae5772152ed63b626f3",
+      "sha256": "57ff064dec1b073f6489145e3e7374708073f40e71eaef6165bb9e18950c0b9e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 353/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_353_0/1995_353_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 361/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_361_2/1998_361_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Dokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "575a4de5696f95526f02e94b0a8204bcda428db83dfb69e4ce12d7644d3fd460",
+      "sha256": "8c2614705d954d9444a31568da25e41b31760882d37920e8e1e941092ce03745",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "3. Hauptstück Betriebsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2816431e4edf5ba8835f49cd0e8b4a25fdde3687a173dbad030841798f98a158",
+      "sha256": "a2a907eef5331e6c75ada2951e59324b8c661eca8bb85f63b97fc850b8617e24",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Äußerer Zustand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41d69a4510e20946a4c10ef1147769dfc91c153c1d94dbd0c38eaf6f4e0377e3",
+      "sha256": "e6595f3089a611135cd161e2a7ed5d238eacb6d08cb03edba76a6f8bdfe03c24",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Funktion der Ausrüstung und Integration",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca9178c537de52f5d38e4701bd07d30d57267940d8a0692b9491e90568a735fd",
+      "sha256": "c0bc1f40395166aefbf2913d07c520a187f2287c71bc1eff1c98ce19e7445b6e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Art der Aufstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9cc5dfc08ff279e8e3440d978f655e365af1b4354f0cf9e8c83051ff76825508",
+      "sha256": "aca14ed66f1b28762c0936173832d5302c530409865da7b28d3154a595098cf4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Innere Untersuchung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "430690dbb51e416c0a88ea426cdea90d00c9b233112be5974cbd557840536df4",
+      "sha256": "d1ccd6b1ad706a51aad1ecdf5856c620e164eaf66bf7cfe3dbf2b7cbcd3d1148",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Druck- und Dichtheitsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d075b57944acefa70186cd0673092a4ceed44ce73b24a6d0d3062bb39d7ed6e",
+      "sha256": "8eb12b560c52b1ed55e243cdf0415a5210dba2a633e6dfb944df1c8d196abfcf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Dokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5bd05a112a9706efa94800897b71ec35b913416b12ee0a3dc3bc22a839d8ff7d",
+      "sha256": "e3e29393c6300ed9f8496896a711bcbd684d029bc4b6358cfef316b286b146eb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "4. Teil Festlegung der Art der Überwachung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38da9b496c361eb26da5e3b0212fe9a768a751466fd2036c630a13b4b4276365",
+      "sha256": "3988cf09fb77c433a33167b720e69054d25a99281c0b717d6590470b89ccb389",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Überwachung bei Zuteilung zu Sonderbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc328fc61408f581b4c04166fea794269b129c073799a52ed080b569485be07c",
+      "sha256": "5c7f07c3ac172d8946a744a52dab2681800dbc1965c798469510799e17d27855",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Überwachung bei Zuteilung zu Prüfstufen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e96a861d058b475cffae8cd7bd11a06eff4dc14d42f6213f53e0ac6acbb289fa",
+      "sha256": "c1b2a9203d1d862d0b3dad932fa33d47ddd11bc1ce4adb6b3846fa1e932ea04b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Überwachung bei Zuteilung zu speziellem Prüfprogramm",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ac135d3e423ddcab5c67482c34f0d4e16b23b0304c0cb03ae346c98ad9cd645",
+      "sha256": "9a37a622b4d06d7bd66bc6b70cf7be758247b6c6a494eea6778cee55f115adce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Ermittlung der hohen Güte von Druckbehältern und Rohrleitungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46d55d038b5cf1230eafef57e6c34b368aa1b7bde3e20e4b574cb7c9fc48d2d3",
+      "sha256": "abd24eacaf2b7524d785c0d2505e5f1740f53c4e87acb391a440763ebb11231f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Ermittlung der technischen Kriterien für die Zuteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "949a4df49ea4b00f39140c4222c02a82f537748de94f360307d3badaea86ca4a",
+      "sha256": "f10480e775424819369087480e4d564ee172e21f29d51a5916a73d59efc8fd69",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Gefahrenanalyse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45ddcda7a9d7bb6d6759c7ae36022b0be61f5858aba4ce500b4a97db1503dde0",
+      "sha256": "b37f991734a8c66930da117a80476d77c2645e1b7e7d9256e2d36883e5ecfbd6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Maßnahmenkatalog",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9a8ffaac4c09c9d17448707185df30a6db53e713edb9e516f62a48a290946f7",
+      "sha256": "b20d850cc6803f93a46ab6ced19ea729fc9e1b2f31aa56b8cb979e1e6a77634e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "5. Teil Revisionsfristen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c34c2300d7376282a76a6145f38f07034ea8a2acf455bc9daeb024c2fb1debd",
+      "sha256": "24016fb64745749045ed2196aa3160020d7daa831121be1503a8e1c1439ad5bf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Grundsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "140a1933889f4800d658f010c86f5b736aae960151627d34a73ded6509e38703",
+      "sha256": "f8798c77899a9056134537a6b4e47e8e62ed00f62d15ac70732d56bacb2cf3d0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Prüffristen für Dampfkessel, Druckbehälter oder Rohrleitungen nach Sonderbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1643967c63e2db588a66d279ee789ff19257002021ff2c40f02e1c251d6587d6",
+      "sha256": "b2b8d68c74581ef962885e230c2ca370aa00c7facd9b8e471bf69e068dff92ae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Prüffristen für Dampfkessel, Druckbehälter oder Rohrleitungen nach Prüfstufen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "754a5fa452f8944d3ed68c923e2deb645e3ee1817470b374fdfb129df61eded5",
+      "sha256": "ab029a88ffb1de0ceddee6b650810f6f5c7ff93d71b508dfd68a62dfacbb9809",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. für Druckbehälter:",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) für die äußeren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3 Jahre,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "b) für die inneren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "12 Jahre,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "c) für die Druckprüfungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "12 Jahre;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. für Rohrleitungen:",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "12 Jahre.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "1. für Druckbehälter und Dampfkessel:",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) für die äußeren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 Jahr,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "b) für die inneren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3 Jahre,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "c) für die Druckprüfungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9 Jahre;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. für Rohrleitungen:",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "3 Jahre.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "1. für Druckbehälter und Dampfkessel:",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) für die erste äußere Untersuchung:",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "1 Jahr,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "für die darauf folgenden äußeren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 bis 5 Jahre;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "b) für die erste innere Untersuchung:",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "1 Jahr,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "für die darauf folgenden inneren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 bis 5 Jahre;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "c) für die erste Druckprüfung:",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "2 Jahre,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "für die darauf folgenden Druckprüfungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2 bis 10 Jahre;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. für Rohrleitungen:",
+                "rowspan": 1,
+                "colspan": 3
+              },
+              {
+                "text": "2 bis 6 Jahre.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "1. für Druckbehälter und Dampfkessel:",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) für die äußeren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2 Jahre,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "b) für die inneren Untersuchungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6 Jahre,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "c) für die Druckprüfungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "12 Jahre;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. für Rohrleitungen:",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "6 Jahre.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Prüffristen für Dampfkessel, Druckbehälter oder Rohrleitungen nach speziellem Prüfprogramm",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2d3f526596c04825e553e1bbc7378a84d3d88078bad1b9c32b64c6d1efb3bcd",
+      "sha256": "f32008e5366ba502b94e7f521ec3659fe74b4c100c41838cb38ebb5d97518a97",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "6. Teil Überwachungsmaßnahmen im Rahmen der wiederkehrenden Untersuchungen und Überprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b89ae487c2829356c7b511a08d7153e3698a44a6284b6fa8e426845ca93c262a",
+      "sha256": "e5f929a14f1428c2756bd0e009cc1e946f22d5139fffda0694ea10d8ff6df504",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Grundsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8bc9936b3fd6da61db309e4afe857f818db568156185ab1d2a7d2b34a092eca",
+      "sha256": "64795933a1b096b95c77fe64a5c6f7e07d24038dbde4c4a4119faffcaf251c38",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "2. Hauptstück",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f77e8f2cec3b46307ff7db8e3a6274b7948419dc7a768c4244bc10d17f58cee",
+      "sha256": "291836b7cd611adf45fe6a4bd9eb5eb5c3c8495ed41b7dabe0be7b029db46f8e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Äußere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "032e2422f9e87bc8ba8554ea3f2204e6a71a3e417fc6704084c5c7569c4d4b40",
+      "sha256": "53d00202de5b111b95060e5fce8035edf24b2482a4ab33683e2588772844c288",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Innere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60791b86741bc2da7600209f35b2277959f76651387dc80219d2dd3e20322b17",
+      "sha256": "23d79782d8fa462b9c8e598081b6905aa9c75c514f5cc7af8cb17452c1b495cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Druckprüfungen und Dichtheitsprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "765a1d923ae39a467f9a5af73ca2b63013b07de7acd28abdf1fe1f484a9e616a",
+      "sha256": "efc8dd2efac73cb5149df14880cc303327d741fc269ae6ae4fed2728c9694155",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "3. Hauptstück",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "966c09f528fec031bc7cbd7f9e285b13a149fcf0918dda67ea512b81a6d2d237",
+      "sha256": "434536e5d2c627fcf4dccb6f104dd469af5985eb0da538a4042abd933d5ae5bf",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 458/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/458"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Äußere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67db8c590c88e9762597fa3fa7943ca74fc3e7368737129b31bf3a8f3595f849",
+      "sha256": "7791fcfb56beb601374b93f8b02c37225e0627bedf897b6e92f1c738b1ff2a3a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Innere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97d781e26413542deacbc5fcbc47ba132f3f609a48af2ef265017c5cd88e5010",
+      "sha256": "83bc73e3553408104cfbf73b46beb257655bd1c51bf0508cf5acae4092e5a553",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Druckprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcab95afe27a6f4156bc64703531866e48d391b1a21017d5c743d894adc2037a",
+      "sha256": "40195e768343e50a4eef05a6959995c49ba7f7d7dee16c09df4a781bc5b536f4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 53/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_53_1/1997_53_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Dichtheitsprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6609754011f769679f3c1ad0567a244a6bbc6c220c89900bd908e0b673b5ec2e",
+      "sha256": "8090c5928ccfae8fe39be023316d55331de8049998afce55ddec1118943549dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "4. Hauptstück",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5415104ce5e748917b3058f598eabd323ee6fc7de7cb0abf614bf7965694678",
+      "sha256": "143c27fe7fc2fa4e108c2947b221f4f8e3812a11fb553d6f6c48d22cb88cae70",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Dichtheitsprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f8e5db6f1e5620d33380c0d4e982def156c05d0c5b25fecaae445eaf3b43e26",
+      "sha256": "f0c5937584a6ddcbc3152eb926ce11ed669bbdce5b09c43bab89d69befd646d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Äußere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e71a3e518c176a128b39e4d92233774754e265a2f3b69c9cc2c33edfb3970a7",
+      "sha256": "8e4f9b2cff3f6cb3fdb6d148155a1771782ebee7c3e6e75c6da77bfbd503ceee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "Druckprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df6f427eacd362dac54aea7041fd3aa18e8d47e08fcd811b4c414071bbf01855",
+      "sha256": "984216dec026ea798539fbe873779dc3fd680b6a0c84e734d39587ba46ab3de2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Innere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3efecd025c104f6821566d3db6ad24d533517283b869636b312f38f36dc24e4",
+      "sha256": "38a98cd537afae1d8cfb6c343342cbc93aca824314bcd9b592a81c9f3a642970",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "7. Teil Dokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2aa8b0dcee11e6e3b7c29d7071f2a07bef72361cefe8f33f4c243d30e6a173ce",
+      "sha256": "961a39bf41274438861d30272fdc52716902ac5c2910a2b06faddb68588df77b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "2. Hauptstück Bescheinigungen, Überwachungs-, Prüf- und Kontrollberichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8f87c4c7bc0372483ffa9cd88ce0e191d9971a8ea80c5ba17ab851f71ff37f7",
+      "sha256": "503eb5bc1a2d196dabd208055029cba25a936c6b59395aed67760f5af20590c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Bescheinigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c330283acf635b06f57c22bb18ae54b9f7ae18ab81838177b55a51a2acc5085e",
+      "sha256": "dddc0b3efe929c8fa837e899a820e0243081113d9fc68b167c6999c3e2d6c7c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "Überwachungsberichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5231335b8b46911aba6e8c0d688bef6fc2eba1255c96c50af7c4983980c28b2e",
+      "sha256": "2a0570ae66e18c418e1b365513be2797f97d42fdcbed2061683c4a3a9060cf41",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Prüfberichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "872796e0b4ead6038daef6b17a33dbbf7ba2e345bba8c42a304f1afd35939f22",
+      "sha256": "ec5c0f445f31449fab47b85516af0d071932309b805144fd5e8c75b01e08d120",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "Kontrollberichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3d270fbbea3b6e3d0b6172f2c0d1a9ec87d6ef7ea616deff2f3552574b3bc3b",
+      "sha256": "3f60b0bead9a812915ed2096129e9e4a8eeffcfb025e636d2fb017cc1d5db4a4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "3. Hauptstück Prüfbuch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b3e60a3317934dfe698d57a929d35b60ac076971be3a8f42161c2e202d9dcad",
+      "sha256": "87c717dec9cffcf547fcc694fb99dbacc776b53f392d568d40f9cf01ffb0f186",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "Anforderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "683c80b5d876b387d40b7dc5340a827c3bfcf2a8bda02b020c9bb624f0289ce4",
+      "sha256": "a1c5242ee1eaa58d5a0bff8905fe58b7f4ab629159a8ff10f528cb2dbaae9e19",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "4. Hauptstück Eintragungen und Anschluss von Dokumenten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db9be79af3a162c261d579066a110090670bb7bdc3c890b4dbbca43f36d3fa53",
+      "sha256": "fa29ecd948604fa60ad76eb0f42914b44f55c03706054d8ac2ca0532ee4f7a0e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "Dokumentation der Zuteilung, Gefahrenanalyse, Maßnahmenkatalog",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a719d1f65bf63dded3179495e1ba78fac2714cce745d28b05d32a4fee6f73e0",
+      "sha256": "4827b0043e007fc559ac189dacdf36a68f72b27dba883dd0162319a3ce1a6c0e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "Dokumentation von Betriebsprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b535c2fcacf92942854b711052be4a113499d8c3894789d9360434da38aa3dd",
+      "sha256": "f6987314ff1050b84ddc19e869e95b9df54169f5d743cf67bf9aba8b093c006f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 60",
+      "source_heading": "Dokumentation der Überwachung gemäß einer Sonderbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "par-0060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a3324d54db9f312056ff00ce457768582f1f6447b5893bf06413f8e22e98f46",
+      "sha256": "c5d05a9be15f654479edf6e5fcaa26646049fab5abb75b9c3b4d5c058ec43582",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 61",
+      "source_heading": "Dokumentation der Überwachungsmaßnahmen gemäß Prüfstufen für Dampfkessel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "par-0061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d36d22b5e98d2c64acec9d9b440b5bcbbcfac985ce685ad0d6d47c76e52be3c4",
+      "sha256": "46387fd4386fd7382219960104969d4e10ec346063a396cfffe0e8b36a35525a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 62",
+      "source_heading": "Dokumentation der Überwachungsmaßnahmen gemäß Prüfstufen für Druckbehälter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "par-0062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f42ea120c7fb5ea677ba1f5f1c01cf3c9249b2b0a0ac7e985e099b09f8fa50c0",
+      "sha256": "26b2f8919595198d9c886180f02e0f0ab07c91f93b6b3d6248c1cec27c965f46",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 63",
+      "source_heading": "Dokumentation der Überwachungsmaßnahmen gemäß Prüfstufen für Rohrleitungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "par-0063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0edcc5bb559b02866cb8fb235ad7da1b6a72c4f9be4227a976f1abc0f3051f36",
+      "sha256": "c8aba0776429a34248e84ad2951a28080f4daa7e7dc3724248228d9312becc04",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 64",
+      "source_heading": "Dokumentation der Überwachungsmaßnahmen gemäß speziellem Prüfprogramm",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 64,
+        "stable_identity": false
+      },
+      "file": "par-0064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad3767a52aa0d30fb05b6066c51efc70099f46a14943e71d4206e9c193dadf3c",
+      "sha256": "9d9c3cda3d95d4a6428d386441cf980cb9dc00370a51f345f467a8b56d2b9220",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 65",
+      "source_heading": "Dokumentation des Wechsels des Betreibers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 65,
+        "stable_identity": false
+      },
+      "file": "par-0065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "010ad2571c39087728d21d830c85c89090bce9ac3e8e1fca45574205f6685610",
+      "sha256": "c412c7fd9e41af0ce3a97cee899bb8d47208c60d5b64920a0df662e7f73a345d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 66",
+      "source_heading": "Dokumentation des Wechsels der Kessel- bzw. Werksprüfstelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 66,
+        "stable_identity": false
+      },
+      "file": "par-0066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfeb47eb7d9c763a27cbb19fcff2932dbbb3c297c0fbb5459f788092ea4546fe",
+      "sha256": "d62732ce0eb0ac279c7dc4288eb50339c07c26d1a31e7ca164ffa42649302582",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 67",
+      "source_heading": "8. Teil Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 67,
+        "stable_identity": false
+      },
+      "file": "par-0067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5a456830a08ff863b913e6eb34b9ff475931aa071e81537e80f5ac3d8c8bc76",
+      "sha256": "f3712e8f9d0fbfffb7101dfb949afe51fa5d771e09035c4944808def926080f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 68",
+      "source_heading": "Dampfkessel, Druckbehälter und Rohrleitungen mit niedrigem Gefahrenpotential",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 68,
+        "stable_identity": false
+      },
+      "file": "par-0068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "add8d3774b57f684ada0e50ef7f7922ed1c6a150764541dfef806e47c39bdebb",
+      "sha256": "59b373897aeb7b5942abf7b5b1199f99d8537e864b2fe4165545015ceee05cea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 69",
+      "source_heading": "Dampfkessel, Druckbehälter und Rohrleitungen mit hohem Gefahrenpotential",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 69,
+        "stable_identity": false
+      },
+      "file": "par-0069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6fbb4a8cd29b5f66fb8e55b71f28c5673373c38630b22cc0ca9b15d3da3aef67",
+      "sha256": "76f29bb52f2768db656cfee22c8361d87512f1920465a3a094d961cab504403b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Dampfkessel und Druckbehälter: ………………………………...",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "innerhalb von 5 Jahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Rohrleitungen, die länger als 10 Jahre in Betrieb sind: ………….",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "innerhalb von 5 Jahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Rohrleitungen; die nicht länger als 10 Jahre in Betrieb sind: ……",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "innerhalb von 10 Jahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 70",
+      "source_heading": "9. Teil Äquivalenz- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 70,
+        "stable_identity": false
+      },
+      "file": "par-0070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b6771cd9a3a5183dda847de5d3766e3007738424ad1edb939f6b184b71afa4b",
+      "sha256": "b8a86c360ba4480b51a38cff60935c02eb040bc12755215a72eff4b545e6e7ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 71",
+      "source_heading": "EU-Notifikation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 71,
+        "stable_identity": false
+      },
+      "file": "par-0071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41ab08c11634146f392bbc2ce05d745e2ddaca6d1d7aed644a10b2b5ad014634",
+      "sha256": "e78a3a61a28e538510ff63629b868fbae16167625699ea08a6a9cf7c4abef204",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 72,
+        "stable_identity": false
+      },
+      "file": "par-0072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3e0a190dafae8c9770f2dc886e904826c0dfcaa1f6a2957f65aa4f594d46e3d",
+      "sha256": "ca728dd463e0899db23151f92a41cb16dd7bb7a6089cffcb08c757f8952b7289",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 165/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/165"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 73,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "96afa71c1831fde4c9e0051ece5b43e10988d45afa459df703a76e2740a4c20c",
+      "sha256": "2dade79ea651f82f1f48b8514a12ae6d86dacbf5f7a303ec10d84c33f4ae39d1",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 1",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177829/II_420_2004__Anlage_1.pdf",
+              "title": "PDF-Dokument: Anlage 1",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177829/II_420_2004__Anlage_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 74,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c80b62268dc2f68fd16d0f7baebad75dae7d2da3c05b727471d2a616a22bf55",
+      "sha256": "6d5811402fe49756b8fbd8ca39e3328a68e651e389d752055c10120550a5074f",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 2",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177830/II_420_2004__Anlage_2.pdf",
+              "title": "PDF-Dokument: Anlage 2",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177830/II_420_2004__Anlage_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 75,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f840cf483f943caf56beba512298ac8576162619b2941f7b7168c07913b7a78",
+      "sha256": "299f403c570eb5c069a7e74fa04a14b9d1f210d78a79adfee4f28cfa4c3fa250",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "äußere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "alle 3 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "innere Untersuchungen und Druckprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "alle 15 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "äußere Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "alle 3 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "innere Untersuchungen und Druckprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "alle 12 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Prüfung des kathodischen Korrosionsschutzes",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "alle 3 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage 4",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 76,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "64d6fd2175425d3317068f2be40cdfd96a726e41649778d415c4074a8fbc87c7",
+      "sha256": "f81c2a49ffa6e5ac941c953cb9e054ebdfbc477b798dcb4cdcf1c2f1e3f17db3",
+      "notes": [],
+      "links": [
+        {
+          "text": "http://www.vgb.org",
+          "url": "http://www.vgb.org"
+        },
+        {
+          "text": "https://www.agfw.de",
+          "url": "https://www.agfw.de"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "ÖNORM EN ISO 216:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schreibpapier und bestimmte Gruppen von Drucksachen – Endformate – A- und B-Reihen und Kennzeichnung der Maschinenlaufrichtung (ISO 216:2007); Ausgabe 2008-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ÖNORM EN ISO 6708:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rohrleitungsteile – Definition und Auswahl von DN (Nennweite); Ausgabe 1995-10-01",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ÖNORM EN ISO 8044:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Korrosion von Metallen und Legierungen – Grundbegriffe und Definitionen; Ausgabe 1999-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ÖNORM EN 13445 T 5:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unbefeuerte Druckbehälter; Inspektion und Prüfung; Ausgabe 2013-11-15",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ÖNORM EN 13480 T 5:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Metallische industrielle Rohrleitungen; Prüfung; Ausgabe 2013-11-15",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ÖNORM EN 13636:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kathodischer Korrosionsschutz von unterirdischen metallenen Tankanlagen und zugehörigen Rohrleitungen; Ausgabe 2004-10-01",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "DIN 4681 T 3:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ortsfeste Druckbehälter aus Stahl für Flüssiggas; für erdgedeckte Aufstellung; Außenbeschichtung als Korrosionsschutz mit besonderer Wirksamkeit gegen chemische und mechanische Angriffe; Ausgabe Mai 1986",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "DIN 30673:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umhüllung und Auskleidung von Stahlrohren, -formstücken und -behältern mit Bitumen; Ausgabe Dezember 1986",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Richtlinie G 20:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kathodischer Korrosionsschutz - Planung und Errichtung – Planung und Errichtung von kathodischen Korrosionsschutzanlagen für erdverlegte Gasleitungen aus Stahlrohren und für Lagerbehälter aus Stahl; Ausgabe September 2000",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Richtlinie G 21:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kathodischer Korrosionsschutz – Inbetriebnahme und Überwachung - Inbetriebnahme und Überwachung des kathodischen Korrosionsschutzes für erdverlegte Gasrohrleitungen aus Stahlrohren und für Lagerbehälter aus Stahl; Ausgabe Juni 2005",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Richtlinie G E811:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Planung und Errichtung von kathodischen Korrosionsschutzanlagen für erdverlegte Erdgasleitungen aus Stahl; Ausgabe Februar 2015",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Richtlinie G B112:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "In- und Außerbetriebnahme von Nebenanlagen; Ausgabe Februar 2015",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Richtlinie G B331:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrieb und Instandhaltung von kathodischen Korrosionsschutzanlagen für erdverlegte Erdgasleitungen aus Stahl; Ausgabe Februar 2015",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Richtlinie G O310:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personalqualifikationen, Aus- und Weiterbildung; Ausgabe November 2011",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "VGB-R 509 L",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wiederkehrende Prüfungen an Rohrleitungsanlagen in fossilbefeuerten Wärmekraftwerken; Zweite Ausgabe 2002",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Richtlinie FW 510:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Richtlinien für Kreislaufwasser in Heisswasser- und Warmwasserheizungsanlagen (Industrie- und Fernwärmenetze); Ausgabe Dezember 2013",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

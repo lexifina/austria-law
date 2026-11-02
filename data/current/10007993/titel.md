@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Führung der Waffenbücher (Waffenbücherverordnung) StF: [BGBl. II Nr. 252/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_252_2/1998_252_2.pdf>)
+
+Auf Grund des § 188 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 30/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Inneres und hinsichtlich der Schußwaffen und Munition, die Kriegsmaterial sind, dem Bundesminister für Landesverteidigung verordnet:

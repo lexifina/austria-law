@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Durchführung des Grenzgängerabkommens zwischen der Regierung der Republik Österreich und der Regierung der Republik Ungarn StF: [BGBl. III Nr. 80/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/80>)
+
+Gemäß Art. 2 Abs. 2 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Republik Ungarn über die Beschäftigung in Grenzzonen, [BGBl. III Nr. 26/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_26_3/1998_26_3.pdf>), in der Fassung des Zusatzprotokolls [BGBl. III Nr. 217/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_217_3/2002_217_3.pdf>), wird verordnet:

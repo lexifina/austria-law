@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 8. September 1949, betreffend den Beitritt Israels zum Abkommen über die internationale Zivilluftfahrt StF: [BGBl. Nr. 236/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_236_0/1949_236_0.pdf>)

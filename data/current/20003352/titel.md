@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend die besonderen Anforderungen an Ethikkommissionen für die Beurteilung von klinischen Prüfungen von Arzneimitteln und multizentrischen klinischen Prüfungen von Medizinprodukten (Leit-Ethikkommissions-Verordnung) StF: [BGBl. II Nr. 214/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/214>)
+
+Gemäß § 41b Abs. 1 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 35/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/35>), wird verordnet:

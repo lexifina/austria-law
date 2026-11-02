@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002254",
+  "short_title": "Hoheitszeichen - Israel",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002277",
+    "valid_from": "1973-11-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002254&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:01:03.854375+00:00",
+    "response_sha256": "83b609611c3cc359d844a6c2b8eda0c187f3f932497cd83ea51c9912b2a09bb0",
+    "snapshot_sha256": "f5032e79e6285a753b3376ffa7dc460b7a083c892183b726783380428164785b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "61a2cc6fde3b922520f31bc1c0f6de3f805409c039f08d8af2af9d70268fa00f",
+      "sha256": "e5309d5ada9648ffd498b4dd3b22afc6f329e1b925ce596851d645d93c6abb7c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 22. Oktober 1973 betreffend ein staatliches Hoheitszeichen des israelischen Ministeriums für Tourismus StF: BGBl. Nr. 554/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 554/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_554_0/1973_554_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fe1745bec939f61b9c836bea76acb3768ff0147c9081a83fb2741f76c1d4837",
+      "sha256": "cc7b3e806df6399641c50e37c186d72f79166df322c6a5a2a33479f7fd8c87ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

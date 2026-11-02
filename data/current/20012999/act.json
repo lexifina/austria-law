@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012999",
+  "short_title": "VfGH-Ausspruch, dass § 21 Abs. 5 des Bildungsdokumentationsgesetzes 2020 verfassungswidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40272480",
+    "valid_from": "2025-11-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012999&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:48:25.459526+00:00",
+    "response_sha256": "f386a2ee105cb333f1e1121956a9e75fa6fbcc43520a6f4143463e054d1136a2",
+    "snapshot_sha256": "3a46d37454ee2d9961aaf140d26795ac271e30ba87fcd638859ac15dea97f9c8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c040891ae71dee710b114fd611f26afe14d4bf1b2dba2cb33f429cf4b5db76aa",
+      "sha256": "e316ba96b2ea36b29f91c4b71ac8d5444dd3276f7c35408e84c582ec10c26139",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Vizekanzlers über den Ausspruch des Verfassungsgerichtshofes, dass § 21 Abs. 5 des Bildungsdokumentationsgesetzes 2020 verfassungswidrig war StF: BGBl. I Nr. 81/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 81/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/81"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7dd658cb627391cac12e4ff9210f853853e475b03231b43f5702938d4ab4711",
+      "sha256": "3a17e44cafa35948a6ce3a2f37dc985534afa581e880eb6aabf2cf2e93c92300",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

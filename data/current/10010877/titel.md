@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die arbeitsmedizinische Ausbildung von Ärztinnen und Ärzten StF: [BGBl. Nr. 489/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_489_0/1995_489_0.pdf>)
+
+Auf Grund des § 14 Abs. 3 des Ärztegesetzes 1984, BGBl. Nr. 373, zuletzt geändert durch die Bundesgesetze [BGBl. Nr. 100/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_100_0/1994_100_0.pdf>), [BGBl. Nr. 505/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_505_0/1994_505_0.pdf>) und [BGBl. Nr. 1105/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_1105_0/1994_1105_0.pdf>), wird verordnet:

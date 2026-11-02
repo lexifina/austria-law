@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 23. August 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und zur Vollziehung in Angelegenheiten der beruflichen Vertretungen der Arbeitnehmer auf land- und forstwirtschaftlichem Gebiet. StF: [BGBl. Nr. 230/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_230_0/1963_230_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 19. Juni 1963, K II-2/63, – dem Bundeskanzleramt am 14. August 1963 zugestellt – zusammengefaßt hat:

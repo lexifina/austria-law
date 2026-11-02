@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003555",
+  "short_title": "Verordnung nach § 1 Abs. 3 Auslandsunterhaltsgesetz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003584",
+    "valid_from": "1998-02-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003555&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:39.692946+00:00",
+    "response_sha256": "96cdfdc4b719886d1968a8dbc85f4941516ad78f2b0c72d710d3c815f1cbbcd0",
+    "snapshot_sha256": "02d614628859bd0f6d82616abc6f822b07e4ed058c7c214740f77787c27cbb34",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "424dbfe54a1c5fe5e5f58db24fb538d32f186229cc19dd04752208037010c9be",
+      "sha256": "dd09cf5702b36dbaf89af5ac4502e25bb37a23cbc31babb31712e133f4f6869b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz nach § 1 Abs. 3 Auslandsunterhaltsgesetz StF: BGBl. II Nr. 47/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 47/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_47_2/1998_47_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 160/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_160_0/1990_160_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a349697978df320614ad1e7998849fb47695f8de2832e96961ff2598da6fa6b3",
+      "sha256": "2e87451c50025005e736729920f47d90adc78a42cfcf8c8d18c5389152ec4457",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft und Arbeit über den Ausspruch des Verfassungsgerichtshofes, dass das Statut der Wohlfahrtseinrichtungen (115. Verordnung) der Bundeskammer der Architekten- und Ingenieurkonsulenten gesetzwidrig war StF: [BGBl. II Nr. 544/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_544_2/2003_544_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, zuletzt geändert durch die Kundmachung [BGBl. I Nr. 34/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_34_1/2001_34_1.pdf>), wird kundgemacht:

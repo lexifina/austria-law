@@ -1,0 +1,3 @@
+Bundesgesetz vom 21. Oktober 1987, mit dem Bestimmungen über die Notariatsprüfung und über sonstige Erfordernisse zur Ausübung des Notariats getroffen werden (Notariatsprüfungsgesetz-NPG) StF: [BGBl. Nr. 522/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_522_0/1987_522_0.pdf>) (NR: GP XVII [IA 92/A](<https://www.parlament.gv.at/gegenstand/XVII/A/92>) [AB 270](<https://www.parlament.gv.at/gegenstand/XVII/I/270>) [S. 30.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/30>) BR: [AB 3341](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3341>) [S. 491.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/491>))
+
+Der Nationalrat hat beschlossen:

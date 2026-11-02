@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes, dass Wortfolgen im § 2 der Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz für die befristete Beschäftigung von AusländerInnen im Sommertourismus, [BGBl. II Nr. 102/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/102>), gesetzwidrig waren StF: [BGBl. II Nr. 200/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/200>)
+
+Gemäß Art. 139 Abs. 5 erster Satz B-VG und § 59 Abs. 2 VfGG in Verbindung mit § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

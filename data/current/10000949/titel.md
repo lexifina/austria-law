@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Unterricht, Kunst und Sport vom 1. Juli 1988 über die Aufhebung der Verordnung des Bundesministers für Unterricht und Kunst vom 2. Mai 1979, Zl. 9076/7-9 c/79, betreffend Genehmigung zur Errichtung der ersten Wiener Islamischen Religionsgemeinde "und der Verfassung der Islamischen Glaubensgemeinschaft in Österreich" durch den Verfassungsgerichtshof StF: [BGBl. Nr. 383/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_383_0/1988_383_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

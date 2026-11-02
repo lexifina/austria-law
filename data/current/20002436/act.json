@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002436",
+  "short_title": "Fleischer-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002674",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002436&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:46:23.640618+00:00",
+    "response_sha256": "ec5a5734d8affcccd3af3bec65c16b993b9aa85e7657ce4a4de521fdfe657154",
+    "snapshot_sha256": "a37f4bd5e88dc9d33f511c5968acb2f56a6d71bbb4a77c499901cbe169b11dd0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85c16a808a260df1c7e476e9a44ce5f7500414a186d10bf474e5c616ee07b564",
+      "sha256": "8cdfcbe77930640a5042cd7b40263ecdff5c57c16625bccde970b8cb1ea2414a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das Handwerk der Fleischer (Fleischer-Verordnung) StF: BGBl. II Nr. 44/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 399/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 44/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_44_2/2003_44_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 399/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/399"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a4b355060107750c6e7a96724e529eea49a3553bf572e5bc7408d2d9c6fa57d",
+      "sha256": "ef508a7fd9306abcf94338fbbd6a00833482f3236161a1aa7054016a28edf1d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz vom 4. März 1964, mit dem Bestimmungen des Bundes-Verfassungsgesetzes in der Fassung von 1929 über Staatsverträge abgeändert und ergänzt werden. StF: [BGBl. Nr. 59/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_59_0/1964_59_0.pdf>) idF [BGBl. Nr. 168/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_168_0/1968_168_0.pdf>) (DFB) (NR: GP X [RV 287](<https://www.parlament.gv.at/gegenstand/X/I/287>) [AB 373](<https://www.parlament.gv.at/gegenstand/X/I/373>) [S. 44.](<https://www.parlament.gv.at/gegenstand/X/NRSITZ/44>) BR: [S. 214.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/214>))
+
+Der Nationalrat hat beschlossen:

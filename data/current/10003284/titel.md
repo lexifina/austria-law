@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen der Bundesrepublik Deutschland und ihrer Länder StF: [BGBl. Nr. 157/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_157_0/1995_157_0.pdf>)

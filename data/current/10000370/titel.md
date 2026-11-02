@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 14. August 1962, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung auf dem Gebiete der Bodenreform, soweit sie sich auf forstwirtschaftliche Grundstücke bezieht. StF: [BGBl. Nr. 266/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_266_0/1962_266_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 15. Juni 1962, K II-1/62-23, zusammengefaßt hat:

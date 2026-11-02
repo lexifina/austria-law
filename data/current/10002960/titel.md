@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 2. Juli 1990 betreffend die Hoheitszeichen Finnlands StF: [BGBl. Nr. 501/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_501_0/1990_501_0.pdf>)

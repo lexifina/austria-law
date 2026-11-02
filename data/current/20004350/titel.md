@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und das Emblem des Global Compact StF: [BGBl. II Nr. 336/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/336>)

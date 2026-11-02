@@ -1,0 +1,4180 @@
+{
+  "sample_only": false,
+  "included_provisions": 172,
+  "source_provision_count": 172,
+  "schema_version": 1,
+  "gesetzesnummer": "10002460",
+  "short_title": "Europäisches Patentübereinkommen",
+  "abbreviation": "EPÜ",
+  "instrument_type": "Vertrag – Multilateral",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006890",
+    "valid_from": "2008-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002460&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:19.572640+00:00",
+    "response_sha256": "bca094839cd896af83d0a174bb5456526480e14622d81ea118381c4492603873",
+    "snapshot_sha256": "375f558d5f7b92def234e167784c8a2b0a9cf8969141abf3f46a92691e11d50a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": "Präambel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c644a83fe806fd1ed99edf4c8ceaaad666b983141051309825e4746d7e3c493",
+      "sha256": "5915aecc3fae96667cc86a52852f5a3900c97c39b9fe85a201a02174bca27898",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Übereinkommen über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: BGBl. Nr. 350/1979 (NR: GP XIV RV 868 AB 1137 S. 116. BR: AB 1948 S. 382.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 351/1979 BGBl. Nr. 591/1995 (Ä1) (NR: GP XVIII RV 975 AB 1085 S. 123. BR: AB 4551 S. 571.) BGBl. III Nr. 35/1997 BGBl. III Nr. 36/1997 BGBl. III Nr. 103/1997 BGBl. III Nr. 63/1999 BGBl. III Nr. 136/2007 (NR: GP XXII RV 1281 AB 1380 S. 142. BR: AB 7508 S. 733.) BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 7830 S. 751.)"
+        },
+        {
+          "kind": "Vertragsparteien",
+          "text": "*Albanien III 90/2012 Ü, Ä1, Ä2 *Belgien 350/1979 Ü, III 56/1997 Ä1, III 136/2007 Ä2 *Bulgarien III 242/2002 Ü, III 243/2002 Ä1, III 136/2007 Ä2 *Dänemark 37/1990 Ü, 591/1995 Ä1, III 136/2007 Ä2 *Deutschland 591/1995 Ä1, III 136/2007 Ä2 *Deutschland/BRD 350/1979 Ü *Estland III 242/2002 Ü, III 243/2002 Ä1, III 136/2007 Ä2 *Finnland III 56/1997 Ä1, III 62/1998 Ü, III 136/2007 Ä2 *Frankreich 350/1979 Ü, 591/1995 Ä1, III 90/2012 Ä2 *Griechenland 583/1986 Ü, 91/1995 Ä1, III 136/2007 Ä2 *Irland 484/1994 Ü, 457/1995 (DFB), III 105/1997 Ä1, III 136/2007 Ä2 *Island III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Italien 350/1979 Ü, 591/1995 Ä1, III 90/2012 Ä2 *Kroatien III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Lettland III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Liechtenstein 37/1990 Ü, III 56/1997 Ä1, III 136/2007 Ä2 *Litauen III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Luxemburg 350/1979 Ü, III 105/1997 Ä1, III 136/2007 Ä2 *Malta III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Monaco 663/1991 Ü, III 56/1997 Ä1, III 136/2007 Ä2 *Niederlande 350/1979 Ü, 591/1995 Ä1, III 136/2007 Ä2 *Nordmazedonien III 90/2012 Ü, Ä1, Ä2 *Norwegen III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Polen III 136/2007 Ä2, III 90/2012 Ü, Ä1 *Portugal 663/1991 Ü, III 56/1997 Ä1, III 90/2012 Ä2 *Rumänien III 31/2003 Ü, III 136/2007 Ä2, III 90/2012 Ä1 *San Marino III 90/2012 Ü, Ä1, Ä2 *Schweden 350/1979 Ü, 591/1995 Ä1, III 136/2007 Ä2 *Schweiz 350/1979 Ü, 591/1995 Ä1, III 136/2007 Ä2 *Serbien III 90/2012 Ü, Ä1, Ä2 *Slowakei III 242/2002 Ü, III 243/2002 Ä1, III 136/2007 Ä2 *Slowenien III 22/2003 Ü, III 23/2003 Ä1, III 136/2007 Ä2 *Spanien 583/1986 Ü, III 105/1997 Ä1, III 136/2007 Ä2 *Tschechische R III 242/2002 Ü, III 243/2002 Ä1, III 136/2007 Ä2 *Türkei III 5/2002 Ü, III 6/2002 Ä1, III 136/2007 Ä2 *Ungarn III 31/2003 Ü, III 136/2007 Ä2, III 90/2012 Ä1 *Vereinigtes Königreich 350/1979 Ü, 591/1995 Ä1, III 136/2007 Ä2 *Zypern III 62/1998 Ü, III 136/2007 Ä2"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_350_0/1979_350_0.pdf"
+        },
+        {
+          "text": "RV 868",
+          "url": "https://www.parlament.gv.at/gegenstand/XIV/I/868"
+        },
+        {
+          "text": "AB 1137",
+          "url": "https://www.parlament.gv.at/gegenstand/XIV/I/1137"
+        },
+        {
+          "text": "S. 116.",
+          "url": "https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/116"
+        },
+        {
+          "text": "AB 1948",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/1948"
+        },
+        {
+          "text": "S. 382.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/382"
+        },
+        {
+          "text": "BGBl. Nr. 351/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_351_0/1979_351_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 591/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_591_0/1995_591_0.pdf"
+        },
+        {
+          "text": "RV 975",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/975"
+        },
+        {
+          "text": "AB 1085",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/1085"
+        },
+        {
+          "text": "S. 123.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/123"
+        },
+        {
+          "text": "AB 4551",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4551"
+        },
+        {
+          "text": "S. 571.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/571"
+        },
+        {
+          "text": "BGBl. III Nr. 35/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_35_3/1997_35_3.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 36/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_36_3/1997_36_3.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 103/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_103_3/1997_103_3.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 63/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_63_3/1999_63_3.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "RV 1281",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1281"
+        },
+        {
+          "text": "AB 1380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1380"
+        },
+        {
+          "text": "S. 142.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/142"
+        },
+        {
+          "text": "AB 7508",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7508"
+        },
+        {
+          "text": "S. 733.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/733"
+        },
+        {
+          "text": "BGBl. I Nr. 2/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/2"
+        },
+        {
+          "text": "RV 314",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/314"
+        },
+        {
+          "text": "AB 370",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/370"
+        },
+        {
+          "text": "S. 41.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/41"
+        },
+        {
+          "text": "7799",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7799"
+        },
+        {
+          "text": "AB 7830",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7830"
+        },
+        {
+          "text": "S. 751.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/751"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        },
+        {
+          "text": "BGBl. III Nr. 136/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2007/136"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Gliederung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "PRÄAMBEL",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "ERSTER TEIL ALLGEMEINE UND INSTITUTIONELLE VORSCHRIFTEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel I Allgemeine Vorschriften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel II Die Europäische Patentorganisation",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel III Das Europäische Patentamt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel IV Der Verwaltungsrat",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel V Finanzvorschriften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "ZWEITER TEIL MATERIELLES PATENTRECHT",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel I Patentierbarkeit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel II Zur Einreichung und Erlangung des europäischen Patents berechtigte Personen - Erfindernennung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel III Wirkungen des europäischen Patents und der europäischen Patentanmeldung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel IV Die europäische Patentanmeldung als Gegenstand des Vermögens",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "DRITTER TEIL DIE EUROPÄISCHE PATENTANMELDUNG",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel I Einreichung und Erfordernisse der europäischen Patentanmeldung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel II Priorität",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "VIERTER TEIL ERTEILUNGSVERFAHREN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "FÜNFTER TEIL EINSPRUCHS- UND BESCHRÄNKUNGSVERFAHREN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "SECHSTER TEIL BESCHWERDEVERFAHREN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "SIEBENTER TEIL GEMEINSAME VORSCHRIFTEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel I Allgemeine Vorschriften für das Verfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel II Unterrichtung der Öffentlichkeit und Behörden",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel III Vertretung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "ACHTER TEIL AUSWIRKUNGEN AUF DAS NATIONALE RECHT",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel I Umwandlung in eine nationale Patentanmeldung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel II Nichtigkeit und ältere Rechte",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kapitel III Sonstige Auswirkungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "NEUNTER TEIL BESONDERE ÜBEREINKOMMEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "ZEHNTER TEIL INTERNATIONALE ANMELDUNGEN NACH DEM VERTRAG ÜBER DIE INTERNATIONALE ZUSAMMENARBEIT AUF DEM GEBIET DES PATENTWESENS – EURO-PCT-ANMELDUNGEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "ELFTER TEIL ÜBERGANGSBESTIMMUNGEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "ZWÖLFTER TEIL SCHLUSSBESTIMMUNGEN",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Erster Teil Allgemeine und institutionelle Vorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001--erster-teil-allgemeine-und-institutionelle-vorschriften.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d73b36e3d97ccc90479d2dc42630b1a0da815b1a8421445cadf41ba4f5d7159b",
+      "sha256": "159839a30da7bef882412befe6201e2febd28f8543769f13363c7afb0894412a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 2",
+      "source_heading": "Artikel 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "art-002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f78cf63316186258358bef822017a3fd4f3d476ad89f04f044ac9817f5e74598",
+      "sha256": "c3dc6826d6ae304118e1041172c80d96b4e5d66c0ff3484de88bd9a14c7f6615",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 3",
+      "source_heading": "Artikel 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "art-003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7305afbd39f882f2f8ca97242bd28b5bdbe1a9396af9b881abde217b29b94530",
+      "sha256": "9522e4dccfa9d4b7b78032e1344ec390e6a4cacc288979e3cb9b97ab1736fc39",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 4",
+      "source_heading": "Artikel 4",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "art-004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "927cee6f522781cbd8af94fe67f058b85a4aa28312fa0bd03e2e45a97c2e6915",
+      "sha256": "97424b79b98cd076d5125892e93702fd9bd4ab4672af141c28a50432023876e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 4a",
+      "source_heading": "Artikel 4a",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "art-004a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fc30bb15608abe907d9a0524fa146180febc1ee9194d325e496e8d60919735d",
+      "sha256": "f882f0a27102887496678bcf2612ec111fc264fc66fe4c13be7c607797df4f4e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 5",
+      "source_heading": "Kapitel II Die Europäische Patentorganisation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "art-005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ddfc0466fc39bccb501829f9b91878acfb034113c7cf451353688b833640544",
+      "sha256": "ccf1aa39deeee9191dc65ff3148d593923f035e5cb6647c939df53835264ee47",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 6",
+      "source_heading": "Artikel 6",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "art-006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "adf89aea5527f013085883f8ba9ee21dbd856303d0494657297e4cf193bd0784",
+      "sha256": "40f7ca1bdec7aa7313d7a39289e041a33f3f192fd0ab072ba4621be1a99052d2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 7",
+      "source_heading": "Artikel 7",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "art-007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "96df080de60a8ecec30ce0e47d69bc64e1c011828c65f85fbfe93cd3c3f08c3b",
+      "sha256": "410665b45f33742d325bfb62d8865d568bd46296fc31d8a76c0d12ae3a47bb01",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 8",
+      "source_heading": "Artikel 8",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "art-008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac837ce7b186a8e3bf4ed4b338a93684d8d1a27b4a98b3008b05ef62c05792f2",
+      "sha256": "ca6a1dfd0abff8d26959643540d62dc22db6091733604adb8d381f3ac01707e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 9",
+      "source_heading": "Artikel 9",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "art-009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea7fa17c5b3a9a2869ce6029587c74fcfc29385f1d0a222ad92ef0005f1d8bc3",
+      "sha256": "363f0b271eced4c5d52f80f11ef8aac2461420b756ef6e8c9440b2898875c8ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 10",
+      "source_heading": "Kapitel III Das Europäische Patentamt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "art-010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2fbb21102e9cfe31c2d6ba5d073b3ddff38259cf07dfd524cc42fc8d3f5400a",
+      "sha256": "93528afa4066220e45cf582499ce93456ef962bad89db3b4d8a8c54cdfdd5c62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 11",
+      "source_heading": "Artikel 11",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "art-011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f30324ae00258177e47504f3870866e44761300c35fc660e5c7034e583adcd3",
+      "sha256": "003575ae74c7cf41d4a3de564fdda2d0e2a1ca0041095b33c80e7eef9d3b2686",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 12",
+      "source_heading": "Artikel 12",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "art-012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "506fe3ca9764a07f61ae7dc3a2251a396be5cff9b9e659ac0e5662795b93078f",
+      "sha256": "4e01d9668118f061e4fb4876d1ec0de7944ac2838a10a8e007e071af98b771d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 13",
+      "source_heading": "Artikel 13",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "art-013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2337d81b57d9f08a440c0e8176d0b2959c7599577ed1b7e78f7a2f02c039b23",
+      "sha256": "f0d39019da2a577623bf1c984f6c76ff078bcaa249d0846c6b32a8e2acd9efb7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 14",
+      "source_heading": "Artikel 14",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "art-014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a239105b66c843778c4340225411765f858c880e6041e6992fa537ef75eaa644",
+      "sha256": "7b97625e8530767e33f04781c161ca946be3165251a8ccb9f776f779e5218749",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 15",
+      "source_heading": "Artikel 15",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "art-015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cac09a489863af8c1f6734c40244e77409601a7b15114a5ef55a8630260d7b2f",
+      "sha256": "ca6385a0ad6b6449443020584cfacf37e0bc1b7e08593568cc074cd2d7a4dde7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 16",
+      "source_heading": "Artikel 16",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "art-016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5bd039bbbf574cbca6a28f75aac36e383ec6b6a435fd3087670423ac107f0242",
+      "sha256": "55933719e6804d1956ea6e12b6493904be0a7d05abdaaba2f972d5e65ce783fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 17",
+      "source_heading": "Artikel 17",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "art-017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92a5f2a49352d92f94910ec6f38b5aec3d5ee1854b3100d716437f387af20942",
+      "sha256": "77d4c9ee14b2c99c788bd4be0a13f5bb26630eb2d77502aa9460e97b4408f42f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 18",
+      "source_heading": "Artikel 18",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "art-018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e58d1b71915f38babebb10840465741d2d1c8130c7f01534ce292861caff90db",
+      "sha256": "506e72f57766bdfc391937cd28f19223b4ccccb0bb67f0dd6074de08895dbbac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 19",
+      "source_heading": "Artikel 19",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "art-019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ad6293970c2f6da6b293627e8fe1d19de6bbda2c0caf608515415f5ef76f8d8",
+      "sha256": "98813fb86d7740c795276286df573d764a242270b230a3332bdbb425ac95e4e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 20",
+      "source_heading": "Artikel 20",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "art-020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00160242570a4d87aeff1cc03ac8d306d33c278d2b0109cce6f70b986448f7a2",
+      "sha256": "71ba31e729c06651cc47d72d29706fcf581920332558e08bb78b7ae0f5031016",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 21",
+      "source_heading": "Artikel 21",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "art-021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c61af27fe73d62ef38374e4e2444d62936a8797f92b7d34b4d9e13a8098fd08",
+      "sha256": "2aed62108d41471ab98ddef098f0c8b13c1e59dac8dd8e27b39d5ff2c577bf2f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 22",
+      "source_heading": "Artikel 22",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "art-022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2775477d93b6514bda41b2de143d40e0abb554bad1ecf5aa01ff8c235a9c9af3",
+      "sha256": "e1e0987d691d29bbcca01e761d3147c491ee002533d5f25668a88f1e28833d23",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 23",
+      "source_heading": "Artikel 23",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "art-023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9191331cf6b7e194316a62479752e90a08f39322667a7655acebe53b4269613",
+      "sha256": "25e0c57981be781d4056e43ad43cbea0eae1989ba89e1d052ebd1d4990443517",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 24",
+      "source_heading": "Artikel 24",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "art-024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4160e77a15c90b612ce7ce84b938be77449610a55b955e2a5d1f589b91ea025a",
+      "sha256": "0638abd9d9564754d56b0ea3104ccf57fa40c76372b8c7bd278959d514773019",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 25",
+      "source_heading": "Artikel 25",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "art-025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1130c079a382bdece3bda93ec52b7e903e2ce1ed119200a841a3b7cb871b13aa",
+      "sha256": "50ca44f848fa41f74e09731d19ebcd1aaa8a8808307ef5a0196e435b22f70ce4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 26",
+      "source_heading": "Kapitel IV Der Verwaltungsrat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "art-026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac291b8442b3d9cd3a82505808f01f105e0d5dfd4c02b04a031a593d9991dc9e",
+      "sha256": "5248f92d9a5a1dea4e62fd7ed706b435bf3a04d89342f262da54c366d28e8420",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 27",
+      "source_heading": "Artikel 27",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "art-027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a42ad185867dad584e4fd27caa2ba4c32f2a2223157d6336ef5260d4117bafe",
+      "sha256": "7935d4b779dfe1507071f001421d0bde45bb40a8a99e6b0a646480f4058a652f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 28",
+      "source_heading": "Artikel 28",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "art-028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b01de41bb82985cde99403b514fe93c37159c20ab45a73730028b075efc17870",
+      "sha256": "5917eac751c117fa9100f93d94ea78d1634f7c9deae5da367ddd72ca50ef4762",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 29",
+      "source_heading": "Artikel 29",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "art-029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "362f7f0c986a38d228b23cd46eab399434c340861ac57e2df4a8294a2342941e",
+      "sha256": "3d131fbfa4318393a1d1de9dcd645f0a9a04494329570ef28786b81a5df58ccf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 30",
+      "source_heading": "Artikel 30",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "art-030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a8d47878550d2aafbbb5b2620fd54c8076ea5ed84d22e7dac9f5c7f85fc188f",
+      "sha256": "b47f50fa7c05d35c56077ada9fa3f5791c104c9895c3cb48faa3cae18f6f4f5e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 31",
+      "source_heading": "Artikel 31",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "art-031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed3da046b3d6687db3818fb27f03aec7b0760c72ca665c723d4e72a0333e1251",
+      "sha256": "20b2f6795b273db876b5b822e8d265301da1479642d84f1c634c6c2d00408b10",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 32",
+      "source_heading": "Artikel 32",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "art-032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5990f6b05372983dd6ccd5e36b157a8fc0320a9d6d2b1cf57efa72ec1148531e",
+      "sha256": "e944dfcb466e1aaee3f824d8d80afbaa3502fdb45aac61725df2333bab2379b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 33",
+      "source_heading": "Artikel 33",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "art-033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "61401c0b3078be112d870939fe55552c88275e3eeeeae3f125d0ac5679278437",
+      "sha256": "12c1bdc83d6fc06c820e0e9886a892f0bcd1dcdadce877641b4f151bdabe7426",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 34",
+      "source_heading": "Artikel 34",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "art-034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "efe4b042591a9b2d43c262b2f9771acf3b163553ae001c81b707dbaac18c5c42",
+      "sha256": "151de402985ffa852b802a6c2e6f783b06c7d2a01e08aa927190152d8b2c9cb2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 35",
+      "source_heading": "Artikel 35",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "art-035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f219212e5bfeaaa4fa18ba3ea5c331064887ded7d3bc730f3c0d86e7b7637d39",
+      "sha256": "731fe55eb4eacf52d0e7bb9ee9de1389ea3b48bf635bb54507f2b784af100416",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 36",
+      "source_heading": "Artikel 36",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "art-036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "415cbdd96f20aea2dad00754e0e89b4321707904265504c6453c0949f0ab9c4e",
+      "sha256": "78a303286b74600589074b996e776908ca201b471b3a318fcc9e741fc8b8de89",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 37",
+      "source_heading": "Kapitel V Finanzvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "art-037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2e0bb3b58dd0847f5015f44426727fb1331d1cf4a4aa4d335e34d7e79f987d3",
+      "sha256": "36a64ead3eed4f8ebe834b38a99683e8531b6138e8d411bf88525d627f25e72e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 38",
+      "source_heading": "Artikel 38",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "art-038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2c795548e479391df8449a356f03097deac7c634c7b181a206501d2782d8c86e",
+      "sha256": "35e4424612fc1e20b1c16f627a4afef779b04932bcb7a20692821ffd03c69c46",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 39",
+      "source_heading": "Artikel 39",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "art-039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af3fa06ab2d402c378dcb067f0dfdb2cc7baf8aba3b3df7da4b051bb9e95d8f4",
+      "sha256": "4e1c48bf2478cae382daef49bceef4f20ebef347fe4af503c3f9f27f9b123e80",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 40",
+      "source_heading": "Artikel 40",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "art-040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09c20689c562d4cdab6364e26268caf1c23456a76e3a1f246cec6d3cbca103f4",
+      "sha256": "ddee065de24d552d9eb1443231f826b83f69157e257f3698449698c9f0eb3fd4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 41",
+      "source_heading": "Artikel 41",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "art-041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "63dedf14792acb80e899eb9c0cd58d97dfa73a51b957e115eabee1c5330c249e",
+      "sha256": "0f7133b743c5c0aa218b2a389c92471a2e3bc7f6c37903b50bfb328866083549",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 42",
+      "source_heading": "Artikel 42",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "art-042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "583ff41fad87508cdaf167b1221189e01f93c55a7c1505c6167f4ed4be34ee7e",
+      "sha256": "69b442ac8aac266344b2b7bc620d19d467e403cf8b1c3800a91ddf5cce86cb2a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 43",
+      "source_heading": "Artikel 43",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "art-043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5ef2193ec604621b8c70b5f4ba420c0971c156f42602bc5e966ed777a0afb73a",
+      "sha256": "31c41b0e3f540e02d23f41712197b0a9470f71826e7d531bccd0e15a9a8d012f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 44",
+      "source_heading": "Artikel 44",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "art-044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51231a8c283fbc6fdfe1fe5d5a04d60656540cbb386ee8de6eab5d46b95240ca",
+      "sha256": "4aa8300fa239e085a8f3fe9282a631f97a5c5f064b27b53302f95dc3ea24ee2b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 45",
+      "source_heading": "Artikel 45",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "art-045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06908b15876e8a4a288710e049af5c105e5cb406d98debc77cb515590e95a2c2",
+      "sha256": "528d45d4ddd98fb8d0cc846fb9ccfb8026fd3c51c0a9bfa5cf9912f3c685f840",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 46",
+      "source_heading": "Artikel 46",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "art-046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "062fa1d05f1e29e2785d32b420f782b8d3975677193881d74d03d30c9fb28a65",
+      "sha256": "8ac81c66a5244356f8c21cd4a576fd300575e72dcec38c0515513fcaa1bcd823",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 47",
+      "source_heading": "Artikel 47",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "art-047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cab7bb76abdd25574ce5ee4c7915083046d73c030fbf91ea70fa4a16cadeae0",
+      "sha256": "ade4d0be1707d6182469dcba98d9c22d0ecc8ee15e4d37b95c78999d893f10ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 48",
+      "source_heading": "Artikel 48",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "art-048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd018b7a2626139c86addd29de825aa31bd1b9465b7f0e34322808462c7641d3",
+      "sha256": "71c5dff44a99c3ca62fa076652d330b11d4e0b3ff7a6deca5e99bdb78666ff08",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 49",
+      "source_heading": "Artikel 49",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "art-049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e14578f6c7a035265eb4b5fe38970bd825e768a04c5b69c222191f522c131345",
+      "sha256": "9e6b016502645d31142f7df564dcb8b0aae31db84cb81edbd419c787d9735e09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 50",
+      "source_heading": "Artikel 50",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "art-050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b127b0186cf729ce2f617c3234074b5a404683f874c51377a7f47fb91941b9e7",
+      "sha256": "5455167cce3c5a72c95cb843dd3bf75ca1b30037433e7a17dae69e5d3fd01a5c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 51",
+      "source_heading": "Artikel 51",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "art-051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f3782d9827912716e2ba93cf142c6c429d0fd4a335cf071d05e0d93c30548a3",
+      "sha256": "41efbe8151abc01758d4b0b32d4aefa481c63dcfab8083dc8a62bb135f3c0cf6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 52",
+      "source_heading": "Zweiter Teil Materielles Patentrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "art-052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37b9af843ecca30dcb7064dc3c690e36cd617f8ce24095776b4cf2ddff0a2c05",
+      "sha256": "b75a7d8c7977f91cb96c0cb8b21bbd3140280cf3d58df91766c2e8f1a27dfc9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 53",
+      "source_heading": "Artikel 53",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "art-053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b94c6fd3645b779dd0378778c94e2d5989fd8277ad09462e10c662a41bcb231",
+      "sha256": "5735b656aabcaafd0fd5c95bd213a74607e32afc2669727045f13063ffcf2314",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 54",
+      "source_heading": "Artikel 54",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "art-054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07a3cc23550136cef2f334019b90c43293b8671acee487dd39e688d7b71ec091",
+      "sha256": "8ca1f25b7fa3f0eaa2ac504a73e77ab22c364dfc5079836bfda89e871ba29e41",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 55",
+      "source_heading": "Artikel 55",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "art-055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4aae7757d999d58e845e9c82a8a5b27490c125df2d2611b921a1b56a8a97ac26",
+      "sha256": "655e4020491e3efa911422df8a6faf64677c77db10cfe0568c308ebcf814014a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 56",
+      "source_heading": "Artikel 56",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "art-056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2530585dc7d93ac31b05992ff63f4bd706b7a6fac6d05a5c2c20e231103b5af",
+      "sha256": "dccbd16c2d4b9340e66d8d2bf1a47807c9176a5cc1d1239ffd867369bd7f312b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 57",
+      "source_heading": "Artikel 57",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "art-057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3579f4af1587a73c6bc4a39cd47a43f17ccb7681f0626008a4c024cd00bfe1c",
+      "sha256": "401927c48f7a64315d7ce93b5ab5f39032b33710896f4d8fbd11c93d4098e8b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 58",
+      "source_heading": "Kapitel II Zur Einreichung und Erlangung des Europäischen Patents berechtigte Personen - Erfindernennung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "art-058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3082d5df0e30db077ad29d596aa398e8171da96446eeab22a4c09d460a41c6a6",
+      "sha256": "d4f44d3b9a6529f812ee0af8adc2c20b66fc70a4a5c32bfccf607745126fcf04",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 59",
+      "source_heading": "Artikel 59",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "art-059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d45e91b0e72082b5af78642423844b0ba8ec303d85e35b8bdebb58226abcdf2",
+      "sha256": "29c40bd640553fd126ec50f66cedd53c89d01f3e935135b653a1c24710e195ae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 60",
+      "source_heading": "Artikel 60",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "art-060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fbf15783d6b72a618a13aa5fc604afa572ae3fc92a84b639081408eb37024a6",
+      "sha256": "486b693e7c96913b0f9cc422c4234d38cc2e12274c58f966da6919ccb5667cd6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 61",
+      "source_heading": "Artikel 61",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "art-061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "393eedf898206882620bfe2c791a7097d8af39c523895121295093754a15858b",
+      "sha256": "59855803a77469b804b693724206f6a00cf3edb07ac111a19190a5f581736bbd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 62",
+      "source_heading": "Artikel 62",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "art-062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5e0732c2228772023cf24c2e6546a7fe81ab511cbda833f810fe145e6b47a803",
+      "sha256": "f5ba55d6532f9a6c43e26d1bbfb498b34bbfdbcd629d8369912c82e2ed92b71b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 63",
+      "source_heading": "Kapitel III Wirkungen des europäischen Patents und der europäischen Patentanmeldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 64,
+        "stable_identity": false
+      },
+      "file": "art-063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcb6eaa5384a84d82182cf0add9155cfa05a46e05762b9c24788bc9f01f7681f",
+      "sha256": "88e33655cfca2f3be11e8f0f574cad1b2ecdc1bc407c23f9234996aa9b138e4d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 64",
+      "source_heading": "Artikel 64",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 65,
+        "stable_identity": false
+      },
+      "file": "art-064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f6fc86f8af8ed647b96c836b6ddc53c3af081126e7cb5ba04594908b382ebf8",
+      "sha256": "d64424db45a46cb77065a38d55de5da17c647692043a0ebe28870948e8ede3ac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 65",
+      "source_heading": "Artikel 65",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 66,
+        "stable_identity": false
+      },
+      "file": "art-065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "28f64c56ab1863b04037d8234ae6a25177ece4001706ee0d5e393fce5319f3aa",
+      "sha256": "3382888b8a2935d05c855fe2dae6432a77ed6027fccbea0361ba087a14c015d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 66",
+      "source_heading": "Artikel 66",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 67,
+        "stable_identity": false
+      },
+      "file": "art-066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c0dbdc88f1debd28163f2378e69e5f5e1b7e06c87b37a36b59a587d0ea20ca4",
+      "sha256": "e2f6e0808ff741c18242d126f5be835853394ce921263e9d0fc2c4bfe1b189be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 67",
+      "source_heading": "Artikel 67",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 68,
+        "stable_identity": false
+      },
+      "file": "art-067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a94cecfaa655ea2bda502171d410fcc3bcb7f1df4ba0f53452367a4994a6f357",
+      "sha256": "d2c5b59b98a247e0477108965ae66ffc7b18a180ec794ec1a9ac767225c294cb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 68",
+      "source_heading": "Artikel 68",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 69,
+        "stable_identity": false
+      },
+      "file": "art-068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0536cda2f9923c12bd2e1696b05a2cfbf89d928d1bfedbc3ae6dab3f8213e621",
+      "sha256": "bb5c9f5e2fc5a52d0ec8405362d6ae7ee8a9573f6295f465c5a20ae4caa30aa6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 69",
+      "source_heading": "Artikel 69",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 70,
+        "stable_identity": false
+      },
+      "file": "art-069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "22cb639465b9a93f2f903a479c7b6de3e4f99f5084ad5bd387104846519ed455",
+      "sha256": "851fe2d8bb53833b0917a559e8c5e4bd9cb4524075cc6ddf9c8f5bac98e20a6f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 70",
+      "source_heading": "Artikel 70",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 71,
+        "stable_identity": false
+      },
+      "file": "art-070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ba76169da461493e08f5fbfbf9509cfbeeddca88c45d2da0430f9e1078b2f7d",
+      "sha256": "b7fb90a1e0c9405b075bc149f6008fe04794a9038643b49fac5eada31552fbd5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 71",
+      "source_heading": "Kapitel IV Die europäische Patentanmeldung als Gegenstand des Vermögens",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 72,
+        "stable_identity": false
+      },
+      "file": "art-071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2143c566b9324ef535ff1e1c202b5d439ba36ebca3f651edfe2b1e90801b5d4",
+      "sha256": "f856df6578bd6138a198c9637a1f16133cd84e633c674337467f75cd3c38d54a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 72",
+      "source_heading": "Artikel 72",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 73,
+        "stable_identity": false
+      },
+      "file": "art-072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "244b5fb6a86876db46030f0999f3a72fb670b451666b8e06fce54fe318980e4a",
+      "sha256": "785438660fe9e21def63acc42d8745ba91584b40e3c00e2b97848cc3cb759589",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 73",
+      "source_heading": "Artikel 73",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 74,
+        "stable_identity": false
+      },
+      "file": "art-073.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbc975916df482064b5ea4a140b71b9ace0509f41390ba7b5fd4c08a2d1e6cd8",
+      "sha256": "586c0fbca887ab9db4a772562f4dfb03e3db51649041800f05c3e1f745292317",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 74",
+      "source_heading": "Artikel 74",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 75,
+        "stable_identity": false
+      },
+      "file": "art-074.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3561ffefa1cfb33a766f375e6c405fffc210d939228bf386db13b37a0ee49e0c",
+      "sha256": "87f1471170681aa234ff7235a54dc337b79b3891d63e99929a8d284a59ff46f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 75",
+      "source_heading": "Dritter Teil Die Europäische Patentanmeldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 76,
+        "stable_identity": false
+      },
+      "file": "art-075.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3be9b634d63305ddee090cc74003909bdc98b3cdb1ea2f1b96d164dcfcd5f056",
+      "sha256": "74d3cf95df74c0bd0215db7da9c61572b6d033aacc6bf757554acc02622d5f84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 76",
+      "source_heading": "Artikel 76",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 77,
+        "stable_identity": false
+      },
+      "file": "art-076.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f66400e952e1a018436f3bac6a672fc7522e43734f4029083b7d2dea6ef7545a",
+      "sha256": "fb3d8e28a14a4212a74169a743b100fcd6182329fff0af22293fb2808a5fa8a5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 77",
+      "source_heading": "Artikel 77",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 78,
+        "stable_identity": false
+      },
+      "file": "art-077.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55414b2c1d0532f8d0d2343838a5879519c885cdf77a2bb95facd4e89ab0039c",
+      "sha256": "8c9c4631043518e3558f540639169686ad3148397616f0fb2e0b7cf404ad6563",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 78",
+      "source_heading": "Artikel 78",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 79,
+        "stable_identity": false
+      },
+      "file": "art-078.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba74ee263e2cb9f5d88702eb84074a376ff7dfbcfd631ca54556029aeb24b6bf",
+      "sha256": "6d2d5e4151a1fa2afa3e86dcc5ee31f647c9e3d5c81fcd41f49c595c3dc9f1ba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 79",
+      "source_heading": "Artikel 79",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 80,
+        "stable_identity": false
+      },
+      "file": "art-079.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "96f3c747958afb4d1280332b814e1f23a88484c566d5f4cc4a8d721f3cc1a62b",
+      "sha256": "9734f0bc3f12cd4d4c287b0c501481d399c7b6a5e29b160892692b3cddf55d66",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 80",
+      "source_heading": "Artikel 80",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 81,
+        "stable_identity": false
+      },
+      "file": "art-080.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9ad78063f7eb24991a08528cd695948b0ff98a08eadfad7d08574fe9eecefef",
+      "sha256": "e26b42286122ce0f91e4c9b22044c025e124ac10f5616b4148a5f79ee4236cf0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 81",
+      "source_heading": "Artikel 81",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 82,
+        "stable_identity": false
+      },
+      "file": "art-081.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "159fa8f401872be86ec7a13ccbf161641515ac05c780832818ed228fed4e0cbb",
+      "sha256": "78af6c421e4bf7fcdda2bbf0e8cb9ac4181c8b2aac2255fcdfacc1675649528f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 82",
+      "source_heading": "Artikel 82",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 83,
+        "stable_identity": false
+      },
+      "file": "art-082.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c83a822173a9a59ea6e02a745efa797cf7fce349d189dd761d86e6cf00bca199",
+      "sha256": "59ff08c6dd4cd7df40cdaa989118ae2cdc962f08b262c3c4c2bc4122bfe92649",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 83",
+      "source_heading": "Artikel 83",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 84,
+        "stable_identity": false
+      },
+      "file": "art-083.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ff4baa3559bc85c08d2ef62f4522ed30af002cf8cda6dfe623844ab78dfa2ced",
+      "sha256": "f9541f9f90eded6a20d21feffd6f51ab472a6b3fe394c33d2b4a5bf659ac991a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 84",
+      "source_heading": "Artikel 84",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 85,
+        "stable_identity": false
+      },
+      "file": "art-084.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8da0d4a9cddf97caac5a4046d57d70a0d195c28cc198ffc25122a936a179d800",
+      "sha256": "42e5b13a2e2a050744e0121abd886808138832ada78c57cddcffc8c8b04b72fe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 85",
+      "source_heading": "Artikel 85",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 86,
+        "stable_identity": false
+      },
+      "file": "art-085.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bef995f84db4196348bbc205400b84f858345d683a93521d73e7856d91e21af",
+      "sha256": "a3127c071dc31085758c2b3a77010efae7d72b98a3a547b9ad7acccc2df81c18",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 86",
+      "source_heading": "Artikel 86",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 87,
+        "stable_identity": false
+      },
+      "file": "art-086.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "939677659dc1223abc9428dcf28eed7fd9dd1ec0f3f10d3477d0c67560b91272",
+      "sha256": "b17edf5e14275153869464216c096367dd6dd3974b84ec736bdff1af252b0a28",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 87",
+      "source_heading": "Kapitel II Priorität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 88,
+        "stable_identity": false
+      },
+      "file": "art-087.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4716e80f2d44f355dce583f5bf262adae66e45a65a9c9782b89cd598400d4804",
+      "sha256": "0980cfced88aebd7297ffbae5d7d4e8b5e80328f8f2a6a35715fb0d9cdbb1a24",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 88",
+      "source_heading": "Artikel 88",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 89,
+        "stable_identity": false
+      },
+      "file": "art-088.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2fb429c1aa898aee918d3c0b7aa3c185075570c2f93acb1eec7c1094aba174e",
+      "sha256": "89cd27d8de70cd629ff817dbb02297383c3a0b81c3d6dd1de42ae7972f830ae5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 89",
+      "source_heading": "Artikel 89",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 90,
+        "stable_identity": false
+      },
+      "file": "art-089.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b39d5f2c5987dbcc8e2d861f78b5de35147655add8d5cccee33dfb92a91014b",
+      "sha256": "f52c48c6545cf32899a0e3d33b34c68b3deec8fb5d173707a831b2b71062d59d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 90",
+      "source_heading": "Vierter Teil Erteilungsverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 91,
+        "stable_identity": false
+      },
+      "file": "art-090.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac8ab1bddcab9bcfebf0f01968dbd9365892ac9cf26a865bb826f6eb2e21dd58",
+      "sha256": "dae4e06108134c19c3f605e27a018d8a3ae4a348a51601f6ba3679668c32c4d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 92",
+      "source_heading": "Artikel 92",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 92,
+        "stable_identity": false
+      },
+      "file": "art-092.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "852a5467cde66d91e1ac73d4936095c82af30821a7a1072b04920527b9931312",
+      "sha256": "84ff41700cb3447670c268093d37f28176415490f8de4197603b1ae60e961e68",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 93",
+      "source_heading": "Artikel 93",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 93,
+        "stable_identity": false
+      },
+      "file": "art-093.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5905a748fa9de1b9ccdb87237da5dcfa8a90259feedc4b411d0373e458ced9e2",
+      "sha256": "02820d180a4c6ef12951a277f5dfb21d30bd590009bb79b81a528254cf3168ba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 94",
+      "source_heading": "Artikel 94",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 94,
+        "stable_identity": false
+      },
+      "file": "art-094.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc211fc7ed376af6c0b6261094e880882709df45da4bb23732ce6345cad8c8ba",
+      "sha256": "a105641a3d7c22970d8ca052a8c83ffa43232ab829dc9fd4253c3cfe5a78996d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 97",
+      "source_heading": "Artikel 97",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 95,
+        "stable_identity": false
+      },
+      "file": "art-097.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e6bb943f9908b123ef97fff291521ce4b220e703cbf270f257dcae59927168c",
+      "sha256": "637cf258eb76da944aa26fed5189a8ae947578ff812312060e758c1146573c59",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 98",
+      "source_heading": "Artikel 98",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 96,
+        "stable_identity": false
+      },
+      "file": "art-098.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7352d858c12b69bd306871f332845690eb5c3fba76a41cbaa07fffde521bb4ad",
+      "sha256": "f19bec81e63e0bac2b01498b12d3d37cfadb73f71bf42b2431200d091c2460dc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 99",
+      "source_heading": "FÜNFTER TEIL EINSPRUCHS- UND BESCHRÄNKUNGSVERFAHREN",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 97,
+        "stable_identity": false
+      },
+      "file": "art-099.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "159062821cf622ddced8e63f9381d9d0fb1ba528b2f354aa9a02999ee38f0a0b",
+      "sha256": "f128b28ed8428ac2fe60285b8dd083164192747da514c385e54ca3c0c055d563",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 100",
+      "source_heading": "Artikel 100",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 98,
+        "stable_identity": false
+      },
+      "file": "art-100.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6546aac563e72261849083ff023738dc7094d34e181ee2d02338a34cd62760f2",
+      "sha256": "6f606c926616f08c1b8a097a1a6940b7a9f913651cdff430f64993786a7e185e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 101",
+      "source_heading": "Artikel 101",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 99,
+        "stable_identity": false
+      },
+      "file": "art-101.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f8168891fa7338bd9f670ab70863f4a230472c7a2800af17b7b6893a3ad868d6",
+      "sha256": "5090eb6c4af983344dcb308c63da60e5d8d59844c6fb141d85c33e51f4b94a1b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 103",
+      "source_heading": "Artikel 103",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 100,
+        "stable_identity": false
+      },
+      "file": "art-103.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b25bbb5229632446151c3f9bae6bc5fab41a4f52275a865707e45accc5f8e6b9",
+      "sha256": "3c307f9d2a7713f339efb16493bfd1cc6a847604d8416ab0e3f66608479cd1c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 104",
+      "source_heading": "Artikel 104",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 101,
+        "stable_identity": false
+      },
+      "file": "art-104.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04b596647abd392b18b50ab69d971668ee9cabcea3cb8c51abbed5d67b126288",
+      "sha256": "ad9daabf5e9d9ea6cee0e972dc299867ca270b6e29910b92ae00c29c321cd535",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 105",
+      "source_heading": "Artikel 105",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 102,
+        "stable_identity": false
+      },
+      "file": "art-105.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2fd2391a8165cef0b0daf562c1a0cee88ba84586a82cd7de8ca6ac9028496bbb",
+      "sha256": "69979e16f173601d7cedb7dcc5cd69669ed761a666e8c6cff376e3afd2c4ab0c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 105a",
+      "source_heading": "Artikel 105a",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 103,
+        "stable_identity": false
+      },
+      "file": "art-105a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "adb46cfd5d9826b94ee5f89421388d5dbc427f5351add2a48e833ac99049beb1",
+      "sha256": "2e8001448c814c510016456d66dddc89fb47b0222c44d1cd8a09bec49670d2ab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 105b",
+      "source_heading": "Artikel 105b",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 104,
+        "stable_identity": false
+      },
+      "file": "art-105b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62f4ab6bc915e880dcf96feb9652fd2b3e1cdd1616a85b5486c563d8417c301e",
+      "sha256": "3b39e7b821747cf22533964d80a077694b54ab4b37b5ab3d1de2ea8ccc088af8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 105c",
+      "source_heading": "Artikel 105c",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 105,
+        "stable_identity": false
+      },
+      "file": "art-105c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94b7cc6bda21a5f4f82757b159fe122cda7d16b176ed646ab6390cb19cc23ef6",
+      "sha256": "68776185acde69041090ad2414c13b6c4b8cba8940fcd52d5ed7212f6cbe3cd9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 106",
+      "source_heading": "Sechster Teil Beschwerdeverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 106,
+        "stable_identity": false
+      },
+      "file": "art-106.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1e915a8ca71d0597297954d92a3f141560110e35a8e499c66f1cf8057eb234d",
+      "sha256": "b873af565ab6c7731bb4935a0c01f3deac90ef60562f0c14f7b59da0608839b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 107",
+      "source_heading": "Artikel 107",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 107,
+        "stable_identity": false
+      },
+      "file": "art-107.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2def21a32830e6904bb413323850afcd74f9263960883954774862c240541e8a",
+      "sha256": "eb4e4ae0fb6e0d2d6ce2c46d9e0b5ac7f842a657d5f0b0e590ad645b7569700d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 108",
+      "source_heading": "Artikel 108",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 108,
+        "stable_identity": false
+      },
+      "file": "art-108.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2fec132a3caeae936b46da1f072c459ff59ce6dff9fe7c7b0a6e3ae81821be8",
+      "sha256": "65269b87e28c40626de7ff6da7d678e2e5fd2371f9cc9ebd09a427acb74b9974",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 109",
+      "source_heading": "Artikel 109",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 109,
+        "stable_identity": false
+      },
+      "file": "art-109.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3737fe963cc5858d44177aa789f3f7d423225907579dc26db3df4ccbacf2a39e",
+      "sha256": "97a7b8d4e8b98723f04801b0c1375b8849fe05ad10565edac44ad780ac68af79",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 110",
+      "source_heading": "Artikel 110",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 110,
+        "stable_identity": false
+      },
+      "file": "art-110.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae2df7106a2c24a98e146cc7e39092b2be3c074a48a283fd92e3933f6d11fce6",
+      "sha256": "d7f4712f0d0f506205167a079b17dbdf1566d975913c682770edf82a64e81ea6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 111",
+      "source_heading": "Artikel 111",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 111,
+        "stable_identity": false
+      },
+      "file": "art-111.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e21f8f67953b57bc4f7367ed3ac385ba0a969fa45f5b7e32b783af251640e7c",
+      "sha256": "61767fe571283f69eb72634927c8de60e34503bacb13d3afde7971f45735a8fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 112",
+      "source_heading": "Artikel 112",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 112,
+        "stable_identity": false
+      },
+      "file": "art-112.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39112da7fdc9adc239483095ea60216f42138bb35c38277b2f915ee26617f74c",
+      "sha256": "616ddefb093e5a1794746b527e3f95033cfc068c273d27cf2e151c0679589da1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 112a",
+      "source_heading": "Artikel 112a",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 113,
+        "stable_identity": false
+      },
+      "file": "art-112a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d117a5783212a517059a6ef2dd7af2a09bcc7f31116fe7d2c8db0587867962b7",
+      "sha256": "c613864deff1f49acd1b21839c462e1b98ab28fa3b67ebea8531b390a65586e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 113",
+      "source_heading": "Siebenter Teil Gemeinsame Vorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 114,
+        "stable_identity": false
+      },
+      "file": "art-113.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3cb6364232634a31419ab57e50b934a5fe48cb35ce533496b2450f941b8d3cff",
+      "sha256": "64328809df716f8e2dd26d438654afaaad8276cbe625f4e93e9deebc84528f27",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 114",
+      "source_heading": "Artikel 114",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 115,
+        "stable_identity": false
+      },
+      "file": "art-114.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd70abd0855239403918d6962697bad75af387af5c204844b216e5e7a2600740",
+      "sha256": "dbed26a8dd509094c199ccb5c61e4daf66de54ce4aa82ec44fa3aef8f46f359d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 115",
+      "source_heading": "Artikel 115",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 116,
+        "stable_identity": false
+      },
+      "file": "art-115.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d2357d5beaf16d236c412260acce7d2849b3944172bb85a1b5a5f44db98d90f",
+      "sha256": "32b5dbcdc0ea8198eb3912bed7d7f1639ec25217f730d588e38d3227bf7ab0ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 116",
+      "source_heading": "Artikel 116",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 117,
+        "stable_identity": false
+      },
+      "file": "art-116.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "149fafa7877a3a746225eccd008869e9ef7986d618f8077500b76b667430b88b",
+      "sha256": "4e2c3656defdcca4da22daa2914f99385d0ac4a545145641c8b2823710afb6ab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 117",
+      "source_heading": "Artikel 117",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 118,
+        "stable_identity": false
+      },
+      "file": "art-117.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd2ed4ea5d904c83d41bdefe07763b887b5c692c7327f6e1ac4d8646bc09470f",
+      "sha256": "ee8922853d69cbc8de3e83340981370c6eba3116ffe3069c2181a156448ea00b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 118",
+      "source_heading": "Artikel 118",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 119,
+        "stable_identity": false
+      },
+      "file": "art-118.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d44782d596802cea5261ff5c58bd5b1752c3001245aba28e11db5c89887e4341",
+      "sha256": "d783fc7bfd481be3939c57f4d370e1c9cfd144830be7f9f37e1cacb683753f7f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 119",
+      "source_heading": "Artikel 119",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 120,
+        "stable_identity": false
+      },
+      "file": "art-119.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e47f02dd931140236176c871b589c45c8c2295eebfc2456303b7d7b7f83917b0",
+      "sha256": "c29371ae785382ae84ca826b7038742f622129908fd39f6e66ced6ec262b7db8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 120",
+      "source_heading": "Artikel 120",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 121,
+        "stable_identity": false
+      },
+      "file": "art-120.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8da73f125dfd98d4247a04e1d467162ae504bf4782de267dd61643f380572559",
+      "sha256": "0d499ab037b6b1803e07efd5ab6a16b6ca2244a2c55bd6fe6c6b6f613663efdd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 121",
+      "source_heading": "Artikel 121",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 122,
+        "stable_identity": false
+      },
+      "file": "art-121.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3e412dd4693d7c32b9a4b3468d1db4c8c71a880b9ac5cddf81bc302f158a5e5",
+      "sha256": "68f59797888e0090242571d5a55ac0f789ac1890e0b309715487fe474df55e00",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 122",
+      "source_heading": "Artikel 122",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 123,
+        "stable_identity": false
+      },
+      "file": "art-122.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7bcda99040d8a2734ee625f98bf0333fc3eae23daf90d85b37b81e3979b6c291",
+      "sha256": "95756ff427d7a20e304dc9825b034bac6030ffbd30e5ab2b88d9ce170677c7d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 123",
+      "source_heading": "Artikel 123",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 124,
+        "stable_identity": false
+      },
+      "file": "art-123.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8d84f256b8c14db34ec1e57f3f101b72eae3a6b96921d527d4b93fdaa4e6d57",
+      "sha256": "57ee001214ef6ae01af39e4a9b9e27b89fc73c770669c3a753cb2c8d55065f74",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 124",
+      "source_heading": "Artikel 124",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 125,
+        "stable_identity": false
+      },
+      "file": "art-124.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d09c84d60bf1d7622d984463bacd314ac66256640954175febfc38e7fca8a6ae",
+      "sha256": "d6d00d4c12172f42c03a5ed204d15d0be4161228d03ba6c562c339678b005542",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 125",
+      "source_heading": "Artikel 125",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 126,
+        "stable_identity": false
+      },
+      "file": "art-125.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7489a8104d91850b81ad1e4a6edd1f2592c021b8f4d3d36da91dc124c634f2e6",
+      "sha256": "acd73a9e5bbee628ad81f0e01cfa4973b1c349c719e30cda26c0e7ba950d645e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 127",
+      "source_heading": "Kapitel II Unterrichtung der Öffentlichkeit und Behörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 127,
+        "stable_identity": false
+      },
+      "file": "art-127.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b75d40005fa36b41e21febb00af95bba4e68d84c44509f2a4d4fe715161c474d",
+      "sha256": "6b1a1e0b2ddc04a233fe46e8947a81921cd1af2139adbfe518bfe8c3a25a7d56",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 128",
+      "source_heading": "Artikel 128",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 128,
+        "stable_identity": false
+      },
+      "file": "art-128.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3e36d525033cc09f7a4f085dab2e0852ed9050cc8a0bd530136e67b1d6de4e6",
+      "sha256": "aa56a53f5901e1ae33f2c96a0ee18f9b21c994862bacdc4a6df54629d95716e0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 129",
+      "source_heading": "Artikel 129",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 129,
+        "stable_identity": false
+      },
+      "file": "art-129.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba0a1292921e657d7539e7c2cdf7333f7c214bd09e69d972b5c1404b07f16799",
+      "sha256": "9e2dcc82e6cae8097e8d6dccaa9194b909408da2507c1ae39d78407ef475c9f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 130",
+      "source_heading": "Artikel 130",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 130,
+        "stable_identity": false
+      },
+      "file": "art-130.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0bc930358e7082f0249dd0c6857df7e7cf3493fe38cdeb8a8b2a6e4d114aaaab",
+      "sha256": "21ac6dbb4d5253482b7d41a335f0f35a99eb84ecde1ef751990a200fabadce6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 131",
+      "source_heading": "Artikel 131",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 131,
+        "stable_identity": false
+      },
+      "file": "art-131.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6485e6d72aad77fa3d8785084a9c3c5082e49db7ab57fa92c1954d44127c5b42",
+      "sha256": "1e2c1d22cbf4a8bf32a8ac61ee476849f5903d682eb612bc93ff570ff6db255b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 132",
+      "source_heading": "Artikel 132",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 132,
+        "stable_identity": false
+      },
+      "file": "art-132.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1faf770431ca8ab5b0bc102be82c48e1762383e2f5845a6f01bd8219d80c1cb",
+      "sha256": "f6cc0e610d67dfe6dbc5c34883cd9e92dc3c06e7f9ef1cd94c09fcf9a80690ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 133",
+      "source_heading": "Kapitel III Vertretung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 133,
+        "stable_identity": false
+      },
+      "file": "art-133.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5df23f1e00907732e45245d80b7fce6a2b6bc20d91c5a3986255b2e8adbda931",
+      "sha256": "41970d7582ffb66daec282a1426351733fd72610efeb21aa2a195f32f700361a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 134",
+      "source_heading": "Artikel 134",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 134,
+        "stable_identity": false
+      },
+      "file": "art-134.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b63b21f1f6c0119f1962b72c55775dc46923295d24ee1124b3f99ff0969a7c67",
+      "sha256": "de4dfd834421724d45b0b825726af87cd20cb1f0483ab36f9af9a3e8747307d3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 134a",
+      "source_heading": "Artikel 134a",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 135,
+        "stable_identity": false
+      },
+      "file": "art-134a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd03840270a440961f9d77e5daa9cfa8f3395c1849a5ccf35ea049e45bb7c66c",
+      "sha256": "2382c263b526c921acf367a5187d262502e65ed8e826180fc54428e368b8608e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 135",
+      "source_heading": "Achter Teil Auswirkungen auf das nationale Recht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 136,
+        "stable_identity": false
+      },
+      "file": "art-135.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1593119749670e3446a2214bb41c18e62ff10b2b10ef98a0c40d783e2dba4e1",
+      "sha256": "7f47266fe3d0d81d8ad2e665c1b11a94837074768c2c36dba055b9396bac208b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 137",
+      "source_heading": "Artikel 137",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 137,
+        "stable_identity": false
+      },
+      "file": "art-137.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c026cc438340519dcab30d19f68ffd2ca4bccd0f72a531371a3eafaf62c3194c",
+      "sha256": "c9a76be79fd9313d5a688e26bc5c8510cf6c7b3a4b181e427b42d3e29152cf93",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 138",
+      "source_heading": "Kapitel II Nichtigkeit und ältere Rechte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 138,
+        "stable_identity": false
+      },
+      "file": "art-138.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f08e86ff7bf3742f728ac62a94ea5697ee9de66e624b952870d084c07e8f6660",
+      "sha256": "bc0ab61ef88ebb0c5c2d7030d1bdea069e9572f0eadd967aff800347ad6b8c1f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 139",
+      "source_heading": "Artikel 139",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 139,
+        "stable_identity": false
+      },
+      "file": "art-139.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c21a3a24254c75ea4b5af00af86f40699d567f66808ca2ee6938a40d31457565",
+      "sha256": "fc44b6d56e77e1c9ab6b8aefca6d05a7c59d59ac5461e31201f93ce50e140cd1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 140",
+      "source_heading": "Kapitel III Sonstige Auswirkungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 140,
+        "stable_identity": false
+      },
+      "file": "art-140.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e13e09175cb63686309d90cd8aef8228f5fb88619861fddf3b1e34bb574a9a93",
+      "sha256": "35c5d53f70730f5d18b2ce6367d8c359c4acfeb81052ab6afc4156b9fccdca1f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 141",
+      "source_heading": "Artikel 141",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 141,
+        "stable_identity": false
+      },
+      "file": "art-141.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c7ea8874be5bb24ee65631a9ca209fc0ea79597f2b12723f277ab365d4db2660",
+      "sha256": "d66f691fbdda3a9f300b02ef6f87db0219022191accce6d8df959151887dc09c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 142",
+      "source_heading": "Neunter Teil Besondere Übereinkommen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 142,
+        "stable_identity": false
+      },
+      "file": "art-142.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d5106524765fd6fc3ee4c35e6d40671be2421d62b098347e68c897baffaff91",
+      "sha256": "102b303c1f12e1a4e59e7c82cef69b8bbd71b9e3702761aabf18a7ad473d2c0e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 143",
+      "source_heading": "Artikel 143",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 143,
+        "stable_identity": false
+      },
+      "file": "art-143.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0db588b3d1e3494249fcb08555ba89d3ed933cbdef12bcb66838e5e20a5a44cb",
+      "sha256": "28a73e3c3a29adcb38d71632b815338f7dbb682c7ad547f7c6f9d98fd02de3d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 144",
+      "source_heading": "Artikel 144",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 144,
+        "stable_identity": false
+      },
+      "file": "art-144.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7dcbb983dd36cea6aa47616d789e7c26b2e41ddde740c194ede24d575b92ae75",
+      "sha256": "b8f5db93a90e073b63ae98a625640799073bd2e01e4efe22497d2684c71506e6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 145",
+      "source_heading": "Artikel 145",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 145,
+        "stable_identity": false
+      },
+      "file": "art-145.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7706a0116621f8537fa2c85db3e79be290891ed74af2a22a33ee19734636528d",
+      "sha256": "80e92ef7909039341827a4a641bf264ce6fcf9dffc00174d90807130f81fbedb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 146",
+      "source_heading": "Artikel 146",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 146,
+        "stable_identity": false
+      },
+      "file": "art-146.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce60dc0854014d19c7e05050d9db106c879983e3968ab42213e9e336de1ff15c",
+      "sha256": "b41f872a9e783e06b9f64348f5d6388b6d4d59015462f09a55c1c8c811eab0a8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 147",
+      "source_heading": "Artikel 147",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 147,
+        "stable_identity": false
+      },
+      "file": "art-147.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b08d9171af6a7c58e20a722ea52e922713b483d193b776418c3389b78f816108",
+      "sha256": "72d09fda2233dca6fd69b921c83cce1e64e0161f639506584823257f9745fdcc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 148",
+      "source_heading": "Artikel 148",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 148,
+        "stable_identity": false
+      },
+      "file": "art-148.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c734ef510eb30f2ad25321195c2156ef1960f841bd6d7edacce21ce401dc21dd",
+      "sha256": "939b28d8a288594470b61a24a746d0a18b98fafc21d2c704e155db81bc744cfe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 149",
+      "source_heading": "Artikel 149",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 149,
+        "stable_identity": false
+      },
+      "file": "art-149.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1265354ffd1a2062e66941f7a3bf4dc1ec496d7ae845c8f365e88cc937bd627",
+      "sha256": "faaf5db3cc85936769cbabef68555d2ed5ebf157cc9cf4e19b3f2f0b4fd6e652",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 149a",
+      "source_heading": "Artikel 149a",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 150,
+        "stable_identity": false
+      },
+      "file": "art-149a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c2eacc43c0cc62a3725ce689bd5c5f29f4e37da5857d8b4c3a833a43b6329a5",
+      "sha256": "12efe83ba23918b446960f7d7b3853fd9cf8d6e6d55ce77fabb2dccd7fc09f47",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 150",
+      "source_heading": "ZEHNTER TEIL INTERNATIONALE ANMELDUNGEN NACH DEM VERTRAG ÜBER DIE INTERNATIONALE ZUSAMMENARBEIT AUF DEM GEBIET DES PATENTWESENS – EURO-PCT-ANMELDUNGEN",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 151,
+        "stable_identity": false
+      },
+      "file": "art-150.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72ab250a44063d3e86d1b4083d7c14bed82de97908c0b2f0883489d4e9e4edcd",
+      "sha256": "19becee626b25f34aacf77cb6f63093894248cacbf1357382e55c569eadb3cb4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 151",
+      "source_heading": "Artikel 151",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 152,
+        "stable_identity": false
+      },
+      "file": "art-151.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8343389bba1cbf979ff8b3f499f146971449ec95a03624a6f66be90f2efdc06",
+      "sha256": "6c948773becb98a189fbe66601705839a2a965abb3f27bcd2c4db4851f1dda65",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 152",
+      "source_heading": "Artikel 152",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 153,
+        "stable_identity": false
+      },
+      "file": "art-152.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d9a950e21bc7f8a1844658124deb0a04b83d20dc66da4c94f8e9da64c514836",
+      "sha256": "3f3b974bf48bc2681c26c7b7119e18700da51291bfa879977086e9cbf19c5146",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 153",
+      "source_heading": "Artikel 153",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 154,
+        "stable_identity": false
+      },
+      "file": "art-153.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09eb2f8afffbfb9a88128b207c70fc24ced2c4bbbcc69932c7f871a93499006d",
+      "sha256": "65806f51aed8d2361f13fb5929e5af947c53de04e07c6a0ebf533b24379a6580",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 164",
+      "source_heading": "Zwölfter Teil Schlußbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 155,
+        "stable_identity": false
+      },
+      "file": "art-164.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cd63c2f7db27754b8b3738b5109d3c3c1a8d398be6aa17c754ecf515ea58dd4",
+      "sha256": "58395e3a2990d9001bed3eb3eb443a1dddba10be16b72fb20d462ca7b30e00c2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 165",
+      "source_heading": "Artikel 165",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 156,
+        "stable_identity": false
+      },
+      "file": "art-165.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b76f7d4cd9eeb18f4d107659ebcae0a1b9a65acf15de45b6c84c44fefdbf822d",
+      "sha256": "99da32d04e88f63eaa19e91b185e454b9d2ced42ad0a5a52d71f1808b00a3f8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 166",
+      "source_heading": "Artikel 166",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 157,
+        "stable_identity": false
+      },
+      "file": "art-166.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9869b305ac91b4cfbd59679955e4ae09ac27b0c300e802687340ec565dbb644a",
+      "sha256": "0265dfa78143ad78a4c41e58447ced3598fbcb19de49020d19f47f379cfafdf9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 168",
+      "source_heading": "Artikel 168",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 158,
+        "stable_identity": false
+      },
+      "file": "art-168.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1560ebcfad240c826f11616af027caaabc0ad3eda39eec9b3fa22466be5963ad",
+      "sha256": "d0df65dedc83bd979f907218df8229fd74cb1d14e2d5ec07981f581c6e269db9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 169",
+      "source_heading": "Artikel 169",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 159,
+        "stable_identity": false
+      },
+      "file": "art-169.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0f129e1cfe27915ff5b2761d16e1aa4cb65cdd78734d091a6e75a3f44f3b182",
+      "sha256": "04f0a0b79c96ce92f3baf810906f42b0b0fb11d28a6dfe28e0dcb77cbd25c52d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 170",
+      "source_heading": "Artikel 170",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 160,
+        "stable_identity": false
+      },
+      "file": "art-170.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "981f1fdb52a54d5a80bb7ddf2fdca342487573595284a911a614707093761a34",
+      "sha256": "cbbdd64a9bc53a24a5d33b720fc02558694b4a55fc9a089c0f785cd6522af28f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 171",
+      "source_heading": "Artikel 171",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 161,
+        "stable_identity": false
+      },
+      "file": "art-171.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "76630c1d665c9471797a64c52427d38acadd98a8f1bce1504c2afed4f93a43ca",
+      "sha256": "67965513595b1425699005e35ad3415035be732ef87b0dafc0f2c59000c1f466",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 172",
+      "source_heading": "Artikel 172",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 162,
+        "stable_identity": false
+      },
+      "file": "art-172.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62d49a2ef9501cf3dada3c3461318b2dd79ffbc68f188a77621df72558888924",
+      "sha256": "d141dc05da7aab776479ab4647d555146187d9fae2a5cee3e6e4d927b321e0d6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 173",
+      "source_heading": "Artikel 173",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 163,
+        "stable_identity": false
+      },
+      "file": "art-173.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ce12b392a85c13b23b92f995568611ab45918efa6f64dba6a6f76850c691a24",
+      "sha256": "296a50d870d91e4b5d65a72dd935c21150106cbe962c498eb26e4768f2053256",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 174",
+      "source_heading": "Artikel 174",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 164,
+        "stable_identity": false
+      },
+      "file": "art-174.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "441f3d770c2a8d553a4a76e0c2b444d6e4e51163953efcde2862d35bda613a46",
+      "sha256": "abfa2497977cb721876272b10e1344a909089e80cf37051db1883ec69ce91061",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 175",
+      "source_heading": "Artikel 175",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 165,
+        "stable_identity": false
+      },
+      "file": "art-175.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb8046170daff67679970c5e3d1b363a932ba3d3c7a40ee3da04ca0a7f7d820a",
+      "sha256": "8b91c543a7c8c8ee68efc365ad8fc0dc31418a116d00c0570d6ed5e45935e635",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 176",
+      "source_heading": "Artikel 176",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 166,
+        "stable_identity": false
+      },
+      "file": "art-176.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e41dc18759df5b91d60ddb4f8dcd0aa88ff47db4df4a754008b286580d0cfebd",
+      "sha256": "0d6283821488a100e021e762fca2bbc44c6728b83b4a3189da466963607bdb21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 177",
+      "source_heading": "Artikel 177",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 167,
+        "stable_identity": false
+      },
+      "file": "art-177.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55c5e0094b6d1147c9df4c13f29559025e199b71463fc5cf635c0ec54fbafddf",
+      "sha256": "ec9e8f9c31e0af125a4276e2588f2c95687c3dc675e7c388c27f17356f1b4a8c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 178",
+      "source_heading": "Artikel 178",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 168,
+        "stable_identity": false
+      },
+      "file": "art-178.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c54b476923c55aae18eab2740800c0c784cf562c86901c046df50a9502536c6b",
+      "sha256": "058429d96de49b012efd25960c2dd3ffa05439b876a3024e32b1a06d160595f5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "PROTOKOLL ÜBER DIE AUSLEGUNG DES ARTIKELS 69 EPÜ Artikel 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 169,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d67baad1e847c638dc5bb1ccd7c4f09fb8696553e1992c0f882e3f4245174bb4",
+      "sha256": "8d63ff86b6a650251548bc604ec6f6997dd268a9cbf2e8f82498f9fbd6c19262",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "PROTOKOLL ÜBER DEN PERSONALBESTAND DES EUROPÄISCHEN PATENTAMTS IN DEN HAAG (PERSONALSTANDSPROTOKOLL)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 170,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a4af94f8387128cfa23ab933df30e178f11c76baff1045feeead2c29e4d15fe",
+      "sha256": "97496de87f1d74b1078394f9ad66efe4704fac0b93c481cf9e46ae32476a710c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "(Anm.: Zu EPÜ, BGBl. Nr. 350/1979)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 171,
+        "stable_identity": false
+      },
+      "file": "art-001--scope-ce40b891ca59.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db0b24fc193f61f8506c714a713bbbe652901bb95a14baceea7cd9344e6f8a8c",
+      "sha256": "df72d5d3dfbaa446b428a8eb224172bc48855ddaac385837d6d43618e0124dcc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_350_0/1979_350_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

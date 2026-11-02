@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen in Betrieben (Industrieunfallverordnung 2015 – IUV 2015) StF: [BGBl. II Nr. 229/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/229>) \[CELEX-Nr.: [32012L0018](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0018:DE:HTML>)\]
+
+Auf Grund des § 84m der Gewerbeordnung 1994 – GewO 1994, BGBl. Nr. 194, in der Fassung der Seveso III – Novelle, [BGBl. I Nr. 81/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/81>), wird vom Bundesminister für Wissenschaft, Forschung und Wirtschaft im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

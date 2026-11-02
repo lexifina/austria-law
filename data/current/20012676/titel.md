@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung 2024 im Abschnitt Ofenauertunnel – Hieflertunnel der A 10 Tauern Autobahn (Section Control-Messstreckenverordnung A 10 Ofenauertunnel – Hieflertunnel 2024) StF: [BGBl. II Nr. 238/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/238>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 90/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/90>), wird verordnet:

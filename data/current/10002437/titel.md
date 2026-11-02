@@ -1,0 +1,1 @@
+Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens StF: [BGBl. Nr. 348/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_348_0/1979_348_0.pdf>)

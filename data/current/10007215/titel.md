@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem Bestimmungen über Preise für Sachgüter und Leistungen getroffen werden (Preisgesetz 1992) StF: [BGBl. Nr. 145/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_145_0/1992_145_0.pdf>) (NR: GP XVIII [RV 336](<https://www.parlament.gv.at/gegenstand/XVIII/I/336>) [AB 396](<https://www.parlament.gv.at/gegenstand/XVIII/I/396>) [S. 59.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/59>) BR: [4214](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4214>) [AB 4221](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4221>) [S. 550.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/550>))
+
+Der Nationalrat hat beschlossen:

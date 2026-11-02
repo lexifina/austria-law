@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 8. Juli 1988 betreffend das Emblem der Internationalen Gemeinsamen Kommission („International Joint Commission“) StF: [BGBl. Nr. 433/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_433_0/1988_433_0.pdf>)

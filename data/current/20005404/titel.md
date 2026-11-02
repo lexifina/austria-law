@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und die Embleme des Internationalen Strafgerichtshofs (ICC) StF: [BGBl. II Nr. 180/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/180>)

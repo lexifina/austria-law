@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Umwelt, Jugend und Familie betreffend die Information über die Gefahr von Störfällen (Störfallinformationsverordnung – StIV) StF: [BGBl. Nr. 391/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_391_0/1994_391_0.pdf>)
+
+Auf Grund des § 14 Abs. 5 des Umweltinformationsgesetzes (UIG), [BGBl. Nr. 495/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_495_0/1993_495_0.pdf>), wird im Einvernehmen mit dem Bundesminister für wirtschaftliche Angelegenheiten, dem Bundesminister für Land- und Forstwirtschaft, dem Bundesminister für öffentliche Wirtschaft und Verkehr und dem Bundesminister für Gesundheit, Sport und Konsumentenschutz verordnet:

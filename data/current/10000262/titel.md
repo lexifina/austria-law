@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 2. April 1954 über die Genfer Abkommen zum Schutze der Opfer des Krieges. StF: [BGBl. Nr. 85/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_85_0/1954_85_0.pdf>)

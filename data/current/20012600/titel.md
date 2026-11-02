@@ -1,0 +1,3 @@
+Verordnung des Vorstandsvorsitzenden der Österreichischen Post Aktiengesellschaft über die Anpassung der Bezüge und Zulagen für die gem. § 17 Abs. 1a des Poststrukturgesetzes (PTSG) der GIS Gebühren Info Service GmbH dienstzugewiesenen Beamt\*innen sowie für jene Beamt\*innen, die ab 1. Jänner 2017 gemäß der Novellierung des § 17 Abs. 8 PTSG im Rahmen der Übertragung der Aufgabe der Pensionsverrechnung an das Pensionsservice der BVAEB übertragen wurden ([BGBl I 147/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/147>)) iVm § 103 Abs. 1 Gehaltsgesetz 1956 (Post-Bezügeverordnung – GIS 2024) StF: [BGBl. II Nr. 143/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/143>)
+
+Gemäß § 17a Abs. 3 Z 2 PTSG wird verordnet:

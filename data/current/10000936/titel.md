@@ -1,0 +1,3 @@
+Bundesgesetz vom 22. Jänner 1988 über die Verwendung der auf Grund des Vertrages zwischen der Republik Österreich und der Deutschen Demokratischen Republik zur Regelung offener vermögensrechtlicher Fragen zufließenden Mittel (Verteilungsgesetz DDR) StF: [BGBl. Nr. 189/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_189_0/1988_189_0.pdf>) (NR: GP XVII [RV 349](<https://www.parlament.gv.at/gegenstand/XVII/I/349>) [AB 424](<https://www.parlament.gv.at/gegenstand/XVII/I/424>) [S. 49.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/49>) BR: [AB 3434](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3434>) [S. 496.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/496>))
+
+Der Nationalrat hat beschlossen:

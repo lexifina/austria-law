@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 30. März 1981 über die Verwendung der im Disziplinarverfahren verhängten Geldstrafen und Geldbußen StF: [BGBl. Nr. 195/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_195_0/1981_195_0.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010263",
+  "short_title": "Pannenstreifenfreigabe-Verordnung A 4",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40205050",
+    "valid_from": "2018-07-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010263&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:50:51.966415+00:00",
+    "response_sha256": "7e669b0b7f44cc858fcf22ecdde1da70aefcb10b2fb7a75d9fd82ef129f31da5",
+    "snapshot_sha256": "7a38bfa18a35246acc0d6fcde8b8084357d056dfd47ff20cf5dbf9c702a73683",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e833f330b52de96a2e9a3c34103fe949be104a5c7e9bc2e63ddfe28198aaa73",
+      "sha256": "fe3d9a59e0e1b35d499d1bf8a1f75a2978e3014ea6d812950646944af6521a36",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Freigabe des Pannenstreifens auf einem Abschnitt der A 4 Ost Autobahn (Pannenstreifenfreigabe-Verordnung A 4) StF: BGBl. II Nr. 180/2018"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 180/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/180"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2753d84d57be260e49977788e52effb71f6987295aef2b15e4d410ecfb40f2d3",
+      "sha256": "82f2c305922f2928eaa80f0523782f217ffd253694b3f030bc8bbee3f620fac9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

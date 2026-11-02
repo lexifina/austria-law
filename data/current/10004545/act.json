@@ -1,0 +1,120 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10004545",
+  "short_title": "Pauschbesteuerung von vorübergehend beschäftigten Arbeitnehmern",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004581",
+    "valid_from": "1988-11-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004545&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:32:09.784126+00:00",
+    "response_sha256": "fa51f09bd59d20b9725f804ab3f29708e3886e0c25a53009e5c7edbeb17f8df2",
+    "snapshot_sha256": "dfb7b09e28497c236e971d91ce69f5ce2d36dc7074b12b2b0622b983f0b6ad9c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4f60377c1a08b8efd616a14c57535b9cf8fbb7983a496b4454e335edc06b61f1",
+      "sha256": "9a0f41c1fff54d4e55609b7bfd65f7d5678435f1d23384c40a6be6bd22192fd5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen vom 27. Oktober 1988 über die Pauschbesteuerung von vorübergehend beschäftigten Arbeitnehmern StF: BGBl. Nr. 594/1988"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 416/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 594/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_594_0/1988_594_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 416/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_416_2/2001_416_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce88fd20184b15736812df6ed120279f7006185b28eac0c7b7f4c0bc215e98fe",
+      "sha256": "52375b943fbb5899d2bf857414df66318422502704f21fd2c4d5736a2382eb1d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Bezugsbereich siehe § 2"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d965963c3c8044c02c61203d5ccf01466c25c7a04ccdd4ac0a3eed1fca4a2fa8",
+      "sha256": "a43855e8a8d7a9126e3bdd8f0b5f518b6cd9a21a302f6522403ced12d3452e62",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 416/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_416_2/2001_416_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

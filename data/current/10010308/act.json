@@ -1,0 +1,123 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "10010308",
+  "short_title": "Wasserversorgung der Stadtgemeinde Villach",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010527",
+    "valid_from": "1963-06-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010308&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:41:13.981951+00:00",
+    "response_sha256": "c5c911e41cabd0d1a56f472e1c5cb24ce75249e277d0a24d6ae050798e15031a",
+    "snapshot_sha256": "2c6a78da604ce0d9ef5eac9ce9d33232b4b281c474003d30374a1fb7380bac28",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "63c028061894f8cf5b39920862d8ee71a63e7728dea9ffeafaff0cf0af00c4d7",
+      "sha256": "11edda7c17539ed6cb9c5300ddf32d98ea5e97190340580e0e86040d3d912279",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Land- und Forstwirtschaft vom 22. Mai 1963 zur Sicherung der Wasserversorgung der Stadtgemeinde Villach StF: BGBl. Nr. 129/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 129/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_129_0/1963_129_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9fa44056e75486bdfa42e7427b83b2d05c4dfc4fa345d9f29f4e0c2d09b394b",
+      "sha256": "699a4809bef4ec7c391edccc68eea5664460c4d36cfa43a63d60dc9a46ad36ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90f9e17e89975e5eb306aed35fc4ec6c69f439511ea75a8c473d2d981ee37f79",
+      "sha256": "e644b240036b0053b5cc651079cb974ae9f26099d039c9794b049aca61054216",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba17a21a8ca5bc996cdaea9644d17910192c60056d7c2b48745e927dcf95dde7",
+      "sha256": "ef7e265362d7613d9d730e98113944f3fe0cfc154876c332c80f213487b28783",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

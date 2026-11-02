@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Juni 1958 über die Ratifikation des Protokolls über gewisse Abänderungen des Abkommens über die Internationale Zivilluftfahrt durch die Tschechoslowakei, Israel, Korea, Marokko, Burma, Vietnam und Italien StF: [BGBl. Nr. 117/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_117_0/1958_117_0.pdf>)

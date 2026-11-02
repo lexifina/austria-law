@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20006063",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebiets im Bereich der Gemeinden  Donnerskirchen, Schützen am Gebirge, Oslip, Eisenstadt und Trausdorf an  der Wulka",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006749",
+    "valid_from": "2008-11-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006063&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:40:08.825470+00:00",
+    "response_sha256": "ce1ada70b6894753fc81c65bbdc6196d2e9fab133e95a3c8a729aa6d39906a34",
+    "snapshot_sha256": "3501d2c1abf525c92276fe3e77d11414947e5c7d1cd233d7fc19e174fc5389c0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ca3b71bfc9f118be06ee792c2c0f18657a594289b25e2719845d6d76f1fc0c1",
+      "sha256": "38db19669725f5145f08c012a65c55e9075c0ca07070f53c5b1104fdae2d9dcd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebiets im Bereich der Gemeinden Donnerskirchen, Schützen am Gebirge, Oslip, Eisenstadt und Trausdorf an der Wulka StF: BGBl. II Nr. 386/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 386/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/386"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04a07c5c02ab583a56ef966e8a49adecea6a2c63cb36142283c039cd9101ede5",
+      "sha256": "91f3667f1de6aabcfc65741b8d73707c0709a1b32455e7bca4f5135f3845ba92",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

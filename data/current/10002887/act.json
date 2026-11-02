@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002887",
+  "short_title": "Errichtung einer vierten Notarstelle in Wien-Leopoldstadt und einer zweiten Notarstelle in Wien-Simmering",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002910",
+    "valid_from": "1989-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002887&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:10:23.696098+00:00",
+    "response_sha256": "fafc054b941b4081f98ace9e5499e8ad1790054b194d23e54af093be954cd027",
+    "snapshot_sha256": "66f96942b548beae41aa67517851001721fad25b1e69edf9942d66923ae3ca4d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe491e2bf13ead5e0720159b60917918c57da66178ad5c49c53420356ae465f8",
+      "sha256": "3e2e89ee2b89b8c321b65855124091fc52c6786c26c015f911e207b42b2d73f4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 17. November 1989 betreffend die Errichtung einer vierten Notarstelle in Wien-Leopoldstadt und einer zweiten Notarstelle in Wien-Simmering StF: BGBl. Nr. 558/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 558/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_558_0/1989_558_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "157319e80c68a0116b037bec606b02751255d5cd2c451043bb7f85820fe91f05",
+      "sha256": "4262c2b765a4ea2a5c1e4464b39cdc5166c1313aa912a1c854bf5db84333ca56",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

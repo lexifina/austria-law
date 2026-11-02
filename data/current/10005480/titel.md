@@ -1,0 +1,1 @@
+Notenwechsel vom 5. November 1980 über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Freilassing-Saalbrücke StF: [BGBl. Nr. 573/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_573_0/1980_573_0.pdf>)

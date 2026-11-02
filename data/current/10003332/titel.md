@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Republik Estland StF: [BGBl. Nr. 345/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_345_0/1995_345_0.pdf>)

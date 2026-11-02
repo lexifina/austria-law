@@ -1,0 +1,1 @@
+Bundesgesetz über Krankenanstalten und Kuranstalten (KAKuG) StF: [BGBl. Nr. 1/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_1_0/1957_1_0.pdf>) (NR: GP VIII [AB 164](<https://www.parlament.gv.at/gegenstand/VIII/I/164>) [S. 22.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/22>) BR: [S. 121.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/121>))

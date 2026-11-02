@@ -1,0 +1,3 @@
+Bundesgesetz über das Wirksamwerden der Verordnung (EU) Nr. 1286/2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP-Vollzugsgesetz) StF: [BGBl. I Nr. 15/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/15>) idF [BGBl. I Nr. 27/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/27>) (VFB) (NR: GP XXVI [RV 24](<https://www.parlament.gv.at/gegenstand/XXVI/I/24>) [AB 62](<https://www.parlament.gv.at/gegenstand/XXVI/I/62>) [S. 15.](<https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/15>) BR: [AB 9941](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9941>) [S. 878.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/878>))
+
+Der Nationalrat hat beschlossen:

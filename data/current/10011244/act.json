@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10011244",
+  "short_title": "Rechte an eingetragenen Schiffen und Schiffsbauwerken",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011509",
+    "valid_from": "1941-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011244&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:50:50.722207+00:00",
+    "response_sha256": "bbf650f0be26e399efdfec95b10bf743de59fd064d0e207251b5a3056e8e5d90",
+    "snapshot_sha256": "cebad47b2c578848d67a0ae68ebe83e9346e6a45e488f8dc54f9727253d8edc8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "944acef622b0f77a0ab49e8a1dec871e2d75ad7f448d1f33e24f2c3e01f06054",
+      "sha256": "668832f26a7150fded9f126e01ef351d12c2f5852776971271b3e1955e86b5b3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Zweite Verordnung zur Durchführung des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken vom 16. Mai 1941. StF: dRGBl. I S 283/1941"
+        }
+      ],
+      "links": [
+        {
+          "text": "dRGBl. I S 283/1941",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19410004&seite=00000283"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56e997b12417e23bab77864d82806aa48b5bff0bc9f0a717241aec3eed8dae52",
+      "sha256": "aa832a9241299002842d0fe765e408dfdd10570ffa941194f90acf4ef8654744",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82eb0a3ce52846ef47ac0b12230a019ac7973aa39379f60f483f4c460b163ce0",
+      "sha256": "0b1ae2b20b632a7b98b7cdbec19686fd7df060c933871296f338f94d0460a9cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

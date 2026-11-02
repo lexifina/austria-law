@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über die Mindestanforderungen für die Haltung von Pferden und Pferdeartigen, Schweinen, Rindern, Schafen, Ziegen, Schalenwild, Lamas, Kaninchen, Hausgeflügel, Straußen und Nutzfischen (1. Tierhaltungsverordnung) StF: [BGBl. II Nr. 485/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/485>)
+
+Auf Grund der §§ 7 Abs. 2 und 3, 14, 16 Abs. 4 und 24 Abs. 1 Z 1 des Bundesgesetzes über den Schutz der Tiere (Tierschutzgesetz – TSchG), [BGBl. I Nr. 118/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/118>), Art. 2, wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

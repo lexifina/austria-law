@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Einrichtung von Bakkalaureats-, Magister-, Diplom- und Doktoratsstudien an der Technischen Universität Graz (Studienstandortverordnung Technische Universität Graz) StF: [BGBl. II Nr. 181/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_181_2/2001_181_2.pdf>)
+
+Auf Grund der §§ 11 Abs. 5, 11a Abs. 6 und 18 Abs. 4 des Bundesgesetzes über die Studien an den Universitäten (Universitäts-Studiengesetz – UniStG), BGBl. INr. 48/1997, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird verordnet:

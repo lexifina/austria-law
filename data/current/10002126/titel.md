@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 14. März 1969, betreffend zwei japanische Hoheitszeichen StF: [BGBl. Nr. 107/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_107_0/1969_107_0.pdf>)

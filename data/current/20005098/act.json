@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005098",
+  "short_title": "VfGH-Ausspruch, dass Bestimmungen des Übernahmegesetzes verfassungswidrig waren",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005565",
+    "valid_from": "2006-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005098&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:25:12.591984+00:00",
+    "response_sha256": "54645d9325d846e2272b4d6e3f45705a586dc707d32e99a68d3eec7c752e72f5",
+    "snapshot_sha256": "3e1c10a2df8f12e8be7ad4bf4be3c4c457fa82bce3fe65329356b3f43031bdaf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0fd9d8604d7bff858a7a65176ad558d9511d401e1d737f7686212f6449c81480",
+      "sha256": "a5b710f459935603a5144880be6aba7b8d2ee69805cbd0a378639f8d8f32fb96",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, dass Bestimmungen des Übernahmegesetzes verfassungswidrig waren StF: BGBl. I Nr. 158/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 158/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/158"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "802e5622e6bb77ca3b8bc8d8974ff8db3f434c988ce493616109bd8a06cf86aa",
+      "sha256": "78a9f2a3d608e463326a195b14f6fbc429715a08ea681883709d1e35889c0b28",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 127/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_127_1/1998_127_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Allgemeinen Zoll- und Handelsabkommens (GATT) StF: [BGBl. Nr. 742/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_742_0/1993_742_0.pdf>)

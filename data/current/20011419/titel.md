@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres zur Durchführung der Bestimmungen hinsichtlich Aufenthalt und Aufenthaltsbeendigung im Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (Brexit-Durchführungsverordnung – Brexit-DV) StF: [BGBl. II Nr. 604/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/604>)
+
+Auf Grund des § 57a des Niederlassungs- und Aufenthaltsgesetzes (NAG), [BGBl. I Nr. 100/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 146/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/146>), wird verordnet:

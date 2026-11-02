@@ -1,0 +1,115 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20002576",
+  "short_title": "Übertragung von Buchhaltungsaufgaben",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002816",
+    "valid_from": "2003-03-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002576&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:49:34.280386+00:00",
+    "response_sha256": "3134afb589f107791ca94d1e9b0b531a8bd0435082e1a7d1ef3eee703b478d8a",
+    "snapshot_sha256": "0cec3714d6bcc2d7762a8e9799fdd7c174f7210916632d61ba8c73fe5f364cb3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "048d98472d888af16bad3f76e4adfecac8e8bda9068685c040eaebfaa7de5aeb",
+      "sha256": "f74ab92caee0b6a87e429b84586534cb03f29dac16f3bc11206254c1495c364f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Übertragung von Buchhaltungsaufgaben StF: BGBl. II Nr. 142/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 142/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_142_2/2003_142_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 213/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_98_1/2002_98_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8cd4173350a472b957b73b24d74676e46a36aaaf7e4310e7e15d28b329e9e6b4",
+      "sha256": "a675289e843bcb5a2672da2b84d2346455edc750dc726ff50b8191b1f654fa82",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "655d2abf58f64c69ecb322a90e3e120656389d1d976fe100736ccab4bf93c1de",
+      "sha256": "0522713c49d3c34de05a8f341881a3687df5df8c7083514843236a469f8bc857",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 638/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_638_0/1992_638_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

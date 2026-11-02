@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Festlegung und Einziehung von Gebühren für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug (Flugsicherungsan- und Abfluggebührenverordnung 2008 – FSAG-V 2008) StF: [BGBl. II Nr. 80/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/80>)
+
+Auf Grund des § 122 des Luftfahrtgesetzes, [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 149/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/149>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

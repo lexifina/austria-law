@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012150",
+  "short_title": "ADR - Widerruf von zwei Vereinbarungen",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012432",
+    "valid_from": "1992-08-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012150&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:05:56.809769+00:00",
+    "response_sha256": "8852171963399dff9751839268fe6dac010c058f55c3e7eacd4d4fa593c4313c",
+    "snapshot_sha256": "1256d476553d83c3b75687eb9c827b3f34fc183a8f3e6b55d806037c3364b380",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c76dddfe713cfbcc780c3743b1cba1c168ce7b76f1050c8123245fde661af70b",
+      "sha256": "43ea3223b061cafcdf486416c9e1e8b5274c84a332b192913eb4cbfb9aac6a7a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf von zwei Vereinbarungen zwischen dem Staatssekretär für Verkehr der französischen Republik und dem Bundesminister für Verkehr der Republik Österreich StF: BGBl. Nr. 482/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 482/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_482_0/1992_482_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62eb30211d40c0b3b54cf8d33f8298b7ae55b237411587f856ca3c9234ea1f36",
+      "sha256": "ec23053c4216e5106e2782590a2a4b39e794624d8c39eba6298d9a860c47a1c4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 415/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_415_0/1978_415_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 19/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_19_0/1979_19_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

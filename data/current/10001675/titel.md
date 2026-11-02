@@ -1,0 +1,3 @@
+Gesetz vom 21. September 1869, über die Erfordernisse der Executionsfähigkeit der vor Vertrauensmännern aus der Gemeinde abgeschlossenen Vergleiche und über die von denselben zu entrichtenden Gebühren. StF: [RGBl. Nr. 150/1869](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=150/1869&amp;SkipToDocumentPage=True>)
+
+Um den vor Vertrauensmännern aus der Gemeinde zwischen streitenden Parteien abgeschlossenen Vergleichen die Kraft gerichtlicher Vergleiche zu sichern und deren Gebührenbehandlung zu regeln, finde Ich mit Bezug auf den Art. V, Ziffer 11 des Gesetzes vom 5. März 1862, R. G. Bl. Nr. 18, über die grundsätzlichen Bestimmungen zur Regelung des Gemeindewesens mit Zustimmung beider Häufer des Reichsrathes zu verordnen, wie folgt:

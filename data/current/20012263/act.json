@@ -1,0 +1,674 @@
+{
+  "sample_only": false,
+  "included_provisions": 12,
+  "source_provision_count": 12,
+  "schema_version": 1,
+  "gesetzesnummer": "20012263",
+  "short_title": "Übermittlung von Informationen an die RTR-GmbH als Zentrale Informationsstelle für Breitbandversorgung",
+  "abbreviation": "ZIB-V 2023",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40252946",
+    "valid_from": "2023-05-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012263&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:30:39.868704+00:00",
+    "response_sha256": "892bf8313f38abbd2e5a4332c8e929b14308ab12997eb87dda1f5f2fb4d1be38",
+    "snapshot_sha256": "ac34abce86bd27f2c60837d7c1acfac13bc34a5b2ba24af988015b933dbcc719",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8400a368ee79a58987ac1a13753764f4f2f894b7a9ea599929ff7ae53f30229b",
+      "sha256": "ddeb361ec1754bb6b6f0162ceed97eabf450e039551eafd134b7f179eab61bdf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Rundfunk und Telekom Regulierungs-GmbH (RTR-GmbH) über die Übermittlung von Informationen an die RTR-GmbH als Zentrale Informationsstelle für Breitbandversorgung – ZIB-V 2023 StF: BGBl. II Nr. 147/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 147/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/147"
+        },
+        {
+          "text": "BGBl. I Nr. 190/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/190"
+        },
+        {
+          "text": "BGBl. I Nr. 180/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/180"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39f4e9e8d8ec8fc7d19b54a95394978a1e5b1dc30bb1bccddd27fba8784378b3",
+      "sha256": "69fa9ff43c73efcb2b87899274e39a72b0b8b0ec83f0d42046c19edaebccfc5d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl Nr. 140/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_140_0/1979_140_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Festnetztechnologien (außer Fixed Wireless Access) und passive Infrastruktur",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Glasfaseranbindung von – Hauptverteiler (HVt) / Central Office (CO) – Cabinet oder Fibre-Node, nicht unmittelbar beim Gebäude (FTTC/Fibre-Node) – Gebäude (FTTB, Verteiler in oder unmittelbar vor dem Gebäude) – Teilnehmer (FTTH)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mobilfunktechnologien und Fixed Wireless Access",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anbindung der Basisstation/Richtfunkstation mit – Glasfaser – Kupferdoppelader – Richtfunk",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Auskunftspflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09dced5c35584d67157ae61bb3d68dffdbf27aec85ad65c5c00d4f55b0bf3091",
+      "sha256": "d885a0ba975a286c94eb5c074a0b21bed9d31557f1039d901e2f3d3cc3d8a3b3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Informationen über Breitbandversorgung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d410b86e834a2864201aae5f0c92d7e8235a04bef8189e8dd4732170cd03c4a2",
+      "sha256": "72e9740b4b804cc933949df51c4e9ffdf9f8885c3fd6bdddd62e8c375ab82659",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Erhebung der Informationen über Breitbandversorgung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b67015d1e0ed567848b1e2eb41c6a34518973d4ba589fa07b6189a4240e8f60",
+      "sha256": "6fcdfd992bd7b61a50b552c7a09b1b90c42381ef9ad941e8ef6c1a0c5a48b36f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Ermittlung der normalerweise zur Verfügung stehenden bzw. der geschätzten maximalen Download-Bandbreite und Upload-Bandbreite der versorgten Fläche im Mobilfunknetz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13212092e3f332822334fd600d9dab2cde29686c03166f1fc2194461709b4a63",
+      "sha256": "b8ef2933307f888a043db5c00599f6260ac9a66473a05ffb90acec6b381c0d8b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Datenverwaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "088cb886b26fd038dd34d53cd2a08ce744c94afff56ad7bbb8cdbaa7d91c263a",
+      "sha256": "446f69946bdc314f0441b6b8d50947e53fbbe63abec0b2eb83d99543b0040db7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Verweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b0dd722024a4aaa5471aca9244c8655c73fc6dfe4ee39d579bfb65c22a481d8",
+      "sha256": "b06484aec961d1b90d443593c5d3d67e595fe86f983051bc46cb8d8f9ce449ed",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6fe72f51cfec8407a8652c05b2e192ca02468d97d45666722e5b40600a516f66",
+      "sha256": "1dee8b1aa7ec94adf95a1c124780705c5e96bbff3997a4265168165b7e950f92",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6eff63c166c763dce8bb85587baaece91a6f9c981f4d0f265cd4cb7e2af3c23",
+      "sha256": "a4a10020d26e7fba9d69b25d9e50c44a30afdad8b0b24948dd4d29d5b6589943",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Die Daten zur normalerweise zur Verfügung stehenden Bandbreite in Mobilfunknetzen sind erstmalig für das 3. Quartal 2023 zu übermitteln."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Erhebungsmerkmal",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Netz / Dienst",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrachtungszeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geographie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anmerkungen / Detaillierungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Minimum, Maximum, arithmetischer Mittelwert, 25% Quantil der Bandbreite, Anzahl der versorgbaren Anschlüsse (§ 1 Z 15)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Festnetz",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100m Raster",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "normalerweise zur Verfügung stehende und maximale Download-Bandbreite und Upload-Bandbreite der versorgbaren Anschlüsse, getrennt nach Festnetztechnologien, wobei nach der Anbindung (§ 1 Z 3) zu unterscheiden ist.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Minimum, Maximum, arithmetischer Mittelwert, 25% Quantil der Bandbreite",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mobilfunknetz",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100m Raster",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "normalerweise zur Verfügung stehende und geschätzte maximale Bandbreite der versorgten Fläche (Download-Bandbreite und Upload-Bandbreite), getrennt nach Mobilfunktechnologien, wobei nach der Anbindung (§ 1 Z 3) zu unterscheiden ist; 2G nur Abdeckung ohne Unterteilung in Bandbreiten.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Bandbreite Plandaten auf Jahresbasis für ein Jahr im Voraus, Anzahl der versorgbaren Anschlüsse (§ 1 Z 15)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Festnetz",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100m Raster",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "geplante maximale Download-Bandbreite und Upload-Bandbreite der versorgbaren Anschlüsse, getrennt nach Festnetztechnologien, wobei nach der Anbindung (§ 1 Z 3) bzw. nach Art der Finanzierung (eigenwirtschaftlich/gefördert) zu unterscheiden ist.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Bandbreite Plandaten auf Jahresbasis für ein Jahr im Voraus",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mobilfunknetz",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100m Raster",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "geplante maximale Download-Bandbreite und Upload-Bandbreite der versorgten Fläche, getrennt nach Mobilfunktechnologien, wobei nach der Anbindung (§ 1 Z 3) zu unterscheiden ist: 2G nur Abdeckung ohne Unterteilung in Bandbreiten.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "969e0f742962ebcae1a22744a0751b077cfcc80e4fbe3acfd3e96dd2168bc2f2",
+      "sha256": "3ecacbefcb2cfd8881655ddb549b569947e551038f3cd11009059a33810c824a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Download (asymmetrisch) in a) < 1 Mbit/s, b) ≥ 1 Mit/s bis < 2 Mbit/s, c) ≥ 2 Mbit/s bis < 10 Mbit/s d) ≥ 10 Mbit/s bis < 30 Mbit/s e) ≥ 30 Mbit/s bis < 50 Mbit/s f) ≥ 50 Mbit/s bis < 75 Mbit/s g) ≥ 75 Mbit/s bis < 100 Mbit/s h) ≥ 100 Mbit/s bis < 150 Mbit/s i) ≥ 150 Mbit/s bis < 300 Mbit/s j) ≥ 300 Mbit/s bis < 1 Gbit/s k) ≥ 1 Gbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Upload (asymmetrisch) in a) < 0,5 Mbit/s b) ≥ 0,5 Mbit/s bis < 1 Mbit/s c) ≥ 1 Mbit/s bis < 2 Mbit/s d) ≥ 2 Mbit/s bis < 3 Mbit/s e) ≥ 3 Mbit/s bis < 5 Mbit/s f) ≥ 5 Mbit/s bis < 10 Mbit/s g) ≥ 10 Mbit/s bis < 20 Mbit/s h) ≥ 20 Mbit/s bis < 30 Mbit/s i) ≥ 30 Mbit/s bis < 40 Mbit/s j) ≥ 40 Mbit/s bis < 100 Mbit/s k) ≥ 100 Mbit/s bis < 150 Mbit/s l) ≥ 150 Mbit/s bis < 300 Mbit/s m) ≥ 300 Mbit/s bis < 1 Gbit/s n) ≥ 1 Gbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Down-/Upload (symmetrisch) in a) < 1 Mbit/s, b) ≥ 1 Mit/s bis < 2 Mbit/s, c) ≥ 2 Mbit/s bis < 10 Mbit/s d) ≥ 10 Mbit/s bis < 30 Mbit/s e) ≥ 30 Mbit/s bis < 50 Mbit/s f) ≥ 50 Mbit/s bis < 75 Mbit/s g) ≥ 75 Mbit/s bis < 100 Mbit/s h) ≥ 100 Mbit/s bis < 150 Mbit/s i) ≥ 150 Mbit/s bis < 300 Mbit/s j) ≥ 300 Mbit/s bis < 500 Mbit/s k) ≥ 500 Mbit/s bis < 750 Mbit/s l) ≥ 750 Mbit/s bis < 1 Gbit/s m) ≥ 1 Gbit/s",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Erhebungsmerkmal",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrachtungszeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geografie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anmerkungen / Detaillierungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anzahl der aktiven Breitbandanschlüsse auf Endkundenebene, basierend auf eigener Infrastruktur, entbündelter Leitung oder Open Access passiv",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gemeinde",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "getrennt nach, Zugangsrealisierungen; Anbindung (§ 1 Z 3); Privat- und Geschäftskundenprodukte; Bandbreitenkategorien für die beworbene Bandbreite (symmetrisch/asymmetrisch)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anzahl auf der Vorleistungsebene zugekaufter fester Anschlüsse getrennt nach: – virtueller Entbündelung; – Bitstrom oder Resale; – Open Access aktiv",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gemeinde",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "getrennt nach Zugangsrealisierungen; Anbindung (§ 1 Z 3); Privat- und Geschäftskundenprodukte; Bandbreitenkategorien für die beworbene Bandbreite (symmetrisch/asymmetrisch)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "140d08f205d88651d6f0604ea6078f88db2372e01f8d74ab0cc9204b3c29bf17",
+      "sha256": "08eb8481f0b592433b168e9629bfb5150418d94718394c03f7892a92410a40f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Erhebungsmerkmal",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrachtungs-zeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einschränkung Geografie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einschränkung Geschäftsfeld",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anmerkungen / Detaillierungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vetragspartner (Hostnetz) der Vorleistung, getrennt nach Zugangstechnologie bzw. passiver Infrastruktur",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "quartalsweise",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) keine Einschränkung, b) Bundesland, c) Bezirk, d) Gemeinde",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) keine Einschränkung, b) Privatkunden, c) Geschäftskunden, d) Wholesale Only",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angaben pro Hostnetz und Zugangstechnologie, gegebenfalls Einschränkungen nach Geschäftsfeld und/oder Geografie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

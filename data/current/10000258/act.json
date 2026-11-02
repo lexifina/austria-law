@@ -1,0 +1,91 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000258",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000259",
+    "valid_from": "1954-05-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000258&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:25:39.793418+00:00",
+    "response_sha256": "d9fe3119dc01571063858714fa1be5061f8af7638e7ecb10f85f6ec9b8f76d60",
+    "snapshot_sha256": "c39fd7bacd14f75d60f36b298c81808f215a86ebf1663777e2f7bd1030e2193d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df5fcdde7be806ec7f358da7b75f36ae834c9b4e2447f333594de681557fb480",
+      "sha256": "bb975f3cea62ecb9382a4a510e367d3b93eb5f9528f7f31bc68f055077e31186",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 8. April 1954, betreffend Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung auf dem Gebiete des Grundverkehrsrechtes und über die Zuständigkeit der Länder auf dem Gebiete des Zivil- und Strafrechtes sowie über die Zuständigkeit der Länder, die Gerichte mit der Vollziehung eines Landesgesetzes zu betrauen. StF: BGBl. Nr. 92/1954"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 92/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_92_0/1954_92_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6200967c2fbd5e80794c23150ec0450c347efbca97151707181de2b37796487c",
+      "sha256": "a05887e481a612a82391414e2ebfeb1381f532f45213231617221fb334096b0d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Der Grunderwerb durch Ausländer ist nunmehr nach Art. 10 Abs. 1 Z 6 B-VG (i.d.F. der B-VG-Novelle BGBl. Nr. 27/1969) in Gesetzgebung und Vollziehung Landessache."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 27/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_27_0/1969_27_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003053",
+  "short_title": "Kontrollzeichen Finnlands",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003078",
+    "valid_from": "1992-07-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003053&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:05.205161+00:00",
+    "response_sha256": "085e98d09832252e13a246b5f13c6d98b7a68750bcca959adb76efad225fba45",
+    "snapshot_sha256": "e6153cb60e0621c2239d7ab7b3b5622b85b038913dc6c3294f431e65984912a3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a48dc576510041a428f32178e67d2cfc126943b98cdb0b3db1236b8b34767f7d",
+      "sha256": "3f20221cc879b4a781af57656f3c5e90d1bb0c7cd691bdaa57244952ce3e05e5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das als Kontrollzeichen Finnlands verwendete Nordische Umweltzeichen StF: BGBl. Nr. 427/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 427/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_427_0/1992_427_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50981fd26684610332c9133af504126555b7febf94e7cb8024f90b81ad78bf78",
+      "sha256": "bde66cbffb481ac1f7383df268c8ab7b1f6ec3285082d7bb3ca6e57ecd4cea44",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_350_0/1977_350_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem und Siegel sowie die Bezeichnung der Weltorganisation für geistiges Eigentum (WIPO) in chinesischer Sprache StF: [BGBl. Nr. 426/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_426_0/1992_426_0.pdf>)

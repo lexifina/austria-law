@@ -1,0 +1,3 @@
+Bundesgesetz vom 21. März 1947 zur Ausführung des Gesetzes vom 19. September 1945, St. G. Bl. Nr. 174, über die Aufhebung des Erbhofrechtes und des Landbewirtschaftungsrechtes. StF: [BGBl. Nr. 85/1947](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_85_0/1947_85_0.pdf>) idF [BGBl. Nr. 202/1947](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_202_0/1947_202_0.pdf>) (DFB) (NR: GP V [RV 300](<https://www.parlament.gv.at/gegenstand/V/I/300>) [AB 334](<https://www.parlament.gv.at/gegenstand/V/I/334>) [S. 48.](<https://www.parlament.gv.at/gegenstand/V/NRSITZ/48>) BR: [S. 17.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/17>))
+
+Der Nationalrat hat beschlossen:

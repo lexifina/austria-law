@@ -1,0 +1,1361 @@
+{
+  "sample_only": false,
+  "included_provisions": 10,
+  "source_provision_count": 10,
+  "schema_version": 1,
+  "gesetzesnummer": "20008015",
+  "short_title": "Lf-Landeslehrpersonen-ControllingV",
+  "abbreviation": "LfLLCV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40142796",
+    "valid_from": "2012-10-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008015&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:09:30.469117+00:00",
+    "response_sha256": "c78005be84063d62f1938148890b2a711e0c5dfea9dfacf1387fb90e2ba13a7d",
+    "snapshot_sha256": "97567ec1eca45e6d5d1d8e6e10e3431159818e0323604908c5f456aa79ff3417",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a486b42b2f8304a0dedf51284caadeee73bc19c91add36777f3c888b130467a5",
+      "sha256": "2b3061ec1246168226e8ad3820dce7576184406a1a4f16e38ca0e265f36bb911",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft betreffend Informationen über den Personalaufwand und das Controlling im Bereich der land- und forstwirtschaftlichen Landeslehrer und Landeslehrerinnen (Lf-Landeslehrpersonen-ControllingV – LfLLCV) StF: BGBl. II Nr. 338/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 338/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/338"
+        },
+        {
+          "text": "BGBl. I Nr. 103/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/103"
+        },
+        {
+          "text": "BGBl. I Nr. 82/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/82"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3133b9c1187dc78b59cf1d723d8bef7e11744a381ef2fcd180be7d2dc434097",
+      "sha256": "2bac1144c249198fa5b33622e9e37aca530bef27cdd0423ae37146f121a15493",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2cc32f5357d3453937aaadd72d5d5b1cf2ece63e6d20daefa1ba071d2a9eef9",
+      "sha256": "08db01451e42776f1954986d7445be8e8d74c0b94d9b61d55b2d8b6221ea1874",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 296/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_296_0/1985_296_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 244/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_244_0/1969_244_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 318/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_318_0/1975_318_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 133/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_133_0/1967_133_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Datenerbringung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac32df24ace88127ddd0acc160765a67a8f3df871f40d76c045fa09482cc3954",
+      "sha256": "d4f5279d40dc69ad8968e8da6113b808582dd40a9b02c3dbc8c7330eccbb9a89",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Informationsrechte und -pflichten der Länder",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ceed1f1f740c63f10ada768f6cbc00232c78995d902a5787f03c77e1da973c4",
+      "sha256": "217dc9334053ba37f6a8d0dbda8f05daaca30d08dce1c128cc9e93f0e32e8a75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "3. Abschnitt Kontrolle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d88135f2d742b53b498f316f5820d44495d965b17508eb867d2ce6fd1b8c587",
+      "sha256": "85291977fa8799b5512df6d227955b79a13641607cfa7205f21f4dac478db51e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 316/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_316_0/1975_316_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "4. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a2790f2237b8223c5ca43b0d531b797379c3674a640cde21ff180f86e5f37b09",
+      "sha256": "8070f6d382e37b3e011d95e6d2b207510bfeb0c976dd45f0f965a3097063ccbf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "388031e17a35073f9dd15e6fbcb42225d65ad875280abdb8dc99410fd99be379",
+      "sha256": "57a060e67cb253c7accac96cd071ace7463dffccf341701beded9d74b630097b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0938d7777c061f76ccb5b4a0a7c18aeae80bab88077e08cc90281a57a307c5f",
+      "sha256": "e879bcdcbc8f3e0523d66009efede0246068d140925934a4f244c88f30b16876",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage § 3 Abs. 1 Personal- und Besoldungsdatensatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e31fdde5139e6419c55f351d009de1ef45aad977646b778891adfee8661f2bb4",
+      "sha256": "ed0e56aa71e32676f8960a9fd556165e7057f0d5c3b8f88ca27155dfd6ff406b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Feldname",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Definition",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "DSK",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "15-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datensatzkennung, Identifizierungsnummer (keine Sozialversicherungsnummer)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SJ",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "laufendes Schuljahr (Bsp.: 2012/13 – mit Schrägstrich getrennt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "MO",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichtsmonat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SKZ",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schulkennzahl der Stammschule (gemäß der von der Bundesministerin für Unterricht, Kunst und Kultur zur Verfügung gestellten österreichischen Schulendatei)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "BL",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bundesland: 1 – Burgenland 2 – Kärnten 3 – Niederösterreich 4 – Oberösterreich 5 – Salzburg 6 – Steiermark 7 – Tirol 8 – Vorarlberg",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SART",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schulart: 6 – land- und forstwirtschaftliche Berufsschule 7 – land- und forstwirtschaftliche Fachschule 8 – Sonderformen 0 – wenn keine Möglichkeit für eine Zuordnung vorhanden ist",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "GEB_Jahr",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4-stellig, Datum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geburtsjahr (JJJJ), vierstellig, z. B. 1970",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SEX",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschlecht: M – männlich, W – weiblich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ART1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art des Dienstverhältnisses: 1 – öffentlich – rechtliches 2 – vertraglich – unbefristet 3 – vertraglich – befristet",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ART2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuordnung zu einem Dienstgeber K – kirchlich bestellter Religionslehrer (öffentlicher Dienstgeber) O – Land P – privat gemäß § 5 Abs. 2 Land- und forstwirtschaftliches Privatschulgesetz R – kirchlich bestellter Religionslehrer mit privatem Dienstgeber Z – Zuweisung gemäß § 5 Abs. 1 Land- und forstwirtschafltiches Privatschulgesetz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ART 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art des Dienstverhältnisses: PE – im Monat der Erhebung pensioniert AU – im Monat der Erhebung neu aufgenommen AK – im Monat der Erhebung aktiv AG – im Monat der Erhebung ausgeschieden NV – Nachverrechnung, vor dem Monat der Erhebung bereits ausgeschieden oder pensioniert DZ – Dienstzuteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "STAT",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, alphanumerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Status mit Stichtag: KU – Karenziert FH – Familienhospizfreistellung gemäß § 66d Abs. 1 Z 3 LLDG 1985 MU – Mutterschutz AK – Aktive SO – Sonderurlaub (keine Einzelfälle) DF – Dienstfreistellung gemäß § 15 Abs. 3 LLDG 1985 AD – Außerdienststellung gemäß § 66b LLDG 1985 SU – Suspendiert NV – Nachverrechnung, vor dem Monat der Erhebung bereits ausgeschieden oder pensioniert LS – betrauter und aktiver Landesschulinspektor FS – betrauter und aktiver Fachinspektor/Schulinspektor",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SABD",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "00 – kein Sabbatical 02 – Sabbatical 2 Schuljahre 03 – Sabbatical 3 Schuljahre 04 – Sabbatical 4 Schuljahre 05 – Sabbatical 5 Schuljahre 06 – Sabbatical 6 Schuljahre 07 – Sabbatical 7 Schuljahre 08 – Sabbatical 8 Schuljahre 09 – Sabbatical 9 Schuljahre 10 – Sabbatical 10 Schuljahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SABZ",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sabbatical Freistellung im laufenden Schuljahr: 1 = ja, 0 = nein",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SCHEMA 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7-stellig, alphanumerisch (max. Anzahl)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besoldungsrechtliche Einstufung an der Stammschule (z. B. L1, L2a2, L2a1, L2b1, L3, l1, l2a2, l2a1, l2b1, l3, IILl1, … oder Sondervertragslehrer ILSV, IILSV)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SCHEMA 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sondervertrag in welchem Ausmaß in % einer Vollbeschäftigung (kaufmännisch gerundet)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "STUFE 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besoldungs- bzw. Gehaltsstufe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "TEILB_1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Merkmal des Beschäftigungsausmaßes: 01 – volles Beschäftigungsausmaß 02 – Teilbeschäftigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "TEILB_2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Weiteres Merkmal des Beschäftigungsausmaßes: 01 – Herabsetzung gemäß § 45 LLDG 1985 02 – Dienstfreistellung gemäß § 15 LLDG 1985 03 – Dienstfreistellung gemäß § 66a LLDG 1985 04 – Dienstfreistellung gemäß § 66c LLDG 1985 05 – Familienhospizfreistellung gemäß § 66d Abs. 1 Z 2 LLDG 1985 06 – Dienstfreistellung Personalvertreter gem. § 25 Bundes-Personalvertretungsgesetz 07 – Dienstfreistellung gemäß § 29g iVm. § 47d VBG 08 – Lehrpflichtermäßigung gemäß § 44 Abs. 1 Z 1 LLDG 1985 09 – Lehrpflichtermäßigung gemäß § 44 Abs. 1 Z 2 LLDG 1985 10 – Lehrpflichtermäßigung gemäß § 44 Abs. 1 Z 3 LLDG 1985 11 – Lehrpflichtermäßigung gemäß § 46 LLDG 1985 12 – Altersteilzeit gemäß § 27 AIVG 13 – Verminderung der Unterrichtsverpflichtung gemäß § 54 LLDG 1985 14 – Verminderung der Unterrichtsverpflichtung gemäß § 56 LLDG 1985 15 – Teilzeit nach dem Mutterschutzgesetz 1979 (§ 15 MSchG) 16 – Teilbeschäftigung gemäß § 121 Abs. 1 LLDG 1985 17 – Vertragslehrer mit Teilbeschäftigung gemäß § 20 Abs. 3 VBG",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "BAUSM",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschäftigungsausmaß ohne Mehrdienstleistungen in % einer Vollbeschäftigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "BAUSM_WE",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschäftigungsausmaß (in Werteinheiten)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "MDL",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtstundenzahl der besoldungsrelevanten Mehrdienstleistungen (einschließlich Einzelsupplierungen) im Berichtszeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SUP",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Von den Mehrdienstleistungen die Anzahl der (besoldungsrelevanten) Einzelsupplierungen in Stunden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SCHL",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schulleiter: 1 = ja, 0 = nein",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "BSCH",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1-stellig, numerisch",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrauter Schulleiter bzw. vorübergehender Leiter: 1 = ja, 0 = nein",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ERZ_WE",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Werteinheiten Erziehertätigkeit § 60 LLDG 1985",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "WE_59",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Werteinheiten Einrechnung sonstiger Tätigkeiten nach § 59 LLDG 1985",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Feldname",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Definition",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Inhalt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "PersAufW",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Tatsächlicher Personalaufwand; im Berichtsmonat bis zum Stichtag angefallener brutto Zahlungsfluss inklusive Zulagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "GMDL",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Abgeltung für Mehrdienstleistungen (einschließlich Einzelsupplierungen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "GSUP",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Davon Abgeltung für Einzelsupplierungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ERZ",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Erzieherdienstzulage (§ 115 Abs. 1 LLDG 1985 iVm § 60a GehG) bzw. Erzieherzulage (§ 60a GehG iVm § 41 Abs.2 VBG)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Z57",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Leiterzulage (§ 57 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z114_2_7",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Vergütung für nicht betrauten Leiter (§ 114 Abs. 2 Z 7 LLDG 1985)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z59_1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Leiterzulage, betraute Leiter (§ 59 Abs. 1 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z59_5",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für L2a1-Lehrer, die die Ernennungserfordernisse für L2a2 erfüllen (§ 59 Abs. 5 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z60_1_1R",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für L2a1-Lehrer (Religionslehrer), die, ohne die Voraussetzungen für L2a2 zu erfüllen, auf einem L2a2-Arbeitsplatz verwendet werden (§ 60 Abs. 1 Z 1 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z60_1_1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für L2a1-Lehrer (zB. Lehrer für Fremdsprachen) die, ohne die Voraussetzungen für L2a2 zu erfüllen, auf einem L2a2-Arbeitsplatz verwendet werden (§ 60 Abs. 1 Z 1 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z60_1_3",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für L2b1-Lehrer, die, ohne die zum 31. Dezember 1977 geltenden Voraussetzungen für L2b3 zu erfüllen, auf einem der genannten Arbeitsplätze verwendet werden (§ 60 Abs. 1 Z 3 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z60_3_1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Lehrer der Verwendungsgruppe L3 (§ 60 Abs. 3 Z 1 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z71_4",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für die Betrauung mit Aufgaben der Schul- bzw. Fachinspektion (§ 71 Abs. 4 GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44a_1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Lehrer der Entlohnungsgruppe l3 (§ 44a Abs. 1 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44a_2",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Lehrer der Entlohnungsgruppe I 2b 1 (§ 44a Abs. 2 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44a_4_Z1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Lehrer der Entlohnungsgruppe l2a1, die, ohne die Voraussetzungen für die Einreihung in die Entlohnungsgruppe l2a2 zu erfüllen, an Berufsschulen unterrichten (§ 44a Abs. 4 Z 1 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44a_4_Z3",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Lehrer der Entlohnungsgruppe l2b1, die, ohne die bis zum 31. Dezember 1977 geltenden Voraussetzungen für die Einreihung in die Entlohnungsgruppe l2b3 zu erfüllen, an Berufsschulen unterrichten (§ 44a Abs. 4 Z 3 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44a_5_Z1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Lehrer der Entlohnungsgruppe l3, die, ohne die im § 44a Abs. 1 Z 3 oder 4 angeführten Befähigungen aufzuweisen, in einer in diesen Bestimmungen angeführten Verwendungen beschäftigt werden (§ 44a Abs. 5 Z 1 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44b_2",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstzulage für Vertragslehrer der Entlohnungsgruppe II L, die an Berufsschulen in den leistungsdifferenzierten Pflichtgegenständen im Bereich des betriebswirtschaftlichen und fachtheoretischen Unterrichts unterrichten (§ 44b Abs. 2 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44c_1",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Erzieherzulage für Vertragslehrer (Vertragserzieher) des Entlohnungsschemas II L, die mindestens im Ausmaß von drei Viertel ihrer Lehrverpflichtung als Erzieher verwendet werden (§ 44c Abs. 1 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z44c_2",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Erzieherzulage für Vertragslehrer (Vertragserzieher) des Entlohnungsschemas II L, die mindestens im Ausmaß von drei Achtel ihrer Lehrverpflichtung als Erzieher verwendet werden (§ 44c Abs. 2 VBG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Z63a",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Abgeltung für mehrtägige Schulveranstaltungen (§ 63a GehG)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SNG",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Nebengebühren gemäß § 15 GehG ohne Fahrtkosten, Jubiläumszuwendungen, Überstundenvergütung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "JUZU",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Jubiläumszuwendung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "BELO",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Belohnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "REKO",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Reisekosten (Ansprüche nach Reisebegührenvorschrift 1955)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "FAKO",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Fahrtkostenzuschuss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "KIZU",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Kinderzuschuss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "EFZS",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Entgeltfortzahlung Schutzfrist (Beschäftigungsverbot gemäß Mutterschutzgesetz 1979)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "DGB",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Dienstgeberbeiträge (einschließlich Krankenversicherungs- und Sozialversicherungsbeiträge)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "SOAU",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Sonstige Aufwendungen, insbesondere in Bezug auf § 117 LLDG 1985",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "AUFW",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Aufwandsentschädigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ABFE",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Abfertigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "PRAB",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "8-stellig, numerisch (NK)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "Prüfungsabgeltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    }
+  ]
+}

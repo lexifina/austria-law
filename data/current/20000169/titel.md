@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Internationalen Kaffee-Übereinkommens von 1994 StF: [BGBl. III Nr. 241/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_241_3/1999_241_3.pdf>)

@@ -1,0 +1,2568 @@
+{
+  "sample_only": false,
+  "included_provisions": 64,
+  "source_provision_count": 64,
+  "schema_version": 1,
+  "gesetzesnummer": "20008255",
+  "short_title": "Verwaltungsgerichtsverfahrensgesetz",
+  "abbreviation": "VwGVG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40254640",
+    "valid_from": "2023-07-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008255&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:13:19.782064+00:00",
+    "response_sha256": "05399d4bfc0805e1590a39c0a95181ce38f2e01e539dce2d8b0d9471d11264a3",
+    "snapshot_sha256": "0ffda3d3438160a0b6cd4d688872a2359dff7793143dd0ddceff284cad6ae64d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6de9053d05a21ee351d84b759220f211caa9b698824339f06701121b703fefcc",
+      "sha256": "7a160d93b0437b55e62b3d56810c655006a288d8c16fbbb0a59230377fc8af7c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über das Verfahren der Verwaltungsgerichte (Verwaltungsgerichtsverfahrensgesetz – VwGVG) StF: BGBl. I Nr. 33/2013 (NR: GP XXIV RV 2009 AB 2112 S. 187. BR: 8882 AB 8891 S. 817.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 122/2013 (NR: GP XXIV IA 2294/A AB 2382 S. 207. BR: AB 9026 S. 822.) BGBl. I Nr. 82/2015 (VfGH) BGBl. I Nr. 2/2017 (VfGH) BGBl. I Nr. 24/2017 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1255 AB 1369 S. 158. BR: AB 9723 S. 863.) BGBl. I Nr. 138/2017 (NR: GP XXV IA 2254/A AB 1707 S. 188. BR: AB 9852 S. 871.) BGBl. I Nr. 57/2018 (NR: GP XXVI RV 193 AB 227 S. 34. BR: 9996 AB 10014 S. 882.) [CELEX-Nr.: 32010L0064, 32012L0013, 32013L0048, 32016L0343] BGBl. I Nr. 119/2020 (VfGH) BGBl. I Nr. 109/2021 (NR: GP XXVII IA 1699/A AB 929 S. 111. BR: 10645 AB 10685 S. 927.) BGBl. I Nr. 88/2023 (NR: GP XXVII RV 2081 AB 2108 S. 222. BR: AB 11278 S. 957.) BGBl. I Nr. 147/2024 (VfGH)"
+        },
+        {
+          "kind": "Umsetzungshinweis für folgende Bestimmung",
+          "text": "CELEX-Nr.: 32016L0800"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 33/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/33"
+        },
+        {
+          "text": "RV 2009",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2009"
+        },
+        {
+          "text": "AB 2112",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2112"
+        },
+        {
+          "text": "S. 187.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/187"
+        },
+        {
+          "text": "8882",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8882"
+        },
+        {
+          "text": "AB 8891",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8891"
+        },
+        {
+          "text": "S. 817.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/817"
+        },
+        {
+          "text": "BGBl. I Nr. 122/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/122"
+        },
+        {
+          "text": "IA 2294/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/A/2294"
+        },
+        {
+          "text": "AB 2382",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2382"
+        },
+        {
+          "text": "S. 207.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/207"
+        },
+        {
+          "text": "AB 9026",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9026"
+        },
+        {
+          "text": "S. 822.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/822"
+        },
+        {
+          "text": "BGBl. I Nr. 82/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/82"
+        },
+        {
+          "text": "BGBl. I Nr. 2/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/2"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/24"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/27"
+        },
+        {
+          "text": "RV 1255",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1255"
+        },
+        {
+          "text": "AB 1369",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1369"
+        },
+        {
+          "text": "S. 158.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/158"
+        },
+        {
+          "text": "AB 9723",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9723"
+        },
+        {
+          "text": "S. 863.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/863"
+        },
+        {
+          "text": "BGBl. I Nr. 138/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/138"
+        },
+        {
+          "text": "IA 2254/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/A/2254"
+        },
+        {
+          "text": "AB 1707",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1707"
+        },
+        {
+          "text": "S. 188.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/188"
+        },
+        {
+          "text": "AB 9852",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9852"
+        },
+        {
+          "text": "S. 871.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/871"
+        },
+        {
+          "text": "BGBl. I Nr. 57/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/57"
+        },
+        {
+          "text": "RV 193",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/193"
+        },
+        {
+          "text": "AB 227",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/227"
+        },
+        {
+          "text": "S. 34.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/34"
+        },
+        {
+          "text": "9996",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9996"
+        },
+        {
+          "text": "AB 10014",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10014"
+        },
+        {
+          "text": "S. 882.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/882"
+        },
+        {
+          "text": "32010L0064",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0064:DE:HTML"
+        },
+        {
+          "text": "32012L0013",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0013:DE:HTML"
+        },
+        {
+          "text": "32013L0048",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0048:DE:HTML"
+        },
+        {
+          "text": "32016L0343",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0343:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 119/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/119"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/109"
+        },
+        {
+          "text": "IA 1699/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/1699"
+        },
+        {
+          "text": "AB 929",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/929"
+        },
+        {
+          "text": "S. 111.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/111"
+        },
+        {
+          "text": "10645",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10645"
+        },
+        {
+          "text": "AB 10685",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10685"
+        },
+        {
+          "text": "S. 927.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/927"
+        },
+        {
+          "text": "BGBl. I Nr. 88/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/88"
+        },
+        {
+          "text": "RV 2081",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2081"
+        },
+        {
+          "text": "AB 2108",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2108"
+        },
+        {
+          "text": "S. 222.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/222"
+        },
+        {
+          "text": "AB 11278",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11278"
+        },
+        {
+          "text": "S. 957.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/957"
+        },
+        {
+          "text": "BGBl. I Nr. 147/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/147"
+        },
+        {
+          "text": "32016L0800",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0800:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Hauptstück Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausübung der Verwaltungsgerichtsbarkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Örtliche Zuständigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtshilfe auf Ersuchen inländischer Gerichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtshilfe auf Ersuchen ausländischer Gerichte und Behörden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befangenheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Verfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Beschwerde",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschwerderecht und Beschwerdefrist",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Frist zur Erhebung der Säumnisbeschwerde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahrenshilfe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Beschwerde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitteilung der Beschwerde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Vorverfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzuwendendes Recht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schriftsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschiebende Wirkung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschwerdevorentscheidung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorlageantrag",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachholung des Bescheides",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Verfahren vor dem Verwaltungsgericht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzuwendendes Recht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Parteien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eintritt oberster Organe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schriftsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Akteneinsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschiebende Wirkung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ladung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Öffentlichkeit der Verhandlung und Beweisaufnahme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhandlung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebühren der Zeugen und Beteiligten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfungsumfang",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Erkenntnisse und Beschlüsse",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erkenntnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verkündung und Ausfertigung der Erkenntnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Belehrung über die Beschwerde beim Verfassungsgerichtshof und die Revision beim Verwaltungsgerichtshof",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschlüsse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wiederaufnahme des Verfahrens",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wiedereinsetzung in den vorigen Stand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entscheidungspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Kosten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kosten im Verfahren über Beschwerden wegen Ausübung unmittelbarer verwaltungsbehördlicher Befehls- und Zwangsgewalt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Besondere Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Verfahren in Rechtssachen in den Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Verfahren in Verwaltungsstrafsachen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Frist zur Erhebung der Säumnisbeschwerde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzuwendendes Recht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dolmetscher und Übersetzer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschwerdeverzicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahrenshilfeverteidiger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschiebende Wirkung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbot der Verhängung einer höheren Strafe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verjährung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durchführung der Verhandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beweisaufnahme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schluss der Verhandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unmittelbarkeit des Verfahrens",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhandlung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebühren der Beteiligten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erkenntnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entscheidungspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kosten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Verfahren über Beschwerden wegen Rechtswidrigkeit eines Verhaltens einer Behörde in Vollziehung der Gesetze",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Vorstellung gegen Erkenntnisse und Beschlüsse des Rechtspflegers",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 57.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzung von Richtlinien der Europäischen Union",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 58.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 59.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dffb10a75bd113c0a13fd63273b76309507682e659ba2b63f1df25c667f2af5c",
+      "sha256": "e4975e4550fad84984db752b0f21d7075c12c4444adef40b0c6381b38726cda1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Ausübung der Verwaltungsgerichtsbarkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29b56f04f9e39da4d0f90ba6b6e623b5c1af249c17b68ba242f786e51fb74051",
+      "sha256": "23346dadf78b826666f8b6a1a637b944b805488e21ec08e5f9ec0ef9e17dfc19",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Örtliche Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "637c281e8c776e133be5598577c64dcc47803b4992078a909ec23f37ea701a88",
+      "sha256": "061d695e42b3050d48bb317b3ebd496dcb894b5ae4e128ac651fd6a55454e395",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 1/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1930&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 51/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_51_0/1991_51_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Rechtshilfe auf Ersuchen inländischer Gerichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4621d7a6755ec4453e2d2ea4f5e68ba9d0400e354655710668a2aa998b26d196",
+      "sha256": "73ed6f238bd97fee4dae7c92e42a69eee2407451c25d1c4b258c496f6f021148",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Rechtshilfe auf Ersuchen ausländischer Gerichte und Behörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1cfdd2146a4b68eb7e57e5f1c9c048b1e7d6aec7bf50e7f3462ba161e904ab5",
+      "sha256": "8134c86ca7f50fadde4ea55f9af46e903fa37db36a9a79f4973d669bc6b0ce39",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Befangenheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "548ad1fb9606b7c291c93bebfe6236e96623f239d2d7d6b18f102a33281b0b05",
+      "sha256": "e5c2cb73ec1f1595efa0054c36900df91b9f69dfa9ef25eb8f4486287c09a088",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "2. Hauptstück Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9e449ac0ab1a926052bcb9b404834fa96adcd0b977441c35ec0e3d578165114",
+      "sha256": "d39667bce0e8f66a21c2970b2434644897078122bc74739e87d41a204bef063e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Frist zur Erhebung der Säumnisbeschwerde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3df3856a5fbca59b8f0889a816fc8b43a4f323122ea8a16a0b9d30585f241eed",
+      "sha256": "bc5b1561046d5466a7f8aa6512b77177dfdefcb541eba3b5f252fd789358ecdb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8a",
+      "source_heading": "Verfahrenshilfe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea72a4996711cf9fd952de48f0b0ac84cff3bce00282c678eceb47d0107b30a4",
+      "sha256": "bcee9e35fe8a042b9f0c8fb25377068aa08e66e2fbfcdc92847e58bba0559657",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1895",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1895&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Inhalt der Beschwerde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21126c9f59a57c6985053fe59b2b4d1a35581e9806aa45de68003b604afb59b3",
+      "sha256": "87a32ed3618163e3ca624c32f54e950e66dcfbec4becf243435c0900cbac63f1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 88/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/88"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Mitteilung der Beschwerde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "456772802f87b8650aea8ed62e037c14c9859a83846c7fdae6295ac598d2a4fe",
+      "sha256": "5782c1397cccaef28e51f59a22ad4792848bb0a3e2d65df828a6d6c01e8d9058",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "2. Abschnitt Vorverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6e2af35b6865885d4f3e031d6f344b8b57e7e09816e6c67c99c3761085f3200",
+      "sha256": "2d4b2b25fec898cf714fd3695a622d0d5c6a4ae0a21a9654dcdf77cc33b6ba2d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Schriftsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba6d78d321adc14d9bd04e7a9d309629fd19b8632ed51812696bde6d903ccdb1",
+      "sha256": "801ac6c0887fb1e1735f58689ef964d80c7e081d783ee6e0ab4272f5899346c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Aufschiebende Wirkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79f5aa38aec6a01d385959d63a27d6616ace7b5fe6ec07b9b5b431e437b26ead",
+      "sha256": "347a1fc1560fdc362cf5426dd7d2a8ef7540a9f3e437b9b0f73f33ab230a2e78",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Beschwerdevorentscheidung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "faa04ce4486435571bba4b668a66987e5b34aa304a6c03dd298abf951427c605",
+      "sha256": "5c37e510720804e0d786d307346709d1e0e44073b0b59ed0e8d3b86d9a073aaa",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 138/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/138"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Vorlageantrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72b62d42fde537776c3720def72ce7ddc3387c05716b837a193c7692d37208c4",
+      "sha256": "29c47626c63fe57b1c1d1f92061abbceb572f8ddace8a2976c64f8891ab9050f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Nachholung des Bescheides",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "793738964da8fbd44eba980a2dddad5f457e6f71a5a20870abb9a547dcbdc6f8",
+      "sha256": "9fd11b216e10a3b9ee761f538c82711a46d89c4d244caa41326319f2e915ac35",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "3. Abschnitt Verfahren vor dem Verwaltungsgericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac0973cb62fc705a0318ec51837732e3107b35e6676f64bbabe9c1ee0f3188af",
+      "sha256": "0088c010dceb8e3757f776371eaff0b55fe0ee7e21de0bdf0e8ca8ab3727c97b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 173/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_173_0/1950_173_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 29/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_29_0/1984_29_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Parteien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "086be6604a5e996e06085c4eac798543a717447d809194ad42d736aa3d64d296",
+      "sha256": "84138eb48e048043f52a836a9db4b4082bdcda43e11b9a6f24013ff68c31f42a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Eintritt oberster Organe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cab3d3adb3eb8f8b349d2d577afa578444635cd4a7a5ee56d8655e3a14f478a",
+      "sha256": "4d45aee3e4818ac822d44ea8a6f1630abe6751bb36d1c7e394ffd0ff736f83cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Schriftsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd9a62406b26a00419ac2eea160ea5d2e57d3d295cec8133c810935009c33b03",
+      "sha256": "53b8889c621a19b4dbbf2f9d2feeeca97506acf80f5de0fffdddd29d2fde6b26",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Akteneinsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6b592c8dd42b0a774f579405f41b5cc9c9d83de3ef1fb22b2bbdfb14377b49fc",
+      "sha256": "34a154e6e1fc57499a9d6e4ee5e5cb2d80d4d4d92dc9ad69378583171c9e5ce8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Aufschiebende Wirkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "638d00d42cedb59f7822288f0e5303a317e4161d468a3722e1387c7bb8d6d4cb",
+      "sha256": "c828617952b2703e78e756b617a527973fd4fae89943016e31af20c4efee7f0a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Ladung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f515b30105bc20759ecde6b260aedb84c93bec15dc02e9b3f6bb1ff6ce7d71c2",
+      "sha256": "27f82f672ac318e5ee555e678a9222bba5823f6a60f8b2a06038510c9ad24705",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Verhandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f669b375aa65dbdaa2b9a98fbad0e0e1c7a3c67d5dd48ba7033aeff3efad290",
+      "sha256": "41f6549ef738c3b04198902894a9608eaf9c3874161af7f43eb9ddc346a15491",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Öffentlichkeit der Verhandlung und Beweisaufnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9a7b615c63cd5e1c11ed3564afcb4ff25068b6404e9c41d678ff9a63472c605",
+      "sha256": "e637ee39f8f469daf96d18bc7c2e3fcfba093612804c5b35d1e1acae86d2866d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 88/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/88"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25a",
+      "source_heading": "Verhandlung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0025a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fda3feb56a7f5c10d5c9ce902521349f647207177b307bdc116645f4ef12b1e",
+      "sha256": "c7a307a56ebabe41153d585db58303782a8bc8d7b5ee0ebbe4f2369d0586d2df",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Gebühren der Zeugen und Beteiligten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bd767ab861ed5e7a1bb9d9f15acd3f881b12fee9d8d261dda0edfff63958e28",
+      "sha256": "35c146da30c5393905627f9e42abf6293296d68f869fe1557a6945780e4da8eb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 136/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_136_0/1975_136_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Prüfungsumfang",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b72fdcd408cb26ede9e18ec7c414212dc515e70528f6b8561b8a8180124be8c",
+      "sha256": "2429a1b617eade40860a6a7f248f7995b53cb770956084346aa4882088bf94ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "4. Abschnitt Erkenntnisse und Beschlüsse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fffa797fce5945eb1b7c57b64f0d3989d3bb3a179b330090425b2f32fc594e41",
+      "sha256": "8c407f8345c76da6aa08be581ff077e78975aa5afbce33cdf789c4d03e007d75",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 138/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/138"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Verkündung und Ausfertigung der Erkenntnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "348381d244ca27514f512fa11cc350bacfe999285932f83305c8d810cdfbfba2",
+      "sha256": "787478f3eab59ac1075f44e142162550196cdf765d1a070d9b2d5ab6b266b716",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Belehrung über die Beschwerde beim Verfassungsgerichtshof und die Revision beim Verwaltungsgerichtshof",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9ae5ce7ebec88d75ef65df37fa87e2f8631f4a67b541ac8f893602726b5c4ef0",
+      "sha256": "1e7ed63d7bc3e6275b7e7f4d67fa8d838d5fdbcf237a3c2d37826943800bb45b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Beschlüsse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5878a6e4da80ad4930f046523e030c49c26cc64d8b84c890dc8d77b3dc4fede9",
+      "sha256": "82e64356feda729279398e06554b6bf8a73c8485a74a0abfcda2707e239daeda",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Wiederaufnahme des Verfahrens",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e82f02987111a7eac71b73be64e1dfc62b73b88bbcf1109055f3d975830d4738",
+      "sha256": "c732020a8a646b11100b5fb321742f0de63bf644bd0b8cc971769f97570e2fe3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Wiedereinsetzung in den vorigen Stand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fbf347841a9e8485e5a24ad1330327ec49dfcda81c4fd95195a19f5db31f945",
+      "sha256": "fd431b43334528b35ab61b66af2454c21054f6668f10099d466e4cb48f0d74c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Entscheidungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f570dfa69c05551ee01f2f0aaa8c0aa77f667283dc62dce4d98821c2eb1e6e79",
+      "sha256": "be4bd61d53fa3470339ee8a8b751cda9513eeb7165e5fc5b64d0218a1604547a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 10/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_10_0/1985_10_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "5. Abschnitt Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6cc84aa6e7c0898ef42373fbc7fc092c577d31ed4fb7dcd8b174c0cc59a55996",
+      "sha256": "dfac6a29fb7576dae2c0d02044711b67418127230adb5c04ebb7a6bd9022b34b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "3. Hauptstück Besondere Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0388cf7e15cb45ccfc1dbaf6c33c28fef0a573bb87e4a54874c004037f8b09e5",
+      "sha256": "05fa6880824d2ab86bd3a228d13ff6282519534d087598b46cd5fbefd8e7d498",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "2. Abschnitt Verfahren in Verwaltungsstrafsachen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e35ab0cfa96c4a4801e14808247634ed79598b12c71d939a43e878346c8489f8",
+      "sha256": "cec21114a36e9283a336ac356ac1589d7fcb8b1eb050acad84b132a2f18dd94e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Anzuwendendes Recht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b733e05d0ff9e2d0f371500002c6980b256c015025b7ef92d9e31482edffbf4c",
+      "sha256": "7711794a2f77298e7ee9a9197927e52c437bbaa1c54d4cf0ab24d0e7893bb405",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 129/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_129_0/1958_129_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38a",
+      "source_heading": "Dolmetscher und Übersetzer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0038a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "189e5c8e255fd2214728d2840b0ca976ece01574c245ae2034bc92cc914cbaf9",
+      "sha256": "3c7261dabd4d14ebccb3a4e73452f64c92be1bb4e38c858e34712746c2ff6b82",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Beschwerdeverzicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8016e87a0bf0297f88d5c6a1ba370a674b6d45a9dc6ad9f1b23e7d14d7dc5495",
+      "sha256": "6ba0957da108080160f12e6dec5747a2f31ae65ea62d329fe6fcf490b28fa1d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Verfahrenshilfeverteidiger",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2e6fbdd0ab4a109111ba77fcc71c7e9054a0ccdcfdd7a39c9ca254752550c5b",
+      "sha256": "835b6a34d2cce5faa9668d33f0ee9267e7642226a84da3caba285d6a0af8686e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Aufschiebende Wirkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87afc7c43c6c88fdad58d8b733fea6085f87261f1e1aae88b37d95511d16c54b",
+      "sha256": "325336a237bac5a9a2a338e63e87a6d0f46d8fdfe003f1f16da296a05436def6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Verbot der Verhängung einer höheren Strafe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f637ab702ab9dba47e3ef398e8def8043ab1289d053442a4cbf29e797f31b46e",
+      "sha256": "5c3017e6568e950e4958094586db3f308c6372429ad5a0be01e03d55e3eeccc9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Verjährung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9bd1ff4ca6bcda19a4a23d64456720f9a7d4fdb2772cb380cee41f50635720d1",
+      "sha256": "760b88808fee4a401c846540102c838de581fce8fceaf620f2fe3b87ba5b9fb3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Verhandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "527a861cd80e2b58320141aa850844a92d058c7bec6576e7da28c3bcbbba17fe",
+      "sha256": "4a5228f74934d95ece35177cd8f5cb997a0b0ea313a280e89c9493869dee95b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Durchführung der Verhandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "914dea576be6aefcc2a034325ebb06ba21223faa33a2925b99f5960590d9ceed",
+      "sha256": "05f5535d5d077e02dde325c3ec7c03c0b044e1ce8310c76275f16b8cea7db8b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Beweisaufnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "299b09a2023c8fed37b192291e9c16126e4c1567a90b62a1bd713c2e2abd45f5",
+      "sha256": "4f6ed436875b3e62c5387a68875a10782fade7759b87542dab6bb675f2e0e93c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "Schluss der Verhandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fe028d92f6c41a7a8676fcff6cfe052da7fd51695f47a9e9d6e014bfb69863e",
+      "sha256": "583c3e36010096acd411798d1346ca9ae82e034b393a9477a1a96af225f82e64",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Unmittelbarkeit des Verfahrens",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e83ae545d6c0b74dfea406ceaa96783f96ea5c4cd906e6137832f6ff8f9f9b25",
+      "sha256": "f563d787406eeb2bf8fc104b63bc18f14fe704eae86f0ede57aeae779cb4ec37",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48a",
+      "source_heading": "Verhandlung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0048a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db54a7e1868d6fd4c5c723e4c86ffd2a57cc356f3e63e1049815aee2b046170c",
+      "sha256": "4dfaaccd1670714d4ed9da9a46eb57987cc39abfbb620d1fc655aee91b03a38d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Gebühren der Beteiligten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "895f79a2f42c7219794a0c70bd42c4dc53dfcd1fdcf57613665bfbcf7f0de770",
+      "sha256": "8f5c2ba4623304902c76a0c84021af57abdacf4a1e0b0c7cd420a5bfd2deea9e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Erkenntnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9fd1610a2298d131033fcded58f62ce57071b5c35af9d4b21dac00ec6fbf529",
+      "sha256": "a504d43a7dce4117148a3f7497a1336d366e3f84abd22154ad7d9920f09d2770",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Entscheidungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e87913eb4903c79fd5fb441bdf5ebc09aa66b2e3b07b25491c4f22473f05d1e9",
+      "sha256": "bf31bc24b88d1b3e9bba7683cd9fe1a89e705d3b74ba662716d9bdcfdf6bc329",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d544cbb7eb5bb240b9774b9e3239d06eaddcfa4c296fa8579d886b1107b1387",
+      "sha256": "fdce24f80e7fd70f078721c3285fe0922576685f79686b3a83886a29a3da7668",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "3. Abschnitt Verfahren über Beschwerden wegen Rechtswidrigkeit eines Verhaltens einer Behörde in Vollziehung der Gesetze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2463b6cb30f2d2af1db1dab5a7da55cfb9baf80a946252a9612d18bbd78e79a0",
+      "sha256": "fe35740d6952e930b60f846121baa9bafababc3b9e8c4231338a483e3d5ee702",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "4. Abschnitt Vorstellung gegen Erkenntnisse und Beschlüsse des Rechtspflegers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54c4c4cc3b35445d5bab4dfb05d0d198a5b10b2918900d5983fddcd3e6ebb42b",
+      "sha256": "6e162468cee9e3ec158c8f626f4ef47bb1d3a5b56f13e07c9403468a4859fbf9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "4. Hauptstück Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d2f290c536e72c8de67cb5ce4acaa93b0898061d0bbf1c0460744487e1cf2d6",
+      "sha256": "9ccc556e9e689e31f7a99222e6a07c167cfe32f00c656f7ac43c99a05365358f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0014a36d4821ebaefe079166f9f30a30baeed246859ab25b1da7bb419c1b807",
+      "sha256": "f9f1fcd6435179a73fd171a85d2a843abbcc1f57f5bc4db9383eb1e098362380",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "Umsetzung von Richtlinien der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4427304c414cda743189cb3a27bd25752d059de11b6af6ad29f9322f17bde71d",
+      "sha256": "038e49b0b99f708d21b64b9aada910fe96d34dc94277d317403bb024b7394108",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 57/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/57"
+        },
+        {
+          "text": "BGBl. I Nr. 57/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/57"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fc83f06a1ebe16442ccb42cdbe75c5b61c6e464d067e765070f615d1943aa856",
+      "sha256": "2620bef6ef8bb68ddd567192e8447be7c1709d9c8a3a70cc7e5925a890a65406",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a0beb1813d6b751aef86e4a34e132b0d72ef5e2e2ee15f28698b05736ba401d9",
+      "sha256": "5ed81386a2aad404139ab11e52294a0bcbcc675622b7073b6b637eab378f7c64",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 122/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/122"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/24"
+        },
+        {
+          "text": "BGBl. I Nr. 138/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/138"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/109"
+        },
+        {
+          "text": "BGBl. I Nr. 57/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/57"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/109"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/109"
+        },
+        {
+          "text": "BGBl. I Nr. 88/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/88"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

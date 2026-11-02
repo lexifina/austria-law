@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001845",
+  "short_title": "Wappen, Flagge - Marokko",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001867",
+    "valid_from": "1936-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001845&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:25.394396+00:00",
+    "response_sha256": "aedf1b3c630f2c5a8c173da02296933891c51f4431acd42e125eeb2b5b08da2c",
+    "snapshot_sha256": "7eb2faebfb42c6454237e3b8628b1aa80696c48362d093c7cb169afe87b2d0ec",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57e6062a099d330ed889939a970781a30c348b96f4b3daa69d135f257f218af9",
+      "sha256": "a84595b97c06c9490dd45982b808b6f68c00474a0c8d16b5161a392cf54953b3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel und Verkehr im Einvernehmen mit dem Bundeskanzler, betreffend die Wappen und Flaggen Marokkos. StF: BGBl. Nr. 215/1936"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 215/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=215/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e157120e5a647cec753d0fca267ae43923d25fbc0963df8939b86cf42d32a5d",
+      "sha256": "eedeb376a5d39b6c0e9006cb68f7bc43bd7d7db2171305cfacae341a5b361357",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

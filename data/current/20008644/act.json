@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008644",
+  "short_title": "VfGH-Aufhebung von Satzungsbestimmungen von Universitäten",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40158385",
+    "valid_from": "2013-11-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008644&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:18:34.253728+00:00",
+    "response_sha256": "3c1940782c08a700ff0d2b4c67701af3a1fa2a4ee3d45e7974423e01069db7a1",
+    "snapshot_sha256": "e083512a3c5bf5969db34789ea593f9da7977db27be80bbd949d8987adcc251f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0adbcdfead2d11e21b329ebcc6a67e1b91d70a9549e500e72f84e660868457e",
+      "sha256": "b5d077b4fd72adea3acabaeaa3b23c4f34c311ffc5d44a9ca4c6d869646147c1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wissenschaft und Forschung über die Aufhebung von Satzungsbestimmungen von Universitäten durch den Verfassungsgerichtshof StF: BGBl. II Nr. 346/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 346/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/346"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1b8305c7675c20469c9650c7a3b989c899a3d9e2907b70022f54993eeb10efa",
+      "sha256": "d8c4614f63f890b8b8bb54e76b4a9f22ead899ebe27cdca33e0db71ed861c0bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

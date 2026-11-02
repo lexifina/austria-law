@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10005299",
+  "short_title": "Commonwealth Kriegsfriedhof in Klagenfurt (Australien)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Australien",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005383",
+    "valid_from": "1967-07-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005299&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:42:32.981350+00:00",
+    "response_sha256": "16603bbf5039e99988862c4d588a8f5673649d48c95d662e31878f2855ab8350",
+    "snapshot_sha256": "9028ba8e30a50ed1e7387129ef3a895c0e63435e7f40f0508869a3d4793899fc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1e544b024ffa5ca659434654c19b82800c9fa5131f76440556b727094d384a83",
+      "sha256": "1d2e4e2b32e7b82105990bb74cdb302147ec46253a1e9aad648b2fdf1deaba67",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung von Kanada betreffend den Commonwealth Kriegsfriedhof in Klagenfurt StF: BGBl. Nr. 309/1967"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 309/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_309_0/1967_309_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Wien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07f1e81003e29ad6c5756053c51d15dea3a061079f1b71041ae4db24cc4d9f35",
+      "sha256": "aafa99bbbb8b7d42ba9dcac44fd757ee1f78e1731d790be6ae7c7c0e3a4f5413",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Lageplan",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc5763517be1b597420f37c9790bf3252dae87504b5c33c2ef738e8e63d09869",
+      "sha256": "d9438407c14883d6c39f374b49ecad78368fea274a9ddc45499bcc9b45702081",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12059071/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

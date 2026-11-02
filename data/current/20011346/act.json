@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011346",
+  "short_title": "Errichtung einer Notarstelle in Seiersberg-Pirka",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40227552",
+    "valid_from": "2020-11-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011346&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:13:21.556207+00:00",
+    "response_sha256": "daf80d1ebf50ab7012da79e699961cda0cebc56fb1dfa3c4a35d3a12155563be",
+    "snapshot_sha256": "5bf4281af11d6d96f04a71e8a8c7d341e39bb3560c962827a5c5e613114a188f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a8783ebe9c75985ab1861ba15aa7f806eb29dd679a5171fd7eae3a1e85223ed",
+      "sha256": "977cd874e55144fc79859d08eb3889c4b025a815d72e88d51fed6055118042b7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer Notarstelle in Seiersberg-Pirka StF: BGBl. II Nr. 506/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 506/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/506"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c25823525faf9ecbe24f0235b283c4e4ba942cd62a57d0eab45c01a79147d811",
+      "sha256": "cb47f806cc4649be26b1c5ef0d66ea8df7e0395b4bf489765ce3ad2a735e5e14",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

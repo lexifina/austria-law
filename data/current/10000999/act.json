@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000999",
+  "short_title": "VfGH-Aufhebung Wiener Ladenschluß-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001002",
+    "valid_from": "1989-11-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000999&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:39:33.858500+00:00",
+    "response_sha256": "26a2da0a70152f194080b8655db98f36042367ac44a7a0df1fb4d605617a2caf",
+    "snapshot_sha256": "33de8b92e0efaa436918eb308077382b25b9d57466f162b3d75b501b2f2b0d42",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c309b54dceb14fb1fffe36824fe96ba38b712f0c690918bfaa98946a4f8b26e",
+      "sha256": "e96a81d6ba6cc14442b2ac2aadf16e3389f6cd947dfb4a7fd00cfabb49d34176",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 8. November 1989 über die Aufhebung des § 1 der Wiener Ladenschlußverordnung durch den Verfassungsgerichtshof StF: BGBl. Nr. 550/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 550/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_550_0/1989_550_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06482727fdbe3e26e4585dc2ff756256a41234af8c475272449fef5858962cc8",
+      "sha256": "c7ac12e6ad7d3986e65651ce1c457e936da963a0c2e128d2be7e76d8cf4cc7c0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

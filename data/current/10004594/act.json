@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004594",
+  "short_title": "Harmonisiertes System zur Bezeichnung und Kodierung der Waren",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004643",
+    "valid_from": "1988-03-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004594&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:32:51.929344+00:00",
+    "response_sha256": "54255212f1124e8824e22177f58a5261235cadba0217e846fc052159470e6ae7",
+    "snapshot_sha256": "ac85e83b04f3c6d5928952037b0bbba1658db304038847a645107c9803fc8640",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "316b9c813a720576a08e54fb1a2f3318f2fadcee9fea73f0238539420656ad43",
+      "sha256": "7833f79aba3df47c3f2d61cac96c1835acaa753c0281fafa7875a734e33901b6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 23. Feber 1988 betreffend den Geltungsbereich des Internationalen Übereinkommens über das Harmonisierte System zur Bezeichnung und Kodierung der Waren und des Änderungsprotokolls zu diesem Übereinkommen StF: BGBl. Nr. 131/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 131/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_131_0/1988_131_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6d11514a7dddf1638d9a412249184c9d1ded843e8629cb710ce718f4688d166",
+      "sha256": "d909a26a63237e804e26740088bdba72a5fd1798122594a53356c8db82b98ed1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 553/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_553_0/1987_553_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

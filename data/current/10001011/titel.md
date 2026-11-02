@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 26. Jänner 1989 über die Aufhebung der Verordnung des Landeshauptmannes von Niederösterreich vom 15. Juli 1987, LGBl. Nr. 7001/5-0, über die Höchstzahlen von Kraftfahrzeugen für das Platzfuhrwerks-Gewerbe in Schwechat, einschließlich Flughafen Wien-Schwechat, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 61/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_61_0/1989_61_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

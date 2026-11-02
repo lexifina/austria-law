@@ -1,0 +1,888 @@
+{
+  "sample_only": false,
+  "included_provisions": 22,
+  "source_provision_count": 22,
+  "schema_version": 1,
+  "gesetzesnummer": "20012915",
+  "short_title": "Bundesfinanzgesetz 2025",
+  "abbreviation": "BFG 2025",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40270169",
+    "valid_from": "2025-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012915&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:46:33.696695+00:00",
+    "response_sha256": "6739e6fff194b824b8233fc785ba6e316bd361f6f514bd2b7854ce07a318f4b5",
+    "snapshot_sha256": "47ba649497a4577c54501f07816161f995b611cab344815ed018c9c532011aa2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb9b1cf369698ac22c6d858a19bcd5b94bfcdcf589d3ec53c2dc98ee46130b37",
+      "sha256": "882cd5c78ad0681c7c6e324e3445af0b26d04e6cc7043dffc4de7fa321cc6099",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Bewilligung des Bundesvoranschlages für das Jahr 2025 (Bundesfinanzgesetz 2025 – BFG 2025) StF: BGBl. I Nr. 22/2025 (NR: GP XXVIII RV 67 AB 108 S. 32.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 22/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/22"
+        },
+        {
+          "text": "RV 67",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/67"
+        },
+        {
+          "text": "AB 108",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/108"
+        },
+        {
+          "text": "S. 32.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/32"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Bewilligung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e4820f3d413138d36082a1a8bf6a6b13857e475b2a30b20524a76fe4d51014ca",
+      "sha256": "3a3228f99567b6a112ce78f7a4f45987e8474989972ff8bce9fef0ae7483b89d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Gebarung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geldfluss aus der Finanzierungstätigkeit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "(Beträge in Millionen Euro)",
+                "rowspan": 1,
+                "colspan": 2
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Auszahlungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "123.233,419",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "221.498,425",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Einzahlungen:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "105.101,056",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "239.630,788",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nettofinanzierungsbedarf:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "18.132,363",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Finanzierungsüberschuss:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "18.132,363",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "Art. 2",
+      "source_heading": "Ermächtigung zu Kreditoperationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "art-002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "928af1c90bf1585e20871a7f4612fa5aae61045df3092db47a7a60083dcdf3b6",
+      "sha256": "78cda94916256f303cfa0fdec2d19aa63d514c2564ce9252950e839c63778330",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 139/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139"
+        },
+        {
+          "text": "BGBl. Nr. 763/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_763_0/1992_763_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 3",
+      "source_heading": "Ermächtigung zu besonderen Finanzierungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "art-003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fae3575c45d36ad9d4c9f4386a4fe1a91f9115a005a05e0b7d7f7e761957ca52",
+      "sha256": "a5a29f73ca108d29804eabafa098dfb401429b7ae8e98ac105aa02c070b854a7",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 4",
+      "source_heading": "Umschichtungen finanzierungswirksamer Mittelverwendungen, die durch Einsparungen im Finanzierungshaushalt und im Ergebnishaushalt zu bedecken bzw. auszugleichen sind",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "art-004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b28134295df8de49ce41608dbebf70c7623b2c5896fe8df998e62d3899619122",
+      "sha256": "aa417eb3fd0dfbb7f2a5a505752ca2bfa51415a529845297bf5c82be544e2f74",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 266/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/266"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 5",
+      "source_heading": "Überschreitung fixer, finanzierungswirksamer Mittelverwendungen, die durch Mehreinzahlungen zu bedecken und durch finanzierungswirksame Mehrerträge auszugleichen sind",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "art-005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4e65b9a24f5f5febac0a7fb0e31c68b3620d5c9b865d18332a345ab07214a04",
+      "sha256": "acf82769786694613a6bcaa6338964b81483eaad1a1db140c89160951f16ec95",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 201/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 6",
+      "source_heading": "Überschreitung finanzierungswirksamer Mittelverwendungen mit Bedeckung durch Kreditoperationen ohne Ausgleich im Ergebnishaushalt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "art-006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "180996325e0f1649a433dde7b6c1bbcd4c46f047ca34b9ab2ea8fa42d3a3832f",
+      "sha256": "cc657a567793c01d5fc2c06ff6133d6da00a483b11274b34166f5f38cc96016c",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 53/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/53"
+        },
+        {
+          "text": "BGBl. I Nr. 156/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/156"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 6a",
+      "source_heading": "Überschreitung im Geldfluss aus der Finanzierungstätigkeit mit Bedeckung durch den Geldfluss aus der Finanzierungstätigkeit der Untergliederung 58",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "art-006a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c043f764be2c7e5ede61cf4b370f34ff7acd41c65685de81bd80579e837fd75",
+      "sha256": "f62efe03a8525680397634059c6e3740a95481f6862d18aa5051320bee76cba7",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 7",
+      "source_heading": "Überschreitung von Aufwendungen ohne Ausgleich im Ergebnishaushalt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "art-007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55c73d0ef75f8ad64f146d2f98277da075a4ff2f28a47eccf5397518c7615e6e",
+      "sha256": "3341783ac2b144ba246c5a606ea51bb31757a3914d9a4e2aa49ab2ddd25f2498",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 und ist bis 31.3.2026 anzuwenden (vgl. Art. XVI Z 1)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 8",
+      "source_heading": "Gemeinsame Bestimmungen für Umschichtungen und Überschreitungen sowie Ausnahmen davon",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "art-008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3694d25857292b426e3acbe907d0c893b22d443b1fcae3b163f70d054a4fe29",
+      "sha256": "1fab07e9315c7b764f571783e7a968b50aed6caa192610135fcdbf5969a831ef",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025. Abs. 6 ist bis 15.1.2026 anzuwenden (vgl. Art. XVI Z 2)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 9",
+      "source_heading": "Ausnahmen von generellen Regelungen des Bundeshaushaltsgesetzes 2013 sowie Umschichtungs-, Bedeckungs- und Ausgleichsverbot",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "art-009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d799b7e8a6f2d005709fe47a142152ee859d694a7ec22dac0445fc7ca344b599",
+      "sha256": "aec0215957ebdf4c29a55b882925da485d9963b9ef899751e568e03a8eb2ad6a",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 35/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 10",
+      "source_heading": "Haftungsübernahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "art-010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88d84973816ca45a1d4d1606d004dfb69a3d9633ed4bfd6128b61d9462125815",
+      "sha256": "edb99443d577f39057c8e8dcf2e8823e9a6560f82fa8bcc3b9259e48d5750c5c",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 117/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/117"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        },
+        {
+          "text": "BGBl. I Nr. 14/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_14_1/2002_14_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 11",
+      "source_heading": "Verfügungen über unbewegliches Bundesvermögen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "art-011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd687c41394d4ffaa298457f351fa389bffcb7bed0ec265ddc715c1777c15329",
+      "sha256": "c8cea57adbecb854533b4c095e9616b76f54557eed5944467177b0e760143f71",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 12",
+      "source_heading": "Verfügungen über bewegliches Bundesvermögen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "art-012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a7d098c40c71581fd5151739ff2172cabb3208353df88e8c5784f90fd47a50d",
+      "sha256": "995c7861f12d75bb8c3488339e72b6bc428b22066ed6fc13c9e2f0afe07e9f18",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 13",
+      "source_heading": "Personalplan",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "art-013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5296d38f4deb1ea81f345efa3666fa21458088e12da561ccf2ff9cb25ab3aff",
+      "sha256": "af7761808aa998fa819ae1358db2919b6320df02b83cb30a1123cc50ef7128a7",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 14",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "art-014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a671074a0687b7b691767320699dc39c436dae598d492d440f3161a4d1b15661",
+      "sha256": "2b7f41944492f9d7614eda00be7dfbe4d76ecf4afe5410b668c14d342a37778f",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 15",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "art-015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e971e1d77247b7dd884976d2933dd907ad5f9cf773d53773e693c5bedf3dc43c",
+      "sha256": "0a053687ed7dfa0aa0a1c6c25e031c19ca456d9b09a1ac6155d30f106509c172",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 16",
+      "source_heading": "Inkrafttreten, Geltungsdauer und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "art-016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d2814a3c475c4588507e49a48521b9c20b024c547be2aafcc64e3959bff35ef",
+      "sha256": "fff7caf195096d4a241f2aa24140fdc5e5866798ac50d21d340f4f512c06e838",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 8/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/8"
+        },
+        {
+          "text": "BGBl. I Nr. 14/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/14"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage I",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "567953074aedff2f8cc45fd1d160ba7bbe0a5b96545efc4d796604f3a15a27ce",
+      "sha256": "9311e2c77afbc89b2fedbfa5a8a2749a63fa924a3eb4dcd25a593e59e16aca56",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        },
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen BFG 2025 Anlage I",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270165/I_22_2025_BFG_2025_Anlage_I.pdf",
+              "title": "PDF-Dokument: BFG 2025 Anlage I",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270165/I_22_2025_BFG_2025_Anlage_I.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c4234eaf88602acef94fdde380e6c600483fb9aeca3a3ca1b98a3e0ecdbd9d7",
+      "sha256": "d0be0274285bf431cdc34bda2a195c4d7b086f4b9cf31da5ef8424332cb5aeef",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        },
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen BFG 2025 Anlage II",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270166/I_22_2025_BFG_2025_Anlage_II.pdf",
+              "title": "PDF-Dokument: BFG 2025 Anlage II",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270166/I_22_2025_BFG_2025_Anlage_II.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage III",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c52cf146c7b99704a5b4bcf787d2384cbde06bb6f13b62eb29e560621dc7d787",
+      "sha256": "469be756f0d6883ca21537624e927a0eccccc920fab42a7a540c3ed3eb6d898c",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        },
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen BFG 2025 Anlage III",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270167/I_22_2025_BFG_2025_Anlage_III.pdf",
+              "title": "PDF-Dokument: BFG 2025 Anlage III",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270167/I_22_2025_BFG_2025_Anlage_III.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage IV",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1445a555db3c959857d175af415c35c17ea1c59f379eee2de845ab5c56c01262",
+      "sha256": "042fc382aa75e621e37907fb770a9b973b3e11450d76e74c1d6dbe06e34bcac0",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gilt für die Zeit vom 1.1.2025 bis 31.12.2025 (vgl. Art. XVI)."
+        },
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage IV Personalplan 2025",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270168/I_22_2025_Anlage_IV_Personalplan_2025.pdf",
+              "title": "PDF-Dokument: Anlage IV Personalplan 2025",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 86/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 22/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_22_0/1970_22_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 33/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_33_0/1979_33_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 66/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_66_1/1999_66_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 244/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_244_0/1965_244_0.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40270168/I_22_2025_Anlage_IV_Personalplan_2025.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

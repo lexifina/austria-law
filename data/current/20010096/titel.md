@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Ausnahmen von der Bekanntmachungspflicht bei der Bearbeitung von Kundenaufträgen und im Rahmen der Handelstransparenz (Handelstransparenzausnahmen-Verordnung 2018 – HTAusV 2018) StF: [BGBl. II Nr. 387/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/387>)
+
+Auf Grund des § 65 Abs. 2 und des § 90 Abs. 11 des Wertpapieraufsichtsgesetzes 2018 – WAG 2018, [BGBl. I Nr. 107/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107>), und des § 92 Abs. 4 des Börsegesetzes 2018 – BörseG 2018, [BGBl. I Nr. 107/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 149/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/149>), wird verordnet:

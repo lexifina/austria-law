@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Verfügbarkeit des Teilnehmerverzeichnisses StF: [BGBl. II Nr. 140/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/140>)

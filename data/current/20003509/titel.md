@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Verlängerung des Internationalen Tropenholz-Übereinkommens von 1994 und dessen Geltungsbereich StF: [BGBl. III Nr. 79/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2004/79>)

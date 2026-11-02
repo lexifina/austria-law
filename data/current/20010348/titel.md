@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 11. Mai 1948, betreffend die Verlängerung von Prioritätsfristen zugunsten der Staatsangehörigen der Republik Ungarn. StF: [BGBl. Nr. 115/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_115_0/1948_115_0.pdf>)
+
+Auf Grund des § 13, Abs. (4), des Patentschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 123, und des § 10, Abs. (4), des Markenschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 125, wird festgestellt, daß die Prioritätsfristen des § 13, Abs. (1), des Patent-Ü.G., und des § 10, Abs. (1), des Marken-Ü.G., zugunsten der Staatsangehörigen der Republik Ungarn verlängert sind.

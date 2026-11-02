@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001118",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 1999",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001203",
+    "valid_from": "2001-02-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001118&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:27:33.354694+00:00",
+    "response_sha256": "322677a32184bca62c6b031fe78a3724c0d853a95ed5211d6408ce3c7837bb28",
+    "snapshot_sha256": "2dfe791999e2be26589b111efb910f258b7918ffd2202f7b607659636434c327",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9b65c6b37d321c5afaf897db911eacba6712df7facc7af37fdf84e6ee3f0232",
+      "sha256": "9af0d2700e211a3658500ff9f2027faac5af7eba3e6eba226dbc194b709abe2e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 1999 StF: BGBl. I Nr. 9/2001 (NR: GP XXI AB 439 S. 55.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 9/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_9_1/2001_9_1.pdf"
+        },
+        {
+          "text": "AB 439",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/439"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/55"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "297a7cd4613b9ebbd00f09d57872871bc886e7ff8c087533a33919c1cdfa2f56",
+      "sha256": "a08c5d1a99517baaf7a9dd3c72319fd62571d7bf8c7aec10f0b596849a54e960",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

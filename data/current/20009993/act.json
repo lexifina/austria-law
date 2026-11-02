@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009993",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2016",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40197902",
+    "valid_from": "2017-10-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009993&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:45:27.265068+00:00",
+    "response_sha256": "4bd443878440335d93b3ed944370d83e4a66b2ec6a17c991fa381d4497cfee67",
+    "snapshot_sha256": "5befbe98f087ca55be83a8cdadf6af94626d899c72a5aad248867b4fb35e8295",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cdb9dce333261d3f8ce7598b75bd88916c40f5abed614ec68da6ab0482d7c932",
+      "sha256": "3d06749ab63df592706028144b8219a3a422694de837e723b112ff99290d153d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2016 StF: BGBl. I Nr. 139/2017 (NR: GP XXV AB 1768 S. 194.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 139/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/139"
+        },
+        {
+          "text": "AB 1768",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1768"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08acf05847862c2dddf370bd031f0c49ee4e6beb6abb3cdc54149c35235ee6bb",
+      "sha256": "66de750069f26880385d0e5692969b11a21dbbdcd9d0ee383ad84fa554cf1ed0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

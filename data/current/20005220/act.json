@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005220",
+  "short_title": "Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005690",
+    "valid_from": "2007-01-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005220&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:27:05.281424+00:00",
+    "response_sha256": "0e3686810378efc834731e121f30ee894fc664d4db752e9f9a24d7090e72a4e7",
+    "snapshot_sha256": "13ee216e4f5d3a42f01ec664d063dab1c733b5fedb711e3f23e4ba66ace9e46f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1869fdf3fb4f4b76456b407a17030620e651712edfd9375d54a5bec1276c88ed",
+      "sha256": "58cc954544ef45e5e41997809762f7ef8ba94c3e07b8c5db17c7169e5ab721e4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche sowie Namens- und Adressänderungen derselben StF: BGBl. II Nr. 16/2007"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 16/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/16"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f392eb16db36c7f6ab989909c474bda9c797b75c8f519c2a2d36a93d76dec9fa",
+      "sha256": "ae3b29722fb11b3691a497c422c40559fd13cc3143283812573f196a2cd9231f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

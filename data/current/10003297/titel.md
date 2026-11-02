@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Kennzeichnung von Schuherzeugnissen (Schuhkennzeichnungsverordnung) StF: [BGBl. Nr. 587/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_587_0/1995_587_0.pdf>) \[CELEX-Nr.: [394L0011](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0011:DE:HTML>)\]
+
+Auf Grund des § 32 des Bundesgesetzes gegen den unlauteren Wettbewerb 1984, BGBl. Nr. 448, zuletzt geändert durch die UWG-Novelle 1993, BGBl. Nr. 227, und die Kundmachung [BGBl. Nr. 422/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_422_0/1994_422_0.pdf>), wird verordnet:

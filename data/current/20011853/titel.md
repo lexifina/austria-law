@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Zugangsvoraussetzungen für das reglementierte Gewerbe der Lebens- und Sozialberatung (Lebens- und Sozialberatungs-Verordnung) StF: [BGBl. II Nr. 116/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/116>)
+
+Auf Grund des § 18 Abs. 1 und des § 352a Abs. 1 der Gewerbeordnung 1994, [BGBl. Nr. 194/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 65/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/65>), wird hinsichtlich der §§ 1 bis 3 und 5 im Einvernehmen mit dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz verordnet:

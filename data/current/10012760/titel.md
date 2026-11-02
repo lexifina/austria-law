@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wissenschaft und Verkehr betreffend Widerruf der Vereinbarung zwischen der zuständigen Behörde für das ADR des Vereinigten Königreichs, der Schweiz, Polens, Schwedens sowie Norwegens und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich gemäß Rn. 2010 und 10 602 des ADR über die Beförderung von 1,1,1,2-Tetrafluorethan (R 134a) in Druckgaspackungen und Kartuschen StF: [BGBl. III Nr. 64/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_64_3/1997_64_3.pdf>)
+
+Gemäß § 2 Abs. 5 Z 5 des Bundesgesetzes über das Bundesgesetzblatt 1996 (BGBlG), BGBl. Nr. 660, wird kundgemacht:

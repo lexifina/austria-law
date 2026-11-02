@@ -1,0 +1,2789 @@
+{
+  "sample_only": false,
+  "included_provisions": 8,
+  "source_provision_count": 8,
+  "schema_version": 1,
+  "gesetzesnummer": "20009976",
+  "short_title": "Großhandelsdatenverordnung",
+  "abbreviation": "GHD-V",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40197020",
+    "valid_from": "2017-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009976&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:45:10.190816+00:00",
+    "response_sha256": "264b334898aba32f209c57ade89c3a87cecb50c380f10e8a0aa6be8a5fdfaf78",
+    "snapshot_sha256": "16aac80f9e6d8b63e8d9792b9dc99075282787a8a9e243d645058b63c9c3912e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ce174c010dc42e763f98cff81023965893405b07fbc34ec246cdfd8e3f0200e",
+      "sha256": "71024ebdc6ab8ae48936c54ca1a10ee9b373680bab06961ae64dbce0ee1fdbe0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Vorstands der E-Control über die Melde-, Aufbewahrungs- und Übermittlungspflichten von Daten zu Energiegroßhandelsprodukten (Großhandelsdatenverordnung – GHD-V) StF: BGBl. II Nr. 245/2017"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 245/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/245"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108"
+        },
+        {
+          "text": "BGBl. I Nr. 19/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/19"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Gegenstand und Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f7499a5faddac88e1ee124f83f02a41ef26fce08875984ca2203d7380d9d140",
+      "sha256": "df9370b645d34c255d028d67ebc363bba4a4f0a43bf169470fed4db17d57ac8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2cb1181fd6070f8629f8bfd424994545cc3632d843eed00bf260979412de74c9",
+      "sha256": "6a2ea1f7b7feca3296b9a61af228c6f3b08944d3fa077f539c44e6bfd222650a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Meldepflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2767310c06f84155825d80798b0a6e8e893bbe0a31fd6941e6e8cf38350cafe",
+      "sha256": "b22e63b2675cc6b63618dba056c3c19c3d35b901fa9760f0122541838bb0e602",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Aufbewahrungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ff3a036c0b175fbd0d7ecad5fd280e99246acec2066120eef57975dff46b827",
+      "sha256": "ffb534f26b6461c4351ba8ffa53ca0b0df3fd89dc4be309dd7a08f91cd7b5902",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Übermittlungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e5cd774e0a1b18d5fd7c00bff62a5389222700d2e3c202c1e20c17eab6b4941",
+      "sha256": "d0e44218aea8bc02561cc935707b346a314130f084f5fc84c5de646b7381e2d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Inkrafttreten und Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e804f742a1365d2c0f6921089accf17c153107d6ceaf26b13024991f93c1903",
+      "sha256": "c69218cef06d9c0076bbee39b86d80d31ed0ffa8ae63f1b790304d8b9324fb83",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 337/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/337"
+        },
+        {
+          "text": "BGBl. II Nr. 13/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/13"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09c7ecf76a66b01f11e8b7286a7c2a65fa4ecdd1c1fa78ab79ee86d0f868e6bd",
+      "sha256": "753f3b2896127eb3f42435e02fd4a7031f21983630b2ab249b68945ed22b909b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [
+        {
+          "tag": "regelreservetyp",
+          "attributes": {},
+          "text": "_JJJJ_KWXX_(Zusatz)"
+        },
+        {
+          "tag": "regelreservetyp",
+          "attributes": {},
+          "text": "_JJJJ_MM_DD"
+        }
+      ],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Feld Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feldinhalt",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Belegkopf des Fahrplans",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentenkennung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige Kennung des Dokuments, für das die Zeitreihendaten übermittelt werden.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Version des Dokuments",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Version des übermittelten Dokuments. Ein Dokument kann mehrere Male übermittelt werden, wobei jede Übermittlung – beginnend mit 1 – schrittweise ansteigend als neue Version des Dokuments gekennzeichnet wird.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art des Dokuments",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Code der übermittelten Dokumentenart.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art des Prozesses",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Art des Prozesses auf welchen das Dokument verweist. Mögliche Werte sind: A01 – Day-Ahead Fahrplan A02 – Intraday Fahrplan etc. anhängig davon, ob die Übermittlung in einer einzigen Übermittlung durchgeführt wird (Day-Ahead, Intraday am Ende des Tages) oder mittels mehrerer Übermittlungen die den Tag abdecken.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der Fahrplan-Klassifizierung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Klassifizierung des Fahrplans nach Aggregation und Klassifizierungstyp.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identität des Absenders",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kennung der Partei, die das Dokument versandt hat und für dessen Inhalt verantwortlich ist (EIC-Code).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rolle des Absenders",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angabe der Rolle des Absenders (TSO, sonstige meldende Stelle).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identität des Empfängers",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kennung der Partei, die das Dokument erhält.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rolle des Empfängers",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angabe der Rolle des Empfängers.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datum und Uhrzeit der Erstellung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datum und Uhrzeit der Übertragung der Fahrplandaten (ISO 8601).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fahrplan-Zeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anfangs- und Enddatum und –uhrzeit des Zeitintervalls welches vom Dokument, das den Fahrplan beinhaltet, umfasst wird.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bereich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Von dem Fahrplan-Dokument abgedeckter Bereich.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Subjektpartei (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Partei die dem Fahrplan-Dokument unterliegt.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Subjektrolle (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angabe der Rolle des Subjekts.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abstimmung-Zeitraum (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anfangs- und Enddatum und –zeit des Zeitraums welcher im Fahrplan abgestimmt wird.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fahrplan-Zeitreihe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Absender Zeitreihen-Identifikation",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vom Absender zu vergebende Bezeichnung der Zeitreihe. Diese muss einmalig das gesamte Dokument sein und die Vermeidung einer Duplikation des Produkts, der Art des Geschäftes, der Aggregationsebene des angegebenen Objektes, des Liefergebiets, des Herkunftsgebiets, der Zählpunktbezeichnung, der importierenden Bilanzgruppe, der exportierenden Bilanzgruppe, der Art der Kapazitätsreservierung und der Identifikation der Kapazitätsreservierung garantieren.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Absender Zeitreihen-Version",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Zeitreihen-Version wird nur geändert, wenn sich eine Zeitreihe ändert. Die Zeitreihen-Version muss die gleiche sein, wie die Version des Dokuments in welcher diese hinzugefügt oder geändert wurde. Wenn ein Dokument zurückgesandt wird, müssen alle Zeitreihen, unabhängig davon, ob diese geändert wurden oder nicht, noch einmal übermittelt werden. Im Falle der Löschung einer Zeitreihe, wird diese für alle Zeiträume mit Nullen ausgefüllt und zurückgesandt.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art des Geschäfts",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauere Bezeichnung der Art des Geschäfts, für das ein Fahrplan abgegeben wird. z. B. Erzeugungsfahrplan, interner oder externer Handel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produkt",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identifizierung eines Energieproduktes wie Leistung, Energie, Blindleistung, Übertragungskapazität, etc. Mögliches Codes beinhalten z. B. (nicht abschließend): 8716867000016 – Wirkleistung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aggregationsebene des angegebenen Objekts",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identifikation der Aggregationsebene eines Fahrplans; z. B. Aggregation je Regelzone oder (virtueller) Zählpunkt (z. B. Übergabestelle).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Liefergebiet (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebiet (Zone) in welches das Produkt geliefert wird. Kein Übertragungsnetzbetreiber.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Herkunftsgebiet (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebiet (Zone) aus welchem das Produkt geliefert wird. Kein Übertragungsnetzbetreiber.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zählpunktbezeichnung (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Kennung des Ortes an dem ein oder mehrere Produkte gemessen werden.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Importierende Bilanzgruppe (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energie aufnehmende Bilanzgruppe.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Exportierende Bilanzgruppe (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energie abgebende Bilanzgruppe.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der Kapazitätsreservierung (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnet wie eine bestimmte Kapazitätsreservierung ausgehandelt wurde; z. B. tägliche Auktion, wöchentliche Auktion.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identifikation der Kapazitätsreservierung (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweis auf eine bestimmte Kapazitätsreservierung, die einem Fahrplan zugrunde liegt.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Maßeinheit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Maßeinheit die zum Ausdruck der Menge in der Zeitreihe verwendet wird.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kurvenart (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Codierte Darstellung der beschriebenen Kurvenart.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ursache (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ursachencode (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Code zur Angabe, dass die Begründung für eine Änderung im Ursachentext, wörtlich erfolgt.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ursachentext (falls anwendbar)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wörtliche Begründung einer Änderung.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitintervall",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anfangs- und Enddatum und -uhrzeit des Zeitintervalls des betreffenden Zeitraums (ISO 8601).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auflösung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auflösung, d. h. Anzahl der Zeiträume, in die sich das Zeitintervall gliedert (ISO 8601).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Intervall, Wiederholende Felder",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Position",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Relative Position eines Zeitraums innerhalb eines Zeitintervalls.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die geplante Menge des Produkts für die Position im Zeitintervall.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Feld Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feld",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung der Ausschreibung. Format: _JJJJ_KWXX_(Zusatz) Werte Regelreservetyp: PRL ...... Primärregelleistung SRL ...... Sekundärregelleistung TRL ...... Ausfallsreserve- und Tertiärregelleistung JJJJ ....... Jahr KW ...... Kalenderwoche XX ........ Nummer der Kalenderwoche Zusatz: z. B. für Second Call, Last Call",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitpunkt des Angebots",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angebotsnummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige, einmalige Nummer zur Identifikation des Angebots.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelreserveanbieter",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige Bezeichnung des Anbieters.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produkt Alias",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung des Regelreserveprodukts.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferzeitraum von",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beginn des Vorhaltezeitraums des Regelreserveprodukts. Format: dd.mm.yyyy",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferzeitraum bis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ende des Vorhaltezeitraums des Regelreserveprodukts. Format: dd.mm.yyyy",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stunden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitdauer, für die Regelreserveleistung vorgehalten wird (in Stunden).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistung angeboten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelreserveleistung, die angeboten wird.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistung akzeptiert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Teilmenge von 9, die einen Zuschlag erhalten hat.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistungspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Preis für die Vorhaltung von Regelreserve.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Euro/MW und Stunde der Vorhaltung oder Euro/MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energiepreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Preis für aktivierte positive oder negative Regelreserve.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angebotswert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wert der Leistungsvorhaltung akzeptierter Angebote.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rang",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rang des Angebots innerhalb der Merit Order List für die Erteilung des Zuschlags.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produkt ID",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige, einmalige Nummer zur Kennzeichnung des Produkts (Feld 5).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kennzeichnung Blockgebote",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Falls anwendbar.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Feld Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feld",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung der Ausschreibung. Format: _JJJJ_MM_DD Werte Regelreservetyp: SRL_DA ...... Sekundärregelleistung TRL_DA ...... Ausfallsreserve- und Tertiärregelleistung JJJJ ....... Jahr MM ...... Monat XX ........ Tag",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitpunkt des Angebots",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angebotsnummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige, einmalige Nummer zur Identifikation des Angebots.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelreserveanbieter",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige Bezeichnung des Anbieters.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produkt Alias",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung des Regelreserveprodukts.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferzeitraum von",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beginn des Vorhaltezeitraums des Regelreserveprodukts. Format: dd.mm.yyyy",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferzeitraum bis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ende des Vorhaltezeitraums des Regelreserveprodukts. Format: dd.mm.yyyy",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stunden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitdauer, für die Regelreserveleistung vorgehalten wird (in Stunden).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistung angeboten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelreserveleistung, die angeboten wird.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistung akzeptiert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Teilmenge von 9, die einen Zuschlag erhalten hat (Feld kann leer sein bei Tertiärregelenergiegeboten, die nicht von Market Makern kommen).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistungspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Preis für die Vorhaltung von Regelreserve (Feld kann leer sein bei Tertiärregelenergiegeboten, die nicht von Market Makern kommen).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Euro/MW und Stunde der Vorhaltung.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energiepreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Preis für aktivierte positive oder negative Regelreserve.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angebotswert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wert der Leistungsvorhaltung akzeptierter Angebote.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angebotsnummer Leistungsangebot",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nur bei Anpassungen der Energiepreise. Verweis auf die Angebotsnummer des ursprünglichen Gebots. (Feld kann leer sein bei Tertiärregelenergiegeboten, die nicht von Marktet Makern kommen).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aktivierte Energie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen tatsächlich aktivierter Regelreserve, das einem bestimmten Angebot zugeordnet ist.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rang",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rang des Angebots innerhalb der Merit Order List für Energieabrufe.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produkt ID",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutige, einmalige Nummer zur Kennzeichnung des Produkts (Feld 5).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Feld Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feld",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitstempel",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beginn der Viertelstunde. Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "SRL+ Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen aktivierter Sekundärregelenergie (ohne Ausfallsreserve 24).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "SRL- Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen aktivierter negativer Sekundärregelenergie.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "INC+ Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Austausch von Sekundärregelenergie mit benachbarten Regelzonen im Rahmen der Imbalance Netting Cooperation. Richtung: Import",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "INC- Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Austausch von Sekundärregelenergie mit benachbarten Regelzonen im Rahmen der Imbalance Netting Cooperation. Richtung: Export",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Settlementpreis INC",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verrechnungspreis für 6 und 8.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "SRL+ Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mengengewichteter Durchschnittspreis aller Abrufe von 2 in einer Viertelstunde.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "SRL- Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mengengewichteter Durchschnittspreis aller Abrufe von 4 in einer Viertelstunde.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "TRL+ Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen aktivierter positiver Tertiäregelenergie (beinhalte auch Mengen, die als Ausfallsreserve 26 zu verrechnen sind).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "TRL- Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen aktivierter negativer Tertiärregelenergie.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "TRL+ Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mengengewichteter Durchschnittspreis aller Abrufe von 16 in einer Viertelstunde.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "TRL- Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mengengewichteter Durchschnittspreis aller Abrufe von 18 in einer Viertelstunde.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 22",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ARE Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen aktivierter Ausfallsreserve, die von 20 abzuziehen und 2 zuzuschlagen ist.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ARE Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mengengewichteter Durchschnittspreis aller Abrufe von 24 in einer Viertelstunde.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 26",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "UA Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Volumen Rücklieferung für ungewollten Austausch.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 28",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "UA Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Preis Rücklieferung für ungewollten Austausch (EXAA Börsenpreis).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 30",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "IGCC+ Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Austausch von Sekundärregelenergie mit benachbarten Regelzonen im Rahmen der International Grid Control Cooperation. Richtung: Import",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 32",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "IGCC- Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Austausch von Sekundärregelenergie mit benachbarten Regelzonen im Rahmen der International Grid Control Cooperation. Richtung: Export",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 34",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Settlementpreis IGCC",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verrechnungspreis für 32 und 34.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 36",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise Euro/MWh.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Feld Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feld",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausschreibung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Siehe oben Tabellen A und B, Feld 1.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelreservetyp",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Werte Regelreservetyp: PCR ...... Primärregelleistung SCR ...... Sekundärregelleistung TCR ...... Ausfallsreserve- und Tertiärregelleistung SCE…….Sekundärregelenergie TCE……Ausfallsreserve- und Tertiärregelenergie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Subtyp",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Werte: First Call Second Call Last Call Emergency Call Intraday Emergency Call",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geplante Öffnung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geplante Schließung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferung von",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beginn des Vorhaltezeitraums des Regelreserveprodukts. Format: dd.mm.yyyy",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferung bis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ende des Vorhaltezeitraums des Regelreserveprodukts. Format: dd.mm.yyyy",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungsdatum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausschreibungseröffnung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausschreibungsschließung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format: dd.mm.yyyy hh:mm",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produkt Alias",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung des Regelreserveprodukts.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stunden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitdauer, für die Regelreserveleistung vorgehalten wird (in Stunden).",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausgeschriebene Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelreserveleistung, die in der Ausschreibung beschafft werden soll.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Angebotene Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe der angebotenen Regelreserveleistungen.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Akzeptierte Menge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe der angebotenen Regelreserveleistungen, die einen Zuschlag erhalten haben.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Typischerweise MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durchschnittspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mengengewichteter Durchschnittspreis für ein Regelreserveprodukt.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit von 19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Euro/MW und Stunde der Vorhaltung oder Euro/MW.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Teilnehmer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl der Anbieter, die an der Ausschreibung teilnehmen.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Teilnehmer mit Zuschlag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl der Anbieter mit bezuschlagten Angeboten.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

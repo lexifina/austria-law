@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem und die Abkürzung des Umweltprogrammes der Vereinten Nationen (UNEP) in englischer, arabischer, chinesischer, französischer, russischer und spanischer Sprache StF: [BGBl. Nr. 942/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_942_0/1993_942_0.pdf>)

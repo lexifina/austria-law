@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem des gemeinsamen Rohstoffonds StF: [BGBl. Nr. 312/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_312_0/1993_312_0.pdf>)

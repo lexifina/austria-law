@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 28. Juli 1961, betreffend den Geltungsbereich des Übereinkommens von 1936 zur Unterdrückung des unerlaubten Handels mit Suchtgiften in der Fassung des in Lake Success am 11. Dezember 1946 unterzeichneten Protokolls. StF: [BGBl. Nr. 208/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_208_0/1961_208_0.pdf>)

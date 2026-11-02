@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003737",
+  "short_title": "Schiffahrt - Hilfeleistung und Bergung in Seenot sowie Regeln über den Zusammenstoß von Schiffen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004055",
+    "valid_from": "1935-09-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003737&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:04:14.294555+00:00",
+    "response_sha256": "9b55a4706d375918cdad9db28851772d5cb407fc905425658d2422817ea93107",
+    "snapshot_sha256": "d68b9294f2c13d6f9501809752381ff3f19f2dc8f666d06d6f78ec0a1a34a898",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6e16d4a5fe16b4c90ef72f13fcbd747b5a495b72c55675808bc42797bbb5d4d",
+      "sha256": "ae768f308a7fad4f0a2a76f768c2ea06c3bfe2c805c2739e81b87c030b70eed2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes, betreffend den Geltungsbereich der internationalen Übereinkommen zur einheitlichen Feststellung bestimmter Regeln über den Zusammenstoß von Schiffen sowie zur einheitlichen Feststellung bestimmter Regeln über Hilfeleistung und Bergung in Seenot StF: BGBl. Nr. 363/1935"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 363/1935",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=363/1935&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f06355ff61854b6afc294e8f37b3734ea196eab5dfb449ac382b5e4db382d69f",
+      "sha256": "75dfcd90e7844c87fc8e2d294dfa356ac3e64add128c18f8978aff0a600f98cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Bundesgesetz, mit dem die Tätigkeit der Klubs der wahlwerbenden Parteien im Nationalrat und im Bundesrat erleichtert wird (Klubfinanzierungsgesetz 1985 – KlubFG) StF: [BGBl. Nr. 156/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_156_0/1985_156_0.pdf>) (WV)

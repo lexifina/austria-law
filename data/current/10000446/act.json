@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000446",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000448",
+    "valid_from": "1968-03-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000446&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:03.216141+00:00",
+    "response_sha256": "d643c0bac6d6bd9f4bd7eb0423b17f4def53a92e74985e95d21ae021667bccb9",
+    "snapshot_sha256": "b6cad2d5f4fe3bc3063ba201f1f502bd71d61853cce8d428d7b98a24b815eb06",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c64e648e7880db6aa3ba6aa681bd02d1b0838cfd1e14b97b07ab806ce3b49e63",
+      "sha256": "16d90f4b70b93bcdc07ec5c0b0bc3c65a973d13d2da25c7c725249b8bc09eff2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 27. Feber 1968 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeiten auf dem Gebiete des gerichtlichen Strafrechtsschutzes gegen Tierquälerei StF: BGBl. Nr. 93/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 93/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_93_0/1968_93_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd6328e16b2dce805a6f1f4956488ab5feca01cf244bb2f08a3bee508cb2c0f2",
+      "sha256": "244a20f840895f9cd1df20a1666857645881f7474a5e0467cb94d8e4c5168fa1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

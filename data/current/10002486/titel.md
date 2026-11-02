@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. Juni 1980 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen und das Emblem der Europäischen Atomgemeinschaft StF: [BGBl. Nr. 347/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_347_0/1980_347_0.pdf>)

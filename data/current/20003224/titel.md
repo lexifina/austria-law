@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort betreffend Eichstellen – EichstellenV StF: [BGBl. II Nr. 93/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/93>)
+
+Auf Grund der §§ 35 Abs. 4, 36 Abs. 3 und 57 Abs. 1 des Maß- und Eichgesetzes (MEG), [BGBl. Nr. 152/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 146/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_146_1/2002_146_1.pdf>), wird – hinsichtlich des § 15 im Einvernehmen mit dem Bundesminister für Finanzen – verordnet:

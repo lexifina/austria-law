@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über die Widmung eines Anteils des Reinvermögens der Betriebskrankenkassen Mondi, voestalpine Bahnsysteme, Zeltweg und Kapfenberg (BKK-RV-VO) StF: [BGBl. II Nr. 361/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/361>)
+
+Aufgrund der §§ 718 Abs. 9 und 732 Abs. 6 des Allgemeinen Sozialversicherungsgesetzes – ASVG, [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 105/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/105>), wird verordnet:

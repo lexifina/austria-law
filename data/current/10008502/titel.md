@@ -1,0 +1,3 @@
+Bundesgesetz über Schutzmaßnahmen für Nachtschwerarbeiter durch Änderung des Urlaubsgesetzes, des Arbeitszeitgesetzes und des Arbeitsverfassungsgesetzes sowie durch Maßnahmen zur Sicherung der gesetzlichen Abfertigung, der Gesundheitsvorsorge und Einführung eines Sonderruhegeldes (Nachtschwerarbeitsgesetz – NSchG) StF: [BGBl. Nr. 354/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_354_0/1981_354_0.pdf>) (NR: GP XV [RV 720](<https://www.parlament.gv.at/gegenstand/XV/I/720>) [AB 784](<https://www.parlament.gv.at/gegenstand/XV/I/784>) [S. 82.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/82>) BR: [S. 413.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/413>))
+
+Der Nationalrat hat beschlossen:

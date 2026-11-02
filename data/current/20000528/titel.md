@@ -1,0 +1,3 @@
+Übereinkommen zwischen der Österreichischen Bundesregierung und der Belgischen Regierung über die Abänderung des Luftverkehrsabkommens zwischen Österreich und Belgien vom 7. Jänner 1955, BGBl. Nr. 41, in der Fassung des Übereinkommens vom 29. Dezember 1955, [BGBl. Nr. 93/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_93_0/1956_93_0.pdf>). StF: [BGBl. Nr. 56/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_56_0/1964_56_0.pdf>)
+
+Dieses Übereinkommen wurde durch Notenwechsel zwischen der Österreichischen Botschaft in Brüssel und dem Belgischen Ministerium für Auswärtige Angelegenheiten und Außenhandel vom 23. Dezember 1963 abgeschlossen.

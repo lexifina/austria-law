@@ -1,0 +1,1 @@
+Geschäftsordnung der Volksanwaltschaft, ihrer Kommissionen, des Menschenrechtsbeirates und der Rentenkommission (GeO der VA 2026) StF: [BGBl. II Nr. 184/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/184>)

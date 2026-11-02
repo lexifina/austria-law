@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der A 1 West Autobahn, der A 8 Innkreis Autobahn und der A 9 Pyhrn Autobahn – Bauvorhaben „Knoten Voralpenkreuz (Umbau)“ im Bereich der Marktgemeinde Sattledt StF: [BGBl. II Nr. 11/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_11_2/2002_11_2.pdf>)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird verordnet:

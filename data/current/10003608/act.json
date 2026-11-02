@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003608",
+  "short_title": "Errichtung einer dritten Notarstelle in Leoben",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003637",
+    "valid_from": "1998-09-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003608&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:17:26.537993+00:00",
+    "response_sha256": "0838a740a6d63f2e69ff0490920521555e42f17ebb64ca9a6c4c47f87c915363",
+    "snapshot_sha256": "dbd98dc221a1a2787471d3da49641e7bd99994dfecb09b1a58f3532b8c1b58d2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "24bc05016aa008f7f16c2affa7d6ad7c59580f46a72149b645a5b53e035d1d9a",
+      "sha256": "384202520686ee4df2aff3ad154248adb4b8cea9088d3e53f47285513a09100a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Leoben StF: BGBl. II Nr. 331/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 331/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_331_2/1998_331_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49ef5c9cf970aaf070d9413e5f86ef99853c99bc28543e1a4ca16e8f3349e7f7",
+      "sha256": "1b3d6ece7833ee343622215c804cfd98de99270dd00a98f25c71ba5ad00d8b66",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

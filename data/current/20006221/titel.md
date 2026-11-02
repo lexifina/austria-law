@@ -1,0 +1,1 @@
+Bundesgesetz betreffend die Veräußerung von unbeweglichem Bundesvermögen StF: [BGBl. I Nr. 9/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/9>) (NR: GP XXIV [RV 33](<https://www.parlament.gv.at/gegenstand/XXIV/I/33>) [AB 63](<https://www.parlament.gv.at/gegenstand/XXIV/I/63>) [S. 14.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/14>))

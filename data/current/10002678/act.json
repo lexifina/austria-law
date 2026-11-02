@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002678",
+  "short_title": "Hoheitszeichen - Irland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002701",
+    "valid_from": "1985-09-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002678&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:08:02.003071+00:00",
+    "response_sha256": "80f1f3b0298ca111b633190e6c00fd93debe2e833712ef615329f6a17e80473b",
+    "snapshot_sha256": "78c6593a8d44e2bc56ffce9bebd2d6640d5e0cb497bbe763d025966a4eb81ed9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6052b422ce5b3c7a0900543a67b03a35c970f6fd0a1ce759978a28b51aedc256",
+      "sha256": "752f7d26ba38dffd6abe0795bd8a6a9f624ea999a9c92890def556925cc1b599",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 12. Juli 1985 betreffend Hoheitszeichen Irlands StF: BGBl. Nr. 371/1985"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 371/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_371_0/1985_371_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27cc17bb58f21a122319a3c2781f4bd277c5f6034a4a7d5f27da3f6300cb8ea6",
+      "sha256": "cc551b22a14346398cd5a711a8c89b42f424e6eaecac68be57eda72c651d308f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

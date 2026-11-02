@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010016",
+  "short_title": "Beschäftigungsquoten älterer Personen zum 30. Juni 2017",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40198576",
+    "valid_from": "2017-10-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010016&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:46:11.873854+00:00",
+    "response_sha256": "231eb3a7795265179ea39d8f5acba4fc1cbb08f852692831aede2894a684ce95",
+    "snapshot_sha256": "6e1ba93ac63d151c013d9016bb0c846a9d131852247ca87c027f574e2af4342c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbb9092aed310af0e1e8f079f1db3115560989a8ab56b75ca1eb02b0d9b30cf6",
+      "sha256": "ac8de19a11f9bbf1c7f7b6352d58b9a20cb83b0ccfe54faead3ae78e8225efcf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Beschäftigungsquoten älterer Personen zum 30. Juni 2017 StF: BGBl. II Nr. 278/2017"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 278/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/278"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "987bf0b4d90b6ba5e1724352f40959f44038c21f9fe6c7c24695b2aa7ebaba85",
+      "sha256": "c773d90ef9a17d65b0bad2ebb6c2e3a0584146eaa79447d75e4ecc3cb0d31129",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 315/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_315_0/1994_315_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/75"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

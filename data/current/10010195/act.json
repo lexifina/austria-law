@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10010195",
+  "short_title": "Internationales landwirtschaftliches Institut in Rom",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010414",
+    "valid_from": "1925-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010195&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:39:17.526174+00:00",
+    "response_sha256": "e9c51586746febb49d1e508bb04c771a855d2470a91093af13fabd4a110d3a0a",
+    "snapshot_sha256": "40371977f06830d793793cf7ed78003d627d380acb9b22e8b23f30a352aa4e77",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46e364735226bda17c23490cecabef2ea3b9d4bac454d330898708f0386e688c",
+      "sha256": "5ee67addaa087ee8d5b7949130301381d32544e2ed58e0a09e5ac0771d82bc43",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 16. Jänner 1925, betreffend die Geltung gewisser internationaler Kollektivverträge im Verhältnis zum Deutschen Reiche. StF: BGBl. Nr. 34/1925"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 34/1925",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=34/1925&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b5612ac47265347e8179fc03080b4f9e5a3e42a5c189b2cf9f16fd4d68ffda8",
+      "sha256": "a49da00654a177c25f2f511fd501ffb4236c6e7bdecdc8e1949bce75c8fd7cd8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

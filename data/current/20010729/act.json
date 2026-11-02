@@ -1,0 +1,1597 @@
+{
+  "sample_only": false,
+  "included_provisions": 38,
+  "source_provision_count": 38,
+  "schema_version": 1,
+  "gesetzesnummer": "20010729",
+  "short_title": "Kapitalmarktgesetz 2019",
+  "abbreviation": "KMG 2019",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40276835",
+    "valid_from": "2026-04-24",
+    "valid_to": "2026-12-31",
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010729&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:02:09.550506+00:00",
+    "response_sha256": "9a058a66aac88c09a9f20ae4d427b0a657c5c0ae2f9aa1fc93d3adbde1fd03d4",
+    "snapshot_sha256": "3277fd1172949fcd7ea46903e7dec4042adcfce52aafa8f23edfc6bd22e3f3a7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7286bc35ab12fd66deb48ec378d76869ae4df47bdb0eb1c5dec7ae27de03e81c",
+      "sha256": "638ce1f7e18a7fa467adfebf63a0a38d0cb7bc40d229defad3b349da337b4fb5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über das öffentliche Anbieten von Wertpapieren und anderen Kapitalveranlagungen (Kapitalmarktgesetz 2019 – KMG 2019) StF: BGBl. I Nr. 62/2019 (NR: GP XXVI AB 644 S. 86. BR: 10197 AB 10224 S. 896.) [CELEX-Nr.: 32016L0800, 32016L1919, 32017L1371, 32017L1852, 32018L0843]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 225/2021 (NR: GP XXVII RV 1165 AB 1181 S. 137. BR: AB 10829 S. 935.) BGBl. I Nr. 69/2022 (NR: GP XXVII RV 1441 AB 1459 S. 156. BR: AB 10968 S. 941.) [CELEX-Nr.: 32021L0338] BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.) BGBl. I Nr. 5/2026 (NR: GP XXVIII RV 366 AB 380 S. 63. BR: 11763 AB 11768 S. 986.) [CELEX-Nr.:32023L2864, 32024R0886, 32015L2366, 31998L0026] BGBl. I Nr. 27/2026 (NR: GP XXVIII RV 404 AB 430 S. 73. BR: AB 11796 S. 989.) [CELEX-Nr.: 32024L2811]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 62/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/62"
+        },
+        {
+          "text": "AB 644",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/644"
+        },
+        {
+          "text": "S. 86.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/86"
+        },
+        {
+          "text": "10197",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10197"
+        },
+        {
+          "text": "AB 10224",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10224"
+        },
+        {
+          "text": "S. 896.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/896"
+        },
+        {
+          "text": "32016L0800",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0800:DE:HTML"
+        },
+        {
+          "text": "32016L1919",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L1919:DE:HTML"
+        },
+        {
+          "text": "32017L1371",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L1371:DE:HTML"
+        },
+        {
+          "text": "32017L1852",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L1852:DE:HTML"
+        },
+        {
+          "text": "32018L0843",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L0843:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 225/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/225"
+        },
+        {
+          "text": "RV 1165",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1165"
+        },
+        {
+          "text": "AB 1181",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1181"
+        },
+        {
+          "text": "S. 137.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/137"
+        },
+        {
+          "text": "AB 10829",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10829"
+        },
+        {
+          "text": "S. 935.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/935"
+        },
+        {
+          "text": "BGBl. I Nr. 69/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/69"
+        },
+        {
+          "text": "RV 1441",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1441"
+        },
+        {
+          "text": "AB 1459",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1459"
+        },
+        {
+          "text": "S. 156.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/156"
+        },
+        {
+          "text": "AB 10968",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10968"
+        },
+        {
+          "text": "S. 941.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/941"
+        },
+        {
+          "text": "32021L0338",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32021L0338:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "RV 366",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/366"
+        },
+        {
+          "text": "AB 380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/380"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11763",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11763"
+        },
+        {
+          "text": "AB 11768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11768"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32023L2864",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2864:DE:HTML"
+        },
+        {
+          "text": "32024R0886",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024R0886:DE:HTML"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "31998L0026",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0026:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/27"
+        },
+        {
+          "text": "RV 404",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/404"
+        },
+        {
+          "text": "AB 430",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/430"
+        },
+        {
+          "text": "S. 73.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/73"
+        },
+        {
+          "text": "AB 11796",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11796"
+        },
+        {
+          "text": "S. 989.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/989"
+        },
+        {
+          "text": "32024L2811",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024L2811:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis 1. Hauptstück Öffentliches Angebot von Veranlagungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prospektpflichtiges Angebot",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahmen von der Prospektpflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Werbung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt des Prospekts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachtrag zum Prospekt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfung des Prospekts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung des Prospekts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonderbestimmungen für Veranlagungen in Immobilien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beauskunftungen und Veröffentlichung von Entscheidungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Öffentliches Angebot von Wertpapieren Anwendung der Verordnung (EU) 2017/1129",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zweck dieses Hauptstücks",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständige Behörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmung der Aufsichts- und Sanktionsbefugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtsmittel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung von Verstößen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung von Entscheidungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung von Sanktionen an die ESMA",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Gemeinsame Bestimmungen für Veranlagungen und Wertpapiere",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbrauchergeschäfte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prospekthaftung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldestelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Emissionskalender",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verschwiegenheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: § 26a. Verhältnis zur Verordnung (EU) 2020/1503)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Übergangs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise und Verordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollzugsklausel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: Anlage A",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schema A SCHEMA FÜR VERANLAGUNGEN",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage B",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schema B SCHEMA FÜR DEN ZUSATZPROSPEKT FÜR VERANLAGUNGEN IN IMMOBILIEN (§ 9)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage C",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schema C GLIEDERUNG FÜR DEN RECHENSCHAFTSBERICHT VON IMMOBILIENVERANLAGUNGSGEMEINSCHAFTEN",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage D",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schema D SCHEMA FÜR DEN VEREINFACHTEN PROSPEKT FÜR VERANLAGUNGEN UND WERTPAPIERE",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage E",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Versicherungsbestätigung gemäß § 7 Abs. 1 des Kapitalmarktgesetzes 2019 – KMG 2019)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Öffentliches Angebot von Veranlagungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "58b113f2d99b50681c4d62c3a8487e1d6649b6e483ea59c8f594eba407ea0318",
+      "sha256": "3de77beeeaf6c7a12c80e1243569f17fdc8b7ce659f813b384a99c12410398ff",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Prospektpflichtiges Angebot",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3d7f0fc5b510d1c645f26a9bda78613054409422a396f35a2d18a8451eab7180",
+      "sha256": "f15a3385d3a8f614dbab91ad4f7f33c4b33f7d1b2be149bb97c6d2c9993e5d87",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Ausnahmen von der Prospektpflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f295cb732fc5cc9004833bf679118ad5573aed4c8cb21054a10455666008b8db",
+      "sha256": "39252fa57ca67b662230d9e955876733409935849480522af3038468a4e2a34a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 77/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/77"
+        },
+        {
+          "text": "BGBl. I Nr. 80/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_80_1/2003_80_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Werbung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1516e749bbb152c8de2272c2fae5d210655c4908655f92ccdf5789fbfbbbb0cc",
+      "sha256": "3a42d245d9a40c5c4fe5cc8e826774bf4c9dc512e8d32e114c7a8e34ce63fb03",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Inhalt des Prospekts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8bb9458f45dc976104b611c12b8d6cf1b6d90112805bb8be4d137bfaaddc8ba7",
+      "sha256": "4df698f5b75017b4dbe361f69d801a1dbb4a906cbc97b278cd20dffaf25e6657",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 114/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/114"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Nachtrag zum Prospekt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "903c9a56fabc4974d87a56c4f46ce16e1d59e6e54b4f3c721b3e261e370f0caa",
+      "sha256": "429ad757a848c9e14ba74861470bccf9d941a4ad6146b90b56910ae41c1c49f3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 140/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_140_0/1979_140_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Prüfung des Prospekts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "983d52d2635d5548d1a1b00a60f67f8c760eddcfbfc50c3473d90c5607f9fb85",
+      "sha256": "42a91b7badcac584579cb8cb864bd85f2ea1b7b12392f6602fedd1d1871171cb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        },
+        {
+          "text": "dRGBl. S 219/1897",
+          "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Veröffentlichung des Prospekts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b658d97a394ead270e4d7da67aa94961af5bb3255dcdadf6aeb7e0737ac345ce",
+      "sha256": "8356289edd8967bf969f3b764d3f1647327f1415cb33bc75f9d449fb89dbdb11",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Sonderbestimmungen für Veranlagungen in Immobilien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f54a2015e35acaeb772c55f0616b70bf258e3636e1568ff265a723f29eaaa16",
+      "sha256": "7ac38f852d3bd76b99ca0d03c7d572d52067f26dbea8a6c1ad2e44a0accf948e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c066728eb8ab20a185aa29a50068b2a50ac56c87b0c07d471295da5fda267b5e",
+      "sha256": "ed49c30f63f0c633e39fd9895dcdfc66b8f3b766bbcf083f3da810ef69ede898",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Beauskunftungen und Veröffentlichung von Entscheidungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dae3c5f40be8fc4fec8c3d38b9b6af504f434730969e5a0bffe54e7e4be96248",
+      "sha256": "f56032f3767e01b541218929c16b0875124f88e36e07d55bac0d2d4e9411f205",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "2. Hauptstück Öffentliches Angebot von Wertpapieren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06a61ec83451ff45ff48a11623a49ef5b4c84c960f414797482c8d76afaf3ee7",
+      "sha256": "40483859584b787e9ae1b17affbcf6faa5c361613e863acdeba811c712211c69",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Zuständige Behörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed5771f4585fbcd27ae50c7e7637135939978bfc64266184a8a5434428895ad7",
+      "sha256": "c97d1c4c2a9622c2239487fc63842c4a13d9ab77a206bd0c32670e705fd30b0f",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 30 Abs. 5"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Befugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6fe010dd75d90c3c5992fefbf90688e6942880f132797e79226333ded721a069",
+      "sha256": "caab75876c3fbad79c5155534ab4a175cd59d368fad3ae9a74d40ba992931fac",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e3bdb00ee1f0babf82d8141f859ae4bf340608082847f20b1a4c1409fb91231",
+      "sha256": "bd6e518798ba1bfd50654192d64561974c4dae8a8ec0ee7938508d76d155bb6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Wahrnehmung der Aufsichts- und Sanktionsbefugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed46ecf09067379963d12e460105bbd14fd47f97faf59268bced300208c460b1",
+      "sha256": "0ac2b68683956dc8400ac48d75248352216cf130f0f63536fe9ce05a174eff45",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Rechtsmittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e847d9b9dc86a8a9fdf62676a15680c41bec8a3cdc9466cc1373c059efc22eb1",
+      "sha256": "e4d3defa1170bb796bf39658a2bd39c2eaa625049cd3f45ce3ec481726e0e551",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Meldung von Verstößen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f689d19df73f51bb4588ad19020390d4a3955316a6e1b7bb10acdb99e242beb8",
+      "sha256": "e56ca9242132c76a0e55ee729c50648d297376977cf76dc74273110ef5147258",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Veröffentlichung von Entscheidungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f67921cc7180aed5db74ec18a5124d4cff532c2cec7a1a50b8061de6d975359f",
+      "sha256": "30044df90dc7fa90648323986cc637acc879954a05977525fbd96e8269d2be09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Meldung von Sanktionen an die ESMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7cd6b0b27b54eaf3cc367289366beaaab2eec3a47478db7f003cfc2b48b5a45f",
+      "sha256": "aa030fb00038282e4a16e934a365af9bd332ab1e680f26c3c4a6afca706a6b88",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "3. Hauptstück Gemeinsame Bestimmungen für Veranlagungen und Wertpapiere",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb135265df4cf7353c15ec1d4328f1ec3a67950ace541d6fb598e36e2224cff3",
+      "sha256": "9070f4d47d65245823a46b6f28b05969752b44c292d680992845809a952150ca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Prospekthaftung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10903ed6e4717a6f202a5d5462e92965a1fe19e1a2d6585364e7ce02e9d461ed",
+      "sha256": "138534d644c2e4a26ead990ab4056cad22a5fa83fe86fce837c9bb49f0f468e4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 97/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_97_1/2001_97_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Meldestelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "385e17a173950bbae37fbdfd3234ef2fdb18f05ba7e23b12fd91ebc64b402aff",
+      "sha256": "36ae881a1216bcc19b968c8535f37e1d513b42168081d780363ac5716027690c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Emissionskalender",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8051eafcb455e60e088e456f1628e61c78bc2da16fe9e03120ad68b0b837e235",
+      "sha256": "cd249d6b263c83d5f781913f8458be8d722e5182eb36c1467ebb93b91b77eeb5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 46/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/46"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Verschwiegenheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0ba43c88784f8765044cae246f652f9fb099a42da0c2d7b998ae729ce8918839",
+      "sha256": "e6995643d01865d84f9fc576113c97c32853f9269c46adb8a08439d5b75d4cb7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "§ 26.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "080026236940cd4bfcf54c09aa9ab0879c3ef175066db58c63eab0a1a5e66b64",
+      "sha256": "9156a56fb0ab6635e9eb7bc80452d5f4b1fba7a63db83533d18ba59a0f9dd893",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26a",
+      "source_heading": "Verhältnis zur Verordnung (EU) 2020/1503",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0026a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fb85994f0502c18397701db87dda3d35c7cd25c48d67b1154b8b20481abc29b",
+      "sha256": "14bba6546898fcb156dff82f1707f153f337e4b4058b45982e59319d326ddcc3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "4. Hauptstück",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57d2547fa141181e144fd7f17b194d52ead6f2abb82142b7b902ce967e0c3b92",
+      "sha256": "6be19846b44814edbc17ca52eb6801be08af9558af67575c9f4fe0c2e13800f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "§ 28.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "59f758ec7d0f7d06f6489a549d0b37497e6abe00995ffb0be89d3400fae1e49f",
+      "sha256": "dd029a12641500f42532877ff383735b089e367e7f5af1e842856cc597e03b00",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 53/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_53_0/1991_53_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Verweise und Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eed05d2c5ec1a8c5a1630c2ead030c052dae1b783ec6a8d59b1d24b1d680bbf1",
+      "sha256": "72f85c82c0eba21f2d9ffee4e74b085af7e41aed6502aa7d570c2fbb92595375",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "929fd9e72c0b4b0fae3fcaffdc6d7db9111c27a4e1d0a10745872ff672a1c451",
+      "sha256": "fadaafe918d81be45bfee60a2a5a510cf9f551852054a3ed690ef0eb0f5dbfbd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 625/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_625_0/1991_625_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/62"
+        },
+        {
+          "text": "BGBl. I Nr. 225/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/225"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/27"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/27"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Vollzugsklausel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c6a0ce4b846b52b966ecd5fb1f42d0837f8edd816e932cca642185ede762b27",
+      "sha256": "330974e5d34cd35d6e31fbca7d5fea33c2c8316f65e8f499b24b928a9cbade39",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage A",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "203bc7f73a844b63738d5e8597ef6d211fc05c02fcebfdcfec439b0a8670777d",
+      "sha256": "327bf492a67073ca546e9b0c5d4a85196177737597ff57c0094063ed750c19e5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage B",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de96d55bcf2842df14110510feb364fd047aecf1246351c4f4b77ef56f86736c",
+      "sha256": "7b0e590b6e48715dea33313a77f22594e4b29499158fb6030ed5ed6329e8cb59",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage C",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db94c4706a0a6df035b2c1e4c0addb911124c213ca997984054a2e4f7910a3c2",
+      "sha256": "de999d4f823c0602642af0f6b09494f0c951bbe84ab1ad4d6c5f3a1a1146ad24",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage D",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed486853053784f80cf6f7227b2f0424e259a526dde95e580656e66bacfe6b05",
+      "sha256": "c073a0e90663ffe86c0c883ab090949d9b291dca6d2765c41a9392766fc74397",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 5",
+      "source_heading": "Anlage E",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "anl-5.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "063237575a51e684e1e70e906e84cc3c5d29ff0b4adb87fa5aa571b186632c8d",
+      "sha256": "8e7257b0ad5984384ea587d9ff76bc22967668bb9b113efa1bdba85d8a6f7390",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

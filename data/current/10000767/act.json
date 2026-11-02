@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000767",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000769",
+    "valid_from": "1983-01-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000767&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:35:43.168455+00:00",
+    "response_sha256": "0d7e1c485990cba9fc30ff0e243217b48d8da007e103e8a0cc43fc7912d599cc",
+    "snapshot_sha256": "bf55ca4d2a647259f022b9a8267606ba513a78df8b7a9388a367badb02fad47f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d2c25576b7d9ac481512605affdd0fae51a72e7799f3079e1fb5f8e5250aab8",
+      "sha256": "d9437294fb697f0104cda69b0e9d9ff4cd8f108aee62009c3aa82dae626f55c4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 11. Jänner 1983 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Art der Stimmabgabe bei Wahlen zu den Landtagen StF: BGBl. Nr. 29/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 29/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_29_0/1983_29_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67138d72e2006802b5665a79ae42076e67d4fcadaed4305e449360934b8ff64a",
+      "sha256": "0305409d30da96c2857717790b44298923c725f5f0eb5cd6971c00578d19f78a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

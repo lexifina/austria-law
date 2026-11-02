@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die steuerliche Einstufung von Fahrzeugen als Kleinlastkraftwagen und Kleinbusse StF: [BGBl. II Nr. 193/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_193_2/2002_193_2.pdf>)
+
+Zu § 12 Abs. 2 Z 2 lit. b UStG 1994, [BGBl. Nr. 663/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_0/1994_663_0.pdf>), in der Fassung [BGBl. I Nr. 56/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_56_1/2002_56_1.pdf>) und zu § 8 Abs. 6 Z 1 und § 20 Abs. 1 Z 2 lit. b EStG 1988, [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), in der Fassung [BGBl. I Nr. 68/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_68_1/2002_68_1.pdf>) wird verordnet:

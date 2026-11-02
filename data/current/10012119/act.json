@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012119",
+  "short_title": "Fahrverbindung an die A 10 Tauern Autobahn",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012398",
+    "valid_from": "1992-01-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012119&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:05:35.538824+00:00",
+    "response_sha256": "e4d50bc22ddc33248474d337d4c1e04b1317fe507f6f7131a8ad754b5d1a7e22",
+    "snapshot_sha256": "55cb3e609926abec2267ac2492be1db880b094f538966cb974507c1cf60811b7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f4bd062e7280f02251529c501b88e22af1d329fb39eee83867e34b79bd9118a6",
+      "sha256": "2b611189903721db150cc02162180852b500a4d82d3c34c19a7b802a3936736d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend eine Fahrverbindung im Zuge eines Betriebes an der A 10 Tauern Autobahn im Bereich der Gemeinde Eben im Pongau StF: BGBl. Nr. 29/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 29/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_29_0/1992_29_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 159/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_159_0/1990_159_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c798c4b11239dce43a7fc7faeeb1aaba432216230f761f6ae439ffc85f1efee8",
+      "sha256": "9d14d8f2334195fa9ef90916f1fc7d120540b4598857717ca71016eb86149151",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

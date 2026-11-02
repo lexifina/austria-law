@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft und Arbeit über die Aufhebung der von der Kammervollversammlung der Kammer der Architekten und Ingenieurkonsulenten für Steiermark und Kärnten am 30. November 2001 beschlossenen Umlagenordnung und des Punktes 2 sowie einiger Worte in Punkt 8 des als "Kammerumlage 2002" bezeichneten Beschlusses durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 341/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_341_2/2003_341_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, zuletzt geändert durch die Kundmachung [BGBl. I Nr. 34/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_34_1/2001_34_1.pdf>), wird kundgemacht:

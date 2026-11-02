@@ -1,0 +1,3 @@
+Bundesgesetz über die Errichtung der Gesellschaft „Familie & Beruf Management GmbH“ StF: [BGBl. I Nr. 3/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/3>) (NR: GP XXII [RV 1070](<https://www.parlament.gv.at/gegenstand/XXII/I/1070>) [S. 125.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/125>) [Einspr. d. BR: 1257](<https://www.parlament.gv.at/gegenstand/XXII/I/1257>) [S. 133.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/133>) BR: [AB 7413](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7413>) [S. 728.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/728>))
+
+Der Nationalrat hat beschlossen:

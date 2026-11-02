@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 22. April 1976 über die Kennzeichnung von Benützungsbeschränkungen im Wald (Forstliche Kennzeichnungsverordnung) StF: [BGBl. Nr. 179/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_179_0/1976_179_0.pdf>)

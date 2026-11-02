@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002490",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002513",
+    "valid_from": "1981-02-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002490&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:54.702913+00:00",
+    "response_sha256": "1be4f3271d6aacb3522f7c7819c25b013e3d807c802f7e58f2fcd9c50c797a03",
+    "snapshot_sha256": "e610b56c83701b92f44da42a484dfbbd17ee12737560556a8a27f82042e93487",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "044f192fbe1ddfacb6a657f3d65f20ccc8f0150a6612d3da26d20b0b6af97506",
+      "sha256": "5a3c53057fc8972792782fe3527fa7fc4df8fddc6c4a0c28c6e0528421940cb9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Republik Österreich und der Republik Nauru betreffend die Weiteranwendung des österreichisch-britischen Rechtshilfeabkommens vom 31. März 1931, BGBl. Nr. 45/1932 StF: BGBl. Nr. 527/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 45/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=45/1932&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 527/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_527_0/1980_527_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1f17283dd2f86890c03ee354121d87e880d919280b19a86cb0c7dfbb3519396",
+      "sha256": "a0e08707a353347084b96988b18bbb704c5b8f1f2937399db8c493fb162e3fd9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 11. Juni 1979 betreffend Namen und Embleme von Programmen der Europäischen Weltraumagentur (ESA) StF: [BGBl. Nr. 298/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_298_0/1979_298_0.pdf>)

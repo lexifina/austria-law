@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Umsetzung der temporären Agrardieselvergütung (Temporäre Agrardieselvergütungsverordnung 2024) StF: [BGBl. II Nr. 378/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/378>)
+
+Aufgrund des § 7 Abs. 6 des Mineralölsteuergesetzes 2022, [BGBl. Nr. 630/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_630_0/1994_630_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 72/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/72>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft und der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

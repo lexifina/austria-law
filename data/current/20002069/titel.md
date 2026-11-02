@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung, mit der die Geschäftsordnung des Rates für Fragen der österreichischen Integrations- und Außenpolitik erlassen wird StF: [BGBl. II Nr. 255/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_255_2/2002_255_2.pdf>) idF [BGBl. II Nr. 310/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_310_2/2002_310_2.pdf>) (DFB)
+
+Auf Grund des § 7 des Bundesgesetzes, mit dem ein Rat für Fragen der österreichischen Integrations- und Außenpolitik eingerichtet wird, [BGBl. Nr. 368/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_368_0/1989_368_0.pdf>), in der Fassung [BGBl. I Nr. 125/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_125_1/2001_125_1.pdf>) wird mit Zustimmung des Hauptausschusses des Nationalrates verordnet:

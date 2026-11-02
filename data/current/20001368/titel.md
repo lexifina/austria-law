@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend die Besteuerung von Einkünften der Gesellschafter-Dienstnehmer liechtensteinischer Kapitalgesellschaften StF: [BGBl. II Nr. 215/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_215_2/2001_215_2.pdf>)
+
+Auf Grund des Artikels 25 Absatz 3 des Abkommens zwischen der Republik Österreich und dem Fürstentum Liechtenstein zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen samt Schlussprotokoll, [BGBl. Nr. 24/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_24_0/1971_24_0.pdf>), wird verordnet:

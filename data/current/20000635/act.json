@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000635",
+  "short_title": "Schutz der Unterseekabel",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000674",
+    "valid_from": "1935-06-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000635&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:20:42.139815+00:00",
+    "response_sha256": "c0eaf4356b2971cd1c4c9e2ffb9814562805b56c948bc2c2b4b71ddbc399fc05",
+    "snapshot_sha256": "5a96aa699b8137f29bcafba9a97ef5fe0479dc1b4a7242fb524f6b571d990446",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "daee6575bbccc5cb589ab679b3be66d66b262de82638a889e69c1c6282005851",
+      "sha256": "4363ab388ce754a7650be396f978e1cd0490223c895d084737e1710c06f45558",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung, womit das Verzeichnis der dem Übereinkommen zum Schutze der Unterseekabel beigetretenen Staaten ergänzt wird StF: BGBl. Nr. 240/1935"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 240/1935",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=240/1935&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd79790ee7e441694f2d6b1ef26d550d6b99d393864cc910faec017c7d302ce9",
+      "sha256": "66ff0dd45af2705e24a4c0a5fee7fdab35192c4429ec335a126462a5e6e20b70",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

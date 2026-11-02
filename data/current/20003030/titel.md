@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über zulässige Übermittlungsarten von Anbringen und Erledigungen StF: [BGBl. II Nr. 532/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_532_2/2003_532_2.pdf>)
+
+Auf Grund des § 29 Abs. 4 AMA-Gesetz 1992, BGBl. Nr. 376, zuletzt geändert durch [BGBl. I Nr. 108/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_108_1/2001_108_1.pdf>), in Verbindung mit §§ 86a und 97 Abs. 3 der Bundesabgabenordnung, [BGBl. Nr. 194/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird verordnet:

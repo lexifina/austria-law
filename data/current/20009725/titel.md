@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über den Schutz der Bediensteten vor der Einwirkung durch elektromagnetische Felder (Verordnung elektromagnetische Felder Bund – B-VEMF) StF: [BGBl. II Nr. 384/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/384>) \[CELEX-Nr.: [32013L0035](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0035:DE:HTML>)\]
+
+Aufgrund der § 66 Abs. 1 und § 72 Z 4 des Bundes-Bedienstetenschutzgesetzes – B-BSG, [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 164/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/164>), wird verordnet:

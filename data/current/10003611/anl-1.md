@@ -1,0 +1,513 @@
+## ÜBEREINKOMMEN
+
+## über das auf vertragliche Schuldverhältnisse anzuwendende Recht <sup>1</sup>) aufgelegt zur Unterzeichnung am 19. Juni 1980 in Rom
+
+## PRÄAMBEL
+
+DIE HOHEN VERTRAGSPARTEIEN des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft –
+
+IN DEM BESTREBEN, die innerhalb der Gemeinschaft insbesondere im Bereich der gerichtlichen Zuständigkeit und der Vollstreckung gerichtlicher Entscheidungen bereits begonnene Rechtsvereinheitlichung auf dem Gebiet des internationalen Privatrechts fortzusetzen,
+
+IN DEM WUNSCH, einheitliche Normen für die Bestimmung des auf vertragliche Schuldverhältnisse anzuwendenden Rechts zu schaffen –
+
+SIND WIE FOLGT ÜBEREINGEKOMMEN:
+
+## TITEL I
+
+## ANWENDUNGSBEREICH
+
+## Artikel 1
+
+### Anwendungsbereich
+
+(1) Die Vorschriften dieses Übereinkommens sind auf vertragliche Schuldverhältnisse bei Sachverhalten, die eine Verbindung zum Recht verschiedener Staaten aufweisen, anzuwenden.
+
+(2) Sie sind nicht anzuwenden auf
+
+- a) den Personenstand sowie die Rechts-, Geschäfts- und Handlungsfähigkeit von natürlichen Personen, vorbehaltlich des Artikels 11;
+
+- b) vertragliche Schuldverhältnisse betreffend – Testamente und das Gebiet des Erbrechts, – die ehelichen Güterstände, – die Rechte und Pflichten, die auf einem Familien-, Verwandschafts- oder eherechtlichen Verhältnis oder auf einer Schwägerschaft beruhen, einschließlich der Unterhaltsverpflichtungen gegenüber einem nichtehelichen Kind;
+
+- c) Verpflichtungen aus Wechseln, Schecks, Eigenwechseln und anderen handelbaren Wertpapieren, sofern die Verpflichtungen aus diesen anderen Wertpapieren aus deren Handelbarkeit entstehen;
+
+- d) Schieds- und Gerichtsstandsvereinbarungen;
+
+- e) Fragen betreffend das Gesellschaftsrecht, das Vereinsrecht und das Recht der juristischen Personen, wie zB die Errichtung, die Rechts- und Handlungsfähigkeit, die innere Verfassung und die Auflösung von Gesellschaften, Vereinen und juristischen Personen sowie die persönliche gesetzliche Haftung der Gesellschafter und der Organe für die Schulden der Gesellschaft, des Vereins oder der juristischen Person;
+
+- f) die Frage, ob ein Vertreter die Person, für deren Rechnung er zu handeln vorgibt, Dritten gegenüber verpflichten kann, oder ob das Organ einer Gesellschaft, eines Vereins oder einer juristischen Person diese Gesellschaft, diesen Verein oder diese juristische Person gegenüber Dritten verpflichten kann;
+
+- g) die Gründung von „Trusts“ sowie die dadurch geschaffenen Rechtsbeziehungen zwischen den Verfügenden, den Treuhändern und den Begünstigten;
+
+- h) den Beweis und das Verfahren, vorbehaltlich des Artikels 14.
+
+(3) Die Vorschriften dieses Übereinkommens sind nicht anzuwenden auf Versicherungsverträge, die in den Hoheitsgebieten der Mitgliedstaaten der Europäischen Wirtschaftsgemeinschaft belegene Risiken decken. Ist zu entscheiden, ob ein Risiko in diesen Hoheitsgebieten belegen ist, so wendet das Gericht sein innerstaatliches Recht an.
+
+(4) Absatz 3 gilt nicht für Rückversicherungsverträge.
+
+## Artikel 2
+
+### Anwendung des Rechts von Nichtvertragsstaaten
+
+Das nach diesem Übereinkommen bezeichnete Recht ist auch dann anzuwenden, wenn es das Recht eines Nichtvertragsstaates ist.
+
+## TITEL II
+
+## EINHEITLICHE BESTIMMUNGEN
+
+## Artikel 3
+
+### Freie Rechtswahl
+
+(1) Der Vertrag unterliegt dem von den Parteien gewählten Recht. Die Rechtswahl muß ausdrücklich sein oder sich mit hinreichender Sicherheit aus den Bestimmungen des Vertrages oder aus den Umständen des Falles ergeben. Die Parteien können die Rechtswahl für ihren ganzen Vertrag oder nur für einen Teil desselben treffen.
+
+(2) Die Parteien können jederzeit vereinbaren, daß der Vertrag nach einem anderen Recht zu beurteilen ist als dem, das zuvor entweder auf Grund einer früheren Rechtswahl nach diesem Artikel oder auf Grund anderer Vorschriften dieses Übereinkommens für ihn maßgebend war. Die Formgültigkeit des Vertrages im Sinne des Artikels 9 und Rechte Dritter werden durch eine nach Vertragsabschluß erfolgende Änderung der Bestimmung des anzuwendenden Rechts nicht berührt.
+
+(3) Sind alle anderen Teile des Sachverhalts im Zeitpunkt der Rechtswahl in ein und demselben Staat belegen, so kann die Wahl eines ausländischen Rechts durch die Parteien – sei sie durch die Vereinbarung der Zuständigkeit eines ausländischen Gerichtes ergänzt oder nicht – die Bestimmungen nicht berühren, von denen nach dem Recht jenes Staates durch Vertrag nicht abgewichen werden kann und die nachstehend „zwingende Bestimmungen“ genannt werden.
+
+(4) Auf das Zustandekommen und die Wirksamkeit der Einigung der Parteien über das anzuwendende Recht sind die Artikel 8, 9 und 11 anzuwenden.
+
+## Artikel 4
+
+### Mangels Rechtswahl anzuwendendes Recht
+
+(1) Soweit das auf den Vertrag anzuwendende Recht nicht nach Artikel 3 vereinbart worden ist, unterliegt der Vertrag dem Recht des Staates, mit dem er die engsten Verbindungen aufweist. Läßt sich jedoch ein Teil des Vertrages von dem Rest des Vertrages trennen und weist dieser Teil eine engere Verbindung mit einem anderen Staat auf, so kann auf ihn ausnahmsweise das Recht dieses anderen Staates angewendet werden.
+
+(2) Vorbehaltlich des Absatzes 5 wird vermutet, daß der Vertrag die engsten Verbindungen mit dem Staat aufweist, in dem die Partei, welche die charakteristische Leistung zu erbringen hat, im Zeitpunkt des Vertragsabschlusses ihren gewöhnlichen Aufenthalt oder, wenn es sich um eine Gesellschaft, einen Verein oder eine juristische Person handelt, ihre Hauptverwaltung hat. Ist der Vertrag jedoch in Ausübung einer beruflichen oder gewerblichen Tätigkeit dieser Partei geschlossen worden, so wird vermutet, daß er die engsten Verbindungen zu dem Staat aufweist, in dem sich deren Hauptniederlassung befindet oder in dem, wenn die Leistung nach dem Vertrag von einer anderen als der Hauptniederlassung zu erbringen ist, sich die andere Niederlassung befindet.
+
+(3) Ungeachtet des Absatzes 2 wird, soweit der Vertrag ein dingliches Recht an einem Grundstück oder ein Recht zur Nutzung eines Grundstücks zum Gegenstand hat, vermutet, daß der Vertrag die engsten Verbindungen zu dem Staat aufweist, in dem das Grundstück belegen ist.
+
+(4) Die Vermutung nach Absatz 2 gilt nicht für Güterbeförderungsverträge. Bei diesen Verträgen wird vermutet, daß sie mit dem Staat die engsten Verbindungen aufweisen, in dem der Beförderer im Zeitpunkt des Vertragsabschlusses seine Hauptniederlassung hat, sofern sich in diesem Staat auch der Verladeort oder der Entladeort oder die Hauptniederlassung des Absenders befindet. Als Güterbeförderungsverträge gelten für die Anwendung dieses Absatzes auch Charterverträge für eine einzige Reise und andere Verträge, die in der Hauptsache der Güterbeförderung dienen.
+
+(5) Absatz 2 ist nicht anzuwenden, wenn sich die charakteristische Leistung nicht bestimmen läßt. Die Vermutungen nach den Absätzen 2, 3 und 4 gelten nicht, wenn sich aus der Gesamtheit der Umstände ergibt, daß der Vertrag engere Verbindungen mit einem anderen Staat aufweist.
+
+## Artikel 5
+
+### Verbraucherverträge
+
+(1) Dieser Artikel gilt für Verträge über die Lieferung beweglicher Sachen oder die Erbringung von Dienstleistungen an eine Person, den Verbraucher, zu einem Zweck, der nicht der beruflichen oder gewerblichen Tätigkeit des Verbrauchers zugerechnet werden kann, sowie für Verträge zur Finanzierung eines solchen Geschäfts.
+
+(2) Ungeachtet des Artikels 3 darf die Rechtswahl der Parteien nicht dazu führen, daß dem Verbraucher der durch die zwingenden Bestimmungen des Rechts des Staates, in dem er seinen gewöhnlichen Aufenthalt hat, gewährte Schutz entzogen wird: – wenn dem Vertragsabschluß ein ausdrückliches Angebot oder eine Werbung in diesem Staat vorausgegangen ist und wenn der Verbraucher in diesem Staat die zum Abschluß des Vertrages erforderlichen Rechtshandlungen vorgenommen hat oder – wenn der Vertragspartner des Verbrauchers oder sein Vertreter die Bestellung des Verbrauchers in diesem Staat entgegengenommen hat oder – wenn der Vertrag den Verkauf von Waren betrifft und der Verbraucher von diesem Staat ins Ausland gereist ist und dort seine Bestellung aufgegeben hat, sofern diese Reise vom Verkäufer mit dem Ziel herbeigeführt worden ist, den Verbraucher zum Vertragsabschluß zu veranlassen.
+
+(3) Abweichend von Artikel 4 ist mangels einer Rechtswahl nach Artikel 3 für Verträge, die unter den in Absatz 2 bezeichneten Umständen zustande gekommen sind, das Recht des Staates maßgebend, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat.
+
+(4) Dieser Artikel gilt nicht für
+
+- a) Beförderungsverträge,
+
+- b) Verträge über die Erbringung von Dienstleistungen, wenn die dem Verbraucher geschuldeten Dienstleistungen ausschließlich in einem anderen als dem Staat erbracht werden müssen, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat.
+
+(5) Ungeachtet des Absatzes 4 gilt dieser Artikel für Reiseverträge, die für einen Pauschalpreis kombinierte Beförderungs- und Unterbringungsleistungen vorsehen.
+
+## Artikel 6
+
+### Arbeitsverträge und Arbeitsverhältnisse von Einzelpersonen
+
+(1) Ungeachtet des Artikels 3 darf in Arbeitsverträgen und Arbeitsverhältnissen die Rechtswahl der Parteien nicht dazu führen, daß dem Arbeitnehmer der Schutz entzogen wird, der ihm durch die zwingenden Bestimmungen des Rechts gewährt wird, das nach Absatz 2 mangels einer Rechtswahl anzuwenden wäre.
+
+(2) Abweichend von Artikel 4 sind mangels einer Rechtswahl nach Artikel 3 auf Arbeitsverträge und Arbeitsverhältnisse anzuwenden:
+
+- a) das Recht des Staates, in dem der Arbeitnehmer in Erfüllung des Vertrages gewöhnlich seine Arbeit verrichtet, selbst wenn er vorübergehend in einen anderen Staat entsandt ist, oder
+
+- b) das Recht des Staates, in dem sich die Niederlassung befindet, die den Arbeitnehmer eingestellt hat, sofern dieser seine Arbeit gewöhnlich nicht in ein und demselben Staat verrichtet,
+
+es sei denn, daß sich aus der Gesamtheit der Umstände ergibt, daß der Arbeitsvertrag oder das Arbeitsverhältnis engere Verbindungen zu einem anderen Staat aufweist; in diesem Fall ist das Recht dieses anderen Staates anzuwenden.
+
+## Artikel 7
+
+### Zwingende Vorschriften
+
+(1) Bei Anwendung des Rechts eines bestimmten Staates auf Grund dieses Übereinkommens kann den zwingenden Bestimmungen des Rechts eines anderen Staates, mit dem der Sachverhalt eine enge Verbindung aufweist, Wirkung verliehen werden, soweit diese Bestimmungen nach dem Recht des letztgenannten Staates ohne Rücksicht darauf anzuwenden sind, welchem Recht der Vertrag unterliegt. Bei der Entscheidung, ob diesen zwingenden Bestimmungen Wirkung zu verleihen ist, sind ihre Natur und ihr Gegenstand sowie die Folgen zu berücksichtigen, die sich aus ihrer Anwendung oder ihrer Nichtanwendung ergeben würden.
+
+(2) Dieses Übereinkommen berührt nicht die Anwendung der nach dem Recht des Staates des angerufenen Gerichtes geltenden Bestimmungen, die ohne Rücksicht auf das auf den Vertrag anzuwendende Recht den Sachverhalt zwingend regeln.
+
+## Artikel 8
+
+### Einigung und materielle Wirksamkeit
+
+(1) Das Zustandekommen und die Wirksamkeit des Vertrages oder einer seiner Bestimmungen beurteilen sich nach dem Recht, das nach diesem Übereinkommen anzuwenden wäre, wenn der Vertrag oder die Bestimmung wirksam wäre.
+
+(2) Ergibt sich jedoch aus den Umständen, daß es nicht gerechtfertigt wäre, die Wirkung des Verhaltens einer Partei nach dem in Absatz 1 bezeichneten Recht zu bestimmen, so kann sich diese Partei für die Behauptung, sie habe dem Vertrag nicht zugestimmt, auf das Recht des Staates ihres gewöhnlichen Aufenthaltsorts berufen.
+
+## Artikel 9
+
+### Form
+
+(1) Ein zwischen Personen, die sich in demselben Staat befinden, geschlossener Vertrag ist formgültig, wenn er die Formerfordernisse des auf ihn nach diesem Übereinkommen materiell-rechtlich anzuwendenden Rechts oder des Rechts des Staates, in dem er geschlossen wurde, erfüllt.
+
+(2) Ein zwischen Personen, die sich in verschiedenen Staaten befinden, geschlossener Vertrag ist formgültig, wenn er die Formerfordernisse des auf ihn nach diesem Übereinkommen materiell-rechtlich anzuwendenden Rechts oder des Rechts eines dieser Staaten erfüllt.
+
+(3) Wird der Vertrag durch einen Vertreter geschlossen, so muß bei Anwendung der Absätze 1 und 2 der Staat berücksichtigt werden, in dem sich der Vertreter befindet.
+
+(4) Ein einseitiges Rechtsgeschäft, das sich auf einen geschlossenen oder zu schließenden Vertrag bezieht, ist formgültig, wenn es die Formerfordernisse des Rechts, das nach diesem Übereinkommen für den Vertrag maßgebend ist oder maßgebend wäre, oder die Formerfordernisse des Rechts des Staates erfüllt, in dem dieses Rechtsgeschäft vorgenommen worden ist.
+
+(5) Die Absätze 1 bis 4 sind nicht anzuwenden auf Verträge, für die Artikel 5 gilt und die unter den in Artikel 5 Absatz 2 bezeichneten Umständen geschlossen worden sind. Für die Form dieser Verträge ist das Recht des Staates maßgebend, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat.
+
+(6) Abweichend von den Absätzen 1 bis 4 beurteilen sich Verträge, die ein dingliches Recht an einem Grundstück oder ein Recht zur Nutzung eines Grundstücks zum Gegenstand haben, nach den zwingenden Formvorschriften des Staates, in dem das Grundstück belegen ist, sofern diese nach dem Recht dieses Staates ohne Rücksicht auf den Ort des Abschlusses des Vertrages und auf das auf ihn anzuwendende Recht gelten.
+
+## Artikel 10
+
+### Geltungsbereich des auf den Vertrag anzuwendenden Rechts
+
+(1) Das nach den Artikeln 3 bis 6 und nach Artikel 12 dieses Übereinkommens auf einen Vertrag anzuwendende Recht ist insbesondere maßgebend für
+
+- a) seine Auslegung,
+
+- b) die Erfüllung der durch ihn begründeten Verpflichtungen,
+
+- c) die Folgen der vollständigen oder teilweisen Nichterfüllung dieser Verpflichtungen, einschließlich der Schadensbemessung, soweit sie nach Rechtsnormen erfolgt, in den Grenzen der dem Gericht durch sein Prozeßrecht eingeräumten Befugnisse,
+
+- d) die verschiedenen Arten des Erlöschens der Verpflichtungen sowie die Verjährung und die Rechtsverluste, die sich aus dem Ablauf einer Frist ergeben,
+
+- e) die Folgen der Nichtigkeit des Vertrages.
+
+(2) In bezug auf die Art und Weise der Erfüllung und die vom Gläubiger im Falle mangelhafter Erfüllung zu treffenden Maßnahmen ist das Recht des Staates, in dem die Erfüllung erfolgt, zu berücksichtigen.
+
+## Artikel 11
+
+### Rechts-, Geschäfts- und Handlungsunfähigkeit
+
+Bei einem zwischen Personen, die sich in demselben Staat befinden, geschlossenen Vertrag kann sich eine natürliche Person, die nach dem Recht dieses Staates rechts-, geschäfts- und handlungsfähig wäre, nur dann auf ihre aus dem Recht eines anderen Staates abgeleitete Rechts-, Geschäfts- und Handlungsunfähigkeit berufen, wenn der andere Vertragsteil bei Vertragsabschluß diese Rechts-, Geschäfts- und Handlungsunfähigkeit kannte oder infolge Fahrlässigkeit nicht kannte.
+
+## Artikel 12
+
+### Übertragung der Forderung
+
+(1) Für die Verpflichtungen zwischen Zedent und Zessionar einer Forderung ist das Recht maßgebend, das nach diesem Übereinkommen auf den Vertrag zwischen ihnen anzuwenden ist.
+
+(2) Das Recht, dem die übertragene Forderung unterliegt, bestimmt ihre Übertragbarkeit, das Verhältnis zwischen Zessionar und Schuldner, die Voraussetzungen, unter denen die Übertragung dem Schuldner entgegengehalten werden kann, und die befreiende Wirkung einer Leistung durch den Schuldner.
+
+## Artikel 13
+
+### Gesetzlicher Forderungsübergang
+
+(1) Hat eine Person, der Gläubiger, eine vertragliche Forderung gegen eine andere Person, den Schuldner, und hat ein Dritter die Verpflichtung, den Gläubiger zu befriedigen, oder befriedigt er den Gläubiger auf Grund dieser Verpflichtung, so bestimmt das für die Verpflichtung des Dritten maßgebende Recht, ob der Dritte die Forderung des Gläubigers gegen den Schuldner gemäß dem für deren Beziehungen maßgebenden Recht ganz oder zu einem Teil geltend zu machen berechtigt ist.
+
+(2) Dies gilt auch, wenn mehrere Personen dieselbe vertragliche Forderung zu erfüllen haben und der Gläubiger von einer dieser Personen befriedigt worden ist.
+
+## Artikel 14
+
+### Beweis
+
+(1) Das nach diesem Übereinkommen für den Vertrag maßgebende Recht ist insoweit anzuwenden, als es für vertragliche Schuldverhältnisse gesetzliche Vermutungen aufstellt oder die Beweislast verteilt.
+
+(2) Zum Beweis eines Rechtsgeschäfts sind alle Beweisarten der lex fori oder eines jener in Artikel 9 bezeichneten Rechte, nach denen das Rechtsgeschäft formgültig ist, zulässig, sofern der Beweis in dieser Art vor dem angerufenen Gericht erbracht werden kann.
+
+## Artikel 15
+
+### Ausschluß der Rück- und Weiterverweisung
+
+Unter dem nach diesem Übereinkommen anzuwendenden Recht eines Staates sind die in diesem Staat geltenden Rechtsnormen unter Ausschluß derjenigen des internationalen Privatrechts zu verstehen.
+
+## Artikel 16
+
+### Öffentliche Ordnung
+
+Die Anwendung einer Norm des nach diesem Übereinkommen bezeichneten Rechts kann nur versagt werden, wenn dies offensichtlich mit der öffentlichen Ordnung des Staates des angerufenen Gerichtes unvereinbar ist.
+
+## Artikel 17
+
+### Ausschluß der Rückwirkung
+
+Dieses Übereinkommen ist in einem Vertragsstaat auf Verträge anzuwenden, die geschlossen worden sind, nachdem das Übereinkommen für diesen Staat in Kraft getreten ist.
+
+## Artikel 18
+
+### Einheitliche Auslegung
+
+Bei der Auslegung und Anwendung der vorstehenden einheitlichen Vorschriften ist ihrem internationalen Charakter und dem Wunsch Rechnung zu tragen, eine einheitliche Auslegung und Anwendung dieser Vorschriften zu erreichen.
+
+## Artikel 19
+
+### Staaten ohne einheitliche Rechtsordnung
+
+(1) Umfaßt ein Staat mehrere Gebietseinheiten, von denen jede für vertragliche Schuldverhältnisse ihre eigenen Rechtsnormen hat, so gilt für die Bestimmung des nach diesem Übereinkommen anzuwendenden Rechts jede Gebietseinheit als Staat.
+
+(2) Ein Staat, in dem verschiedene Gebietseinheiten ihre eigenen Rechtsnormen für vertragliche Schuldverhältnisse haben, ist nicht verpflichtet, dieses Übereinkommen auf Kollisionen zwischen den Rechtsverordnungen dieser Gebietseinheiten anzuwenden.
+
+## Artikel 20
+
+### Vorrang des Gemeinschaftsrechts
+
+Dieses Übereinkommen berührt nicht die Anwendung der Kollisionsnormen für vertragliche Schuldverhältnisse auf besonderen Gebieten, die in Rechtsakten der Organe der Europäischen Gemeinschaften oder in dem in Ausführung dieser Akte harmonisierten innerstaatlichen Recht enthalten sind oder enthalten sein werden.
+
+## Artikel 21
+
+### Verhältnis zu anderen Übereinkommen
+
+Dieses Übereinkommen berührt nicht die Anwendung internationaler Übereinkommen, denen ein Vertragsstaat angehört oder angehören wird.
+
+## Artikel 22
+
+### Vorbehalte
+
+(1) Jeder Vertragsstaat kann sich bei der Unterzeichnung, der Ratifizierung, der Annahme oder der Zustimmung das Recht vorbehalten, folgende Bestimmungen nicht anzuwenden:
+
+- a) Artikel 7 Absatz 1,
+
+- b) Artikel 10 Absatz 1 Buchstabe e).
+
+(Anm.: Abs. 2 gestrichen gemäß Artikel 2 Nummer 1 des Beitrittsübereinkommens von 1992)
+
+(3) Jeder Vertragsstaat kann jederzeit einen von ihm eingelegten Vorbehalt zurückziehen; der Vorbehalt wird am ersten Tag des dritten Kalendermonats nach Notifizierung der Rücknahme unwirksam.
+
+## TITEL III
+
+## SCHLUSSVORSCHRIFTEN
+
+### Artikel 23
+
+(1) Wünscht ein Vertragsstaat, nachdem dieses Übereinkommen für ihn in Kraft getreten ist, eine neue Kollisionsnorm für eine bestimmte Gruppe von Verträgen einzuführen, die in den Anwendungsbereich des Übereinkommens fallen, so teilt er seine Absicht den anderen Unterzeichnerstaaten über den Generalsekretär des Rates der Europäischen Gemeinschaften mit.
+
+(2) Innerhalb von sechs Monaten nach der Mitteilung an den Generalsekretär des Rates kann jeder Unterzeichnerstaat bei diesem beantragen, Konsultationen mit den Unterzeichnerstaaten einzuleiten, um zu einem Einvernehmen zu gelangen.
+
+(3) Hat innerhalb dieser Frist kein Unterzeichnerstaat Konsultationen beantragt oder haben die Konsultationen innerhalb von zwei Jahren nach Mitteilung an den Generalsekretär des Rates nicht zu einem Einvernehmen geführt, so kann der betreffende Vertragsstaat sein Recht ändern. Die von diesem Staat getroffene Maßnahme wird den anderen Unterzeichnerstaaten über den Generalsekretär des Rates der Europäischen Gemeinschaften zur Kenntnis gebracht.
+
+### Artikel 24
+
+(1) Wünscht ein Vertragsstaat, nachdem dieses Übereinkommen für ihn in Kraft getreten ist, einem mehrseitigen Übereinkommen beizutreten, dessen Hauptziel oder eines seiner Hauptziele eine international-privatrechtliche Regelung auf einem der Gebiete dieses Übereinkommens ist, so findet das Verfahren des Artikels 23 Anwendung. Jedoch wird die in Artikel 23 Absatz 3 vorgesehene Frist von zwei Jahren auf ein Jahr verkürzt.
+
+(2) Das in Absatz 1 bezeichnete Verfahren braucht nicht befolgt zu werden, wenn ein Vertragsstaat oder eine der Europäischen Gemeinschaften dem mehrseitigen Übereinkommen bereits angehört oder wenn sein Zweck darin besteht, ein Übereinkommen zu revidieren, dem der betreffende Staat angehört, oder wenn es sich um ein im Rahmen der Verträge zur Gründung der Europäischen Gemeinschaften geschlossenes Übereinkommen handelt.
+
+### Artikel 25
+
+Ist ein Vertragsstaat der Auffassung, daß die durch dieses Übereinkommen erzielte Rechtsvereinheitlichung durch den Abschluß anderer als in Artikel 24 Absatz 1 bezeichneter Übereinkommen gefährdet ist, so kann dieser Staat beim Generalsekretär des Rates der Europäischen Gemeinschaften beantragen, Konsultationen zwischen den Unterzeichnerstaaten dieses Übereinkommens einzuleiten.
+
+### Artikel 26
+
+Jeder Vertragsstaat kann die Revision dieses Übereinkommens beantragen. In diesem Fall beruft der Präsident des Rates der Europäischen Gemeinschaften eine Revisionskonferenz ein.
+
+### Artikel 27
+
+(Anm.: Artikel 27 gestrichen gemäß Artikel 2 Nummer 1 des Beitrittsübereinkommens von 1992)
+
+### Artikel 28
+
+(1) Dieses Übereinkommen liegt vom 19. Juni 1980 an für die Vertragsstaaten des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft zur Unterzeichnung auf. <sup>2</sup>)
+
+(2) Dieses Übereinkommen bedarf der Ratifizierung, Annahme oder Zustimmung durch die Unterzeichnerstaaten. Die Urkunden über die Ratifizierung, Annahme oder Zustimmung werden beim Generalsekretär des Rates der Europäischen Gemeinschaften hinterlegt.
+
+### Artikel 29 <sup>3</sup>)
+
+(1) Dieses Übereinkommen tritt am ersten Tag des dritten Monats in Kraft, der auf die Hinterlegung der siebten Urkunde über die Ratifizierung, Annahme oder Zustimmung folgt.
+
+(2) Das Übereinkommen tritt für jeden Unterzeichnerstaat, der später ratifiziert, annimmt oder zustimmt, am ersten Tag des dritten Monats in Kraft, der auf die Hinterlegung seiner Urkunde über die Ratifizierung, Annahme oder Zustimmung folgt.
+
+### Artikel 30
+
+(1) Dieses Übereinkommen wird für zehn Jahre vom Zeitpunkt seines Inkrafttretens nach Artikel 29 Absatz 1 an geschlossen; dies gilt auch für die Staaten, für die es nach diesem Zeitpunkt in Kraft tritt.
+
+(2) Vorbehaltlich einer Kündigung verlängert sich die Dauer dieses Übereinkommens stillschweigend jeweils um fünf Jahre.
+
+(3) Die Kündigung ist dem Generalsekretär des Rates der Europäischen Gemeinschaften mindestens sechs Monate vor Ablauf der zehnjährigen oder fünfjährigen Frist zu notifizieren. <sup>4</sup>)
+
+(4) Die Kündigung hat nur Wirkung gegenüber dem Staat, der sie notifiziert hat. Für die anderen Vertragsstaaten bleibt das Übereinkommen in Kraft.
+
+### Artikel 31 <sup>5</sup>)
+
+Der Generalsekretär des Rates der Europäischen Gemeinschaften notifiziert den Vertragsstaaten des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft
+
+- a) die Unterzeichnungen,
+
+- b) die Hinterlegung jeder Urkunde über die Ratifizierung, Annahme oder Zustimmung,
+
+- c) den Tag, an dem dieses Übereinkommen in Kraft tritt,
+
+- d) die Mitteilung gemäß den Artikeln 23, 24, 25, 26 und 30 <sup>6</sup>),
+
+- e) die Vorbehalte und deren Rücknahme gemäß Artikel 22.
+
+### Artikel 32
+
+Das im Anhang enthaltene Protokoll ist Bestandteil des Übereinkommens.
+
+### Artikel 33 <sup>7</sup>)
+
+Dieses Übereinkommen ist in einer Urschrift in dänischer, deutscher, englischer, französischer, irischer, italienischer und niederländischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen verbindlich ist; es wird im Archiv des Generalsekretariats des Rates der Europäischen Gemeinschaften hinterlegt. Der Generalsekretär übermittelt der Regierung jedes Unterzeichnerstaates eine beglaubigte Abschrift.
+
+ZU URKUND DESSEN haben die hierzu gehörig befugten Unterzeichneten ihre Unterschriften unter dieses Übereinkommen gesetzt.
+
+GESCHEHEN zu Rom am neunzehnten Juni neunzehnhundertachtzig.
+
+### (Unterschriften der Bevollmächtigten)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Text in der Fassung des Übereinkommens vom 10. April 1984 über den Beitritt der Republik Griechenland – nachstehend „Beitrittsübereinkommen von 1984“ genannt –, des Übereinkommens vom 18. Mai 1992 über den Beitritt des Königreichs Spanien und der Portugiesischen Republik – nachstehend „Beitrittsübereinkommen von 1992“ genannt – und des Übereinkommens über den Beitritt der Republik Österreich, der Republik Finnland und des Königreichs Schweden – nachstehend „Beitrittsübereinkommen von 1996“ genannt.
+
+<sup>2</sup>) Die Ratifizierung der Beitrittsübereinkommen ist in den folgenden Bestimmungen dieser Übereinkommen geregelt:
+
+- – hinsichtlich des Beitrittsübereinkommens von 1984 in Artikel 3 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 3
+
+Dieses Übereinkommen bedarf der Ratifizierung durch die Unterzeichnerstaaten. Die Ratifikationsurkunden werden beim Generalsekretär des Rates der Europäischen Gemeinschaften hinterlegt.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1992 in Artikel 4 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 4
+
+Dieses Übereinkommen bedarf der Ratifizierung durch die Unterzeichnerstaaten. Die Ratifikationsurkunden werden beim Generalsekretariat des Rates der Europäischen Gemeinschaften hinterlegt.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1996 in Artikel 5 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 5
+
+Dieses Übereinkommen bedarf der Ratifikation durch die Unterzeichnerstaaten. Die Ratifikationsurkunden werden beim Generalsekretär des Rates der Europäischen Union hinterlegt.“
+
+<sup>3</sup>) Das Inkrafttreten der Beitrittsübereinkommen ist in den folgenden Bestimmungen dieser Übereinkommen geregelt:
+
+- – hinsichtlich des Beitrittsübereinkommens von 1984 in Artikel 4 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 4
+
+Dieses Übereinkommen tritt für die Staaten, die es ratifiziert haben, am ersten Tag des dritten Monats in Kraft, der auf die Hinterlegung der letzten Ratifikationsurkunde durch die Republik Griechenland und sieben Staaten folgt, die das Übereinkommen über das auf vertragliche Schuldverhältnisse anzuwendende Recht ratifiziert haben.
+
+Für jeden Vertragsstaat, der das Übereinkommen später ratifiziert, tritt es am ersten Tag des dritten Monats in Kraft, welcher der Hinterlegung seiner Ratifikationsurkunde folgt.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1992 in Artikel 5 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 5
+
+Dieses Übereinkommen tritt für die Staaten, die es ratifiziert haben, am ersten Tag des dritten Monats in Kraft, der auf die Hinterlegung der letzten Ratifikationsurkunde durch das Königreich Spanien oder die Portugiesische Republik und einen der Staaten folgt, der das Übereinkommen über das auf vertragliche Schuldverhältnisse anzuwendende Recht ratifiziert hat. Für jeden Vertragsstaat, der das Übereinkommen später ratifiziert, tritt es am ersten Tag des dritten Monats in Kraft, welcher der Hinterlegung seiner Ratifikationsurkunde folgt.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1996 in Artikel 6 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 6
+
+(1) Dieses Übereinkommen tritt für die Staaten, die es ratifiziert haben, am ersten Tag des dritten Monats in Kraft, der auf die Hinterlegung der letzten Ratifikationsurkunde durch die Republik Österreich, die Republik Finnland oder das Königreich Schweden und durch einen Vertragsstaat folgt, der das Übereinkommen über das auf vertragliche Schuldverhältnisse anzuwendende Recht ratifiziert hat.
+
+(2) Für jeden Vertragsstaat, der das Übereinkommen später ratifiziert, tritt es am ersten Tag des dritten Monats in Kraft, welcher der Hinterlegung seiner Ratifikationsurkunde folgt.“
+
+<sup>4</sup>) Satz gestrichen gemäß dem Übereinkommen von 1992.
+
+<sup>5</sup>) Die Notifikation betreffend die Beitrittsübereinkommen ist in den folgenden Bestimmungen dieser Übereinkommen geregelt:
+
+- – hinsichtlich des Beitrittsübereinkommens von 1984 in Artikel 5 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 5
+
+Der Generalsekretär des Rates der Europäischen Gemeinschaften notifiziert den Unterzeichnerstaaten
+
+- a) die Hinterlegung jeder Ratifikationsurkunde;
+
+- b) die Tage, an denen dieses Übereinkommen für die Vertragsstaaten in Kraft tritt.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1992 in Artikel 6 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 6
+
+Der Generalsekretär des Rates der Europäischen Gemeinschaften notifiziert den Unterzeichnerstaaten
+
+- a) die Hinterlegung jeder Ratifikationsurkunde;
+
+- b) die Tage, an denen dieses Übereinkommen für die Vertragsstaaten in Kraft tritt.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1996 in Artikel 7 desselben Übereinkommens, der wie folgt lautet:
+
+### „Artikel 7
+
+Der Generalsekretär des Rates der Europäischen Union notifiziert den Unterzeichnerstaaten
+
+- a) die Hinterlegung jeder Ratifikationsurkunde;
+
+- b) die Tage, an denen dieses Übereinkommen für die Vertragsstaaten in Kraft tritt.“
+
+<sup>6</sup>) Buchstabe d geändert gemäß dem Beitrittsübereinkommen von 1992.
+
+<sup>7</sup>) Die Aufzählung der verbindlichen Wortlaute der Beitrittsübereinkommen ergibt sich aus folgenden Bestimmungen dieser Übereinkommen:
+
+- – hinsichtlich des Beitrittsübereinkommens von 1984 aus den Artikeln 2 und 6 desselben Übereinkommens, die wie folgt lauten:
+
+### „Artikel 2
+
+Der Generalsekretär des Rates der Europäischen Gemeinschaften übermittelt der Regierung der Republik Griechenland je eine beglaubigte Abschrift des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht in dänischer, deutscher, englischer, französischer, irischer, italienischer und niederländischer Sprache.
+
+Der griechische Wortlaut des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht ist dem vorliegenden Übereinkommen beigefügt. Der griechische Wortlaut ist gleichermaßen verbindlich wie die anderen Fassungen des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht.“
+
+### „Artikel 6
+
+Dieses Übereinkommen ist in einer Urschrift in dänischer, deutscher, englischer, französischer, griechischer, irischer, italienischer und niederländischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen verbindlich ist; es wird im Archiv des Generalsekretariats des Rates der Europäischen Gemeinschaften hinterlegt. Der Generalsekretär übermittelt der Regierung jedes Unterzeichnerstaates eine beglaubigte Abschrift.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1992 aus den Artikeln 3 und 7 desselben Übereinkommens, die wie folgt lauten:
+
+### „Artikel 3
+
+Der Generalsekretär des Rates der Europäischen Gemeinschaften übermittelt der Regierung des Königreichs Spanien und der Regierung der Portugiesischen Republik je eine beglaubigte Abschrift des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht in dänischer, deutscher, englischer, französischer, griechischer, irischer, italienischer und niederländischer Sprache.
+
+Der spanische und der portugiesische Wortlaut des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht sind dem vorliegenden Übereinkommen als Anhänge I und II beigefügt. Der spanische und der portugiesische Wortlaut sind gleichermaßen verbindlich wie die anderen Fassungen des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht.“
+
+### „Artikel 7
+
+Dieses Übereinkommen ist in einer Urschrift in dänischer, deutscher, englischer, französischer, griechischer, irischer, italienischer, niederländischer, portugiesischer und spanischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen verbindlich ist; es wird im Archiv des Generalsekretariats des Rates der Europäischen Gemeinschaften hinterlegt. Der Generalsekretär übermittelt der Regierung jedes Unterzeichnerstaates eine beglaubigte Abschrift.“;
+
+- – hinsichtlich des Beitrittsübereinkommens von 1996 aus den Artikeln 4 und 8 desselben Übereinkommens, die wie folgt lauten:
+
+### „Artikel 4
+
+(1) Der Generalsekretär des Rates der Europäischen Union übermittelt den Regierungen der Republik Österreich, der Republik Finnland und des Königreichs Schweden je eine beglaubigte Abschrift des Übereinkommens von 1980, des Übereinkommens von 1984, des Ersten Protokolls von 1988, des Zweiten Protokolls von 1988 und des Übereinkommens von 1992 in dänischer, deutscher, englischer, französischer, griechischer, irischer, italienischer, niederländischer, portugiesischer und spanischer Sprache.
+
+(2) Der finnische und schwedische Wortlaut des Übereinkommens von 1980, des Übereinkommens von 1984, des Ersten Protokolls von 1988, des Zweiten Protokolls von 1988 und des Übereinkommens von 1992 sind gleichermaßen verbindlich wie die anderen Wortlaute des Übereinkommens von 1980, des Übereinkommens von 1984, des Ersten und des Zweiten Protokolls von 1988 sowie des Übereinkommens von 1992.“
+
+### „Artikel 8
+
+Dieses Übereinkommen ist in einer Urschrift in dänischer, deutscher, englischer, finnischer, französischer, griechischer, irischer, italienischer, niederländischer, portugiesischer, schwedischer und spanischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen verbindlich ist; es wird im Archiv des Generalsekretariats des Rates der Europäischen Union hinterlegt. Der Generalsekretär übermittelt der Regierung jedes Unterzeichnerstaates eine beglaubigte Abschrift.“
+
+## PROTOKOLL <sup>8</sup>)
+
+DIE HOHEN VERTRAGSPARTEIEN haben folgende Bestimmung vereinbart, die dem Übereinkommen als Anhang beigefügt ist:
+
+„Ungeachtet der Vorschriften des Übereinkommens können Dänemark, Schweden und Finnland ihre innerstaatlichen Vorschriften beibehalten, die das Recht betreffen, das auf Fragen im Zusammenhang mit der Güterbeförderung zur See anzuwenden ist, und diese Vorschriften ohne Einhaltung des Verfahrens des Artikels 23 des Übereinkommens von Rom ändern. Hierbei handelt es sich um die folgenden innerstaatlichen Vorschriften:
+
+- – in Dänemark, die §§ 252 und 321 Abschnitte 3 und 4 des ,Solov\` (Schiffahrtsgesetz);
+
+- – in Schweden Kapitel 13 § 2 Absätze 1 und 2 sowie Kapitel 14 § 1 Absatz 3 des ,Sjölagen\` (Schiffahrtsgesetz);
+
+- – in Finnland Kapitel 13 § 2 Absätze 1 und 2 und Kapitel 14 § 1 Nummer 3 des ,merilaki/sjölagen\` (Schiffahrtsgesetz).“
+
+ZU URKUND DESSEN haben die hierzu befugten Unterzeichneten ihre Unterschriften unter dieses Protokoll gesetzt.
+
+GESCHEHEN zu Rom am neunzehnten Juni neunzehnhundertachtzig.
+
+### (Unterschriften der Bevollmächtigten)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>8</sup>) Wortlaut geändert gemäß dem Beitrittsübereinkommen von 1996.
+
+## GEMEINSAME ERKLÄRUNG
+
+Die Regierung des Königreichs Belgien, des Königreichs Dänemark, der Bundesrepublik Deutschland, der Französischen Republik, Irlands, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreichs der Niederlande und des Vereinigten Königreichs Großbritannien und Nordirland – im Augenblick der Unterzeichnung des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht –
+
+I. in dem Bestreben, die Aufteilung der Kollisionsnormen auf zahlreiche Rechtsinstrumente und Unterschiede zwischen diesen Normen soweit irgend möglich zu vermeiden, wünschen, daß sich die Organe der Europäischen Gemeinschaften in Ausübung der ihnen auf Grund der Verträge zur Gründung der Europäischen Gemeinschaften gegebenen Zuständigkeiten bemühen, gegebenenfalls Kollisionsnormen anzunehmen, die soweit wie möglich mit denen des Übereinkommens in Einklang stehen;
+
+II. erklären ihre Absicht, von der Unterzeichnung des Übereinkommens an, solange sie nicht durch Artikel 24 des Übereinkommens gebunden sind, in den Fällen gegenseitige Konsultationen vorzunehmen, in denen einer der Unterzeichnerstaaten Vertragspartei eines Übereinkommens werden will, auf das das Verfahren des Artikels 24 Anwendung findet;
+
+III. äußern in Erwägung des Beitrags, den das Übereinkommen über das auf vertragliche Schuldverhältnisse anzuwendende Recht zur Vereinheitlichung der Kollisionsnormen innerhalb der Europäischen Gemeinschaften leistet, die Ansicht, daß jeder Staat, der Mitglied der Europäischen Gemeinschaften wird, diesem Übereinkommen beitreten müßte.
+
+ZU URKUND DESSEN haben die hierzu befugten Unterzeichneten ihre Unterschriften unter diese gemeinsame Erklärung gesetzt.
+
+GESCHEHEN zu Rom am neunzehnten Juni neunzehnhundertachtzig.
+
+### (Unterschriften der Bevollmächtigten)
+
+## GEMEINSAME ERKLÄRUNG
+
+Die Regierung des Königreichs Belgien, des Königreichs Dänemark, der Bundesrepublik Deutschland, der Französischen Republik, Irlands, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreichs der Niederlande und des Vereinigten Königreichs Großbritannien und Nordirland –
+
+im Augenblick der Unterzeichnung des Übereinkommens über das auf vertragliche Schuldverhältnisse anzuwendende Recht,
+
+in dem Wunsch, eine möglichst wirksame Anwendung dieses Übereinkommens zu gewährleisten,
+
+in dem Bestreben zu verhindern, daß durch unterschiedliche Auslegung die durch dieses Übereinkommen angestrebte Einheitlichkeit beeinträchtigt wird –
+
+erklären sich bereit:
+
+- 1\. die Möglichkeit zu prüfen, dem Gerichtshof der Europäischen Gemeinschaften bestimmte Zuständigkeiten zu übertragen und gegebenenfalls über den Abschluß eines derartigen Übereinkommens zu verhandeln;
+
+- 2\. ihre Vertreter in regelmäßigen Zeitabständen miteinander in Verbindung treten zu lassen.
+
+ZU URKUND DESSEN haben die hierzu gehörig befugten Unterzeichneten ihre Unterschriften unter diese gemeinsame Erklärung gesetzt.
+
+GESCHEHEN zu Rom am neunzehnten Juni neunzehnhundertachtzig.
+
+### (Unterschriften der Bevollmächtigten)

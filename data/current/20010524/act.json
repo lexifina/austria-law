@@ -1,0 +1,798 @@
+{
+  "sample_only": false,
+  "included_provisions": 17,
+  "source_provision_count": 17,
+  "schema_version": 1,
+  "gesetzesnummer": "20010524",
+  "short_title": "Prüfung lohnabhängiger Abgaben und Beiträge",
+  "abbreviation": "PLABG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40223729",
+    "valid_from": "2020-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010524&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:57:41.272398+00:00",
+    "response_sha256": "232251346bec55a082377c643953dd63e2d2b92c69f5600a35785210b2518e95",
+    "snapshot_sha256": "71d5e3c791e685eb174fc722596f3cfbac930d95177b1d039072555eabb27704",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfef0461bb7e8ecd5d84d6997d320412c64e6c45c185d261e10bfa47f53031a5",
+      "sha256": "7341182af13b77c2756159b9f646dc2b6dc922abae2c4d947aeb4a5de01df603",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Prüfung lohnabhängiger Abgaben und Beiträge (PLABG) StF: BGBl. I Nr. 98/2018 (NR: GP XXVI RV 328 AB 425 S. 53. BR: 10070 AB 10087 S. 887.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.) BGBl. I Nr. 5/2020 (VfGH) BGBl. I Nr. 54/2020 (NR: GP XXVII IA 480/A AB 171 S. 34. BR: 10326 AB 10347 S. 907.) BGBl. I Nr. 99/2020 (NR: GP XXVII RV 110 AB 173 S. 32. BR: 10323) BGBl. I Nr. 108/2022 (NR: GP XXVII RV 1534 AB 1585 S. 168. BR: 11010 AB 11044 S. 943.) [CELEX-Nr.: 32021L0514]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 98/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/98"
+        },
+        {
+          "text": "RV 328",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/328"
+        },
+        {
+          "text": "AB 425",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/425"
+        },
+        {
+          "text": "10070",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10070"
+        },
+        {
+          "text": "AB 10087",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10087"
+        },
+        {
+          "text": "887",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/887"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        },
+        {
+          "text": "IA 985/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/A/985"
+        },
+        {
+          "text": "AB 692",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/692"
+        },
+        {
+          "text": "S. 88.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/88"
+        },
+        {
+          "text": "AB 10252",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10252"
+        },
+        {
+          "text": "S. 897.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/897"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/5"
+        },
+        {
+          "text": "BGBl. I Nr. 54/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/54"
+        },
+        {
+          "text": "IA 480/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/480"
+        },
+        {
+          "text": "AB 171",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/171"
+        },
+        {
+          "text": "S. 34.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/34"
+        },
+        {
+          "text": "10326",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10326"
+        },
+        {
+          "text": "AB 10347",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10347"
+        },
+        {
+          "text": "S. 907.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/907"
+        },
+        {
+          "text": "BGBl. I Nr. 99/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/99"
+        },
+        {
+          "text": "RV 110",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/110"
+        },
+        {
+          "text": "AB 173",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/173"
+        },
+        {
+          "text": "S. 32.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/32"
+        },
+        {
+          "text": "10323",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10323"
+        },
+        {
+          "text": "BGBl. I Nr. 108/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/108"
+        },
+        {
+          "text": "RV 1534",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1534"
+        },
+        {
+          "text": "AB 1585",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1585"
+        },
+        {
+          "text": "S. 168.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/168"
+        },
+        {
+          "text": "11010",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11010"
+        },
+        {
+          "text": "AB 11044",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11044"
+        },
+        {
+          "text": "S. 943.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/943"
+        },
+        {
+          "text": "32021L0514",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32021L0514:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Prüfdienst für Lohnabgaben und Beiträge",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einrichtung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Organisation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfung lohnabhängiger Abgaben und Beiträge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zurechnung und Fachaufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Prüfungsbeirat beim Bundesminister für Finanzen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einrichtung des Prüfungsbeirats",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben des Prüfungsbeirats",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sitzungen des Prüfungsbeirats",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Verfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationsaustausch",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Datenschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenverarbeitung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschlechtsneutrale Bezeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personalaufwand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise auf andere Bundesgesetze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6134b86a41da4a73a4bcf3fc52728df199a3f197b854bd114d4c7be67f26ad5a",
+      "sha256": "5766b2fc88e9e339bed1ee3738dbda64fde452bfa89a3108fd9dd298d024ae83",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Organisation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e04b0de587b70c1d526f3cad15181a2fe0a9eec9b284c05fdecf915a8a06f736",
+      "sha256": "51ee0acbef12aad974f41810a1b58f7b298d08a1dee9bd8a4a3cfa4174325413",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Aufgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0516bb01c082f021428d36f56ce3ba3e69b3a10b022daa951813465bdf68905f",
+      "sha256": "cbd51e65793c895ea2c049b60331c3e48b46913f71852ced43490ad4ad8de5e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Prüfung lohnabhängiger Abgaben und Beiträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "450b0d7ef9153ae894f2f07d94d1d98c8cb8fdcfc5d032a55277e1ae2a19a672",
+      "sha256": "67d82665d2a73abc71eaf1e6f55c0ce984434d0ff0c640f90828bb8cc299d332",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 400/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 819/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_819_0/1993_819_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Zurechnung und Fachaufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f559d665ac9a749749833f6b973ef7afcd5eb5592cdc8f8d7b18fcd6d009466c",
+      "sha256": "a866d17e9b382d6eb594875a4d463e9e66bbcd660e1542c38f868bdc4156d3bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "2. Abschnitt Prüfungsbeirat beim Bundesminister für Finanzen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "caf53f820de18474cb828a38c4a42b582d833be44af6b5b1d709a836d1c9998f",
+      "sha256": "e40a06ba2a5424d1d1b4ff95a2dfaa1f5cd02b165cb9d9617f0408f943e6a58b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Aufgaben des Prüfungsbeirats",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7bde85fe39da5dd967442dbc9acf1c984757a331107c9c9243145e59710af886",
+      "sha256": "8505f7ed3a1af3cc6c74ebec890c3f6ba49188fe320b6bda86539ebfecf20fbb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Sitzungen des Prüfungsbeirats",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b4bf6919a1c62dcc48b80369f79f4834124bb084c66813b50ed0476ab523cf6",
+      "sha256": "7a3c48822cda2d21ddd8c88dc02564c04ab3fc7d506b170b4fb623e322c5d43d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "3. Abschnitt Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5a2e2d1196e9871c3b443d340c2e92991e5a763522bf5d39a21b15393fe9bf3f",
+      "sha256": "8cf968baeb80acd0dd04ed0cf6b613790b91b762011cacc3b1d9a9f379353d9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Informationsaustausch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "790e90b9cb270af844539dcd2e26b88c13a6f11efb7f485d67cda67322f35d59",
+      "sha256": "d1fee575d8c0519878281b2c5a409d0053da478faac711b57dd02ef63ff6b171",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "4. Abschnitt Datenschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c20040d276477df2cb9409d34e5ad7a13c804d430e781e9f6ca27369fc746bd3",
+      "sha256": "62b3a4c2f4e81e755cb16abcf29449668a142abd13a7caf3131b8e36488cade3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "5. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b4af09050e525d15c013b81ffcd44bb74ab63471b63c34cf20d712096c9f316",
+      "sha256": "76f697e5507c221040288ef96fc2e5fd18863e08deacee80612ebca3c4cf6db0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Verweise auf andere Bundesgesetze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ff4297c2878232e2920b04892ca9ccf95a3a0d1db422b579c0ac1ec336bd1a13",
+      "sha256": "4fee554d2ba013c17ea69591d7023e293d7f22f41b9d65d0f5b21f27d46c873b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d259612b816ef264f02d6962be63fab1bd9c7c3c23140e31ba9e4dc5728cfcb0",
+      "sha256": "e60518d79e7b7f00ccaddba91512901770b435677c35dfc74e9d8eda287d5274",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d84404ed01ce3d33cfbf4ee11baa01375c79c66c9b66ce3a753c27bbb9a9c0c3",
+      "sha256": "29b2864bf411b43f4fa46a653fda224ab5d47cc85fe9aed241eb99c48a28cf86",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b17cf77048fa3d07f08a199390ab560c2bb76798624835a9fa50e0d80c4f4d12",
+      "sha256": "242cbb97c47dcdd10512bf98c727b7598e92259696a9a4ad171a854afd3fdeee",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        },
+        {
+          "text": "BGBl. I Nr. 54/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/54"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

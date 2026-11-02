@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über Anforderungen an die Energieeffizienz von elektrischen Haushaltskühl-, -tiefkühl- und -gefriergeräten und entsprechenden Kombinationen (Kühlgeräte-Energieeffizienzverordnung) StF: [BGBl. II Nr. 316/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_316_2/1997_316_2.pdf>) \[CELEX-Nr.: [396L0057](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0057:DE:HTML>)\]
+
+Auf Grund des § 8 Abs. 4 des Elektrotechnikgesetzes 1992 – ETG 1992, [BGBl. Nr. 106/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_106_0/1993_106_0.pdf>), wird verordnet:

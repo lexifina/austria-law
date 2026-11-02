@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003137",
+  "short_title": "Errichtung einer sechsten Notarstelle in Klagenfurt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003163",
+    "valid_from": "1993-06-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003137&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:50.610701+00:00",
+    "response_sha256": "17df93505fdad2207ecc3863264b0f2cd29a3be002321384a98569ac675b89ed",
+    "snapshot_sha256": "04581a36272668787450b3188e55d628cd80e07ca1257e7c0c8fef34b33c99bc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a8929678d2095c1e7860305d25644eb25a2aaf7f229a0048c7b22d73a6b9fff",
+      "sha256": "012d01b72934bc8b79d00712a465c25e49bec4e1223fb695b13d717a66701493",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer sechsten Notarstelle in Klagenfurt StF: BGBl. Nr. 386/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 386/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_386_0/1993_386_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3f8eb82a8fbeed869a6a552361275a02bc8b4b6331cd5396261c4b837ca41cc",
+      "sha256": "11b821badaba9868876e11dcf8c391cf18b8510d666389dd40a3cc27976e0112",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

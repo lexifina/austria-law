@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. Februar 1929, betreffend die Hinterlegung der Ratifikationsurkunde der Tschechoslowakischen Republik zum Übereinkommen über die Eichung der Binnenschiffe StF: [BGBl. Nr. 91/1929](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=91/1929&amp;SkipToDocumentPage=True>)

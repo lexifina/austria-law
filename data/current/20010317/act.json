@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20010317",
+  "short_title": "59. Nachtrag zum Arzneibuch",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40208131",
+    "valid_from": "2018-09-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010317&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:52:14.803007+00:00",
+    "response_sha256": "c36442de190846f0298366d485c1c40b7dbb50333e28d750ad1fb824cd6ddd07",
+    "snapshot_sha256": "1b7a2306e95d51c60929c748b49b41483d5c9774b2cd0ece52d712650f8ce19e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2f1689ae92a05709788bd53ed342813e092c535f836085896da66ab7fa2efc82",
+      "sha256": "0dd997e18115ff3a8fa0effe70b69a8cd9c4da3814f9ecd13f649f5f7cfaf136",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über den 59. Nachtrag zum Arzneibuch StF: BGBl. II Nr. 255/2018"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 255/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/255"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/44"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1e5e183a00aa0cf5d477940043a67b85bb86996d71d46678f9584f62b1ba73e",
+      "sha256": "e037e124cf85c5b7b3e2c0322220ff3ffc9b0c1dfc94fad45505e40e3d323221",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0b4f9ed2af5bd794fc74b1d1a174419dc6946da3f7e0fc579b18a546fcb18e17",
+      "sha256": "dbb7ba2520d00beae1a9c9e074bba7b880c38132e2eba47593d6e7e6402bdfd1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

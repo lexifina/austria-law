@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 21. Mai 1964 über den Geltungsbereich des Vierten Zusatzprotokolls zum Allgemeinen Abkommen über die Privilegien und Immunitäten des Europarates. StF: [BGBl. Nr. 122/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_122_0/1964_122_0.pdf>)

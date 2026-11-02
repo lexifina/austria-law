@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 9. Dezember 1964, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der vermögensrechtlichen Angelegenheiten der ehemaligen Landkreise in Österreich. StF: [BGBl. Nr. 289/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_289_0/1964_289_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 12. Dezember 1963, K II-5/63-17, dem Bundeskanzleramt zugestellt am 3. Dezember 1964, zusammengefaßt hat:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000230",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000231",
+    "valid_from": "1950-08-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000230&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:24:40.728794+00:00",
+    "response_sha256": "a2d07065bbcd794980223867f0894cde27b5195dadd9f1032902360cf7d33ae6",
+    "snapshot_sha256": "ce5f8c1a885aaf6c34a0bdf7f5ce27a88a7e4bd061caa642816907123c84d517",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f607b0690c6bffe110a5c46aac1039013f026d12302262335887e0a3fa449174",
+      "sha256": "63044991b71e72c4b3996ce9d30e26cda8e0a61bc5f2b3b1923e427e19f96181",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 22. Juli 1950, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Vollziehung in Angelegenheiten der Heil- und Pflegeanstalten. StF: BGBl. Nr. 158/1950"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 158/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_158_0/1950_158_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2cabfba5e6891570725cf3c5bac672f0ba56aa433eceee5d8bd20f5498fe90bd",
+      "sha256": "b1001821a9f9105329216e1a92b5a6585494b37e23a04590e317c8d63ca4b893",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001817",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001839",
+    "valid_from": "1933-11-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001817&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:10.540189+00:00",
+    "response_sha256": "681e061c2438b8cd6f9e783ef6fa26ccf497260a7e28f20f99b2f85d4f8173fd",
+    "snapshot_sha256": "788b2f43db5f539f2a8ce06ab289ae9635aa3d92e62b945139f2d55d869f6c2b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9df24f3b867b6a036811dfb90fc567d587dc2bff9e0102c8d622c6e6b93e16fe",
+      "sha256": "fdfdcd7f04f36f8169ea9b93c447280178b600be93bd497a19b44626ed3cc409",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 22. November 1933, betreffend die Ausdehnung des Geltungsbereiches des österreichisch-britischen Rechtshilfeabkommens. StF: BGBl. Nr. 516/1933"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 516/1933",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=516/1933&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7bca483c2965910788a6dfd0b45db53f838252eb2f6a92be1204419a8e5ee56b",
+      "sha256": "4a333003d1c882987a1e06292d243929a393f49ba95c2006ca84af0c9e7bc4e5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen vom 29. Juni 1989 über die Pauschalierung einer Aufwandsentschädigung für Betriebsprüfer-Zoll und für Hausbeschauen außerhalb der vorgeschriebenen Dienstzeit sowie für Bedienstete im Bereich der Kontrolle der illegalen Ausländerbeschäftigung (KIAB) StF: [BGBl. Nr. 403/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_403_0/1989_403_0.pdf>)
+
+Nach § 20 in Verbindung mit § 15 Abs. 2 des Gehaltsgesetzes 1956, BGBl. Nr. 54, in der Fassung der 24. Gehaltsgesetz-Novelle, [BGBl. Nr. 214/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_214_0/1972_214_0.pdf>), wird mit Zustimmung des Bundesministers für Gesundheit und öffentlicher Dienst verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001904",
+  "short_title": "Pariser Verbandsübereinkunft (Londoner Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001927",
+    "valid_from": "1950-02-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001904&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:54:12.929994+00:00",
+    "response_sha256": "d84819d7f82659c9b2ad7e1af674f7912c141dfa86b47693dd40a25edc9d2326",
+    "snapshot_sha256": "1d62fe6832a67ec8c8c9304234e0b99282f43c9f982e71d962716ce901b33f3f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2988b036e1f50d022ef3ec9fea21842a0cc05a2245b9e1eaebec5d3cbc088a47",
+      "sha256": "eaaa46eed77433b0d0c41c4fce7eaff26c4a1e53490fe3b93af4c4d27225918c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. Dezember 1949, betreffend den Beitritt Portugals zum Pariser Unionsvertrag zum Schutze des gewerblichen Eigentums und zum Madrider Abkommen, betreffend die internationale Registrierung von Fabriks- oder Handelsmarken, beide in der Londoner Fassung 1934, sowie den Beitritt der Kolonie Singapur zum Pariser Unionsvertrag zum Schutze des gewerblichen Eigentums in der Londoner Fassung 1934. StF: BGBl. Nr. 39/1950"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 39/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_39_0/1950_39_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f45bdf21bb2ccc92234b6a6108d160fa8cf0b46c962fe14db1736d7c1f84035",
+      "sha256": "59b6dadd02096886ed454ddaec0b069f07c79f99460369ad76f5f09e413c9009",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

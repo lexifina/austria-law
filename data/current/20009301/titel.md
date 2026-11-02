@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA), mit der ein Höchstzinssatz für die Berechnung der versicherungstechnischen Rückstellungen in der Lebensversicherung festgesetzt wird (Versicherungsunternehmen-Höchstzinssatzverordnung – VU-HZV) StF: [BGBl. II Nr. 299/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/299>)
+
+Auf Grund des § 139 Abs. 1 in Verbindung mit Abs. 2 Z 2 und 3 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, [BGBl. I Nr. 34/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

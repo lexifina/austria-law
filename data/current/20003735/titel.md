@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 18. Oktober 1983 betreffend den Geltungsbereich der Satzung der Weltgesundheitsorganisation StF: [BGBl. Nr. 512/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_512_0/1983_512_0.pdf>)

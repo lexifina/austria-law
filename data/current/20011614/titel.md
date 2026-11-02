@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die Begründung von Vorbelastungen durch den Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz genehmigt wird StF: [BGBl. I Nr. 141/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/141>) (NR: GP XXVII [IA 1778/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/1778>) [AB 955](<https://www.parlament.gv.at/gegenstand/XXVII/I/955>) S. 117. BR: [10691](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10691>) [AB 10728](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10728>) S. [928](<https://www.parlament.gv.at/gegenstand/BR/I-BR/928>).)
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010381",
+  "short_title": "Errichtung einer zweiten Notarstelle in Bregenz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209368",
+    "valid_from": "1947-05-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010381&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:20.633287+00:00",
+    "response_sha256": "698a93582994a0568e2206f2eeade7002b474c40ca92f4f4382d0f9ab95c4da0",
+    "snapshot_sha256": "b3ae089cbcc2c65dab264ff65d575b98cacbad7a9dcc3f3e4f05f4d368d0fa4e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "28e81d538ab7af5ac40f3a639bdef89e6358bab36cf83c75b7f61e1653e10319",
+      "sha256": "fd3926e85aff69bfb9657e214520179a99f85bb2271cbdabcb5104fc18d6d9b8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Justiz vom 8. März 1947 über die Errichtung einer zweiten Notarstelle in Bregenz. StF: BGBl. Nr. 89/1947"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 89/1947",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_89_0/1947_89_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a5f2a0d14b15c14cd4a8192550282eab220e7163bcbf5c8d426c536f57417e5",
+      "sha256": "11a0424f67ad4a11c5a1f787bd4e4a43a9f9205365fc3fc1dcd356abe0a1112d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

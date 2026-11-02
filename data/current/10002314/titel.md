@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 13. Mai 1974 betreffend die Erklärung der Deutschen Demokratischen Republik über die Wiederanwendung des Übereinkommens vom 17. Juli 1905 betreffend das Verfahren in bürgerlichen Rechtssachen StF: [BGBl. Nr. 311/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_311_0/1974_311_0.pdf>)

@@ -1,0 +1,17 @@
+## Artikel II
+
+## (Übergangsbestimmungen)
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Von Art. I Z 2 (§ 1a Abs. 4a) sind Fahrzeuge ausgenommen, wenn sie vor Inkrafttreten dieser Verordnung bereits genehmigt worden sind. Sie müssen aber den bisherigen Vorschriften entsprechen.
+
+(2) Von Art. I Z 3 (§ 1b Abs. 2) sind zwei- und dreirädrige Kraftfahrzeuge ausgenommen, wenn sie vor Inkrafttreten dieser Verordnung bereits genehmigt worden sind. Sie müssen aber den bisherigen Vorschriften entsprechen.
+
+(3) Von Art. I Z 4 (§ 1d Abs. 1) sind Fahrzeuge der Klasse M ausgenommen, wenn sie als Type vor dem 1. 1. 1996, oder einzeln vor dem 1. 1. 1997 genehmigt worden sind. Solche Fahrzeuge dürfen nach dem 1. 1. 1997 aber nicht mehr erstmals zum Verkehr zugelassen werden.
+
+(4) Von Art. I Z 10 (§ 10 Abs. 8) sind zwei- und dreirädrige Kraftfahrzeuge ausgenommen, wenn sie vor Inkrafttreten dieser Verordnung bereits genehmigt worden sind. Sie müssen aber den bisherigen Vorschriften entsprechen.
+
+(5) Von Art. I Z 21 (§ 54a Abs. 2) sind Fahrzeuge ausgenommen, wenn sie vor Inkrafttreten dieser Verordnung bereits genehmigt worden sind. Sie müssen aber den bisherigen Vorschriften entsprechen.
+
+(6) Begutachtungsplaketten, die nicht dem Art. I Z 17 (§ 28a Abs. 3), Z 18 (§ 28a Abs. 3a) und Z 24 (Anlage 4c) entsprechen, dürfen noch bis längstens 31. August 1996 ausgegeben oder an Fahrzeugen angebracht werden. Solche Begutachtungsplaketten dürfen weiters noch für einen Zeitraum bis zu 16 Monaten nach dem letztmöglichen Ausgabe-(Anbringungs-)Termin an Fahrzeugen angebracht sein (31. Dezember 1997). Bei Anhängern, die wiederkehrend zu begutachten sind, bestimmt sich dieser Termin nach dem Zeitpunkt der nächstfälligen Begutachtung (§ 57a Abs. 3 KFG 1967).

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über den Ersatz der Kosten der Anbieter für die Mitwirkung an der Auskunft über Daten einer Nachrichtenübermittlung, der Auskunft über Vorratsdaten und der Überwachung von Nachrichten (Überwachungskostenverordnung – ÜKVO) StF: [BGBl. II Nr. 322/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/322>)
+
+Auf Grund des § 94 Abs. 2 des Telekommunikationsgesetzes 2003, BGBl. I Nr. 70, wird im Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie, dem Bundesminister für Finanzen, dem Bundesminister für Inneres und dem Bundesminister für Landesverteidigung verordnet:

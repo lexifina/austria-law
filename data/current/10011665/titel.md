@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 27. Oktober 1987 betreffend den Geltungsbereich des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation „EUTELSAT'' StF: [BGBl. Nr. 551/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_551_0/1987_551_0.pdf>)

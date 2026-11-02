@@ -1,0 +1,579 @@
+{
+  "sample_only": false,
+  "included_provisions": 23,
+  "source_provision_count": 23,
+  "schema_version": 1,
+  "gesetzesnummer": "20009743",
+  "short_title": "Schweinegesundheitsverordnung",
+  "abbreviation": "SchwG-VO",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40188767",
+    "valid_from": "2017-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009743&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:39:44.876243+00:00",
+    "response_sha256": "63fd8358d592e054feff69737b15bb621263f2e2790f4bb31f505569d48123fe",
+    "snapshot_sha256": "89e1c95eaa96793c28aaa0555b8abd74ab17172e6f8449b6be1fa40afa054eab",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2f1aaf973bc687cfcd70c11026ce9267b9f26a9d65c793d19f9043cef4653169",
+      "sha256": "19b519bdba021657a06a6eea6998c53955ae1f35e74de18cf1621541ffccd10b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit und Frauen über Biosicherheitsmaßnahmen, hygienische Anforderungen und die Gesundheitsüberwachung in Schweinehaltungsbetrieben (Schweinegesundheitsverordnung – SchwG-VO) StF: BGBl. II Nr. 406/2016"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 405/2021"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 406/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/406"
+        },
+        {
+          "text": "BGBl. II Nr. 405/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/405"
+        },
+        {
+          "text": "BGBl. I Nr. 133/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_133_1/1999_133_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 80/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/80"
+        },
+        {
+          "text": "BGBl. Nr. 76/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 43/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/43"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "137a34a48c97bf612aca7f2f0c56457ee194f4b0270756e80f1a7461922cc7b6",
+      "sha256": "7d72f67ba2ee72fcffe582002af33939c412fc4e8dbd67024a47a21e57e38661",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7f5cd91d6f4d7f124b24d30b5ac75a239f4ecec9f9dea6e90424ad0819fab7a",
+      "sha256": "789d7497dd51cfe040cd0157b68a209507d3ea60b863845ead7af1b8b6a0d144",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 177/1909",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=177/1909&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 163/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/163"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Hauptstück Anforderungen an die Schweinehaltung und Biosicherheitsmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c995f09b9bb511ec97fec0e6524e04d48d9721ad9b0ca9e5a500b5804817bb5",
+      "sha256": "b5c1892dae2cc8b29386a1210719e3768634c9262b6e156de3c111d2133439db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Anforderungen an Freilandhaltungen und andere besondere Haltungsformen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8639b6afa879321a2b41a6a954898144033006d4e67ff2416e0a5690e41c5506",
+      "sha256": "32b52a96e892a088e65166945583f47fe99040fd836e23f8604188ec0aae9487",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Genehmigungspflichtige Haltungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "427455ecbd0b7db1a6652d9db01c045f3c6d3e6b21bc8dc5f9f4f1b00df14826",
+      "sha256": "6644e1f7622d71d022819ec919cd63dbd1399b80403a2441557904c2da6da8cc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Betriebseigene Kontrollen und Hygienemaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "229169dc33b7799a2e54390a95627221a27ce3c46061728446093d583cdabc65",
+      "sha256": "055bec6420d0259461846059ac62d4d9dcd155584e65a8ad16f202b686c6236b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Betreuungstierärztinnen und Betreuungstierärzte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b8f199d4de7e15011f605043106a81fb577745dee2a5152365f32488016e3d10",
+      "sha256": "bae86a9d2213d1d049e37d5682574852c5a59736bd8985987cd90256e0f35923",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 434/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/434"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Tierärztliche Bestandsbetreuung und besondere Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b92d7ff08224c52f08c1b62a3ece1e1c49c0055c6957aafd0f328dd6271a3d52",
+      "sha256": "1f004cf4e68f7f56dc3938bd12c9d92c31fd128ec745585a52a7fb1b2d156b73",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Zusätzliche Anforderungen an Zuchtbetriebe und kombinierte Betriebe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c9e82db3e70d141aef5a04a22e7583ed8ed3b8f9afc24951ea18b17884d81a4",
+      "sha256": "0f138069e9aad283440a95a088c963ed3c57c9b4f25d78299398b10a63ffb641",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Amtliche Beaufsichtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4306b21492fe9835aba0510cbcc4380934431b987ff1ae0fcc2d2139ac5d575",
+      "sha256": "46b4dd1b868c71b4b4acffcb1388b87f8605dd39bc7928a7d70150889bad94f2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Behördliche Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c18e0f9e54a492b81254d09eae24ce22bb813980a101c79f1619b47e4691cdc",
+      "sha256": "a2cdf7e1010896a85c3d68d894f30e926c4bbecd5b328e5cf4c5b5b189c2af6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Amtliche Anerkennung kontrollierter Haltungsbedingungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f264a73766a85098782a353d680798c0c01b4b76cab880c1270f665fe83f60e5",
+      "sha256": "f7287dea8bfe0331212b84d187b49748382c883c46a07999d1cd463bdd955bc8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "3. Hauptstück Überwachung der Tiergesundheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34678646d4a99207877cf1b81e16cb59bd8f8abe45c6886ba777d57a676ef62a",
+      "sha256": "c810b8367691b221a99bd5b0a362a810a9a4d806603675518c9c5affc6f8b35b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Probenahme und Rückverfolgbarkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91a4101d48473bb079d296d8d4af43e0c03dbf7c855ecc8124b7b1d939e97f79",
+      "sha256": "0f00d0f63d01fb5f59ab4d53910d64eb7995d67495bed23dd79dec9ba5727005",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "4. Hauptstück Evaluierungsmaßnahmen, Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9275eaa3bfc2eef87d167095c958401759a0e593f16bcddb224c0006c57517ea",
+      "sha256": "04c30c1008c485e9ae52c449c45304e27c0f0bea9b26eabfce17015f529041b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Übergangsregelungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c1de386ca5b50f907aae38c26c961a8de1d8596de6c01d321fe36fe06a532ac",
+      "sha256": "7c256bed9d287f577ea8c86e04dfb9aad550bff7c3e7ceeaed7caf9d73b5a9b2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Inkrafttreten, Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e89f9c2c38c672628f506d3de8992ce1193924cd9f869fb79cbc47386ccdd6ec",
+      "sha256": "ec19c3b5c5d1f245951bbbaa200e4ffcc40c982c4cd9761747fc8b41117aa6e0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 405/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/405"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d3aa6cb2b878bd0e1cf112b36dffebb180035859fdf774a167db3f64157576f",
+      "sha256": "ae66289cc14a739f13dc5f255590575d72db8ae3b0542c6315ee7406de6fa2b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "daa57bc2f8cd81d9e3c69ea0d7edf48c02f47995cbd84fb2dcac9cd354d0cf47",
+      "sha256": "3fb7dcb10c9bec4f306aba4adf44ddb665716eb7c075281b556eaed7790c33b5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 405/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/405"
+        },
+        {
+          "text": "BGBl. II Nr. 405/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/405"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anhang 3 Allgemeine Anforderungen an Freilandhaltungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34819795e347694f14a9a3d9c43da87ba9dec5a5223301cabeb90a5f236c71ce",
+      "sha256": "edbcb6fe8481c9c0cb599b5f87cae967d228b63b3010f9fcadafaada7d189d0b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 405/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/405"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anhang 4 Anforderungen an besondere Haltungsformen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a976a99d38110201925e83eb59118e149a1a434a93636d1b2aa55b4832c4a6f8",
+      "sha256": "a184149e97185d7a7d16355c71f313a16414fb8be6df1b238e8c2b95a7feef9e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 5",
+      "source_heading": "Anhang 5 Überwachungspflichtige Krankheiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "anl-5.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f10b5ee9bfc6e80bba7a6ce9c7689fabafd9694fda26e1ff30ffdb8360e6027b",
+      "sha256": "4ddd4182ef0e1a9e0ce00c90447ebd731aa2b8932aa02f8c109a8e4d6204176b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

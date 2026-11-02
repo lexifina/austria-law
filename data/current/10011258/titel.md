@@ -1,0 +1,5 @@
+Übereinkommen zwischen der österreichischen Bundesregierung und der italienischen Regierung über den erleichterten Eisenbahndurchgangsverkehr für Personen, Reisegepäck und Güter zwischen österreichischen Bahnhöfen nördlich der Staatsgrenze bei der Station Brenner (Brennero) und österreichischen Bahnhöfen östlich der Staatsgrenze bei der Station Innichen (San Candido) über Italien StF: [BGBl. Nr. 226/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_226_0/1949_226_0.pdf>) idF [BGBl. Nr. 263/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_263_0/1949_263_0.pdf>) (DFB)
+
+Die ÖSTERREICHISCHE BUNDESREGIERUNG und die ITALIENISCHE REGIERUNG haben in der Absicht, die Bestimmungen des § 3, Punkt c, des österreichisch-italienischen Abkommens von Paris vom 5. September 1946, betreffend den Personen- und Güter-Eisenbahndurchgangsverkehr zwischen Nordtirol und Osttirol über italienisches Gebiet zu verwirklichen, folgendes vereinbart:
+
+Auf Grund dieses Notenwechsels ist das Übereinkommen mit 15. November 1948 in Kraft getreten.

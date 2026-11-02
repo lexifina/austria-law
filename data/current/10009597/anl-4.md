@@ -1,0 +1,9 @@
+## Anlage
+
+## VORLÄUFIGER FÄLLIGKEITSPLAN FÜR DIE KONZENTRIERTE AKTION “KÜNSTLICHE INTELLIGENZ UND MUSTERERKENNUNG” (COST-AKTION 13) POSTEN 7702 “GEMEINSCHAFTLICHE AKTIONEN ZUR ENTWICKLUNG DER INFORMATIK”
+
+(Anm.: Anlage als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: Anlage](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12121731/488_1986_Anlage.pdf>)

@@ -1,0 +1,1 @@
+Bundesgesetz vom 5. April 1930 zum Schutz der Arbeits- und der Versammlungsfreiheit. StF: [BGBl. Nr. 113/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=113/1930&amp;SkipToDocumentPage=True>) (NR: GP III 374 AB 475 S. 127 u. 128.)

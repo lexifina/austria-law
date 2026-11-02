@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem das Bundesgesetz zur Abmilderung von Krisenfolgen und zur Verbesserung der Marktbedingungen im Falle von marktbeherrschenden Energieversorgern erlassen wird StF: [BGBl. I Nr. 73/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/73>) (NR: GP XXVII [IA 4073/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/4073>) [AB 2577](<https://www.parlament.gv.at/gegenstand/XXVII/I/2577>) [S. 266.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/266>) BR: [AB 11501](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11501>) [S. 968.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/968>))
+
+Der Nationalrat hat beschlossen:

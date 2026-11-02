@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002447",
+  "short_title": "Hafner-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002685",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002447&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:46:47.237317+00:00",
+    "response_sha256": "42e0ee6125ece8f2acb4c526ad1432cfebce91ddfb297d043e6340541c4dde9d",
+    "snapshot_sha256": "e477c00f9b6584391023f9d24fa2cb56c4aefc4c9b22c3281bd37dc0626df8a6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29f0ccdcfbc226599106e7ab670c8feafacaab0de5d48a94a7a0a516599b41c6",
+      "sha256": "6c14d121b72ae311f8b973a88e30ce8b1f02b0e2453549e3f01d5ace383c6903",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das Handwerk der Hafner (Hafner-Verordnung) StF: BGBl. II Nr. 55/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 399/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 55/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_55_2/2003_55_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 399/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/399"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c4d82be496d09202ff7d28afbcc8b377e38300f59422957ac91763301b20762",
+      "sha256": "d7bccae2f08311997689a5d426449fa14effdfed87c0c01c930e27938e40c9af",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

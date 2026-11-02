@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002828",
+  "short_title": "Errichtung einer 3. Notarstelle in Villach",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002851",
+    "valid_from": "1988-10-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002828&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:35.607904+00:00",
+    "response_sha256": "c623e49c97b60520e0bc1e3b428b9de8cee02b7f5e18affab5aed8e443f8b346",
+    "snapshot_sha256": "62bc0a193dd28f1d6677a4b5fe303a2d12c2c1c80ed097931d8d1288069456ac",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc92b8668e84d80cbffe05f3d5725c9e7afd4ad0d8aeb2d21053e200f79b01d0",
+      "sha256": "9a293041a9eebd7115fecea6143970ec2e21e30c7f0573f032f84d41f099da1b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 30. September 1988 betreffend die Errichtung einer 3. Notarstelle in Villach StF: BGBl. Nr. 562/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 562/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_562_0/1988_562_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "838aaec68bc73c7372f061c296ab95a7de07ddf2dbc8d46e58979d4e7221b646",
+      "sha256": "cb9177de60c3ef0d437a84d58e3dfd453fe509f44c01cf643a1fa09c04534a81",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Bundesgesetz betreffend Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und Materialien (Tiermaterialiengesetz – TMG) StF: [BGBl. I Nr. 141/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_141_1/2003_141_1.pdf>) (NR: GP XXII [RV 314](<https://www.parlament.gv.at/gegenstand/XXII/I/314>) [AB 336](<https://www.parlament.gv.at/gegenstand/XXII/I/336>) [S. 41.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/41>) BR: [AB 6953](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6953>) [S. 704.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/704>))
+
+Der Nationalrat hat beschlossen:

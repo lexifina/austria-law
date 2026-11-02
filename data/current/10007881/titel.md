@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Ausbildung in Lehrberufen in verkürzter Lehrzeit StF: [BGBl. II Nr. 201/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_201_2/1997_201_2.pdf>)
+
+Auf Grund des § 6 Abs. 6 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), in der Fassung der Berufsausbildungsgesetz-Novelle 1997, [BGBl. I Nr. 67/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_67_1/1997_67_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales verordnet:

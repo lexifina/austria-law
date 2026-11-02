@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Einrichtung eines Beschaffungscontrollings in der Bundesbeschaffung GmbH (Beschaffungscontrolling-Verordnung) StF: [BGBl. II Nr. 398/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_398_2/2003_398_2.pdf>)
+
+Auf Grund des § 2 Abs. 2 Z 7 und Abs. 3 des Bundesgesetzes über die Errichtung einer Bundesbeschaffung Gesellschaft mit beschränkter Haftung (BB-GmbH-Gesetz), [BGBl. I Nr. 39/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_39_1/2001_39_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 99/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_99_1/2002_99_1.pdf>), wird verordnet:

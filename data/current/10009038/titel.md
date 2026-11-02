@@ -1,0 +1,1 @@
+Erlöschen des Notenwechsels zwischen der Österreichischen Bundesregierung und der Luxemburgischen Regierung über den Austausch von Gastarbeitern zwischen Österreich und Luxemburg StF: [BGBl. III Nr. 183/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_183_3/1997_183_3.pdf>)

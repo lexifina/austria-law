@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Gewährung einer Beihilfe für die Abgabe von Milch und Milcherzeugnissen, Obst und Gemüse in Bildungseinrichtungen (Verordnung Schulprogramm für landwirtschaftliche Erzeugnisse) StF: [BGBl. II Nr. 219/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/219>)
+
+Auf Grund der §§ 6 Abs. 1, 7 Abs. 1 Z 15 und Abs. 5 sowie der §§ 22, 24 und 31 des Marktordnungsgesetzes 2007 (MOG 2007), [BGBl. I Nr. 55/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/55>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 89/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/89>), wird verordnet:

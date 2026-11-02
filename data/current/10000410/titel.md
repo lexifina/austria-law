@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 20. Dezember 1965 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung des unter Verwendung von Schieß- und Sprengmitteln, insonderheit von Pulver, betriebenen Böllerschießens StF: [BGBl. Nr. 373/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_373_0/1965_373_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 12. Oktober 1965, K II-2/64, dem Bundeskanzleramt zugestellt am 10. Dezember 1965, zusammengefaßt hat:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 5. Mai 1981 betreffend belgische amtliche Prüfungs- und Gewährzeichen StF: [BGBl. Nr. 242/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_242_0/1981_242_0.pdf>)

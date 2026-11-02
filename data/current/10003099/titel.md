@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das britische Hoheitszeichen ,,Auszeichnung der Königin für Umweltleistungen'' StF: [BGBl. Nr. 311/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_311_0/1993_311_0.pdf>)

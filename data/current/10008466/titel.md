@@ -1,0 +1,3 @@
+Bundesgesetz über die Gleichbehandlungskommission und die Gleichbehandlungsanwaltschaft – GBK/GAW-Gesetz StF: [BGBl. Nr. 108/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_108_0/1979_108_0.pdf>) idF [BGBl. Nr. 577/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_577_0/1980_577_0.pdf>) (DFB) (NR: GP XIV [IA 138/A](<https://www.parlament.gv.at/gegenstand/XIV/A/138>) [AB 1203](<https://www.parlament.gv.at/gegenstand/XIV/I/1203>) [S. 120.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/120>) BR: [AB 1987](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1987>) [S. 384.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/384>))
+
+Der Nationalrat hat beschlossen:

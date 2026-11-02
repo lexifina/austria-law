@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 12. März 1980 betreffend das von der Kommission der Europäischen Gemeinschaften angenommene Emblem StF: [BGBl. Nr. 156/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_156_0/1980_156_0.pdf>)

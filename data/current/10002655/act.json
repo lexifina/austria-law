@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002655",
+  "short_title": "Amtliches Zeichen - Tunesien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002678",
+    "valid_from": "1984-09-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002655&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:07:52.093345+00:00",
+    "response_sha256": "beaca429706ee2d05391d849905bd8810bfcaa6507b153bd7010ea543eb57613",
+    "snapshot_sha256": "f38608b7d4992fcb675c0080b56fdce804332f8fb15413ef25d03511084124f4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb5cd5b31b6c3e61f83f0e8e4df42bdc1e825e5a8f409411d76843565145c4c4",
+      "sha256": "fe7f4adc24fd6475c1387420c965763968cb77417b56051202e74b58b42ba201",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 23. August 1984 betreffend ein tunesisches amtliches Zeichen für Agrarprodukte StF: BGBl. Nr. 372/1984"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 372/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_372_0/1984_372_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a507e0e998c1334eb781a2ec152b5b8a8c1269773118639ec12b3c6752e128de",
+      "sha256": "ae9cc2d716a3670ccfe849596c8f191682ae8baef05817f83afd9c71f8117054",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc45b4d7fb9bfe194d13e1c4711c0cf5091d09d88025250beddfd23f1bf0aeff",
+      "sha256": "1d20eb290a946164eace21cd1153bb636311ca9d52ef0e09f643976504b8f15b",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12033511/image001.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

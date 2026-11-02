@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Umwelt, Jugend und Familie vom 16. August 1990 über das Verbot von Halonen StF: [BGBl. Nr. 576/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_576_0/1990_576_0.pdf>)
+
+Auf Grund des § 14 Abs. 1 des Chemikaliengesetzes, [BGBl. Nr. 326/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_326_0/1987_326_0.pdf>), in der Fassung der Bundesgesetze [BGBl. Nr. 300/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_300_0/1989_300_0.pdf>) und [BGBl. Nr. 325/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_325_0/1990_325_0.pdf>) wird im Einvernehmen mit dem Bundesminister für wirtschaftliche Angelegenheiten verordnet:

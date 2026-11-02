@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Fahne und die Staatsembleme der Republik Singapur StF: [BGBl. II Nr. 210/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_210_2/1998_210_2.pdf>)

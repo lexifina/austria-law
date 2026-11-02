@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 31. August 1933, betreffend den Geltungsbereich des Übereinkommens zum Schutze der für die Landwirtschaft nützlichen Vögel. StF: [BGBl. Nr. 395/1933](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=395/1933&amp;SkipToDocumentPage=True>)

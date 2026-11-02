@@ -1,0 +1,1 @@
+Notenwechsel betreffend den im Abkommen zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Luftverkehr, [BGBl. Nr. 136/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_136_0/1966_136_0.pdf>), vorgesehenen Fluglinienplan StF: [BGBl. Nr. 206/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_206_0/1966_206_0.pdf>)

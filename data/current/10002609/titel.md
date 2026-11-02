@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. November 1983 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen und das Emblem der „Arab Satellite Communications Organization“ StF: [BGBl. Nr. 625/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_625_0/1983_625_0.pdf>)

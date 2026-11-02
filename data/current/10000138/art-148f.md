@@ -1,0 +1,1 @@
+Artikel 148f. Entstehen zwischen der Volksanwaltschaft und der Bundesregierung oder einem Bundesminister Meinungsverschiedenheiten über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit der Volksanwaltschaft regeln, so entscheidet auf Antrag der Bundesregierung oder der Volksanwaltschaft der Verfassungsgerichtshof.

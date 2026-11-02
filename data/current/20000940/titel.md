@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für soziale Sicherheit und Generationen über die Behandlung von Lebensmitteln und Verzehrprodukten mit ionisierenden Strahlen StF: [BGBl. II Nr. 327/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_327_2/2000_327_2.pdf>) \[CELEX-Nr.: [399L0002](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0002:DE:HTML>), [399L0003](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0003:DE:HTML>)\]
+
+Auf Grund des § 14 Abs. 2 des Lebensmittelgesetzes 1975 – LMG 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 157/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_157_1/1999_157_1.pdf>), wird verordnet:

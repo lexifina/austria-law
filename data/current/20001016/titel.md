@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Finanzen über die Aufkündigung der Haftung des Bundes als Bürge für Verbindlichkeiten der Österreichische Postsparkasse Aktiengesellschaft StF: [BGBl. II Nr. 371/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_371_2/2000_371_2.pdf>)

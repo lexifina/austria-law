@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über Meldungen von Herstellern von Medizinprodukten oder deren Bevollmächtigten, Meldungen von Prüf-, Überwachungs- und Zertifizierungsstellen und von benannten Stellen, Meldungen von Zwischenfällen und klinischen Prüfungen sowie Meldungen an die Europäische Datenbank für Medizinprodukte (Medizinproduktemeldeverordnung) StF: [BGBl. II Nr. 261/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/261>)
+
+Auf Grund der §§ 66, 67 Abs. 7 und 70 Abs. 5 des Medizinproduktegesetzes - MPG, [BGBl. Nr. 657/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_657_0/1996_657_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 143/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/143>), wird verordnet:

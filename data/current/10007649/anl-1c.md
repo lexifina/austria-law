@@ -1,0 +1,7 @@
+Anhang 1C
+
+ABKOMMEN ÜBER HANDELSBEZOGENE ASPEKTE DER RECHTE DES GEISTIGEN
+
+EIGENTUMS
+
+(Anm.: wird als eigener Vertrag dokumentiert)

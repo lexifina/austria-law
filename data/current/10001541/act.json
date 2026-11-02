@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001541",
+  "short_title": "Kundmachung gemäß § 24 Abs. 4 des Bundes-Seniorengesetzes",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001563",
+    "valid_from": "1998-11-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001541&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:48:38.456663+00:00",
+    "response_sha256": "ef7a96d403d6388531fe3ecdcc2171c461555ef191cd7a97571785f05d27b11f",
+    "snapshot_sha256": "a61d6a0ed3b0dd896ddae11511829d2abdf60cff12564ef22518941a94faa611",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26e4e97c392ae05d1ef72a53e32c00eea16d44bebfd9117a17ab888da82f2623",
+      "sha256": "6b8180c3a26cd4696b0d1b03c63729adca4fe2874508ae109152f9066504b8e3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers gemäß § 24 Abs. 4 des Bundes-Seniorengesetzes StF: BGBl. II Nr. 388/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 388/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_388_2/1998_388_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67349d91d3b4d115750dd210af6f931050f3e3b98e77d2806c955b880de1176c",
+      "sha256": "620524fa061d16ac406ca4c0cfc235c07541b78b29a8d186e83d63057d0e5d32",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 84/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_84_1/1998_84_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

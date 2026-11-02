@@ -1,0 +1,3 @@
+(1) Jede von Anlage VII erfaßte Vertragspartei verbietet die grenzüberschreitende Verbringung gefährlicher Abfälle, die für die in Anlage IV Abschnitt A genannten Verfahren bestimmt sind, nach Staaten, die nicht von Anlage VII erfaßt werden.
+
+(2) Jede von Anlage VII erfaßte Vertragspartei stellt die grenzüberschreitende Verbringung gefährlicher Abfälle gemäß Artikel 1 Absatz 1 lit. a des Übereinkommens, die für die in Anlage IV Abschnitt B genannten Verfahren bestimmt sind nach nicht von Anlage VII erfaßten Staaten bis 31. Dezember 1997 schrittweise ein und verbietet sie ab diesem Zeitpunkt ganz. Das Verbot einer solchen grenzüberschreitenden Verbringung gilt nur für Abfälle, die im Sinne des Übereinkommens als gefährlich einzustufen sind.

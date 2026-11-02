@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000841",
+  "short_title": "VfGH-Aufhebung Richtlinien Hauptverband Sozialversicherungsträger",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000843",
+    "valid_from": "1986-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000841&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:36:55.485960+00:00",
+    "response_sha256": "4bf5702074b49b60740e134819235ada028aec52643a3fc2cc75fcd719a5fc71",
+    "snapshot_sha256": "bbedfe0510c6d32f2ad5a2c01d269c004198a8ec71740b01ad51d82137ee14fd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dad70c9aa61f9213a50dfc17219bdffa69de1e48fda1fc3ed9e9f63db13c3b9c",
+      "sha256": "b08981be950222ed4022166923373d9abce8719a9cad06bb4d298f2141defdff",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für soziale Verwaltung vom 7. April 1986 über die Aufhebung des § 8 der Richtlinien gemäß § 31 Abs. 3 Z 21 ASVG über die Befreiung von der Rezeptgebühr durch den Verfassungsgerichtshof StF: BGBl. Nr. 203/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 203/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_203_0/1986_203_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a9cfca28e24bbc32b54529df4dd8a50088f98740e64def6f0325db311e6e650",
+      "sha256": "2fc81b2f949a88ecca6040da428338c690186bc89ee6f2de5954baab2f4ac85f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

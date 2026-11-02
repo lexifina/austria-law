@@ -1,0 +1,1 @@
+§ 50j. Die §§ 2 Abs. 1 lit. d, e, f sublit. aa und g sowie 6 Abs. 2 lit. b, c, e sublit. aa und f in der Fassung des Bundesgesetzes [BGBl. I Nr. 30/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf>) treten mit 1. Jänner 1998 in Kraft.

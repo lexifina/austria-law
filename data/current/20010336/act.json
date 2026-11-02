@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010336",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2017",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40208470",
+    "valid_from": "2018-10-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010336&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:52:52.187993+00:00",
+    "response_sha256": "796ee8c863b593cfb49d0ef64382a424fe10fddb8110dbe95a41005fc916b1ae",
+    "snapshot_sha256": "ee1e13a69c93c665a836cf9e4bd61927a5425927466dc739d9d6ac9b81122ca7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "96adecb2adf3c163ecb124aaf122100181570a9b0081de9a52e2b16ba863aa85",
+      "sha256": "be5703f589c86192a7b25da89ab54b6c08805a3ea76e560ed71473d75397dbca",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2017 StF: BGBl. I Nr. 68/2018 (NR: GP XXVI AB 259 S. 39.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 68/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/68"
+        },
+        {
+          "text": "AB 259",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/259"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93c93104ad658c32e8a6c3e9fe062bf15309a12b9d8a904f0aebf541f4e45380",
+      "sha256": "6a1d887ecd1862b34381214442b26d8cdc7d7abda47fcf91b3a7a7cb5d1e9fb6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

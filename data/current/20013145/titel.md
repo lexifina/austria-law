@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauen, Wissenschaft und Forschung über das Vorliegen der technischen und organisatorischen Voraussetzungen für den Echtbetrieb des digitalen Studierendenausweises im Studierendenregister StF: [BGBl. II Nr. 83/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/83>)
+
+Auf Grund des § 22 Abs. 6 Bildungsdokumentationsgesetz 2020 – BilDokG 2020, [BGBl. I Nr. 20/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/20>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 50/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50>), wird im Einvernehmen mit dem Bundeskanzler und dem Bundesminister für Bildung verordnet:

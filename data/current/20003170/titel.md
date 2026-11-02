@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Verleihung der Bezeichnung „Fachhochschule“ an die „Gesellschaft zur Durchführung von Fachhochschul-Studiengängen Sankt Pölten mbH.“ StF: [BGBl. II Nr. 26/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/26>)
+
+Auf Grund des § 15 Abs. 1 des Bundesgesetzes über Fachhochschul-Studiengänge (Fachhochschul-Studiengesetz – FHStG), [BGBl. Nr. 340/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_340_0/1993_340_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 58/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_58_1/2002_58_1.pdf>), wird verordnet:

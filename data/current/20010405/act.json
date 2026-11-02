@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010405",
+  "short_title": "Errichtung einer siebenten Notarstelle in der Landeshauptstadt Salzburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209423",
+    "valid_from": "1977-02-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010405&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:09.279963+00:00",
+    "response_sha256": "f4b5e9f51c94341dd1965b37d54b8c3a9e5f7d388b639480ad98a3f53dfb736c",
+    "snapshot_sha256": "670549bc3e836616c6890c05abf8a6f0dffb81c6626d9553806e5f5a676f1bbf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fdd4b175c9aff69793c2b354024c1d22c1a57e90c812f73f35a476a420a46143",
+      "sha256": "d7addcd5c1ed29c6810a81548b78e897f43622b9212b95d2600cb7a94c6dffab",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 21. Jänner 1977 betreffend die Errichtung einer siebenten Notarstelle in der Landeshauptstadt Salzburg StF: BGBl. Nr. 61/1977"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 61/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_61_0/1977_61_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51d2197d594088851385d181ee979fb53fd0414d9da82b0ca284e3e38b501841",
+      "sha256": "b68d8481587a8a55863c07342e8033f6c1943d68df0ae353668288918c3f43c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

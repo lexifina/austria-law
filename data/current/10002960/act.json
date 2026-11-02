@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002960",
+  "short_title": "Hoheitszeichen - Finnland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002984",
+    "valid_from": "1990-08-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002960&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:01.972110+00:00",
+    "response_sha256": "01bafce0b6c68c050060f50e531db64ded0450e3f89096eae5bdd011dff3e243",
+    "snapshot_sha256": "b1d8ff006447cf7bfc1f88f0feec4b8c978677425658a3e0b66a1703446271d2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f66da44028e8250dcfb4f117885c3a16029bba451ba03bcdff8d372d55ee97b1",
+      "sha256": "1d88eda067ef83998fb3203e377f863e4acb67cd120b0330826af63b9b163899",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 2. Juli 1990 betreffend die Hoheitszeichen Finnlands StF: BGBl. Nr. 501/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 501/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_501_0/1990_501_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "995d6e9c2a9a7ccaa09ef634a04cfd91d118320747892942023b55b8beb1239e",
+      "sha256": "9beac71d9722a9ce289af26dc575367a8e9260b7a661d708f6a732000b1337a5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

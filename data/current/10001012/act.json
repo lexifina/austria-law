@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001012",
+  "short_title": "VfGH-Aufhebung V d. Landeshauptmannes von Salzburg",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001015",
+    "valid_from": "1989-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001012&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:39:53.187009+00:00",
+    "response_sha256": "c9d75444d6344c939d71d9bd923372a687b6dbfcd15ef7f04f72593504c5b65a",
+    "snapshot_sha256": "b9ff7bfa952382f3b4963468435d2f9ef5695546acd3b3468a3237aeee703836",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1bb0260e31d40870310cd7952bc072a005f9cfa94a4606c16ec9861b0ce9029",
+      "sha256": "d810490f740147866014848175652d3c2f743a05f26a0ba8f1f665adb4771125",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 26. Jänner 1989 über die Aufhebung der Verordnung des Landeshauptmannes von Salzburg vom 3. Juni 1987, LGBl. Nr. 42/1987, betreffend die Höchstzahl für Konzessionen zur Ausübung des Taxi-Gewerbes sowie über die Aufhebung der Kundmachung des Landeshauptmannes von Salzburg vom 1. Juli 1987 (Salzburger Landeszeitung Nr. 19/1987) betreffend die Höchstzahlen von für das Betreiben des Platzfuhrwerksgewerbes zuzulassenden Kraftfahrzeugen durch den Verfassungsgerichtshof StF: BGBl. Nr. 62/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 62/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_62_0/1989_62_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5eaa2a90d40250b2ed361d1ebbdbfb8aa4e2ae8789442dcc4b88601aa65d9b9",
+      "sha256": "4c76e69f248d6a4521bf6c9f9c5182d33d1a5dbb7dc137281e01af0582e85671",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Auflassung mehrerer für den Durchzugsverkehr als Bundesstraße entbehrlich gewordener Abschnitte von Bundesstraßen in der Steiermark StF: [BGBl. II Nr. 256/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_256_2/2000_256_2.pdf>)
+
+Auf Grund des § 4 Abs. 2 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 182/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_182_1/1999_182_1.pdf>), wird verordnet:

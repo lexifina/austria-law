@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003539",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Liesing",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003568",
+    "valid_from": "1997-05-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003539&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:26.987656+00:00",
+    "response_sha256": "ae90384100a95eb40ecf2a7ebc4e3b082ef416d541c654a84d9fdce7c1f0adcd",
+    "snapshot_sha256": "e378761fb13a1ba409aa290267f33e40b95feb9d7c6cbad48ee103e5236e1fc4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9cf54c7699b7586d4ebcbbbdbe64da734b47a5fda01afcf9d60976331398f226",
+      "sha256": "c8dfdb623d3230776de4c795cca14938e3a92bbd0f47d3361894434713305570",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Wien-Liesing StF: BGBl. II Nr. 117/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 117/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_117_2/1997_117_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5fd1b4cfd75a8b09a802b97d43549c80e965006202f682e3fd6b54d75b0ffabe",
+      "sha256": "ed95086303a8c9b0b71c80eb1a3b747532260a078fa1d89d634b4d837f76ddf0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011090",
+  "short_title": "Errichtung einer Notarstelle in Innsbruck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40221651",
+    "valid_from": "2020-03-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011090&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:07:55.371208+00:00",
+    "response_sha256": "5297a6e98b8780fb24f10a1d059094c8ea68c9e894c7e36672a7e2c55fe7c004",
+    "snapshot_sha256": "1e91b9a24f18287b43076f75b417ade87d0cf3e6eab4fb249068fab03b1e6672",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9c150439cefcad8cfea4bf2dd3a1f8a3263b78cc1f57317730c034e89525fde",
+      "sha256": "58f51feaff4c58509f801127750f22914bc42f419054f380f0ff3121c2c42006",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer Notarstelle in Innsbruck StF: BGBl. II Nr. 115/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 115/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/115"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/61"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3102db6820ff85886d453aef1a42f5a42349b6b861e8f098271bb5dee3e24c04",
+      "sha256": "3e2e5028e9a82ac0da8f28cb5e9d4ef9ceae1d2c89d18f3dfcc7063f454b4a66",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

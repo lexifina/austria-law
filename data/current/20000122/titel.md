@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über die Verleihung der Bezeichnung „Fachhochschule“ an die „Fachhochschul-Studiengänge Vorarlberg-Gesellschaft m. b. H.“ StF: [BGBl. II Nr. 360/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_360_2/1999_360_2.pdf>)
+
+Gemäß § 15 Abs. 1 des Bundesgesetzes über Fachhochschul-Studiengänge (Fachhochschul-Studiengesetz – FHStG), [BGBl. Nr. 340/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_340_0/1993_340_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 72/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_72_1/1998_72_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Unterricht und kulturelle Angelegenheiten verordnet:

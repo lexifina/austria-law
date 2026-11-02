@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres, mit der bestimmte Arten von Reisedokumenten, die von anderen als Vertragsstaaten ausgestellt werden, als nicht für die Erfüllung der Passpflicht geeignete Reisedokumente bezeichnet werden StF: [BGBl. II Nr. 263/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/263>)
+
+Auf Grund des § 16 Abs. 1 des Fremdenpolizeigesetzes 2005 (FPG), BGBl. I Nr. 100, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 99/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/99>), wird im Einvernehmen mit der Bundesministerin für europäische und internationale Angelegenheiten verordnet:

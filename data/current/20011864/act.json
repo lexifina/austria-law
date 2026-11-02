@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011864",
+  "short_title": "VfGH-Aufhebung von Bestimmungen zweier Erlässe der Bundesministerin für Landesverteidigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40243307",
+    "valid_from": "2022-03-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011864&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:22:17.334833+00:00",
+    "response_sha256": "585476a083e07bdd879b3347e27efe26ba5b25ef79f4f9cdb4fc4d21291497d0",
+    "snapshot_sha256": "8cc5d24fff0e7e6fb70ebedbd7358d3df721289fccf525b79fde07c50218215e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9caf512cc919a65812e33c254467541b472ed36e4df6e653e82eacb02694ed7",
+      "sha256": "7243af2ca912d09ace0989ef249ed4fcb16eceb973a87c4da8db977615b9a63c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Landesverteidigung über die Aufhebung von Bestimmungen zweier Erlässe der Bundesministerin für Landesverteidigung durch den Verfassungsgerichtshof StF: BGBl. II Nr. 130/2022"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 130/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/130"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "24df5bc2ece17b3b81b054c4b8075b56f296fd948c134ce41c44052cc58e9028",
+      "sha256": "13b197d4ff60ae4a79866a17af10f30dca8d9b2435c715f1ce92cfcd4c539e04",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

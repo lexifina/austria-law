@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003225",
+  "short_title": "VfGH-Aufhebung Altlastenatlas",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003519",
+    "valid_from": "2004-02-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003225&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:57:29.272487+00:00",
+    "response_sha256": "cb3e9c7e75f67b0074ff9929bc8892b0bbfbe57bde314ddb729f51c41603a2b8",
+    "snapshot_sha256": "c5c457312e8da218b811cd8696db6424bdac55d69b94117fca14068198581c9c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b6620b215edf3cb892282ef3a2b33cf46fa63331ab78c94cf5f9e4e86ec13478",
+      "sha256": "8fc5e57c35cbf6d160c4ef8ebcd9a3d73ca176184c1115582743be55de8e791c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Aufhebung des Altlastenatlasses durch den Verfassungsgerichtshof StF: BGBl. II Nr. 96/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 96/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/96"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e6919930ba6d26fe827ac5e0a58e69490caf98b50dd9a8299ce2638a2d00709",
+      "sha256": "c92576c8894cc44226027c3a0b1aa97ede8c2c30eec77264e1153dbb9e77b6fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

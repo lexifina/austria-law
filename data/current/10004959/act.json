@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004959",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 1993",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005012",
+    "valid_from": "1995-03-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004959&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:36:27.106061+00:00",
+    "response_sha256": "8359045c24cc50c361a1cf0fa54895ff52a598f4a4aecf93791001a090fb241f",
+    "snapshot_sha256": "9f17d0a69cf988ba85015b4b46495851d2c1735542930aa3e12be141cbacf749",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7f2c928303061c76792237df018b085825e295e9a949b65c62d48b27f966245",
+      "sha256": "72236422153994da70af2aac5eaf97b6fedb54d82896c5d393ead98aaae3676f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 1993 StF: BGBl. Nr. 211/1995 (NR: GP XIX AB 132 S. 24.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 211/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_211_0/1995_211_0.pdf"
+        },
+        {
+          "text": "AB 132",
+          "url": "https://www.parlament.gv.at/gegenstand/XIX/I/132"
+        },
+        {
+          "text": "S. 24.",
+          "url": "https://www.parlament.gv.at/gegenstand/XIX/NRSITZ/24"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49fbe7d8d04dedde3901c436c64be86075469e51bc8152481f6cdaba7d8aa6f0",
+      "sha256": "43250fd77ccfb2b89d8fc28889ec58d0461d72dd243e9a2ebe6065e2d0ed6007",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

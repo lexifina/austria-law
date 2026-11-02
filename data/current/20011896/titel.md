@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die Registrierung und Verwendung eines Elektronischen Identitätsnachweises (E-ID-Verordnung) StF: [BGBl. II Nr. 181/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/181>)
+
+Auf Grund des § 4a Abs. 6, § 18 Abs. 3 und 4 sowie § 25 Abs. 3 des E-Government-Gesetzes (E-GovG), [BGBl. I Nr. 10/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 169/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/169>), wird – hinsichtlich der § 4a Abs. 6, § 18 Abs. 3 und § 25 Abs. 3 im Einvernehmen mit der Bundesministerin für Digitalisierung und Wirtschaftsstandort – verordnet:

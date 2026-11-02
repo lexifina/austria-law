@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003676",
+  "short_title": "Errichtung einer zweiten Notarstelle in Pottenstein",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003706",
+    "valid_from": "1999-08-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003676&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:31.539018+00:00",
+    "response_sha256": "72acbd1257238555f53ee40b6f575f2eee83f6c6084791af40cab08d06630395",
+    "snapshot_sha256": "02912b174075f0b4bb25f944e339b0854fa136c66100c543883a1421dccf2764",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8795b54468fd7b325e545dfc56d5849034e0b9d45af4f24c2343ad077a6bb626",
+      "sha256": "8be75e8a3170eab3b797cce97af86c6c2b0048d9f39445b01c176b6efeb75a9e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Pottenstein StF: BGBl. II Nr. 271/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 271/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_271_2/1999_271_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d318d931f786b72e5bef7d5d18aee54ff449fee03191f7a735f2c0440a69cd7a",
+      "sha256": "5546c72e45944d2a2454285dabd0234f5d70dbbff724ac8bb2e86b559177da63",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

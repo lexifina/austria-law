@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003287",
+  "short_title": "Errichtung einer neunten Notarstelle in der Landeshauptstadt Salzburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003314",
+    "valid_from": "1995-05-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003287&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:13:53.104630+00:00",
+    "response_sha256": "c13dce1619a6f76994c1a75d660b7947c3c35297d76687373d10e9efd82db231",
+    "snapshot_sha256": "09b1a1032f6a462ac8e5a7adf29c1f9115f60d1cacca102fc5121677b7a8581c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "538f7d154ccfc8a396e219a3f49d979cff5c4aef1d0ff3e446066915b5ec2c55",
+      "sha256": "d15432cf1f15f978172044c81d41ca809f40f01e6850a034973c43c94f563675",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer neunten Notarstelle in der Landeshauptstadt Salzburg StF: BGBl. Nr. 302/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 302/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_302_0/1995_302_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db92f9faed321f7efadf2e8d1c745885ffc600f924a9f3032a1b1fee871bba7a",
+      "sha256": "341bbda61feee493904c67a15e12b92083e02266bc34b30117da0015b42ec0a8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

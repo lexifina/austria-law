@@ -1,0 +1,3 @@
+Bundesgesetz über die Öffnung des Zugangs zum Markt der Bodenabfertigungsdienste auf Flughäfen (Flughafen-Bodenabfertigungsgesetz – FBG) StF: [BGBl. I Nr. 97/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_97_1/1998_97_1.pdf>) (NR: GP XX [RV 1079](<https://www.parlament.gv.at/gegenstand/XX/I/1079>) [AB 1239](<https://www.parlament.gv.at/gegenstand/XX/I/1239>) [S. 128.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/128>) BR: [AB 5712](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5712>) [S. 642.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/642>)) \[CELEX-Nr.: [396L0067](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0067:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

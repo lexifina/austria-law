@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Justiz vom 5. Februar 1951 über die Errichtung je einer weiteren Notarstelle in Linz und Vöcklabruck. StF: [BGBl. Nr. 54/1951](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_54_0/1951_54_0.pdf>)

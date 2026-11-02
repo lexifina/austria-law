@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 28. Oktober 1974, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen werden StF: [BGBl. Nr. 696/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_696_0/1974_696_0.pdf>)

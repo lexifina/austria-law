@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Statistik der betrieblichen Bildung StF: [BGBl. II Nr. 139/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/139>)
+
+Auf Grund der §§ 4 bis 8, 10, 19 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 40/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/40>), wird im Einvernehmen mit dem Bundeskanzler und hinsichtlich des § 11 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

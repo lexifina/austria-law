@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011212",
+  "short_title": "Schiffahrt - Eichung der Binnenschiffe",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011477",
+    "valid_from": "1930-08-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011212&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:50:12.936337+00:00",
+    "response_sha256": "760e7797e7a0cabde9b361020cac166e126f0337d4bf90784bc0ef123a8c8e91",
+    "snapshot_sha256": "f08bf2cf5b7acfa69080cb91c031199d8d28ff7553d96a4f6c1d1b2b14a1f59b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25a399817a147f2926a8548df487d5a8454b532176c7b33fb1b2a575d38468e5",
+      "sha256": "c07a41fefa965b7b505e5db5d01dd6d7039a8aae0b7e1f28a7a2ec13ea43fae7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 27. Juli 1930, betreffend die Hinterlegung der Ratifikationsurkunde der Republik Polen zum Übereinkommen über die Eichung der Binnenschiffe StF: BGBl. Nr. 250/1930"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 250/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=250/1930&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3f8445476501ebd78475dc16dd686007121dfb99eee77b35613d42dc5e8a648",
+      "sha256": "a04654b4b9b40fa24a57778ed58aaf785adc6637676bdaf840bc42632a665fff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

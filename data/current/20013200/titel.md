@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über setting- und zielgruppenspezifische Spezialisierungen in der Gesundheits- und Krankenpflege (Gesundheits- und Krankenpflege-Spezialisierungsverordnung 2026 – GuK-SV 2026) StF: [BGBl. II Nr. 153/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/153>)
+
+Auf Grund des § 65b Abs. 4 und § 30 Abs. 5 Gesundheits- und Krankenpflegegesetz – GuKG, [BGBl. I Nr. 108/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_108_1/1997_108_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 109/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/109>) und die Bundesministeriengesetz-Novelle 2025, [BGBl. I Nr. 10/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/10>), wird verordnet:

@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Wappen, Fahnen und das Staatsemblem der Republik Peru StF: [BGBl. II Nr. 2/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/2>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 126/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/126>), wird im Einvernehmen mit dem Bundesminister für europäische und internationale Angelegenheiten kundgemacht, dass § 6 Abs. 1 des Markenschutzgesetzes 1970 auf Wappen, Fahnen und das Staatsemblem der Republik Peru Anwendung findet, welche im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen.

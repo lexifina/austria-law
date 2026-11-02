@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das neue Emblem der Afrikanischen Organisation für geistiges Eigentum (OAPI) StF: [BGBl. II Nr. 152/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_152_2/2000_152_2.pdf>)

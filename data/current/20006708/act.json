@@ -1,0 +1,713 @@
+{
+  "sample_only": false,
+  "included_provisions": 27,
+  "source_provision_count": 27,
+  "schema_version": 1,
+  "gesetzesnummer": "20006708",
+  "short_title": "Geodateninfrastrukturgesetz",
+  "abbreviation": "GeoDIG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40116345",
+    "valid_from": "2010-03-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006708&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:49:43.850809+00:00",
+    "response_sha256": "7b92bcbf533117434cf7cdcfb89f8b67eb34ae47ce2181fe5de0fe68e560e476",
+    "snapshot_sha256": "a02b3e62aa49ee43adb4ecc5305dd68beed254bb54f892ce17c6f99c4373df98",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0237fe3bb1e73bda54dd04fe780197b081a5799e69f36c53c5fa5769c3aaa416",
+      "sha256": "1ff70b27212eb1186ddfc438590651e87c3416a92658376fc81d7d7dc4bf2e99",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über eine umweltrelevante Geodateninfrastruktur des Bundes (Geodateninfrastrukturgesetz – GeoDIG) StF: BGBl. I Nr. 14/2010 (NR: GP XXIV RV 400 AB 590 S. 53. BR: 8276 AB 8279 S. 781.) [CELEX-Nr. 32007L0002]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 109/2012 (NR: GP XXIV RV 1843 AB 1965 S. 179. BR: AB 8822 S. 815.) BGBl. I Nr. 116/2022 (NR: GP XXVII RV 1571 AB 1635 S. 167. BR: 11000 AB 11041 S. 943.) [CELEX-Nr.: 32019L1024]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 14/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/14"
+        },
+        {
+          "text": "RV 400",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/400"
+        },
+        {
+          "text": "AB 590",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/590"
+        },
+        {
+          "text": "S. 53.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/53"
+        },
+        {
+          "text": "8276",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8276"
+        },
+        {
+          "text": "AB 8279",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8279"
+        },
+        {
+          "text": "S. 781.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/781"
+        },
+        {
+          "text": "32007L0002",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0002:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 109/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/109"
+        },
+        {
+          "text": "RV 1843",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1843"
+        },
+        {
+          "text": "AB 1965",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1965"
+        },
+        {
+          "text": "S. 179.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/179"
+        },
+        {
+          "text": "AB 8822",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8822"
+        },
+        {
+          "text": "S. 815.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/815"
+        },
+        {
+          "text": "BGBl. I Nr. 116/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/116"
+        },
+        {
+          "text": "RV 1571",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1571"
+        },
+        {
+          "text": "AB 1635",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1635"
+        },
+        {
+          "text": "S. 167.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/167"
+        },
+        {
+          "text": "11000",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11000"
+        },
+        {
+          "text": "AB 11041",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11041"
+        },
+        {
+          "text": "S. 943.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/943"
+        },
+        {
+          "text": "32019L1024",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1024:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3f752c32bb5afca05457273147e20e995a88682eacbf51be2a557268a795cec",
+      "sha256": "e76632a44f753c49935adf20a63ffca26c00db3ccafae14f77d1076f2472ee3b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e554e32c9fb7b71d91beac09b1e9f36e11aa74741efae6fe918a83a33b0c1b68",
+      "sha256": "61b472b81742a65b18c8ccd5ca90a62dfaa0fcca2988f3aac6c1b3f9e5039923",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 495/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_495_0/1993_495_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 116/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/116"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed5f2e95fc71cc6c028bfcadba7acda40b919c7c115a6977e54cd0ed239555b9",
+      "sha256": "c1b7a6c15b14737937f78d45445d05cb7aa70cc4a48a324ed703922825c1097b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Anforderungen an Metadaten sowie Geodatensätze und -dienste",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "405e59c11626509696c989e5291d905bd5446ae56cba634ba31635b6ff804227",
+      "sha256": "851dd75e4e190879996881589ed84bccada3de347a089d62ac4bd885769aebc4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Interoperabilität von Geodatensätzen und –diensten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e053de642c407d00c6ef49855a5eacb95da23110ca7c3f7e813998ef7fc7feee",
+      "sha256": "c48385f10ae5923cd5f9a09ce99088f175be251fd7bb9b3c38d61ffd426d64bf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "3. Abschnitt Netzdienste und deren öffentliche Verfügbarkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65e8bfb62fb6c92760cabac50d1eb48c471ebf90882bfd29c3699d6aa0a4b3b4",
+      "sha256": "00e94aba9aaaa016afb68edf85f03d844c3d4a74a14b48b32a583d10f11b8fee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Netzwerk",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4664d262ba7291de569fbf6bb59eaa33a47db5d9f8256b123a5dd22ebe899bef",
+      "sha256": "cddd0969c6ff891ba4aa202e5d2cc616879cdc6ce2e13a45ecd7e9a7134204a4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Beschränkungen des Zugangs der Öffentlichkeit zu Geodaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5fc5108042c913ad2d6897405c248e0a6e8ec0ae42d166c61dc3069cbfb3697",
+      "sha256": "221a327730a9f2762770f86323674460d1598f1b066a70249be57bed2a82b2f0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Entgelte und sonstige Bedingungen für die öffentliche Verfügbarkeit der Geodaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1451d9119b34fb57d0c8948ff800d0403f30a5aa4bdae41c9323824d9f468f43",
+      "sha256": "bb5f04bf29519cd1cd201984595c6d3c57c8700e1c6c7d42fa7dc412d3e088be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "4. Abschnitt Nutzung von Geodaten durch öffentliche Geodatenstellen und andere Personen oder Stellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a19bb1c915dd1e725994c46d2e61d9c72d2e6cb9a9eca9635ce24cce08ee108c",
+      "sha256": "1fd5d927817ae166b6d04f0e8c801d30d3e270693431e2e29423df6497c72223",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Nutzung von Geodaten durch ausländische öffentliche Stellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de258e545c20b8d89311dd1a5be2b86b8e843beb21d4c2ffef51b2fd7f83f816",
+      "sha256": "3c1784471e56b9e31eb5c508295648dca6a00ae8becd3754d7e44e41e6280b10",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "5. Abschnitt Koordinierung, Nationale Anlaufstelle, Monitoring und Berichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5017a38faa03549ef8b38f7b5d4ac6049241475b55edd3be91f8e164ff01434d",
+      "sha256": "1fb8d2b105c353df9494cd7fc8b091f86ea9bab67bd5c3c607156c51b7f649b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Nationale Anlaufstelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "621f8d7fb3ee4f661bbf5eebde62f37cd2268c4b479a8af97dc210033fc3f10d",
+      "sha256": "3cd6bb4d4dda395b199a921b9e4de85b122f7631b08edb3cebe53605b040eee7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Monitoring",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14c299aff0c0a1fe144cbf7a0e905b34e787f7a673c0525c32618ba33d683fe7",
+      "sha256": "44e2190435d8d2bc052e5bf902e3cc160f3c902a0733813bf4ef5e0822a96682",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Berichte an die Kommission der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "68e9917a63a46b45769e9dc1f671cf508f04366aeb5caec75ff6e7c9b0e5cbcb",
+      "sha256": "d2249289d5d0d0c5d8f8407e16dddcb8eb4e5bfc3068d0453a69dfb1cdb91b27",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "6. Abschnitt Rechtsschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "22bbf0a89f06476612bb41e783716d5d9dcf16ee7fffaa82389b15fbfd6659de",
+      "sha256": "f71713936aaabe29511a79e5d7318ba1eac525e23bdbc445b4d474161696dd8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Anrufung der Gerichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75409592709793cbf7c9b0fd3eb826b0778d78321b8aa2fa3dff17618e323c5a",
+      "sha256": "3e97b29e7fac1e9d6a7c9123314f145aed828e778e2a2410cf3bbddf9a8cfbd4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "7. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cbd2c4a56400997304649a21b6e099ea9675b71d5c94d9307480d65d6b51cd7",
+      "sha256": "303f2b1c52247731b7bbf4d10708e8b8fbdc57e44ecc8e4aff91ff23f9e040ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Eigener Wirkungsbereich der Gemeinden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "690a8534d9d0bf41d249de044c02f225ab9e68f09a19b062f758f5615c2ea746",
+      "sha256": "e87c2c90df9e108b4c1e996536b0abfed06eaf576c56517b464887afa4a5fdc3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2b5204349ef3874f3a77603bf61daa6c131030260627c41341e107da21d7ad8",
+      "sha256": "0c405ba715741c043a74db5710e3c7876f09d9bbea5e31be7b75b886e5c094dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfdb54af2468100e755fa13ed8472f08d22aceda3100d1f531bd5746f23a688c",
+      "sha256": "b91594341671bd5ca77d5862eeb3fe3ec3e8c779de1e1199ac78a79118dc34e6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Bezugnahme auf Rechtsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "164bb2b141e6019ff9ecd8fa618eb2e74750a67ca55926ef7eba4e2ec7e116e4",
+      "sha256": "a5ba67d559459fe1ac7b956d94342b32358ce21aa13d1b2606b83594b8f3f8a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "§ 23.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52cf4e2161667141c6cfd123771815d771da10b0928aaeca3f15692c8a3ed32c",
+      "sha256": "afbc56d19ba65ead50aeda270e6c70149d221dba8fe1365d531108d9af396e99",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl I Nr. 116/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/116"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang I Geodaten-Themen und deren Beschreibung nach Anhang I der INSPIRE-Richtlinie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0504655698dc6804bcdfddbca73ddfbdd3c501c4850cab303442840bb5803bfc",
+      "sha256": "1e5932dacd5793814514d34b63d36da29ed3bcfec0542c0c7192fd55cdb33a20",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang II Geodaten-Themen und deren Beschreibung nach Anhang II der INSPIRE-Richtlinie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7d35756ee016af7a58ca71b71f8fc0444f63011d4a47f1cd3d132de80f583d2",
+      "sha256": "a900d26c68726c9cccf136b1753c80ff3f86d6512befd2c84f6b2ed247e7f330",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anhang III Geodaten-Themen und deren Beschreibung nach Anhang III der INSPIRE-Richtlinie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1be8e91c9a77e0c7adb9f92e4f0cf9c9874ad3f63691e4d2f49f676c9f93a94",
+      "sha256": "6a59d210d03e0bfe221d1772964d4984c32066ff8589772e5851f9e44f7a7d87",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

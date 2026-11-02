@@ -1,0 +1,3 @@
+Bundesgesetz vom 27. November 1980 über die Umstellung des Grundbuchs auf automationsunterstützte Datenverarbeitung und die Änderung des Grundbuchsgesetzes und des Gerichtskommissärsgesetzes (Grundbuchsumstellungsgesetz — GUG) StF: [BGBl. Nr. 550/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_550_0/1980_550_0.pdf>) (NR: GP XV [RV 334](<https://www.parlament.gv.at/gegenstand/XV/I/334>) [AB 505](<https://www.parlament.gv.at/gegenstand/XV/I/505>) [S. 53.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/53>) BR: [AB 2222](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2222>) [S. 403.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/403>))
+
+Der Nationalrat hat beschlossen:

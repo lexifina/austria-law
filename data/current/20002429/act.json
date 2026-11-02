@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002429",
+  "short_title": "Dachdecker-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002667",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002429&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:46:10.795026+00:00",
+    "response_sha256": "8966a537b408743927d1cb04e44a46b5dd5ba573fe784994cd96f66063aa45b3",
+    "snapshot_sha256": "51f2f0c4973854775a2e22ca6710e49d988898c1e2f68524103633505bd0cf43",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91faa0c3fb3140e431b3d11eee373c954e4df15b758c3f2b7e31f700e47ca87f",
+      "sha256": "c2eb599faf82a5e0a84b6a75392076b41552265d2049dd5313a1dbcb1840d332",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das Handwerk der Dachdecker (Dachdecker-Verordnung) StF: BGBl. II Nr. 37/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 399/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 37/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_37_2/2003_37_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 399/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/399"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dda6ecdeb92f0c855c17d256a5dd934c8292e9de0318e99bd427108a55c480d5",
+      "sha256": "9f3f7d38ce47259eea99fe8ba1cc4c16f43eb2736200760d1cbef53dd3030a5a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

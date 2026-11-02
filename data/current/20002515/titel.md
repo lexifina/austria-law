@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung, das Emblem und die Fahne der Organization of the Black Sea Economic Cooperation (BSEC) StF: [BGBl. II Nr. 107/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_107_2/2003_107_2.pdf>)

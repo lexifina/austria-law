@@ -1,0 +1,3 @@
+Verordnung des Präsidenten des Verwaltungsgerichtshofes über die Grundausbildung für Mitarbeiterinnen und Mitarbeiter des Verwaltungsgerichtshofes (VwGH-Grundausbildungsverordnung) StF: [BGBl. II Nr. 330/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/330>)
+
+Gemäß § 26 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, in der Fassung des Bundesgesetzes [BGBl. I Nr. 6/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/6>), und § 67 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, in der Fassung des Bundesgesetzes [BGBl. I Nr. 69/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/69>), wird verordnet:

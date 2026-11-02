@@ -1,0 +1,1 @@
+Bundesgesetz über das Dienst- und Besoldungsrecht der Bediensteten der Österreichischen Bundesforste (Bundesforste-Dienstordnung 1986) StF: [BGBl. Nr. 298/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_298_0/1986_298_0.pdf>) (WV)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Lohnzuschläge für die Urlaubsregelung, Abfertigungsregelung und Winterfeiertagsregelung sowie die Nebenleistungen nach dem Bauarbeiter-Urlaubs- und Abfertigungsgesetz (BUAG-Zuschlagsverordnung) StF: [BGBl. II Nr. 419/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/419>)
+
+Auf Grund der §§ 4 Abs. 2, 13k Abs. 4, 21 und 26 Abs. 1 des Bauarbeiter-Urlaubs- und Abfertigungsgesetzes, [BGBl. Nr. 414/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_414_0/1972_414_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 59/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/59>), wird verordnet:

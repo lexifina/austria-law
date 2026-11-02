@@ -1,0 +1,89 @@
+## Schluß-Protokoll zum Vertrage über den Anschluß der zur Grafschaft Tirol gehörigen Gemeinde Jungholz an das bayerische Zoll- und indirecte Steuersystem.
+
+1\. Zu den Artikeln 1 bis 4 des Vertrages.
+
+- 1\. Die kaiserlich-königliche Regierung wird in dem gedachten Gebietstheile den in Bayern giltigen Zolltarif nebst den besonderen Vorschriften über die Verzollung von Zucker und Syrup;
+
+  das Zollgesetz;
+
+  die Zollordnung und die §§. 1 bis 27 des Zollstrafgesetzes mit den hiezu ergangenen abändernden oder ergänzenden Bestimmungen publiciren lassen.
+
+Ebenso wird die Publication der sonst noch zur Kenntniß der betheiligten Angehörigen und Steuerpflichtigen zu bringenden Verfügungen auf desfallsiges Ersuchen der königlich bayerischen Regierung von Seite der kaiserlich-königlichen Regierung erfolgen.
+
+- 2\. In gleicher Weise wird von Seite der kaiserlich-königlichen Regierung eintretenden Falles die Einführung und Verkündigung derselben Gesetze und Verordnungen ec. ec. hinsichtlich des Malzaufschlages, sowie der Besteuerung des im Inlande erzeugten Rübenzuckers und Salzes erfolgen, wie sie jeweils in Bayern in Kraft sein oder abgeändert werden.
+
+Die Erzeugung oder der Verbrauch von Malz, sowie der Betrieb der Runkelrüben-Zuckerfabrication, dann die Gewinnung von Salz soll im fraglichen Zollausschlusse erst dann gestattet werden, wenn die gedachten, hierauf bezüglichen Gesetze ec. ec. dort zuvor in Kraft getreten sind.
+
+- 3\. Die kaiserlich-königliche Regierung wird alle Abänderungen der gesetzlichen oder reglementären Bestimmungen über den Betrag oder über die Erhebungsform und die Controle der Ein- und Ausgangsabgaben, sowie rücksichtlich der Durchfuhr, welche in Bayern etwa getroffen werden möchten, auf desfallsige Mittheilung und Einladung auch in dem vorgenannten Gebietstheile eintreten lassen.
+
+- 4\. Da die kaiserlich-königliche Regierung es als den bestehenden Verhältnissen, und besonders dem Zwecke der Aufrechthaltung eines möglichst freien gegenseitigen Verkehres entsprechend anerkennt, die inneren Erzeugnisse in der Gemeinde Jungholz der nämlichen Besteuerung, wie in Bayern, zu unterwerfen, so erklärt dieselbe für den Fall, als in der Folge in Bayern noch andere als die im Artikel 4 des Vertrages genannten Erzeugnisse mit einer Steuer belegt werden sollten, ihre Bereitwilligkeit, auf jedesmalige besondere Einladung auch für den gedachten Gebietstheil die gleichzeitige Annahme derjenigen gesetzlichen Bestimmungen, welche einem solchen Falle in Bayern entweder bei der ersten Einführung oder in Folge späterer Abänderungen angeordnet werden möchten, zu bewirken und deßhalb in Bayern zu treffenden Maßregeln auch in jenem Gebietstheile in Vollzug zu setzen.
+
+- 5\. Der Anschluß von Jungholz an das bayerische indirecte Steuersystem erfolgt in der Weise, wie dasselbe in Bayern rechts des Rheines besteht. Im Verhältniß zur bayerischen Rheinpfalz wird übrigens dießfalls eine völlige Gleichstellung der kaiserlichköniglichen Staatsangehörigen in dem gedachten Gebietstheile mit den Angehörigen des dießseitigen Bayerns zugesichert.
+
+2\. Zum Artikel 6 des Vertrages.
+
+- 1\. Die Gesetze und Verordnungen über das von den kaiserlichköniglichen Gerichten oder Behörden in Untersuchungssachen wegen Zollvergehen zu beobachtende Verfahren wird die kaiserlichkönigliche Regierung der königlich bayerischen Regierung vollständig mittheilen.
+
+- 2\. Die Acten über die im Artikel 6 des Vertrages in Frage stehenden Zollvergehen werden vor der Entscheidung zur allenfallsigen Erinnerung und nach erfolgter Entscheidung zur Kenntnißnahme von den betreffenden kaiserlich-königlichen Behörden an das königlich bayerische Hauptzollamt Pfronten mitgetheilt werden.
+
+- 3\. Die Verabredung im erwähnten Artikel 6 des Vertrages und folgende, sowie vorstehende, sollen eintretenden Falles auch für die Untersuchung und Bestrafung der Steuercontraventionen maßgebend sein.
+
+3\. Zum Artikel 8 des Vertrages.
+
+Seine kaiserlich-königliche Apostolische Majestät wollen vor Entscheidung auf die eingehenden Begnadigungs- oder Strafverwandlungsgesuche eine Communication darüber zwischen Ihrer und der königlich bayerischen Regierung eintreten und der letzteren von der getroffenen Entscheidung Mittheilung machen lassen.
+
+4\. Zu Artikel 9 und 10 des Vertrages.
+
+Königlich bayerischer Seits wird von den Uebereinkünften oder Verabredungen, welche zwischen den Zollvereinsregierungen etwa in Beziehung auf einen oder den anderen der in den Artikeln 9 und 10 des Vertrages gedachten Gegenstände oder sonst zum Zwecke der Erleichterung des Handels und Verkehres in weiterer Ausbildung der Vereinsverhältnisse getroffen werden sollten, der kaiserlichköniglichen Regierung stets Mittheilung gemacht und es wird kaiserlich-königlicher Seits dergleichen Uebereinkünften und Verabredungen auf desfallsige Einladung auch in dem anzuschließenden Gebietstheile Folge gegeben werden.
+
+5\. Zum Artikel 11 des Vertrages.
+
+Die Bestimmungen der am 21. September 1842 unter den Zollvereinsstaaten abgeschlossenen Uebereinkunft wegen Ertheilung von Erfindungspatenten und Privilegien sollen nach Maßgabe der hierüber im Artikel 21 des Zollvereinigungsvertrages vom 8. Juli 1867 getroffenen Abrede auch in dem an Bayern anzuschließenden kaiserlich-königlichen Gebietstheile Anwendung finden.
+
+6\. Zum Artikel 12 des Vertrages.
+
+Man ist einverstanden, daß die Bestimmung im Artikel 11 der Befugniß der contrahirenden Regierungen keinen Eintrag thut, von Spielkarten und Kalendern eine Stämpelabgabe zu erheben.
+
+Jedoch wird die kaiserlich-königliche Regierung die Anfertigung von Spielkarten und Kalendern in der Gemeinde Jungholz nicht gestatten.
+
+Die dem dortigen Verbrauche entsprechende Menge von Spielkarten und Kalendern kann dagegen, mit kaiserlich-königlichen Stämpeln versehen und von Attesten der betreffenden kaiserlich-königlichen Behörden begleitet, abgabenfrei aus den kaiserlich-königlichen Staaten über das Hauptzollamt Pfronten nach vorausgegangener ordnungsmäßiger Declaration bei demselben nach Jungholz eingebracht werden.
+
+7\. Zum Artikel 13 des Vertrages.
+
+- 1\. Wenn die Verhältnisse der Gränzbewachung die Errichtung einer bayerischen Aufsichtsstation in Jungholz erfordern sollten, so wird hierzu in Gemäßheit der im Artikel 13 des Vertrages getroffenen Verabredung von kaiserlich-königlicher Seite im Voraus die Zustimmung ertheilt, und zugleich die Bereitwilligkeit erklärt, in diesem Falle für die Beschaffung der benöthigten Localitäten gegen entsprechende Vergütung Sorge tragen zu wollen.
+
+  Sollte zur besseren Verbindung dieser Station mit den angränzenden bayerischen Gränzwachstationen die Herstellung eines fahrbaren Weges zwischen Pfronten und Jungholz nothwendig und königlich bayerischerseits beschlossen werden, so macht sich die kaiserlich-königliche Regierung anheischig, die gedachte Gemeinde, auf deßfallsiges Ansuchen der königlich bayerischen Regierung, zur unverzüglichen Herstellung eines Fahrweges innerhalb ihres Bezirkes von dem Orte Jungholz bis zur bayerischen Gränze in einer bayerischerseits festzustellenden Richtung zu verhalten.
+
+- 2\. Die betreffenden kaiserlich-königlichen Justiz- und Polizeibehörden werden angewiesen werden, den in dem anzuschließenden Gebietstheile fungirenden Zollbeamten in Beziehung auf ihre Dienstleistungen jeden gesetzlich zulässigen Beistand zu leisten.
+
+- 3\. Die Zutheilung in Ansehung der Verwaltung und Beaufsichtigung an die betreffenden bayerischen Behörden und Beamten wird auch rücksichtlich der Rübenzucker- und Salzsteuer, dann des Malzaufschlages, sofern es zur Erhebung von solchen in dem anzuschließenden Gebietstheile kommen sollte, sowie rücksichtlich anderer, nach der Verabredung unter Nr. 1 Ziffer 4, gegenwärtigen Protokolles eventuell einzuführenden Steuern auf innere Erzeugnisse, stattfinden.
+
+8\. Zum Artikel 14 des Vertrages.
+
+- 1\. Bayern wird die sämmtlichen Verwaltungskosten allein tragen.
+
+- 2\. Die kaiserlich-königliche Regierung verpflichtet sich, von drei
+
+  zu drei Jahren eine sorgfältige Aufnahme der Bevölkerung in dem dem bayerischen Zollsysteme anzuschließenden Gebietstheile nach den dieserhalb in Bayern zur Anwendung kommenden Grundsätzen und in denselben Terminen, in welchen diese Aufnahme in Bayern geschieht, und zwar sofort nach erfolgtem Anschlusse für die Jahre 1868 bis 1870, sodann aber weiter zu Ende des Jahres 1870 für die nächstfolgenden drei Jahre u. s. w. bewirken zu lassen und die Resultate derselben der königlich bayerischen Regierung zur Grundlage der Abrechnung mit den Zollvereinsstaaten mitzutheilen.
+
+9\. Zum Artikel 15 des Vertrages.
+
+In Gemäßheit der unter Artikel 15 des Vertrages getroffenen Verabredung wird die kaiserlich-königliche Regierung die in der Anlage beigefügte Verordnung über die Nachversteuerung der in dem anzuschließenden Gebietstheile vorhandenen Bestände von ausländischen Waaren publiciren lassen. Die Publication darf nicht früher als drei Tage vor dem zur Ausführung des Vertrages bestimmten Termine erfolgen.
+
+Gleichzeitig wird eine gemeinschaftliche Commission zur Ausführung dieser Verordnung zusammentreten.
+
+Diese Commission wird die Revisionen der declarirten Waarenquantitäten durch die ihr zur Disposition zu stellenden bayerischen Beamten veranlassen; sie wird demnächst die einzuzahlenden Steuerbeträge festsetzen und überhaupt alles zur Regulirung und Beendigung der Nachsteuer-Angelegenheit Erforderliche anordnen.
+
+Im Allgemeinen wird jedoch bei der Festsetzung und Einziehung der Nachsteuer mit möglichster Schonung verfahren, die Beweisführung des inländischen Ursprunges bei den betreffenden Artikeln nicht zu sehr erschwert, und die specielle Revision, da, wo solche für nöthig befunden wird, nicht über den Zweck der Sache ausgedehnt, überhaupt aber so eingerichtet werden, daß der gewerbliche Verkehr der Nachsteuerpflichtigen nicht darunter leidet.
+
+Die Nachversteuerung ist auf die Waarenartikel, welche in dem festgesetzten Nachsteuer-Tarife aufgenommen sind, beschränkt. Sollte sich indessen zeigen, daß zur Befriedigung gewinnsüchtiger Speculation ungewöhnliche Vorräthe von den im Nachsteuer-Tarife nicht genannten Waarenartikeln in Jungholz angehäuft würden, so soll der gedachte Tarif durch nachträgliche Einschaltung der betreffenden Waarenartikel vervollständigt werden.
+
+Bis zu dem Zeitpuncte, wo die Aufnahme der Bestände der nachsteuerpflichtigen Waaren in dem anzuschließenden Gebietstheile völlig beendet sein wird, dauert die Gränzbewachung gegen den letzteren einstweilen noch fort, und es bleibt daher bis zu diesem Zeitpuncte die Herstellung des vertragsmäßig freien Verkehres ausgesetzt.
+
+Die aufkommende Nachsteuer fließt in die Casse des Gesammtvereines.
+
+10\.
+
+Auf den Wunsch der kaiserlich-königlichen Regierung wird die königlich bayerische Regierung, der von der Gemeinde Jungholz gestellten Bitte entsprechend, die abgabenfreie Einbringung von jährlich drei Eimern zum Gottesdienste in Jungholz bestimmten Opferweines aus Tirol gestatten.
+
+So geschehen Wien, am 3. Mai 1868.

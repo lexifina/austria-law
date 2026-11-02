@@ -1,0 +1,1 @@
+Erlöschen des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über den Austausch von Gastarbeitern StF: [BGBl. III Nr. 133/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_133_3/1997_133_3.pdf>)

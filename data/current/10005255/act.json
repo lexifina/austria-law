@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005255",
+  "short_title": "Sichtvermerkzwang - Aufhebung (Japan)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Japan",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005339",
+    "valid_from": "1958-04-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005255&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:41:29.414295+00:00",
+    "response_sha256": "4c07bd01c4d4648ab34d1f29dd423ae4cc9cecb9b9e929e0b44082ef18586875",
+    "snapshot_sha256": "0f3328957357211ddad0c0c5765c808fe21c586203e2c574588eb3719203a284",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3338e5040b8d39d8b6b0aaac96301471b89d8b97bf35755722a41e845dde3002",
+      "sha256": "2f00c3b54e3198d3abef321a9ff0ef1d77a9837368b9d852275aa9a96dd3da95",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Österreichischen Bundesregierung und der Japanischen Regierung über die Aufhebung des Sichtvermerkszwanges zwischen Österreich und Japan. StF: BGBl. Nr. 85/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 85/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_85_0/1958_85_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "daf80ac0d7251e5c1eac4780a562a6f049ace95f0983f94a4ca921332d86062a",
+      "sha256": "badb7f741eac09317e90465e168f8d5b38ab164263a9c88493d4d6d6b3c3f242",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

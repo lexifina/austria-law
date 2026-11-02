@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit und Generationen betreffend die Einbeziehung einer weiteren Personengruppe in den anspruchsberechtigten Personenkreis des Bundespflegegeldgesetzes (Einbeziehungsverordnung 2002) StF: [BGBl. II Nr. 72/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_72_2/2002_72_2.pdf>)
+
+Auf Grund des § 3 Abs. 4 des Bundespflegegeldgesetzes, [BGBl. Nr. 110/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_110_0/1993_110_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 69/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_69_1/2001_69_1.pdf>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem Verstöße gegen bestimmte einstweilige Verfügungen zum Schutz vor Gewalt und zum Schutz vor Eingriffen in die Privatsphäre zu Verwaltungsübertretungen erklärt werden StF: [BGBl. I Nr. 152/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/152>) (NR: GP XXIV [RV 2434](<https://www.parlament.gv.at/gegenstand/XXIV/I/2434>) [AB 2549](<https://www.parlament.gv.at/gegenstand/XXIV/I/2549>) [S. 215.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/215>) BR: [9047](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9047>) [AB 9061](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9061>) [S. 823.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/823>))
+
+Der Nationalrat hat beschlossen:

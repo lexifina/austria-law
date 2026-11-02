@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Verkehr und verstaatlichte Unternehmungen vom 5. Dezember 1966 über die Pensionsansprüche der Bundesbahnbeamten, ihrer Hinterbliebenen und Angehörigen (Bundesbahn-Pensionsordnung 1966 – BB-PO. 1966) StF: [BGBl. Nr. 313/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_313_0/1966_313_0.pdf>)

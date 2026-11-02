@@ -1,0 +1,1 @@
+Anhang zum Protokoll, betreffend die Abänderung des in Paris am 4. Mai 1910 unterzeichneten Internationalen Abkommens, betreffend die Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen.(Anm.: es folgt der Text der Änderungen)

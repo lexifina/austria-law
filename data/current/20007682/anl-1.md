@@ -1,0 +1,111 @@
+## Anhang 1: Gefahrenzone
+
+<table>
+  <tr>
+    <td><p>Netz-Nennspannung (kV)</p></td>
+    <td colspan="2"><p>Äußere Grenze der Gefahrenzone (cm)</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p>Innenraumanlage</p></td>
+    <td><p>Freiluftanlage</p></td>
+  </tr>
+  <tr>
+    <td><p>&lt;1</p></td>
+    <td colspan="2"><p>keine Berührung</p></td>
+  </tr>
+  <tr>
+    <td><p>3</p></td>
+    <td><p>6</p></td>
+    <td><p>12</p></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>9</p></td>
+    <td><p>12</p></td>
+  </tr>
+  <tr>
+    <td><p>10</p></td>
+    <td><p>12</p></td>
+    <td><p>15</p></td>
+  </tr>
+  <tr>
+    <td><p>15</p></td>
+    <td><p>16</p></td>
+    <td><p>16</p></td>
+  </tr>
+  <tr>
+    <td><p>20</p></td>
+    <td><p>22</p></td>
+    <td><p>22</p></td>
+  </tr>
+  <tr>
+    <td><p>30</p></td>
+    <td><p>32</p></td>
+    <td><p>32</p></td>
+  </tr>
+  <tr>
+    <td><p>36</p></td>
+    <td><p>38</p></td>
+    <td><p>38</p></td>
+  </tr>
+  <tr>
+    <td><p>45</p></td>
+    <td><p>48</p></td>
+    <td><p>48</p></td>
+  </tr>
+  <tr>
+    <td><p>60</p></td>
+    <td><p>63</p></td>
+    <td><p>63</p></td>
+  </tr>
+  <tr>
+    <td><p>70</p></td>
+    <td><p>75</p></td>
+    <td><p>75</p></td>
+  </tr>
+  <tr>
+    <td><p>110</p></td>
+    <td><p>110</p></td>
+    <td><p>110</p></td>
+  </tr>
+  <tr>
+    <td><p>132</p></td>
+    <td><p>130</p></td>
+    <td><p>130</p></td>
+  </tr>
+  <tr>
+    <td><p>150</p></td>
+    <td><p>150</p></td>
+    <td><p>150</p></td>
+  </tr>
+  <tr>
+    <td><p>220</p></td>
+    <td><p>210</p></td>
+    <td><p>210</p></td>
+  </tr>
+  <tr>
+    <td><p>275</p></td>
+    <td><p>240</p></td>
+    <td><p>240</p></td>
+  </tr>
+  <tr>
+    <td><p>380</p></td>
+    <td><p>340</p></td>
+    <td><p>340</p></td>
+  </tr>
+  <tr>
+    <td><p>480</p></td>
+    <td><p>410</p></td>
+    <td><p>410</p></td>
+  </tr>
+  <tr>
+    <td><p>700</p></td>
+    <td><p>640</p></td>
+    <td><p>640</p></td>
+  </tr>
+</table>
+
+## Ausnahmen von Anhang 1 und Anhang 2:
+
+Von den in Anhang 1 und 2 angeführten Abständen kann abgewichen werden, wenn die Ermittlung und Beurteilung der Gefahren nach den anerkannten Regeln der Technik ergibt, dass ein sicheres Arbeiten möglich ist.

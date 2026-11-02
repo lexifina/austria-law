@@ -1,0 +1,99 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001325",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 944 (1994)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001333",
+    "valid_from": "1994-11-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001325&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:45:02.804970+00:00",
+    "response_sha256": "df4e7851ea826dfcd687032475b5aede3601b1ff026671a2caeca54abed68012",
+    "snapshot_sha256": "7d4c6be2da9993711bb6bb023650258718cd5a41537e41c2d313a71da13e928c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5cc39c79f35b62bb82a3e466b866869ae6ddcaf9a74c6b30a14b45937f994a6",
+      "sha256": "d71e1bdf6aa0ce98e5e80d84182c0356413cff30d60befe570be572e948f2c46",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 944 (1994) verabschiedet auf der 3430. Sitzung des Sicherheitsrats am 29. September 1994 StF: BGBl. Nr. 861/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 861/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_861_0/1994_861_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 944 (1994) VERABSCHIEDET AUF DER 3430. SITZUNG DES SICHERHEITSRATS AM 29. SEPTEMBER 1994",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "afee983e906b4230092018d70f44df6670f75193d3c43db9140aab0adb821cf0",
+      "sha256": "33ed0173af6285662e254d369b6736ee22a62d46a2473305b55021ae8c8047c0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 444/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_444_0/1994_444_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

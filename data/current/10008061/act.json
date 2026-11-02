@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008061",
+  "short_title": "Physikatsprüfungsverordnung – 3. Ergänzung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008211",
+    "valid_from": "1875-10-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008061&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:13:45.107075+00:00",
+    "response_sha256": "7ce07e13027d12ed63d303ae8b3431424177d1e046e4edd31f3391942a755235",
+    "snapshot_sha256": "4b281b014c2c165cff4d1bc5d22404472853a38d67f5b9c1accd38dc683a6fe4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6e54f61215285c99607187f51e62fd598ba918f389a00dea594f9ab142e0a67",
+      "sha256": "9606a492e1d3dc777baf834409cc4f7e3d8d346118b0210fe34b5d93b097a2b0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Ministeriums des Innern vom 18. September 1875, betreffend die Prüfung der Aerzte zur Erlangung einer bleibenden Anstellung im öffentlichen Sanitätsdienste bei den politischen Behörden StF: RGBl. Nr. 126/1875"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 126/1875",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=126/1875&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5165b9f71324dfba0c06b9dff704ee1c7386e44e29a1bca51dbae3a7996fc8cb",
+      "sha256": "f76d1ad6eeb69d47fb4fb179d56621667927006a1f98a8c29a99f3848c8bc041",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

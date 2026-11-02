@@ -1,0 +1,1 @@
+Verordnung des Bundeskanzlers betreffend die Kundmachung des Beschlusses der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten vom 25. Juni 1996 zur Ausarbeitung eines Rückkehrausweises StF: [BGBl. III Nr. 70/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_70_3/2003_70_3.pdf>)

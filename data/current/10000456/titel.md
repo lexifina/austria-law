@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 17. Juli 1969, mit der die Besorgung von Geschäften der Bundeswasserbauverwaltung dem Landeshauptmann übertragen wird StF: [BGBl. Nr. 280/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_280_0/1969_280_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für Vermögenssicherung und Wirtschaftsplanung im Einvernehmen mit den beteiligten Bundesministerien vom 15. September 1946 zur Durchführung des Ersten Rückstellungsgesetzes. StF: [BGBl. Nr. 167/1946](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1946_167_0/1946_167_0.pdf>)
+
+Auf Grund des § 7 des Bundesgesetzes vom 26. Juli 1946, B. G. Bl. Nr. 156, über die Rückstellung entzogener Vermögen, die sich in Verwaltung des Bundes oder der Bundesländer befinden (Erstes Rückstellungsgesetz) - im folgenden kurz Gesetz genannt - wird einvernehmlich mit den beteiligten Bundesministerien verordnet:

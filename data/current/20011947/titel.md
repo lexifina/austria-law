@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für europäische und internationale Angelegenheiten über das kommissionelle Auswahlverfahren zur Eignungsfeststellung für die Verwendung im auswärtigen Dienst („Préalable“) des Bundesministeriums für europäische und internationale Angelegenheiten (Auswahlverfahren-Verordnung für den auswärtigen Dienst – BMEIA) StF: [BGBl. II Nr. 257/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/257>)
+
+Auf Grund des § 13 Abs. 2 des Bundesgesetzes über Aufgaben und Organisation des auswärtigen Dienstes – Statut, [BGBl. I Nr. 129/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_129_1/1999_129_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 30/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/30>), wird verordnet:

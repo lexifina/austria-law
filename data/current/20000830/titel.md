@@ -1,0 +1,3 @@
+Bundesgesetz über den Fonds für freiwillige Leistungen der Republik Österreich an ehemalige Sklaven- und Zwangsarbeiter des nationalsozialistischen Regimes (Versöhnungsfonds-Gesetz) StF: [BGBl. I Nr. 74/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_74_1/2000_74_1.pdf>) (NR: GP XXI [IA 180/A](<https://www.parlament.gv.at/gegenstand/XXI/A/180>) [AB 255](<https://www.parlament.gv.at/gegenstand/XXI/I/255>) [S. 34.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/34>) BR: [AB 6170](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6170>) [S. 667.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/667>))
+
+Der Nationalrat hat beschlossen:

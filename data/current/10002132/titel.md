@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 24. Oktober 1969 betreffend die Ausdehnung des Geltungsbereiches des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht auf das gesamte Hoheitsgebiet der Portugiesischen Republik StF: [BGBl. Nr. 369/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_369_0/1969_369_0.pdf>)

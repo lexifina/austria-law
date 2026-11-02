@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009494",
+  "short_title": "Errichtung einer weiteren Notarstelle in Grieskirchen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40180394",
+    "valid_from": "2016-03-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009494&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:34:04.056873+00:00",
+    "response_sha256": "a03af0a8218fe33eb6d20dcc70ef368d2876dbbc9b6379299d76a4133f35f6d1",
+    "snapshot_sha256": "2bb8045e399f541c75827b1c5c308f37c22dfc53cc113f13f8777f4937c52f3d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26c6ab02ea48748b26aac0360ac2050b75b38cb3f2c5ebd00bf3f64dfac21972",
+      "sha256": "a0c2e466061e03bbe3a5290367b19b76256705e9545438a4e5765b7dc8112e48",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz über die Errichtung einer weiteren Notarstelle in Grieskirchen StF: BGBl. II Nr. 65/2016"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 65/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/65"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 87/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/87"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a106318f943a9827f55f4fe50af485d240a1293f2a106924f22337ffaa80b0ca",
+      "sha256": "eaa522c7a54d2ee13a49f6079fa96aa8a1e689dfebb6b33f1e7d1c1e2ae89d5c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

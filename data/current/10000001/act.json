@@ -1,0 +1,768 @@
+{
+  "sample_only": false,
+  "included_provisions": 25,
+  "source_provision_count": 25,
+  "schema_version": 1,
+  "gesetzesnummer": "10000001",
+  "short_title": "Einrichtung der Gerichtsbehörden",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000001",
+    "valid_from": "1945-07-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Diese Verordnung ist hinsichtlich der Beilage D bezüglich der §§ 1, 3 bis 5, 6 Abs. 2, 8 bis 11 und 17 durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, mit Wirksamkeit vom 10. Juli 1945 wieder in Kraft gesetzt worden."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000001&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:20:19.198216+00:00",
+    "response_sha256": "35de4545981bfcc56bc86062113c5ddc9b3e47c5f3c0ebd4f92eb1df3019d71f",
+    "snapshot_sha256": "a32b1150e1bcb1440f77fc9ede4ccee609dbaaea1676a352d4451e86eb3331cf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a6b28dd8c163f774db09bfe5675788c376f42a96f65a0c4b132271ad6f3f706",
+      "sha256": "b0b855fcd10e79fef546e0860229563cb60e6c23ae7c532d3581b74dcea3fb0a",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Diese Verordnung ist hinsichtlich der Beilage D bezüglich der §§ 1, 3 bis 5, 6 Abs. 2, 8 bis 11 und 17 durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, mit Wirksamkeit vom 10. Juli 1945 wieder in Kraft gesetzt worden."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Minister des Innern, der Justiz und der Finanzen vom 19. Jänner 1853, womit die Allerhöchsten Entschließungen über die Einrichtung und Amtswirksamkeit der Bezirksämter, Kreisbehörden und Statthaltereien, über die Einrichtung der Gerichtsstellen und das Schema der systemisirten Gehalte und Diätenclassen, sowie über die Ausführung der Organisirung für die Kronländer Oesterreich ob und unter der Enns, Böhmen, Mähren, Schlesien, Galizien und Lodomerien mit Krakau, Bukowina, Salzburg, Tirol mit Vorarlberg, Steiermark, Kärnthen, Krain, Görz, Gradiska und Istrien mit Triest, Dalmatien, Kroatien und Slawonien, Siebenbürgen, die serbische Wojwodschaft mit dem Banate, kundgemacht werden. StF: RGBl. Nr. 10/1853"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 277/1925 (NR: GP II 116 AB 360 S. 107 u. 108.) StGBl. Nr. 47/1945 BGBl. Nr. 91/1993 (NR: GP XVIII RV 715 AB 775. S. 101. BR: 4477 AB 4467 S. 564.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 10/1853",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=10/1853&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 277/1925",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=277/1925&SkipToDocumentPage=True"
+        },
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 91/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_91_0/1993_91_0.pdf"
+        },
+        {
+          "text": "RV 715",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/715"
+        },
+        {
+          "text": "AB 775.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/775"
+        },
+        {
+          "text": "S. 101.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/101"
+        },
+        {
+          "text": "4477",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4477"
+        },
+        {
+          "text": "AB 4467",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4467"
+        },
+        {
+          "text": "S. 564.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/564"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "D. Allerhöchste Bestimmungen über die Einrichtung der Gerichtsbehörden.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7e88b565949d63aaf42dab12e0988769af5b6a9371cf6ea05125a9cc9065dcb",
+      "sha256": "0daf7cefb8185c9ae02175f39307788397bb83116ef43a69dce7cc1fa515774a",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "1. In der Z 2 hat es nunmehr \"Vizepräsident\" (§ 65 RDG, BGBl. Nr. 305/1961) zu heißen. 2. In der Z 3 hat es statt \"Oberlandesgerichtsräthen\" nunmehr \"Richter des Oberlandesgerichtes\" zu heißen. 3. Der Z 4 ist durch die §§ 1 bis 3 und 6 Abs. 1 der Gerichtsverfassungsnovelle 1921, BGBl. Nr. 422/1921 und insbesondere durch Art. 86 Abs. 2 B-VG, Art. I bis III des RDG, BGBl. Nr. 305/1961, und durch das RPG, BGBl. Nr. 644/1987, materiell derogiert. 4. Zu den Z 5 bis 8 siehe auch die §§ 48 bis 63 GOG, RGBl. Nr. 217/1896, das RpflG, BGBl. Nr. 560/1985, und die §§ 29 ff. Geo., BGBl. Nr. 264/1951."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 422/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=422/1921&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 644/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_644_0/1987_644_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 217/1896",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=217/1896&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 560/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_560_0/1985_560_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 264/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_264_0/1951_264_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§. 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32cf4c3a88a5f7a88b3073f8225015e84b153cbbffbdf3378f7f394420c6ef6e",
+      "sha256": "df1332a91790b49cd9ee712b8262ef57a5499f47c39aaaf1afd33a81fb8c0be3",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ffc36549605d4f4e51c91dd117551b245ad760dd107cbb40dcb43b11a8b80fe",
+      "sha256": "4f0512f7b5004daab7e36d4cd0d93d80ff1c9efdfafb0e25ceb3def0596ac569",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§. 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c6afc547b2c8fe374608739dbc9e6ebc75a135a73beefa5395eef0e512d67da",
+      "sha256": "c081849c6deae276a2d3660530ab3115ee40e8ca06eaec218895966ea20c9209",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "§ 5.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2cedab761c7fbf1b84eb101f8de6ebf2125c8b0cd5d8e8b8c533824aa871ad9",
+      "sha256": "142f4b6b3918a0dec427699eced7a6e9e67f426f512de87e065ff5075bd24947",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§. 6.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08bd653cd5d36ba2b22565227ea851d6ba5bebc6c22c1cbc28b56aedc7161218",
+      "sha256": "f2c3e62012c161d0851adb1d356aab670166e4dc290e778b56b4acaa26b96c45",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        },
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§. 7.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a86b34dd18b7e88678f34375aeeaa6fb514c37013a3c0b2c41c3c213af4fa8e",
+      "sha256": "fc723320f82012c61c281918d586b0e173c77f806a7b76784bd556055d443ea3",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§. 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c2c5dd8dea8fb1329fb88910d05d98a0f2dc185093892780a458046ace77de3",
+      "sha256": "9f3b5ee79dc111d8598f5babaf95389dea396469ce914dcbf00a7c0bb14fc5bc",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Gegenstandslos bezüglich der Seegerichte: die Seegerichtsbarkeit ist insbesondere durch Art. II Z 1, 1a und 2 der Zivilverfahrens-Novelle 1983, BGBl. Nr. 135/1983, aufgehoben worden."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 135/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_135_0/1983_135_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "§. 9.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20de957b7a9f780c27ed3cb8bd72397156665e94ce670381e3a022091f6b2abe",
+      "sha256": "5a34845b5d72316b735b16efb738dc247b6d10442747cc52c020d3e38bb607f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§. 10.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0eb1dd54a66fd0a06808438f033435f196b312662fb1d41a1f7db20382abc573",
+      "sha256": "32633c5f44ee6668fe46badaa021a054111e99333df149f311e5c11305b25bc2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 135/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_135_0/1983_135_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "§. 11.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5178cf9b11dd025ba2c7d8887c36d9f06d3d10a172090bf41f8077828949dc82",
+      "sha256": "3e8ce104ebe655ffdb9b948a72532a7ec033dc09a64308d56116f4f908fb6541",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "\"Auscultanten\" sind den nunmehrigen Rechtspraktikanten (s. RPG, BGBl. Nr. 644/1987) und Richteramtsanwärtern (s.u.a. § 1 RDG, BGBl. Nr. 305/1961) gleichzuhalten (s. Hofdecret vom 27. Februar 1784, S 315, Nr. 247)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 644/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_644_0/1987_644_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§. 12.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "30920b192cb08c4ccbc053af106ea46b4b0790bf72b54776a4b130840eac65fe",
+      "sha256": "bb2211af9c534bd85c6403a8822bc7273df848914c0004ed4c432621b5fa3f81",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "§. 13.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39ee619da7705334684e8f839707c4a8f152fa399a5f0f8c75b4741dc351a746",
+      "sha256": "2044a1d5a0122efeb66579d095cda0262df08b0b244b169055be64323d218242",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "§. 14.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca36e83bacde3c152aa44dc7377be736246315cd87292f971c90976698c3f64f",
+      "sha256": "e9b3a65ed3ddbd61fff2907b47ef207b865b21cd822d700499678aad4fcd08ed",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "§. 15.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6857bb0ae6c23799145fd0d635b466a32e7a9e46c5e07abbe4889c1bbe7d7d2",
+      "sha256": "6ab3a8f64c3e8fcb68ec269e27edad8a4c0bb25f633b26b28d52062ed9edfb7a",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§. 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9aac4e4c43290e4589d9b83f876f08e88c76331e6f3995fa149ea4f1df0ceadd",
+      "sha256": "692418f3e4c578ff626ecee25f46587d3905f69b8ebf5cb28a067ed9d155f5c5",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "§. 17.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85b8564e14bfd5801c2e4fd2fa44eb4aef175f91c4472afde3c077455e77a6b0",
+      "sha256": "e661b4f27f5f4255e01f284dfa254c85f4484290efd637d7c990e59a8baa6e0b",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Materiell derogiert durch das StAG, BGBl. Nr. 164/1986 (insb. durch §§ 2, 7 und 26 StAG)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 164/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_164_0/1986_164_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "§. 18.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bdff1f7187a8a840d58dc0c0bf2814bb7bdc88d31382bf57f41bba260351f404",
+      "sha256": "886186da045935de278c40ae66298c9bfb9ec30119f62552690a00165b544920",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "§. 19.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "496df8d3c274641c83e61c895b954cf7d57d1b532ed650e5fa19dadbc9e39d1a",
+      "sha256": "7a7c1bf5d63647af092ad1f734b7b508671481a0d7977c816f6ce41ba191a51e",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "§. 20.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04b98ba330f7d3d83a6181bb81faefbf3965991a664f1cae8661daf80de809f4",
+      "sha256": "e6f7526c97b22b74deea5d997f82baee922580e0548e6f25bf134f7c1c32b938",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "§. 21.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "427c55ddab299cc2b381a03ae04c91417e7d038c0db637bb874f4b6f1f2db65c",
+      "sha256": "416078f81bf82f99bd43cbd9ae52d181652f8a2c02747e22bba4b289e67fe602",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "§. 22.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0dcad650e4a3d31999d3e7fdd26b4f7671a8afccac3a891e53d11d9b2151689",
+      "sha256": "36581382a5464347ce7c9feea3d11e12d4188d47c8bd3aab472b1eafa464f718",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "§. 23.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f77b1fcc485165b7ce15d8a5e7d7514bf2a0869ce38a1fe79426ac5e92367dd4",
+      "sha256": "5f754c0b01aa263e457410deabefd6804c0e6b8e30a0345debb7b97045cc0b9b",
+      "notes": [],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 11 § 2",
+      "source_heading": "Anhängige Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "art-011/par-0002.md",
+      "source_context": "BGBl. Nr. 91/1993",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5751aabe475e6070dd6e5dfce34b64c542afecbd42142cad845aaac6ed1164ae",
+      "sha256": "391b13d7ea5208b0da5acb0ea57ae740ae74714ad34f18b768e84297600735be",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 91/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_91_0/1993_91_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 10/1853",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=10/1853&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

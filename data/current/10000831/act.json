@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000831",
+  "short_title": "VfGH-Feststellung einer Verfassungswidrigkeit",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000833",
+    "valid_from": "1986-06-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000831&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:36:36.451260+00:00",
+    "response_sha256": "63ad0af8ca963a0e32cceee28a8b7de75303fcf540ebe19453e9c870084caa08",
+    "snapshot_sha256": "2adb1c50d8304bdf816dadaa3da2a0a6ef99a0fe6149b50caf28a899e7082d4e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec2a1668c0b8ea00cd7be38c5e60977152f7c60a83091c933d47ec23b14f4dcd",
+      "sha256": "afd3430cf9c420535eefe0a8e84c35d2b6e1349e9b07d8f2a88283494c465776",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 11. Juni 1986 über die Feststellung der Gesetzwidrigkeit der §§ 1 und 2 der Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 30. Juli 1984 betreffend Preisbestimmung für Milch durch den Verfassungsgerichtshof StF: BGBl. Nr. 331/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 331/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_331_0/1986_331_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "151aca0792be8960952fac5229d47bad708e553441a6004673f549abb859da22",
+      "sha256": "0c4a4aa7b60b4196cdd6fa632d26e6c0740340cc921ec4476c4c9da1bd0ad41e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

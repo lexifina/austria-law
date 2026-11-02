@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005744",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006369",
+    "valid_from": "2008-03-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005744&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:34:55.179386+00:00",
+    "response_sha256": "ba57937c4b718883cfdd9f6826c8903a51b96c28fe75eff5dc33db6d386c4766",
+    "snapshot_sha256": "71eb53b7efa373bea40836ad1dc61011ed2c7da4a8cd8a335e68b1346b546ab9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8706552a4e08ade4f18ffe49828425397680d47e11fde5b3f94e3f2b042b4daf",
+      "sha256": "e556ff31a94ba3ae1c8ccc9329ed51d212b8e13bd326ac127c342aefb4e497ed",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Hainersdorf, Großwilfersdorf, Bad Blumau, Altenmarkt bei Fürstenfeld und Fürstenfeld StF: BGBl. II Nr. 96/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 96/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/96"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6bcc687687fc9894233a17adb686457ba90f267d09a1c3376a6930c9d503361c",
+      "sha256": "e1946f688191abb0292f44269ae898a25faacdec78a82ace0d97a4b476b5a5d0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

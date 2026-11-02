@@ -1,0 +1,3 @@
+Verordnung des Vorstandsvorsitzenden der Österreichischen Post Aktiengesellschaft (ÖPAG) über die Gestaltung und Durchführung der Grundausbildung für die gemäß § 17 Abs. 1a des Poststrukturgesetzes (PTSG) der ÖPAG oder der Gebühren Info Service GmbH oder einem dieser Gesetzesbestimmung unterliegenden Tochterunternehmen der ÖPAG zur Dienstleistung zugewiesenen Beamtinnen/Beamten (Ausbildungsverordnung 2014 / AVO 2014) StF: [BGBl. II Nr. 240/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/240>)
+
+Den Zielsetzungen der Erhöhung von Flexibilität für das Unternehmen und der Konkurrenzfähigkeit sowie der beruflichen Weiterentwicklung der Beamten folgend wird gemäß § 26 Abs. 1 BDG 1979 in Verbindung mit § 17a Abs. 3 PTSG verordnet:

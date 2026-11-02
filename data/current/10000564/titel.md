@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Unterricht und Kunst vom 16. September 1975, mit der im Land Vorarlberg die Besorgung der Geschäfte von Förderungsstellen des Bundes für Erwachsenenbildung dem Landeshauptmann übertragen wird StF: [BGBl. Nr. 523/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_523_0/1975_523_0.pdf>)

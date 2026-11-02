@@ -1,0 +1,3 @@
+Bundesgesetz über Seilbahnen (Seilbahngesetz 2003 – SeilbG 2003) StF: [BGBl. I Nr. 103/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_103_1/2003_103_1.pdf>) (NR: GP XXII [RV 204](<https://www.parlament.gv.at/gegenstand/XXII/I/204>) [AB 246](<https://www.parlament.gv.at/gegenstand/XXII/I/246>) [S. 34.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/34>) BR: [AB 6883](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6883>) [S. 702.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/702>)) \[CELEX-Nr.: [32000L0009](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0009:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 5. Juni 1979 über den Geltungsbereich des Internationalen Übereinkommens über die Eichung von Binnenschiffen und Unterzeichnungsprotokoll vom 27. November 1925 StF: [BGBl. Nr. 245/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_245_0/1979_245_0.pdf>)

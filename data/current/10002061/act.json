@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002061",
+  "short_title": "Verlängerung der Schutzfrist für Werke der Literatur und Kunst (Frankreich)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Frankreich",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002084",
+    "valid_from": "1964-12-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002061&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:57:09.595676+00:00",
+    "response_sha256": "25cf42adf7768daf2297e50951225d22f03a4421c15441de361e039a5168b73c",
+    "snapshot_sha256": "fda8f9e915079ce2cfa179f266daedd173088abe0034a97e4537ddfa7a4f1779",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33cf702b2a20163088b7aa40593e405faf7d6c3de3de8600fd10fc138bae62dc",
+      "sha256": "f11824e3ffa0b5b358f7bfcd5ac455ed7c6964b9572132a9ba6d0b701df916ab",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Österreichischen Botschaft in Paris und dem französischen Ministerium für Auswärtige Angelegenheiten über die Verlängerung der Schutzfrist für Werke der Literatur und der Kunst. StF: BGBl. Nr. 285/1964"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 285/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_285_0/1964_285_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a23f18ab3b522587e251627b63afddcf790aa27563048c68b7a47c0d58f32cb8",
+      "sha256": "e17fea38654bd3400cf0f2f80340d22586ffe91967c58665384b6f5c1185f071",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

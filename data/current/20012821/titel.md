@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend die Festlegung des Inhalts von mit Mitteln der Datenverarbeitung oder schriftlich abgegebenen Zollanmeldungen, Anmeldungen und Mitteilungen (Zollanmeldungs-Verordnung 2024 – ZollAnm-V 2024) StF: [BGBl. II Nr. 9/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/9>)
+
+Aufgrund des § 36 des Zollrechts-Durchführungsgesetzes, [BGBl.Nr. 659/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_659_0/1994_659_0.pdf>) (ZollR-DG), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 110/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/110>), wird verordnet:

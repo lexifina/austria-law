@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Registrierung von Zuchtbetrieben, die mit bedrohten Tierarten international kommerziell handeln (Artenhandelsregistrierungsverordnung – ArtHRV) StF: [BGBl. II Nr. 57/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/57>)
+
+Aufgrund des § 2 Abs. 1 Z 1 des Artenhandelsgesetzes 2009, [BGBl. I Nr. 16/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/16>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird verordnet:

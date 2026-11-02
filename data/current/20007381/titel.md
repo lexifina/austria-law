@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem ein Pflegefonds eingerichtet und ein Zweckzuschuss an die Länder zur Sicherung und zum bedarfsgerechten Aus- und Aufbau des Betreuungs- und Pflegedienstleistungsangebotes in der Langzeitpflege für die Jahre 2011 bis 2028 gewährt wird (Pflegefondsgesetz – PFG) StF: [BGBl. I Nr. 57/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/57>) (NR: GP XXIV [RV 1207](<https://www.parlament.gv.at/gegenstand/XXIV/I/1207>) [AB 1286](<https://www.parlament.gv.at/gegenstand/XXIV/I/1286>) [S. 114.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/114>) BR: [AB 8553](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8553>) [S. 799.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/799>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Bundesregierung der Republik Österreich und der Neu-Seeländischen Regierung über die Aufhebung des Sichtvermerkzwanges zwischen Österreich und Neu-Seeland StF: [BGBl. Nr. 230/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_230_0/1958_230_0.pdf>)

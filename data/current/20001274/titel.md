@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen (New York, 1992) StF: [BGBl. II Nr. 153/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_153_2/2001_153_2.pdf>)

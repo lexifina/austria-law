@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 19. Jänner 1973 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur gesetzlichen Regelung amtswegiger behördlicher Maßnahmen betreffend einen Mindestabstand, der bei nichtforstlichen Neupflanzungen gegenüber landwirtschaftlichen Grundstücken einzuhalten ist StF: [BGBl. Nr. 59/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_59_0/1973_59_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 9. Oktober 1972, K II-1/72, – dem Bundeskanzleramt zugestellt am 12. Jänner 1973 – zusammengefaßt hat:

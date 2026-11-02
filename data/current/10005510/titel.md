@@ -1,0 +1,3 @@
+ABKOMMEN ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER REGIERUNG DES COMMONWEALTH DER BAHAMAS ÜBER DIE AUFHEBUNG DER SICHTVERMERKSPFLICHT StF: [BGBl. Nr. 23/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_23_0/1982_23_0.pdf>)
+
+Das vorstehende Abkommen tritt gemäß seinem Artikel 9 Absatz 1 am 1. Feber 1982 in Kraft.

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten über die Aufhebung der Wortfolge „in einem Umkreis von 200 m'' in der Z 2 des § 1 der Verordnung des Bürgermeisters der Gemeinde St. Gotthard im Mühlkreis vom 1. Dezember 1992 über das Verbot der Ausübung gewerblicher Tätigkeiten mittels Automaten durch den Verfassungsgerichtshof StF: [BGBl. Nr. 444/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_444_0/1996_444_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>), wird kundgemacht:

@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über den Schutz der Bediensteten vor der Einwirkung durch optische Strahlung (Verordnung optische Strahlung Bund – B-VOPST) StF: [BGBl. II Nr. 291/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/291>) \[CELEX-Nr.: [32006L0025](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0025:DE:HTML>)\]
+
+Aufgrund der §§ 3 Abs. 6, 4, 5, 12 bis 15, 20 Abs. 2, 22 Abs. 4, 28 Abs. 5, 33 Abs. 5, 38 Abs. 1, 66, 69, 70, 72 Z 4 bis 6 sowie 87 Abs. 2 des Bundes-Bedienstetenschutzgesetzes – B-BSG, [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 153/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/153>), wird verordnet:

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003558",
+  "short_title": "Emblem und Name - EUCONTROL",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003587",
+    "valid_from": "1998-03-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003558&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:46.057622+00:00",
+    "response_sha256": "3ff9e6c039358a64cdbb9bf5cf4a1b3d587d9f0c51947aac4445a6f6172400cd",
+    "snapshot_sha256": "e77ae917f216a0683321f351ccf3e99721fe7bcb9525af3891a44708f001aa87",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "405db074c3c6aed565f4ae57cf560fbcf881795325955f517efdd0949ee0d181",
+      "sha256": "b150f4b5ccf07d3707f220a0b25dcc00f7d574a58aa220061ec108c569fb29d0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem und den Namen der Europäischen Organisation für Flugsicherung (EUCONTROL) in deutscher, portugiesischer, griechischer, türkischer, ungarischer, norwegischer, dänischer, slowenischer, schwedischer, tschechischer und italienischer Sprache StF: BGBl. II Nr. 93/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 93/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_93_2/1998_93_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e37bfed84bdd043c6d2b2dac69ea5d05634466a61b4b8581b2c5256db33c273a",
+      "sha256": "290988761db3493527179cbf0e7bedd945d1cc9877a1e9db1a0755f971e0d078",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 119/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_119_0/1970_119_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

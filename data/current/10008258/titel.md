@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Wissenschaft und Forschung vom 13. November 1971 zur Durchführung des § 57 des Gehaltsgesetzes 1956 (Institutsdirektoren-Zulagenverordnung) StF: [BGBl. Nr. 426/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_426_0/1971_426_0.pdf>)

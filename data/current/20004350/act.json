@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004350",
+  "short_title": "Name und Emblem des Global Compact",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004743",
+    "valid_from": "2005-10-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004350&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:13:02.396484+00:00",
+    "response_sha256": "d536c516bdb1a664413d3cbef7be60fd7615ef68e3b8a526eeb1bb5cd4134842",
+    "snapshot_sha256": "9535b3d42f88ff5796b8eef770a3123f1f0fbda7b15a1e241d1c6df9edcf755f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dbc7795df4fc7c4086ba1eb1b52b95c770852b532a05598963865a0a44136bde",
+      "sha256": "535ea50c3b5d5855a2a51cf852ae4e6a238bce866c8fdcc64fecfc0ce3ec2c1e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und das Emblem des Global Compact StF: BGBl. II Nr. 336/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 336/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/336"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb6816e8db951cf4de1c6d24534aca9c838f7f92d4ee1924da3acc0065b0ecfa",
+      "sha256": "b8696ab8629bb91e393d8fca869dd9298e5b35db0d5a108483a89a66da0a8bfe",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 149/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/149"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

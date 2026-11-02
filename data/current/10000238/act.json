@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000238",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000239",
+    "valid_from": "1951-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000238&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:24:51.572408+00:00",
+    "response_sha256": "15ba2b33ff9820d3a01993dbd089d7d531228f24504276158b780783b99b774b",
+    "snapshot_sha256": "955323fe4f2eb1dd2fad50a0502cf6e6143dbd467a063cb56dbdcbf32d1d27be",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b22a84142653c0b3c588c20de370b989e134cb8b2a34e081f40561912f2fc457",
+      "sha256": "c9a6b7f6cde6c3972584639bb1de99d40274c5fa86ee962dd69be5b02f0c901e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 26. Oktober 1951, betreffend die Feststellungen des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung in den Angelegenheiten der Verhütung und Bekämpfung von Waldbränden. StF: BGBl. Nr. 252/1951"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 252/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_252_0/1951_252_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "103747dd4f08ea4bca194e3aab0685d1fa98d716d599e59eeab0734964fdf203",
+      "sha256": "28c69c6d27ee71589e9adb7c22a456148c41d1bef8acf73b24abe571e6aa13ca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

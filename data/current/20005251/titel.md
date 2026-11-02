@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Beurteilung der erforderlichen Fachkunde für Umweltgutachter (Fachkundebeurteilungsverordnung – FachKBV) StF: [BGBl. II Nr. 37/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/37>)
+
+Auf Grund der §§ 4 Abs. 3 und 10 Abs. 5 des Umweltmanagementgesetzes (UMG), [BGBl. I Nr. 96/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_96_1/2001_96_1.pdf>) i.d.F. [BGBl. I Nr. 99/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/99>) wird im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz vom 9. Mai 1985 über eine Amnestie aus Anlaß der vierzigsten Wiederkehr des Tages, an dem die Unabhängigkeit Österreichs wiederhergestellt wurde, und der dreißigsten Wiederkehr des Tages, an dem der österreichische Staatsvertrag unterzeichnet wurde (Amnestie 1985) StF: [BGBl. Nr. 204/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_204_0/1985_204_0.pdf>) (NR: GP XVI [IA 141/A](<https://www.parlament.gv.at/gegenstand/XVI/A/141>) [AB 609](<https://www.parlament.gv.at/gegenstand/XVI/I/609>) [S. 90.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/90>) BR: [AB 2982](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2982>) [S. 461.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/461>))
+
+Der Nationalrat hat beschlossen:

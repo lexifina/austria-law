@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 3. August 1948, betreffend die Verlängerung von Prioritätsfristen zugunsten der Staatsangehörigen des Königreiches Dänemark. StF: [BGBl. Nr. 191/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_191_0/1948_191_0.pdf>)
+
+Auf Grund des § 13, Abs. (4), des Patentschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 123, und des § 10, Abs. (4), des Markenschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 125, wird festgestellt, daß die Prioritätsfristen des § 13, Abs. (1), des Patent-ÜG. und des § 10, Abs. (1), des Marken-ÜG. zugunsten der Staatsangehörigen des Königreiches Dänemark verlängert sind.

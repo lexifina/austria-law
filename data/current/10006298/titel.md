@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 4. April 1972, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen werden StF: [BGBl. Nr. 116/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_116_0/1972_116_0.pdf>)

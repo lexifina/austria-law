@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012697",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2023",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40265523",
+    "valid_from": "2024-09-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012697&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:41:44.955491+00:00",
+    "response_sha256": "f0a3394f23d660c73f430500c300c78aeb6f5c2778e579252d1622d609c38eb9",
+    "snapshot_sha256": "554aafb4838d0234eacecb58a90a75465630596dab39a6513faa08e42837979c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b6986f0814d36ad4f6635f0551d192a050938edcfe88105c18a71466705caa8c",
+      "sha256": "aad81e2b4655bedbcc96bf6199ae884c9748d14319c85ef72cce2ae7a3d779c3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2023 StF: BGBl. I Nr. 141/2024 (NR: GP XXVII AB 2708 S. 276.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 141/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/141"
+        },
+        {
+          "text": "AB 2708",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2708"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "384ab991284757f002da393fa098317f78fdbdd77584647a7c786b33050162c1",
+      "sha256": "ea5c8a63f775cbb937582d1226ad33879ecc4a410eb2308a5381b794913706b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

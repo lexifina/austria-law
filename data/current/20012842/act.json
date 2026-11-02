@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012842",
+  "short_title": "Tierarzneimittel, die nicht in Verkehr gebracht werden dürfen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40268577",
+    "valid_from": "2025-03-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012842&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:44:38.863963+00:00",
+    "response_sha256": "ba6b86f9ffb9b7e91e9901faf03292db01becba38b57ce160a405c48fb40f156",
+    "snapshot_sha256": "c7e9df83e293f77eea6fd3bbae4084848c3d908d6721cc3b536754594e8e51ad",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56f824128296ac6eb650aa3649689ecc5fd0891a55fbebffff58e5bdffa9d388",
+      "sha256": "24ec2251cff0d510ab60295b5e65e34bf4cd972d62fd3dc754e22c338e5c3f2e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über Tierarzneimittel, die nicht in Verkehr gebracht werden dürfen StF: BGBl. II Nr. 31/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 31/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/31"
+        },
+        {
+          "text": "BGBl. I Nr. 186/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/186"
+        },
+        {
+          "text": "BGBl. I Nr. 53/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/53"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d71758d035ec54b9878c83e341655e13575af44f81239413047fb59f8f63974f",
+      "sha256": "505d2949b15c4c7132b5b8fd1aa1d96fbe187d6d7e79909fe8972946fe9f44c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "040d832058951a066014baacb73be79e4c22bf3388b780cc11683ec4391dade9",
+      "sha256": "7883f0bccc8e46600e4434a1e30f48b72dac0e9ec687bfd1319af1a032001697",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001685",
+  "short_title": "Errichtung einer zehnten Notarstelle in Linz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001830",
+    "valid_from": "2001-12-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001685&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:35:53.456196+00:00",
+    "response_sha256": "5a41a990b8d82de481451b082e8b80f2b887879f0945d3bbbb983137987c884b",
+    "snapshot_sha256": "21293a5ac621b79f5caae0bcede089e105dcf58cea11e7f669d93edb1813925a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f817afdac33f3c5c626c1d742d1b1ba555726b60928430217e5ccc50b9fae3f",
+      "sha256": "522b4a3a1ef366f9864d2b3b9875e955a9218a9889bb00e36931e7bea79720cc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zehnten Notarstelle in Linz StF: BGBl. II Nr. 454/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 454/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_454_2/2001_454_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5904714e97a5abf8bca277c03ee1508d0dac7d28b0a008512f64bf41db0f908",
+      "sha256": "7dd98dfea6cae5153822e6650fdf5b803056c5a1d803da327b4c292f8d586a54",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Verwaltungsvereinbarung zwischen der Bundesregierung der Republik Österreich und der Regierung der Republik Ungarn über die Zusammenarbeit im Interesse der Anwendung der Verordnung (EG) Nr. 343/2003 des Rates der Europäischen Union vom 18. Februar 2003 StF: [BGBl. III Nr. 150/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/150>)
+
+Die Bundesregierung der Republik Österreich und die Regierung der Republik Ungarn (in der Folge: Vertragsparteien) treffen im Interesse der wirksamen Anwendung der Verordnung (EG) Nr. 343/2003 des Rates der Europäischen Union vom 18. Februar 2003, gemäß deren Artikel 23 zur Festlegung der Kriterien und Verfahrensregelungen zur Bestimmung des Mitgliedstaates, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrages zuständig ist, folgende Verwaltungsvereinbarung (in der Folge: Vereinbarung).
+
+Die Mitteilungen gemäß Art. 12 Abs. 3 der Vereinbarung wurden am 27. April bzw. 21. Juni 2005 abgegeben; die Vereinbarung ist gemäß derselben Bestimmung mit 21. Juli 2005 in Kraft getreten.

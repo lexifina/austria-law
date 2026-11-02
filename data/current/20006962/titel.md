@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit zur Bekämpfung und Hintanhaltung der Weiterverbreitung der Tollwut bei Füchsen in freier Wildbahn (Fuchs-Tollwutbekämpfungsverordnung 2010) StF: [BGBl. II Nr. 329/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/329>)
+
+Auf Grund des § 1 Abs. 5, des § 23 zweiter Absatz, des § 25a und des § 42 Abs. 5 des Tierseuchengesetzes (TSG), [RGBl. Nr. 177/1909](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=177/1909&amp;SkipToDocumentPage=True>), zuletzt geändert durch die Bundesgesetze [BGBl. I Nr. 36/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/36>) und die Novelle des Bundesministeriengesetzes, [BGBl. I Nr. 3/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/3>), wird verordnet:

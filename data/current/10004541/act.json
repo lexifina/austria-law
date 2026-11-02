@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004541",
+  "short_title": "Einfuhr von wissenschaftlichem Gerät",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004577",
+    "valid_from": "1987-02-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004541&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:32:01.302857+00:00",
+    "response_sha256": "62e29d2e8bf9b4455bbb781b2d7287742658b2f754eb3d7592b315e8a045c025",
+    "snapshot_sha256": "8130e12c7bc331dcdd1fc54bc24858ff0852e0d89781525ac990130755b3546a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72dad241fad5a4827eb83f142df82a18e6cdde71c1cf4ee9ca3570df5d93549d",
+      "sha256": "1510b5d91a838d8314841eac2d504287ae48cf23438779d68e09785c9ef69941",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 3. Feber 1987 betreffend den Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von wissenschaftlichem Gerät StF: BGBl. Nr. 59/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 59/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_59_0/1987_59_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b88639ea12b1a1a6df4bba420af91c205d2f98852f53c662a28f2e47e35b423a",
+      "sha256": "f9cd5090b227bc2f86e9156746b2508acf22abf5a6ef5ca5fd194788c819ecbf",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 371/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_371_0/1972_371_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

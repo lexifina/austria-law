@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft und Arbeit über den Ausspruch des Verfassungsgerichtshofes, dass das Statut der Wohlfahrtseinrichtungen der Bundesingenieurkammer gesetzwidrig war StF: [BGBl. II Nr. 349/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/349>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 - VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>) (WV), zuletzt geändert durch das Kundmachungsreformgesetz 2004, [BGBl. I Nr. 100/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf>), wird kundgemacht:

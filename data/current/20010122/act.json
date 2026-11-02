@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010122",
+  "short_title": "Errichtung einer Notarstelle in Gerasdorf bei Wien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40200113",
+    "valid_from": "2018-01-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010122&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:47:35.593670+00:00",
+    "response_sha256": "d0aa58e60778c2a969bc84b43a239b0013b8c3e2b31c02a58ceaf4bd1d19fac4",
+    "snapshot_sha256": "5453af394decf7b2bc7707e17d02ab9e01c557554c38a697d17e7f78cb3dfec9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b7ec664fc730159e4835b0af85b1383b586212a3d7144cc5cbcae16359cf75b",
+      "sha256": "000cfb65e9d1e7e6fb3cee9772ddb8f9589676229696a557a8db0c638f5a58fe",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz über die Errichtung einer Notarstelle in Gerasdorf bei Wien StF: BGBl. II Nr. 2/2018"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 2/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/2"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/136"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0886014502ea87f821cce492fa2582956a17d8627989a1387df437862471b52",
+      "sha256": "eabf93185ee061fde34962cc235c933ea0217d9380c9f6a6651dc2b27e3c74b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

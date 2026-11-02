@@ -1,0 +1,1 @@
+Verordnung der Bundesregierung vom 8. Juni 1934, womit die Staaten bezeichnet werden, die als dem Übereinkommen vom 14. März 1884 zum Schutze der Unterseekabel beigetreten anzusehen sind StF: [BGBl. II Nr. 90/1934](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=90/1934&amp;SkipToDocumentPage=True>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung vom 1. Februar 1949, betreffend die Geltendmachung von Ersatzansprüchen gegen den Bund auf Grund des Amtshaftungsgesetzes. StF: [BGBl. Nr. 45/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_45_0/1949_45_0.pdf>)
+
+Auf Grund der §§ 8 und 16 des Bundesgesetzes vom 18. Dezember 1948, B. G. Bl. Nr. 20/1949, womit die Haftung des Bundes, der Länder, der Bezirke, der Gemeinden und der sonstigen Körperschaften und Anstalten des öffentlichen Rechts für den in Vollziehung der Gesetze zugefügten Schaden geregelt wird (Amtshaftungsgesetz), in Verbindung mit dem Gesetze vom 12. September 1945, St. G. Bl. Nr. 172, über die Finanzprokuratur in Wien (Prokuraturgesetz), wird verordnet:

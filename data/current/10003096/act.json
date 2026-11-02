@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003096",
+  "short_title": "Emblem - Isle of Man",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003121",
+    "valid_from": "1993-05-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003096&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:29.149328+00:00",
+    "response_sha256": "c2abbebc3e94c6c27656021ec1c827374abc44aa8d149837d4bc6ccdc86f098e",
+    "snapshot_sha256": "b0b321d06ffc1fa4b68f95f5bd9ff4a3fed1a35ec008e72fd77bf69d74d3acee",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4cec74d19fab6f6ec07c854842c838545535d855b1301707c0340cf11932c65",
+      "sha256": "527f987d851bf2504e168e3aa41c4f07ddb9634ed73f2aaf76e75797916d368e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem der Isle of Man StF: BGBl. Nr. 310/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 310/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_310_0/1993_310_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1e1fcff639417282d92f98f90fc784230e9a82ef8658c1f094b48c76c74f4f1",
+      "sha256": "fa9d7182552067fdb45cd6c1d15d03c7874e4e8eaca2c35cbe24795776bd5635",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

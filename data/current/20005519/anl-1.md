@@ -1,0 +1,1 @@
+(Anm.: Das Berner Übereinkommen zum Schutze von Werken der Literatur und der Kunst vom 9. September 1886, revidiert in Berlin am 13. November 1908 und in Rom am 2. Juni 1928, ist als eigene Rechtsvorschrift dokumentiert.)

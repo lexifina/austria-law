@@ -1,0 +1,3 @@
+Bundesgesetz vom 25. Jänner 1973 über nasse Grenzen zwischen der Republik Österreich und der Bundesrepublik Deutschland und über die österreichische Delegation in der ständigen gemischten Grenzkommission StF: [BGBl. Nr. 491/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_491_0/1975_491_0.pdf>) (NR: GP XIII [RV 459](<https://www.parlament.gv.at/gegenstand/XIII/I/459>) [AB 612](<https://www.parlament.gv.at/gegenstand/XIII/I/612>) [S. 63.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/63>) BR: [AB 892](<https://www.parlament.gv.at/gegenstand/BR/I-BR/892>) [S. 318.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/318>))
+
+Der Nationalrat hat beschlossen:

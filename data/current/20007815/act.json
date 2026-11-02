@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20007815",
+  "short_title": "Migrationsverordnung 2012",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40138969",
+    "valid_from": "2012-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007815&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:06:11.929141+00:00",
+    "response_sha256": "014381c6506f2120e79ef7685b7a65c9b6baa7f8cf58c89f8331a9b55ca12d2b",
+    "snapshot_sha256": "017849fcf2a93c1735b63ff297a71ea867a3d40cfcca8cd32b9673465a5d8525",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b6f662acd48ed9e897851c22403856b3fdc8c2faa232c90471334841aec163e",
+      "sha256": "f263e51bd4d2ae6f2d51082b637d952fd0d88ea2f563790ba7ede7e5fffae664",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz gemäß § 2a Abs. 1 in Verbindung mit § 2b Abs. 1 und § 24a Abs. 1 Grundbuchsumstellungsgesetz (Migrationsverordnung 2012) StF: BGBl. II Nr. 143/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 143/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/143"
+        },
+        {
+          "text": "BGBl. Nr. 550/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_550_0/1980_550_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45c851dded8639a75a5ad38e9c54d12cde77ecc3698c0fd152903887b2d84d21",
+      "sha256": "2d2580f6fd7bdac3552fcfc1e6991168f7362428af86de47d719939b24123599",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

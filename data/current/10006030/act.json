@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10006030",
+  "short_title": "Anerkennung von Rückkehrausweisen als Paßersatz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006134",
+    "valid_from": "1997-03-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006030&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:51:15.557059+00:00",
+    "response_sha256": "78703a7d7fbb93d5052ad75cdb3054901046285e953c52a0f9aed2c8bfb9b425",
+    "snapshot_sha256": "d51d0fb8f5ca1d0d22e2c7088583addb976abda0cf34c134c091dc1680382859",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8b7fa0a11b84c3c15dd1aabd3b46a6e50924a0690388f4e0f41ab52fad59818",
+      "sha256": "63fbbcc684feabc17757988bcffdffc3eda4c869ae725b4b6fda45be1392562c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Inneres über die Anerkennung von Rückkehrausweisen, die österreichischen Staatsbürgern von einem Mitgliedstaat der Europäischen Union ausgestellt werden, als Paßersatz StF: BGBl. II Nr. 76/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 76/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_76_2/1997_76_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 507/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_507_0/1995_507_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2155c40ba6c529032f4aa42d7977bd2d8997ba8fbe51d62d6432b746f25d9a7d",
+      "sha256": "19b3ce95de377686cd75ac17f332dda243895ca97696a347d8fbbd72950cf95b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

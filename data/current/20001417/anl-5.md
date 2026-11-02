@@ -1,0 +1,11 @@
+## Anhang 5
+
+INTERNE FERTIGUNGSKONTROLLE
+
+- 1\. Dieser Anhang beschreibt das Verfahren, bei dem der Hersteller oder sein Bevollmächtigter, der die Verpflichtungen nach Nummer 2 erfüllt, sicherstellt und erklärt, dass die betreffenden Geräte und Maschinen die Anforderungen der Verordnung erfüllen. Der Hersteller oder sein Bevollmächtigter bringt an jedem Gerät und an jeder Maschine die CE-Kennzeichnung und die Angabe des garantierten Schallleistungspegels gemäß § 7 an und stellt eine schriftliche Konformitätserklärung gemäß § 6 aus.
+
+- 2\. Der Hersteller oder sein Bevollmächtigter hat die unter Nummer 3 beschriebenen technischen Unterlagen zu erstellen und mindestens zehn Jahre lang nach Herstellung des letzten Produkts zur Einsichtnahme für das Bundesministerium für Wirtschaft und Arbeit bereitzuhalten. Der Hersteller oder sein Bevollmächtigter kann eine andere Person mit der Aufbewahrung der technischen Unterlagen betrauen. In diesem Fall ist der Name und die Anschrift dieser Person in der Konformitätserklärung anzugeben.
+
+- 3\. Die technischen Unterlagen müssen eine Bewertung der Übereinstimmung der Geräte und Maschinen mit den Anforderungen der Verordnung ermöglichen. Sie müssen mindestens folgende Angaben enthalten: – Name und Anschrift des Herstellers oder seines Bevollmächtigten; – eine Beschreibung der Geräte und Maschinen; – Fabrikmarke; – Handelsbezeichnung; – Typ, Serie und Nummern; – die für die Identifizierung der Geräte und Maschinen und die Beurteilung seiner Geräuschemission relevanten technischen Daten, gegebenenfalls einschließlich Schemazeichnungen sowie Beschreibungen und Erläuterungen, die zu ihrem Verständnis erforderlich sind; – einen Verweis auf die Richtlinie 2000/14/EG; – den technischen Bericht zu den Geräuschmessungen, die entsprechend den Bestimmungen dieser Verordnung durchgeführt wurden; – verwendete technische Instrumente und Ergebnisse der Abschätzung der Unsicherheiten auf Grund produktionsbedingter Schwankungen und ihres Einflusses auf den garantierten Schallleistungspegel.
+
+- 4\. Der Hersteller hat alle erforderlichen Maßnahmen zu treffen, um im Fertigungsverfahren die Übereinstimmung der hergestellten Geräte und Maschinen mit den in den Nummern 2 und 3 genannten technischen Unterlagen und mit den Anforderungen dieser Verordnung sicherzustellen.

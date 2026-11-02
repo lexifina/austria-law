@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003648",
+  "short_title": "Errichtung einer sechsten Notarstelle in Wien – Donaustadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003966",
+    "valid_from": "2004-10-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003648&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:02:47.251682+00:00",
+    "response_sha256": "816059d3d5afce2c9f09704ead9f0f019eed9b44ee67693510155210bb69f8ea",
+    "snapshot_sha256": "d62d4cc804f14225e2248fe70d770e262debdb0b06e9909159ff9ed7a347d950",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5fe7e292739474155257ad2db596192d5ebf631622c576dd0a1f03aa3324005b",
+      "sha256": "a2317d3b1a9bfa0e06f712bd8b7171888fa9f7d1d8fb1eef5a30924f6659235c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz betreffend die Errichtung einer sechsten Notarstelle in Wien – Donaustadt StF: BGBl. II Nr. 384/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 384/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/384"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed7bfb530d271a74465afa99a7d40008187af30ec65c1c7a50375ba2a9b7ca44",
+      "sha256": "d20649a8135e0394cef3e12a37ef948d3df6cb3683db70d7fb6aa13ac7403447",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

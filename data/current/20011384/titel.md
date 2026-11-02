@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Staatliche Wirtschaftskommission beim Bundesministerium für Digitalisierung und Wirtschaftsstandort StF: [BGBl. II Nr. 543/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/543>)
+
+Auf Grund des § 161 Abs. 4 des Arbeitsverfassungsgesetzes – ArbVG, [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 23/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/23>), wird im Einvernehmen mit der Bundesministerin für Arbeit, Familie und Jugend verordnet:

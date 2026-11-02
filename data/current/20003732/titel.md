@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 5. Juli 1967, betreffend die Ausdehnung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation vom 22. Juli 1946 StF: [BGBl. Nr. 282/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_282_0/1967_282_0.pdf>)

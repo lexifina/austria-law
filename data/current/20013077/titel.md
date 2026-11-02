@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über Durchführungsbestimmungen zum Mindestbesteuerungsgesetz (MinBestG-Durchführungsverordnung) StF: [BGBl. II Nr. 332/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/332>)
+
+Auf Grund des § 79 Mindestbesteuerungsgesetz – MinBestG, [BGBl. I Nr. 187/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/187>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 97/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/97>), und des § 86a der Bundesabgabenordnung – BAO, [BGBl. Nr. 194/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 97/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/97>), wird verordnet:

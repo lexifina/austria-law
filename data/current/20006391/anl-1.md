@@ -1,0 +1,1 @@
+Anhang I Nicht zugelassene Stoffe und nicht zugelassene Stoffe, für die Ausnahmeregelungen bestehen: Gruppe A/I (nicht zugelassene Stoffe): – Stilbene, Stilbenderivate, ihre Salze und Ester, – Thyreostatika, – 17-ß-Östradiol und seine esterartigen Derivate. Gruppe A/II (nicht zugelassene Stoffe, für die Ausnahmeregelungen bestehen): – Beta-Agonisten.

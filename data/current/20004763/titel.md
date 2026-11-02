@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 25. August 1926 über den Beitritt von Tanganjika zum Handels- und Schiffahrtsvertrag zwischen Österreich und Großbritannien vom 22. Mai 1924, B. G. Bl. Nr. 80 von 1925. StF: [BGBl. Nr. 257/1926](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=257/1926&amp;SkipToDocumentPage=True>)

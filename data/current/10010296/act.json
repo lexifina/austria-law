@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10010296",
+  "short_title": "Wasserkraftnutzung der mittleren Enns",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010515",
+    "valid_from": "1960-02-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010296&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:40:56.111057+00:00",
+    "response_sha256": "355d21d621614b412f8189021c71636ad25d7b51b61366d411102d7413ebbfa9",
+    "snapshot_sha256": "f6873b4f7e5c1f496b57fd406b3215edab48cc2965ae24766d31d165d44183b4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3296c5da9731bc278136a64d53a1afc92efb93e98f85504d6d65664e10194ee8",
+      "sha256": "285539601cf511b89643f908df72773bffd04063287f14770193402a998dca2d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Land- und Forstwirtschaft vom 25. Jänner 1960, mit der eine wasserwirtschaftliche Rahmenverfügung für die Wasserkraftnutzung der mittleren Enns erlassen wird StF: BGBl. Nr. 34/1960"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 34/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_34_0/1960_34_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de80e76f683c1f3d44519e4af7cd211736cfdec77aa509a3e04334555480fb54",
+      "sha256": "56b04a03f1cc4b320e2056930f51d051997e463ddc805c4ebbce8c94f7f1a0e3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d8fd432141756724f49469a2521edcea81306dde48ba53d5057aacaf81b1559a",
+      "sha256": "636307560378d70dcfe16f97c5cdb400d4e5ec0df33482389cb87d05e8233765",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011261",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011526",
+    "valid_from": "1949-10-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011261&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:51:14.863984+00:00",
+    "response_sha256": "35ba3171544c89999465bc73d91e9a8fd26bd6e04c262fcf65a4df150408a39a",
+    "snapshot_sha256": "a3ac19b4e612ff59eafc88fdccbef6c06a552a21d5a89710ae0559a2f5e3b84c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5c423fe220275c7ac87ee1bae423a1b7e38ac71c1742c5c2610ffe9c0d9b2c0",
+      "sha256": "3d16b4cafe5643449631c00739e3c802067b3e47729cbe536669113987dc2391",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 8. September 1949, betreffend den Beitritt Israels zum Abkommen über die internationale Zivilluftfahrt StF: BGBl. Nr. 236/1949"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 236/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_236_0/1949_236_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "220754f2b03c012399dd8528b1eeafdee2de2e011c55646bc7c5a39c1287c38b",
+      "sha256": "af9ccc7ce5218bcba8ac2440165eed155d8ab49ef83d0b6d6504683adc3058fe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

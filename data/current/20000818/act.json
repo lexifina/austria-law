@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000818",
+  "short_title": "Schiffahrt auf der Donau - Zusatzprotokoll",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000878",
+    "valid_from": "2000-07-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000818&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:22:59.290831+00:00",
+    "response_sha256": "75a061f3347d61cf4e6c0df401b71718c532c0f8322720277f79026a97425644",
+    "snapshot_sha256": "38a231fd490ff8e716fc84993ab5cb09a1ddd94e99ad8460979e6d2af8d597e9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd8871191b473d81ba5dcd7625cf728d6e573c138ff703217e3cdfee913e80f9",
+      "sha256": "57a9f62009eca98ee22bfd00759e203d10ec9b754f38e8833dbc182f55236e57",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Zusatzprotokolls vom 26. März 1998 zum Übereinkommen über die Regelung der Schiffahrt auf der Donau vom 18. August 1948 StF: BGBl. III Nr. 124/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 124/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_124_3/2000_124_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f8aeac820c3c2cbb52d06e72c965c1af3deda3a7476613e99815c9833f820d8",
+      "sha256": "8f9f0b0b5c3cede67737e74747a6686bae9dd0679fab81636cec1865747c850f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 188/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_188_3/1999_188_3.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 10/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_10_3/2000_10_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Abkommen zwischen der Republik Österreich und der Republik Italien über die Regelung des erleichterten Warenaustausches zwischen den österreichischen Bundesländern Tirol und Vorarlberg und der italienischen Region Trentino - Alto Adige StF: [BGBl. Nr. 125/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_125_0/1957_125_0.pdf>) (NR: GP VIII [RV 185](<https://www.parlament.gv.at/gegenstand/VIII/I/185>) [AB 204](<https://www.parlament.gv.at/gegenstand/VIII/I/204>) [S. 28.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/28>) BR: [S. 124.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/124>))
+
+Die BUNDESREGIERUNG DER REPUBLIK ÖSTERREICH und die REGIERUNG DER REPUBLIK ITALIEN haben in der Absicht, die Bestimmungen des Artikels 3, lit. d, des Pariser österreichisch-italienischen Abkommens vom 5. September 1946, das in der Folge als Beilage IV dem Friedensvertrag zwischen Italien und den alliierten und assoziierten Mächten einverleibt wurde, zur Ausführung zu bringen, bezüglich der Erleichterung des lokalen Austausches gewisser Mengen von charakteristischen Erzeugnissen und Waren zwischen Österreich und Italien folgendes Abkommen getroffen:
+
+Nachdem das am 12. Mai 1949 in Rom unterzeichnete Abkommen zwischen der Republik Österreich und der Republik Italien über die Regelung des erleichterten Warenaustausches zwischen den österreichischen Bundesländern Tirol und Vorarlberg und der italienischen Region Trentino – Alto Adige, welches also lautet: ...
+
+die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der gemäß Artikel 64 des Bundes-Verfassungsgesetzes die Funktionen des Bundespräsidenten ausübende Bundeskanzler dieses Abkommen für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der in diesem Abkommen enthaltenen Bestimmungen.
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde von dem gemäß Artikel 64 des Bundes-Verfassungsgesetzes die Funktionen des Bundespräsidenten ausübenden Bundeskanzler unterzeichnet, vom Vizekanzler, vom Bundesminister für Handel und Wiederaufbau, vom Bundesminister für Finanzen und vom Bundesminister für die Auswärtigen Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, den 13. April 1957.

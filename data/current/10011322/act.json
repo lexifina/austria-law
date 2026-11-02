@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011322",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011587",
+    "valid_from": "1958-11-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011322&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:53:09.657202+00:00",
+    "response_sha256": "706446510b23bf482c56fd59b39dd1c76c47b7058b64b7ff3c8e8ef33beb3cd8",
+    "snapshot_sha256": "8a6a914a6baa047f4ce19e9d4586b31d59342d846afb1560739f59b299ebc186",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df3d94fae564bceddb681d14c4f494b345d0fbd01e63afdac53803379e70f4bc",
+      "sha256": "cab764c029f0027f05b9aefa0d49515f9954b9570a1c1eff7c0daad3a66231fc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. Oktober 1958, betreffend die Ratifikation des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt durch Kanada StF: BGBl. Nr. 247/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 247/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_247_0/1958_247_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "160e07406f0f591b99c2ed7d541225c999c09782c6428c3ff622ea481f0ef176",
+      "sha256": "468b24fa342ce7456ad6c473088e425604c96d39b120f8da26fa861080aa77f6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 106/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_106_0/1957_106_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

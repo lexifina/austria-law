@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003016",
+  "short_title": "Errichtung einer vierten Notarstelle in Wien-Döbling",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003040",
+    "valid_from": "1991-11-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003016&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:30.673091+00:00",
+    "response_sha256": "3e5c8a495716e752ac1284c67d385a8ccba1af780c37f40a37e861e4ce6bf1a1",
+    "snapshot_sha256": "39fe0cdca11ec908ebb4087ee24d075ae393232a8c96628182c18d1af9dcef5d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2634251e84407ad6a2d3428ed02e51245b6905222d0b745bd5ce5e5ee5eb4dcc",
+      "sha256": "06162a9a232ac2738e3a88abe8df2f51f23cb6350d594afc946e28cd5f71b052",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Wien-Döbling StF: BGBl. Nr. 568/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 568/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_568_0/1991_568_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf8063fcc67d9c59625dd1597471157d2a5237e3c8d062b6d1f40164916d59d6",
+      "sha256": "d8d00784198936daaaad7981f08901b833802d7836737b561d9b80d18ebeaf82",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

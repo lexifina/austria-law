@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Landwirtschaft, Regionen und Tourismus über die Zuordnung der Verwendungen der Beamtinnen und Beamten in der Fernmeldebehörde zu Verwendungsgruppen und Funktionszulagengruppen (PT-Zuordnungsverordnung/Fernmeldebehörde) StF: [BGBl. II Nr. 159/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/159>)
+
+Auf Grund des § 249b Abs. 4 des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333, in der Fassung des Bundesgesetzes [BGBl. I Nr. 112/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/112>) wird im Einvernehmen mit dem Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport verordnet:

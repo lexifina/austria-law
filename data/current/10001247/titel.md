@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr über den Ausspruch der Gesetzwidrigkeit der Verordnung des Landeshauptmannes von Niederösterreich vom 13. Februar 1992, LGBl. Nr. 7001/5-0, über die Höchstzahl von Kraftfahrzeugen für das Platzfuhrwerk-Gewerbe in Schwechat, einschließlich Flughafen Wien-Schwechat, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 954/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_954_0/1993_954_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshof-Gesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

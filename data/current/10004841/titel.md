@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem eine Kommunalsteuer erhoben wird (Kommunalsteuergesetz 1993 – KommStG 1993) StF: [BGBl. Nr. 819/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_819_0/1993_819_0.pdf>) (NR: GP XVIII [RV 1238](<https://www.parlament.gv.at/gegenstand/XVIII/I/1238>) [AB 1302](<https://www.parlament.gv.at/gegenstand/XVIII/I/1302>) [S. 137.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/137>) BR: [4664](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4664>) [AB 4658](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4658>) [S. 576.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/576>))
+
+Der Nationalrat hat beschlossen:

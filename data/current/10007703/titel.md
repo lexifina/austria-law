@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der jene Solarien bezeichnet werden, deren Verwendung für sich allein die Genehmigungspflicht einer gewerblichen Betriebsanlage nicht begründet (Solarienverordnung) StF: [BGBl. Nr. 147/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_147_0/1995_147_0.pdf>)
+
+Auf Grund des § 76 Abs. 1 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 314/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_314_0/1994_314_0.pdf>), wird vom Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit dem Bundesminister für Umwelt, Jugend und Familie und dem Bundesminister für Arbeit und Soziales verordnet:

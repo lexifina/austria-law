@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend Informationen über den Personalaufwand und das Controlling im Bereich der administrativen Assistenzen an öffentlichen allgemeinbildenden Pflichtschulen (AdminAss-Controllingverordnung) StF: [BGBl. II Nr. 257/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/257>)
+
+Auf Grund des § 4 Abs. 9 des Finanzausgleichsgesetzes 2017, [BGBl. I Nr. 116/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/116>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 133/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/133>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

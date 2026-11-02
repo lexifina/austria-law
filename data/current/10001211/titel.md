@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten über den Ausspruch des Verfassungsgerichtshofes, daß Bestimmungen der vom Vorstand der Kammer der Wirtschaftstreuhänder am 25. Juni 1979 beschlossenen ,,Werbeverbotsrichtlinien'' gesetzwidrig waren und über die Aufhebung von Bestimmungen der vom Vorstand der Kammer der Wirtschaftstreuhänder am 6. Dezember 1985 beschlossenen ,,Wettbewerbsrichtlinien'' durch den Verfassungsgerichtshof StF: [BGBl. Nr. 623/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_623_0/1992_623_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Justiz vom 6. November 1986 über die Bemessung und Pauschalierung einer Gefahrenzulage für Beamte im Sonderdienst an Justizanstalten StF: [BGBl. Nr. 608/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_608_0/1986_608_0.pdf>)

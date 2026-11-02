@@ -1,0 +1,1 @@
+Kündigung des Abkommens zwischen der Österreichischen Bundesregierung und der Kaiserlichen Iranischen Regierung über die Aufhebung der Sichtvermerkspflicht für Inhaber von Diplomaten- und Dienstpässen StF: [BGBl. III Nr. 125/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_125_3/1997_125_3.pdf>)

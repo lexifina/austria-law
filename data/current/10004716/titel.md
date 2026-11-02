@@ -1,0 +1,3 @@
+Bundesgesetz über die Verwaltung und Koordination der Finanz und sonstigen Bundesschulden (Bundesfinanzierungsgesetz – BFinG) StF: [BGBl. Nr. 763/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_763_0/1992_763_0.pdf>) (NR: GP XVIII [RV 717](<https://www.parlament.gv.at/gegenstand/XVIII/I/717>) [AB 792](<https://www.parlament.gv.at/gegenstand/XVIII/I/792>) [S. 88.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/88>) BR: [AB 4377](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4377>) [S. 561.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/561>))
+
+Der Nationalrat hat beschlossen:

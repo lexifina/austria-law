@@ -1,0 +1,3 @@
+Bundesgesetz über die Leistung von Beiträgen an das allgemeine Subventionskonto des Treuhandfonds für Armutsbekämpfung und Wachstum des Internationalen Währungsfonds StF: [BGBl. I Nr. 102/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/102>) (NR: GP XXIV [RV 2296](<https://www.parlament.gv.at/gegenstand/XXIV/I/2296>) [AB 2346](<https://www.parlament.gv.at/gegenstand/XXIV/I/2346>) [S. 204.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/204>) BR: [AB 8978](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8978>) [S. 821.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/821>))
+
+Der Nationalrat hat beschlossen:

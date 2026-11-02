@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der karibischen Gemeinschaft StF: [BGBl. II Nr. 105/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_105_2/2003_105_2.pdf>)

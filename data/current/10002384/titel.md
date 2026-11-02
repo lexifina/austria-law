@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 12. August 1977 betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 durch Japan StF: [BGBl. Nr. 444/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_444_0/1977_444_0.pdf>)

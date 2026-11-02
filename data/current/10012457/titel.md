@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend schiffahrtspolizeiliche Regelungen für March und Thaya StF: [BGBl. Nr. 1055/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_1055_0/1994_1055_0.pdf>) idF [BGBl. Nr. 457/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_457_0/1995_457_0.pdf>) (DFB)
+
+Auf Grund der §§ 15, 16 Abs. 2 und 156 des Schiffahrtsgesetzes 1990, [BGBl. Nr. 87/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_87_0/1989_87_0.pdf>), in der Fassung [BGBl. Nr. 452/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_452_0/1992_452_0.pdf>) wird im Einvernehmen mit den Bundesministers für Land- und Forstwirtschaft, für Umwelt, Jugend und Familie, für Landesverteidigung und für Inneres – verordnet:

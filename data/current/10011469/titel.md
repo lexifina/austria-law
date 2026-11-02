@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 17. Dezember 1973 betreffend den Geltungsbereich des Protokolls vom 24. September 1968 über die authentische dreisprachige Fassung des Abkommens über die Internationale Zivilluftfahrt (Chikago, 1944) StF: [BGBl. Nr. 12/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_12_0/1974_12_0.pdf>)

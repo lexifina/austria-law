@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001138",
+  "short_title": "VfGH-Ausspruch, dass einige Worte in § 253 Abs. 1 des ASVG verfassungswidrig waren",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001142",
+    "valid_from": "1991-11-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001138&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:53.434703+00:00",
+    "response_sha256": "f3f300ff842bd23617343d68522801c830e8d40a5fa1ea4f0052f32ab8108e82",
+    "snapshot_sha256": "45ef91680cc214e3bd08618785367005129cab8cd9472b69c0c594bf881550a5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2b27a08fffae66749f7a0133178bab700eb5929e6320a55dc5aa509afa8ccb44",
+      "sha256": "c2ca22969e75bc5ab53f2b29a1a232c131a8b013d8326c2e1b81e5f4f99b0f6d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, daß einige Worte in § 253 Abs. 1 des Allgemeinen Sozialversicherungsgesetzes verfassungswidrig waren StF: BGBl. Nr. 600/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 600/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_600_0/1991_600_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2c702648574a66a40e4c408e21b495b05cb0d4f75fa5e72e1c42499613ff9175",
+      "sha256": "2edf507677809e07752e26b0488da820a2923527606ac59e6d93951eefd45a09",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 111/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_111_0/1986_111_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

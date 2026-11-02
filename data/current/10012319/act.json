@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012319",
+  "short_title": "ADR - Widerruf von zwei Vereinbarungen",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012612",
+    "valid_from": "1994-07-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012319&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:08:06.954134+00:00",
+    "response_sha256": "185c28ed8d1d9b46522de8c90a6a9edea438278ad6e202f7b1ebda7978a917aa",
+    "snapshot_sha256": "e600a9a33a151f5c4608b0b77d5e47d3865f6c98d3086d867091992ec8357c83",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c497271ddfa61ffe97f3f24d3495fd9010ca43dda9ee0957eea35444d6bed8b2",
+      "sha256": "baba03d289a1e465945f86477cfb4d55058a9ec4903c07b8fde996ea19284114",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend Widerruf von zwei Vereinbarungen zwischen dem Verkehrsminister der Bundesrepublik Deutschland und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich nach Rn. 2010 des ADR StF: BGBl. Nr. 578/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 578/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_578_0/1994_578_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21c6825619a7c30a49325fc3e7eef422ae334311df17f4929616c6801afc4b84",
+      "sha256": "bc187084d45d0dd6b23f9324ae07e065e845198ba428cedda59ad9fcbbe8c617",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 567/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_567_0/1988_567_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 746/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_746_0/1990_746_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 164/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_164_0/1993_164_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001016",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters von Klaus",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001019",
+    "valid_from": "1989-02-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001016&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:39:59.778878+00:00",
+    "response_sha256": "afefb8cb1b9472aa5afa6ca0d4d65f058b5aa95481a6bb49d228e1a32fc549dd",
+    "snapshot_sha256": "c3bcfce48e473e4cf3bdce3990519641e3cdb7c6824be7d36422f25bd437a159",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d7122ae39f7f7e200fb8f4d5c9f2f4943f86ff13f2d989c2bf7fa7d4ce22360",
+      "sha256": "5f8b412be7745a5fa112b9714bc3e0d2a2e827d1a7d6e44d40083977ba8f127b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 27. Jänner 1989 über die Aufhebung einiger Worte in der Z 2 der Verordnung des Bürgermeisters der Gemeinde Klaus, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 80/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 80/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_80_0/1989_80_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8df0a7619e9ca33b9a2515e185b4946042ad5362f4ebb1a8758e8eb3e3654a3e",
+      "sha256": "db4e654168fb93996e774f410a7708077115d63ce014a2ffdfc1953409ffc0c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

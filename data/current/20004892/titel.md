@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz betreffend die Aufhebung der vom Hauptverband der österreichischen Sozialversicherungsträger erlassenen „Einheitlichen Grundsätze gemäß § 340a ASVG über die EDV-Abrechnung der Vertragsärzte“ und der „Organisationsbeschreibung Datenaustausch mit Vertragspartnern (DVP), Version 2.0.1“ durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 293/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/293>)
+
+Nach Art. 139 Abs. 5 B-VG und den §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

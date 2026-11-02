@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Justiz und des Bundesministers für Inneres über die zur Entscheidung im Sinn des § 39 des Mietrechtsgesetzes berufenen Gemeinden StF: [BGBl. II Nr. 158/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/158>)
+
+Auf Grund des § 39 Abs. 2 des Mietrechtsgesetzes, [BGBl. Nr. 520/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_520_0/1981_520_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 58/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/58>), wird festgestellt, dass die in § 39 Abs. 1 des Mietrechtsgesetzes genannten Voraussetzungen bei der Gemeinde Mürzzuschlag nicht mehr zutreffen.

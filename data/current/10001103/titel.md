@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über Privilegien und Immunitäten der Europäischen Fernmeldesatellitenorganisation (EUTELSAT) StF: [BGBl. Nr. 271/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_271_0/1991_271_0.pdf>)

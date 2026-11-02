@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes über die Erneuerung des Übereinkommens mit Frankreich, betreffend die Vorzugsbehandlung von österreichischem Holz StF: [BGBl. Nr. 117/1937](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=117/1937&amp;SkipToDocumentPage=True>)

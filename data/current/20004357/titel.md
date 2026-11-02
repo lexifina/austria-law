@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das offizielle Siegel des „United States Copyright Office“ StF: [BGBl. II Nr. 343/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/343>)

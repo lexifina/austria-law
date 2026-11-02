@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001779",
+  "short_title": "Madrider Markenabkommen (Haager Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001801",
+    "valid_from": "1929-12-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001779&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:52:34.905040+00:00",
+    "response_sha256": "20d99722fb705536a70e8c3f2955f2d191d201bcd227888806f2106f20adc6e3",
+    "snapshot_sha256": "040c3fee722be184cd676623e2a96f41d07c37940e3c2453ddf96acdede00949",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ddc68d2bc73a9c4ced42f372e9c15830f0b9eb71b40eabff7ae20f1930910c0",
+      "sha256": "0aae35598168945d8b476e3e5e1c5490d1f9b40882c5d4b2566bab4e16e3cf56",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit dem Bundesministerium für Handel und Verkehr vom 28. November 1929 über den Beitritt der Vereinigten Staaten von Brasilien zu den im Haag am 6. November 1925 revidierten Pariser Unionsvertrag zum Schutze des gewerblichen Eigentums und zu dem im Haag am 6. November 1925 revidierten Madrider Abkommen, betreffend die internationale Registrierung von Fabriks- oder Handelsmarken. StF: BGBl. Nr. 380/1929"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 380/1929",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=380/1929&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f0727a0f516d170ae7f1c0640fea05d660fcafcf2009521e2cabb6bbefd9506a",
+      "sha256": "f710c321922a3e5642465dbd813fac21a41e262fcb1c918a16c3c6c0657d26d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

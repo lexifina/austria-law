@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen gemäß § 3b Abs. 3 des ABBAG-Gesetzes betreffend Richtlinien über die Verlängerung der Gewährung eines Verlustersatzes durch die COVID-19 Finanzierungsagentur des Bundes GmbH (COFAG) (Verlustersatz II) StF: [BGBl. II Nr. 343/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/343>)
+
+Aufgrund des § 3b Abs. 3 des ABBAG-Gesetzes, [BGBl. I Nr. 51/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/51>), zuletzt geändert durch das COVID-19-Transparenzgesetz, [BGBl. I Nr. 4/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/4>), wird im Einvernehmen mit dem Vizekanzler verordnet:

@@ -1,0 +1,7 @@
+## GENERIERTER TEXT DES MLI UND DES ABKOMMENS ZWISCHEN DER REPUBLIK ÖSTERREICH UND DER TSCHECHISCHEN REPUBLIK ZUR VERMEIDUNG DER DOPPELBESTEUERUNG UND ZUR VERHINDERUNG DER STEUERUMGEHUNG AUF DEM GEBIETE DER STEUERN VOM EINKOMMEN UND VOM VERMÖGEN SAMT PROTOKOLL
+
+(Anm.: als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: DBA Tschechische Republik synthesised deutsch final](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40225654/III_93_2018_DBA_Tschechische_Republik_synthesised_deutsch_final.pdf>)

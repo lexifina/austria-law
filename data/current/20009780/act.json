@@ -1,0 +1,388 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "20009780",
+  "short_title": "Straßenverkehrsunfallstatistik-Gesetz",
+  "abbreviation": "StVUSt-G",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40190307",
+    "valid_from": "2017-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009780&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:40:31.028641+00:00",
+    "response_sha256": "b1977bb2807bf849193af23531430b913937dbea22dad0c1f38a9f9b62803093",
+    "snapshot_sha256": "386f9c3695836b2e2be8694712462a0113616bb4c9bd8067b0d7722cff7f53d6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "321f51a6261d8a20990d3c11bb4a9fdd6715c767d34ea9cb4992afc9dcc02d03",
+      "sha256": "905442c72ac6d96546320196255f8f9bd0ccb9b59ce47982a0f97dbd4d5df56e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Statistik zu Straßenverkehrsunfällen mit Personenschaden (Straßenverkehrsunfallstatistik-Gesetz, StVUSt-G) StF: BGBl. I Nr. 7/2017 (NR: GP XXV RV 1353 AB 1421 S. 157. BR: AB 9697 S. 862.) [CELEX-Nr.: 32008L0096]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 7/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/7"
+        },
+        {
+          "text": "RV 1353",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1353"
+        },
+        {
+          "text": "AB 1421",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1421"
+        },
+        {
+          "text": "AB 9697",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9697"
+        },
+        {
+          "text": "862",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/862"
+        },
+        {
+          "text": "32008L0096",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0096:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Ziel des Gesetzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "28d38edfb1f4d08fc0117bb27eb33141cad122a42c8a60a4fd23f164a02681a6",
+      "sha256": "ddacaca2aa7481d3a5666872883708a6dd92da3d7a6d9bd72ea650d19f1d4ea1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d15a986630a2c6543c07a02b6f7cb0507a552e5ffc75541ff750b9c5fa6816a6",
+      "sha256": "922c1f929f75b40ea1f62a6826b6d93763af4f5bac178c8d777cc4598817c078",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Anordnung der Erstellung und Veröffentlichung von Statistiken zu Straßenverkehrsunfällen mit Personenschaden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9fd13351a93525f7c442c1b77248cdd85f6d8c7b25e6a71ffd87de4c73c6eb0",
+      "sha256": "0ff40f1efc82488b46e7c1ef0908cd01fdf0b2714d742772b6bdffecae3a9310",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Erhebung der Daten und Qualitätssicherung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fef0daa5acd3c63c8c85241d5d39ab5531d316f6025f0c25485146366b949262",
+      "sha256": "2b1de7dcd642145574219c29a63b0be71ae2725197d5cd593e3a10e29fdf89e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Weitergabe und Löschung von Daten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e315bd6387eba83c4479f00f10cff28b3ec524871e80324b2a459d48ef3a0057",
+      "sha256": "3d238da5fad2b9e0dd8fa08504a5a69257d6dc1380c76c7445369ef917f9ff1b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Auswertung von Daten durch den Bundesminister für Inneres",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05fbae8097ffa06644dc5f9f66f754755a4138273365e607512762829fad4177",
+      "sha256": "a15383ea624cd4bba5f0afe3cd8e96e66ae46b5bf8a1f9befca333f05b35de62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Verwendung des Gesamtunfalldatenbestandes durch den Bundesminister für Verkehr, Innovation und Technologie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3d6204fbe1e1424b5fdd6715878ae0e4ce71a54863b23ecc31e15c1f9f4d6a9",
+      "sha256": "10ec84f67b5ad969be66c50d8c7355d70bd971976389e43349dd3360a52a459a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Anonymisierung und Geheimhaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05fa06c8be65beb23a735e1193c2792d378a596053e41649b671183f4aa6f7b4",
+      "sha256": "7bb15acd8ecd923a12da70d3a6096065a8105b6222ae405a90a81990ddf7a8a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Verordnungsermächtigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a09ae05e05cfaec23fad66782c82b26e38da6183dfe7c05a246e0c8f45b0bcf7",
+      "sha256": "6ecc1ae3ff9fe054549113940b25ad7e3f78908a285fe3e7272b06e1d3e3cf76",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41557f63a309fcfc2ddb1184ad99fc0a6895f07e54f26bb19a4294e4e35ac2a2",
+      "sha256": "3a06a47fdf237e1730834bae7ee06ae8c0f694cde995666d18bd164324bbc959",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Verweisung auf andere Rechtsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd878782e830cc26e918d7e9a4e78c1ce7600fca7e055e265783caef42038adf",
+      "sha256": "fc01aa8409f55b66da0ae0511ce8905786a0313870cf487fc94ffc11e6335811",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6a136d33fc03c0446540742f2e10f06e4f9b4512d158d075b955335a82ed517a",
+      "sha256": "a41b656a1aef1fd1036620911dd167ba3f598c511a88587419778eab92098e0c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Umsetzung von Unionsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2332a4ef1a287c1b32ff194b13cbfd2b2e5626407191af7a3701b9e9007fdd03",
+      "sha256": "e7e27e29bddc506612a3ec07ab0551f367611f5487128e7b018e76fa91dff68d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "407cae4c616b07c47e6d1a2642840267b8ae55d256a96c39332f53e2a2222018",
+      "sha256": "b85384791a45ceb95f5f392267a12e7f6b05cbcd1391b6156d553419f144830d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

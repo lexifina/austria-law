@@ -1,0 +1,123 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20007191",
+  "short_title": "PT-Personalverrechnungs- und Pensionsdatenübermittlungsverordnung",
+  "abbreviation": "PT-PVPDÜV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40127460",
+    "valid_from": "2011-02-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007191&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:57:22.670249+00:00",
+    "response_sha256": "f193f40a0745dcd80fdee5a571c12fb18cdb223146e66c4c8b47fb1af3d67fdd",
+    "snapshot_sha256": "c1c6d273534a19e669fd5572a38bc89d698523b21e040ccc94af86870fe273b8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4bbbc23ac7b0909c984aaf344c00c9ab506f9f7c6f790bb20cb40dda06e1927b",
+      "sha256": "f237f185394a779de62227936daa47d3b7eee93cc7ee8ef24c892a55f9385c7d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin bzw. des Bundesministers für Finanzen betreffend die von Unternehmen nach dem Poststrukturgesetz an die Bundesministerin bzw. den Bundesminister für Finanzen zu übermittelnden Daten (PT-Personalverrechnungs- und Pensionsdatenübermittlungsverordnung – PT-PVPDÜV) StF: BGBl. II Nr. 63/2011"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 63/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/63"
+        },
+        {
+          "text": "BGBl. I Nr. 201/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_1/1996_201_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 52/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/52"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Auszuwertende Daten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d44db129596e02cdffa1148d8241bc95a73af3838cc432e0e6b9fcd19677bf43",
+      "sha256": "e6cab5df8e4d6e24f8659101c9246588c65db432ceb08d057c7d80e6fd5d51e2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 138/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_138_1/1997_138_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 201/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_1/1996_201_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Art der Übermittlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08a2388a880c40ce353994109097f1921a94c04ab6a5acdc58d67bdaafc810a0",
+      "sha256": "9bd620a0d3f997beef73e7addced53b0bcd499c2ed60d9207a17c2a8131efa9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

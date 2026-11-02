@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003647",
+  "short_title": "Errichtung einer zweiten Notarstelle in Telfs",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003965",
+    "valid_from": "2004-10-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003647&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:02:45.123938+00:00",
+    "response_sha256": "574336573ede359015c14c84ca67bc8357ce0c2ad7c7586ae7580b0650cd0f74",
+    "snapshot_sha256": "45483c354a5927404b9415a0420507dccec79ba5d08bc81c998540c4b8523319",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55a187bd8ae96ef1e6719b79cfa8ed8bc936b3dc09e29f28d768f833f6472b61",
+      "sha256": "edad32a329f82640c2517c2c0f76e5c20a12659aaad5c6eaba328c9cde374f2d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz betreffend die Errichtung einer zweiten Notarstelle in Telfs StF: BGBl. II Nr. 383/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 383/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/383"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fcbb19daaf345e9c371ed5edf3ae3ef34257d519a867b04ecebca44f866105de",
+      "sha256": "4379c346695cb41a11e52d51742918f20c5f2d278e58b21c14c7dd853464861f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

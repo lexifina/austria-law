@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 20. April 1964, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung und Vollziehung einer Regelung, die zur Bekämpfung von Infektionskrankheiten Beiträge an die Erkrankten unter Bedachtnahme auf deren Vermögens- und Einkommensverhältnisse vorsieht. StF: [BGBl. Nr. 82/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_82_0/1964_82_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 11. Dezember 1963, K II-1/63, dem Bundeskanzleramt zugestellt am 16. April 1964, zusammengefaßt hat:

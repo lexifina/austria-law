@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008908",
+  "short_title": "Soziale Sicherheit (Inkrafttreten)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009069",
+    "valid_from": "1994-06-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008908&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:24:36.479083+00:00",
+    "response_sha256": "96ec43c6dcfb3e62b712c075c69b11a452061c30c79647caa8b0170eaabc86a7",
+    "snapshot_sha256": "dbd9c0f6a519502f2df71b641c8f911b997187c5d3de0e5b882f812f5d5b9737",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "068463a88c010915875e7a71b584c12d0928463725918e24fdfe8c245e4ca17a",
+      "sha256": "bd7ebed363d66bcd88dab96d09f03edbbeb1879ed7afb8d55c5b3c439a2c33f1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Arbeit und Soziales betreffend das Inkrafttreten der Vereinbarung zwischen der Regierung der Republik Österreich und der Regierung von Quebec im Bereich der Sozialen Sicherheit StF: BGBl. Nr. 464/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 464/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_464_0/1994_464_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "212cd9110d43cbc126be67fceee9c350ca14056b9626665d29d7980aa6692a86",
+      "sha256": "2a840a3bd7c6c7318a45d80fb95d9156d070d8f4a5aa914966b19d69c57a5e03",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 551/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_551_0/1993_551_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

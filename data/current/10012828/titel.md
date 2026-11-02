@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über die medizinische Versorgung an Bord von Seeschiffen StF: [BGBl. II Nr. 365/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_365_2/1998_365_2.pdf>) \[CELEX-Nr.: [392L0029](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0029:DE:HTML>)\]
+
+Auf Grund der §§ 34 und 60 Abs. 1 Z 8 des Seeschiffahrtsgesetzes, [BGBl. Nr. 174/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_174_0/1981_174_0.pdf>), in der Fassung [BGBl. Nr. 452/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_452_0/1992_452_0.pdf>) und 692/1992, wird im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für europäische und internationale Angelegenheiten über die Verwendung von Erlösen veräußerter Ehrengeschenke (Ehrengeschenke-Verordnung) StF: [BGBl. II Nr. 118/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/118>)
+
+Auf Grund des § 59 Abs. 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 120/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/120>), und des § 5 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 120/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/120>), wird verordnet:

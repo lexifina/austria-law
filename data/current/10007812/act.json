@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007812",
+  "short_title": "Warenaustauschabkommen zwischen Österreich und Pakistan - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007951",
+    "valid_from": "1996-07-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007812&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:10:23.142741+00:00",
+    "response_sha256": "3149182c30c6f46ae59656ebd39ff386e31824cdd9ba0d8a80d15dfd3eb0fc22",
+    "snapshot_sha256": "7126a86d881d8a382c6b9a7f3f1e2dc8a6a15d72923f8c7ee6bbd57065df4289",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88da0f7789fce4a6752ac107bd6a94320cce4b3aa8efef55cf6e7ef875b890a3",
+      "sha256": "b3b039a0f840d13f35649f351b1ca993d99d5196deca258660bbf50dcf7f301c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Warenaustauschabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Islamischen Republik Pakistan StF: BGBl. Nr. 308/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 308/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_308_0/1996_308_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00d4b057ad1a5c53f0b54fbf2abadaac8d1d6d654c63a5bc9681ca4ca4065dbe",
+      "sha256": "b3bc44e837c63e2078d1347ff910633a6807dbe7ec807f6f39b4c739b979e847",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

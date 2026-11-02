@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004060",
+  "short_title": "Zollabkommen über Behälter (1956)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004096",
+    "valid_from": "1969-07-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004060&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:24:23.983216+00:00",
+    "response_sha256": "25505eeca0caa90636d7abc39dcf7c6cc96a065aaf23b6b34cd35dafdc444c2e",
+    "snapshot_sha256": "dfe06717bbb1fb9bf639338f54e9754769bcefaed6ec466e929692011c00d0c7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3cec42c612c5fedff35cc116f51473daf05a985f4a2f27da7a042d6b0205269a",
+      "sha256": "95392187127c5e65c71df3ab0b2ba7b6a5d21e9e509cc474a7d565858be81891",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 3. Juli 1969 betreffend den Beitritt der Vereinigten Staaten von Amerika und Malawis zum Zollabkommen vom 18. Mai 1956 über Behälter StF: BGBl. Nr. 253/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 253/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_253_0/1969_253_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f01b2e2103b861270c860616fa14d9d1a577e4b708ed96ca4f53f149b83f81a5",
+      "sha256": "831a2dcb3025d2d63630e8dc55d64da847e63c99c627370a6e7e1e6adb50d3f9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 22/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_22_0/1958_22_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 462/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_462_0/1968_462_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

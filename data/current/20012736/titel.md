@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Anpassung der Schwellenwerte im Unternehmensgesetzbuch an die Inflation (UGB-Schwellenwerte-Verordnung – UGB-SchweVO) StF: [BGBl. II Nr. 318/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/318>) \[CELEX-Nr.: [32023L2775](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2775:DE:HTML>)\]
+
+Gemäß § 221 Abs. 7 und § 246 Abs. 4 Unternehmensgesetzbuch (UGB), [dRGBl. S 219/1897](<https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de>), zuletzt geändert durch [BGBl. I Nr. 133/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/133>), wird verordnet:

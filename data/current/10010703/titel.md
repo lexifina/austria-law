@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Umwelt, Jugend und Familie über die Einteilung des Bundesgebietes in Ozon-Überwachungsgebiete StF: [BGBl. Nr. 513/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_513_0/1992_513_0.pdf>)
+
+Auf Grund des § 1 des Bundesgesetzes über Maßnahmen zur Abwehr der Ozonbelastung und die Information der Bevölkerung über hohe Ozonbelastungen, mit dem das Smogalarmgesetz, [BGBl. Nr. 38/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_38_0/1989_38_0.pdf>), geändert wird (Ozongesetz), [BGBl. Nr. 210/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_210_0/1992_210_0.pdf>), wird verordnet:

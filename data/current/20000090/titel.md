@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Unterricht und kulturelle Angelegenheiten über den Lehrplan des Lehrganges für Inklusive Elementarpädagogik; Bekanntmachung der Lehrpläne für den Religionsunterricht an diesem Lehrgang StF: [BGBl. II Nr. 354/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_354_2/1999_354_2.pdf>)

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003153",
+  "short_title": "Hoheitszeichen - Slowakische Republik",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003179",
+    "valid_from": "1993-10-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003153&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:54.835124+00:00",
+    "response_sha256": "8c669169915cba263133bb3fa462ee6a4c975054266b65a9c574403f8595fc88",
+    "snapshot_sha256": "4e612b8700199aa09597f11437ad38fbe273d5861725c9da448b0b39fb298b7e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a87b5bb6db392829d6490d271419666f91ec83d6c137f72651e052e47c973def",
+      "sha256": "2b46024e607acd6e23b06dd48860a1483e5aaf433f0ed7fe1ddb98f07a6bb98c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Slowakischen Republik StF: BGBl. Nr. 691/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 691/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_691_0/1993_691_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77709a940385f7844d2f3ae6e0e4191788adde94f133581864544839679f4d43",
+      "sha256": "4d6d3faedae29ea60d3e77d99e185fc36586a8b45fb17cb5ae4c81c40e9fd0ba",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

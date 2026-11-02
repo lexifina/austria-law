@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 12. August 1987 betreffend neue Hoheitszeichen des Fürstentums Liechtenstein StF: [BGBl. Nr. 473/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_473_0/1987_473_0.pdf>)

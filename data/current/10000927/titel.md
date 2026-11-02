@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 2. November 1988 über die Aufhebung der Verordnung des Landeshauptmannes von Oberösterreich vom 23. Juni 1987, Amtliche Linzer Zeitung Nr. 26/1987, über die Festsetzung einer Verhältniszahl für das Platzfuhrwerksgewerbe im Gebiet der Landeshauptstadt Linz durch den Verfassungsgerichtshof StF: [BGBl. Nr. 592/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_592_0/1988_592_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

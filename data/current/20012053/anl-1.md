@@ -1,0 +1,10 @@
+## Anlage
+
+Registerforschungstaugliche Register im Wirkungsbereich des Bundesministeriums für Bildung, Wissenschaft und Forschung
+
+| Nr. | Register/Bezeichnung | bundesgesetzliche Grundlage | Beschreibung |
+| --- | --- | --- | --- |
+| 1 | Mobilitäts- und Kooperationsdatenbank der OeAD GmbH | § 10a OeADG | Insbesondere die Daten nach § 10a Abs. 4 bis 5a OeADG, d.h. etwa verschiedene Angaben zu Empfängerinnen und Empfängern von Stipendien bzw. Personen, die an Mobilitätsprogrammen teilnehmen. |
+| 2 | Prüfungsaktivitätsdaten der Studierenden an öffentlichen Universitäten | § 12 Abs. 2 BilDokG 2020 | Die Struktur dieser Daten gemäß §12 Abs. 2 BilDokG 2020 wird in Anlage 4 der Universitäts- und Hochschulstatistik- und Bildungsdokumentationsverordnung (UHSBV) grundgeregelt. Dabei handelt es sich um Datensätze über die Prüfungsaktivität, welche Stundenmengen abgelegter Prüfungen, Stundenmengen abgelegter Prüfungen mit positiver Beurteilung und Mengen von ECTS-Anrechnungspunkten enthalten, die den ordentlichen Studierenden auf Grund positiver Beurteilung von Prüfungen und von wissenschaftlichen oder künstlerischen Arbeiten zuerkannt wurden. Die Definition eines prüfungsaktiven Studiums ist in der Wissensbilanz-Verordnung 2016 (WBV 2016) geregelt. |
+| 3 | Prüfungsaktivitätsdaten der Studierenden an Pädagogischen Hochschulen | § 12 Abs. 2 BilDokG 2020 | Aufgrund der gemeinsam zwischen den öffentlichen Universitäten und den Pädagogischen Hochschulen eingerichteten Lehramtsstudien ist Prüfungsaktivität ein hochschultyp-übergreifendes Merkmal. Aus diesem Grund gelten die gleichen Beschreibungsmerkmale wie für prüfungsaktive Studierende an öffentlichen Universitäten. |
+| 4 | Schulformenregister | § 7 Abs. 3 BilDokG 2020 („Kennzeichnung der Schulformen") | Verzeichnis der Schulformen („Ausbildungen"), welche an den österreichischen Schulen in den einzelnen Schuljahren geführt werden können (Schulformkennzahl, Bezeichnung der Schulform, zulässige Schulstufen und Klassennummern, Abschluss-Schulstufe und Art des Abschlusses) mitsamt einer Zuordnung zu den jeweils übergeordneten Schultypen. |

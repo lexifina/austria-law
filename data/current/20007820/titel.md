@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie zur Errichtung weiterer nationaler Register für Organisationen, die zu EMAS gleichwertige Umweltmanagementsysteme anwenden (UMG-Register-Verordnung – UMG-RegV) StF: [BGBl. II Nr. 152/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/152>)
+
+Auf Grund des § 15 Abs. 5 des Umweltmanagementgesetzes (UMG), [BGBl. I Nr. 96/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_96_1/2001_96_1.pdf>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 99/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/99>) wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 16. November 1972 betreffend den Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von Berufsausrüstung vom 8. Juni 1961 StF: [BGBl. Nr. 438/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_438_0/1972_438_0.pdf>)

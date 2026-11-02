@@ -1,0 +1,582 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "20004105",
+  "short_title": "Dienstleistungsscheckgesetz",
+  "abbreviation": "DLSG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004464",
+    "valid_from": "2006-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004105&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:09:17.269792+00:00",
+    "response_sha256": "aeb56d8bfe080433e0d00ede7e5b166186df7e3a0f295238082007c1c3e858b9",
+    "snapshot_sha256": "dc50b813030f167778770509ce1ec445da29ee0e30aafb2e64231f9810d31e53",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f3da7785896f016bf27ff6495b7002bf2769e50b9e6038473f1bc1c63df2742",
+      "sha256": "60be60efa3877d3eab6f83964bb9d3d992ab7f6e822a0f27e77029441a0f5389",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Dienstleistungsscheckgesetz (DLSG) StF: BGBl. I Nr. 45/2005 (NR: GP XXII RV 856 AB 925 S. 110. BR: AB 7287 S. 722.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 114/2005 (NR: GP XXII RV 1075 AB 1093 S. 122. BR: AB 7377 S. 725.) BGBl. I Nr. 30/2014 (NR: GP XXV IA 260/A AB 60 S. 18. BR: AB 9159 S. 828.) BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 45/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/45"
+        },
+        {
+          "text": "RV 856",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/856"
+        },
+        {
+          "text": "AB 925",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/925"
+        },
+        {
+          "text": "S. 110.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/110"
+        },
+        {
+          "text": "AB 7287",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7287"
+        },
+        {
+          "text": "S. 722.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/722"
+        },
+        {
+          "text": "BGBl. I Nr. 114/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/114"
+        },
+        {
+          "text": "RV 1075",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1075"
+        },
+        {
+          "text": "AB 1093",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1093"
+        },
+        {
+          "text": "S. 122.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/122"
+        },
+        {
+          "text": "AB 7377",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7377"
+        },
+        {
+          "text": "S. 725.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/725"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/30"
+        },
+        {
+          "text": "IA 260/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/A/260"
+        },
+        {
+          "text": "AB 60",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/60"
+        },
+        {
+          "text": "S. 18.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/18"
+        },
+        {
+          "text": "AB 9159",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9159"
+        },
+        {
+          "text": "S. 828.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/828"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "RV 329",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/329"
+        },
+        {
+          "text": "AB 413",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/413"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/57"
+        },
+        {
+          "text": "10079",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10079"
+        },
+        {
+          "text": "AB 10082",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10082"
+        },
+        {
+          "text": "S. 888.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/888"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2195a654e4f5957a2d8602df3168a7598c69bcfc944f971b1e983fa587c802ee",
+      "sha256": "5412a36b71e4f6efae8f87c4ba37c5127318514bde60ee7326f201755a40d862",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Verpflichtungen des Arbeitgebers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "741e9a23a4b68f41c2a9221265692292a580392106a3201488dc4e85b05c5696",
+      "sha256": "298b19092954665e800efa23305721e807948f6f4ad13be37bb147a4428d3651",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 235/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_235_0/1962_235_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 390/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_390_0/1976_390_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Verpflichtungen des Arbeitnehmers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75295b36af8e595aa5bfebaeb22869d9b331791580a8528dc3e5259206c9bbab",
+      "sha256": "55812e2fdb16b9adef2fa37a79f652b28ea99d8e79ca5e851d8e0dbebecafd93",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Dienstleistungsscheck",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d5997046f6473d626128fe7c364369820b0b08f480ce90d4c646c76103daf3b",
+      "sha256": "b1d1f39a0e9e7e8f1aaa95f994fb5b72d0b09b5c4b1a6f948516171d54d3c91c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5568af80e5fb79935cb4b21f4b0b70ebcec4329281067aa1e42a66568cf7da5",
+      "sha256": "1ed6adb67db7868ce33b5f6113cc06f4a2f198f5cdc884eb945aa1655181974d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Deckung des Aufwandes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd17a114f714a02fd87f6ccbcbdd66b0aaddc87cd5662dab34292112705fa051",
+      "sha256": "7120daa13805142b8b03b1935dbd5acad4b3aeb4f25233c17d8890b04aa3b2bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Organisation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fbd6d40a1b65a019fece954fbe19a631c2797c4b89307ab7fbb0269c19e2e81c",
+      "sha256": "c43792b5bac5268df68040ce78455ff1a90853604afdd0bab20f738d3d88c2b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Mitwirkungsverpflichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0dfeded49cc437a29a6ebf0195c2729e07e97210918eacc5754e6b9e469fbc39",
+      "sha256": "6c1ccfaf8da2d1c69f44a22315525a09a77eedb8bbf1390e659d5d62e14e8675",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Prüfung der Arbeitsberechtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "879845d1d1a6b29a55437869b1379926a541f34003ba86b5f2c87f6d110a5fd7",
+      "sha256": "41204b5cbc08fe92075fd97f32e64ae2c5916b9bc14ba6bf83576f866ed90628",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Verwaltungsübertretung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a0948a4c07cb91d7cc460771778c8f66dc3df9346f5ddad0c5cb5ca4c4403bd",
+      "sha256": "346e430ab7bf6955d4777909e394f89fde46820ef3082604efc213c7f853e77d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 218/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Evaluierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b34ae5dd948411683521615493ef39f2e82b09368e4964f4d3e499ebba22743",
+      "sha256": "8ee9088dfd5c1acc1a49d35dddb5a68bdbbe89f69f13b72ab7e345f580541bcd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Verhältnis zu anderen Rechtsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a59c9e9d55e7b11eb9095d36ecce147d31aabac6c235d8c74fecd151c49739d2",
+      "sha256": "11464d0b98ed3e6b8647f64dfe61e08ae416effb65963154003ab2290fea2a52",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 235/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_235_0/1962_235_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7ff13213d87e45a596b3f6418260c7e98352d1314ea2e35c6bce11775453281",
+      "sha256": "b4ac7e443137e0ae94ee63177f1030b8d4aa85bbc595829adbdf9f7a295ccde5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9174263274bb96214dda2031c58b6ef875a38297e7f54943d2d374dd359df935",
+      "sha256": "98ca23454098ebf8dee8e16d1ca8e8a357236d9be1380bd854e2ebd70933225c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1c8fb30ea14602f0511b250bc5eaabc3f0fc5114826ed13cd01f2a2031b8d77",
+      "sha256": "816b10c0e3ad1daef90a0ef6065bfbdf24c7b544b3a9e39792a1f225097d6b65",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd2e51676e4270f036e5586b73cc4106373512b69782c311f9b17d6c811d8196",
+      "sha256": "2e546b8bc59368a03fb6318079164d25e6941ae9e0b423ef3ec2824e955f717e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 30/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/30"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "§ 17.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "662cb299424576ceeb6ba88a3638520a1170e0f2371dcb342a37c86245e31a8b",
+      "sha256": "865797dfa4f32a5bf61fe4d1eae6f34cad030626d2551cf6745d7a3573cadb05",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "§ 18.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c748b7431e8becb127b421347c33c8054c9696c6db2cd048657c96b88a9b0db",
+      "sha256": "a0a1bc8d1c8c2f6b211f45e477dc9c01a5776516c626341482312be80011ff19",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

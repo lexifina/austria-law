@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres über die Gestaltung der Reisepässe und Passersätze (Passverordnung - PassV) StF: [BGBl. Nr. 861/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_861_0/1995_861_0.pdf>)
+
+Auf Grund der §§ 3 Abs. 2 und 25 Abs. 2 Paßgesetz 1992, BGBl. Nr. 839, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 507/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_507_0/1995_507_0.pdf>), wird im Einvernehmen mit dem Hauptausschuß des Nationalrates und - hinsichtlich des § 4 auch im Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten - verordnet:

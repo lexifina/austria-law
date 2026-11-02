@@ -1,0 +1,119 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012992",
+  "short_title": "Aufteilungsschlüssel in der Krankenversicherung der Pensionistinnen und Pensionisten (Kalenderjahr 2024)",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40272356",
+    "valid_from": "2025-10-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012992&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:48:16.692138+00:00",
+    "response_sha256": "e82a7eac9f088659863c57004bdbcf16bb43c1deb91456c1512a1661c66cda96",
+    "snapshot_sha256": "bb827d30225c570737eab92f0e31d583dcd0ec7305185516111d28a7282c816c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb5dbc48c127381348efa299b0657641a0fdab0ad0b9165d92b3d60aa45fc6de",
+      "sha256": "4b7452597b7c91a557a9c0e4fb83c89f226e9059b35c9ecb849dbc2c1f21ae1d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über den Aufteilungsschlüssel in der Krankenversicherung der Pensionistinnen und Pensionisten StF: BGBl. II Nr. 229/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 229/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/229"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d5e8fe95c3f0476c1b34c552ce1ffb97ccb597ff11c823292715ede7be6eb2c",
+      "sha256": "cc8f7052e42ddd0708fe37293747bbae428c42b6f28a01227fc1764b4e14e628",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Österreichische Gesundheitskasse",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "99,94565",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "0,05435",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

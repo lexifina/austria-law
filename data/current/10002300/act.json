@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002300",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002323",
+    "valid_from": "1973-12-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002300&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:01:51.440590+00:00",
+    "response_sha256": "bd9c0f9fdc4e3d74ce8cfa17b74785a75b66d37c1f5b9b24a0b7d7fa0c1f37dd",
+    "snapshot_sha256": "288c67315c0e2a723ec8666600394a813ba4422af034fbcfb83ddd58e42a161a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b291f5354cb2be088b0feb02d75f99f569e5eb17ee35813bb9664fafba460cd6",
+      "sha256": "f3eff0a3c7d30463f88f49351caf7b313e44ad9a9dac84aa2a3e49ee528e94cc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Republik Österreich und dem Königreich Lesotho betreffend die Weiteranwendung des österreichisch-britischen Rechtshilfeabkommens vom 31. März 1931 StF: BGBl. Nr. 86/1974"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 86/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_86_0/1974_86_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2de79ad698f96c59ca600957de0fba8ad41734b460fca57b816c914b8f5e310",
+      "sha256": "5d18a6663ee2bacca0e4bcb9a2095da9788b8aba5d160d2931181fb133b75785",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

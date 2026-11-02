@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über die Einräumung von Privilegien und Immunitäten an die ausländischen Delegationen, das Büro des Administrators und die Bediensteten des Büros des Administrators der durch den Vertrag über konventionelle Streitkräfte in Europa eingesetzten Gemeinsamen Beratungsgruppe StF: [BGBl. Nr. 60/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_60_0/1991_60_0.pdf>)
+
+Auf Grund des § 1 Abs. 3 des Bundesgesetzes, [BGBl. Nr. 677/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_677_0/1977_677_0.pdf>), über die Einräumung von Privilegien und Immunitäten an internationale Organisationen wird verordnet:

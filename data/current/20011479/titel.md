@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend Befreiungen von der Elektrizitätsabgabe für selbst erzeugte elektrische Energie (Elektrizitätsabgabe-Eigenstrombefreiungsverordnung – ElAbg-ESBV) StF: [BGBl. II Nr. 82/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/82>)
+
+Auf Grund des § 2 Z 4 des Elektrizitätsabgabegesetzes, [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 18/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/18>), wird im Einvernehmen mit der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

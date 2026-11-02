@@ -1,0 +1,3 @@
+Vereinbarung zwischen der Bundesregierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über den Austausch von Mitteilungen in Staatsangehörigkeitssachen StF: [BGBl. Nr. 45/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_45_0/1959_45_0.pdf>)
+
+Die vorstehende Vereinbarung ist in Form eines Notenwechsels am 6. Oktober 1958 zwischen dem österreichischen Botschafter in Bonn und dem Bundesminister des Auswärtigen der Bundesrepublik Deutschland abgeschlossen worden, sie ist durch einen gemäß Punkt V der Vereinbarung erfolgten Notenwechsel vom 13. Oktober 1958 mit 1. November 1958 in Kraft getreten.

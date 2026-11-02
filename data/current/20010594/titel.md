@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über die Festlegung von Personengruppen (Personengruppenverordnung 2018 – PersGV 2018) StF: [BGBl. II Nr. 63/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/63>)
+
+Auf Grund des § 52d Abs. 3 des Hochschulgesetzes 2005, [BGBl. I Nr. 30/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/30>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 101/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/101>), und des § 65 Abs. 3 des Universitätsgesetzes 2002, [BGBl. I Nr. 120/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_120_1/2002_120_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 3/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/3>), wird verordnet:

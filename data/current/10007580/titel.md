@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der Formblätter für Stammblätter gemäß dem Heizkostenabrechnungsgesetz vorgesehen werden (Heizkosten-Stammblattverordnung) StF: [BGBl. Nr. 905/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_905_0/1994_905_0.pdf>)
+
+Auf Grund des § 25 Abs. 6 des Heizkostenabrechnungsgesetzes, [BGBl. Nr. 827/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_827_0/1992_827_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 800/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_800_0/1993_800_0.pdf>) wird im Einvernehmen mit dem Bundesminister für Justiz verordnet:

@@ -1,0 +1,3 @@
+Vereinbarung zwischen der Österreichischen Bundesregierung und der Regierung der Bundesrepublik Deutschland über die Erleichterung der Arbeitsaufnahme vom 23. November 1951, samt Notenwechsel vom 12. März 1958, betreffend die Abänderung der vorliegenden Vereinbarung Vereinbarung zwischen der Österreichischen Bundesregierung und der Regierung der Bundesrepublik Deutschland über die Erleichterung der Arbeitsaufnahme vom 23. November 1951. StF: [BGBl. Nr. 122/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_122_0/1958_122_0.pdf>)
+
+Die Bestimmungen des vorliegenden Notenwechsels sind am 1. Mai 1958 in Kraft getreten.

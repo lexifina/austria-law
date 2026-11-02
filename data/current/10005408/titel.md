@@ -1,0 +1,1 @@
+Vereinbarung über die Errichtung vorgeschobener österreichischer Grenzdienststellen am Grenzübergang Schleching StF: [BGBl. Nr. 493/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_493_0/1975_493_0.pdf>) idF [BGBl. Nr. 596/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_596_0/1975_596_0.pdf>) (DFB)

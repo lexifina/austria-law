@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000140",
+  "short_title": "Straßenverlauf der A 1 West Autobahn – Anschlußstelle \"Oed\"",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000168",
+    "valid_from": "1999-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000140&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:16:07.734747+00:00",
+    "response_sha256": "404bc13d8c180486cd78d5f95595b633771eba068c68abc78e539ac9fce9f592",
+    "snapshot_sha256": "b2ad5dca26cdeeeaea4db294c989da8200bed9fa468a943ca3fb04f66349a69a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0ce1ba7b1b942f44501cd07c93aead9675fc392688d25076b058fd0013f19447",
+      "sha256": "1eb732bbf5c81dbdf53a5989cbe3dc7e74853c805b971e447a028a1dcd291e3e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der A 1 West Autobahn Anschlußstelle „Oed“ im Bereich der Gemeinden Oed-Oehling und Aschbach Markt StF: BGBl. II Nr. 366/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 366/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_366_2/1999_366_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 182/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_182_1/1999_182_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 773/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_773_0/1996_773_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a05bd2719ba6d40203cbeeab8666824462694c05e36d58c538924613ff64855b",
+      "sha256": "b6147eeb3ed6b1cf4266e9ef7cf6ccc01348537720ab125de5615549868c2626",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

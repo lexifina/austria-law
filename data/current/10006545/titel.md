@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 18. Jänner 1977, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen werden StF: [BGBl. Nr. 68/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_68_0/1977_68_0.pdf>)

@@ -1,0 +1,64 @@
+{
+  "sample_only": false,
+  "included_provisions": 1,
+  "source_provision_count": 1,
+  "schema_version": 1,
+  "gesetzesnummer": "20001920",
+  "short_title": "Grundausbildung für Offiziere",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002087",
+    "valid_from": "2002-04-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001920&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:38:58.314248+00:00",
+    "response_sha256": "c1f6f4f65b22856c19e5382183abac8203ec1a301bd02371fb47016b46f16c5f",
+    "snapshot_sha256": "ddb8e7c42804d9560193b16370f6ab344e4584b1582f6a002fbddb56d7fd7d10",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9df9f1c1fbf55c3866eceb0c4ddde7fa27a1b4dde942352da206a3c22a05603f",
+      "sha256": "806deb5f28626e312cb6fbb56283a1437edac9cc90772046999a3144b1868cea",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Hinweis des Bundeskanzleramtes betreffend Verordnungen des Bundesministers für Landesverteidigung, die im Verlautbarungsblatt I des Bundesministeriums für Landesverteidigung verlautbart wurden StF: BGBl. II Nr. 168/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 168/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_168_2/2002_168_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 138/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_138_2/1997_138_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

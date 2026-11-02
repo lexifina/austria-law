@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Einrichtungen der Vereinten Nationen, denen Rechtshilfe zu leisten ist (IG-ZG-V) StF: [BGBl. II Nr. 296/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/296>)
+
+Aufgrund von § 1a Abs. 2 des Bundesgesetzes über die Zusammenarbeit mit den internationalen Gerichten (IG-ZG), [BGBl. Nr. 263/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_263_0/1996_263_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 20/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/20>), wird im Einvernehmen mit dem Bundesminister für europäische und internationale Angelegenheiten und dem Bundesminister für Inneres verordnet:

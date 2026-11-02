@@ -1,0 +1,99 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000259",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000260",
+    "valid_from": "1954-08-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Matriell derogiert durch Art. 10 Abs. 1 Z 17 B-VG („Bevölkerungspolitik ...“) i.d.F. der B-VG-Novelle BGBl. Nr. 8/1955."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000259&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:25:41.906589+00:00",
+    "response_sha256": "cd9c30cf84c8c9596be2d78db6c95ca9f1b5c44700d8604086ba8effcb21f0a0",
+    "snapshot_sha256": "5adedbabb5e1895f7c0c762909576b9fbd9a0b6e4b6562578b737cbea95d9c22",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f34a2ee25b15830d973755eeec5075a60f61c317ecfe99358bc5ce0592faa1a",
+      "sha256": "34b2000dd0b18a6bbcb2b59ccfaf14570fe0600746f6a6266b168c52d4dc1df4",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Matriell derogiert durch Art. 10 Abs. 1 Z 17 B-VG („Bevölkerungspolitik ...“) i.d.F. der B-VG-Novelle BGBl. Nr. 8/1955."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 22. Juni 1954, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit des Bundes und der Länder, Maßnahmen zur Erleichterung der Familiengründung und zur Hebung der Geburtenfreudigkeit durch Gewährung von Familienbeihilfen zu treffen. StF: BGBl. Nr. 159/1954"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 8/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_8_0/1955_8_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 159/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_159_0/1954_159_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c1737a8609481c1b77cd6109b9340e61d132d4812879eb673e805883d4fcd0df",
+      "sha256": "ad67ca75cfe828e9ba9ccb4f719bc69904415ee4f4e86838e8ffa9db16daf7a9",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Materiell derogiert durch Art. 10 Abs. 1 Z 17 B-VG (\"Bevölkerungspolitik ...\") i.d.F. der B-VG-Novelle BGBl. Nr. 8/1955."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 8/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_8_0/1955_8_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

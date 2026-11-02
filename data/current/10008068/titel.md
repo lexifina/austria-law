@@ -1,0 +1,1 @@
+Gesetz vom 11. Februar 1920 über die Rechtsverhältnisse der Journalisten (Journalistengesetz) StF: [StGBl. Nr. 88/1920](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=88/1920&amp;SkipToDocumentPage=True>) (KNV: 403 AB 656 S. 39, 58 u. 59.)

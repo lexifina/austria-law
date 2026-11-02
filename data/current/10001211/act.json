@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001211",
+  "short_title": "VfGH-Ausspruch, dass Bestimmungen der „Werbeverbotsrichtlinien'' gesetzwidrig waren und Bestimmungen der „Wettbewerbsrichtlinien“ aufgehoben werden",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001217",
+    "valid_from": "1992-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001211&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:43:19.580495+00:00",
+    "response_sha256": "93b3b653ad4e825b5aa5a43fae45f445dee76e9c9f91147880b5821fcbb9c174",
+    "snapshot_sha256": "e0b28c957623827bc4ca6ce190fbf6355aeecc02ba556c62f14c7485638070bf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e8679dc7bd17510a30c3ebd9ab52cc8af03c59c0b3542f61a52d59a587c664a",
+      "sha256": "84ba857d86ae79bbba36a67c68dd95473e556c2a462cc51c25055f675009aa8e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten über den Ausspruch des Verfassungsgerichtshofes, daß Bestimmungen der vom Vorstand der Kammer der Wirtschaftstreuhänder am 25. Juni 1979 beschlossenen ,,Werbeverbotsrichtlinien'' gesetzwidrig waren und über die Aufhebung von Bestimmungen der vom Vorstand der Kammer der Wirtschaftstreuhänder am 6. Dezember 1985 beschlossenen ,,Wettbewerbsrichtlinien'' durch den Verfassungsgerichtshof StF: BGBl. Nr. 623/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 623/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_623_0/1992_623_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e4e289d53e0d26d201a332e6d15ad30a3b520d02c03e2aa32a2a7e09a0048625",
+      "sha256": "1cd3fa48c553014a5be4fb64f878a3fcdeb9d1848e32744e289f338d79b2ed50",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

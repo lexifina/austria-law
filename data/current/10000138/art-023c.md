@@ -1,0 +1,9 @@
+Artikel 23c. (1) Die Erstellung der österreichischen Vorschläge für die Ernennung von Mitgliedern der Europäischen Kommission, von Mitgliedern des Gerichtshofes der Europäischen Union, von Mitgliedern des Rechnungshofes, von Mitgliedern des Wirtschafts- und Sozialausschusses, von Mitgliedern des Ausschusses der Regionen und deren Stellvertretern und von Mitgliedern des Verwaltungsrates der Europäischen Investitionsbank obliegt der Bundesregierung.
+
+(2) Vor der Erstellung der Vorschläge für die Ernennung von Mitgliedern der Europäischen Kommission, des Gerichtshofes der Europäischen Union, des Rechnungshofes und des Verwaltungsrates der Europäischen Investitionsbank hat die Bundesregierung dem Nationalrat und dem Bundespräsidenten mitzuteilen, wen sie vorzuschlagen beabsichtigt. Die Bundesregierung hat über die Vorschläge das Einvernehmen mit dem Hauptausschuss des Nationalrates herzustellen.
+
+(3) Vor der Erstellung der Vorschläge für die Ernennung von Mitgliedern des Wirtschafts- und Sozialausschusses hat die Bundesregierung Vorschläge der gesetzlichen und sonstigen beruflichen Vertretungen der verschiedenen Gruppen des wirtschaftlichen und sozialen Lebens einzuholen.
+
+(4) Die Vorschläge für die Ernennung von Mitgliedern des Ausschusses der Regionen und deren Stellvertretern hat die Bundesregierung auf Grund von Vorschlägen der Länder sowie des Österreichischen Gemeindebundes und des Österreichischen Städtebundes zu erstellen. Jedes Land hat ein Mitglied und dessen Stellvertreter vorzuschlagen; die sonstigen Mitglieder und deren Stellvertreter sind vom Österreichischen Gemeindebund und vom Österreichischen Städtebund gemeinsam vorzuschlagen.
+
+(5) Die Bundesregierung hat dem Nationalrat mitzuteilen, wen sie nach Abs. 3 und 4 vorgeschlagen hat, und dem Bundesrat mitzuteilen, wen sie nach Abs. 2, 3 und 4 vorgeschlagen hat.

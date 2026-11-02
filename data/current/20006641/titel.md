@@ -1,0 +1,11 @@
+Vertrag von Lissabon zur Änderung des Vertrags über die Europäische Union und des Vertrags zur Gründung der Europäischen Gemeinschaft samt Protokollen, Anhang und Schlussakte der Regierungskonferenz einschließlich der dieser beigefügten Erklärungen („Reformvertrag“) StF: [BGBl. III Nr. 132/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2009/132>) idF [BGBl. III Nr. 149/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2016/149>), [BGBl. III Nr. 156/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2016/156>), [BGBl. III Nr. 159/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2016/159>) und [BGBl. III Nr. 169/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2016/169>) (NR: GP XXIII [RV 417](<https://www.parlament.gv.at/gegenstand/XXIII/I/417>) [AB 484](<https://www.parlament.gv.at/gegenstand/XXIII/I/484>) [S. 55.](<https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/55>) BR: [AB 7932](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7932>) [S. 755.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/755>))
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 13. Mai 2008 bei der Regierung der Italienischen Republik hinterlegt. Nach Mitteilung der Regierung der Italienischen Republik tritt der Vertrag gemäß seinem Art. 6 Abs. 2 mit 1. Dezember 2009 in Kraft.
+
+Der Vertrag wurde im Amtsblatt der Europäischen Union, ABl. Nr. C 306 vom 17.12.2007 S. 1 und ABl. Nr. C 115 vom 09.05.2008 S. 1, veröffentlicht.
+
+Der Nationalrat hat beschlossen:
+
+1\. Der Abschluss des gegenständlichen Staatsvertrages samt Protokollen, Anhang und Schlussakte der Regierungskonferenz einschließlich der dieser beigefügten Erklärungen („Reformvertrag“) wird bei Anwesenheit der verfassungsmäßig vorgesehenen Anzahl der Abgeordneten mit Zweidrittelmehrheit genehmigt.
+
+2\. Die bulgarische, dänische, englische, estnische, finnische, französische, griechische, irische, italienische, lettische, litauische, maltesische, niederländische, polnische, portugiesische, rumänische, schwedische, slowakische, slowenische, spanische, tschechische und ungarische Sprachfassung dieses Staatsvertrages sind gemäß Art. 49 Abs. 2 B-VG dadurch kundzumachen, dass sie zur öffentlichen Einsichtnahme im Bundesministerium für europäische und internationale Angelegenheiten aufliegen.

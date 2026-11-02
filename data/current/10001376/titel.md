@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 808 (1993) verabschiedet auf der 3175. Sitzung des Sicherheitsrats am 22. Februar 1993 StF: [BGBl. Nr. 36/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_36_0/1995_36_0.pdf>)

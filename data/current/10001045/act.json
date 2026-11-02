@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001045",
+  "short_title": "VfGH-Ausspruch, dass der zweite Halbsatz des § 45 der RL-BA 1977 gesetzwidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001048",
+    "valid_from": "1990-12-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001045&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:40:32.500509+00:00",
+    "response_sha256": "2f93283afb90b5f355965b00a405f2a29f0ddb4d173e4bec77cf34c146fee8d3",
+    "snapshot_sha256": "5bf3f4d7bfc81ef5562bc144cade929b130a12f3feafd6cd39e0cab359fabad5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f108f14b9b995a4e2f4dd966c4acc052571221353910cf84a570d6ced45a0c77",
+      "sha256": "2bbc2d1172647a9b670f7ee18f73397ca7a22d218ad07227268fa40c252833e0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Justiz vom 22. November 1990 über den Ausspruch der Gesetzwidrigkeit einer Bestimmung der Richtlinien für die Ausübung des Rechtsanwaltsberufes, für die Überwachung der Pflichten des Rechtsanwaltes und für die Ausbildung der Rechtsanwaltsanwärter (RL-BA 1977) StF: BGBl. Nr. 736/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 736/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_736_0/1990_736_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b24c9d33485171ae1c82214f21bd51f016d068d3a97259db3a6efcfaf178735c",
+      "sha256": "d4c4f101140fde7bc3228760488e5efe830d75da71291a64aa932acbba750278",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

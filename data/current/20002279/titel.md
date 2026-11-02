@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der Organisation for the Harmonisation of Business Law in Africa (OHADA) StF: [BGBl. II Nr. 404/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_404_2/2002_404_2.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Regulierungskommission der E-Control, mit der nähere Kostenarten gemäß § 79 Abs. 6 Z 4 GWG 2011 bestimmt werden (GAS-NBK-VO) StF: [BGBl. II Nr. 39/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/39>)
+
+Auf Grund des § 79 Abs. 6 Z 4 Gaswirtschaftsgesetz 2011 – GWG 2011, [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>) iVm § 12 Abs. 2 Z 2 Energie-Control-Gesetz – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), wird verordnet:

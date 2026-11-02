@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002327",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002350",
+    "valid_from": "1975-04-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002327&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:02:28.896742+00:00",
+    "response_sha256": "2528a445ba8ca895454d31bc6711b15f2eb9a37b984855cfa1b4d70b6cf82b19",
+    "snapshot_sha256": "fdb6ff9f24514afc561ce446b50f825f88cd1e1fd6ffc4c515993901449459f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e0d0fbfeaa72cf4f67b8c42a5b511b69f467a168f1b9ddcf7f72969e5e65152",
+      "sha256": "21fbbf1147919fae644fca2ccf43450b73d9f912b442a26960e0550888598979",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Republik Österreich und Fidschi betreffend die Weiteranwendung des österreichisch-britischen Rechtshilfeabkommens vom 31. März 1931 *1) StF: BGBl. Nr. 246/1975"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 246/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_246_0/1975_246_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9b3e9f0c261e1f35aa77ab118ae3e910751c74257493c93460f714d53c39c15",
+      "sha256": "8dac175b027807083afae4361545ea8aca4d035144f061df15049925260211dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

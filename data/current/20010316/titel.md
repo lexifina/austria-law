@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Justiz vom 30. September 1988 gemäß § 16 Abs. 4 des Mietrechtsgesetzes StF: [BGBl. Nr. 563/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_563_0/1988_563_0.pdf>)
+
+Gemäß § 16 Abs. 4 des Bundesgesetzes vom 12. November 1981, BGBl. Nr. 520, über das Mietrecht (MRG), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 340/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_340_0/1987_340_0.pdf>), wird auf Grund der Verlautbarung des Österreichischen Statistischen Zentralamtes vom 16. September 1988 kundgemacht, daß sich die im § 16 Abs. 2 MRG genannten Beträge wie folgt erhöht haben:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Energie und Tourismus und des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Statistik des Gütereinsatzes im Produzierenden Bereich (Gütereinsatzstatistik – Verordnung) StF: [BGBl. II Nr. 349/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_349_2/2003_349_2.pdf>)
+
+Auf Grund der §§ 4 bis 9, 19 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), in der Fassung [BGBl. I Nr. 136/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_136_1/2001_136_1.pdf>) wird im Einvernehmen mit dem Bundeskanzler verordnet:

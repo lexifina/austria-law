@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 9. Juli 1974 betreffend den Beitritt weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 481/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_481_0/1974_481_0.pdf>)

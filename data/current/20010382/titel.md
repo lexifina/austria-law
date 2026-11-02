@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Justiz vom 10. März 1948 über die Errichtung einer 5. Notarstelle in der Stadt Salzburg. StF: [BGBl. Nr. 69/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_69_0/1948_69_0.pdf>)

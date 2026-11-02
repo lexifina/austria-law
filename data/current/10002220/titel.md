@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz vom 28. November 1972 über die Vermutungsfristen bei Tiermängeln StF: [BGBl. Nr. 472/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_472_0/1972_472_0.pdf>)
+
+Auf Grund des § 925 des allgemeinen bürgerlichen Gesetzbuchs, [JGS Nr. 946/1811](<https://alex.onb.ac.at/cgi-content/alex?aid=jgs&amp;datum=10120003&amp;seite=00000275>), in der Fassung des § 118 der Kaiserlichen Verordnung über die dritte Teilnovelle zum allgemeinen bürgerlichen Gesetzbuch, [RGBl. Nr. 69/1916](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=69/1916&amp;SkipToDocumentPage=True>), wird verordnet:

@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002466",
+  "short_title": "Kommunikationselektronik-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002704",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002466&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:47:10.842689+00:00",
+    "response_sha256": "537b1e4027670ea837888ab6bd724041538f4ba2c95a71751dfefccd23ec04ed",
+    "snapshot_sha256": "300b09e01151728166601c32973c0fa425727e1192565168934fe77cdb1bd412",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "149622695918b1474f75e0e03714c0c11c8c78a3e240a04853468a524c86989c",
+      "sha256": "ff3b20d5854f72f48b44746010c782eb9e69d69e9c365f3ad5f60a7f8aef314e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das Handwerk der Kommunikationselektronik (Kommunikationselektronik-Verordnung) StF: BGBl. II Nr. 62/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 399/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 62/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_62_2/2003_62_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 399/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/399"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04cc8ce3a45a2a511ed36652237e74b86f107ac5bd418a44bf8ac0c566c47973",
+      "sha256": "9cc79e6ce97b23c5f584db69102e669e969d81ed2020b1f8f22b78c9f9963777",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

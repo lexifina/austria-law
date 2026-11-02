@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. April 1974 betreffend das britische Hoheitszeichen „Auszeichnung der Königin für die Industrie“ StF: [BGBl. Nr. 309/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_309_0/1974_309_0.pdf>)

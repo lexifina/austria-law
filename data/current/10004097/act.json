@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004097",
+  "short_title": "Zollabkommen über Behälter (1956)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004133",
+    "valid_from": "1971-08-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004097&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:24:58.724371+00:00",
+    "response_sha256": "c37b0d0266e49fbb4e5d62bb2f96a90e993dc880ae97d7dec4a5e31bfee25da5",
+    "snapshot_sha256": "7813486366347ab4682e4a03da9fe9c94015a67472804d22b4c8a2d43e415814",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b9cd18adc05643a0cec60ca7f1519dc81a63304cb0bdb04c0b1779ab024c371",
+      "sha256": "7c119062c6d32665f9a1965357a827b0b8d290860862099c7a5b8c0a07e37272",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 22. Juli 1971 betreffend die Ausdehnung des Geltungsbereiches des Zollabkommens vom 18. Mai 1956 über Behälter StF: BGBl. Nr. 323/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 323/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_323_0/1971_323_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8fb25aec59ead38cfca22669b206114b069e9b10cb4719d7692f45a13f83b072",
+      "sha256": "7acfa24b6ccc1b1ac325c8b71cafbd86dfe9dfe52d2af46d66d7c451522cb771",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 22/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_22_0/1958_22_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 253/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_253_0/1969_253_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

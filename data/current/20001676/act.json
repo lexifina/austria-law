@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001676",
+  "short_title": "Errichtung einer zweiten Notarstelle in Kapfenberg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001821",
+    "valid_from": "2001-12-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001676&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:35:42.810229+00:00",
+    "response_sha256": "9ecb367b5859a24c0bc95527aa53b61731f1cab5ab84ea5a157fe03409cbf887",
+    "snapshot_sha256": "f533a3ab1ac70786e5abb988befff71fef0d0e3d0aa7a21fa6f64d5991b3634e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b268984f6dc2dfdda57e8196d8b5b3231e58555d8f33a3a1f950ab4b7c91ea33",
+      "sha256": "4349f4a604bfb913f4f8366b1e79ecbe8f828e4aee1e791afc6dd19d3eb5930c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Kapfenberg StF: BGBl. II Nr. 442/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 442/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_442_2/2001_442_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1755f8c27f8c875328baf5acb2b786c100a6c2b07e42d7b675360b066a70a565",
+      "sha256": "22d54e0a58a3de41c172e5f0f1e97575a4295c6785c5f545e38a8fd994e05fad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011260",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011525",
+    "valid_from": "1949-09-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011260&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:51:12.747092+00:00",
+    "response_sha256": "9341b32d4ae15a28195c1b9bc1fa65e7f2ea6984d5536be506a72ccb518df47a",
+    "snapshot_sha256": "f9cbe48103d30feac6eac82ffbfb89df7bae3cbab8844bbd0868339a4d03939f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1ede7ead00b73e09dce457987193516edecdd3e073ea7a6d1cb40712c06318fd",
+      "sha256": "cd72fb1b77e0b6870688447b3df3aa7df6d9453cc074c2ce69c17090fb1b9a88",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 2. August 1949, betreffend den Beitritt Finnlands zum Abkommen über die internationale Zivilluftfahrt StF: BGBl. Nr. 209/1949"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 209/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_209_0/1949_209_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c950f627d7a8ea9eee801c1ab1dfab773eda90e3f6b27b4dda38a0d631ecd174",
+      "sha256": "c70954dd6a8a73a952dac10cfc888a29fc4a213348e7d115be34646a0e9892f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

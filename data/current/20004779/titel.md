@@ -1,0 +1,3 @@
+Bundesgesetz über die Übertragung der Aufgaben des Bundespensionsamtes an die Versicherungsanstalt öffentlich Bediensteter (Bundespensionsamtübertragungs-Gesetz – BPAÜG) StF: [BGBl. I Nr. 89/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/89>) (NR: GP XXII [RV 1409](<https://www.parlament.gv.at/gegenstand/XXII/I/1409>) [AB 1467](<https://www.parlament.gv.at/gegenstand/XXII/I/1467>) [S. 150.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/150>) BR: [7535](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7535>) [AB 7550](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7550>) [S. 735.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/735>))
+
+Der Nationalrat hat beschlossen:

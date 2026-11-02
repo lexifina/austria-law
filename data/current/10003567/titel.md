@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem (sowohl in Farbe als auch in schwarzweiß), den Namen und die Abkürzung der European Agency for the Evaluation of Medicinal Products StF: [BGBl. II Nr. 196/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_196_2/1998_196_2.pdf>)

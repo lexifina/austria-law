@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 1993 StF: [BGBl. Nr. 211/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_211_0/1995_211_0.pdf>) (NR: GP XIX [AB 132](<https://www.parlament.gv.at/gegenstand/XIX/I/132>) [S. 24.](<https://www.parlament.gv.at/gegenstand/XIX/NRSITZ/24>))

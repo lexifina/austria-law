@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003739",
+  "short_title": "Schiffahrt - Hilfeleistung und Bergung in Seenot",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004057",
+    "valid_from": "1977-09-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003739&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:04:18.522973+00:00",
+    "response_sha256": "cda9a3bbe9c4292b04592efe4e88c82937c384119795c8dc1fc1e022ae39fcc3",
+    "snapshot_sha256": "65ca4d7cfaa8fd8f35afa85f61bc69f66a9e73c622ab02ae19d03d9526451424",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f54d596f20e0e10d99de1c6042573b2fddca2501c1c19edc2cc8788c68c7ba5",
+      "sha256": "4ae0fbbb38946617387bd4533d67bfb8f338d7f1f0f5615f9ad902d0bd95ea2d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 13. September 1977 betreffend den weiteren Geltungsbereich des Übereinkommens vom 23. September 1910 zur einheitlichen Feststellung bestimmter Regeln über Hilfeleistung und Bergung in Seenot samt Unterzeichnungsprotokoll StF: BGBl. Nr. 466/1967"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 466/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_466_0/1967_466_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49c4af79f6eac0f478cc26921c3a2209344797856fb3e27c6b048c4dc459b779",
+      "sha256": "7f46720c951d96a0afdaf32a97263bfc0a7cff01f9321846f2b40e6b73a4cdaf",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 33/1913",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=33/1913&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 302/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=302/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

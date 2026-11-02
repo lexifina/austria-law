@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011340",
+  "short_title": "Errichtung einer Notarstelle in Laßnitzhöhe",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40227516",
+    "valid_from": "2020-11-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011340&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:13:08.501673+00:00",
+    "response_sha256": "a62413d6590dd77f5b98908a83b26cc1b96f01fd566023c91f236833f775b882",
+    "snapshot_sha256": "1b018a1d2f480b8af7a83d65962b641d1be704634c72255ff1c4917dbcd17ee9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca0d9504ed00ce904a61264d1d8d914b23cffba4204ed4fa3a6e2c0c6d95d693",
+      "sha256": "2715d8e22e2baa6fc19fbe0f8253390d858621f3fc32811b597d4791aae84efc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer Notarstelle in Laßnitzhöhe StF: BGBl. II Nr. 501/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 501/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/501"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "564e1d068db96f602663bb813bcce1c5b2aa3899ca7c82863c1bb4adbc2303a9",
+      "sha256": "938fe4d823e58d378fd5f9fb2b0f3f6bbd6ceda374d555b854a9bb84e2fe14f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

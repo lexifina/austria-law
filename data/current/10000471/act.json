@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000471",
+  "short_title": "Privilegien und Immunitäten der EFTA",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000473",
+    "valid_from": "1970-08-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000471&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:44.666072+00:00",
+    "response_sha256": "d3a3ed3cf8deec8c37b65dcb42dd824102c0cb1f5c88da32abf19b32d27eb686",
+    "snapshot_sha256": "327e12d8ed2bbb22096c58dca626f195a50af572a3f379ae1d96ffcb29d0f86f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b85fca34b77dbcc90b59ae0195151409c3b0f8aa9a78a8c110f70c840a028de",
+      "sha256": "c9ef9c236abfe299e61e0bf34bdf899beb72e012a0b4918a3117fbc20bc6901c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 17. Juli 1970 betreffend den Beitritt Island zum Protokoll über Rechtsfähigkeit, Privilegien und Immunitäten der Europäischen Freihandelsassoziation StF: BGBl. Nr. 236/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 236/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_236_0/1970_236_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0822dfb6cdde3d6bac39b9e78a2b6edc816963e99addbcf24fafb4e6f549d33",
+      "sha256": "2ca1d1d995254c69d6e43a28b573f6f9f974343c654590b76b66c2d99e2e9cc4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 142/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_142_0/1961_142_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 124/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_124_0/1963_124_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

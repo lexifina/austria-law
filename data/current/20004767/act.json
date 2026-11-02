@@ -1,0 +1,118 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004767",
+  "short_title": "Örtlicher Zuständigkeitsbereich der Österreichischen Agentur für Gesundheit und Ernähungssicherheit GmbH",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005200",
+    "valid_from": "2006-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004767&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:34.292307+00:00",
+    "response_sha256": "643cc57d4d03c10382b7bc37ff1b417144a30e63a0e509bd7b7cbc6a9fbf5a65",
+    "snapshot_sha256": "cc4c9f2860dc8951f26c8fb75d5445be9e184b74e96af85f21dfa685d499b280",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e848096a65998021e8c8601c663036b955182ebd984086be682432aebbe8319",
+      "sha256": "2ba41ff2c573484d2fd149f76f30669da6fc23354383969778ee57cecc84a3f6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit und Frauen über den örtlichen Zuständigkeitsbereich der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH zur Übernahme von amtlichen Proben StF: BGBl. II Nr. 209/2006"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 438/2010"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 209/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/209"
+        },
+        {
+          "text": "BGBl. II Nr. 438/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/438"
+        },
+        {
+          "text": "BGBl. I Nr. 13/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13"
+        },
+        {
+          "text": "BGBl. I Nr. 151/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/151"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "033bc8e9cd32a6b65d31f49b6b689576af84496666a1a4b2172f003cf1a09d7a",
+      "sha256": "4949a01372307f1689e5100a67cdeb30880e90608b37862cf4672a4f038a4633",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ff939aded154d0f6df61520034865f42219bf1662b953f68ed1a40223353e79",
+      "sha256": "f6fc5ac9d17e1f0414c2b1b87e2520660231828e4d8a0b9ddbae562cd5702328",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

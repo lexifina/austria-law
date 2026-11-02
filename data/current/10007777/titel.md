@@ -1,0 +1,3 @@
+Bundesgesetz über Lenkungs- und Vorsorgemaßnahmen zur Sicherung der Produktion und der Versorgung mit Lebensmitteln (Lebensmittelbewirtschaftungsgesetz 1997) StF: [BGBl. Nr. 789/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_789_0/1996_789_0.pdf>) (NR: GP XX [RV 324](<https://www.parlament.gv.at/gegenstand/XX/I/324>) [AB 524](<https://www.parlament.gv.at/gegenstand/XX/I/524>) [S. 52.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/52>) BR: [5345](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5345>) [AB 5365](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5365>) [S. 620.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/620>))
+
+Der Nationalrat hat beschlossen:

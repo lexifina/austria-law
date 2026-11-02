@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel, von internationaler Bedeutung StF: [BGBl. III Nr. 101/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2009/101>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen der Republik Tadschikistan StF: [BGBl. Nr. 171/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_171_0/1996_171_0.pdf>)

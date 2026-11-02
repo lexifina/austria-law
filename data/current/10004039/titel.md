@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 29. Jänner 1968 betreffend den Beitritt Australiens und Irlands zum Zollabkommen vom 18. Mai 1956 über Behälter StF: [BGBl. Nr. 58/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_58_0/1968_58_0.pdf>)

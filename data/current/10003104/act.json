@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003104",
+  "short_title": "Errichtung einer Notarstelle in Wilhelmsburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003129",
+    "valid_from": "1993-07-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003104&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:41.858006+00:00",
+    "response_sha256": "682d5c01b1731315af33679684df555d31d2d119c286d252556e889e70cc8de3",
+    "snapshot_sha256": "a4f2850d023e48cdeb7cd3e3b205d8cea62c83f636598c15ecd35c95987762f3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d198a398308b8bdbad8db95c64806c483fdaf90fa056301b7afcc9e0e4590ff",
+      "sha256": "3d6ced26508d96dd5974daea4d00492ec618eaef85dd6044830ac538285579bc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer Notarstelle in Wilhelmsburg StF: BGBl. Nr. 487/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 487/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_487_0/1993_487_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b9dc72e28cd17d4b86726ae3bd9c4c34e61f41513eb0470a0cf913b832c3fe4",
+      "sha256": "a752a70203f0cdb0a776e4c917c54d9cf6a41a31b9664a3b73c8c6990835c3b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

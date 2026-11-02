@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Staatsemblem und die Fahne der Ukraine StF: [BGBl. II Nr. 185/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/185>)

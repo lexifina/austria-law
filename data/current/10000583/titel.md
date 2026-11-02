@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz vom 28. April 1975, mit dem das Bundes-Verfassungsgesetz in der Fassung von 1929 hinsichtlich des Schulwesens neuerlich geändert wird StF: [BGBl. Nr. 316/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_316_0/1975_316_0.pdf>) (NR: GP XIII [RV 584](<https://www.parlament.gv.at/gegenstand/XIII/I/584>) [AB 1523](<https://www.parlament.gv.at/gegenstand/XIII/I/1523>) [S. 143.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/143>) BR: [1343](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1343>) [AB 1345](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1345>) [S. 342.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/342>))
+
+Der Nationalrat hat beschlossen:

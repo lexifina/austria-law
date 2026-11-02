@@ -1,0 +1,7 @@
+## Artikel 23A
+
+### Anspruch auf Vergünstigungen
+
+(1) Ungeachtet der anderen Bestimmungen dieses Abkommens wird eine Vergünstigung nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller maßgeblichen Tatsachen und Umstände die Feststellunggerechtfertigt ist, dass der Erhalt dieser Vergünstigung einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu dieser Vergünstigung geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieser Vergünstigung unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+(2) Wird einer Person eine Abkommensvergünstigung nach Absatz 1 versagt, so betrachtet die zuständige Behörde des Vertragsstaates, die diese Vergünstigung anderenfalls gewährt hätte, diese Person gleichwohl als anspruchsberechtigt in Bezug auf diese Vergünstigung oder auf andere Vergünstigungen für bestimmte Einkünfte oder Vermögenswerte, sofern diese zuständige Behörde auf Antrag dieser Person und nach Prüfung der maßgeblichen Tatsachen und Umstände feststellt, dass dieser Person diese Vergünstigungen ohne die Transaktion oder Gestaltung im Sinne des Absatzes 1 gewährt worden wären. Die zuständige Behörde des Vertragsstaats, bei der der Antrag gestellt wurde, konsultiert die zuständige Behörde des anderen Vertragsstaats, bevor sie einen Antrag, der nach diesem Absatz von einer im anderen Staat ansässigen Person gestellt wurde, ablehnt

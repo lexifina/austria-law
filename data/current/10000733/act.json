@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10000733",
+  "short_title": "Satzung des Europarates (Pensionsschema Annahmeerklärung)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Multilateral",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000735",
+    "valid_from": "1982-04-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000733&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:35:00.627187+00:00",
+    "response_sha256": "99e0b14867c02ba0357cac8e15eda778f91622f429f5a4ca9802fbeb5a1ffdf6",
+    "snapshot_sha256": "e12178263d7bf8071285ba7ee0af2714c07f27f42ec3ba5dff0eabf3e85d6f00",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c76cddff93a0734c7ca64250566531df0497ed7c9612b4ba324901c959947162",
+      "sha256": "fa10fde5e0b9474dfdd0b5061e1056596a1fc993475df7fa612a39871bb33aed",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Pensionsschema des Europarates; Annahmeerklärung samt Anhang StF: BGBl. Nr. 152/1982"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 152/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_152_0/1982_152_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Annahmeerklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4139f1ece92adff93f956c1dbe26b6f15a782500be722d0159217983907e946",
+      "sha256": "c14087eadac16363090b7c462c1d3339d58d6aca5d51ee3516100123cb55a320",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "ANHANG",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc57e70839f74d016437d47867cf07c6dbc512db65d17489d85c1731a7ffa0ef",
+      "sha256": "1953aedd8a4605f07d25fd7684f1a832e783702a572999d4ca88f51dcec9b8a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

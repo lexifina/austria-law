@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Abkommens zwischen den EFTA-Staaten und Israel StF: [BGBl. Nr. 550/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_550_0/1993_550_0.pdf>)

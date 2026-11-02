@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001920",
+  "short_title": "Hoheitszeichen - Israel",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001943",
+    "valid_from": "1954-02-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001920&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:54:29.717860+00:00",
+    "response_sha256": "412c5f70e3a9e8bfb15dcc2527059a0b63534479f187560803de73961525d6ed",
+    "snapshot_sha256": "735597180689d82fae54f4cd8f3bb42872db6803337871f8228986e493e4f892",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bdd20afac9810f84de05bbf33e582b68cbd30194059fd01f77e1383b0edeea53",
+      "sha256": "5a231d36108ac8563773d3f5c8d897f08e25090c0b9e1609f6345dd0ef0854bc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 25. Jänner 1954, betreffend dreizehn Hoheitszeichen des Staates Israel. StF: BGBl. Nr. 37/1954"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 37/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_37_0/1954_37_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a229f213febf30b015c4a6d3400b7ca9c63cf9068754cae90b2dbf920fc56b6",
+      "sha256": "9eee61b6c2aa3c2596f5e1eaacc057160e3fce71a0366c15c38d1df1b5718f05",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

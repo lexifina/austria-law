@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003383",
+  "short_title": "Errichtung einer zweiten Notarstelle in Klosterneuburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003410",
+    "valid_from": "1996-02-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003383&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:42.359671+00:00",
+    "response_sha256": "2c72fe1236aa6713b0222eb96559dfe22140774f9795abb39139634c6310db4b",
+    "snapshot_sha256": "8c026e939dcfa2777cce2a33865e89dc875399e7f518c716c75e5ec5d7fcb47c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "24c67b8b27f952fb912ee965ae08f07dbdacaf6e3cb7ecb6e5a1f56f77a90bf0",
+      "sha256": "44edf8f38ec6905e72d26fac31e551e6520fb92b7d772d0603cdd5751519762d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Klosterneuburg StF: BGBl. Nr. 52/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_52_0/1996_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57863964717be2ae516fd63b2b098496b9b50ff99f96b4ba5169ffdfae786056",
+      "sha256": "a81ad47d0f04fa338869aa5e6da945c9f239b27fa29bb334052832980e4e4d94",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

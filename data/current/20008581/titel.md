@@ -1,0 +1,3 @@
+Verordnung der Regulierungskommission der E-Control, mit der nähere Kostenarten gemäß § 59 Abs. 6 Z 6 ElWOG 2010 bestimmt werden (Strom-NBK-VO) StF: [BGBl. II Nr. 273/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/273>)
+
+Auf Grund des § 59 Abs. 6 Z 6 Elektrizitätswirtschafts- und –organisationsgesetz 2010, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) idF [BGBl I Nr 174/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/174>) iVm § 12 Abs. 2 Z 2 Energie-Control-Gesetz – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 174/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/174>), wird verordnet:

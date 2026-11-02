@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz vom 13. Dezember 1974 über die Festsetzung einer Pauschalvergütung für verlängerten Dienstplan für Beamte des Dienstzweiges „Höherer Dienst in Justizanstalten und in der Bewährungshilfe“ StF: [BGBl. Nr. 23/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_23_0/1975_23_0.pdf>)
+
+Auf Grund des § 16a in Verbindung mit § 15 Abs. 2 des Gehaltsgesetzes 1956, BGBl. Nr. 54, in der Fassung der 24. Gehaltsgesetz-Novelle, [BGBl. Nr. 214/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_214_0/1972_214_0.pdf>), wird mit Zustimmung des Bundeskanzlers und des Bundesministers für Finanzen verordnet:

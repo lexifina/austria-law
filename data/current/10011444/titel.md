@@ -1,0 +1,3 @@
+ÜBEREINKOMMEN zwischen dem Bundesminister für Finanzen der Republik Österreich und dem Minister für Finanzen der Sozialistischen Republik Rumänien über die steuerliche Behandlung des grenzüberschreitenden Güterverkehrs auf der Straße StF: [BGBl. Nr. 237/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_237_0/1973_237_0.pdf>)
+
+Der Bundesminister für Finanzen der Republik Österreich und der Minister für Finanzen der Sozialistischen Republik Rumänien haben, von dem Wunsche geleitet, den grenzüberschreitenden Güterverkehr auf der Straße (einschließlich des Transitverkehrs) zwischen Österreich und Rumänien zu erleichtern, auf Basis der Gegenseitigkeit folgendes vereinbart:

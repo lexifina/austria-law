@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Beendigung der pragmatischen Weiteranwendung des Abkommens zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien über die Verbringung von Waren im Kleinen Grenzverkehr StF: [BGBl. Nr. 177/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_177_0/1993_177_0.pdf>)

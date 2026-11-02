@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Inneres über das Vorliegen der technischen und organisatorischen Voraussetzungen für den Echtbetrieb des Elektronischen Identitätsnachweises (E-ID) StF: [BGBl. II Nr. 340/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/340>)

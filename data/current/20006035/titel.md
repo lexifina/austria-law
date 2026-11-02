@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Verlängerung des Internationalen Kaffee-Übereinkommens von 2001 und dessen Geltungsbereich StF: [BGBl. III Nr. 142/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2008/142>)

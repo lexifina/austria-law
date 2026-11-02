@@ -1,0 +1,3 @@
+Verordnung der Vorstandsvorsitzenden der Österreichischen Postbus Aktiengesellschaft über die Zuordnung der Verwendungen der Beamten, die der Österreichischen Postbus Aktiengesellschaft oder einem Unternehmen, das durch Maßnahmen der Umgründung im Rahmen des bestehenden Gesellschaftsrechts aus dieser Gesellschaft hervorgegangen ist, zur Dienstleistung zugewiesen sind, zu Verwendungs- und Dienstzulagengruppen (Postbus – Zuordnungsverordnung 2018 – PB-ZV 2018) StF: [BGBl. II Nr. 404/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/404>)
+
+Auf Grund des § 229 Abs. 3 Beamten-Dienstrechtsgesetz 1979 und des § 17a Abs. 3 Poststrukturgesetz 1996, beide in der jeweils geltenden Fassung, wird verordnet:

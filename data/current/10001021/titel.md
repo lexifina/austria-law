@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 30. März 1989 über die Aufhebung des § 7 Abs. 2 der Wiener Fiaker-, Taxi- und Mietwagen-Betriebsordnung, LGBl. Nr. 21/1987, sowie über die Aufhebung der Kundmachung des Magistrates der Stadt Wien vom 1. Juni 1987 betreffend Beschränkungen bei Fiaker-Standplätzen im Bereich des 1. Wiener Gemeindebezirks (kundgemacht im Amtsblatt der Stadt Wien Nr. 23/1987) durch den Verfassungsgerichtshof StF: [BGBl. Nr. 166/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_166_0/1989_166_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

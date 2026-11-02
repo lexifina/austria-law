@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über qualitative Vorgaben für Kapitalanlagen von Versicherungs- und Rückversicherungsunternehmen (Versicherungsunternehmen Kapitalanlageverordnung – VU-KAV) StF: [BGBl. II Nr. 423/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/423>)
+
+Auf Grund des § 126 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, [BGBl. I Nr. 34/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über Privilegien, Befreiungen und Immunitäten der INTELSAT StF: [BGBl. Nr. 691/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_691_0/1996_691_0.pdf>)

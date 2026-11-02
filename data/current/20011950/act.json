@@ -1,0 +1,669 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "20011950",
+  "short_title": "Lebenshaltungs- und Wohnkosten-Ausgleichs-Gesetz",
+  "abbreviation": "LWA-G",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40269826",
+    "valid_from": "2025-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011950&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:24:04.007277+00:00",
+    "response_sha256": "d35337e4ca29741878cd47539472f2c15eba5169aa9331e341275ff3bffc8ce7",
+    "snapshot_sha256": "bb059d90448ddab7caa3c584e58e629c1edb0ce18726d821e8062a83bf9a0e60",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ad3a87308adb25ddf122926117d9be3eb32da4f9184885dcfc325eed6c7d052",
+      "sha256": "c0c58e2e72b27ae390e7ff440e0d92a9fcda068eb8957cde4d034c0dd94b4c8a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über einen Ausgleich hoher Lebenshaltungs- und Wohnkosten (Lebenshaltungs- und Wohnkosten-Ausgleichs-Gesetz – LWA-G) StF: BGBl. I Nr. 93/2022 (NR: GP XXVII IA 2662/A AB 1563 S. 165. BR: 10982 AB 10999 S. 942.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 14/2023 (NR: GP XXVII IA 3078/A AB 1915 S. 195. BR: 11171 AB 11181 S. 950.) BGBl. I Nr. 32/2023 (NR: GP XXVII AB 1993 S. 205. BR: AB 11217 S. 952.) BGBl. I Nr. 55/2023 (NR: GP XXVII IA 3427/A AB 2052 S. 217. BR: AB 11244 S. 954.) BGBl. I Nr. 68/2023 (NR: GP XXVII IA 3430/A AB 2062 S. 219. BR: 11246 AB 11250 S. 955.) BGBl. I Nr. 119/2023 (NR: GP XXVII IA 3547/A AB 2187 S. 230. BR: AB 11304 S. 958.) BGBl. I Nr. 35/2024 (NR: GP XXVII IA 3946/A AB 2498 S. 255. BR: AB 11447 S. 965.) BGBl. I Nr. 144/2024 (NR: GP XXVII AB 2710 S. 276. BR: 11602 AB 11605 S. 971.) BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.) BGBl. I Nr. 30/2026 (NR: GP XXVIII RV 446 AB 469 S. 75. BR: AB 11802 S. 990.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 93/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/93"
+        },
+        {
+          "text": "IA 2662/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/2662"
+        },
+        {
+          "text": "AB 1563",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1563"
+        },
+        {
+          "text": "S. 165.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/165"
+        },
+        {
+          "text": "10982",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10982"
+        },
+        {
+          "text": "AB 10999",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10999"
+        },
+        {
+          "text": "S. 942.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/942"
+        },
+        {
+          "text": "BGBl. I Nr. 14/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/14"
+        },
+        {
+          "text": "IA 3078/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3078"
+        },
+        {
+          "text": "AB 1915",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1915"
+        },
+        {
+          "text": "S. 195.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/195"
+        },
+        {
+          "text": "11171",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11171"
+        },
+        {
+          "text": "AB 11181",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11181"
+        },
+        {
+          "text": "S. 950.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/950"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/32"
+        },
+        {
+          "text": "AB 1993",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1993"
+        },
+        {
+          "text": "S. 205.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/205"
+        },
+        {
+          "text": "AB 11217",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11217"
+        },
+        {
+          "text": "S. 952.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/952"
+        },
+        {
+          "text": "BGBl. I Nr. 55/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/55"
+        },
+        {
+          "text": "IA 3427/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3427"
+        },
+        {
+          "text": "AB 2052",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2052"
+        },
+        {
+          "text": "S. 217.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/217"
+        },
+        {
+          "text": "AB 11244",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11244"
+        },
+        {
+          "text": "S. 954.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/954"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/68"
+        },
+        {
+          "text": "IA 3430/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3430"
+        },
+        {
+          "text": "AB 2062",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2062"
+        },
+        {
+          "text": "S. 219.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/219"
+        },
+        {
+          "text": "11246",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11246"
+        },
+        {
+          "text": "AB 11250",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11250"
+        },
+        {
+          "text": "S. 955.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/955"
+        },
+        {
+          "text": "BGBl. I Nr. 119/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/119"
+        },
+        {
+          "text": "IA 3547/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3547"
+        },
+        {
+          "text": "AB 2187",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2187"
+        },
+        {
+          "text": "S. 230.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/230"
+        },
+        {
+          "text": "AB 11304",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11304"
+        },
+        {
+          "text": "S. 958.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/958"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/35"
+        },
+        {
+          "text": "IA 3946/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3946"
+        },
+        {
+          "text": "AB 2498",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2498"
+        },
+        {
+          "text": "S. 255.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/255"
+        },
+        {
+          "text": "AB 11447",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11447"
+        },
+        {
+          "text": "S. 965.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/965"
+        },
+        {
+          "text": "BGBl. I Nr. 144/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/144"
+        },
+        {
+          "text": "AB 2710",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2710"
+        },
+        {
+          "text": "S. 276.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/276"
+        },
+        {
+          "text": "11602",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11602"
+        },
+        {
+          "text": "AB 11605",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11605"
+        },
+        {
+          "text": "S. 971.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/971"
+        },
+        {
+          "text": "BGBl. I Nr. 25/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25"
+        },
+        {
+          "text": "RV 69",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/69"
+        },
+        {
+          "text": "Zu 69",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/69"
+        },
+        {
+          "text": "AB 100",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/100"
+        },
+        {
+          "text": "S. 30.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/30"
+        },
+        {
+          "text": "11643",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11643"
+        },
+        {
+          "text": "AB 11645",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11645"
+        },
+        {
+          "text": "S. 979.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/30"
+        },
+        {
+          "text": "RV 446",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/446"
+        },
+        {
+          "text": "AB 469",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/469"
+        },
+        {
+          "text": "S. 75.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/75"
+        },
+        {
+          "text": "AB 11802",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11802"
+        },
+        {
+          "text": "S. 990.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/990"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Maßnahmen zur Bewältigung von teuerungsbedingten Mehraufwendungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a89bc065409d7803568fe9fa83e078a192e21ecc6006efd5f5c36e44cf48e785",
+      "sha256": "72028ea61f1478da07f22f332fd688fff0fc75ae3c7c9a541f157ff1e520c8ec",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Teuerungsausgleich Wohnen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "856ae7012b08ec493ac7d31da8ae5b0236f6bb96c709b33b12f018ac95bb852a",
+      "sha256": "621d7bb84790ab21f58949166b330d890f8e779233fd2ee1698362f6b08d1a5b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 139/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_139_0/1979_139_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3b",
+      "source_heading": "Sachzuwendungen für Schülerinnen und Schüler",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "43a3113d91c41c949246365814c80cafe8782109fbf7b0441f5b6df121e28c24",
+      "sha256": "adb696c6ffe7566ef860170a875405317b78767935f43888d0c081807e317928",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Berücksichtigung als Einkommen und Pfändungsverbot",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b064e14778b54455062638a8cb796057c019b6cd41268b8fb4f2b182c8e86fc",
+      "sha256": "b5a7fbed320f0b2950a0fe4ec342dad98d48b7819a0846e76979fd5561fad235",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Abwicklung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e176d9bbe886749f6b3a5dcf0be0c4ce60ced0451d4d6f645c0b18032b4fcd8c",
+      "sha256": "11d3cf0ba1428f70ebafdbec2ca56bd4171a5536dde266073c83ed8a85e537d4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 9/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_9_0/1992_9_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Richtlinien des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82ffc198bff2720c77c2eb386a8e272320e681a426b3138c174e319ff4f756fe",
+      "sha256": "03be11d143a6bde279f72e87eb7ebaa05c247eefe5f271980d48af7791d1370c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "2. Abschnitt Fonds zur Armutsbekämpfung und Sozialen Innovation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f47e7b4d2b64251ec6a29a0b693122522f35d510e9c7dd3053196dda0358c1e",
+      "sha256": "a807f9efb9b9c679072a02040f862b92c9f3ac1ca50f9b21701efd2075a52069",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Maßnahmen und Zuwendungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "42b1cf672f92764ae198cf3cfaf00cc4771221040cd6b82071238433e3db96af",
+      "sha256": "2b61c05a0b4b05af8ee806c825f5fa36d3d78f3b7d7b1fc356acc20ee70e3bfd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5b6b136df23a73799eb89ac8abb2a984739471927b835cfcb9d45777f66fae9",
+      "sha256": "bb32a9bcda66a5b9ad75d88584015a21b679db0bfd45a0be9ba03554df2e8e81",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Mittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77516d1cc82a429813f32a3485683cdd2599dda05de21781a67edf4b9bb41701",
+      "sha256": "ea0370d868d4c4179d570da0b9ed3c08d41f3a5c8361b10536edf5420a0519d6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Verwaltung des Fonds",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "58cc3784294a451744715b8e76a157866cd8660accf4216675414c39489b1a03",
+      "sha256": "288f72f729f8d2432961d75ae067800094ddfcf16b4f65e1c7213fd75731c6fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Kostentragung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7aa92887dc857292065827ce0cdc43bd48e7f02f37abe2e41141d157a39aa81",
+      "sha256": "e078c53bd984a6ade5f3bd64ccab4bde2646d6bb5378b7b5cae71eddc4914ac2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "3. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b022f28d00343f8424d332734f99e5921a1e294c5cf15d02ffca1e93c4469b7e",
+      "sha256": "e1d751598c0f1d12532f2bb4caa3fee5c94d5e18632274f22ce88482297d864b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0586cb2ce2f01b0d6b45e9e891442bc8598bf36adb4f6988735128264ee7edc3",
+      "sha256": "c24f9355903daa17c8c9f3cf09801fa14b0ab3abdc8792a486800460144d815b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 14/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/14"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/32"
+        },
+        {
+          "text": "BGBl. I Nr. 55/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/55"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/68"
+        },
+        {
+          "text": "BGBl. I Nr. 119/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/119"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/35"
+        },
+        {
+          "text": "BGBl. I Nr. 144/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/144"
+        },
+        {
+          "text": "BGBl. I Nr. 25/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/30"
+        },
+        {
+          "text": "BGBl. I Nr. 25/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/30"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000536",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000538",
+    "valid_from": "1973-12-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000536&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:31:43.841230+00:00",
+    "response_sha256": "abf8db3c55f7d9f85d4213dc43d5b786f53a9097243f0a4f0c810983cbfced72",
+    "snapshot_sha256": "dc66f312158adf4872257906146a6668291204351eea08e4d6b7d509c148910a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d6d412bd9ad451a840a18a867d607f4032b91882b4cbf2d64f28f51f72b9ffe",
+      "sha256": "7e6f9a43fdaf40accc6e1adc70128e6346033297907433ff986a5e2839161de8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 14. Dezember 1973 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung eines Gesetzes über die Errichtung und die Auflassung von Gerichten der untersten Organisationsstufe, die mit einem auf bestimmte Angelegenheiten der Rechtspflege beschränkten Wirkungsbereich ausgestattet sind, sowie die Übertragung eines auf bestimmte Angelegenheiten der Rechtspflege beschränkten Sachbereiches an Bezirksgerichte zur Besorgung in einem mit ihrem Sprengel nicht übereinstimmenden Ortsbereich StF: BGBl. Nr. 658/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 658/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_658_0/1973_658_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78b04fd6d32423917ee1c47735c748e0e327d4873a1590375b8951263baf20c0",
+      "sha256": "172075eb585edc4a01d0ea84eb1db4c0d73e9928e07467005c32a004942d422e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

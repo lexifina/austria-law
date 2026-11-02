@@ -1,0 +1,111 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10012523",
+  "short_title": "Luftverkehrsabkommen - Änderung (USA)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – USA",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012873",
+    "valid_from": "1995-08-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012523&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:09:58.139544+00:00",
+    "response_sha256": "a4ea8396491fdcb43f32a56679fc72bf77c57d967c9288132f5ed4293a763a78",
+    "snapshot_sha256": "850c6975d70f41f34ee3510689ea30931ad2f8eea520f9b1822c2c6de9c26a2c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3094d14770044db3245080a30289dd3cb95fde5e9872649c2682ddc7c592d929",
+      "sha256": "2eb041d14255339203ba39e8e407c18bf3685b160366f96502971a3c83909292",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Vereinigten Staaten von Amerika zur Abänderung des Luftverkehrsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Vereinigten Staaten von Amerika vom 16. März 1989 in der derzeit geltenden Fassung StF: BGBl. Nr. 497/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 497/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_497_0/1995_497_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1726d35f01a4549fa1c76d148441fd60ac2cdbed1adb3861ced03eeecdbf6617",
+      "sha256": "50740db01bf4604e29d47cc4211579c8104701f6be042193bb82fe62b04cd936",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 213/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_213_0/1989_213_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 488/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_488_0/1992_488_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Beilage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d75dc6f119cbaa7fa6ef19df7f457e18066d8a8d4a91b35b8d6d20215668a08f",
+      "sha256": "59860df569437208337e7b7fdbf712e88cf701d6c4777e4cf47bf37bad5b8d43",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 23. Juni 1925 über den Beitritt britischer Kolonien zum Übereinkommen vom 28. März 1923 über die Einfuhrfreiheit von Warenmustern der Handlungsreisenden StF: [BGBl. Nr. 196/1925](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=196/1925&amp;SkipToDocumentPage=True>)

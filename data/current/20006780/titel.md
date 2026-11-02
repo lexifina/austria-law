@@ -1,0 +1,3 @@
+Bundesgesetz über Verbraucherkreditverträge und andere Formen der Kreditierung zu Gunsten von Verbrauchern (Verbraucherkreditgesetz – VKrG) StF: [BGBl. I Nr. 28/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/28>) (NR: GP XXIV [RV 650](<https://www.parlament.gv.at/gegenstand/XXIV/I/650>) [AB 652](<https://www.parlament.gv.at/gegenstand/XXIV/I/652>) [S. 60.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/60>) BR: [8303](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8303>) [AB 8305](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8305>) [S. 784.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/784>)) \[CELEX-Nr. [32008L0048](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0048:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

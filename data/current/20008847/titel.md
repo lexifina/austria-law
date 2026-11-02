@@ -1,0 +1,3 @@
+Bundesgesetz über Fernabsatz- und außerhalb von Geschäftsräumen geschlossene Verträge (Fern- und Auswärtsgeschäfte-Gesetz – FAGG) StF: [BGBl. I Nr. 33/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/33>) idF [BGBl. I Nr. 83/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/83>) (VFB) (NR: GP XXV [RV 89](<https://www.parlament.gv.at/gegenstand/XXV/I/89>) [AB 92](<https://www.parlament.gv.at/gegenstand/XXV/I/92>) [S. 21.](<https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/21>) BR: [AB 9169](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9169>) [S. 829.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/829>)) \[CELEX-Nr.: [32011L0083](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0083:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

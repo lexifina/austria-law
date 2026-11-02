@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 30. November 1958, betreffend das Inkrafttreten des Zollabkommens über die vorübergehende Einfuhr von Wasserfahrzeugen und Luftfahrzeugen zum eigenen Gebrauch und den Stand der Ratifikationen und Beitritte zu demselben StF: [BGBl. Nr. 266/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_266_0/1958_266_0.pdf>)

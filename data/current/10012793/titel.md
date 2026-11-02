@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über Straßenverkehrszeichen (Straßenverkehrszeichenverordnung 1998 – StVZVO 1998) StF: [BGBl. II Nr. 238/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_238_2/1998_238_2.pdf>)
+
+Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zuletzt geändert durch [BGBl. I Nr. 3/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_3_1/1998_3_1.pdf>), wird – nach erfolgter Notifizierung gemäß der Richtlinie 83/189/EWG des Rates vom 28. März 1983 in der Fassung der Richtlinien 88/182/EWG und 94/10/EG (Notifikationsnummer 96/0413/A) – verordnet:

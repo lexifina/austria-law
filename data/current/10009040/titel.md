@@ -1,0 +1,1 @@
+Erlöschen des Abkommens zwischen der Republik Österreich und der Französischen Republik über den Austausch von Gastarbeitnehmern StF: [BGBl. III Nr. 199/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_199_3/1997_199_3.pdf>)

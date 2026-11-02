@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 2. Dezember 1966, betreffend die Ausdehnung des Geltungsbereiches des Zollabkommens über Behälter StF: [BGBl. Nr. 281/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_281_0/1966_281_0.pdf>)

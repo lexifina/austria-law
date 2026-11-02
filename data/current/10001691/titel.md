@@ -1,0 +1,1 @@
+Verordnung des Justizministeriums vom 31. October 1887, Z. 9172, betreffend den Vorgang bei der Bewerbung um Notarstellen, bei der Qualificirung der Bewerber und bei Erstattung der Besetzungsvorschläge für Notarstellen StF: JMVBl. Nr. 36/1887

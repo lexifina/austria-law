@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz, mit der der Anpassungsfaktor und die Pensionserhöhung für das Jahr 2006 festgesetzt werden StF: [BGBl. II Nr. 374/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/374>)
+
+Auf Grund des § 108 Abs. 5 in Verbindung mit den §§ 108f und 617 Abs. 9 des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 88/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/88>), wird mit Zustimmung der Bundesregierung verordnet:

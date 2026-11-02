@@ -1,0 +1,3 @@
+Verordnung der Bundesminister für Arbeit und Soziales, für wirtschaftliche Angelegenheiten und für öffentliche Wirtschaft und Verkehr vom 12. August 1987 über das Wochenberichtsblatt für Jugendliche (Wochenberichtsblatt-Verordnung) StF: [BGBl. Nr. 420/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_420_0/1987_420_0.pdf>)
+
+Auf Grund des § 26a des Bundesgesetzes über die Beschäftigung von Kindern und Jugendlichen, [BGBl. Nr. 146/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_146_0/1948_146_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 338/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_338_0/1987_338_0.pdf>), wird verordnet:

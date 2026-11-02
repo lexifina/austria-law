@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Bestimmung der Erneuerbaren-Förderpauschale für die Kalenderjahre 2025 bis 2027 (Erneuerbaren-Förderpauschale-Verordnung 2025) StF: [BGBl. II Nr. 416/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/416>)
+
+Aufgrund des § 73 Abs. 7 des Erneuerbaren-Ausbau-Gesetzes (EAG), [BGBl. I Nr. 150/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 123/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/123>), wird im Einvernehmen mit dem Bundesminister für Arbeit und Wirtschaft verordnet:

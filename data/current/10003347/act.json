@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003347",
+  "short_title": "Errichtung einer zweiten Notarstelle in Stockerau",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003374",
+    "valid_from": "1995-11-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003347&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:25.029865+00:00",
+    "response_sha256": "d91ca37a81a68f6e6acadff2a4fd1bc5e1144c6d5abcae83897e2c93bb16891b",
+    "snapshot_sha256": "74dd21e55a8490463cc751ac32a29bdb3eedf5b3ccd90b4a22846f0dd69b1968",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "776731d2245fecaf046ea6a7e330412eab718a01605d3666ed5ede93cb9a9139",
+      "sha256": "f433e5c9b02f82fe665df54cf04231bbc15fc6187e582dc4d9aaec0007b41134",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Stockerau StF: BGBl. Nr. 738/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 738/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_738_0/1995_738_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0118098aa7e10a33537283ffb1bf964bb886540634a8b16222fb0b9376b56b50",
+      "sha256": "f25d81640914bcb5d51a18b68ea5e542a67b44be58a516dfff6ea974e7fcbb49",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

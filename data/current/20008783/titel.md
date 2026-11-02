@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über das Verfahren zur Erlangung einer Bestätigung gemäß § 10 Abs. 6 des Staatsbürgerschaftsgesetzes 1985 StF: [BGBl. II Nr. 39/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/39>)
+
+Auf Grund des § 10 Abs. 7 des Staatsbürgerschaftsgesetzes 1985 (StbG), [BGBl. Nr. 311/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_311_0/1985_311_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 136/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/136>) und die Kundmachung [BGBl. I Nr. 188/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/188>), wird verordnet:

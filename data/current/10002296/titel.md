@@ -1,0 +1,3 @@
+Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB) StF: [BGBl. Nr. 60/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_60_0/1974_60_0.pdf>) (NR: GP XIII [RV 30](<https://www.parlament.gv.at/gegenstand/XIII/I/30>) [AB 959](<https://www.parlament.gv.at/gegenstand/XIII/I/959>) [S. 84.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/84>) BR: [S. 326.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/326>) NR: [Einspr. d. BR: 1000](<https://www.parlament.gv.at/gegenstand/XIII/I/1000>) [AB 1011](<https://www.parlament.gv.at/gegenstand/XIII/I/1011>) [S. 98.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/98>))
+
+Der Nationalrat hat beschlossen:

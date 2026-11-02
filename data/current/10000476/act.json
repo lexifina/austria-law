@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000476",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000478",
+    "valid_from": "1970-05-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000476&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:48.896510+00:00",
+    "response_sha256": "7d6508462f7c5543f7da14867e921177b71f290d4285d89ad4746c032823340a",
+    "snapshot_sha256": "44aff8e2a67fb9125330da8700481295733d6675ced4527735a23bf848911134",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55b88b059fba572f356c92d13a8b0052f9d8ba994ef845a3b71b9fc696e88d72",
+      "sha256": "376154de10db97d4e85cbe28a50d5c3aa30615d02f4a90fc492a7234ce2666b3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 14. Mai 1970 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Einrichtung eines Fonds zur Besorgung von Aufgaben der Privatwirtschaftsverwaltung, dessen Zweck nicht über den Interessenbereich eines Landes hinausgeht StF: BGBl. Nr. 153/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 153/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_153_0/1970_153_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9ea385e0342495ac0e0bb8a40bc16f8fe5745c1a43db67689305851567482d04",
+      "sha256": "9c4e543ac15919456686918df9855d609c1c975806b6a2e7c8198113d7a1be91",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

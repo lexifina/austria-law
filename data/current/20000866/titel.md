@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit betreffend die Verpflichtung zur Grundpreisauszeichnung StF: [BGBl. II Nr. 270/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_270_2/2000_270_2.pdf>) \[CELEX-Nr.: [398L0006](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0006:DE:HTML>)\]
+
+Auf Grund der §§ 10c Abs. 1 bis Abs. 3 und 14 Z 2 des Preisauszeichnungsgesetzes, [BGBl. Nr. 146/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_146_0/1992_146_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 55/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_55_1/2000_55_1.pdf>), wird verordnet:

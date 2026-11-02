@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die Ausbildung zu Tätigkeiten, die durch Rechtsvorschriften auf dem Gebiet des Gesundheitswesens geregelt sind, hiezu nicht berechtigten Einrichtungen untersagt wird (Ausbildungsvorbehaltsgesetz) StF: [BGBl. Nr. 378/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_378_0/1996_378_0.pdf>) (NR: GP XX [RV 150](<https://www.parlament.gv.at/gegenstand/XX/I/150>) [AB 203](<https://www.parlament.gv.at/gegenstand/XX/I/203>) [S. 32.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/32>) BR: [AB 5209](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5209>) [S. 615.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/615>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Bundesgesetz über die Arbeitsinspektion (Arbeitsinspektionsgesetz 1993 – ArbIG) StF: [BGBl. Nr. 27/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_27_0/1993_27_0.pdf>) (NR: GP XVIII [RV 813](<https://www.parlament.gv.at/gegenstand/XVIII/I/813>) [AB 910](<https://www.parlament.gv.at/gegenstand/XVIII/I/910>) [S. 99.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/99>) BR: [AB 4421](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4421>) [S. 563.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/563>)) \[CELEX-Nr.: [389L0391](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0391:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

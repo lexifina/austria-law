@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010419",
+  "short_title": "Errichtung einer dritten Notarstelle in St. Pölten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209455",
+    "valid_from": "1984-01-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010419&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:38.880736+00:00",
+    "response_sha256": "b3508018318f0eb4073e7533920135fea9d68753f6bdcd1cf64c68c88679f528",
+    "snapshot_sha256": "f99da3eb9e0727be11439410b7f99f6061ec114c423ffc13e38889fdc86e76f8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c6bd62dfc26d485ddebfb81292467987738a4df85a595f9cecec4aa2164a3cd",
+      "sha256": "a3f9095aa1e2209689c9441ff6c3e35ce7d573a9ac00f36714e84c1ae9a76d6a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 9. Jänner 1984 betreffend die Errichtung einer dritten Notarstelle in St. Pölten StF: BGBl. Nr. 39/1984"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 39/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_39_0/1984_39_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5ab4328f434a32b619d22f32d8f76c68e4559838e74bb5145db268b5f245717",
+      "sha256": "8a7e96fd0f45aac5468b34f0782ce59f14bbd4ec2953aca845299b02d5b0fa3f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

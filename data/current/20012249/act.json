@@ -1,0 +1,816 @@
+{
+  "sample_only": false,
+  "included_provisions": 22,
+  "source_provision_count": 22,
+  "schema_version": 1,
+  "gesetzesnummer": "20012249",
+  "short_title": "Land- und forstwirtschaftliche Verordnung explosionsfähige Atmosphären",
+  "abbreviation": "LF-VEXAT",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40252711",
+    "valid_from": "2023-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012249&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:30:15.487045+00:00",
+    "response_sha256": "d24e01d4d0b482132b44a9de06d664e67b979a7617b712523e0dbb9fee9a063d",
+    "snapshot_sha256": "5f9757a4d3047b4f1aab9c7c84dc5aaf837745fe37395dc3792ee877473b3eef",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5ab5fea226f11738de7362e12459642cda5e08cd14c480a10f7af2c194f0718e",
+      "sha256": "cff80bad1249cd4ba294aaefdfbffcae8c45a62167745f82010520ac5443745b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit und Wirtschaft über den Schutz der Arbeitnehmerinnen und Arbeitnehmer vor explosionsfähigen Atmosphären in der Land- und Forstwirtschaft (Land- und forstwirtschaftliche Verordnung explosionsfähige Atmosphären – LF-VEXAT) StF: BGBl. II Nr. 128/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 128/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/128"
+        },
+        {
+          "text": "BGBl. I Nr. 78/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/78"
+        },
+        {
+          "text": "BGBl. I Nr. 167/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/167"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Abschnitt Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsfähige Atmosphären und explosionsgefährdete Bereiche",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermittlung und Beurteilung der Explosionsgefahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsschutzdokument",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Information, Unterweisung, Arbeitsfreigabe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Messungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gefahrenanalyse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Explosionsschutz-Maßnahmen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze des Explosionsschutzes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Primärer Explosionsschutz: Verhindern der Entstehung von explosionsgefährdeten Bereichen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einstufen und Kennzeichnen explosionsgefährdeter Bereiche (Zonen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bauliche Ausführung von explosionsgefährdeten Bereichen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sekundärer Explosionsschutz: Vermeiden von Zündquellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen an elektrische Anlagen und an Gegenstände in explosionsgefährdeten Bereichen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorsorge für den Fall von Störungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behälter und ähnliche Betriebseinrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Konstruktiver Explosionsschutz: Begrenzung der Auswirkung von Explosionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Übergangs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anhang",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Anlagen in explosionsgefährdeten Bereichen, Kabel und Leitungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e44167feb56b1c0abb8facfd11f7d8a5449352ad9701cf9cbea3a3047335d14b",
+      "sha256": "7766f781a286a9414c53182864e4620345408f5ce3fe0bc9ad476fbdb28ee53b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 430/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_430_0/1994_430_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06124416d06c0f668df615ebe6c05c98c6b1a42aaae695fe9a62bccfbfc354af",
+      "sha256": "1900906f99e29fe50d07c41aa9393a29f74a7323f62383047a1ee4c838285205",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 252/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_252_0/1996_252_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Explosionsfähige Atmosphären und explosionsgefährdete Bereiche",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1628cce6ff7019950923c36d5cc146a010d4357073f56aab9724de46a66238a0",
+      "sha256": "51a371a751cd2097f294edd9b0e001d4a2d9b655639b21ec2ddd1f6dc589513c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Ermittlung und Beurteilung der Explosionsgefahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "23dde4ca7db79ce348533b24679e0bb32201553b6ad66d9f2247b3d5333beb48",
+      "sha256": "80f90441b8a30de9d334b604723c1330f56f0fbf443e0c53da3da82d6745395a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Explosionsschutzdokument",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ace3808a5f766dbde53432e059475f244a07084fc6c056b95a92ba1713f286ca",
+      "sha256": "a1da83d77b6eeb163ff89d0c0d763f4dbad9941089e2c6c0857d94fa43bbb851",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Information, Unterweisung, Arbeitsfreigabe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9758e6ba90a0323daab4421e79ec863c756a20dd7d6bf6388876e57bb61c82b4",
+      "sha256": "c61ac803b27a98efdc87a7bbc11853ff167ff89085b4a550c6296d4d4311f4b2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Prüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9c5a29400618758701ff6a41165c5788a64b9aecd06a203e1b1ebdef5166fa1",
+      "sha256": "83ab3fd80aa1f74690678bed9f6e991b3c3d6ca4866c6134649749ab348b66a2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Messungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13dd2de750939ce8b7cfc2413698ddec78781b61bdd32db155b89290f60f1a38",
+      "sha256": "ea39795b8a4773818d1a813dfe07bc609af23136792acd579799f970616dd405",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Gefahrenanalyse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "924445bb59e5be796c684a47b43a0855cd638e7c91a5934c39c2adc77193d16c",
+      "sha256": "87ee075a86e964cb928b0a210bf32dc32ef553a592e0bf77cd0c05e3d8ea5c95",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 28/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/28"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "2. Abschnitt Explosionsschutz-Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec1cc48a286d43d00faad534a9da07a3c29d29dd5c11afdcadebd1d9ccdd3ff4",
+      "sha256": "0b185307ea6d3eb690044f308163ece45d3e582f61ba44156900b8f01c3248fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Primärer Explosionsschutz: Verhindern der Entstehung von explosionsgefährdeten Bereichen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ff7a06453109da93aa8ecc87f5eccf3f74465357df358f4c13744cd66c929b51",
+      "sha256": "3110971b9be23ba82707facbda5de9ba85a644905ce94df459cd8648f297a329",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Einstufen und Kennzeichnen explosionsgefährdeter Bereiche (Zonen)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0dda22d4ad5546b69d389196c31121d92d963ccbf317d4f3a2560960383e00a7",
+      "sha256": "a463dc620be7a38f925fffc6524d7d9b81ca68037fbeb69ca60f4c2b72b4cda0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Bauliche Ausführung von explosionsgefährdeten Bereichen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95654e60be44fcf4c543f1a838fdb12642c33dd201d3ec5f80e3776dc1bdb06a",
+      "sha256": "b9d88675340f890a65a8f5006fe664c7afb509fb9ce6143f1582e12d729c3cf0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Sekundärer Explosionsschutz: Vermeiden von Zündquellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b3849dc08ef60c22a7fa37d3cc7ae8122ee24967f285aed770f5f1dc5f3185c5",
+      "sha256": "87d197933db954cb113a709d0ca3ea76d31458448860899c32c87ee48274b7b9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Anforderungen an elektrische Anlagen und an Gegenstände in explosionsgefährdeten Bereichen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebf0db0dbd8b277628ba118e812e70c8b8ad18c2af505f430538d056aec9c59c",
+      "sha256": "7b78321587cad37842632dfa786b91f3eef6056bce6594b67e0632f7c1e909b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Vorsorge für den Fall von Störungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52114eb0dfcadafc0a04eb8019c0ef8f24a76196dc8cadfd1cc08b13644e2232",
+      "sha256": "baec860da78ebac5f8c92b0dccc011822ebc850e2f4a14ae8851c38e89efaafd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Behälter und ähnliche Betriebseinrichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "708e556b67ab9ed4a3291ca6bb13a7191d314e0f4203109a56b030a4cf597712",
+      "sha256": "0e7e9c6aac934c0a40a29f454f87260605770baace5d74ca35fd9e4e5dde3bc9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Konstruktiver Explosionsschutz: Begrenzung der Auswirkung von Explosionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41a8bb94000231aeb30647935cefccd824dc28ef829b71c5d6ff5835920520ac",
+      "sha256": "7522e0a6f8a4121acebdb2d0606b2ae667c931b5952debc3ddfb37de23c0d563",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "3. Abschnitt Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "550e2605bc52ae33c97f5bfe479ddd642c377102be2ab1d38112206efbe9974b",
+      "sha256": "014b0f5b157bf2b6c03c07fb2fe08566418320bbd4bdd0bd1a7f05e4fcc4ba7b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 47/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_47_0/1994_47_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 47/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_47_0/1994_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce70a251bd2d8967d6522f897997d631592c4a8197f5a41adb0138f85b906d40",
+      "sha256": "2ded3b93b92f514fa13f51bb8acf6122d5ff906a4a7153e5b71b98263e82180e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6b61abcc1c153564da94e183c2229eb01169d4ca66a4c01be3c49489ae70200",
+      "sha256": "e82337f524cdfa57927338008d388e91294b5d8679a3fea5b78c7218f04d4103",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

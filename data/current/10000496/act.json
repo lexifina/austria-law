@@ -1,0 +1,91 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000496",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000498",
+    "valid_from": "1971-05-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000496&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:31:08.331358+00:00",
+    "response_sha256": "017b933a1daba99ce6ffb62dcc04816f594cfe8476a078687c3a6f2c139e7372",
+    "snapshot_sha256": "684543eb797e9655b208370aee0601a557a6a59d068d3cffb4782a655ab473f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea020098a6e40b21edbf0f2deea12d9ed9c6a1eecff307102912d109e2c03160",
+      "sha256": "5ab75e82a64fcefbebcf2e47191af9cddb25764f3cf142655689c205085bab8d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 12. Mai 1971 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit auf dem Gebiete des Dienstrechtes der Kindergärtnerinnen StF: BGBl. Nr. 175/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 175/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_175_0/1971_175_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "349cc0424fdb369b7b07f2d41b84ec8803fae9f85f643c2311dc2b964786b189",
+      "sha256": "817e3804501553348a4067766cc771587cfd536a2adb18d9ef4c0e0907a57f42",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Teilweise überholt durch die B-VG Novelle BGBl. Nr. 444/1974. Die Zuständigkeit der Länder gem. Pkt. 2 b besteht nunmehr einerseits ohne Einschränkung auf Kindergärtnerinnen, die behördliche Aufgaben zu besorgen haben, andererseits auch hinsichtlich von Kindergärtnerinnen mit Dienstvertrag (Art. 21 Abs. 1 und 2 B-VG)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 444/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_444_0/1974_444_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

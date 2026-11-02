@@ -1,0 +1,3 @@
+Bundesgesetz über eine umweltrelevante Geodateninfrastruktur des Bundes (Geodateninfrastrukturgesetz – GeoDIG) StF: [BGBl. I Nr. 14/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/14>) (NR: GP XXIV [RV 400](<https://www.parlament.gv.at/gegenstand/XXIV/I/400>) [AB 590](<https://www.parlament.gv.at/gegenstand/XXIV/I/590>) [S. 53.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/53>) BR: [8276](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8276>) [AB 8279](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8279>) [S. 781.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/781>)) \[CELEX-Nr. [32007L0002](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0002:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

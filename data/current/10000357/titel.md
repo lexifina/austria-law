@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 7. April 1961 über die eine Erklärung der Republik Kongo (Leopoldville) zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: [BGBl. Nr. 113/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_113_0/1961_113_0.pdf>)

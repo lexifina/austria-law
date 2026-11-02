@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 4. Feber 1965 betreffend die Flagge der Republik Libanon StF: [BGBl. Nr. 30/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_30_0/1965_30_0.pdf>)

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009256",
+  "short_title": "Bestehende Gemeinden der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009447",
+    "valid_from": "1961-10-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009256&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:29:24.901786+00:00",
+    "response_sha256": "a6a8a2c1953f225d89b91a59a6b14e0e23e7753969e412893b2ab801be1bda02",
+    "snapshot_sha256": "a1ebabb3c813db914d203ad1b0ece5d1b2adea62d8aa7ae6d0a810c2722a0b06",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a31803d75f1ad181787ca1eaf3b9617c482b78b1715435b202f6792bcb4d5181",
+      "sha256": "837bf1943a392ff068152d5a91800bbafa42029cd213c74c4202086463d649de",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Unterricht vom 5. Oktober 1961, über die bestehenden Gemeinden der Evangelischen Kirche StF: BGBl. Nr. 242/1961"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 228/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 242/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_242_0/1961_242_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 228/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/228"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "I. Die Evangelische Kirche Augsburgischen und Helvetischen Bekenntnisses in Österreich.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1e6d42378ea1869e719bad933737fe6d343cdfc5204da0e46eabf14175e94a97",
+      "sha256": "17dcecdb24eaee57f262041f18cf7175044d5e10caf149c1406f2b182a815ad6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

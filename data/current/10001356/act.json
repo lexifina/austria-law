@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001356",
+  "short_title": "VfGH-Aufhebung eines Erlasses",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001365",
+    "valid_from": "1994-12-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001356&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:45:32.545702+00:00",
+    "response_sha256": "8e938f12ae80146686cc02579472318c51248e438ba2e038e07e3aca42e9cdc0",
+    "snapshot_sha256": "1aa349b4228d0e06d2845504307bac7823bf9d78621bed17c3dc90ce3e54b99e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "178af1a94a1b15dd07276082d10da5b6ff6a97c8975008006b94025a94af1c42",
+      "sha256": "c2d1e9f6135156401f5429a2c190beb1de52da3034a3b7e4536a472b8e148000",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Finanzen betreffend die Aufhebung eines Erlasses durch den Verfassungsgerichtshof StF: BGBl. Nr. 954/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 954/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_954_0/1994_954_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6fa70ac08d6989f22b509e7e681e9ef19078776f907ad5ea5231b9cf73cc8e2e",
+      "sha256": "6aa056415f7bc647e25e28c18f0eaa788296a783615c3358101e756d5df57775",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

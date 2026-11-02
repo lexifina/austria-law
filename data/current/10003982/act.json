@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003982",
+  "short_title": "Zollabkommen über Behälter (1956)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004018",
+    "valid_from": "1964-06-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003982&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:23:23.427962+00:00",
+    "response_sha256": "fcaca63879c1658a50db1e2831923a659e9ec2e73dfa509fc070e931b534f7b7",
+    "snapshot_sha256": "036877b7398d94dbd15cb038f6a93472cbf3f2e2f05c3e0766a8639b3342178e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "849ea522d1a24bf907ca65f110a006531cc73f884b2aef0f576d6ce0564e2ee5",
+      "sha256": "5de9a28be1c539c6cc6ac8d4f8f99927af72c3801ed8f2a42f7fcd1c7e9860dc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 27. April 1964, betreffend die Ausdehnung des Geltungsbereiches des Zollabkommens über Behälter StF: BGBl. Nr. 101/1964"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 101/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_101_0/1964_101_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1cba79c4119a97a3c67c485e4a546f2cb636bb2da9ff7c574db3502232c4dca9",
+      "sha256": "32e4c3c984fcd8d394de54a09c287dcca773a5d3b99d93adc6d26f6d5a16aa31",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 22/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_22_0/1958_22_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

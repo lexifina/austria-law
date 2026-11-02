@@ -1,0 +1,3222 @@
+{
+  "sample_only": false,
+  "included_provisions": 85,
+  "source_provision_count": 85,
+  "schema_version": 1,
+  "gesetzesnummer": "20012588",
+  "short_title": "Tiergesundheitsgesetz 2024",
+  "abbreviation": "TGG 2024",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40262171",
+    "valid_from": "2024-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012588&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:38:48.053513+00:00",
+    "response_sha256": "8ba58ea8e82bc0c0a3f0a394225dcd9dc7b4e1f0f4d7fda4d77696e4d9a34c31",
+    "snapshot_sha256": "955e8f87888f00902f945d24d16979deaefc1a5ccc009b53bab2a4bcfd8469f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b39cb09d8068eb3d87e65de56b98623a8133fb6ca0e795c32e92970f6529d64b",
+      "sha256": "01c8c0cfb5ff41c3061c954389b08ecd2b560dbac1118a8ad3954c3f4a9f2ce3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz zur Durchführung des europäischen Tiergesundheitsrechts, zur Abwehr und Bekämpfung von Tierseuchen sowie zur Überwachung, Erhaltung und Verbesserung der Tiergesundheit (Tiergesundheitsgesetz 2024 – TGG 2024) StF: BGBl. I Nr. 53/2024 (NR: GP XXVII RV 2433 und Zu 2433 AB 2445 S. 252. BR: AB 11429 S. 964.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.) BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 53/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/53"
+        },
+        {
+          "text": "RV 2433",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2433"
+        },
+        {
+          "text": "Zu 2433",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2433"
+        },
+        {
+          "text": "AB 2445",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2445"
+        },
+        {
+          "text": "AB 11429",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11429"
+        },
+        {
+          "text": "964",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/964"
+        },
+        {
+          "text": "BGBl. I Nr. 25/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25"
+        },
+        {
+          "text": "RV 69",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/69"
+        },
+        {
+          "text": "Zu 69",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/69"
+        },
+        {
+          "text": "AB 100",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/100"
+        },
+        {
+          "text": "S. 30.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/30"
+        },
+        {
+          "text": "11643",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11643"
+        },
+        {
+          "text": "AB 11645",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11645"
+        },
+        {
+          "text": "S. 979.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Art / Paragraph",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand / Bezeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Artikel 1",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ziel dieses Bundesgesetzes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand des Bundesgesetzes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Allgemeine Vollzugsvorschriften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behördenzuständigkeiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sach- und Personalausstattung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Amtliche Bestellung im Seuchenfall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übertragung bestimmter Aufgaben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verordnungsermächtigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beiräte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beziehung zur Militärverwaltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Bestimmungen für Verfahren nach diesem Bundesgesetz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Überwachung und Rückverfolgbarkeit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektronisches Veterinärregister",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Registrierungs- und Meldepflichten für Tierhalter und Betriebe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kennzeichnung von Tieren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Duldungs- und Mitwirkungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Sicherung der Tiergesundheit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Biosicherheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausfuhrberechtigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Tiergesundheitsdienst",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tiergesundheitsmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Förderung der betrieblichen Tiergesundheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tiergesundheit Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tiergesundheitsforum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Verhinderung der Einschleppung von Tierseuchen nach Österreich",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eingang in die Union",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbringungen innerhalb der Union",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Bestimmungen im Hinblick auf bestehende Rechte und Vereinbarungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausstellung von Heimtierausweisen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ein- und Durchfuhrverbote und Beschränkungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere veterinärpolizeiliche Sicherung und Überwachung der Grenze, Revision und Evidenthaltung des Tierbestandes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Bekämpfung von Tierseuchen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Allgemeine Maßregeln zur Verhinderung der Weiterverbreitung von Tierseuchen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Impfstoffe und Impfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umgang mit Erregern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung von Betrieben, an denen Auftriebe durchgeführt werden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Veranstaltungen mit Tieren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tierseuchenrechtliche Bestimmungen beim Transport",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Schutzmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfütterungsverbot",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Vorgehen bei Verdacht und Ausbruch von Tierseuchen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung des Seuchenausbruches",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Seuchenkommission",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schutz- und Tilgungsmaßregeln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine behördliche Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten des Tierhalters bzw. der Tierhalterin",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schlachttier- und Fleischuntersuchung im Seuchenfall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betriebspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beseitigung von tierischen Nebenprodukten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dauer der Seuchenbekämpfungsmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Besondere zusätzliche Bestimmungen hinsichtlich bestimmter Tierseuchen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Vorkehrungen bei Verdacht auf Maul- und Klauenseuche oder Geflügelpest",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Milzbrand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tollwut",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Sonderbestimmungen für Bienen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Seuchenhaftes Auftreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fachtierärztinnen und Fachtierärzte für Bienen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verdachtsfall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Faulbrut",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Referenzlabor",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausbruch",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachschau",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schlussrevision",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Hauptstück Entschädigung für Viehverluste und für aus Anlass der Desinfektion vernichtete Gegenstände sowie Abschussprämien",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 57.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entschädigungen aus Bundesmitteln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 58.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schlachtung von Reagenten oder verdächtigen Tieren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 59.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Höhe der Entschädigungen für Tiere und Gegenstände",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 60.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tarifanpassung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 61.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entschädigung für Erwerbsnachteile",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 62.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entscheidungskompetenz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 63.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestimmung des bzw. der Bezugsberechtigten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 64.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entscheidungsfrist",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 65.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prämien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Hauptstück Bestreitung der bei Maßnahmen nach diesem Bundesgesetz erwachsenden Kosten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 66.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kostentragung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 67.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tiergesundheitsfonds",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 68.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Untersuchungskosten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Hauptstück Informationspflichten, Sanktionen und Maßnahmen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 69.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Straftatbestände",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 70.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Strafbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 71.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachschulung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 72.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbot der Tierhaltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 73.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 74.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 75.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Örtliche Zuständigkeit bei Verletzung bestimmter Pflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 76.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 77.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Widmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Hauptstück Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 78.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttretensbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 79.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Außerkrafttretensbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 80.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 81.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 82.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollzugsvorschrift",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Delegierte- und Durchführungsrechtsakte gemäß § 1 Abs. 3",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorschriften hinsichtlich der Universitäten sowie der AGES im Umgang mit ansteckungsfähigen Erregern von Tierseuchen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "71826739c1e0e133e244df38a1efbbc1d3307846d9f9b267485dc96d09b3092f",
+      "sha256": "841aedbaad56dd90fd81c6bfe13fbc07afbab2286ff62863d146020553bcc775",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Gegenstand des Bundesgesetzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b12830aaab1764905aa49ee1518df93b9c939ca7a45380437dac437281a7d67e",
+      "sha256": "59c5390cb0286714cb45d0b69fbc7ced9ab676505e8fc49e8ae27e30df5ba902",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9bfec21cb87d894dcad5bb1d8bfc07b97457497e2d0d61bbc4e4ca9a941718ec",
+      "sha256": "b8c43baa060f28617f1e01d57ce906255c0a33829c56fd33332183ccb2eea0bf",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 118/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/118"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Allgemeine Vollzugsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52a911a2e2d597d2f39d9e7968bcb4c16d39b248d915368e5db524a9a8b2160b",
+      "sha256": "138f6f38d92aa60314e4d531232b5b28227301cfbd5c85abdfdd73113b78d76d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 33/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/33"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Sach- und Personalausstattung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9268f6f32a2b3b7c352b75adfc91958d8a67f3b9b3601f810c753a05928e7542",
+      "sha256": "f01d48d1f42e3fce4498329b47856509fdc5fe142d0376815f22bba09754c26e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl Nr. 215/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_215_0/1949_215_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Amtliche Bestellung im Seuchenfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3926740aa19f7a5581683a2fae0acdc3be166d07cdc91cc8bda67d432035830c",
+      "sha256": "3db788f6d6fa113862961f11b1f9b35cffe85be3ca51ac62bf5f9c1d5d812190",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 171/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/171"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Übertragung bestimmter Aufgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "576c62851571dac14f12f3d78d23058b10227a7cbf960190899e60dbc33db1d7",
+      "sha256": "5ec65d76466d2b01029a3794cae7e94dd28d5e583a52a3c350b1cff511c3d856",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Verordnungsermächtigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f479609cbb38bbbdcabfcbda6a9630756ab5af3e4f65d56fbdb3fd8fed952e9f",
+      "sha256": "b80f39f98722d680ef2c2a6e090f3e45e60f3d781fea99fa3b76067105f79218",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Beiräte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94b14c79224a974f3538d7f576995d1ac9d1811e448ebda70f82a99d4ee76b54",
+      "sha256": "5ff74e52dd60f93da22f08e2ff105c1cd651ff7d3a909871f162a1c85658337a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Veröffentlichungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a2d78e1304aa2a736c597e2932749f67a47bcd745382231971f99f0ece92f21",
+      "sha256": "d854e373b214752b65258697d27fc0a89e48c53906f0318223d5be4ed510abbb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 100/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 63/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_63_1/2002_63_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Beziehung zur Militärverwaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87d2aaeee044c24135fa2605b3ddaf447e1d6d5f556ce4c0d4a41d4157f42568",
+      "sha256": "d2fc0438cd58b3eb9824f68a8bc4a1fd3b91a64e232795bafdedadf7233985fe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Besondere Bestimmungen für Verfahren nach diesem Bundesgesetz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c77c0edd3c3ad1c45d5643e9e767365e04fa766cd5007560e833657bdf7c27f1",
+      "sha256": "0e44ff250edd5476613ab9a065a0b5008895dbe3468335bc2febd5a3b0637f97",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "3. Abschnitt Überwachung und Rückverfolgbarkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26a4d69e7ec45cdbf8b462c35544c14a21697f974589f4658117c37c809b124e",
+      "sha256": "635521ad05e956e7d8d7374205499223fd2b5a30e0aff8905ff54fbdc18aca01",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 130/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/130"
+        },
+        {
+          "text": "BGBl. I Nr. 171/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/171"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Registrierungs- und Meldepflichten für Tierhalter und Betriebe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39a6853885e456b00888088d88be0fa5079a2784b233cb7bc82ba0b16afc186d",
+      "sha256": "35b4f2b5aeade097e1b1df0478130e0bc1fa02b6d091265c447fe10cecec7b21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Kennzeichnung von Tieren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1c6e69ca20ba7cb185346dbb05a61411a9535864928433b44a0b98df2a1fe5b",
+      "sha256": "16018b588d3b571b19d18fc3aaa08de9137023f9742233b66977f82222acbd62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Duldungs- und Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0cae52af2c04ee2961ff341657b0bd006a254d326b68e10af04f09b8a436a5ca",
+      "sha256": "2be7da58c978b7b24a2708329fcc392c29a2fb85d30d2c69e80cfeec27c343ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "2. Hauptstück",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3448616cf51af9c9c3b28e9a7b70b61e5c27d1f1dc6cc2da574ba83ee17724da",
+      "sha256": "6334c3ae0ced4087937715e619615defea8d712bd05bc650090a2312fced5dce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Ausfuhrberechtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9948607fa351e4798d470e37ecad0db0e6a636552602563fc72d85cc3c252537",
+      "sha256": "7cb0e2522a03a96de05df627db95beb99d8eea7cc1798a0b487badc753322c7b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 13/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "2. Abschnitt Tiergesundheitsdienst",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4bccd65b8c7c1a2baec10f37eaf5a90869fd743556e893359691088a1f1efece",
+      "sha256": "b3bc6cedf676b28c869990519743e715818dfa6adac30724e80c91521e24c632",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Förderung der betrieblichen Tiergesundheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "71441fd1e7bbfbe412b1c172308be12fdfbbaddf2f5fc56e18ddfcd52570ef9e",
+      "sha256": "953ff7eca3136fd9edaaa3a3c2d930c871eb577c6a7913724efb9f7ad87874b2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 186/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/186"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Tiergesundheit Österreich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4976fefc994d9cd51a8a8ca9600c66ecd2b0e6d752cbbb49940645321132fa14",
+      "sha256": "bd8dedb0aa433109d656328e8eb6063a60e1d0a9e9ffa39c02c7635cb9258d78",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Tiergesundheitsforum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "74d22dc655f4d540ffe7d105536921941e218c4b231e6b4413ac2a9a162a0c60",
+      "sha256": "8f26ab6040f8052f20bf947cce19c7e3aad0b3280eeca61ddb50380527d33293",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "3. Hauptstück Verhinderung der Einschleppung von Tierseuchen nach Österreich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "483cae69e15ea396f0e160f3badedcd05569498826f5ed36dd4780311f753d40",
+      "sha256": "e1372af30e7b83d122aa311338017703e635a9f5b41ac0be6b907c609ab7f519",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 63/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_63_1/2002_63_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Verbringungen innerhalb der Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eba158c99f9624ed1d8c71cf841116c5f0aeca886099f2a04c12ca63bbd58d24",
+      "sha256": "e68ffbe08aedf044470ac4aaeef9bd54c2a8168c95be2c4479cba8d24e1631d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Besondere Bestimmungen im Hinblick auf bestehende Rechte und Vereinbarungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c918f5ed00fdc7d1b6e5941cc403ef983512ec79270945327b020a7676c92393",
+      "sha256": "41a6b08a3434a6e397ae5a704ede02d8c153dda811569382acd60549a63bef17",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 49/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=49/1921&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Ausstellung von Heimtierausweisen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9a0fac0d0f4bf4bfab5ccc2e7477648861e300c28471c392ad4cb83a97c4c6a",
+      "sha256": "f048108f9519062ffee9634008b67eb520fb612e82e1541a42f7df3781e3f177",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 16/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_16_0/1975_16_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Ein- und Durchfuhrverbote und Beschränkungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "244419857796555433bd2e6c1bda5c3efafd454f6228e24ab6132d222f4b528e",
+      "sha256": "c6ac034576cd1ef521d488db04cec165af2f6c5535c15f9d70bfaacec3b37d1b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Besondere veterinärpolizeiliche Sicherung und Überwachung der Grenze, Revision und Evidenthaltung des Tierbestandes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b9bceabaeef046dd47e6a9c2d854e9c583249693ae03598e8fe1d03071c871f",
+      "sha256": "339973c3a6238db76b6cc8e8d6f3e1cab62e055e6e799708fdcfdf6596a1c06e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 146/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_146_0/2001_146_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "4. Hauptstück Bekämpfung von Tierseuchen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f7e86cdd87b18c4c20a88e1690ca4231e82410f3bd6587f3a3f058356dd8ce5",
+      "sha256": "b8cef6fe0106cfafb6a3d449401c7c3bf6be0981044446dbecc4df942a6ccd4a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Umgang mit Erregern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78fce6d10587dcf46814c613e128d767a7a5d2ebf542270d379631910e089a4b",
+      "sha256": "643b9cc994079f57560e547f8806138284e996b12290a6e8e67b4294f69e1a25",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 91/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_91_0/1970_91_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 114/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/114"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Überwachung von Betrieben, an denen Auftriebe durchgeführt werden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73863a6848f2cd8cdd63744ff1667c6c92a1795234f686c5364153e15392d335",
+      "sha256": "9dcda9fd33d06ac33f7e0b6c51b4b46a23eef6ed75228e021379c2de01dbfa14",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Besondere Veranstaltungen mit Tieren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a2d02a3ed7eb6c751f5d78000418695ae873cad20199a20f0589970201ea0d6",
+      "sha256": "709abf9d691c1b9b1214dd23f0c2ad3bbe48c3964a821654b445cf590313759c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Tierseuchenrechtliche Bestimmungen beim Transport",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3def85e6c6576a9fa4c1b428739952ef03e53f73a3a7a94ebd2e435f795ffcd",
+      "sha256": "bcf3c3f2cf7d8b32772490e9f1de6ead8271d313766040ac4a8d6e2ec249a75c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 54/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/54"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Besondere Schutzmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac1932b5044ee50fa2a6f6e37b9b65e1dd617b82ce9bf906e2cb5bd3f6865530",
+      "sha256": "7368c63053cca3b538d6769097ff49f112ff8f5fd14d3f9a77c13aa2d356a3df",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Verfütterungsverbot",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5db8bead5da214343cff6451384e413d9e5bbbe2ff873ce11618ab60dd1ecd30",
+      "sha256": "39698eefb8dd904fced1fa24601809a688bc56b99d38607a0a01b4339d0a8af6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 484/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/484"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "2. Abschnitt Vorgehen bei Verdacht und Ausbruch von Tierseuchen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d91e92125d06392b38db229712b53425d194068f234fdb212c5152d38f5fe0de",
+      "sha256": "fb551d1761d042b9b8126406e4a112e6b85ae7893ea341e5d919647517034eb5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Veröffentlichung des Seuchenausbruches",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba47a3263e6818a0f0adcdacb0fa3380e552ba527fa17c8b8c7e7b58c7ccbaf5",
+      "sha256": "27e540b4c13366fff4cc04509f720d1558148505df8a7857389bde0d5305c4c0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Seuchenkommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "877b9def4381362e3780d4b8bc4590455b60305d6da7a1ded649feed49bea9cb",
+      "sha256": "516a33b74444191a79c7013583abe07f56033f9e331f14d342276f02bbd0ab6a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Schutz- und Tilgungsmaßregeln",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf433b457e700c3f61385c11644633a1bb78f7e091e39853df3c644002972805",
+      "sha256": "3d04e4c71cf41164345bae1e96d78ef2474faabec763fa6f02cd4da11af8fad3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Allgemeine behördliche Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ba69444315f9290a6b3b9d5d979d7145b365117142ae42383418d9f6e324932",
+      "sha256": "1d6cd47b1e80b8118442f9a5986c3d57a559071195039a1ccc1a7e75911f8614",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Pflichten des Tierhalters bzw. der Tierhalterin",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea51cc9b225c034a602d7a97af2bc41497f3fedad4de9ba6e39f7abefb02975f",
+      "sha256": "e85bfe0d6be35497783c776cefbfe42dffd7ac1c4cd1e7c9f4505c7509b1f1c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Schlachttier- und Fleischuntersuchung im Seuchenfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c73cd4574b7bd5754a36d2bb36f7330064c34d8e5938ff5f9481f11e0a2d880a",
+      "sha256": "2a6124d587c4dcfea65b7c90ea414b088ff93469aaa5b999210575408ce7d86c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Betriebspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe687a1c5c0a07f729974406d193bf67c745f569941b5bbd5133038cf351349e",
+      "sha256": "28cc875e3a3393edf1f9fea8571dad22db0b89654a697f600993231d63e67faa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Beseitigung von tierischen Nebenprodukten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38ea0d9b1355d448b0c18739a2bd639213beeccac83a45c7cab425f06eaf5a00",
+      "sha256": "601397404da54d72aefe550c6f53a3232d81704d572691ebc65307f05ff6af2a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 141/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_141_1/2003_141_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Dauer der Seuchenbekämpfungsmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1c052c32d4a2c8f302264889bb7d0512e03a0ff719bcec4730f947136b62c5b",
+      "sha256": "885c1665eb98d1cb18a8be8fa4f334bea2a8d6cc636822e91e46573ead5bd325",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "3. Abschnitt Besondere zusätzliche Bestimmungen hinsichtlich bestimmter Tierseuchen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e4a55f0d7be96513499dc9cce8a01fd845e50e4f951be70082172fc5a91a953",
+      "sha256": "b2f2034a90883d27b6cd6178b7a4779257a45f422427b50018da1f34578d5d29",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "Milzbrand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7a2bda662acdb523c95ddb255e76dd74c9d219100e7cc0ef5dd1679645dd78a",
+      "sha256": "b1aec2d8923eed4f0ab6b97c5b374930baf08358923250c1b375f2516173c3d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Tollwut",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "887f12b020cbf504ad1c8e1bdd853a3083c7321ed08a6236e7d85871fbf44953",
+      "sha256": "965edfe99f0c48ae267af1cafed2afecc994bcca4339a5a1899ab7cd25306191",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "4. Abschnitt Sonderbestimmungen für Bienen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5e440af90e2fe0d313257493586d7fb8a717001689a99c1aa80186c46fa8a7ec",
+      "sha256": "059c805ed39be0534c689a12f3b549a66e3e8f003e140883314e328a8496206f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Fachtierärztinnen und Fachtierärzte für Bienen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60c2d6f77e3c181b4697b0dd55119942330dd5f81bd15405ef64f42fb6579154",
+      "sha256": "49e628aad5f4b6823f493402d68f5ca1eb36cd7a5af5ec23810e831ed4d887f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Verdachtsfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c1d703b0e8bcd28f9d43460f08beb32bbee6a4fe4d37edd6a344c96b5048d61",
+      "sha256": "28626b1cbc79538dccdf4ac410a618f94004d494721f1b660028a3a89b031d75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "Faulbrut",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de9b1b7f2b2550e4efe79a9316f4ae14b0663a040a0a4f810ed6494aea2feb4e",
+      "sha256": "03d4e7fc3400460b7ce3a2d0a6936246b2448bc8479c33fd8d75244dbe41c733",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Referenzlabor",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f94387ffadc1d82e4982100794d0d9e7c76d98bae9510d3e5f9a8fdbbe2ae62",
+      "sha256": "b8979caf9b0a8cca8dbd2869a0d0295a07839e45cb8703428dcdbcc13a000fa7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "Ausbruch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f7f9ba8e0dadb33c0ce0a18d7449600efebc7ba0395c29322b1ab977ac7fb52",
+      "sha256": "a492c7900bcce926c35f6bd84c5ded09957d635c8e1766cf15a5bfbaf1c6fb14",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "Nachschau",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2ca0baf242bca3cc115337106bde6433abc684f2077b2127a3de8d1518b4a27",
+      "sha256": "51ea60715d87752f544f909b3e56ed3155d7a848143aa7a1e1ecdc41c573a6fc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "Schlussrevision",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69e4d36babf21a4527f156144919775c87323ff659a46771099a3ee69571f65e",
+      "sha256": "11aacfaebcaa295797cb7f8e02110d045123d09ea0ee38abd17b839a5cf6ea49",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "5. Hauptstück Entschädigung für Viehverluste und für aus Anlass der Desinfektion vernichtete Gegenstände sowie Abschussprämien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06f6ab8fd6491e170685feabf17567c1e5c6b888fa2f425ee59a255c2c9ee862",
+      "sha256": "638545fd05f0d97a7c30a87657e25310c5b86ba025840e4052cc8ef3bcc3342b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "Schlachtung von Reagenten oder verdächtigen Tieren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49664b0f5ffc1bcc6f500e4f5c76d455cff15173b7c3271afbac590f813d15eb",
+      "sha256": "02a545cc15cd78993d94bedc9166aa006e1bb6b530164bf99f82d1e3947f83f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "Höhe der Entschädigungen für Tiere und Gegenstände",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0db3cea58024ee6798c6f0a31a03d29c20c41881a31389cbe4d6f167a5f0a6cf",
+      "sha256": "a1ef1332687cad875ed89d31603a819d6301e45ba2d4ca61a97f1b80ec0cde2e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 60",
+      "source_heading": "Tarifanpassung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "par-0060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93f881f0a10b4af01081dedeccc2985d88689706fb22bccc95f843f60298037b",
+      "sha256": "834c961f7a1d836cac474209542480ec464b96cadadcb92b8036fd9424f218f8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 61",
+      "source_heading": "Entschädigung für Erwerbsnachteile",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "par-0061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebcba05831eff1200c0c29475fdf91c3f323349abab521e32c054533ceb98922",
+      "sha256": "23ea5cb99d87cb9e5ff762d9bea43a4a92d1bc0487eca8d04af1267445a997f9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 399/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_399_0/1974_399_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 414/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_414_0/1972_414_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 62",
+      "source_heading": "Entscheidungskompetenz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "par-0062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5571157b00cf2a8ff86b6601c4b580538965add192d73e62342e2c1d75ab6e4b",
+      "sha256": "7298f521bc36d1f536339021d2117bba2fbfd9046970bb4af32d96bc63f9a882",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 63",
+      "source_heading": "Bestimmung des bzw. der Bezugsberechtigten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "par-0063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca2ec0009a6d1ec732779cf2838c9bd29ccc326e5d01740f1da8dc0f953d8376",
+      "sha256": "1bf2ad171feb5ed5e31a3b3577a2cc087e2e238007e9ccb8c8fdab951bfb6c2f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 64",
+      "source_heading": "Entscheidungsfrist",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 64,
+        "stable_identity": false
+      },
+      "file": "par-0064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e527ce8ce7a0d2625d40d6779afb4d74774acb81c13ae8f714a68f423323c244",
+      "sha256": "4830272f2838c561932458813b733e42669da1119f8e282f70b482714803d74c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 65",
+      "source_heading": "Prämien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 65,
+        "stable_identity": false
+      },
+      "file": "par-0065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "195292ff2a6a46dc87d6f9b24eff18535edf019c342ce3b58bee6c8168b61ebd",
+      "sha256": "b307ba6a7391eb19edeeee0538dc5b21768edba5da5d77589bd5f0ba0d582f60",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 66",
+      "source_heading": "6. Hauptstück Bestreitung der bei Maßnahmen nach diesem Bundesgesetz erwachsenden Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 66,
+        "stable_identity": false
+      },
+      "file": "par-0066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ecb0eef9b3c5d6798010c5cd3e49ad325ba66a3ad196fd5c11a363c8ed3d3e81",
+      "sha256": "7c12e27c9362f632154d6b7c661fe0a3928f033e2bd08a21dafc453f62349503",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 45/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_45_0/1948_45_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 67",
+      "source_heading": "Tiergesundheitsfonds",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 67,
+        "stable_identity": false
+      },
+      "file": "par-0067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5e1675dc039a7ffc60986860616a9c173b5440782c3f8c69031a910d904f14f5",
+      "sha256": "80f35c5cceb6322ba53d185be2bd1d0bb42558c37e89c0153a85e840c9142408",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 68",
+      "source_heading": "Untersuchungskosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 68,
+        "stable_identity": false
+      },
+      "file": "par-0068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf793bdbe7ff8e4edd13c2498edb3347afb4a00c024f52a8f9b5777fe8567493",
+      "sha256": "a8cf45fc2c828dcb882357bfd40b3e89e850a9bb1debef632fffffa0e6da8808",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 69",
+      "source_heading": "7. Hauptstück Informationspflichten, Sanktionen und Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 69,
+        "stable_identity": false
+      },
+      "file": "par-0069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7ac49eecf203e172afd8bcbff8feb5539878fe0976936073f04647eb2903f91",
+      "sha256": "2c1b0afab3f7110cb08ece4bf2a6766b8e41a814dc4484223b0c9e84a3ed1d85",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 70",
+      "source_heading": "Allgemeine Strafbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 70,
+        "stable_identity": false
+      },
+      "file": "par-0070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34ed7696eb319a9c342e3a2fdf64970e7f73fd1afc97f6e1d5ab3bc0fe5a382b",
+      "sha256": "68fadce2ee50850ba892508f9cd64cc2b2ae967a4f883b2928d486e88db4e9e3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 71",
+      "source_heading": "Nachschulung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 71,
+        "stable_identity": false
+      },
+      "file": "par-0071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "914d892b661cfdb7b479fdd832deb2045b04c2eb5cca881798ae3a18ea60b2a5",
+      "sha256": "3695473669e135ce46518b9657d8bb4006dd74b1798b4f111c744b684fe3f83e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72",
+      "source_heading": "Verbot der Tierhaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 72,
+        "stable_identity": false
+      },
+      "file": "par-0072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bd7aac67cb7606d068112bbc4ddde785df3209813046e2f4d38d2c8ef5960d9",
+      "sha256": "f129ee0494f9e0b2fdfb90f3f105081fd4e134fc8acc2019ea11fb9f45396825",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 73",
+      "source_heading": "Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 73,
+        "stable_identity": false
+      },
+      "file": "par-0073.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7e03515fd4ef2ee0dcbb0012c31a42b9f969212dac906db7287c75342021a01",
+      "sha256": "888e43d5c6b99077c3355f95a7adb573c0ac75238d8cd931645d90f9cc3adade",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 74",
+      "source_heading": "Informationspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 74,
+        "stable_identity": false
+      },
+      "file": "par-0074.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb465cdbbf6ef22dd9e2037d8ba76b66539af8a757a123465e67eef2346e090a",
+      "sha256": "ba1bf2356266bd970191554db907ff4b385fc7ee15bec85e96e6450325f58d0a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 60/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_60_0/1974_60_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 65/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_65_1/2002_65_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 75",
+      "source_heading": "Örtliche Zuständigkeit bei Verletzung bestimmter Pflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 75,
+        "stable_identity": false
+      },
+      "file": "par-0075.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c26f390850ef135e5beee3d1ca2b546e96488f2165069192afedc9e99d4533a",
+      "sha256": "25ec5ee47f2cbf704909a212dc44bebcd8b94cce6387e50653e6758f8985e5dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 76",
+      "source_heading": "Verfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 76,
+        "stable_identity": false
+      },
+      "file": "par-0076.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "24733d04ceecf095e96387a79ae98f1e1a8c8cd937ce752fdf50384fc2fc8dbb",
+      "sha256": "65e8451b46bb4389164c9f074a3c06c6e989dd4dc760c1860fdce494e1dfcba9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 77",
+      "source_heading": "Widmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 77,
+        "stable_identity": false
+      },
+      "file": "par-0077.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a85b58a4e196744d7830e563306e7280ffd6ed6abad8c6b7aef0ad566b48d5bd",
+      "sha256": "d099d504b8bb634ceac83394c3a184b440a9e5390c82040705cbca9638d40dd9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 78",
+      "source_heading": "8. Hauptstück Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 78,
+        "stable_identity": false
+      },
+      "file": "par-0078.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a871cb48e714663e3a79f203f7488d727b1878db58905bf55d00b557b37c1a06",
+      "sha256": "5ca6e58b334506e8e765ce3456ebdeb9b6541d81694fc15363e2e0a112ebe738",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 25/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 79",
+      "source_heading": "Außerkrafttretensbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 79,
+        "stable_identity": false
+      },
+      "file": "par-0079.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d4cdb9db76e7ac4de7bba19fb7af18bc53491b04dba1253b30c8b537443ea67",
+      "sha256": "70cc375f4b6109ca35d73bed0b014f8542f619a55b6e442c2c356636af95c540",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 73/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/73"
+        },
+        {
+          "text": "RGBl. Nr. 177/1909",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=177/1909&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 133/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_133_1/1999_133_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 290/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_290_0/1988_290_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 80",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 80,
+        "stable_identity": false
+      },
+      "file": "par-0080.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "adefdfe9c23710cba12e2ded588748c6ebf052e9a7d62ce2410a7b39aac55233",
+      "sha256": "31d55f5435aca915d09155722efe8d277b5266fc59aa97414caa50b78f9cb66c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 81",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 81,
+        "stable_identity": false
+      },
+      "file": "par-0081.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46169e3eedf8e5adf1d791a1443cf4708b46e92eae6cbc3f117a583614d4c74c",
+      "sha256": "f766a6d5675300ce2febb037088dd7fb9d7ae412480e206732e5eda5f2b31a13",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 82",
+      "source_heading": "Vollzugsvorschrift",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 82,
+        "stable_identity": false
+      },
+      "file": "par-0082.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6fef84b6fd48a334eb159eef3c402faa31d627f302c8b13fbd33fa0d01f3884",
+      "sha256": "9d45ae07e93dffe4154b08be9ebea54fe327d43332064738311c95206014e133",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 83,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "608395ed8e30726a95cde9b663c6629b86504725df59fe97accf0058bda6a87a",
+      "sha256": "94ad00f6235f72b819c0530db9e55d68f84693314e65e4cd7ed0f872d22b949f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2 Vorschriften hinsichtlich der Universitäten sowie der AGES im Umgang mit ansteckungsfähigen Erregern von Tierseuchen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 84,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f7686f405bf9d61d8e52caeacb43eae43ad990b88ab0e04d98fc9cdef074fe1",
+      "sha256": "3afd7cfed1a3a0ec63afc7d060ef6d7aaa4295c6beacdebfc4241d9331f46b59",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 114/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/114"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

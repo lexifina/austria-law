@@ -1,0 +1,915 @@
+{
+  "sample_only": false,
+  "included_provisions": 31,
+  "source_provision_count": 31,
+  "schema_version": 1,
+  "gesetzesnummer": "10009018",
+  "short_title": "Bäckereiarbeiter/innengesetz 1996",
+  "abbreviation": "BäckAG 1996",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009189",
+    "valid_from": "1996-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009018&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:25:58.108437+00:00",
+    "response_sha256": "b7540d11788f9dbbd192d6485181f201aefdebd535a0e23ebefb2dd9a878faf3",
+    "snapshot_sha256": "dbc325c12bb51c6ac6b98958e17dbca26707aab4879b70726bf36dd690655f9c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7e7014abaeed352643d0712847d63a9a00a201224b834fd98030ccab18a4a85",
+      "sha256": "9fde1adad7c7a5992ac222950f158516baa6579c62d8b763303cf32e2ddbaa96",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Regelung der Arbeit in Backwaren-Erzeugungsbetrieben (Bäckereiarbeiter/innengesetz 1996 – BäckAG 1996) StF: BGBl. Nr. 410/1996 (NR: GP XX RV 177 AB 300 S. 35. BR: AB 5232 S. 616.) [CELEX-Nr.: 393L0104, 394L0033]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 98/2001 (NR: GP XXI RV 621 AB 704 S. 75. BR: 6398 AB 6424 S. 679.) BGBl. I Nr. 122/2002 (NR: GP XXI RV 1180 AB 1195 S. 111. BR: AB 6708 S. 690.) [CELEX-Nr.: 376L0207, 393L0104] BGBl. I Nr. 79/2003 (NR: GP XXII RV 109 AB 171 S. 27. BR: 6795 AB 6837 S. 700.) BGBl. I Nr. 40/2017 (NR: GP XXV RV 1457 AB 1569 S. 171. BR: 9747 AB 9752 S. 866.) [CELEX-Nr.: 32009L0031] BGBl. I Nr. 22/2019 (NR: GP XXVI IA 606/A AB 500 S. 63. BR: 10125 AB 10128 S. 890.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 410/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_410_0/1996_410_0.pdf"
+        },
+        {
+          "text": "RV 177",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/I/177"
+        },
+        {
+          "text": "AB 300",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/I/300"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/NRSITZ/35"
+        },
+        {
+          "text": "AB 5232",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/5232"
+        },
+        {
+          "text": "S. 616.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/616"
+        },
+        {
+          "text": "393L0104",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0104:DE:HTML"
+        },
+        {
+          "text": "394L0033",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0033:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_98_1/2001_98_1.pdf"
+        },
+        {
+          "text": "RV 621",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/621"
+        },
+        {
+          "text": "AB 704",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/704"
+        },
+        {
+          "text": "S. 75.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/75"
+        },
+        {
+          "text": "6398",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6398"
+        },
+        {
+          "text": "AB 6424",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6424"
+        },
+        {
+          "text": "S. 679.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/679"
+        },
+        {
+          "text": "BGBl. I Nr. 122/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_122_1/2002_122_1.pdf"
+        },
+        {
+          "text": "RV 1180",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/1180"
+        },
+        {
+          "text": "AB 1195",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/1195"
+        },
+        {
+          "text": "S. 111.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/111"
+        },
+        {
+          "text": "AB 6708",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6708"
+        },
+        {
+          "text": "S. 690.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/690"
+        },
+        {
+          "text": "376L0207",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0207:DE:HTML"
+        },
+        {
+          "text": "393L0104",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0104:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 79/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_79_1/2003_79_1.pdf"
+        },
+        {
+          "text": "RV 109",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/109"
+        },
+        {
+          "text": "AB 171",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/171"
+        },
+        {
+          "text": "S. 27.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/27"
+        },
+        {
+          "text": "6795",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6795"
+        },
+        {
+          "text": "AB 6837",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6837"
+        },
+        {
+          "text": "S. 700.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/700"
+        },
+        {
+          "text": "BGBl. I Nr. 40/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/40"
+        },
+        {
+          "text": "RV 1457",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1457"
+        },
+        {
+          "text": "AB 1569",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1569"
+        },
+        {
+          "text": "S. 171.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/171"
+        },
+        {
+          "text": "9747",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9747"
+        },
+        {
+          "text": "AB 9752",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9752"
+        },
+        {
+          "text": "S. 866.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/866"
+        },
+        {
+          "text": "32009L0031",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0031:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 22/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/22"
+        },
+        {
+          "text": "IA 606/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/A/606"
+        },
+        {
+          "text": "AB 500",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/500"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/63"
+        },
+        {
+          "text": "10125",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10125"
+        },
+        {
+          "text": "AB 10128",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10128"
+        },
+        {
+          "text": "S. 890.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/890"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "ABSCHNITT 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0654ffea83f60a0385368bcc1c153713a752de11f1006912fbbdbfb6c6d14da6",
+      "sha256": "4434823169f85b2c04999a37737b8087d3df18c8d434e382f98604b1a6f49d09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "ABSCHNITT 2 Arbeitszeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1882ed015e2b34fb673a35cd73c98d4c0b2f1de9ce9eafa0198a43d2896e4fc9",
+      "sha256": "0cbc9538c44f17a9f7c6850b7f9f80bd0bafed84fcfc62f7306ea22e0a8e907d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Überstundenarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b99e18e981d19f2dfa38cd89496f5869ff2de71501fd64ee3f54a389d4e2707",
+      "sha256": "ec78c6153a1c1454bce2968a65a82b16a92330967abd3de9a8e9fd444f9d591e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Überstundenzuschlag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8818d47cad8d5d2bde8b738d7f7ec59884efb83f23076df307b12f55eb909879",
+      "sha256": "0f33ec2fd8febde9c4125b6097ecea8785dc6101ff74988112d540a4236789da",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Nachtarbeitszuschlag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e39f9475fd6cce92e48c7dcd63e89bc949055849b0668876e4e087b3f4745190",
+      "sha256": "fda2682f7729ae88222e9a05f03ee8d9b87c340847f68dbeae48e919d30e6429",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "ABSCHNITT 3 Ruhepausen und tägliche Ruhezeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6222cab687630f8d255611e37ee7e8f84e064bc905349ab889d337e8d96ecb7",
+      "sha256": "283965a99718c6f8daf1b159d94b7ac7b6e0981880a33b62e0565adfe0c5d688",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Tägliche Ruhezeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18c841b236fb092248e3ef272087bc3ba17060dab620d791cc22b38da0ef46b2",
+      "sha256": "5f719e5777e6dfc53e55ba0cb19b4e8540e7323c149d037ed42dc8df8c90a022",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Ruhezeiten für Lehrlinge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "386efe97ce3f461390faac37866555811e9921b2d5b37caac79d4723bf18ba49",
+      "sha256": "89eed1e8501a0a8e7242c36e65112595f69a2faef823b062f92763821291b37e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8a",
+      "source_heading": "ABSCHNITT 3a Nachtarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49385b48f1e88b726467eec0d8ee55aec8e172522123502ea7bb32e3a443f11f",
+      "sha256": "37a03b8ccfaccd70b30a128cf5ca1fbcedde6b712ded12de24a8d2c67087e242",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 354/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_354_0/1981_354_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8b",
+      "source_heading": "Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0008b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ef4378baff3063ac4448cc0e9597706cb7bbd3bff88d128397e3eff08ade8b6",
+      "sha256": "98cbd086334c7bc0c94c8f9254823049d53f51a333a7a33571f8f3b2b030d6b7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8c",
+      "source_heading": "Versetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0008c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95bd2cfbb776f82404617a3f7be7069ffc58e41751d0e0cb412e1a51713a1756",
+      "sha256": "baae77089127a53219aaac51795142dbefc1a2de7b354a75d04e5b3c1d6cd72e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8d",
+      "source_heading": "Recht auf Information",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0008d.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe31e20ca3cacdf1bd98f4d951f920d6bc5846b6bd02c7c0a6969cab4487bd3d",
+      "sha256": "b2bd4b75017841da31e6319921495abce55168d470baed2a1612f6020b4c8456",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "ABSCHNITT 4 Wöchentliche Ruhezeit und Feiertagsruhe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "71d68785c02819fb85634edb7afaaeeb15e54e11c2f3a2061c52eb44cf1d66c3",
+      "sha256": "647d17811ec25e8201b7ceb7380ddea28bf2495f0d61e9327c672a6179f3ff10",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Wochenruhe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86cc1bbb1d21b1b52888a259fbfaaeaae8765aee81fa0ae14fe9e848129932df",
+      "sha256": "c409f857732cc847c9c01f60814c7b4b5122cc9017d8169785fde967ea90fab9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Wöchentliche Ruhezeit bei Schichtarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81ebd3b0627699d9757e9e39b18ef91aa43c3fe6df94982740bc308ad3f58285",
+      "sha256": "2e6bbde9e08ba110d285591a4f72d6b826fa7de79149e0576e4bac5b05833b25",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Ersatzruhe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fb1ac4b49b1ea1cfff676c2f9c20733ebec04d136bb533090521210ce8e29ee",
+      "sha256": "c4553367cefc39a218dbffddd36c8aa7f061cc9e508809342bbc3aa9b2d14d2f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Sonntagszuschlag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14408382598ac897e12b80811a021497b91be14441136e2bf041f5387e6b0fe3",
+      "sha256": "2c27b8593790b16c02bc9a190d8aa053fa87f3bbadaf6df26bef36f9d99b1eb5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Feiertagsruhe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f47b8c1df7a3f61fe8ef2fc7cae8c3f89e0cacd28720ed0b7d889a2487209ea",
+      "sha256": "ed2bbc1ff8c7d2380bc7eaa82634a0cf269a477ea41b53aa53e0992213c97a65",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 22/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/22"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14a",
+      "source_heading": "Einseitiger Urlaubsantritt („persönlicher Feiertag“)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0014a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a81fb10c380627cf320c6de07bb91c2f65bc833fd9a6eca5cd006697df8b04c",
+      "sha256": "083f960ae41c2b2f09890d12eda3406e18c33ad0eaf4a20ccdf2edeef80b6a76",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Freizeit zur Erfüllung der religiösen Pflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7de84d1e0cbca3ae64d69ee51472d6dfd7cde0076a45ef80d934c61e13319a0d",
+      "sha256": "f597382a60662222b6e04dfcc104c4aa33e1ff9a34e2d7fd2f6ffe29af829663",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Entgelt für Feiertage und Ersatzruhe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3719c143a1fca4840dd7a51e0e1b6231b927093fa1e826ef0526e8bd2a17618",
+      "sha256": "5ea618cb8963027ea3e8f14b583b48ec7211bd2cdbb304b67a6e9147435503c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Ausnahmen von der Wochenend- und Feiertagsruhe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ece3ff3bc53327ef002ce3c68f7a8f02095afa95cab79643f691ceac919be94f",
+      "sha256": "f2bf5953aeb980ab3455c8dcd8746dfde501dc1183ad114ab6aecadcf07ff30f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "ABSCHNITT 5 Allgemeine Vorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89c55b39999fba978015a05827c010b5e899a41a4968d6fc9d1084c27f53e8a2",
+      "sha256": "bde2d18e4ea13e2bed8fe6ff29fd32e32c13f47bacf21e55209a1b10921c926e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Aufzeichnungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab5dc7f96ee2eddc63a0a5b8c3585e4e7c370ff260fe457094d12fcb13838ce3",
+      "sha256": "143ec4528ddd74d00cce57658b91c27474ade03b20a6b7e8022a5dc1ae1b444e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af3db89b25edc1a3a9c4dd43c3e489457b71291be65f0b2dedc427e4b111c8ef",
+      "sha256": "cfa8a00152c8ad897530e265d133e67836ffb5b4665c01fe7a51ac416db80e49",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "ABSCHNITT 6 Schlußbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89fd356dd110594900f5877d0e74dba463a35e2a151476db7df3582374e24784",
+      "sha256": "9d92ed786ea62c4285457f71d2aae84e6503dcb0daee3df437a295e07a8c6373",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Weitergelten von Regelungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1fb7c940a77a125bd7d8599bcc38bff833a198b483ca2167f217a529bb54057",
+      "sha256": "3e0606369c013a19a6c150fb0fa1d8dd333d437c5750e0cdc51de5ec060a86c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22a",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0022a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b269172d094e227c87bbc1e611cd69eeea2f894ae9bf7dcd78dd28dc78397806",
+      "sha256": "b7767adbb67bed84adf3571ed4846b490eae1dc24380c47f7b6a8cc839d31a93",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22b",
+      "source_heading": "Übergangsbestimmungen zum BGBl. I Nr. 22/2019",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0022b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7880b8e5326bdcfdc64a86df6d98fe67068207a264638d43ffd9f3518cf1d896",
+      "sha256": "dcf1749617b17505b488dada617853c1a428c47f2ec708824fd4bed2524d0fc4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 22/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/22"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Vollziehung und Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe4337d17737b71bc3c05aa09212d9babde1ef9e6c40e3c1bd584ae796908844",
+      "sha256": "85b91d93e2962342d5efad3d0727631431d272e9d448debbd15d23c9bc5aef3f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 69/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_69_0/1955_69_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 116/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_116_0/1960_116_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_98_1/2001_98_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 122/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_122_1/2002_122_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 79/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_79_1/2003_79_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 40/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/40"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

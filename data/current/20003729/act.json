@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003729",
+  "short_title": "Weltgesundheitsorganisation – Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004047",
+    "valid_from": "1959-10-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003729&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:03:57.255222+00:00",
+    "response_sha256": "ce459dd2b88d4cdd66b05ef288c246522b470988eb7c197bc76717f804badf68",
+    "snapshot_sha256": "fb1e2ba7a47c6c276818f55530fe0c93370049a0ece5b0895d0721255856ecf5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9451218c8faec1cba3c5058335c8403e9e57ba97183b48547cd06ef0f1f853f0",
+      "sha256": "51952f097c753a7a5d0d31f6d550182cb4c2f84ff371f05116531fc403147fa7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 16. September 1959 über den Geltungsbereich des Protokolls, betreffend das Office International dʻHygiène Publique. StF: BGBl. Nr. 221/1959"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 221/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_221_0/1959_221_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3493060c499bb59e00b3619b903a3d4655f2da73098f26c5e413069faef46ce6",
+      "sha256": "df4cc3aee2106464222c758f1313b16027f0f6a0c259d45a882f1f215f381e3c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 96/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_96_0/1949_96_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

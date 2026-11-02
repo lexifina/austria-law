@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010403",
+  "short_title": "Errichtung einer zweiten Notarstelle in Wolfsberg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209419",
+    "valid_from": "1976-04-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010403&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:05.063422+00:00",
+    "response_sha256": "da9eb21465338fc3fb6051a31d8c69ec9c49f5e931dc7896962ed528f585dcfa",
+    "snapshot_sha256": "d47bee64bbdd36a4e7aff1ae1ae5d968894755b0253d4332e97091e92e8b448f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be6b08c2c65acb4a19a284f539ae088ae76c9b873e5eaca06933be6c1d539205",
+      "sha256": "7dccac063ee8319b010e91cb4d392e86881bde9ddea0ed535124035dfd3a9875",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 18. März 1976 betreffend die Errichtung einer zweiten Notarstelle in Wolfsberg StF: BGBl. Nr. 120/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 120/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_120_0/1976_120_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fbe5d0b6666e86e7217a120222d3b47bbd8378451ff2012d739033ef26d84239",
+      "sha256": "2847bc837c3a935f87d94f5a27d9c3a05856482e0a6e7143b8554e353306a511",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

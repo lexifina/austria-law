@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 11. Mai 1964, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung und zur Vollziehung von gesetzlichen Bestimmungen auf dem Gebiete des Zivilrechtes, die zur Regelung von Straßenangelegenheiten im Sinne des Art. 15 Abs. 9 des B.-VG. erforderlich sind. StF: [BGBl. Nr. 118/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_118_0/1964_118_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 9. Dezember 1963, K II-6/63-22, dem Bundeskanzleramt zugestellt am 5. Mai 1964, zusammengefaßt hat:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Festlegung allgemeiner Kriterien für Verkehrsbeeinflussungssysteme gemäß dem Immissionsschutzgesetz – Luft (IG-L-VBA-Verordnung) StF: [BGBl. II Nr. 302/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/302>)
+
+Aufgrund des § 14 Abs. 6d Immissionsschutzgesetz-Luft (IG-L), [BGBl. I Nr. 115/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 70/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/70>), wird im Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie verordnet:

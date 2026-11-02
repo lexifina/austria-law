@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Finanzen über das teilweise Vorliegen der technischen und organisatorischen Voraussetzungen für den Echtbetrieb des digitalen Dokumentennachweises in der zentralen Zulassungsevidenz StF: [BGBl. II Nr. 40/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/40>)

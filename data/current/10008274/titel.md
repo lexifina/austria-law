@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Verwaltung vom 18. Oktober 1972 betreffend die Einbeziehung der Betriebe des Steinhauergewerbes in den Geltungsbereich des Bauarbeiter-Schlechtwetterentschädigungsgesetzes 1957 StF: [BGBl. Nr. 391/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_391_0/1972_391_0.pdf>)
+
+Auf Grund des § 1 Abs. 4 des Bauarbeiter-Schlechtwetterentschädigungsgesetzes 1957, BGBl. Nr. 129, in der Fassung des Bundesgesetzes [BGBl. Nr. 4/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_4_0/1971_4_0.pdf>) wird im Einvernehmen mit dem Bundesminister für Handel, Gewerbe und Industrie verordnet:

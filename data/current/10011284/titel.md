@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 24. Mai 1954, betreffend die Ratifikation des Abkommens über die Internationale Zivilluftfahrt durch Uruguay StF: [BGBl. Nr. 113/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_113_0/1954_113_0.pdf>)

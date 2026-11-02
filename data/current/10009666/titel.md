@@ -1,0 +1,1 @@
+Bekanntmachung des Bundesministers für Unterricht, Kunst und Sport vom 21. April 1988 betreffend den Lehrplan für den Religionsunterricht der Kirche Jesu Christi der Heiligen der Letzten Tage an Pflichtschulen, mittleren und höheren Schulen StF: [BGBl. Nr. 239/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_239_0/1988_239_0.pdf>)

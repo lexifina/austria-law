@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über Sicherheit, Normalisierung und Typisierung elektrischer Betriebsmittel und elektrischer Anlagen (Elektrotechnikverordnung 2020 – ETV 2020) StF: [BGBl. II Nr. 308/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/308>)
+
+Auf Grund des § 2, des § 3, des § 4 Abs. 2, des § 5 Abs. 2 und des § 7 des Elektrotechnikgesetzes 1992 – ETG 1992, [BGBl. Nr. 106/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_106_0/1993_106_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 27/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/27>) wird verordnet:

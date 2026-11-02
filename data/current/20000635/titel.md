@@ -1,0 +1,1 @@
+Verordnung der Bundesregierung, womit das Verzeichnis der dem Übereinkommen zum Schutze der Unterseekabel beigetretenen Staaten ergänzt wird StF: [BGBl. Nr. 240/1935](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=240/1935&amp;SkipToDocumentPage=True>)

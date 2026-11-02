@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009981",
+  "short_title": "Rechtspersönlichkeit und die Namen von Gemeinden der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010181",
+    "valid_from": "1995-04-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009981&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:37:23.917078+00:00",
+    "response_sha256": "930d7d4fdb1f83a43ae96a2574d02e09d3d1dd2580507edb4157eff6d796ea1f",
+    "snapshot_sha256": "3ce8ea9edebce4d2d8f9c2d9b31a3196975e9461c1e8003f62bb6567404ebe5a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d47e37f60b0ca5d3201d7fee2562987865d13403cd0b0df6ec7344001c9802b",
+      "sha256": "548bcd48ab29929d4dcd3c12002ff401ac051e11187ceaa8c462ca3201326075",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und kulturelle Angelegenheiten über die Rechtspersönlichkeit und die Namen von Gemeinden der Evangelischen Kirche StF: BGBl. Nr. 291/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 291/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_291_0/1995_291_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b17171baa6785940ff4bf6b4e29d732fb8cf45c1ea6a4fc6b528095a01ea6949",
+      "sha256": "4c5fdde2956d50a526db616cfe6f84670532ce306e9ce192b43d52f30fa29d75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

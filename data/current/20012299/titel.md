@@ -1,0 +1,3 @@
+Entschließung des Bundespräsidenten betreffend die Festsetzung der Zahl der von den Ländern in den Bundesrat zu entsendenden Mitglieder StF: [BGBl. II Nr. 197/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/197>)
+
+Auf Grund des Art. 34 Abs. 2 und 3 des Bundes-Verfassungsgesetzes, [BGBl. Nr. 1/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=1/1930&amp;SkipToDocumentPage=True>), in der Fassung des Kundmachungsreformgesetzes 2004, [BGBl. I Nr. 100/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf>), und des Ergebnisses der Volkszählung zum Stichtag 31. Oktober 2021 setze ich die Zahl der von den Ländern in den Bundesrat zu entsendenden Mitglieder fest.

@@ -1,0 +1,935 @@
+{
+  "sample_only": false,
+  "included_provisions": 33,
+  "source_provision_count": 33,
+  "schema_version": 1,
+  "gesetzesnummer": "20004425",
+  "short_title": "Verbandsverantwortlichkeitsgesetz",
+  "abbreviation": "VbVG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004820",
+    "valid_from": "2006-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004425&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:14:19.625271+00:00",
+    "response_sha256": "acf5dfde073aacd074607aee8b03643af0f93e01376cf34db0863cad101b3db8",
+    "snapshot_sha256": "cba6f1c39353de93a06d4e4a8e0aa49811bda12c871daca55557a1c42d556043",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "334b5e725a1e83d63e055ba062c311a24ab1137c073efec7a22224e042b564e8",
+      "sha256": "89997d07e83c233b645644caef8fc609f6737dac1ab55cd0eead2aebdde6bd82",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Verantwortlichkeit von Verbänden für Straftaten (Verbandsverantwortlichkeitsgesetz – VbVG) StF: BGBl. I Nr. 151/2005 (NR: GP XXII RV 994 AB 1077 S. 122. BR: AB 7387 S. 725.) [CELEX-Nr. 32003L0006]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 112/2007 (NR: GP XXIII RV 299 AB 335 S. 41. BR: 7802 AB 7851 S. 751.) BGBl. I Nr. 26/2016 (NR: GP XXV RV 1058 AB 1072 S. 126. BR: 9557 AB 9561 S. 853.) [CELEX-Nr.: 32012L0029, 32013L0048, 32014L0042] BGBl. I Nr. 100/2023 (NR: GP XXVII RV 2098 AB 2158 S. 226. BR: AB 11292 S. 957.) BGBl. I Nr. 65/2025 (NR: GP XXVIII IA 416/A AB 215 S. 44. BR: AB 11706 S. 982.) [CELEX-Nr.: 32019L0884, 32023L0977]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 151/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/151"
+        },
+        {
+          "text": "RV 994",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/994"
+        },
+        {
+          "text": "AB 1077",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1077"
+        },
+        {
+          "text": "S. 122.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/122"
+        },
+        {
+          "text": "AB 7387",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7387"
+        },
+        {
+          "text": "S. 725.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/725"
+        },
+        {
+          "text": "32003L0006",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0006:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/112"
+        },
+        {
+          "text": "RV 299",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/299"
+        },
+        {
+          "text": "AB 335",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/335"
+        },
+        {
+          "text": "S. 41.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/41"
+        },
+        {
+          "text": "7802",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7802"
+        },
+        {
+          "text": "AB 7851",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7851"
+        },
+        {
+          "text": "S. 751.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/751"
+        },
+        {
+          "text": "BGBl. I Nr. 26/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/26"
+        },
+        {
+          "text": "RV 1058",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1058"
+        },
+        {
+          "text": "AB 1072",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1072"
+        },
+        {
+          "text": "S. 126.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/126"
+        },
+        {
+          "text": "9557",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9557"
+        },
+        {
+          "text": "AB 9561",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9561"
+        },
+        {
+          "text": "S. 853.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/853"
+        },
+        {
+          "text": "32012L0029",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0029:DE:HTML"
+        },
+        {
+          "text": "32013L0048",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0048:DE:HTML"
+        },
+        {
+          "text": "32014L0042",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0042:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/100"
+        },
+        {
+          "text": "RV 2098",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2098"
+        },
+        {
+          "text": "AB 2158",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2158"
+        },
+        {
+          "text": "S. 226.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/226"
+        },
+        {
+          "text": "AB 11292",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11292"
+        },
+        {
+          "text": "S. 957.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/957"
+        },
+        {
+          "text": "BGBl. I Nr. 65/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/65"
+        },
+        {
+          "text": "IA 416/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/A/416"
+        },
+        {
+          "text": "AB 215",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/215"
+        },
+        {
+          "text": "S. 44.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44"
+        },
+        {
+          "text": "AB 11706",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11706"
+        },
+        {
+          "text": "S. 982.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/982"
+        },
+        {
+          "text": "32019L0884",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L0884:DE:HTML"
+        },
+        {
+          "text": "32023L0977",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L0977:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2485cf4a45e14f63b7a5a15441102df32cd254dcb3e2e9ac8e22c6bcb2e0a24d",
+      "sha256": "4c8fe90617da8bae0c4ac3e9c5bd0552830f8e2ad3128978df35263cdd7c8048",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 129/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_129_0/1958_129_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Entscheidungsträger und Mitarbeiter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05325348f50b16736e62d490b9a503977b451ac65f2eccd9610e4b178251ab4b",
+      "sha256": "2f02baeafedee172cd613ce4aae90c2b31b5464c9d0004daabb22f994620e98b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 105/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_105_0/1961_105_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 196/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_196_0/1988_196_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Verbandsverantwortlichkeit – Materiellrechtliche Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a163c14d5084f49a3fdc0945d4df2213b47fd39103501d551a5bfc52a5aa0f2",
+      "sha256": "4563447c94835d146e80fad30334c2c39cc89d1e42b0ae0336523608ced52927",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Verbandsgeldbuße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6353c9ceba80889ec9fb926c2cd18266b7444157bffa3305c6bf3f7d826aeff3",
+      "sha256": "c3fda0c6ea78d5b664e59cb7db250e6a9c1f1ae2943b9efafa8048f6fc02a6b2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Bemessung der Verbandsgeldbuße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29c98503bc0fa2615e88e1cac412d694f438229e5a03f1aed5cece7ccc45a782",
+      "sha256": "cccf27089e058a80c2276a10981f3c412737b1b9e4bbfecc675e11d28880e794",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Bedingte Nachsicht der Verbandsgeldbuße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c9d27a6c899df8273d04cc4cc9553b82759fba788220654bfd5910d771231f9",
+      "sha256": "e975c9cf8798d0762839491d2c83651ecb979504898e883bb4417f53540b05c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Bedingte Nachsicht eines Teiles der Verbandsgeldbuße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfcd7d3dbadabb779f8edc2db25c16ef5cd4d1ec6e25050e0b05990c36e2a84d",
+      "sha256": "600e9349f85de48de9f9852f11d308284890a1fe52ade2865327036cafad9260",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Weisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62b06ce5030f657d5a120846ef9c0cabd59490e19fb073a4b21b781590524893",
+      "sha256": "a80c5653dd538d7f654fc095f512825a94d625ad0c5267e46b11bf4ab4d3bc92",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Widerruf der bedingten Nachsicht der Verbandsgeldbuße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e31c8e7ac5b5e439518033a697e2eb9a5ab33afd82660af5545093629991c5a",
+      "sha256": "ce2099a1fdcda833c332ecf0510ef18f26417e4ce4817c030bb275c01ebb6363",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Rechtsnachfolge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba2738b96d2a31ad2a74bd1c07893ad99656336153bc6b08e2f0ca8e800ae510",
+      "sha256": "d3461db9f978b12612715b93016016d72f9c80a06521757649461f9c2955ebc0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Ausschluss eines Rückgriffs",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb3dd9adb40201496a9322849c410721d4782fa33f97b1db8ee552f3153296da",
+      "sha256": "330a6c5d4f4d9f274039dcd727006ce770b33cc4f4964425c817ccd486e26398",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Anwendung der allgemeinen Strafgesetze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "964b67319d6164b92496f5067e838b914c9cf5ba667d4c00f8a79f45d44f3d3a",
+      "sha256": "e2292db30553179a590232c6ca990cec7a44ef9cf099eeff0a705c2884c71960",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "3. Abschnitt Verfahren gegen Verbände",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "091eba827adc4c70fe6d1d20eb950fc4a35c34b6f90d9069df1b86902e208805",
+      "sha256": "8c2a2200ef4ebf2bae73b9dcc230d6c5e6607d51b37d017b6380b64ea9a30f5f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Anwendung der Bestimmungen über das Strafverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0af4a2297674ddea42c04b5a3fb2acbaa742d8af2dda78490f27e86e9340658",
+      "sha256": "2dbedd0d8f9281860dc839c251a0c21c6b673994a4842fc034fd6571e398e562",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4444d80dfa522e2e6b2157cfefd53f8824605b902acc3bb2704406ba34f2c3dd",
+      "sha256": "b12bbbe9579e9f5a96aa785785053e0c2e786f8bc9c90467c5b2503a192d6777",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Zustellung und notwendige Verteidigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "58ffa129db7f29bebfc4f6a65b19ac9af1eb1e3ecdfae19125ec9792fb106479",
+      "sha256": "446e19be8e5a579bc5d8668b6503f9ef946deeb2903900c9baa653687f04677f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Vernehmung als Beschuldigter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e16bc492ebf1a454edfc0fb582da82089faa66caf8404edae7b02eb157396f78",
+      "sha256": "5372e27d487155e72295c6ea64db7ca721dc34c5ff08f436f1ab9a624222ec4d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Verfolgungsermessen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0925d00c86e27b4238a2c954c5781b03d6138b96144b140cc078b4a1e85d1db6",
+      "sha256": "5b859320b5093d367eaf41cec02b1a488e457f026a7835bfa5d15da4ffd38ec8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Rücktritt von der Verfolgung (Diversion)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9ac1f6eb16f63a55066a230a61a8768b6bc3e724b3483e110e1a912331b2a594",
+      "sha256": "4e0908b9eff194a9c9221a340d26b48a9e71dd5f09cffb410515c95905ea9fba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Einstweilige Verfügungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "178022db48f35e41a772cb8ddca5f4ec20cba67b45ea80a5ae12290a41c1771d",
+      "sha256": "19889d5b22d9ea4ad9fce453bb724d93073b88a9f3877465ebcf36bf0c2b3cab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Antrag auf Verhängung einer Verbandsgeldbuße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "221cf9b260e5d291e15084d5d4300e6633b3a05a91c2906dd6291fa5a95e510a",
+      "sha256": "923df92617c51a85ebdd018aab2f608ca0097a541f5101ab516e78bb8bef29af",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Hauptverhandlung und Urteil",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d1e1693f6d62ca4f70ff3b0873621e70d33046d3eff18e4af8b042b8cc712ff",
+      "sha256": "1fb99d12a12103c75483ad2cca37e60213089cdc382b39ee9daa28f01dbf2781",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Hauptverhandlung und Urteil in Abwesenheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86d052066e7a11e5ac80e3b366191e4d9c9daec9517021106e02d5babff6e7a0",
+      "sha256": "6a8a6d3891fb7fee754a246d7b943f27322b15e8d83c3f532a9f51cdc8b507d7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Rechtsmittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e84a26229d2a5d6191d8b1ede08e92da216a4c6a62fd959cf63519ca4b683c6a",
+      "sha256": "09d21abf8bcb522a5753cff3acff45a2f8f1af44a3be1fa3b2e285bed1e0fc73",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Verfahren bei Widerruf einer bedingten Nachsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc632f5837fbf25cb9603ed9ea5ef3ee4b540c1a6393ab96a8e525fb9a262729",
+      "sha256": "b9003901c1c751ec7f0ad60deb64a7021cf4c3491999e7225de5f9bdab701ed2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Verständigung der zuständigen Verwaltungs- oder Aufsichtsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9a454d3265850c7a2b764a080d5ff3c9e7cdda2fb5aa344e5a30c595063efe4",
+      "sha256": "3d5977434545892f5971feb5eb735af8809af4a252bcc4e97c139dc41ae1d0a5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 112/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/112"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Vollstreckung von Verbandsgeldbußen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b036ece6eb4637ec27c13bc7ccb67ef36ff54081fc40197148c7ec0292a421c9",
+      "sha256": "9b28c332b7648e90687f80c7e5388fea8111b2c3f2dc5a93bbf596099460ba9d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "4. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36bd3bbae89e45b5d56f39dff74a09c9a1480dc30a84c99d69bcd3f9f8675c4e",
+      "sha256": "69c5c56583633ac9337ae3432b21434824b63633cbfc7bec619adc4eae7461c1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 112/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/112"
+        },
+        {
+          "text": "BGBl. I Nr. 26/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/26"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c7d872464c6ecdd3e23486a27f3f9b4a92e0095d32311cdc4af15856f8c7f41",
+      "sha256": "af66c280a2d0e7647bf727b6b1a7c8594a948cfdea1eaef7c9315156bd7e13c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae9e008005eb197f374882b75602dcb6b230bf606f892c16b000935bd3d3d58c",
+      "sha256": "4e35c5dce6a0b6912324b8dba5630cb35a73cac2fa800044677eca2a07358b42",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Umsetzung von Richtlinien der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04bf331c1ccc81d261a500180984ddbed02b9a75e56bdb8bb3b31efa76999721",
+      "sha256": "39a9dd2fc13b4d23fd41c6b66f8bc8e85ce68f4c8a8703a14fdbe35ff6c2e3cb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 24",
+      "source_heading": "Artikel XXIV",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "art-024.md",
+      "source_context": "BGBl. I Nr. 112/2007",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7fd92b42d615297b32d3c51c34b459937641dfc8bda545e919f445fea1275d66",
+      "sha256": "f088de5e1d1e3b7bfb5908784b1e2cb5d3a9bf29be2e6c0c7109e8f0ce0a359c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 112/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/112"
+        },
+        {
+          "text": "BGBl. I Nr. 151/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/151"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

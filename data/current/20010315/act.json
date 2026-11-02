@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010315",
+  "short_title": "Kundmachung gemäß § 16 Abs. 4 des Mietrechtsgesetzes",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40208126",
+    "valid_from": "1984-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010315&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:52:10.574960+00:00",
+    "response_sha256": "7233bd47b10c90d7028c2c1e600ce731a3424f8967560f284794088bad718cb6",
+    "snapshot_sha256": "7b443d762a6e9c7f6a272178d9b3ed8197e0c535f6da44490a34a0167fec19be",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "953948c12626f23a0acc94ff6ec4c7f2d18c0f9fd26b878e51409504482b336e",
+      "sha256": "2b7c742511be0849cc7a960e3941077788647373c516d6902c9d7ee88d3be328",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Justiz vom 24. April 1984 gemäß § 16 Abs. 4 des Mietrechtsgesetzes StF: BGBl. Nr. 167/1984"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 167/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_167_0/1984_167_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cc43a644fcf76d0e7624b804aa68e87ed92ba9a2b6814df0d9591e8e09e6f00",
+      "sha256": "c6f02427744f9b37f83ed012b79073d3facbf061a8ef4b38cf6f439d21146986",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

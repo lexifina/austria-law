@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über die Meldung der Dauer des Präsenz- oder Ausbildungsdienstes StF: [BGBl. II Nr. 247/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_247_2/1998_247_2.pdf>)
+
+Auf Grund des § 37c des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 30/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Landesverteidigung verordnet:

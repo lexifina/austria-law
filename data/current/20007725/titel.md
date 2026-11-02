@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Statistik über den Übergang vom Erwerbsleben in den Ruhestand im Jahr 2012 (Ruhestandsstatistikverordnung 2012) StF: [BGBl. II Nr. 64/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/64>)
+
+Auf Grund der §§ 4 bis 10 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>), wird im Einvernehmen mit dem Bundeskanzler sowie hinsichtlich des § 7 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz über die Umsetzung völkerrechtlicher Verpflichtungen zur sicheren Verwendung von Informationen (Informationssicherheitsgesetz, InfoSiG) StF: [BGBl. I Nr. 23/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_23_1/2002_23_1.pdf>) (NR: GP XXI [RV 753](<https://www.parlament.gv.at/gegenstand/XXI/I/753>) [AB 941](<https://www.parlament.gv.at/gegenstand/XXI/I/941>) [S. 89.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/89>) BR: [AB 6549](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6549>) [S. 683.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/683>))
+
+Der Nationalrat hat beschlossen:

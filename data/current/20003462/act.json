@@ -1,0 +1,838 @@
+{
+  "sample_only": false,
+  "included_provisions": 25,
+  "source_provision_count": 25,
+  "schema_version": 1,
+  "gesetzesnummer": "20003462",
+  "short_title": "Bundesämtergesetz",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40192921",
+    "valid_from": "2017-04-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003462&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:00:28.181692+00:00",
+    "response_sha256": "9803cc4d8df7326567bfdd9793c3334094bd9145c0e0885d5bf92f29c5e648b9",
+    "snapshot_sha256": "6adf2c21e8af2d0e44fcf4869ec367a8f421e78a7aadec1521a9cb3f9564bce7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9fd5d85697cc01f4d4b321d18958e0718894c87712c791812e42ce54527eef26",
+      "sha256": "8b9a2953408475b9fb7f97a6c505ef4eb9953391fd6cfb79533ff2f87a7c63d8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Bundesämter für Landwirtschaft und die landwirtschaftlichen Bundesanstalten (Bundesämtergesetz) StF: BGBl. I Nr. 83/2004 (NR: GP XXII RV 505 AB 530 S. 67 BR: AB 7064 S. 711.) [CELEX-Nr.: 31999L0045, 31998L0095, 32003L0082]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 104/2013 (NR: GP XXIV RV 2297 AB 2341 S. 203. BR: AB 9001 S. 821.) [CELEX-Nr.: 32005L0008] BGBl. I Nr. 52/2016 (NR: GP XXV AB 1168 S. 134. BR: AB 9611 S. 855.) BGBl. I Nr. 58/2017 (NR: GP XXV RV 1456 AB 1568 S. 171. BR: 9748 AB 9754 S. 866.) [CELEX-Nr.: 32009L0128, 32010L0075] BGBl. I Nr. 90/2018 (NR: GP XXVI RV 300 AB 333 S. 51. BR: AB 10065 S. 886.) BGBl. I Nr. 131/2024 (NR: GP XXVII IA 4119/A AB 2656 S. 270. BR: AB 11552 S. 969.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 83/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/83"
+        },
+        {
+          "text": "RV 505",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/505"
+        },
+        {
+          "text": "AB 530",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/530"
+        },
+        {
+          "text": "S. 67",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/67"
+        },
+        {
+          "text": "AB 7064",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7064"
+        },
+        {
+          "text": "S. 711.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/711"
+        },
+        {
+          "text": "31999L0045",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0045:DE:HTML"
+        },
+        {
+          "text": "31998L0095",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0095:DE:HTML"
+        },
+        {
+          "text": "32003L0082",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0082:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/104"
+        },
+        {
+          "text": "RV 2297",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2297"
+        },
+        {
+          "text": "AB 2341",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2341"
+        },
+        {
+          "text": "S. 203.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/203"
+        },
+        {
+          "text": "AB 9001",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9001"
+        },
+        {
+          "text": "S. 821.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/821"
+        },
+        {
+          "text": "32005L0008",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32005L0008:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 52/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/52"
+        },
+        {
+          "text": "AB 1168",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1168"
+        },
+        {
+          "text": "S. 134.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/134"
+        },
+        {
+          "text": "AB 9611",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9611"
+        },
+        {
+          "text": "S. 855.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/855"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/58"
+        },
+        {
+          "text": "RV 1456",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1456"
+        },
+        {
+          "text": "AB 1568",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1568"
+        },
+        {
+          "text": "S. 171.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/171"
+        },
+        {
+          "text": "9748",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9748"
+        },
+        {
+          "text": "AB 9754",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9754"
+        },
+        {
+          "text": "S. 866.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/866"
+        },
+        {
+          "text": "32009L0128",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0128:DE:HTML"
+        },
+        {
+          "text": "32010L0075",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0075:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 90/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/90"
+        },
+        {
+          "text": "RV 300",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/300"
+        },
+        {
+          "text": "AB 333",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/333"
+        },
+        {
+          "text": "S. 51.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/51"
+        },
+        {
+          "text": "AB 10065",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10065"
+        },
+        {
+          "text": "S. 886.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/886"
+        },
+        {
+          "text": "BGBl. I Nr. 131/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/131"
+        },
+        {
+          "text": "IA 4119/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/4119"
+        },
+        {
+          "text": "AB 2656",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2656"
+        },
+        {
+          "text": "S. 270.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/270"
+        },
+        {
+          "text": "AB 11552",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11552"
+        },
+        {
+          "text": "S. 969.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/969"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "I. TEIL Geltungsbereich und allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e759ec37e34b189e98b1f6876f87cd80f7b1689ad6c4a37a69e67e885e64d335",
+      "sha256": "a6f1fa101abe622ab217037011fe77920d362e6d00580f2910f8b3972db3a026",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Landwirtschaftliche Bundesanstalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "578580cd303f34e32c963fa23281a5ca75e98f12b67c7e54257fe7fdcafcac6d",
+      "sha256": "4be0bc1f5a341cf1e4dee5993c3da47ce15c15898377ead2661f7c913c202b97",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 90/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/90"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Rechtsstellung der Bundesämter für Landwirtschaft und der landwirtschaftlichen Bundesanstalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9ba3617ddb59c88109f02d302ffa5dcf291bb22f8c95aafa1d16c1aa061b27a",
+      "sha256": "dabd8771dbd49b653e3450d21ab0234e4e04a9899dc40f8325cc07907e4cf8db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Aufgaben der Bundesämter für Landwirtschaft und der landwirtschaftlichen Bundesanstalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56d281f89dd03868c190fe79fcdbef1aa672f62b237cd391946b624649eb916d",
+      "sha256": "a646b422d3699a6ebfc31f26409593b6421fe0dc12bb3f7670e9ad27e5d2f945",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Organisation der Bundesämter und der landwirtschaftlichen Bundesanstalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19193fe852b0ffdad9d27cfd75d8e6d0eb74854ebc2fd981935f10f96525048f",
+      "sha256": "89e336c16f07965afc0b1bc0548298cae194503457ed089a9a87b248dd5de1f3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 85/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_85_0/1989_85_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5a",
+      "source_heading": "Teilrechtsfähigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0005a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6cd50d9ca03680070c6a092d1b1661194080cbea32ba7947cfb0699c1824aae7",
+      "sha256": "a471755810d253c8e97f087730a8f81558612d8b7b222a2764aabae26aecff13",
+      "notes": [],
+      "links": [
+        {
+          "text": "dRGBl. S 219/1897",
+          "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de"
+        },
+        {
+          "text": "BGBl. I Nr. 139/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Geschäfts- und Personaleinteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b8fd977a7496f9c619509a886496ed65307052ade2b77170110dbfb39170820d",
+      "sha256": "276a733be32261f9cbdbf16ddcbd25f369769d7ba38d34173ff7aeb4cf828f9b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Geschäftsordnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "afc90472d12358a6eaf7db5e922306a314659197fef4c4c53e8c961c6ef071f5",
+      "sha256": "4e8d320a88ec6b7d2e4f0178f87bab3784ecd44c797233ccde57bb08f4b417ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Zusammenführung von Dienststellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe22beb7d5ff8c4ae75ba432a48f4c4e9dfccb55ed72264c1495591d5ffb73e4",
+      "sha256": "52ee59930d9c9e3ac084598c82dc609a6e47d5e4fa777c5ea5fb48b3a43b6323",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 58/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Forschungs- und Ausbildungstätigkeit der Bundesämter für Landwirtschaft und der landwirtschaftlichen Bundesanstalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91dd930cc5532863296eabde7ee0f897096d852e17995bd50c5c323147f1e146",
+      "sha256": "588d8052c675318eecf32e8fc7afc004986ea463966316b367ddcdd3a14c9a76",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Veröffentlichung der Forschungsergebnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4bc6aa2628a21232f2fc22b5d05e00a2ad1b9e6fe4c1b8cf40886cdfa8d20e06",
+      "sha256": "cf6551e317a0f89587a82da239832290834fc2cf5a1f1c4e1e939ad892fa11d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Tarife",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "42db189e69a8e32dd3f6be4a1876b34ce30bb28a076f45ef420205469b8ce3aa",
+      "sha256": "8c83be475b62b258b812e9e60910752779152c294de193ec63f9d6966843ed83",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "II. Teil Aufgaben der Bundesämter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f86e6be402415dbed3b1e7602692cc262b655d500a561a27550e35083325137",
+      "sha256": "17158569ac4363cf551d2e0c73e13e742658903efac379ad0ff67bd56630c512",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Höhere Bundeslehranstalt und Bundesamt für Wein- und Obstbau",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "256fbb88ca2cf6ff9293747646c5c25d686745acd118527934363a5bebab0653",
+      "sha256": "003ab114eda54c6f0bd1cf292a2af131ecd2f859f863701e713c0408be7a4021",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Bundesamt für Weinbau",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c9b6adfe769807eb8d7762cd6ce637b9f8ae256dd0355f8787b8309663c8fcd7",
+      "sha256": "10238c9da358be64d083133b953e58d6e4a90e651e8c44651c72666cdc30e533",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14a",
+      "source_heading": "Bundesamt für Wasserwirtschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b45a667730be45f3de84bb2501afaa4f8627f668381943e270ea691ca9b8e04c",
+      "sha256": "9de4c8c4729be2252fba53d2a1463b6cd68404268ebbb23eb76818f9190a915d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 468/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_468_0/1992_468_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "III. Teil Aufgaben der landwirtschaftlichen Bundesanstalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29a48817b419afe2b269da89b4f6a319ce4683227c82902671409b04c69b866e",
+      "sha256": "4204a71f7a8aed1e01face1718d917235a2af9ae1663573bd71c839f8e15a72a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Bundesanstalt für Agrarwirtschaft und Bergbauernfragen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d8e9a2a47fad5d31a51ddb12ff4ddd811a94286ad148964540e55bc6df1e733d",
+      "sha256": "f21c1a87901c55090c687e6a56261b55e34734ce5c475a9f63448662fc067d9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [
+        {
+          "tag": "gs",
+          "attributes": {
+            "sperrweite": "1"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "gs",
+          "attributes": {
+            "sperrweite": "1"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "gs",
+          "attributes": {
+            "sperrweite": "1"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "gs",
+          "attributes": {
+            "sperrweite": "1"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "gs",
+          "attributes": {
+            "sperrweite": "1"
+          },
+          "text": "6"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Höhere Bundeslehr- und Forschungsanstalt für Landwirtschaft Raumberg-Gumpenstein",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2fdf75fddce128af7ab4323c88a9753893a11a2dc9e75e9d5d15720477fd0f7d",
+      "sha256": "e68699bdf67eee26ef6a3086f79cb384b0e6a2cb44d5cba40a60b9a03cdc28dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Höhere Bundeslehr- und Forschungsanstalt für Landwirtschaft und Ernährung sowie Lebensmittel- und Biotechnologie in Tirol",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29aa4543ae822b990efb55fbef6592258dc96c7e4f7196bac14fccb71f141376",
+      "sha256": "702e7932c781d1f0d266cbd1700c51f616f03e9f2e92d7d3e22c86d17a0caee6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Höhere Bundeslehr- und Forschungsanstalt für Landwirtschaft, Landtechnik sowie Lebensmittel- und Biotechnologie Francisco Josephinum in Wieselburg",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d47a53d69c3744a0f4bdc7cd5c44e3df2e8746f40078f232873ba3f3cfccb9a1",
+      "sha256": "ada77d67658d6fad175130770925c1de41fecc4db27879c620c1636a85799c14",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Höhere Bundeslehr- und Forschungsanstalt für Gartenbau und Österreichische Bundesgärten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8885a90ed24a70c8139fa9cedd61e85a4bcbc8898c1e6f64c0074f788aedac9",
+      "sha256": "8bb610f2bf15511197cbc8dd17204e8327a8be736cc220da3e709ecc63c8d42b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "IV. TEIL Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79451222da0588aedc4a54345a36cf164278806ad68741ded6d7087cc242d5bb",
+      "sha256": "981fc99a698d2664e7bda04e52f3903b7c4dd1145f4d7e2810e8c417a278b727",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 515/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_515_0/1994_515_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_59_1/2002_59_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 90/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/90"
+        },
+        {
+          "text": "BGBl I Nr. 90/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/90"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/104"
+        },
+        {
+          "text": "BGBl. I Nr. 52/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/52"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/58"
+        },
+        {
+          "text": "BGBl. Nr. 516/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_516_0/1994_516_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. I Nr. 131/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/131"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d9a305207b174b2f713e9d39681d18d0590f3008a71c1c98e04b79402ef21a7",
+      "sha256": "27c450733cdb7c516cede1541d456f8d3931d9d2ccc889f50a6a2530b062b4bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

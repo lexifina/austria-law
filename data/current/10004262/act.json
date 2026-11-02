@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004262",
+  "short_title": "Zollbehandlung von Paletten",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004298",
+    "valid_from": "1977-09-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004262&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:27:41.530136+00:00",
+    "response_sha256": "3ab9d0ddedd607bba566de4057ca1ae8f808b600c20b4ab12b20dd48c1f4c377",
+    "snapshot_sha256": "108b236cdb9eb6796bf46217c9bd86d0064801194de1d10db08af1983309f432",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55da1853348d6776c5ac4128e54ae327bdf9d8634a734ae72ab62e564963516f",
+      "sha256": "e282fe8dad47efe1de3e660aa2645d29fb7e40b91147c0fbb0a11b064b198420",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 13. September 1977 betreffend den Beitritt der Türkei und der Deutschen Demokratischen Republik zum Europäischen Abkommen vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: BGBl. Nr. 486/1977"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 486/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_486_0/1977_486_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69b1411da562e9381620c4423a2fd86b79d2cc5e068a0f44e428afa58f4783fb",
+      "sha256": "63f4abd346383cb4af93c17f05f65924ad79850c14f0d80ce4c5a9dbe5ce41e1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 20/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_20_0/1964_20_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 231/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_231_0/1973_231_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

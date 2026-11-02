@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001050",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters von Spittal an der Drau",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001053",
+    "valid_from": "1990-02-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001050&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:40:36.722158+00:00",
+    "response_sha256": "31a96f0d5fffc45824457df37a84a10d1c3c197c4daddff68db638c4b4627ebe",
+    "snapshot_sha256": "c20b8ae8dbe7b69182fa15d54af7b4c8656ddf57ae3d6ddac221a4239bbb67e0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "351c8b31c7b1919660f150311ce38d81afafd03bc0f79f0533c628d26ffd3d5c",
+      "sha256": "93940d3438cdf10270b6c32a7bfbf132749efe0c3ac590f9f8e4aec2405cbaaa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 30. Jänner 1990 über die Aufhebung der Z XVI des § 1 der Verordnung des Bürgermeisters der Stadtgemeinde Spittal an der Drau, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 91/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 91/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_91_0/1990_91_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bad0f4d5f5e2c07bcae326d9e0eec28aaffac55e9b4245dbf5e8c72c51502e4e",
+      "sha256": "9851b621bb42f2b5cfb0889c5a370fd5a0d6b02bba83b29557806dbea0fcccde",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

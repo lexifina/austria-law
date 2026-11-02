@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 5. April 1963, betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht durch die Niederlande. StF: [BGBl. Nr. 98/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_98_0/1963_98_0.pdf>)

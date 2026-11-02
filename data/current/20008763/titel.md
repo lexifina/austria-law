@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend über Standesregeln für das Gewerbe der Elektrotechnik StF: [BGBl. II Nr. 12/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/12>)
+
+Auf Grund des § 69 Abs. 2 der Gewerbeordnung 1994, [BGBl. I Nr. 194/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_1/1994_194_1.pdf>), zuletzt geändert durch das Bundesgesetz, [BGBl. I Nr. 125/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/125>), und die Kundmachung, [BGBl. I Nr. 202/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/202>), wird im Einvernehmen mit dem Bundesminister für Arbeit, Soziales und Konsumentenschutz verordnet:

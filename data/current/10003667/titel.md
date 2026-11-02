@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über die Heranziehung von währungspolitischen Instrumenten der Europäischen Zentralbank zur Feststellung von Veränderungen des Basis- und des Referenzzinssatzes (Basis- und Referenzzinssatzverordnung) StF: [BGBl. II Nr. 27/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_27_2/1999_27_2.pdf>)
+
+Auf Grund des Art. I § 1 Abs. 3 des 1. Euro-Justiz-Begleitgesetzes, [BGBl. I Nr. 125/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_125_1/1998_125_1.pdf>), wird nach Anhörung der Oesterreichischen Nationalbank und nach Befassung der Europäischen Zentralbank verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 5. Juli 1990 über die Lehrverpflichtung der Lehrer an forstlichen Ausbildungsstätten des Bundes und der Bundesanstalt für Milchwirtschaft StF: [BGBl. Nr. 557/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_557_0/1990_557_0.pdf>)
+
+Auf Grund des § 7 Abs. 1 des Bundesgesetzes über das Ausmaß der Lehrverpflichtung der Bundeslehrer, [BGBl. Nr. 244/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_244_0/1965_244_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 287/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_287_0/1988_287_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Gesundheit und öffentlicher Dienst und dem Bundesminister für Finanzen verordnet:

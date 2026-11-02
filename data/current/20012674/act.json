@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012674",
+  "short_title": "Errichtung einer weiteren Notarstelle in Villach",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40264902",
+    "valid_from": "2024-09-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012674&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:41:00.471064+00:00",
+    "response_sha256": "9e59851ed131fa3afa606e2316e230f666f0db37434ef80a7e4abcb1fb1ddcae",
+    "snapshot_sha256": "def106f3f2f89dc821461e3cd29fc8b0f10545c5088a5d081802bcb84a73ec07",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d541ddb4dcca4fa8f79be06948c9ac6893f04ab134a8020d026204448731996e",
+      "sha256": "715dfd833fe7edc4b0f39acf12b8a2a85b4a8fa82bd4f3eccd4f9ceb1dcc29c2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Villach StF: BGBl. II Nr. 236/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 236/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/236"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 147/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/147"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b52102d66240560ef7169c58ce83bb102ad660605d3d0a1a9e9d1e5129ecfe8",
+      "sha256": "f7bddf089241d0784f8c86c7024f0c59c658caedac107ef4eb21397b059ed223",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

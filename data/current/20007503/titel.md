@@ -1,0 +1,3 @@
+Bundesgesetz über ein System für den Handel mit Treibhausgasemissionszertifikaten (Emissionszertifikategesetz 2011 – EZG 2011) StF: [BGBl. I Nr. 118/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/118>) (NR: GP XXIV [RV 1393](<https://www.parlament.gv.at/gegenstand/XXIV/I/1393>) [AB 1460](<https://www.parlament.gv.at/gegenstand/XXIV/I/1460>) [S. 124.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/124>) BR: [AB 8608](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8608>) [S. 802.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/802>)) \[CELEX-Nr.: [32009L0029](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0029:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

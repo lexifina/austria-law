@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und die Abkürzung der Bank für Internationalen Zahlungsausgleich in spanischer Sprache StF: [BGBl. II Nr. 558/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_558_2/2003_558_2.pdf>)

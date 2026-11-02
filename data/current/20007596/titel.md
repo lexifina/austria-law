@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Datensicherheit (Datensicherheitsverordnung TKG-DSVO) StF: [BGBl. II Nr. 402/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/402>)
+
+Auf Grund der §§ 94 Abs. 4 und 102c des Bundesgesetzes, mit dem ein Telekommunikationsgesetz erlassen wird (Telekommunikationsgesetz 2003-TKG 2003), [BGBl. I Nr. 70/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_70_1/2003_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 102/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/102>), wird, hinsichtlich der §§ 1 bis 4 und 8 bis 25 im Einvernehmen mit dem Bundesminister für Inneres und dem Bundesminister für Justiz, verordnet:

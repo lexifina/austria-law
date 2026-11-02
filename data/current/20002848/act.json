@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20002848",
+  "short_title": "Bundesstraßenplanungsgebiet im Bereich Deutsch-Wagram, Gerasdorf bei Wien, Pillichsdorf, Wolkersdorf im Weinviertel und Großebersdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003096",
+    "valid_from": "2003-08-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002848&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:53:13.334718+00:00",
+    "response_sha256": "dd0b51d5014740d376240ca63634ae55c7cfea6aedf4ee04e48b6295b25b9e53",
+    "snapshot_sha256": "fd320e32cd63b87370175d3438076acfe7c5c12b2771af52636ecc3eab23e466",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e5970abb2a685aa8820553bfe72bd8d0ba70a7e0bfbda694f8237d0a6edd579",
+      "sha256": "da58a9161c704ab0244c5da4a1e386653af53d523a35f25b2a61efcff428f756",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Deutsch-Wagram, Gerasdorf bei Wien, Pillichsdorf, Wolkersdorf im Weinviertel und Großebersdorf StF: BGBl. II Nr. 354/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 354/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_354_2/2003_354_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_50_1/2002_50_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91db797d329c21449fcaf41e1ebe6a9bff49ca2f76301bdbefa34d26781b9a1c",
+      "sha256": "c100728030cb5f689b5e44a8f3ec3208de639a54beb33b8f257f7cbccfc3f2aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86ac4df5ded288891d1db5cc2b042a09be1e238f1fe5f70a4e4232390bc6b03b",
+      "sha256": "933c5c77907e5aa5206650e186fbd08221ccd86c8f84f81deadb7f7f985c16e0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

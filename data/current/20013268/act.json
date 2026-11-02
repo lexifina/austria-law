@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20013268",
+  "short_title": "Errichtung einer weiteren Notarstelle in Wien-Simmering",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40280430",
+    "valid_from": "2026-08-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013268&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:56:40.371133+00:00",
+    "response_sha256": "a0d1c1cd3f6837318ea56e6c0e039c4594d26486fd6dfb7b67e2b01ae5a9b03f",
+    "snapshot_sha256": "ffa6d53b74035d2faddb1f0aa7ad110067324bf72826fbe2df824d0d19186b52",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a4d2ae89891f02dc5299c4c2e1fe17e53689ffa26333e243b1e75f0126aa23d",
+      "sha256": "58401c8d50d65b87c847752770fcba2cdc33900c1d90853627980dc60e54019d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Wien-Simmering StF: BGBl. II Nr. 237/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 237/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/237"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 23/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/23"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf1630b1f43a5632bfbe64ec496f4b5bd8753ef3757ee0886df8af8d600f1676",
+      "sha256": "467cfbfe6836bf3b405f52cc53ffa70ae3affe126ba2cbc1c610cdf73ef4b4aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10006981",
+  "short_title": "1. Hochleistungsstrecken-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008112",
+    "valid_from": "1998-11-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006981&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:00:16.236637+00:00",
+    "response_sha256": "9ebd1c68a70e1556b90c367235ecbafd0155be06f9c28f41cc1631cec46d13ee",
+    "snapshot_sha256": "0e4d85552050c76f0bf83309ec302107018e388abc2f3ba45d0fff52f69c4e9a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6a0c38e3d7b19dfcf8604021b88974432912f50a63484e11645be575180e50da",
+      "sha256": "3cf5662eb925cb3a0492403ca27b9b34bd69f57fd4f0cc3bd8717829366766f7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung über die Erklärung von Eisenbahnen zu Hochleistungsstrecken (1. Hochleistungsstrecken-Verordnung) StF: BGBl. Nr. 370/1989"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 397/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 370/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_370_0/1989_370_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 397/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_397_2/1998_397_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 135/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "addc0ed369ed7fc1e54a6d3c0a6c17ceaa32b474293087813a9ff22bd279cf46",
+      "sha256": "4b074fc247e861391548a0e2e79f2e462908d69bb78f2284457b9324fc59a3cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

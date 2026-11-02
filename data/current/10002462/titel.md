@@ -1,0 +1,3 @@
+Bundesgesetz vom 8. März 1979, mit dem Bestimmungen zum Schutz der Verbraucher getroffen werden (Konsumentenschutzgesetz – KSchG) StF: [BGBl. Nr. 140/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_140_0/1979_140_0.pdf>) (NR: GP XIV [RV 744](<https://www.parlament.gv.at/gegenstand/XIV/I/744>) [AB 1223](<https://www.parlament.gv.at/gegenstand/XIV/I/1223>) [S. 122.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/122>) BR: [AB 2003](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2003>) [S. 385.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/385>))
+
+Der Nationalrat hat beschlossen:

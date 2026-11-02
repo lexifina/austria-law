@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Grundausbildung für die Bezirksanwältinnen und Bezirksanwälte StF: [BGBl. II Nr. 354/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/354>)
+
+Auf Grund des § 67 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>), in Verbindung mit den §§ 25 bis 31 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>), wird verordnet:

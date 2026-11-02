@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 21. Oktober 1968, betreffend Hoheitszeichen der Republik Malawi StF: [BGBl. Nr. 387/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_387_0/1968_387_0.pdf>)

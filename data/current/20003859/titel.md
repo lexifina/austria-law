@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz über die Ausnahme der ZiviltechnikerInnen von der Pflichtversicherung in der Pensionsversicherung nach dem Gewerblichen Sozialversicherungsgesetz StF: [BGBl. II Nr. 534/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/534>)
+
+Auf Grund des § 5 Abs. 1 bis 3 des Gewerblichen Sozialversicherungsgesetzes (GSVG), [BGBl. Nr. 560/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_560_0/1978_560_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/142>), wird verordnet:

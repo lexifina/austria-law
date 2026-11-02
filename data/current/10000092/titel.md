@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 26. November 1927, betreffend die Feststellung des Verfassungsgerichtshofes in der Frage der verfassungsgesetzlichen Zuständigkeit zur Erlassung von Gesetzen, betreffend Zwangsarbeits- und Besserungsanstalten. StF: [BGBl. Nr. 345/1927](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=345/1927&amp;SkipToDocumentPage=True>)
+
+Auf Grund des § 56, Absatz 4, des Verfassungsgerichtshofgesetzes vom 18. Dezember 1925, B.G.Bl. Nr. 454, in der durch die Verfassungsgerichtshofgesetz-Novelle vom 26. März 1926, B.G.Bl. Nr. 77, bewirkten Fassung wird kundgemacht:

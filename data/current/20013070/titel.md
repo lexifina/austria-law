@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der für das Jahr 2026 Mangelberufe für die Beschäftigung von ausländischen Fachkräften festgelegt werden (Fachkräfteverordnung 2026) StF: [BGBl. II Nr. 316/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/316>)
+
+Auf Grund des § 13 Abs. 1 des Ausländerbeschäftigungsgesetzes – AuslBG, [BGBl. Nr. 218/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 87/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/87>), wird verordnet:

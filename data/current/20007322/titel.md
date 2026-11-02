@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit zur Bekämpfung der Tuberkulose in Rotwildbeständen (Rotwild-Tbc-Verordnung) StF: [BGBl. II Nr. 181/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/181>)
+
+Auf Grund des § 1 Abs. 5 sowie des § 2c des Tierseuchengesetzes (TSG), [RGBl. Nr. 177/1909](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=177/1909&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 36/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/36>) und die Novelle des Bundesministeriengesetzes [BGBl. I Nr. 3/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/3>), wird verordnet:

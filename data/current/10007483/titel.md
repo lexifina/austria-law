@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend die Errichtung des Terminals Graz (Bestimmung des Geländestreifens) im Zuge der Hochleistungsstrecke Mürzzuschlag–Bruck an der Mur–Graz (einschließlich Güterterminal)–Staatsgrenze bei Spielfeld/Straß StF: [BGBl. Nr. 733/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_733_0/1994_733_0.pdf>)
+
+Auf Grund des § 3 Abs. 1 des Hochleistungsstreckengesetzes, [BGBl. Nr. 135/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 576/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_576_0/1989_576_0.pdf>) wird verordnet:

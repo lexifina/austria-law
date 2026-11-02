@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002485",
+  "short_title": "Abkürzung - ESARIPO",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002508",
+    "valid_from": "1980-05-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002485&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:48.001032+00:00",
+    "response_sha256": "b55d564e7435ad2aa1718889e21c7ad8b6e06c3452dd11069481f726b2737c1f",
+    "snapshot_sha256": "07bc5527186c239d5900dc07277ed90a8b6e70a00911b51dce386902a9511254",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b058ea9374a4114f2836d210968fd8078fda0dc7fabe73d6dce75a45c7a26206",
+      "sha256": "0a2f334e1a524a6518bc1d0ef6a5c7a70e371a156945960da0e21db6276b002b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. April 1980 betreffend die Abkürzung der Bezeichnung der Organisation für gewerbliches Eigentum des englischsprachigen Afrika StF: BGBl. Nr. 210/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 210/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_210_0/1980_210_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95b12abd531bbae64908c8b06dc0095727c2fb72b35fb7edc154f55d6ac89f3e",
+      "sha256": "d2e068cb723d938ccca9e053100cccc9f3df6c7fa8cffc89ad32c92676bb03e5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

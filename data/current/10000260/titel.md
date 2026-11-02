@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 14. Juli 1954, betreffend Feststellungen des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung hinsichtlich der musikalischen Produktion, des Musikunterrichtes und der Einrichtung einer zentralen beruflichen Vertretung der erwerbsmäßig tätigen Musiker. StF: [BGBl. Nr. 208/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_208_0/1954_208_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, werden folgende Rechtssätze kundgemacht, in denen der Verfassungsgerichtshof die Feststellungen seines Erkenntnisses vom 22. Juni 1954, K II-6/54/16, zusammengefaßt hat:

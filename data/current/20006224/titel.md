@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft, Familie und Jugend über die Aufhebung des § 6 Abs. 2 dritter und vierter Satz der Satzung der Vorsorgeeinrichtung der Kammer der Wirtschaftstreuhänder durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 63/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/63>)
+
+Gemäß Art. 139 Abs. 5 erster Satz B-VG und des § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 4/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/4>), wird kundgemacht:

@@ -1,0 +1,1798 @@
+{
+  "sample_only": false,
+  "included_provisions": 47,
+  "source_provision_count": 47,
+  "schema_version": 1,
+  "gesetzesnummer": "20007012",
+  "short_title": "Theaterarbeitsgesetz",
+  "abbreviation": "TAG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40123198",
+    "valid_from": "2011-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "[CELEX-Nr.: 32019L1152]"
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007012&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:54:27.545629+00:00",
+    "response_sha256": "962b0e3c1d41f86e286e0f7fb5399aa3e9f3ae36c8bd328f0e681a179b2b343c",
+    "snapshot_sha256": "c2aac027b8a51b8904b59acdfdc0661d9037910b9654753f623c337025b13e67",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4d511660549482108b06e2e397d96704eae9af30572ff4b3e190734fd681775",
+      "sha256": "72e37769d62d12e4b569abf76d772d108d9eabbd6ecd0731322d79c41f42ab5b",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "[CELEX-Nr.: 32019L1152]"
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Arbeitsverhältnisse zu Theaterunternehmen (Theaterarbeitsgesetz – TAG) StF: BGBl. I Nr. 100/2010 (NR: GP XXIV RV 936 AB 976 S. 83. BR: AB 8414 S. 790.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 138/2013 (NR: GP XXIV RV 2407 AB 2504 S. 215. BR: 9079 S. 823.) BGBl. I Nr. 94/2024 (NR: GP XXVII RV 2605 AB 2690 S. 272. BR: AB 11555 S. 970.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "32019L1152",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1152:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/100"
+        },
+        {
+          "text": "RV 936",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/936"
+        },
+        {
+          "text": "AB 976",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/976"
+        },
+        {
+          "text": "S. 83.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/83"
+        },
+        {
+          "text": "AB 8414",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8414"
+        },
+        {
+          "text": "S. 790.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/790"
+        },
+        {
+          "text": "BGBl. I Nr. 138/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/138"
+        },
+        {
+          "text": "RV 2407",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2407"
+        },
+        {
+          "text": "AB 2504",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2504"
+        },
+        {
+          "text": "S. 215.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/215"
+        },
+        {
+          "text": "9079",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9079"
+        },
+        {
+          "text": "S. 823.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/823"
+        },
+        {
+          "text": "BGBl. I Nr. 94/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/94"
+        },
+        {
+          "text": "RV 2605",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2605"
+        },
+        {
+          "text": "AB 2690",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2690"
+        },
+        {
+          "text": "S. 272.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/272"
+        },
+        {
+          "text": "AB 11555",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11555"
+        },
+        {
+          "text": "S. 970.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/970"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Abschnitt 1",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Abschnitt 2",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Rechte und Pflichten des Mitgliedes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt und Aufzeichnung des Bühnenarbeitsvertrages",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beginn der Vertragszeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bühnenarbeitsvertrag auf Probe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feste Bezüge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entlohnung von Vorproben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Spielgeld",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anspruch bei Arbeitsverhinderung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Reisekosten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bereitstellung von Bekleidung, Ausrüstung und Schmuck",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fälligkeit der Bezüge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Öffentliche Bekanntmachungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Interessenwahrungspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Urlaub",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistungsort",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflicht zur Teilnahme an Proben – Arbeitszeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Recht auf Beschäftigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rollenverweigerung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Konkurrenzverbot",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Haftung für abgelegte Gegenstände",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Konventionalstrafe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ordnungsstrafen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ende des Vertragsverhältnisses",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kündigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Freizeit während der Beendigungsfrist",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nichtverlängerungserklärung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Insolvenzverfahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dauernde Schließung der Bühne",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorzeitige Auflösung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entlassung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Austritt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtsfolgen der vorzeitigen Auflösung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vereinbarung des Rücktrittsrechts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rücktritt vom Vertrag",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtsfolgen des Rücktritts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verschuldensausgleich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Frist zur Geltendmachung der Ansprüche",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zwingende Vorschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhältnis zu anderen Gesetzen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gastverträge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vermittlung von Bühnenarbeitsverträgen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Abschnitt 3",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Regelungen betreffend andere Theaterarbeitnehmer/innen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Theaterarbeitnehmer/innen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ruhezeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Abschnitt 4",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten und Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Abschnitt 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a011899947c4f4736592e422350f030f6dc09cd93ba84832fd81dc1cfa5ef1f1",
+      "sha256": "990a5aaac3e9e1133ba15748ef0391dbc798b2bfdd092674e807b375a3dca7b7",
+      "notes": [],
+      "links": [
+        {
+          "text": "dRGBl. S 219/1897",
+          "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da7a20ff360509817e872a84dc9e94311bec7a1b981a79ad549451df0126251b",
+      "sha256": "2dd7cbb928662e8a2660f0cd6f3c18dc4967730e8000729cf6e3c35a2a20c90a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Abschnitt 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab673456a1ad7956aa987081ecbb55c69fff0bce31c41c9d1e0929a8925a3946",
+      "sha256": "5a2c63abe83248afb7091e45764eec890df5541709c0c59eaab926c7b4ff53ff",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 22/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 459/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_459_0/1993_459_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Beginn der Vertragszeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9de29cf2c7cc82b57b79d7b38db2f8656e6dcac2572fb7bb65383a95318cdd14",
+      "sha256": "c05c9a9b48bd216ffde88169565b905cecf6d8af49fd84e7832cdbad26d800a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Bühnenarbeitsvertrag auf Probe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3f50da1cd01329e9ac39e602b5ab0888e3f1d5a5813d704857c81174b782f7f",
+      "sha256": "48dbb047edb114b474cb3a5a43f336457d9426887a9188b89b73ed348f954d21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Feste Bezüge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20b0075329c02745963d4a3460928061e646b56f3bb638ec5a09009d139481cf",
+      "sha256": "2eb110753bf79d6da8f41d0682f1f9df64a01daf24af3e8c22c0ccd63cb2ae20",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Entlohnung von Vorproben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f83bdb59f184dd8ba005d68ea1dfae14252aaa636252e6fd80fd1b63a140175e",
+      "sha256": "af73a7481efe8d19c5749bbbdbab8b6bb9fb0e637026435cfd1532c76ff1fcc4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Spielgeld",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06bfc9a98e7e5027e7749b6d9fb21c84540645bca2849c290d7bc395649c681e",
+      "sha256": "99cf0a77e1d4a37ee9e31b106e0681fa3b683ab5d0d175ac604842d95178f630",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Anspruch bei Arbeitsverhinderung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0acdea7c2f23df093d7bdfdc1e87987f2d1ea7b042de6e7498bf6f26a619e369",
+      "sha256": "3d91b9485581fe8c6f91f1a2d76e49a3be281e2ca77bd5ce25310f05d40dbb81",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Reisekosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7389185af714a3a90b9b688fe45425b6b26141a19c26903032802954148fdb92",
+      "sha256": "42575bd2239a09f63311068332769e626abdc58714ea1a165e80d0062d3464bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Bereitstellung von Bekleidung, Ausrüstung und Schmuck",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e05d1a825735965e19f2709a67da2dec6a4713f2b7e2dfe40153fe6b6e6e9a8",
+      "sha256": "dacb4b4a772ebff4dbbcdab06792f1da3477c2d1b00afb9db0a40da84bac3feb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Fälligkeit der Bezüge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4642e14bedcd6b304ecc111dd242722a70c2eb38f902f50090fe8877dce3c0e5",
+      "sha256": "9c8f9360aa8fff580abce4051a4fcd26955d1bda81d3088da519c714ad80f14d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Öffentliche Bekanntmachungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31ad215d7fc3da74d778cd0c55e4b43844e11fb58e857d9b85a0980643696964",
+      "sha256": "5d30b53589cdbf586a7c0158900630399c010c84b02fd5b1a2cba78fbfb81d67",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Interessenwahrungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "365ae8244b2a03bd3d54763567e7a501685af11af576673e07e35e15913e2c82",
+      "sha256": "3e689106f6df320cfb00c4c68eef56568fbff59dbc6f7714dc333b5d164c84da",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Urlaub",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0766de44871e6915c7107fa739f75d45618e03744133ae1f59d45ea8ad4bbb0b",
+      "sha256": "9a73977fef09baa968ee33f10790b9ce16a7abf796e7d4597c01b341f8836222",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 390/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_390_0/1976_390_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Leistungsort",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0ff9a1bde9ce99582e32255d1dafb50b69151e0f99d7b01d65e5434fc3e9e42b",
+      "sha256": "a80d91c9e1dd1ca1b5d92880bbe1ae88bd7879507f20b363d98ad2e1ed4a8929",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Pflicht zur Teilnahme an Proben - Arbeitszeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f5817820d7231a8e955e095bf9a2cb3fdf75450fa362f7111f29b3b17fa5cdf",
+      "sha256": "7a137c6f23ee90c4a04e7b6655f65ce138a3de7306e78d6012712daa489a76a5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 461/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_461_0/1969_461_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Recht auf Beschäftigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d845d603385c50b0d492d9444f63c7a239c7fb7a3c126e5efd2c56199b87409c",
+      "sha256": "ae057d77d2e609bfc74b16a30f70c6e67463769386b1ca5fa8692f3e223f5b46",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Rollenverweigerung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32af005504a93bb3e04111208d872479a4a5771dc51d5d3e07572c8917fc5734",
+      "sha256": "a519b78361399a5db4548c58a93c55a0c528a2d3c3276cb04bab170e28970b5c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Konkurrenzverbot",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0710b0b4af23e2e6ea8d5ebd540bc214399059dc6784a26c58bc6b7d5d23b88a",
+      "sha256": "c4a2fedde6f20cad4b9ade7acb74799366aa12f72b13573493f1c59d2396d7b2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Haftung für abgelegte Gegenstände",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0a68fcc8925d99ea76e752eceaeefd3ee8378440b384ea352ef7f0606f27e5b",
+      "sha256": "0e3a2075b2eee01f28fa2bd0d790e6454f9d7ef64eca71664b8a1fdfb4e431c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Konventionalstrafe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "071b61739030a26ceaec4829effa04e76e0195495775bbb905d2fe68caf7595a",
+      "sha256": "d94c9c3deba6eeff907227329027f70afb141063eda1c766e0495b14caffa491",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Ordnungsstrafen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4856ba64f6e83c7bd68e14f5173e3f0e8863b6fa2794fccafa31641ba65f3063",
+      "sha256": "fea0065c0e558342bc16911307be57f6aec0b1b78dcbeab854728749ad318371",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Ende des Vertragsverhältnisses",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "039f28b37dcb4aea34689f96320a4c6df827210bc0b6bdbf46fca6094b999e6f",
+      "sha256": "7154081de1be731d5b2588f8b0e382aea95bed600abc170cc3df2110c1a51db4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Kündigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6cfb4b4e0c8a93313024974112a4e3617f3cb3d1f5e734aa3448df78745a972",
+      "sha256": "8bf5fba0df036cddca32b952c30670aabed63be5f68e9aba5ef1b4fe7eedba91",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Freizeit während der Beendigungsfrist",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2ecb13321ce3110d6053f61119475a8a44766c38f98eb27f2e3bbba30a970a8",
+      "sha256": "11bc1aef530c94c325cd86e9a3b5d8e51e335dcdd67ed729ce005f2b8e656601",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Nichtverlängerungserklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c9230f1defed5fb9161f61cef020725efcb5b13cf03c8288e4ddc5172a75974",
+      "sha256": "f9200ae7fe85ae083a684d5c53b4d6921a9db18670f0a4839b2769702bc8c9eb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Insolvenzverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d591e73743cf65da467b521649ac130b674b707a414112c741c8cddb7e6137c0",
+      "sha256": "09c834bd163c3cb89587f1aece41c74831fcf73297e80c07c4eef4f8febd3f3b",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 337/1914",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=337/1914&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Dauernde Schließung der Bühne",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1956f50a51f8605e588668e442b6dcf30ee2acfbc1b34b5b306a67b04970c56",
+      "sha256": "34047e51cc34a13ff31f421e8af5e398876b3adb9edccd1cbcbc8b8beba15470",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Vorzeitige Auflösung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e8cab1354740179366dc5e6dd75ed6d152b52e15a18f9ce15adaa2ac9224fdb",
+      "sha256": "51e53c33564ec6744821bec24fc9640992e25e305bbe90986014ac9c2c47ba43",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Entlassung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de1c7b89ebc95ab350a9f3bc7c9bc2e367ceea192cb961b35eef0a60b272b565",
+      "sha256": "e2a6f9ae61a6db0f4f866a9703367f404357f01f9ea8dbbdb267bb797ebf1127",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Austritt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62be4ef40478517781f9fc1bd290fd5a5fcfd1fb78e1190043ea2a3364ecc318",
+      "sha256": "2deb020db0aae84a76dac1d841deb8052768ac8c0aa6f8cffcfc8b6b1a340749",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Rechtsfolgen der vorzeitigen Auflösung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33a4145b23528c42c69adde19aec4b57691913c83b2021002d5459e509494852",
+      "sha256": "b4e4dfd8df760ff83e81e6ca6ba7b54b487d4677c18c0b5e28fd84d0a3e312b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Vereinbarung des Rücktrittsrechts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8bdf42ae55da9bc25fd1c209e459661bd188a860b1dabf7a5175bb5bedbd692d",
+      "sha256": "b2272af43c624c7d072af3b5b2bb922427cbb6d1913d0ad7688248081607b5a2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Rücktritt vom Vertrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "675d3a5138a6d204ae298d9f909089d121f2acdc43d3a30ef6ff1d3e81213298",
+      "sha256": "937295f7ef0d539b0a2e14a8ab57e5763b7906e5b00b16c37f7d4bca49952661",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Rechtsfolgen des Rücktritts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2017c8149f2a755d7b5cf56ae8432a0235305fd1ad3b2a3eade2f8aec1eaeaa",
+      "sha256": "649ccdd2eaff0aa57eb24fc56ff40a8c98db3ff40d4ee1b5ca6604a07e5ca917",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Verschuldensausgleich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "460be832458a5d925df1bfee812507de31399d441ae010dd7da2e1b4472e663e",
+      "sha256": "fcd3f6d749e8e4cb0356fdbba1d56642ca863868f09e994ce5e596535d2e71ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Frist zur Geltendmachung der Ansprüche",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5901fdadedd8ccf4b84459ed7a5931de8f0c1807b933692671eb7e4b9f27ee20",
+      "sha256": "3b15773587d6ba2e23746dfc414e4a86f863237299428d7c51fca8df55427a09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Zwingende Vorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6bd31fe19f81c54017c8761ce8afcc1a6e1867bc0e81d4ee3ec68ce757809c5d",
+      "sha256": "bc87ba2009bc278aec139124a59a834ec6ad1fe01781b9ed092b18fc9563ef86",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Verhältnis zu anderen Gesetzen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3034bcec984300770e57d18ffa6f0286319cfd4f5ce3a6b2c79c31aa4258b478",
+      "sha256": "a417997e2f78df745e5b3ebd4d11c1015c739c4dae52098a8289b73a0c6e1486",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 292/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=292/1921&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 104/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_104_0/1985_104_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Gastverträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35d0dbc8fdded54e609f57988084b07f549fcf67b4aa49249dd8e3714e5d7092",
+      "sha256": "b143d05e13d46b64b02154c738224b9322244f911b2882b2347cd5db1520b6f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Vermittlung von Bühnenarbeitsverträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b2e532d376df834b527f27e26f08d8e4fa4d807fde38067efc5d256a90ffe5f",
+      "sha256": "e31323c1662b5691dbaa3b1c7c6c921ae5b65c866f40aa5e9f557eb78170b75a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 31/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_31_0/1969_31_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Abschnitt 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d385379c5ddb092fbfa701039496ee46ca8c47205f17c85c4aaeadc77dee135d",
+      "sha256": "9f48dcd6449289f152fa800eba17b354ffb4677168f52efab85a832b7afb613f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Ruhezeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bec2adec5fe66ef26e43ac05eb2fb5b3a48dd830735e5360a2b912263563bdbd",
+      "sha256": "536d33e71850c8b15625b3c592ca2ca80133f3b766ef7bb725ce8f0a7852a742",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Abschnitt 4 Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b57ddd7d4bb9d4a3e2bfafbd3f050ce82300dde09e402d88c263c5fe5ca05c1a",
+      "sha256": "6620dda1a5d243fd67bab8cc4a89446d5b729133a49a086024b682600548e84a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Inkrafttreten und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07ec07f40979d0308c34e4385907b7e62bfedd1091680dc08b790d6d87741be0",
+      "sha256": "8645cdfa4214e2a24c0482108016dd75b49a502c74badacb997bf98e2fe19cbd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 441/1922",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=441/1922&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 94/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/94"
+        },
+        {
+          "text": "BGBl. I Nr. 94/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/94"
+        },
+        {
+          "text": "BGBl. I Nr. 94/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/94"
+        },
+        {
+          "text": "BGBl. I Nr. 138/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/138"
+        },
+        {
+          "text": "BGBl. I Nr. 94/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/94"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

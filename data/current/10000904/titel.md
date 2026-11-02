@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Gesundheit und Umweltschutz vom 6. März 1987 über die Aufhebung des § 6 Abs. 1 erster und zweiter Satz der Satzung des Versorgungsfonds der Bundeskammer der Tierärzte Österreichs sowie der Beschlüsse der Hauptversammlung der Bundeskammer der Tierärzte Österreichs vom 1. April 1978, vom 31. März 1979 und vom 29. März 1980, mit denen die Fondsumlagen für Mitglieder festgesetzt wurden, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 107/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_107_0/1987_107_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und §§ 60 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

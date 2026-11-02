@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über die authentische dreisprachige Fassung des Abkommens über die Internationale Zivilluftfahrt (Chikago, 1944) StF: [BGBl. Nr. 263/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_263_0/1992_263_0.pdf>)

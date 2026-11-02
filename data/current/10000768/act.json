@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000768",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000770",
+    "valid_from": "1983-06-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000768&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:35:45.311049+00:00",
+    "response_sha256": "68bc4b8f2fb5e0d09045e7bd743f58bb90a015aedc0e8ffcdd99e385e731d1ab",
+    "snapshot_sha256": "54762f3e1dbd91ad9aa765ef915076b6a468bb4507c4da458889f51822172962",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1305d4022fa9d12996ee60524303860a7b0c7612265999ba0391983bdc93bf78",
+      "sha256": "984ffa49b3e9a61bac8ae4927ce863f5dc761e7a87a4b8f06e4ddcdee9a43201",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 17. Juni 1983 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung eines Gesetzes über die Errichtung von Bezirksgerichten StF: BGBl. Nr. 339/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 339/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_339_0/1983_339_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec88b80d7d5b3c19fe5cb9cda161f6600118d2292ad0d8cb6e274c1ed1a2accc",
+      "sha256": "83c19fbde006ec6d92b9c7ea5c94611ceb059b7af814f235f9d62c41cf536770",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

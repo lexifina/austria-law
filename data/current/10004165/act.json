@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004165",
+  "short_title": "Zollbehandlung von Paletten",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004201",
+    "valid_from": "1973-05-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004165&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:25:50.927723+00:00",
+    "response_sha256": "5357b40fe47b641c5e57ab9b394d8a9b7ae73d68b62007f8572f137355f2336a",
+    "snapshot_sha256": "2738669af596b8de75c5315cbf9b1a7cff20ae011c2fe31540946ee8e2d31eff",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a35fa2c2d2a6b5e57b8378e7ce186733d2d519ea44d643076eef9808b41a675",
+      "sha256": "dea1c43dbbf3bf1472b6935df3e246201635b755d20ad39633b3fdd715e26e19",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 2. Mai 1973 betreffend den Beitritt Spaniens zum Europäischen Abkommen vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: BGBl. Nr. 231/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 231/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_231_0/1973_231_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b4f5818b74b698c32e7c63bb7f459e79e648ee32ecdf15361f5dfbc2f38ded8",
+      "sha256": "34b6bd53d848c6a1f3e22c8f1176762ab0ca7bb467852a6fec6a171b8bc02fe6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 20/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_20_0/1964_20_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 217/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_217_0/1970_217_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

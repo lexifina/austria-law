@@ -1,0 +1,122 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20008047",
+  "short_title": "MedAustron GmbH-Gesetz",
+  "abbreviation": "MAGG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40143245",
+    "valid_from": "2012-11-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008047&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:09:50.224161+00:00",
+    "response_sha256": "5de1f807d236cfd6e6b009f3fd77fe7f0c35fd9e371497854957df0e8c6b7d34",
+    "snapshot_sha256": "65b0b59ca1be39aa9a5cdb7005d3c6f2366865e9f7da25f5241b78be4785f2a9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "706111f1b7481583f08978f810c420710bcc3f0888f9876b9acd93228aa28f97",
+      "sha256": "fe9b0ca67b7467713c9f5f61f53d0fd50bfc59115b282a748a37d60e5f2b28aa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz betreffend den Erwerb von Geschäftsanteilen der PEG MedAustron Gesellschaft mbH (MedAustron GmbH-Gesetz – MAGG) StF: BGBl. I Nr. 92/2012 (NR: GP XXIV RV 1811 AB 1938 S. 173. BR: AB 8812 S. 814.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 92/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/92"
+        },
+        {
+          "text": "RV 1811",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1811"
+        },
+        {
+          "text": "AB 1938",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1938"
+        },
+        {
+          "text": "S. 173.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/173"
+        },
+        {
+          "text": "AB 8812",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8812"
+        },
+        {
+          "text": "S. 814.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/814"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a094bc27ccf55eb5d314ecabc61f5fe09fbf4d2c0fd24e90c9bf61c0e573f803",
+      "sha256": "ca816575f6f8f90a8d925ab4732f4dd0c2ce17f41c6ffd09b274a829ba47cd26",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "326ef745c70b4d0b5bcd3cd88fd343fe2ea6f209f401644d674f2473f127a352",
+      "sha256": "cf782839d9d0087d1ae00230215df6eb24f73f5991d9be2a2e216dcfcc77c2d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

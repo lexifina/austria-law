@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20010609",
+  "short_title": "62. Nachtrag zum Arzneibuch",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40213661",
+    "valid_from": "2019-03-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010609&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:59:32.768153+00:00",
+    "response_sha256": "4223671cd2fa444cee756986b7b6b8f019fd01ff28894d3d6051d0e57f491e7d",
+    "snapshot_sha256": "3b796574bc9c89b4ad6d464f86ac3f603f5bb4ac8b6ddf64cc76379045ef3492",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2edf6720550828d223d44a273977c9cec623f27687fe8fce09ceb80fd44abc7",
+      "sha256": "d426c77874491375087a5214c8b6f9cc799b3c386f212f60790d23b6fcac4b3a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über den 62. Nachtrag zum Arzneibuch StF: BGBl. II Nr. 75/2019"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 75/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/75"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/44"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "828cea98cbe2cb9a48fe493f29f2451a24d3e6b8b56e2341f2ef06c8112839d8",
+      "sha256": "201ab278dfdf9ea23eadb5a76dea5c4e416a0f93d5b82b376462bb99460b6d3c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6612c5bd168be9e006ca85877333b6ebf8242af8182ad50cb7bde8fd51b817f8",
+      "sha256": "c92ae2f99d6e0e4f8749a9b7686b4c67d467746e295110ca832c56faa9a967d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

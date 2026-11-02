@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem des Europäischen Investitionsfonds StF: [BGBl. II Nr. 335/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/335>)

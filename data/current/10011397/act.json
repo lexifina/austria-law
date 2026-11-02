@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011397",
+  "short_title": "Betrieb von Amateurfunkstellen (USA)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – USA",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011662",
+    "valid_from": "1967-12-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011397&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:55:22.484655+00:00",
+    "response_sha256": "750b54688f7d529b7a5f70542542be3e65d980c989a683ac969796e82c944127",
+    "snapshot_sha256": "6af67e164c0ea0dda85e6e68a5625e528edc74d6f3e0da78e3d8148ded0efa23",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e350832bac924d5bdbe6a2683791b022f3ebd67f7871224632f1928952ac343",
+      "sha256": "4b84f7741dafc88c81928a33a778f898c99e4bff63cacae9dcd599acdbbfc3fe",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "ABKOMMEN ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER REGIERUNG DER VEREINIGTEN STAATEN VON AMERIKA ÜBER DIE BETREIBUNG VON AMATEURFUNKSTELLEN StF: BGBl. Nr. 26/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 26/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_26_0/1968_26_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b2711391129b30001857729794437313efca1578397bc96bc5dea147c09bfe9",
+      "sha256": "24dc8ec7281dc88ca961e910caa0cb3e66629d7b7cf8899cd316e443216fe46a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

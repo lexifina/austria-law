@@ -1,0 +1,3 @@
+Geschäftsordnung für die Gerichte I. und II. Instanz (Geo.). StF: [BGBl. Nr. 264/1951](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_264_0/1951_264_0.pdf>)
+
+Auf Grund des Art. VII der Sechsten Gerichtsentlastungsnovelle, [BGBl. Nr. 222/1929](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=222/1929&amp;SkipToDocumentPage=True>), des § 17 Z 2 des Gerichtlichen Einbringungsgesetzes 1948, BGBl. Nr. 109, und des § 2 Z 2 des Bundesgesetzes, [BGBl. Nr. 110/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_110_0/1948_110_0.pdf>), über Maßnahmen auf dem Gebiete des Gerichtserlagswesens wird verordnet:

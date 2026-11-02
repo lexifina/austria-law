@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 21. Oktober 1970 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Verpflichtung von Liegenschaftseigentümern zur Anbringung von Abgabebriefkästen (Hausbrieffachanlagen) StF: [BGBl. Nr. 323/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_323_0/1970_323_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 2. März 1970, K II-2/69-21 – dem Bundeskanzleramt zugestellt am 15. Oktober 1970 – zusammengefaßt hat:

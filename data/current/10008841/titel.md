@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit und Soziales betreffend Belastungen im Sinne des Art. VII Abs. 2 Z 2, 5 und 8 des Nachtschwerarbeitsgesetzes StF: [BGBl. Nr. 53/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_53_0/1993_53_0.pdf>)
+
+Auf Grund des Art. VII Abs. 3 des Nachtschwerarbeitsgesetzes, [BGBl. Nr. 354/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_354_0/1981_354_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 473/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_473_0/1992_473_0.pdf>), wird für Arbeitnehmer in Betrieben, die nicht der bergbehördlichen Aufsicht unterstehen, verordnet:

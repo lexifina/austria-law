@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 6. November 1970 betreffend den Geltungsbereich des Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge StF: [BGBl. Nr. 334/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_334_0/1970_334_0.pdf>)

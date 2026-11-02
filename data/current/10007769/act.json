@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007769",
+  "short_title": "EG - Gemeinsames Versandverfahren",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007906",
+    "valid_from": "1996-07-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007769&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:09:59.114570+00:00",
+    "response_sha256": "84cc4454c76508d2b73fecdf5de698b2d2ad5b80f9b1007054a07315df57592b",
+    "snapshot_sha256": "6beea9bfe63b2380ec2751f08232744ad6d131041fd989ebea0be8900373b997",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8b18be84e78f1090e51c0210a0a52142f2993a7f3c1541e43ab5c0331cba691",
+      "sha256": "cef5386d8dbc9256cc4f741662d03f31ba87bf785f3f7c3c870a2d36c4e06a40",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über ein gemeinsames Versandverfahren StF: BGBl. Nr. 364/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 364/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_364_0/1996_364_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65efd7c788e553012b3fee4a8dd81ec96c6df1ea028712dcc46cf21e4fbb5a30",
+      "sha256": "1cb5e04d6aa21d2f8eef0dd2659161c893de1791be0a15f50d7dcb0876ae1366",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 632/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_632_0/1987_632_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 937/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_937_0/1994_937_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

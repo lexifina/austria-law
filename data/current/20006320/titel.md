@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Grundausbildung für die Bediensteten der Entlohnungsgruppen v4 und v3 im Planstellenbereich Justizanstalten StF: [BGBl. II Nr. 187/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/187>)
+
+Auf Grund des § 67 des Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 147/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/147>), in Verbindung mit den §§ 25 bis 31 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 147/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/147>), wird verordnet:

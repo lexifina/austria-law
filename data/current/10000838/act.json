@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000838",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters v. Maria Alm",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000840",
+    "valid_from": "1986-12-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000838&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:36:51.242025+00:00",
+    "response_sha256": "200f65435f576aabe9336ade413075f119b4e0b099037865eb413370982097f0",
+    "snapshot_sha256": "e8da67d84bd6502502bfa49e36052bcb0b632086b1448fab89442f01a9bcf208",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "402bfefc52b4979d264c41fd67c8119b61735c5044f593f67080537df2600efa",
+      "sha256": "caad6b8c7aaebc6fc6856f85f9650daf26c8c57289eace92832c93acae9c4212",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 4. Dezember 1986 über die Aufhebung der Z 1 und 7 der Verordnung des Bürgermeisters der Ortsgemeinde Maria Alm, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 675/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 675/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_675_0/1986_675_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9822b01843f7edb7e1b3955cb9bcf78d40a653d802bcbed91c58d65ff5af30ad",
+      "sha256": "152e0cf44054f2684e4b7c1fdb2032bab2dbc80ab05e9c24c6d1e503c3fa60a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

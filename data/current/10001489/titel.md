@@ -1,0 +1,1 @@
+Abkommen zwischen der Österreichischen Bundesregierung und dem Schweizerischen Bundesrat betreffend zusätzliche Vereinbarungen über die Niederlassungsverhältnisse der beiderseitigen Staatsbürger StF: [BGBl. III Nr. 180/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_180_3/1997_180_3.pdf>)

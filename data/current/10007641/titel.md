@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Allgemeinen Zoll- und Handelsabkommens (GATT) StF: [BGBl. Nr. 482/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_482_0/1995_482_0.pdf>)

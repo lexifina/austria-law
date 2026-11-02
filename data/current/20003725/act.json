@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003725",
+  "short_title": "Weltgesundheitsorganisation - Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004043",
+    "valid_from": "1950-07-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003725&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:03:48.737197+00:00",
+    "response_sha256": "77c788dbd706f0a397ea64867a5923ed1243622011bdbfed5fb7f639d7a0d83d",
+    "snapshot_sha256": "e450016bbffe7ee0898553efa06a89610387cf6c12bafdd464b0f5cdc37f3f2b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "977ee7c37db7be3f3eeae0ba629cb3ff6de7d6f89f5b625abda95bc7e28c7ba3",
+      "sha256": "2d279dd35f9773b193a73c8b5de41f0c171b99075aa61558a25f0d3ebb5b818b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 20. Juli 1950, betreffend die Erweiterung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation. StF: BGBl. Nr. 140/1950"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 140/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_140_0/1950_140_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "657cc82dab217477ae0caebcf9b328b3e57d371f415870aa05ccdc533544627f",
+      "sha256": "5d69af5cfd0160928350195f5f77dda3fbfeb1b69d38c5c4f0cb5c2fb44d0ac0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009301",
+  "short_title": "Rechtspersönlichkeit von Gemeinden der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009492",
+    "valid_from": "1969-10-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009301&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:30:27.181184+00:00",
+    "response_sha256": "d65a98102277f270494c9319264439d03dfdad5bfb796e76475b8349dd7bf91d",
+    "snapshot_sha256": "5a6faeba8ad9a264e6a7f6895a59bd64dbc3f92199685be548aed18ce94d692b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1d30e9ad3f768c4ca45b1a0b73b13e1d504c38e9fa11a2fa1bc63d241d8dd45",
+      "sha256": "0c04b8e288d1623238245fe7d21859a35f7cd960d7f0adfb75b12d2083557050",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Unterricht vom 8. Oktober 1969 über die Rechtspersönlichkeit von Gemeinden der Evangelischen Kirche StF: BGBl. Nr. 356/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 356/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_356_0/1969_356_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e36ab3ec45f72db62fbee4f62a77a6c6885c82201cace6817c7fc993118c842",
+      "sha256": "694e845d4fffb9356d887f4712a9a8fab28ff9b73c4219661f5fd049e31ce27a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

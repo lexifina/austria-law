@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Begrenzung von Abwasseremissionen aus der Herstellung von Holzwerkstoffen (AEV Holzwerkstoffe) StF: [BGBl. II Nr. 264/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_264_2/2003_264_2.pdf>) \[CELEX-Nr.: [31976L0464](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0464:DE:HTML>)\]
+
+Auf Grund der §§ 33b Abs. 3, 4, 5 und 7 sowie 33c Abs. 1 des Wasserrechtsgesetzes 1959 – WRG 1959, BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 156/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_156_1/2002_156_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit verordnet:

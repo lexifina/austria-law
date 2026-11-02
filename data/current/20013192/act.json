@@ -1,0 +1,451 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "20013192",
+  "short_title": "Dienstequalitätsverordnung",
+  "abbreviation": "DQV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40278512",
+    "valid_from": "2026-06-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013192&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:54:20.241058+00:00",
+    "response_sha256": "d2caab04e9e64d9138bc427fe65fb4919e155ff32dd9068c6aaf076e0bc1189d",
+    "snapshot_sha256": "f757ee827c6dd4496d3263ab7ae9bf8c8b85e2f6bfb918ef6c8848941663b070",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86b44c55ec05d3cd2b4bd8dbaf29c598366d75533ee14858d8425a182f7dc979",
+      "sha256": "cc9e0e35d6f3c84cea703fbfb83712bcc2e59f23ac110da5a8b036c02eb9467c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Rundfunk und Telekom Regulierungs-GmbH, mit der bestimmte Aspekte der Dienstequalität festgelegt werden (Dienstequalitätsverordnung – DQV) StF: BGBl. II Nr. 138/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 138/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/138"
+        },
+        {
+          "text": "BGBl. I Nr. 190/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/190"
+        },
+        {
+          "text": "BGBl. I Nr. 94/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/94"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d61f863ef650073cfc0ac7edd6927e88cfff1c5b1fe624d63432767be09ec062",
+      "sha256": "a1ccdb367ef37dd3f964625d684a9bdeed2a58438d6445bcf50eaf105836591b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83de6f2caba8871a32d28107389b555be32ddeb443f6fa89b2e630a156f744f8",
+      "sha256": "7b49307fb11c8b29c43e4d2bf4e4c932511b6c62afaedfcecef087feed3471a9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 76/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/76"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2f7b2b08edf4c65a82bcd76c5f0f50c04fceab7e6c2cc65be5677ac827d6b021",
+      "sha256": "49303668def9acec15bcb23afcf951c8e5fe6c40e9d4897b360021893602a4c2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Parameter für Anbieter von Internetzugangsdiensten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2141ecf3a03bcb9cf401b8ff36d6ef31b3e63b83797cbb7d2401ec94bbf5c273",
+      "sha256": "849365fef720357b8dd60c9496a7e5831411cf694071fb56aa33f18aacd7d6be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Verzögerungsschwankung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "280fbda365d4078541f569fadd1132e1a82c9179bb4960bfdcc81454292c27f6",
+      "sha256": "8d7a19faec9100ca2b5899b53e285320072f8311d64511b664002aa9e0c0f1be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Paketverlust",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd224a571a033d6b9f2fdcb40e19d416f32b5e109a887aebdd7c3cd536e4b2df",
+      "sha256": "4a0a53b9936e31f5d07dca76ee931e6fdccb7118a9abbf50bd58ef3ff3a34180",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "3. Abschnitt Parameter für Anbieter von öffentlich zugänglichen interpersonellen Kommunikationsdiensten soweit sie zumindest einige Komponenten des Netzes kontrollieren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b487ba428ac647086d86a4dacbbd4ac60435a29798dae1ec0a75d0e3631ebd1",
+      "sha256": "739ff59d1c737e0143d63f899c1cdef193e13aaac76ced6aa8e7d1b6c391b55f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Ausfallswahrscheinlichkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "782de9ba0f767570b91709fa394ef395073aeed38b63f22bbd9df7204000d5dd",
+      "sha256": "8895509e2b697b253b129fc659335cb36671de03daeddd2afda497e8a216a8dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Verzögerungen bei der Rufsignalisierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b5ff90b25a1e11a051d844c76da92ed743333b181ae888dff943b476ee649bff",
+      "sha256": "78507c7f455e71856e24db6012234ed3b43dccd3bbfe1d11c3db451096167501",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "4. Abschnitt Maßnahmen zur Sicherstellung der Bedürfnisse von Menschen mit Behinderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94dfb24111881ac140c6b9e48e52d5dea53fc4bb9ef2c5d031bda56d0b446bc0",
+      "sha256": "49868e288be48822d9b7e4a2acb6a1d950f655ec9b96edd3afdbe2618014fe3c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Zusätzliche Dienste bei Notrufen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1879bd9fb2acbcd6390e0c0a142f9584c1b91811f317657f5a4fb04edf8e96f4",
+      "sha256": "c7e0d996c420db1b3335827ece71d65d0faf095766c00cf5442be1214acdd3fe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Verständliche Sprachkommunikation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e743c9a7383dc1240b0f298cb97825d980d514a2bfa9b03fb2ecf954454d800e",
+      "sha256": "137774096bdaa5071f87a05e2722e84cb138b7f39a34c6d8161d4724c1dda151",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "5. Abschnitt Übermittlung und Veröffentlichung der Parameter für die Dienstequalität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3168439747a6e84e9c6f8ea9b616a55fcea2e83c68285ae28ee5bd1e7696f86c",
+      "sha256": "57ddecfc39569da820ee629099d10956309f7ecdb18898ab120cbb477370ffd0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "6. Abschnitt Qualitätszertifizierungsmechanismen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "694e5e296e48efe8a472dbc0fd675d6f9bd1da613b072879e92e3dfe5fe5d5cc",
+      "sha256": "2b4cb17586a3f5ba7df3a908298cd9ae4cc132d18605928ac4211ee992b653b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "7. Abschnitt Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a320ad7ce448b11dd85b0350c761d8b73d9f0c9c2d4d502ee24d74fbd0acc69",
+      "sha256": "cd1de9e92bf558635c49b2aaa6fe73e61687fc643f614a9caafaa72991463573",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b83e8e1b584ee034e1f9e590d10bbbbe6955b542b5b4a309b904c48b12f6f043",
+      "sha256": "fc42f4a8fedc1b5fd72aacf98069556646b1246e566c740f2dc7d8792a3241c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f676c8c0f4e9c17415b270084af39ff9216bada5e5dd4756b2e93f48029e302c",
+      "sha256": "1adb126b74456323389c78ae7f16a4a4821f0dd7dca53f6b89e1adbdb57304d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc5d671aaca0ec162501e6f286bc4c57a240a578d8bce323b4633664ed76ae2a",
+      "sha256": "2349fb07324ffde897d0329276af6abb5b9bbf1bade6624bcc633b3f3e83e64c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

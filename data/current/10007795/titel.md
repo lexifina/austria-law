@@ -1,0 +1,1 @@
+Bundesgesetz über die nichtlinienmäßige gewerbsmäßige Beförderung von Personen mit Kraftfahrzeugen (Gelegenheitsverkehrs-Gesetz 1996 – GelverkG) StF: [BGBl. Nr. 112/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_112_0/1996_112_0.pdf>) (WV)

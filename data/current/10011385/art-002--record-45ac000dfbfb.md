@@ -1,0 +1,13 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+Fahrzeuge, die zwar den bisherigen Vorschriften, aber nicht dieser Verordnung entsprechen, sind ausgenommen von Art. I
+
+- a) Z. 2 (§ 1c Abs. 10), wenn sie erstmals vor dem Inkrafttreten dieser Bestimmung zugelassen worden sind,
+
+- b) Z. 1 (§ 1c Abs. 9), Z 5 bis 10 und 30 bis 34 (§§ 19a und 19b sowie Anlage 3b und 3c), wenn ihre Type oder wenn sie einzeln vor Inkrafttreten dieser Verordnung genehmigt worden sind,
+
+- c) Z. 20, 23 bis 26 und 29 (Anlage 1a), wenn sie erstmals vor dem 1. Oktober 1975 zugelassen oder wenn sie vor dem 1. September 1975 in das Bundesgebiet eingebracht worden sind,
+
+- d) Z. 21, 27 und 28 (Anlage 1a), wenn sie erstmals vor dem 1. Oktober 1976 zugelassen worden sind.

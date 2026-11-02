@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 27. Juni 1959, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung in Angelegenheiten des Baues und des Betriebes von landwirtschaftlichen Materialseilbahnen. StF: [BGBl. Nr. 153/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_153_0/1959_153_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 11. März 1959, K II-3/58/18 – dem Bundeskanzleramt am 23. Juni 1959 zugestellt – zusammengefaßt hat:

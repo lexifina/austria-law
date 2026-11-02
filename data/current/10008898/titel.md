@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Beendigung der Weiteranwendung des Abkommens über die Regelung der Beschäftigung jugoslawischer Dienstnehmer in Österreich im Verhältnis zur „Bundesrepublik Jugoslawien'' StF: [BGBl. Nr. 121/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_121_0/1994_121_0.pdf>)

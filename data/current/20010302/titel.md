@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Sprengel der Vermessungsämter 2018 (Vermessungsamts-Sprengel-Verordnung 2018 – VermA-Spr-V 2018) StF: [BGBl. II Nr. 234/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/234>)
+
+Auf Grund des § 2 Abs. 4 des Vermessungsgesetzes – VermG, [BGBl. Nr. 306/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_306_0/1968_306_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 51/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/51>) und die Bundesministeriengesetz-Novelle 2017, [BGBl. I Nr. 164/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/164>), wird verordnet:

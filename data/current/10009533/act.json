@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009533",
+  "short_title": "Repräsentative Einrichtungen im Sinne des Kunstförderungsbeitragsgesetzes 1981",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009724",
+    "valid_from": "1983-02-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009533&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:33:35.750184+00:00",
+    "response_sha256": "56b5f2e2dbe8222be9d42a26257c6a614e140c8090e69ef1158817c77be3bd54",
+    "snapshot_sha256": "5a73160e9bf2a761c5ec80d53659fed9e7e2001cb389a4d46281a70c3550ffde",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa2c1ebc100b286ab9a1fc5328f1d01fc1bd4346d527c21bff70d000c19c93a6",
+      "sha256": "49a7d05da781c623b581157634e430e84ee683534d4653f8c9b0394d85559747",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Unterricht und Kunst vom 11. Jänner 1983 über repräsentative Einrichtungen im Sinne des Kunstförderungsbeitragsgesetzes 1981 StF: BGBl. Nr. 53/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 53/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_53_0/1983_53_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb5097439f67927f5f16862dcfcb23256214cb539b66da3149b4e73674f5d23d",
+      "sha256": "f79ae81654f666903a744f7df81bbaff4ec2602ace07626c17b5fad03b38ed69",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

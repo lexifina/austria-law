@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Justiz betreffend die von der Europäischen Kommission festgesetzten Schwellenwerte für Auftragsvergabeverfahren ab 1. Jänner 2026 StF: [BGBl. II Nr. 214/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/214>)
+
+Auf Grund des § 19 Abs. 2 und des § 192 Abs. 2 des Bundesvergabegesetzes 2018, [BGBl. I Nr. 65/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/65>), zuletzt geändert durch die Verordnung [BGBl. II Nr. 91/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/91>), und des § 11 Abs. 3 des Bundesvergabegesetzes Konzessionen 2018, [BGBl. I Nr. 65/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/65>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 100/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100>), wird kundgemacht:

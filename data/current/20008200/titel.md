@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Finanzen über die Vorbereitung und Durchführung von Vorhaben (einschließlich Vorbelastungen und Vorberechtigungen), sowie über den finanziellen Wirkungsbereich betreffend sonstige rechtsetzende Maßnahmen von erheblicher finanzieller Bedeutung und den Erwerb von Beteiligungen (Vorhabensverordnung) StF: [BGBl. II Nr. 22/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/22>)
+
+Auf Grund der § 16 Abs. 2, § 58 Abs. 1 und 2, § 60 Abs. 6, § 61 Abs. 2, § 69 Abs. 4 und § 71 Abs. 1 Z 3 lit. b des Bundeshaushaltsgesetzes 2013 (BHG 2013), [BGBl. I Nr. 139/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139>), zuletzt geändert durch [BGBl. I Nr. 62/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/62>), wird verordnet:

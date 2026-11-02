@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Justiz gemäß § 16 Abs. 6 des Mietrechtsgesetzes StF [BGBl. II Nr. 363/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/363>)
+
+Entsprechend der durch § 16 Abs. 6 des Bundesgesetzes über das Mietrecht, [BGBl. Nr. 520/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_520_0/1981_520_0.pdf>), auferlegten Verpflichtung wird kundgemacht, dass sich die in § 16 Abs. 5, § 15a Abs. 3, § 18 Abs. 5, § 20 Abs. 1, § 45 Abs. 1 und 2 und § 46 Abs. 2 MRG genannten, zuletzt laut Kundmachung der Bundesministerin für Justiz [BGBl. II Nr. 209/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/209>) geänderten Beträge infolge der Verlautbarung der Bundesanstalt Statistik Österreich vom 16. September 2022 kraft Gesetzes wie folgt erhöht haben:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für Justiz vom 23. Dezember 1960 über die Zustellung an Personen im Ausland durch die Post im gerichtlichen Verfahren in bürgerlichen Rechtsstreitigkeiten. StF: [BGBl. Nr. 10/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_10_0/1961_10_0.pdf>)
+
+Auf Grund des § 121 Abs. 1 der Zivilprozeßordnung, [RGBl. Nr. 113/1895](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=113/1895&amp;SkipToDocumentPage=True>), in der Fassung des Art. III Z 8 des Bundesgesetzes [BGBl. Nr. 282/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_282_0/1955_282_0.pdf>), wird im Einvernehmen mit dem Bundeskanzleramt und dem Bundesministerium für Auswärtige Angelegenheiten verordnet:

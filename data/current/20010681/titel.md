@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend das Schulqualitätsmanagement (SQM-VO) StF: [BGBl. II Nr. 158/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/158>)
+
+Auf Grund des § 225 Abs. 5 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), sowie des § 48r Abs. 6 des Vertragsbedienstetengesetzes 1948 – VBG, [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), jeweils zuletzt geändert durch [BGBl. I Nr. 102/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/102>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der Latin American Integration Association StF: [BGBl. II Nr. 154/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_154_2/2001_154_2.pdf>)

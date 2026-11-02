@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20013270",
+  "short_title": "Errichtung einer weiteren Notarstelle in Gänserndorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40280434",
+    "valid_from": "2026-08-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013270&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:56:44.611410+00:00",
+    "response_sha256": "a16a77f56da0b580c9eec1063938d37cd566c5c6ce71f5fbe5f21971d631790a",
+    "snapshot_sha256": "9a53617d3571af8b23c25ec43051176c5cb9483a6cb4762ed95bc9a44c3237e7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1703a79045af37d8deb8bf9a786ac2e5f2e5521c44a5e2c8c940e89469941643",
+      "sha256": "eb1e100b57c4555de8ac4dd120ae41147d45059c62c25d5bbe32701096249d98",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Gänserndorf StF: BGBl. II Nr. 238/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 238/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/238"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 23/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/23"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cdcfe0a186f76e40b9f5f8b4623dfb257d1f9ec82a884776b564d129383584cb",
+      "sha256": "f6e55f46ec06f2695a305a9e39645ce2c8bc2c3ed512172e01341a20bc56e58a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

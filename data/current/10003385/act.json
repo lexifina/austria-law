@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003385",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Penzing",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003412",
+    "valid_from": "1996-02-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003385&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:46.593279+00:00",
+    "response_sha256": "a5725f97140759496f15b6bb882c0207d710b0ea59303e6e43dfe913aec9ab40",
+    "snapshot_sha256": "8e475790d1925edd4142f646b1ab4f3318bd43b4e315f600b83695beb18b091a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef05c0fa50820240cca013e39de263f52040031558c12a223b6bb3268197211a",
+      "sha256": "da4ffdc30f6c22f71e51fc72038686020b360f01362f7d3d313367baec4909bc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Wien-Penzing StF: BGBl. Nr. 54/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 54/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_54_0/1996_54_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3009ca73bcb32cefb7de1103cb7ddf3f3a947b2560347e40ffa02dc4ac56ef2",
+      "sha256": "fe6d5588e025a6bf15d4696793bec6d19081adeceb3f9ca7f7c2dd1400e24873",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

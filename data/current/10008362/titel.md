@@ -1,0 +1,1 @@
+Verordnung der Bundesregierung vom 16. Jänner 1968 über die Geschäftsführung der Organe der Personalvertretung bei den Dienststellen des Bundes (Bundes-Personalvertretungs-Geschäftsordnung – PVGO) StF: [BGBl. Nr. 35/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_35_0/1968_35_0.pdf>)

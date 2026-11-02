@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 22. April 1955, betreffend den Beitritt Viet-Nams zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 93/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_93_0/1955_93_0.pdf>)

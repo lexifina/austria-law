@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen und den abgekürzten Namen (jeweils in Englisch, Französisch, Spanisch, Russisch, Arabisch und Japanisch) sowie das Emblem und das Siegel der Internationalen Zivilluftfahrtorganisation StF: [BGBl. II Nr. 94/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_94_2/1998_94_2.pdf>)

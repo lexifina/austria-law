@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 2. Juli 1958 über die Ratifikation des Übereinkommens vom 18. Oktober 1907, betreffend die Gesetze und Gebräuche des Landkrieges (IV. Übereinkommen der II. Haager Friedenskonferenz) durch die Dominikanische Republik. StF: [BGBl. Nr. 142/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_142_0/1958_142_0.pdf>)

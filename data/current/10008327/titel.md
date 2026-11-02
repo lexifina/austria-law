@@ -1,0 +1,3 @@
+Bundesgesetz vom 23. Jänner 1974 über die Förderung der Familienberatung (Familienberatungsförderungsgesetz) StF: [BGBl. Nr. 80/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_80_0/1974_80_0.pdf>) idF [BGBl. Nr. 596/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_596_0/1975_596_0.pdf>) (DFB) (NR: GP XIII [RV 912](<https://www.parlament.gv.at/gegenstand/XIII/I/912>) [AB 1015](<https://www.parlament.gv.at/gegenstand/XIII/I/1015>) [S. 98.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/98>) BR: [S. 328.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/328>))
+
+Der Nationalrat hat beschlossen:

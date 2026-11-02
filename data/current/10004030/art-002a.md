@@ -1,0 +1,15 @@
+## Artikel 2A
+
+(1) Im Sinne dieses Abkommens bedeutet der Ausdruck „eine in einem Vertragsstaat ansässige Person“ eine Person, die nach dem Recht dieses Staates dort auf Grund ihres Wohnsitzes, ihres ständigen Aufenthalts, des Ortes ihrer Geschäftsleitung oder eines anderen ähnlichen Merkmals steuerpflichtig ist. Der Ausdruck umfaßt jedoch nicht eine Person, die in diesem Staat nur mit Einkünften aus Quellen in diesem Staat steuerpflichtig ist. Die Ausdrücke „in Irland ansässige Person“ und „in Österreich ansässige Person“ sind demgemäß auszulegen.
+
+(2) Ist nach Absatz 1 eine natürliche Person in beiden Vertragsstaaten ansässig, so gilt folgendes:
+
+- a) Die Person gilt als in dem Staat ansässig, in dem sie über eine ständige Wohnstätte verfügt; verfügt sie in beiden Staaten über eine ständige Wohnstätte, so gilt sie als in dem Staat ansässig, zu dem sie die engeren persönlichen und wirtschaftlichen Beziehungen hat (Mittelpunkt der Lebensinteressen);
+
+- b) kann nicht bestimmt werden, in welchem Staat die Person den Mittelpunkt ihrer Lebensinteressen hat, oder verfügt sie in keinem der Staaten über eine ständige Wohnstätte, so gilt sie als in dem Staat ansässig, in dem sie ihren gewöhnlichen Aufenthalt hat;
+
+- c) hat die Person ihren gewöhnlichen Aufenthalt in beiden Staaten oder in keinem der Staaten, so gilt sie als in dem Staat ansässig, dessen Staatsangehöriger sie ist;
+
+- d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so werden sich die zuständigen Behörden der Vertragsstaaten bemühen, die Frage in gegenseitigem Einvernehmen zu regeln.
+
+(3) Ist nach Absatz 1 eine andere als eine natürliche Person in beiden Vertragsstaaten ansässig, so gilt sie als in dem Staat ansässig in dem sich der Ort ihrer tatsächlichen Geschäftsleitung befindet.

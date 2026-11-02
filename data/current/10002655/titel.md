@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 23. August 1984 betreffend ein tunesisches amtliches Zeichen für Agrarprodukte StF: [BGBl. Nr. 372/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_372_0/1984_372_0.pdf>)

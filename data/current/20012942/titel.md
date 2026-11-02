@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Meldestichtage, Meldeintervalle, Gliederung und Inhalte von Meldungen gemäß der Verordnung (EU) 2023/1114 über Märkte für Kryptowerte betreffend Emittenten vermögenswertereferenzierter Token und Emittenten von E-Geld-Token (MiCAR-Emittenten-Meldeverordnung – MiCAR-E-MV) StF: [BGBl. II Nr. 170/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/170>)
+
+Auf Grund des § 10 Abs. 4 des MiCA-Verordnung-Vollzugsgesetzes – MiCA-VVG, [BGBl. I Nr. 111/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/111>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Prüfungs- und Gewährzeichen „Nationales Umweltzertifikat“ der Republik Kuba StF: [BGBl. II Nr. 65/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/65>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 81/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/81>), wird im Einvernehmen mit der Bundesministerin für europäische und internationale Angelegenheiten kundgemacht, dass § 6 Abs. 1 des Markenschutzgesetzes 1970 auf das Prüfungs- und Gewährzeichen „Nationales Umweltzertifikat“ der Republik Kuba Anwendung findet, welches im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt.

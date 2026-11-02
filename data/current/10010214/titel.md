@@ -1,0 +1,1 @@
+Gesetz über die Vereinheitlichung des Gesundheitswesens. Vom 3. Juli 1934. StF: [dRGBl. I S 531/1934](<http://alex.onb.ac.at/cgi-content/alex?aid=dra&amp;datum=19340004&amp;seite=00000531>) ([GBlÖ Nr. 686/1938](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=686/1938&amp;SkipToDocumentPage=True>))

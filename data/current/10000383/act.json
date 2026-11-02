@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000383",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000384",
+    "valid_from": "1963-05-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000383&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:28:44.453239+00:00",
+    "response_sha256": "1c527d711f8b6a6a3ad322f31da3646cbdf2e9033830cf1414170a30542da67c",
+    "snapshot_sha256": "2d2f2637bee0e1138b49496c9a6a789ddeefa9e27974bdf27e5c393ecf0161c8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a397f630f68b44d5f1ab2a4d39e9370d960689b28ad86cca8b49aa66f5a18d1",
+      "sha256": "18716fbd0e504f95308759a504ca2957860686b6a02e3df25bca883e7834905d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 25. April 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung von gesetzlichen Vorschriften zur Regelung der Herstellung und Erhaltung von Straßen sowie deren Ausstattung mit Beleuchtungsanlagen, die der Verkehrsregelung und der Verkehrssicherheit dienen. StF: BGBl. Nr. 105/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 105/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_105_0/1963_105_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e308dc162ea9b2745d48d6938d4812fa181af71b372fa96c17c6b50e4d14ead",
+      "sha256": "1db4b33c845518bd7810ca51be093fb2509d222135b7825b46f89f8aa25241f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

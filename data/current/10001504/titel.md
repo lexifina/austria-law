@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz über Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland (KSE-BVG) StF: [BGBl. I Nr. 38/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_38_1/1997_38_1.pdf>) idF [BGBl. I Nr. 35/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_35_1/1998_35_1.pdf>) (DFB) (NR: GP XX [RV 503](<https://www.parlament.gv.at/gegenstand/XX/I/503>) [AB 657](<https://www.parlament.gv.at/gegenstand/XX/I/657>) [S. 71.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/71>) BR: [AB 5428](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5428>) [S. 625.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/625>))
+
+Der Nationalrat hat beschlossen:

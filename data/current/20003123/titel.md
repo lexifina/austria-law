@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für auswärtige Angelegenheiten über die Bemessung einer Erschwerniszulage für Beamte und Vertragsbedienstete des Auswärtigen Dienstes StF: [BGBl. II Nr. 622/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_622_2/2003_622_2.pdf>)
+
+Auf Grund des § 19a in Verbindung mit § 15 Abs. 2 des Gehaltsgesetzes 1956, BGBl. Nr. 54, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 7/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_7_1/2003_7_1.pdf>) sowie des § 22 Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 7/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_7_1/2003_7_1.pdf>), wird mit Zustimmung des Bundeskanzlers verordnet:

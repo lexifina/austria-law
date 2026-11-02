@@ -1,0 +1,1 @@
+ABKOMMEN ÖSTERREICH - EWG - Der Gemischte Ausschuß - Auszug aus dem Protokoll der 25. Tagung am 4. Juli 1984 StF: [BGBl. Nr. 480/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_480_0/1984_480_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit, Familie und Jugend über bestimmte Sorten eingedickter Milch und Trockenmilch (Trockenmilchverordnung) StF: [BGBl. II Nr. 45/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/45>) \[CELEX-Nr.: [32001L0114](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0114:DE:HTML>)\]
+
+Auf Grund der §§ 10 Abs. 1,19 Abs. 1 und 42 Abs. 4 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 69/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_69_1/2003_69_1.pdf>), wird – hinsichtlich der §§ 3 und 4 im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit – verordnet:

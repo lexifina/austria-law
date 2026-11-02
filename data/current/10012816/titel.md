@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Anforderungen an öffentliche Verteilungsnetze mit der Nennspannung 400/230 V und an diese angeschlossene Verbraucheranlagen zur grundsätzlichen Anwendung der Schutzmaßnahme Nullung (Nullungsverordnung) StF: [BGBl. II Nr. 322/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_322_2/1998_322_2.pdf>)
+
+Auf Grund des § 3 Abs. 3 und des § 4 Abs. 2 des Elektrotechnikgesetzes 1992 – ETG 1992, [BGBl. Nr. 106/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_106_0/1993_106_0.pdf>), sowie auf Grund des § 205 des Berggesetzes 1975, BGBl. Nr. 259, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 115/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf>), wird verordnet:

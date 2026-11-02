@@ -1,0 +1,3 @@
+Bundesgesetz vom 25. Jänner 1979 über die Gleichstellung von Südtirolern mit österreichischen Staatsbürgern auf bestimmten Verwaltungsgebieten StF: [BGBl. Nr. 57/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_57_0/1979_57_0.pdf>) (NR: GP XIV [IA 119/A](<https://www.parlament.gv.at/gegenstand/XIV/A/119>) [AB 1168](<https://www.parlament.gv.at/gegenstand/XIV/I/1168>) [S. 117.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/117>) BR: [AB 1959](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1959>) [S. 383.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/383>))
+
+Der Nationalrat hat beschlossen:

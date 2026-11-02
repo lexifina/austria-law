@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Inneres und Unterricht vom 23. Feber 1922, womit das Übereinkommen zwischen der Republik Österreich und dem Fürstentum Liechtenstein über die gegenseitige Mitteilung der ihre Staatsangehörigen betreffenden Zivilstandesurkunden verlautbart wird. StF: [BGBl. Nr. 118/1922](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=118/1922&amp;SkipToDocumentPage=True>)
+
+Die Regierungen der Republik Österreich und des Fürstentums Liechtenstein haben, von dem Wunsche geleitet, im Verhältnis zueinander die gegenseitige Mitteilung der ihre Staatsangehörigen betreffenden Zivilstandesurkunden zu sichern, sich mit nachstehenden Abmachungen einverstanden erklärt.

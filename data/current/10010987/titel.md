@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft über Vermehrungsgut von Reben (Rebenverkehrsverordnung) StF: [BGBl. Nr. 466/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_466_0/1996_466_0.pdf>) \[CELEX-Nr.: [368L0193](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31968L0193:DE:HTML>) und [372L0169](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972L0169:DE:HTML>)\]
+
+Auf Grund der §§ 4 Abs. 4, 6 Abs. 5, 7 Abs. 1 Z 3, Abs. 2 Z 3 und Abs. 3 Z 3, 8 Z 3, 11 Abs. 1, 13 Abs. 2 und 19 des Rebenverkehrsgesetzes 1996, BGBl. Nr. 418, wird – hinsichtlich des § 6 im Einvernehmen mit dem Bundesminister für Finanzen – verordnet:

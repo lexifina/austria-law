@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004754",
+  "short_title": "Bundespostflagge und Postsignalflagge für Seeschiffe der Bundesrepublik Deutschland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005185",
+    "valid_from": "2006-05-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004754&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:14.987576+00:00",
+    "response_sha256": "36054529d09d2502a7c9150a97bf8a8c83d7e6f717b8812f7f48249a97bba672",
+    "snapshot_sha256": "c7ae1877e0ad3ba1a8986dd43c849ed58c143f1adc264553daafae2467db7899",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d45d6b365de8b64388d6c740cbbb1895454d5a7dd51c9ad324069b242dfbdd2",
+      "sha256": "d463343f929b5ff3cf4d74b25e5279c3b8995294cf5777c79c4b6b0222c257dc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bundespostflagge und die Postsignalflagge für Seeschiffe der Bundesrepublik Deutschland StF: BGBl. II Nr. 186/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 186/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/186"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8577c6d03db126a3aa7afe6f6175336ee98b1e8ccb6e5936686f6212d82bf2bc",
+      "sha256": "819e42ff4b637623e3d7da389fb4b27d76712922bb0aaf7e0b2830fbf34c1d93",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 143/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_143_1/2001_143_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 157/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_157_0/1995_157_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

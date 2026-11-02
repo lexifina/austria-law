@@ -1,0 +1,1 @@
+Verordnung des Bundeskanzlers vom 30. Jänner 1981 über die Verwendung der Geldmittel aus Geldbußen und Geldstrafen StF: [BGBl. Nr. 80/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_80_0/1981_80_0.pdf>)

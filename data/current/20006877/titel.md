@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die Anwendung von Veterinär-Arzneispezialitäten unter Einbindung des Tierhalters (Veterinär-Arzneispezialitäten-Anwendungsverordnung 2010) StF: [BGBl. II Nr. 259/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/259>)
+
+Auf Grund des § 7 Abs. 1 des Tierarzneimittelkontrollgesetzes (TAKG), [BGBl. I Nr. 28/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_28_1/2002_28_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 36/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/36>) und das Bundesgesetz [BGBl. I Nr. 3/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/3>), wird verordnet:

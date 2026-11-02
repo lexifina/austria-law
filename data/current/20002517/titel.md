@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Fahne und das Wappen der Flämischen Gemeinschaft und das Emblem der Behörden Flanderns StF: [BGBl. II Nr. 109/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_109_2/2003_109_2.pdf>)

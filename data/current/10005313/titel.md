@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung von Indien betreffend den Commonwealth Kriegsfriedhof in Klagenfurt StF: [BGBl. Nr. 326/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_326_0/1968_326_0.pdf>)

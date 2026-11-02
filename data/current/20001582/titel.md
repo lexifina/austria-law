@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich der Vereinbarung über die Gestattung der Durchreise ausreisepflichtiger jugoslawischer Staatsangehöriger StF: [BGBl. III Nr. 199/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_199_3/2001_199_3.pdf>)

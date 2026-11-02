@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Durchführung des Nationalen Emissionszertifikatehandelsgesetzes (NEHG-Durchführungsverordnung – NEHG-DV) StF: [BGBl. II Nr. 334/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/334>)
+
+Aufgrund von § 4 Abs. 5, § 12 Abs. 4, § 13 Abs. 5, § 14 Abs. 3, § 15 Abs. 5, § 16 Abs. 4, § 20 Abs. 3, § 22 Abs. 2, § 22 Abs. 3, § 24 Abs. 6 sowie § 23 Abs. 2 des Nationalen Emissionszertifikatehandelsgesetzes 2022, [BGBl. I Nr. 10/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/10>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 60/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/60>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft verordnet:

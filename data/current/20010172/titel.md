@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus über die Begrenzung von Abwasseremissionen aus der Herstellung von Zellstoff und Papier (AEV Zellstoff und Papier) StF: [BGBl. II Nr. 62/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/62>) \[CELEX-Nr.: [32010L0075](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0075:DE:HTML>)\]
+
+Auf Grund der §§ 33b Abs. 3, 4, 5 und 7 sowie 33c Abs. 1 des Wasserrechtsgesetzes 1959, [BGBl. Nr. 215/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_215_0/1959_215_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 58/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/58>), wird im Einvernehmen mit der Bundesministerin für Digitalisierung und Wirtschaftsstandort verordnet:

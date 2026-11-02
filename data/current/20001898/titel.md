@@ -1,0 +1,3 @@
+Bundesgesetz über die Einrichtung einer Bundeswettbewerbsbehörde (Wettbewerbsgesetz – WettbG) StF: [BGBl. I Nr. 62/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_62_1/2002_62_1.pdf>) (NR: GP XXI [RV 1005](<https://www.parlament.gv.at/gegenstand/XXI/I/1005>) [AB 1047](<https://www.parlament.gv.at/gegenstand/XXI/I/1047>) [S. 97.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/97>) BR: [6612](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6612>) [AB 6618](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6618>) [S. 686.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/686>))
+
+Der Nationalrat hat beschlossen:

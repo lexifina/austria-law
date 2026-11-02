@@ -1,0 +1,1 @@
+Übereinkommen zwischen der Regierung der Republik Österreich und der Regierung der Vereinigten Staaten von Amerika über den Handel mit bestimmten Stahlerzeugnissen StF: [BGBl. Nr. 242/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_242_0/1990_242_0.pdf>)

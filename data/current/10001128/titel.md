@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Arbeit und Soziales über den Ausspruch des Verfassungsgerichtshofes, daß der Ausdruck ,,Stiefeltern'' in § 2 Abs. 1 und 2 der Verordnung des Bundesministers für soziale Verwaltung vom 10. Juli 1973 betreffend Richtlinien für die Gewährung der Notstandshilfe (Notstandshilfeverordnung), [BGBl. Nr. 352/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_352_0/1973_352_0.pdf>), gesetzwidrig war StF: [BGBl. Nr. 265/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_265_0/1991_265_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

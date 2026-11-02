@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für EU und Verfassung über die Festsetzung der Pauschalvergütung des Bundes für die Leistungen der Rechtsanwälte im Rahmen der Verfahrenshilfe vor den Verwaltungsbehörden und den Verwaltungsgerichten (Pauschalvergütungsverordnung Verwaltungsgerichte – VwG-PauschVgtV) StF: [BGBl. II Nr. 391/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/391>)
+
+Auf Grund des § 56a Abs. 2 der Rechtsanwaltsordnung – RAO, [RGBl. Nr. 96/1868](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=96/1868&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 58/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/58>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die gesonderte Festsetzung der Pauschalvergütung des Bundes für die von Rechtsanwältinnen und Rechtsanwälten in überdurchschnittlich lang dauernden Verfahren nach § 16 Abs. 4 RAO erbrachten Leistungen für das Jahr 2019 StF: [BGBl. II Nr. 145/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/145>)
+
+Auf Grund des § 47 Abs. 5 Rechtsanwaltsordnung, [RGBl. Nr. 96/1868](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=96/1868&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 39/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/39>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Hauptausschuss des Nationalrats verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz vom 26. Juni 1974 über Änderungen der Staatsgrenze zwischen der Republik Österreich und der Tschechoslowakischen Sozialistischen Republik StF: [BGBl. Nr. 345/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_345_0/1975_345_0.pdf>) (NR: GP XIII [RV 1091](<https://www.parlament.gv.at/gegenstand/XIII/I/1091>) [AB 1117](<https://www.parlament.gv.at/gegenstand/XIII/I/1117>) [S. 109.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/109>) BR: [AB 1152](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1152>) [S. 333.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/333>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002436",
+  "short_title": "Hoheitszeichen - USA",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002459",
+    "valid_from": "1979-10-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002436&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:04.529961+00:00",
+    "response_sha256": "d85fcd96a0b44f542041618d5c660e719aeba0899344add6310b8fba849096d8",
+    "snapshot_sha256": "bb4d74ff0f16d06e792817e4c7ff4c01b1ebf4d01287a6fed0d3217df0982b9c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90d6e1d2d2a636e12a707b94a050121bc612faebb0556207ec730f7ce1d58e9d",
+      "sha256": "228b6f46a8aa62319aa257d0b22c62c82a53f378f8cfbc215ec2f8c4b31cd071",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. September 1979 betreffend ein staatliches Hoheitszeichen der Vereinigten Staaten von Amerika StF: BGBl. Nr. 422/1979"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 422/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_422_0/1979_422_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05d47ccdf62cdfac8bd70a6a4811df9d6c6039d70f0dbe89baadef1473eb1202",
+      "sha256": "e8edf42465c081f924431369a6d8777448d8a7f5743f7843638d0241ba784fe2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

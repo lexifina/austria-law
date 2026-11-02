@@ -1,0 +1,1 @@
+Bundesgesetz vom 18. Juli 1924, betreffend das Verhältnis der land- und forstwirtschaftlichen Hauptkörperschaften zu den Bundesbehörden StF: [BGBl. Nr. 259/1924](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=259/1924&amp;SkipToDocumentPage=True>) (NR: GP II 15 AB 177 S. 51.)

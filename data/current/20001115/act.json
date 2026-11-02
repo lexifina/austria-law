@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001115",
+  "short_title": "Bestimmung des Straßenverlaufes der B 95 Turracher Straße im Bereich der Gemeinden Klagenfurt und Moosburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001200",
+    "valid_from": "2001-01-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001115&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:27:26.972730+00:00",
+    "response_sha256": "31f88fd22a59ddea3bc75a76062bf910cc5a2b230ac26e9c65bf4e411f4b76c5",
+    "snapshot_sha256": "a8ec721924d15aefb067c4a2b1c4bd9bb301ecc4a80fa9c812581f4ddc64fccc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "768e5e517a6b71300cc7f7a006d89a7b91950fc832123b19e932d420b1d84aff",
+      "sha256": "030daffc40d0e05c07227e7a98b78bc94d8558a2fb7f12426b31226247c9449b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der B 95 Turracher Straße im Bereich der Gemeinden Klagenfurt und Moosburg StF: BGBl. II Nr. 40/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 40/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_40_2/2001_40_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 182/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_182_1/1999_182_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa0026e5848d151dd0a05ba34ebb3c15d6384fb4393d79bfd0802474a423aa43",
+      "sha256": "ea63e4f4d4488e108f2d684d8c965cba920fcc1478cca56e7f56f600cbe13f7f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

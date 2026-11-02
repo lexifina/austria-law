@@ -1,0 +1,3 @@
+Bundesgesetz vom 25. Jänner 1989 über die Ausschreibung bestimmter Funktionen und Arbeitsplätze sowie die Besetzung von Planstellen im Bundesdienst und über die Änderung des Bundes-Personalvertretungsgesetzes (Ausschreibungsgesetz 1989 – AusG) StF: [BGBl. Nr. 85/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_85_0/1989_85_0.pdf>) (NR: GP XVII [RV 481](<https://www.parlament.gv.at/gegenstand/XVII/I/481>) [AB 868](<https://www.parlament.gv.at/gegenstand/XVII/I/868>) und [Zu 868](<https://www.parlament.gv.at/gegenstand/XVII/I/868>) [S. 92.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/92>) BR: [AB 3641](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3641>) [S. 511.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/511>))
+
+Der Nationalrat hat beschlossen:

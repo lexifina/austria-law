@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem eine Abgabe für den Normverbrauch von Kraftfahrzeugen eingeführt wird (Normverbrauchsabgabegesetz – NoVAG 1991) StF: [BGBl. Nr. 695/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_695_0/1991_695_0.pdf>) (NR: GP XVIII [IA 267/A](<https://www.parlament.gv.at/gegenstand/XVIII/A/267>) [AB 351](<https://www.parlament.gv.at/gegenstand/XVIII/I/351>) [S. 52.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/52>) BR: [4178](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4178>) [AB 4193](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4193>) [S. 548.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/548>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20007839",
+  "short_title": "Section Control-Messstreckenverordnung Ybbs",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40139615",
+    "valid_from": "2012-05-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007839&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:06:35.844725+00:00",
+    "response_sha256": "25015447ed0653ce368752c040e5f934feca057968949982cab7304f53dcaac4",
+    "snapshot_sha256": "0be0f063cc00b136e5ce1fa18d9765e9b57ed3af7c673c2fc499297c9736690f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "43eb15cccb7e8443af2d43cf34388987b58732f3877ef7d867787ea919488387",
+      "sha256": "9a1e1d942ba3536a8a7b41fb713989fe2b51745e95de0625b880729e3b2d0f98",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung auf einem Abschnitt der A 1 West Autobahn (Section Control-Messstreckenverordnung Ybbs) StF: BGBl. II Nr. 168/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 168/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/168"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a042aef33def173b05e8755f28ce4547a7512e6c01c8fc3f477bc30c8fa617be",
+      "sha256": "0a4be5dcf3fafe91e17a9854876da86b2626c4bebe158acd076e6c47e5134bcc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95d44b11c71de0b7d087c5f01c12691b27eeb4e17b3807d6e581ca875d53ea50",
+      "sha256": "6a3eea9fe92f7cecb8c6e627f98202fe64064bf2e17d25d9f4747d04e5fb119a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

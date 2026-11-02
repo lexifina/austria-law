@@ -1,0 +1,3 @@
+### Artikel 11 <sup>bis</sup>
+
+Für die Zwecke der Auslieferung oder der Rechtshilfe wird keine der in den Artikeln 3, 3 <sup>bis</sup>, 3 <sup>ter</sup> und 3 <sup>quater</sup> genannten Straftaten als politische Straftat, als eine mit einer politischen Straftat zusammenhängende oder als eine auf politischen Beweggründen beruhende Straftat angesehen. Folglich darf ein Ersuchen um Auslieferung oder Rechtshilfe, das auf einer solchen Straftat beruht, nicht allein mit der Begründung verweigert werden, dass es sich um eine politische Straftat, um eine mit einer politischen Straftat zusammenhängende oder um eine auf politischen Beweggründen beruhende Straftat handelt.

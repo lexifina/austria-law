@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control über die nähere Regelung der Datenerhebung zur Wahrnehmung der in § 131 Abs. 1 GWG 2011 genannten Überwachungsaufgaben (Gas-Monitoring-Verordnung 2017 – GMO-VO 2017) StF: [BGBl. II Nr. 418/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/418>)
+
+Aufgrund § 131 Abs. 2 Gaswirtschaftsgesetz 2011 – GWG 2011, [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), zuletzt geändert durch [BGBl. II Nr. 226/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/226>), iVm § 7 Abs. 1 Energie-Control-Gesetz – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>), zuletzt geändert durch [BGBl. I Nr. 174/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/174>), wird verordnet:

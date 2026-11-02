@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend vier Staatsembleme der Republik Estland - das Amtssymbol des Präsidenten der Republik Estland, den Weißen Stern, das Adlerkreuz und das Kreuz von Terra Marina StF: [BGBl. II Nr. 143/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_143_2/1998_143_2.pdf>)

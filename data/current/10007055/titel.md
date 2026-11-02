@@ -1,0 +1,3 @@
+Bundesgesetz vom 17. Mai 1990 über die Errichtung, Verwaltung und Beaufsichtigung von Pensionskassen (Pensionskassengesetz – PKG) StF: [BGBl. Nr. 281/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_281_0/1990_281_0.pdf>) (NR: GP XVII [IA 365/A](<https://www.parlament.gv.at/gegenstand/XVII/A/365>) [AB 1328](<https://www.parlament.gv.at/gegenstand/XVII/I/1328>) [S. 143.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/143>) BR: [AB 3863](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3863>) [S. 530.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/530>))
+
+Der Nationalrat hat beschlossen:

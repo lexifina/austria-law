@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002227",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002250",
+    "valid_from": "1972-10-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002227&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:00:33.531511+00:00",
+    "response_sha256": "23c7b51e8b85dfad2a126234ca3f508c8b7ddf4fd6ae2835ab79f15e21e6af3c",
+    "snapshot_sha256": "b5fdb5104a6c445f8905e8a23a4900472e5b4a5f3ba8f903c11b8fe2254bcb03",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1097b6d64a04943b6ea4217e46fedf43959dea4b6663521ca293314e7594d9c0",
+      "sha256": "fcf0c58089cfe226051adef30b56b68d1440776b2d37ac46e385f9ef29aee2a5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Republik Österreich und dem Königreich Swaziland betreffend die Wiederanwendung des österreichisch-britischen Rechtshilfeabkommens StF: BGBl. Nr. 426/1972"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 426/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_426_0/1972_426_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 45/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=45/1932&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca96dff66ba1186ed4e5617e190e6b9de1cdfe89c94d909eca00daa454cfe9a1",
+      "sha256": "de1a940d1e6e37ef9ac8c99bdb1df5d5f0124f00d440d52b1495650529943ccb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

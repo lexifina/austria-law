@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Durchführung des Praktikantenabkommens zwischen der Regierung der Republik Österreich und der Regierung der Republik Ungarn StF: [BGBl. III Nr. 81/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/81>)
+
+Gemäß Art. 1 Abs. 3 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Republik Ungarn über den Austausch von Arbeitnehmern zur Erweiterung der beruflichen und sprachlichen Kenntnisse (Praktikantenabkommen), [BGBl. III Nr. 27/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_27_3/1998_27_3.pdf>), wird verordnet:

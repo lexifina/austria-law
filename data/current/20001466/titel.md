@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Advanced Studies (Environmental Engineering and Management)“, Universitätslehrgang „Environmental Engineering and Management“ der Fakultät für Maschinenbau der Technischen Universität Graz StF: [BGBl. II Nr. 282/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_282_2/2001_282_2.pdf>)
+
+Gemäß § 26 Abs. 1 UniStG, [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird verordnet:

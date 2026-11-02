@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 9. Juni 1971 betreffend den Geltungsbereich des Protokolls über gewisse Abänderungen des Abkommens über die Internationale Zivilluftfahrt vom 14. Juni 1954 StF: [BGBl. Nr. 244/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_244_0/1971_244_0.pdf>)

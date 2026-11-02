@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen des Commonwealth Australien StF: [BGBl. Nr. 7/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_7_0/1992_7_0.pdf>)

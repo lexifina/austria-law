@@ -1,0 +1,3 @@
+## EINVERNEHMEN
+
+Die Regierungen Österreichs, Finnlands, Islands, Liechtensteins, Norwegens und Schwedens stimmen überein, daß im Falle eines Beitritts der Schweizerischen Eidgenossenenschaft (Anm.: richtig: Eidgenossenschaft) zum EWR-Abkommen die zusätzlichen Beträge zu erstatten sind, die sie gemäß dem Anpassungsprotokoll zum EWR-Abkommen auf Grund der Nichtratifikation des EWR-Abkommens durch die Schweiz geleistet haben. Vom Zeitpunkt des Beitritts der Schweizerischen Eidgenossenschaft zum EWR-Abkommen sind die Beiträge der anderen EFTA-Staaten so zu berechnen wie ursprünglich in dem am 2. Mai 1992 in Porto unterzeichneten EWR-Abkommen festgelegt.

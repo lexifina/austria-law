@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 22. November 1933, betreffend die Ausdehnung des Geltungsbereiches des österreichisch-britischen Rechtshilfeabkommens. StF: [BGBl. Nr. 516/1933](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=516/1933&amp;SkipToDocumentPage=True>)

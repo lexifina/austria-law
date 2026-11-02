@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Sitzungsgelder der Mitglieder der Sachverständigenkommission (SVKomm-Sitzungsgeldverordnung) StF: [BGBl. II Nr. 368/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/368>)
+
+Aufgrund des § 48 Abs. 4 des Eisenbahngesetzes 1957, [BGBl. Nr. 60/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_60_0/1957_60_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 143/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/143>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

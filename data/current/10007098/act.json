@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007098",
+  "short_title": "Umrechnungskurs des ECU im gemeinsamen Versandverfahren",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007212",
+    "valid_from": "1990-12-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007098&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:01:13.768944+00:00",
+    "response_sha256": "5f56fed8e473006bbb0e73fbbaadf274da1d78527b8053a62c7c56d0b2865fb6",
+    "snapshot_sha256": "4f4bfc6c4ba6d6593f2b1f4604c4a5ea8e81ed6fbfb218b6804823a49f576ac2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34c00942a257f11e0151d68aa3ac0c85dcf4e629c74a305662cc40626987af47",
+      "sha256": "89af61757649b5653f872c8174a7662ef1ad399443c6a92a28d3c9a67f10e0da",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Finanzen betreffend den Umrechnungskurs des ECU im gemeinsamen Versandverfahren StF: BGBl. Nr. 750/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 750/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_750_0/1990_750_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 633/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_633_0/1987_633_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2990a819cb6348ef37b92ebbcda4a81f871b48f2af925e2d41c01bf92bb2230d",
+      "sha256": "c7eca939f8e31eacdadcaf583d6a95607a7a6c37e0231151e320c03a91ca9420",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 632/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_632_0/1987_632_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

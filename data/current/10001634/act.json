@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001634",
+  "short_title": "Gerichtlicher Eid der Personen Helvetischen Bekenntnisses",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001656",
+    "valid_from": "1945-07-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001634&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:49:58.109183+00:00",
+    "response_sha256": "0fd878ceba58fe38059a982fe9a06bc3eb32de8397473a61c07dc18ec2ce5cb0",
+    "snapshot_sha256": "ce49e822fa203c6898f619659921f38ad671f5cbc0a681ec31f9f5fed28d953f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f19b700ae22f0e42083fa773b1e7e09f207ed164afe436f2195cc665227d2d09",
+      "sha256": "25c539806d3d0e9239c8ccb6841c38545daad7b457f62c3937e6b9a565ba60c6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Hofdecret vom 21sten December 1832, an sämmtliche Appellations-Gerichte, zu Folge allerhöchster Entschließung vom 20. October 1832, über Vortrag der Hof-Commission in Justiz-Gesetzsachen. StF: JGS Nr. 2582/1832"
+        },
+        {
+          "kind": "Änderung",
+          "text": "dRGBl. I S 984/1940 StGBl. Nr. 47/1945"
+        }
+      ],
+      "links": [
+        {
+          "text": "dRGBl. I S 984/1940",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19400004&seite=00000984"
+        },
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32c302ec89ca49573feb9e12bbdfa66122abab0127e05a15d6218b13c4f07f6f",
+      "sha256": "a1c263e3075e755772f4e2719ab73fe99df72d19b04881a07d6c0fe0f7627441",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

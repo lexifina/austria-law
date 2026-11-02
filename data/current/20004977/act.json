@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004977",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes der Gemeinden Poysdorf und Drasenhofen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005437",
+    "valid_from": "2006-09-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004977&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:24:03.800897+00:00",
+    "response_sha256": "f6e0afa0daecf5c20cb2fe900a0425520fa8920f918f28fc741f11c3c1c6684f",
+    "snapshot_sha256": "809198ede05d785df7e0acbda64a0033b9dcbc239785bca184e024bea6296b72",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c725cf4f7e5ec62b74b811ec78250a5debcb0f0513b22a82af771ac52414cefb",
+      "sha256": "58c25697ade07bebb9a83f5b271699820f79a7191131808fc03b0003b8170081",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Poysdorf und Drasenhofen StF: BGBl. II Nr. 341/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 341/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/341"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7c316cc95fa072f2b35a8e647d526cd45b53a61d24b7cf952ba31876eea9a77",
+      "sha256": "058a7f25e8fe46391a2fb944ebee66c7dfaee57eb719544ca7aab81a97bdf119",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

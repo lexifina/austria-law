@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001209",
+  "short_title": "VfGH-Aufhebung einer PlakatierungsV gemäß § 48 MedienG",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001215",
+    "valid_from": "1992-09-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001209&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:43:17.465342+00:00",
+    "response_sha256": "65f5f8ff3e88fd1d8a462d1f596b5cdd943391a896006240329d9b5f635c849c",
+    "snapshot_sha256": "10bc264e3d13e5b16995874afc0143670a22298e2a91f2ad74ec5337249d93c9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cab8533769c4358fdfb0adc0df23ec8f2b2ed1094f4867d05f4fa65f9ae51365",
+      "sha256": "9e90cfba43415be68ef983be3fcc6fb40f270e5c3be46ea2387fbaeee7d7547c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Inneres über die Aufhebung einer Plakatierungsverordnung gemäß § 48 MedienG durch den Verfassungsgerichtshof StF: BGBl. Nr. 603/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 603/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_603_0/1992_603_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "736ed512d8932aba592b40056653efbb82524ddd77ae4c105a9947fba7db4f1c",
+      "sha256": "e96e5df1ce0bb244c46832833095a8bb10389481fd628f10a336f8e8d35c2511",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

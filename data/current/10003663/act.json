@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003663",
+  "short_title": "Errichtung einer zweiten Notarstelle in Traun",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003693",
+    "valid_from": "1999-02-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003663&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:12.455648+00:00",
+    "response_sha256": "847ce63c789a8d3862828148923b5bd4148d090820c4ecc4525e57cf44f87d4f",
+    "snapshot_sha256": "60e305ee03b5d50005b59056c550022b6d89b2ceb6152b37984833ad68b3a07d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d37a50a0197361250b82daec007be6ba2cafb0f6655991d5b8f12d9cb547a62",
+      "sha256": "4a548b9ddf82c09f8ce7d91cccfeb3f8b19bbf1ad643caa044b8055f02f4b8da",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Traun StF: BGBl. II Nr. 65/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 65/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_65_2/1999_65_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89208ef3a6ec4379665d46c03a3cdbdc3edc90499c74bf4b244afcd7b99fd468",
+      "sha256": "95df454b0b76f1d66d9ff7a8ae03546a64a6d9e8bbde5a8385c9a20550e4d995",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

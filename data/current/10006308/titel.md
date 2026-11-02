@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 10. August 1973, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen werden StF: [BGBl. Nr. 492/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_492_0/1973_492_0.pdf>)

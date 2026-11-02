@@ -1,0 +1,1 @@
+Bekanntmachung des Bundesministers für Unterricht und Kunst betreffend den Lehrplan für den evangelischen Religionsunterricht an Hauptschulen und an der Unterstufe der allgemeinbildenden höheren Schulen StF: [BGBl. Nr. 492/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_492_0/1993_492_0.pdf>)

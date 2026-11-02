@@ -1,0 +1,98 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000514",
+  "short_title": "Eur. Fernmeldesatellitenorganisation \"EUTELSAT\"",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000550",
+    "valid_from": "2000-04-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000514&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:19:39.830435+00:00",
+    "response_sha256": "41aaef29e7ccf7b3b3bcf4d9619e649f513d45efa0dbea879b9b4d1f043c3c09",
+    "snapshot_sha256": "b3055a7fea754b33654b50c93613cca481484d12c34749dcf94c7c20af55fae2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8c3f758b3dc559303cf3cdbbbd5a59389d677e469469fbc3ec29fd93baa5c59",
+      "sha256": "7010383d3b92da2a6b6e2c8cd059c78bf71c97480381d8b7fe3d2b6d34471e39",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation \"EUTELSAT\" StF: BGBl. III Nr. 48/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 48/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_48_3/2000_48_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "692f6e3fb7bdd874c9398877d3a3e7dd1ccf8a36b87cfbc0526371a3dd2d72c8",
+      "sha256": "44315c0377dbc0a7718fc4334dea15f74bdfe0e08869ca8b126e8d210ba0b270",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_350_0/1985_350_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 488/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_488_0/1994_488_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 350/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_350_0/1985_350_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 24/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_24_0/1986_24_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

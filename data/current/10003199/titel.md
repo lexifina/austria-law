@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem des EFTA Gerichtshofes StF: [BGBl. Nr. 688/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_688_0/1994_688_0.pdf>)

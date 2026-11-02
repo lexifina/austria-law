@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem Bestimmungen auf dem Gebiet der Kraft-Wärme-Kopplung neu erlassen werden (KWK-Gesetz) StF: [BGBl. I Nr. 111/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/111>) (NR: GP XXIII [RV 554](<https://www.parlament.gv.at/gegenstand/XXIII/I/554>) [AB 644](<https://www.parlament.gv.at/gegenstand/XXIII/I/644>) [S. 65.](<https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/65>) BR: [AB 7988](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7988>) [S. 759.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/759>)) \[CELEX-Nr.: [32003L0054](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0054:DE:HTML>). [32004L0008](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0008:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

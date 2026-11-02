@@ -1,0 +1,114 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10001691",
+  "short_title": "Vorgang bei der Bewerbung um Notarstellen, bei der Qualifizierung der Bewerber und Erstattung der Besetzungsvorschläge für Notarstellen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001713",
+    "valid_from": "1887-12-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "In das JMVBl. aufgenommene Verordnungen galten den Justizbehörden gegenüber mit der Zustellung des Verordnungsblattes an sie als kundgemacht. Mangels eines einheitlichen Inkrafttretensdatums wird für die Dokumentation die Inkrafttretensregelung für das Reichsgesetzblatt (RGBl. Nr. 113/1869: 45 Tage nach Kundmachung) sinngemäß angewendet."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001691&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:50:39.164169+00:00",
+    "response_sha256": "b793ed212a64596b42df04a680969cc32366885d686d82820790f4c9c80edc1b",
+    "snapshot_sha256": "1a81f54b9ca34cc28356410f03e0a7d1ff2ce33fdc697714e1d8fc1ff76b0f25",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c0e67e770467d571e8992b9bc5181c784983e128aacbf77a3c30166581ef6ca",
+      "sha256": "e55f3f09c3f3554fbd4aec6d6008e33e5f10c3ee4dd29123e56d1d63db2b2f54",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "In das JMVBl. aufgenommene Verordnungen galten den Justizbehörden gegenüber mit der Zustellung des Verordnungsblattes an sie als kundgemacht. Mangels eines einheitlichen Inkrafttretensdatums wird für die Dokumentation die Inkrafttretensregelung für das Reichsgesetzblatt (RGBl. Nr. 113/1869: 45 Tage nach Kundmachung) sinngemäß angewendet."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Justizministeriums vom 31. October 1887, Z. 9172, betreffend den Vorgang bei der Bewerbung um Notarstellen, bei der Qualificirung der Bewerber und bei Erstattung der Besetzungsvorschläge für Notarstellen StF: JMVBl. Nr. 36/1887"
+        },
+        {
+          "kind": "Änderung",
+          "text": "StGBl. Nr. 95/1919"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        },
+        {
+          "text": "StGBl. Nr. 95/1919",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=95/1919&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "An alle Gerichte.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cfe5f01e5430d78e2c01631b89ee4f875c676b12011b923ea1b0835074e5acf0",
+      "sha256": "995086e9d2c12876fde4a6753a14e85cbe5b3e037b32685887ae6d46d5ab88ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Erlass des Justizministeriums vom 31. October 1887, Z 9172. An alle Notariatskammern.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db68b85296dc026dfb93cedb4dc17b66fdbe6191fe5a8130e340fb796b611a18",
+      "sha256": "6521625d3d0d7a42b5973d0204e002f119cbf6c22b95dc430a3d2af6c1dc8b67",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

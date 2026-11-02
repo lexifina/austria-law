@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der A 2 Süd Autobahn, der A 21 Wiener Außenring Autobahn und der B 301 Wiener Südrand Straße – Bauvorhaben "Knoten Vösendorf (Umbau)" im Bereich der Gemeinden Vösendorf und Wiener Neudorf StF: [BGBl. II Nr. 134/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_134_2/2002_134_2.pdf>)
+
+Auf Grund des § 4 Abs. 1 und 6 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Inneres betreffend das Inkraftsetzen des Schengener Durchführungsübereinkommens StF: [BGBl. III Nr. 205/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_205_3/1997_205_3.pdf>)

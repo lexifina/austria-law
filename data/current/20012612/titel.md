@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie zur Gewährung von Investitionszuschüssen für die Errichtung oder Umrüstung von Anlagen zur Erzeugung von erneuerbarem Gas (EAG-Investitionszuschüsseverordnung-Gas) StF: [BGBl. II Nr. 158/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/158>)
+
+Aufgrund des § 63 Abs. 1 des Erneuerbaren-Ausbau-Gesetzes (EAG), [BGBl. I Nr. 150/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 27/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/27>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft verordnet:

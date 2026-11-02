@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009230",
+  "short_title": "Anerkennung der Mormonen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009421",
+    "valid_from": "1955-12-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009230&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:28:53.821441+00:00",
+    "response_sha256": "ced4aa0aeab45c4b91d4674517ee746c1ca1c6716aaad5c5a35fb81153f8e79f",
+    "snapshot_sha256": "3415af97ecfe01b424641e680b81c19af593ccc6deb485e5c82cf521af111175",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29aacdf8209f604ba06abffacb1ba4513bddd7c22b3ebcc6310095779b1af9d1",
+      "sha256": "f9de675c986195918d5f0defd3b2779694122a98656221a29896bd408ffd584d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Unterricht vom 27. September 1955, betreffend die Anerkennung der Anhänger des Religionsbekenntnisses der „Kirche Jesu Christi der Heiligen der Letzten Tage“ (Mormonen) als Religionsgesellschaft StF: BGBl. Nr. 229/1955"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 229/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_229_0/1955_229_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9dbf99e618476db28e655852babb01b5ad6bc4232b495845410fa2eceaa48e94",
+      "sha256": "7dfea491fb4a390fd4e9749ef9ce3f16d8dcf433193bd6326f3fbd545990d114",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

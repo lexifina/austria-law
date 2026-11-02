@@ -1,0 +1,3 @@
+Verordnung über die Festsetzung der Journaldienstzulage für die Ärztinnen und Ärzte an den Universitätskliniken der Medizinischen Universitäten StF: [BGBl. II Nr. 202/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_202_2/2000_202_2.pdf>)
+
+Auf Grund des § 17a in Verbindung mit § 15 Abs. 2 des Gehaltsgesetzes 1956, BGBl. Nr. 54, sowie im Zusammenhang mit § 22 Abs. 1 des Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, beide in der Fassung des Bundesgesetzes [BGBl. I Nr. 6/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_6_1/2000_6_1.pdf>), wird mit Zustimmung des Bundesministers für öffentliche Leistung und Sport verordnet:

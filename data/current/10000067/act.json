@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000067",
+  "short_title": "Internationale Kollektivverträge",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000067",
+    "valid_from": "1922-02-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000067&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:21:58.373828+00:00",
+    "response_sha256": "25ae3ad82104929dcffe558f86e90b9bcceb7b895c4dad9528bce5803ecf2d15",
+    "snapshot_sha256": "6420deb7cb6eeefac4e05539b0ecef6c22eefdae10d9f69c5754d1258dc87561",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2be31afbb431b42f0de27a939ddd61a917161000721e18a35848f15bb6545dc2",
+      "sha256": "37fc14c80b5e8a44b0f431f2ace60004cdc12225091f4c274bc4772300c36585",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit dem Bundesministerium für Äußeres vom 1. Februar 1922, betreffend die Geltung gewisser internationaler Kollektivverträge im Verhältnis zwischen der Republik Österreich und den nicht zu den alliierten und assoziierten Mächten gehörenden Vertragsmächten. StF: BGBl. Nr. 68/1922"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 68/1922",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=68/1922&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6d817a99d2f2c7651be30fdcf3fab33f0da8b0491f1b568cd3a5a8b532377f1",
+      "sha256": "a01f8a1285bdf8de383879a002a404aac013b4f91ae2270f337101420af863c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

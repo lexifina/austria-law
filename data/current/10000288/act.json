@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000288",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000289",
+    "valid_from": "1957-09-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000288&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:26:30.591894+00:00",
+    "response_sha256": "9b2bf36a1ec079fc632c2b602d42837a070537bf96c689a61363d2d507082093",
+    "snapshot_sha256": "2b2d742d16d9d6e5e834d908a4fc58ae7d58c6604e404da8165cb78c7404f491",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06f04cf49c0fdb525d8dd0b8b2b0b43feedb95fca5229299d6ba1483ed4985c3",
+      "sha256": "6f47ff01018bdefe634fc70b88b3fd3b5c8e7f8b2e347c83c2debaa798fc5925",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 28. August 1957, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung in Angelegenheiten der Vertragsbeziehungen zwischen einem Weingartenbesitzer und einem Winzer. StF: BGBl. Nr. 205/1957"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 205/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_205_0/1957_205_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c2f808efd08a8d3c61378e12963740bc2050d6ea55961bc221d8eb2c3ee290d",
+      "sha256": "039e7b2bdabf6d00e7370b63a9a32f81a5e5aac4be0804b3f1c7b281b6a03ab5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

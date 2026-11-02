@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Unterricht und Kunst über die Lehrpläne für die Bildungsanstalt für Sozialpädagogik; Bekanntmachung der Lehrpläne für den Religionsunterricht an dieser Schule StF: [BGBl. Nr. 355/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_355_0/1985_355_0.pdf>)

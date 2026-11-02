@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Auswärtige Angelegenheiten vom 30. Oktober 1985, mit der dem Bundesministerium für öffentliche Wirtschaft und Verkehr gemäß § 15 des Bundesministeriengesetzes 1973 gewisse Ermächtigungen erteilt werden StF: [BGBl. Nr. 463/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_463_0/1985_463_0.pdf>) idF [BGBl. Nr. 612/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_612_0/1986_612_0.pdf>) (DFB)
+
+Auf Grund des § 15 Abs. 1 und 2 des Bundesministeriengesetzes 1973, BGBl. Nr. 389, wird im Einvernehmen mit dem Bundesminister für öffentliche Wirtschaft und Verkehr verordnet:

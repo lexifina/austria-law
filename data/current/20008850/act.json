@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008850",
+  "short_title": "Errichtung einer weiteren Notarstelle in Eisenstadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40162387",
+    "valid_from": "2014-05-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008850&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:21:50.829874+00:00",
+    "response_sha256": "b708c5d7ccfd295d59df7cf21fde9a08208521ad208921f17c26027f4e701a0a",
+    "snapshot_sha256": "aff26a6932a711c0bdfb97cff382d3d3c59c583933377a5b40e1705cac856d6a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "925266ca119ead72fd4f45663603c91052a94c3bb76a46510c5d67cece6e97bc",
+      "sha256": "4c97c56fb3e16bb8f573f33bfa02aa789127feb232d2644257b7318f4556b929",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz über die Errichtung einer weiteren Notarstelle in Eisenstadt StF: BGBl. II Nr. 116/2014"
+        },
+        {
+          "kind": "Vertragsparteien",
+          "text": "*Namibia III 54/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 116/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/116"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 190/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/190"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa61a5c284f71073534c13936b9922d0925522516559888b0a944d6bcd1795f6",
+      "sha256": "41ddffba022803a1b81a2cab856aa93063e6e939211c68f93864f4d3c320b86a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

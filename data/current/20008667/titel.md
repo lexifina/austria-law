@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Staatsembleme der Tschechischen Republik StF: [BGBl. II Nr. 384/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/384>)

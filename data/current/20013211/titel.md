@@ -1,0 +1,3 @@
+Verordnung der Abschlussprüferaufsichtsbehörde über die von zu überprüfenden Abschlussprüfern oder Prüfungsgesellschaften bereitzustellenden Informationen für die Angebotserstellung durch potenzielle Qualitätssicherungsprüfer (APAB-Angebotsinformationsverordnung – APAB-AIV) StF: [BGBl. II Nr. 164/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/164>)
+
+Aufgrund des § 29 Abs. 4 des Abschlussprüfer-Aufsichtsgesetzes – APAG, [BGBl. I Nr. 83/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

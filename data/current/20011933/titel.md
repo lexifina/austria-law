@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Digitalisierung und Wirtschaftsstandort über das Ergänzungsregister (Ergänzungsregisterverordnung 2022 – ERegV 2022) StF: [BGBl. II Nr. 241/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/241>)
+
+Auf Grund des 2. bis 4. Abschnitts, insbesondere § 6 Abs. 4 des E-Government-Gesetzes – E-GovG, [BGBl. I Nr. 10/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10>), zuletzt geändert durch das Bundesgesetzes [BGBl. I Nr. 169/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/169>), wird hinsichtlich des 1. und 3. Abschnitts im Einvernehmen mit dem Bundesminister für Inneres und hinsichtlich des 2. und 3. Abschnitts im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

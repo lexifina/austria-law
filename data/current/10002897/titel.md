@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 31. Jänner 1989 betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem des „Office international de la vigne et du vin“ StF: [BGBl. Nr. 125/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_125_0/1989_125_0.pdf>)

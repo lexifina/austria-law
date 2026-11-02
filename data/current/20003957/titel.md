@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Science (Psychotraumatologie und Stressmanagement)“, Universitätslehrgang „Psychotraumatologie und Stressmanagement“ der Donau-Universität Krems StF: [BGBl. II Nr. 76/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/76>)
+
+Auf Grund des § 3 Abs. 4 des Bundesgesetzes über die Errichtung des Universitätszentrums für Weiterbildung mit der Bezeichnung Donau-Universität Krems (DUK-Gesetz), [BGBl. Nr. 269/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_269_0/1994_269_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 128/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_128_1/1998_128_1.pdf>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend das Emblem der Bank für Internationalen Zahlungsausgleich StF: [BGBl. II Nr. 157/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_157_2/2001_157_2.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Landesverteidigung über die Untersuchung von Unfällen und Vorfällen beim Betrieb von in- und ausländischen Militärluftfahrzeugen (Militärluftfahrt-Flugunfalluntersuchungskommissionsverordnung – MilFlUV) StF: [BGBl. II Nr. 368/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_368_2/2001_368_2.pdf>)
+
+Auf Grund des § 137 Abs. 2 und 7 des Luftfahrtgesetzes, [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 105/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_105_1/1999_105_1.pdf>), sowie der Kundmachung [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>), wird verordnet:

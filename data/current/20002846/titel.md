@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Energie und Tourismus über die Erstellung von Verbraucherpreisindizes StF: [BGBl. II Nr. 351/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_351_2/2003_351_2.pdf>)
+
+Auf Grund der §§ 4 bis 8, 10, 11, 19 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), in der Fassung [BGBl. I Nr. 136/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_136_1/2001_136_1.pdf>), wird im Einvernehmen mit dem Bundeskanzler und hinsichtlich des § 12 Abs. 1 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

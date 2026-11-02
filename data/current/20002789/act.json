@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002789",
+  "short_title": "Ausarbeitung eines Rückkehrausweises",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003036",
+    "valid_from": "2003-06-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002789&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:52:15.033099+00:00",
+    "response_sha256": "27016c86e38b30beaeccfb3c9305d887a543becd0727bccc575b4de00aecf5d4",
+    "snapshot_sha256": "f1315d206d070c7107f0f0a9643c04fc4e7d0bcbd3bb905eef5ddeeee6b53b22",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32ee83ce52366cab8432682450e5fd0d9c761cbb007b1c67c0adc2708bd69b4f",
+      "sha256": "1a06faa052c64e92356558c82bb64306cef13562b46e5d91d354fa74b991f53d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundeskanzlers betreffend die Kundmachung des Beschlusses der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten vom 25. Juni 1996 zur Ausarbeitung eines Rückkehrausweises StF: BGBl. III Nr. 70/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 70/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_70_3/2003_70_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d770bb2e840c074c4c02b837e33ac3594a2220fb51308b07dce4e7a27fb9e51d",
+      "sha256": "ed37b4985563be2dec6c964b2207be9ff94ea544e87a436ac63f2c6be3bf5b2e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 69/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_69_3/2003_69_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

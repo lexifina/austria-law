@@ -1,0 +1,3 @@
+Bundesgesetz vom 2. Juni 1977 über die Sicherung von Arbeitnehmeransprüchen im Falle der Insolvenz des Arbeitgebers (Insolvenz-Entgeltsicherungsgesetz – IESG) StF: [BGBl. Nr. 324/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_324_0/1977_324_0.pdf>) (NR: GP XIV [RV 464](<https://www.parlament.gv.at/gegenstand/XIV/I/464>) [AB 554](<https://www.parlament.gv.at/gegenstand/XIV/I/554>) [S. 58.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/58>) BR: [AB 1675](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1675>) [S. 364.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/364>))
+
+Der Nationalrat hat beschlossen:

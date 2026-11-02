@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über die Einhebung der Schlechtwetterentschädigungsbeiträge (BSchEG-Einhebungsverordnung) StF: [BGBl. II Nr. 264/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_264_2/1998_264_2.pdf>) idF [BGBl. II Nr. 345/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_345_2/1998_345_2.pdf>) (DFB)
+
+Auf Grund des § 12 Abs. 5 des Bauarbeiter-Schlechtwetterentschädigungsgesetzes 1957, BGBl. Nr. 129, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 113/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_113_1/1998_113_1.pdf>), wird verordnet:

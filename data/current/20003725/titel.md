@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. Juli 1950, betreffend die Erweiterung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation. StF: [BGBl. Nr. 140/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_140_0/1950_140_0.pdf>)

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009244",
+  "short_title": "Errichtung einer weiteren Notarstelle in Groß-Enzersdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40173880",
+    "valid_from": "2015-08-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009244&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:29:13.296550+00:00",
+    "response_sha256": "fe38060095678f1f27085968551a15783a8206d808ec43c7df3510cdbe50cb41",
+    "snapshot_sha256": "6cd625a610cf334b2027f872cf18899d2a0df259b7ba38f5c0f24780d1ae4435",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b1cecbb76f82a41fa15e386960e4f92f228c5e69252689296ea2649982d8d54",
+      "sha256": "2c52645227c507bd8395ac832288595c30ae6d89808c17da29afd7078c92edd8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz über die Errichtung einer weiteren Notarstelle in Groß-Enzersdorf StF: BGBl. II Nr. 232/2015"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 232/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/232"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 190/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/190"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2b0732258c9bc6a472ee5ebaaeb6a088d3ca8142dfe78c8f2627be26f460d9b4",
+      "sha256": "50abf94937de4412adc0772445700e7f673fd4f0cd40704a38d9f9a0fa6b1407",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

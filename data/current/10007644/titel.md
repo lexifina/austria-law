@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Abkommens zur Errichtung der Welthandelsorganisation StF: [BGBl. Nr. 539/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_539_0/1995_539_0.pdf>)

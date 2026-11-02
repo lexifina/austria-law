@@ -1,0 +1,1 @@
+Übereinkommen zwischen der Republik Österreich und der Union der Sozialistischen Sowjetrepubliken betreffend Sichtvermerke für Journalisten und deren Familienangehörige (Notenwechsel) StF: [BGBl. Nr. 178/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_178_0/1976_178_0.pdf>)

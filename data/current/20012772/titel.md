@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers über das erweiterte teilweise Vorliegen von technischen und organisatorischen Voraussetzungen für den Echtbetrieb des digitalen Dokumentennachweises in der zentralen Zulassungsevidenz StF: [BGBl. II Nr. 355/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/355>)

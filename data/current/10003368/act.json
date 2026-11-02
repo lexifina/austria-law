@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003368",
+  "short_title": "Errichtung einer zweiten Notarstelle in Reutte",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003395",
+    "valid_from": "1996-11-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003368&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:35.815625+00:00",
+    "response_sha256": "b3e9116a8ddf34e676d6d7c7ddfef1c0d973b62c9cf2bc24830ee42c0b2d8e47",
+    "snapshot_sha256": "85f48e9b3552e760f6d8a79f75d2c7fd807f491e2b074b624fdce22f747ea51e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "965410fa934029f87f118644919aacdf99941eb6272491c64a8e2f2dfadbc5b0",
+      "sha256": "e880b3d4dda480727ee6f7a140f327657f02ecce82d858c927a3560a185704d4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Reutte StF: BGBl. Nr. 620/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 620/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_620_0/1996_620_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80fe29f126ab0bbe68a524938e95188aaa3cbc02b5099b73dc12099f5522d64b",
+      "sha256": "866396360eab783fb24fa55db77439779c98d551cdc006a3a5b0b2aabc5447e3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

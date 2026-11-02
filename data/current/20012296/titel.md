@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über den Absetzbetrag für begünstigte Investitionen im Rahmen der Energiekrisenbeiträge (EKB-InvestitionsV) StF: [BGBl. II Nr. 194/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/194>)
+
+Aufgrund des § 9 Abs. 1 Z 1, Abs. 2 und 3 des Bundesgesetzes über den Energiekrisenbeitrag-Strom (EKBSG), [BGBl. I Nr. 220/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/220>), und des § 4 Abs. 1 und 2 sowie des § 7 Abs. 2 des Bundesgesetzes über den Energiekrisenbeitrag-fossile Energieträger (EKBFG), [BGBl. I Nr. 220/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/220>), wird verordnet:

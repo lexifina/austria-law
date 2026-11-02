@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003726",
+  "short_title": "Weltgesundheitsorganisation – Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004044",
+    "valid_from": "1951-09-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003726&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:03:50.857176+00:00",
+    "response_sha256": "891e17c9f185d7c4d4ef77170cdf8ed5076a4aecc4f3e92b5ce0d4b586129c6a",
+    "snapshot_sha256": "b89867eaf109440bb5f6a7527e05a530cdc1929798858783593bbe9730a3a4c6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94acf981d8d4ea8145bc70040ac53acf559e11c077b40e20e6127c5f6eb22230",
+      "sha256": "5253a2abdc9d080c6a7cf212a33e5ecebbca8ea5eba611a930879f9547bc5bfa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 9. August 1951, betreffend die Erweiterung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation und des Protokolls, betreffend das Office International dʻHygiène Publique. StF: BGBl. Nr. 209/1951"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 209/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_209_0/1951_209_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be5ef38d19f3c909395158dfea57e027a30a7623e79bc3490b0abe4c8ef187ac",
+      "sha256": "b4b9f56edfcfdc08da2a5410eacf9910acb11171c5a9959208f24af4c6437374",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 96/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_96_0/1949_96_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 96/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_96_0/1949_96_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

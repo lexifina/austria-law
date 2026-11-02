@@ -1,0 +1,3 @@
+Bundesgesetz vom 29. April 1975 betreffend die land- und forstwirtschaftlichen Privatschulen (Land- und forstwirtschaftliches Privatschulgesetz) StF: [BGBl. Nr. 318/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_318_0/1975_318_0.pdf>) (NR: GP XIII [RV 587](<https://www.parlament.gv.at/gegenstand/XIII/I/587>) [AB 1061](<https://www.parlament.gv.at/gegenstand/XIII/I/1061>) und 1568 [S. 144.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/144>) BR: [AB 1356](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1356>) [S. 342.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/342>))
+
+Der Nationalrat hat beschlossen:

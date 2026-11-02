@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 29. Jänner 1957, über den Mitgliedsstand der Übereinkommen und Erklärungen der Ersten und Zweiten Haager Friedenskonferenz von 1899 und 1907 (RGBl. Nr. 173 bis Nr. 188/1913). StF: [BGBl. Nr. 50/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_50_0/1957_50_0.pdf>)

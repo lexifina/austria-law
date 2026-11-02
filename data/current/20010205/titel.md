@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über die Aufteilung der Pflichten gemeinsam Verantwortlicher nach den Bestimmungen der Datenschutz-Grundverordnung für standardisierte IKT-Lösungen und IT-Verfahren des Personalmanagements des Bundes (Pflichtenaufteilungsverordnung – PAV) StF: [BGBl. II Nr. 107/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/107>)
+
+Auf Grund des § 280b Abs. 2 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), zuletzt geändert durch das Materien-Datenschutz-Anpassungsgesetz 2018, [BGBl. I Nr. 32/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32>), wird verordnet:

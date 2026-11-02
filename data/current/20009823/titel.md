@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die zur Überprüfung des Speichels auf Suchtgiftspuren geeigneten Geräte und die zu deren Handhabung zu ermächtigenden Organe der Straßenaufsicht (Speichelvortestgeräteverordnung 2017) StF: [BGBl. II Nr. 61/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/61>)
+
+Auf Grund des § 5a Abs. 3 der Straßenverkehrsordnung 1960 - StVO 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/6>), wird im Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie verordnet:

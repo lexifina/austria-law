@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Vermeidung einer Doppelbesteuerung im Verhältnis zum Gebiet, das dem vom Finanzministerium, Taipeh, angewendeten Steuerrecht unterliegt StF: [BGBl. II Nr. 385/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/385>)
+
+Auf Grund des § 1 des Bundesgesetzes über die Vermeidung einer Doppelbesteuerung im Verhältnis zu Gebieten ohne Völkerrechtssubjektivität (Doppelbesteuerungsgesetz – DBG), [BGBl. I Nr. 69/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/69>), wird im Einvernehmen mit dem Bundesminister für Europa, Integration und Äußeres und dem Hauptausschuss des Nationalrats verordnet:

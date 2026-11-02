@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die Spanische Hofreitschule und das Bundesgestüt Piber rechtlich verselbständigt werden (Spanische Hofreitschule-Gesetz) StF: [BGBl. I Nr. 115/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_115_1/2000_115_1.pdf>) (NR: GP XXI [RV 282](<https://www.parlament.gv.at/gegenstand/XXI/I/282>) [AB 330](<https://www.parlament.gv.at/gegenstand/XXI/I/330>) [S. 40.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/40>) BR: [AB 6224](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6224>) [S. 669.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/669>))
+
+Der Nationalrat hat beschlossen:

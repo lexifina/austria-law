@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 9. Juli 1974 betreffend den Geltungsbereich des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt vom 12. März 1971 StF: [BGBl. Nr. 485/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_485_0/1974_485_0.pdf>)

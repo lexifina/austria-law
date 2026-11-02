@@ -1,0 +1,1171 @@
+{
+  "sample_only": false,
+  "included_provisions": 17,
+  "source_provision_count": 17,
+  "schema_version": 1,
+  "gesetzesnummer": "20012593",
+  "short_title": "Wertschöpfungskettenstatistik-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40262278",
+    "valid_from": "2024-05-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012593&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:38:52.411219+00:00",
+    "response_sha256": "a34a9f8536c67c536f7f3f7c599a1b89d257751abcb48f2b4a92309f6823206e",
+    "snapshot_sha256": "c5c923a77a3da5aee3cc287b62dbd19c42e9037f2fe7884720943bae2e8b6684",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e81ce14a7c5bf489ba03c55239bacbaeb7269bec427d273de48421c79d8eee49",
+      "sha256": "f1ebacd71188d153174b429bad36070e96b468f4348a4e00a1ce857e1aa0435c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit und Wirtschaft über die Erfassung von globalen Wertschöpfungsketten in der Unternehmensstatistik (Wertschöpfungskettenstatistik-Verordnung) StF: BGBl. II Nr. 133/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 133/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/133"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 185/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/185"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anordnung zur Erstellung der Statistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3dc514f714cd3b359ad30643f02d335b0d914a17b3da4577b8252c6337d08ab6",
+      "sha256": "12dfb265c58a71ca46dfaa024168d570f38b936eea955d8b318773da556ee5eb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4d94a9e98a96695a8d2a2b814f10f56e32b5413f0f31be13713b301dafc140ae",
+      "sha256": "fc2b8b47dd6e5aee04e4097e7571718058613a8d4b0d8edb01db5c1f4690a968",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Periodizität, Kontinuität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7377cdfbf6ff17b649c3e36d1de4084635f75fa6c3470800ece44ba97bfaadf6",
+      "sha256": "a593819dea2b374af1c2d2d9a81ec63d6060435d01181f03e5cf3971addac330",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Statistische Einheiten, Erhebungsmasse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21e65e0be9ce76ad6724bd2426f59891d9da1587d74ff9237e0fdc9c345918ca",
+      "sha256": "988bcb28cf5978acadd11a5ac977ef1c3e4ebc6e18903c26c068de1555e9cdf6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Erhebungsmerkmale, Erhebungsart",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d3f781e846a3a232ea91d189378bd9ad414027de2f1f526527c42e9e38c097c",
+      "sha256": "f57ea633ee515025fcb4430ab2304c420a452356b26f1b1c9e95a2ecd62c9e34",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Auskunftspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b93c2ebdad06393ce7b21d0e997c68c0a115f597434731cf67bb432ccd59ecba",
+      "sha256": "cdf4e6b4f0670a9bc8d91437427c854dbe12e610bc63359dfe169022110d8054",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Erhebungsunterlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "784f43210f35adc608cfd4b77e3c31b9e92272c0c39f70ae1de1df52db9f22de",
+      "sha256": "f9fe844a14f70433cbd8d266a325654864a204ecee8c0bec37bcdcd57862c64c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Mitwirkungspflicht der Auskunftspflichtigen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56e45fb7f2123b2847ae19690c75a055d8f0c654fe0d6cf1cb36ad287a6a0b0e",
+      "sha256": "15f3ecad6c70651ffb9962e8cc63a1c2cb8633c6c4b89b5d851ae476395cff2d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Pflichten der Inhaberinnen bzw. Inhaber von Verwaltungs- und Statistikdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4747e0329af17726da6c8b5754d3621234fedcf2879a0356c9744a8224b035b",
+      "sha256": "046f78751b80fdae00741df1c297ad93b4002e8fd11e63a2716296e9282c0ffb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Information über Auskunfts- und Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6977e1b3886c64ad7434b9edb77ba43921c0d33f1e22c0cf53e9f8aae51b6e56",
+      "sha256": "0690e6b2982668406f751bef8b552f465bc42e6ed1d6fbdfb953ed7c1c38084d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Publikation der Ergebnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb021dce2b07b0ba9164d92f327657fe5a34d44979b64cef62120ec0333f1dcb",
+      "sha256": "b13e4121a8860d8e51651f5dc7cf196ad7d86626f24a6e6a73313799f192fae2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Kostenersatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fad8b6a8f96a4ce91eaffaee3a3529796449e6c9fed692a5201209a1c2e2f77e",
+      "sha256": "2827f11cf983fb87add67eb500aca45b0678bf5ed4f38441163cec14503cd536",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5a31a10f4c5729d791bc4121754673df73f72a5105d6dfe3fa62738e9b5292ab",
+      "sha256": "334eb56e498105a36717169e7d92672dadcb3c7e56390af6ae049efffbd4df89",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 185/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/185"
+        },
+        {
+          "text": "BGBl. II Nr. 305/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/305"
+        },
+        {
+          "text": "BGBl. II Nr. 365/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/365"
+        },
+        {
+          "text": "BGBl. II Nr. 396/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_396_2/2003_396_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 150/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/150"
+        },
+        {
+          "text": "BGBl. Nr. 173/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_173_0/1995_173_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 186/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/186"
+        },
+        {
+          "text": "BGBl. II Nr. 510/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/510"
+        },
+        {
+          "text": "BGBl. I Nr. 123/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_123_1/2003_123_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37"
+        },
+        {
+          "text": "BGBl. Nr. 663/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_0/1994_663_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 201/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/201"
+        },
+        {
+          "text": "BGBl. II Nr. 289/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/289"
+        },
+        {
+          "text": "BGBl. II Nr. 213/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/213"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        },
+        {
+          "text": "BGBl. I Nr. 119/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/119"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2804c0701d146abd392d3e605a271be8fca6a0a859deb207134b79e23438ae2c",
+      "sha256": "4c7fee5e223c172f94e5f4bb7989cbc8e82c387885f33dac3539850ae048a1d7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage I",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8282cd3ef1d4f652d4ee4e460e8dc389001d5b3d026a759687c56e84dfff2fb5",
+      "sha256": "baad0fd9b3c2546e74cb1ba4d96bcde788563cde9797c10f1e7dbaae31dfb454",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "I.1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identifikationsmerkmale",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Name",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Adresse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tätigkeit(en)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zugehörigkeit zu einer Unternehmensgruppe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sitzland der globalen Zentrale der Unternehmensgruppe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichtszeitraum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "I.2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kernfunktion des Unternehmens",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "I.3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschäftigte im Jahresdurchschnitt nach Unternehmensfunktionen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "I.4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auslagerung von Unternehmensfunktionen ins Ausland",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.4.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Existenz von Auslagerungen vor der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Art der Auslagerung (überwiegend innerhalb / außerhalb der Unternehmensgruppe)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.4.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unternehmensfunktionen, die in der Berichtsperiode ins Ausland ausgelagert wurden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Art der Auslagerung (innerhalb / außerhalb der Unternehmensgruppe)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Geographisches Ziel der Auslagerung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.4.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausmaß der durch die Auslagerung(en) verursachten Beschäftigungsveränderung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– reduzierte Arbeitsplätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– neu geschaffene Arbeitsplätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– jeweils: Anteil hochqualifizierter Arbeitsplätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.4.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wichtigkeit der Motive und Hemmnisse für erfolgte oder beabsichtigte Auslandsauslagerungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "I.5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Globale Wertschöpfungsketten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezug von Waren und Dienstleistungen aus dem Ausland im letzten Jahr der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.5.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der bezogenen Waren nach Kategorien (wenn der Kategorienwert mehr als 100 000 Euro beträgt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Sitzregion der Unternehmen von denen die Waren bezogen wurden (EU / andere europäische Länder inkl. UK / übrige Welt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.5.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der bezogenen Dienstleistungen nach Kategorien (wenn der Kategorienwert mehr als 100 000 Euro beträgt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Sitzregion der Unternehmen von denen die Dienstleistungen bezogen wurden (EU / andere europäische Länder inkl. UK / übrige Welt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lieferung von Waren und Dienstleistungen in das Ausland im letzten Jahr der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.5.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der gelieferten Waren nach Kategorien (wenn der Kategorienwert mehr als 100 000 Euro beträgt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Sitzregion der Unternehmen an die die Waren geliefert wurden (EU / andere europäische Länder inkl. UK / übrige Welt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I.5.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Art der erbrachten Dienstleistungen nach Kategorien (wenn der Kategorienwert mehr als 100 000 Euro beträgt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– Sitzregion der Unternehmen an die die Dienstleistungen geliefert wurden (EU / andere europäische Länder inkl. UK / übrige Welt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4934377a1c671c3b919739f119220e2b938b0b540aef86608e3e62144cbfd4b4",
+      "sha256": "2c00fea6a2da022f1e1f8163691c32b548fde5e4276cf3ab79cdd6119d83a671",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "II.1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aktuelle Auswirkungen auf die Wertschöpfungsketten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auswirkungen von Lieferengpässen und Kostenänderungen in der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– mit mehrstufiger kategorieller Angabe des Ausmaßes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auswirkungen von politischen Maßnahmen in der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– mit mehrstufiger kategorieller Angabe des Ausmaßes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "II.2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unternehmerische Reaktionen auf aktuelle Entwicklungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II.2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erfolgte Anpassungen in den Wertschöpfungsketten in der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– mit mehrstufiger kategorieller Angabe des Ausmaßes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II.2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erfolgte Anpassungen in den Auslagerungsaktivitäten in der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– mit mehrstufiger kategorieller Angabe des Ausmaßes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II.2.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erfolgte Anpassungen in allgemeinen Geschäftsprozessen in der Berichtsperiode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "– mit mehrstufiger kategorieller Angabe des Ausmaßes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    }
+  ]
+}

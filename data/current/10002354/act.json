@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002354",
+  "short_title": "Staatliche Hoheitszeichen und amtliche Prüfungs- und Gewährzeichen des Königreiches Dänemark",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002377",
+    "valid_from": "1976-04-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002354&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:02:54.092597+00:00",
+    "response_sha256": "918275976fbf16a9eecd776ce77a3889b15a2c9117c2cbd400ea63812faafc78",
+    "snapshot_sha256": "e49e87a669b2b3522ba44d9175e59d9de691760a0aa2173f9f535104e29f7484",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7509dd1bc9d4171d82c09d70c35255dfadc28ef5473fec2b228b11470c80024d",
+      "sha256": "2b69c5f424fe5c9a7ce8584fe1aa853f6be5bdf98cb4a72eac628c42617c7eaf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 8. März 1976 betreffend staatliche Hoheitszeichen und amtliche Prüfungs- und Gewährzeichen des Königreiches Dänemark StF: BGBl. Nr. 121/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 121/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_121_0/1976_121_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a52c65a00b270cb0bebbe240a1e67491591f1190f3ccc041e84bd4c5e3e94624",
+      "sha256": "4f99975bc7a81094d3cceebd0a7cfddf30b02062ca3a6c101d37a5bd33febf36",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

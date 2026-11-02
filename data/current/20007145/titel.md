@@ -1,0 +1,3 @@
+Bundesgesetz über den Verbraucherschutz bei Teilzeitnutzungs- und Nutzungsvergünstigungsverträgen (Teilzeitnutzungsgesetz 2011 – TNG 2011) StF: [BGBl. I Nr. 8/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/8>) (NR: GP XXIV [RV 1028](<https://www.parlament.gv.at/gegenstand/XXIV/I/1028>) [AB 1056](<https://www.parlament.gv.at/gegenstand/XXIV/I/1056>) [S. 93.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/93>) BR: [AB 8445](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8445>) [S. 793.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/793>)) \[CELEX-Nr.: [32008L0122](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0122:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

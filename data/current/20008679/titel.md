@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Emblem, Name und Abkürzung des Gemeinsamen Markts für das Östliche und Südliche Afrika (COMESA) StF: [BGBl. II Nr. 393/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/393>)

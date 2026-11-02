@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005986",
+  "short_title": "VfGH-Aufhebung der Verordnung betreffend das Gewerberecht",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006661",
+    "valid_from": "2008-09-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005986&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:39:01.555893+00:00",
+    "response_sha256": "28fa2964a41d3d7ec309c007a044bc51b214df8a6931bf597caa28492ba94f8f",
+    "snapshot_sha256": "b5ad42a37ca2a1a98b227ea450f19e9a080e2a69e28a74297ec733b676d54c5f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e43bf4d8abb3e19e074538dae34dd3b1fdba7ff659d7dabb58373572e91dccd9",
+      "sha256": "8659911b9d6a3da39027047b871db9b07d022f58529b755fda36586cfe969d57",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wirtschaft und Arbeit über die Aufhebung der Verordnung (d.i. Punkt 1. des Erlasses) des Bundesministers für Wirtschaft und Arbeit vom 21. November 2005, GZ BMWA-30.599/0339-I/7/2005, betreffend das Gewerberecht durch den Verfassungsgerichtshof StF: BGBl. II Nr. 318/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 318/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/318"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5805696abb39551cb7e6f2c7d0662607dce1b15dee0045ba9e88b15b38465c49",
+      "sha256": "fdd4ba2382b90d318685e452e63aa8f558491d1e044405efc1766ae6a4689979",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

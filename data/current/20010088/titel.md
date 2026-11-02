@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über Maßnahmen zum Schutz von Personen vor Schäden durch Anwendung ionisierender Strahlung im Bereich der Medizin (Medizinische Strahlenschutzverordnung – MedStrSchV) StF: [BGBl. II Nr. 375/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/375>) \[CELEX-Nr.: [32013L0059](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0059:DE:HTML>)\]
+
+Aufgrund des § 36 Abs. 1 des Strahlenschutzgesetzes, [BGBl. Nr. 227/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_227_0/1969_227_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 133/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/133>), wird verordnet:

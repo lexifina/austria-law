@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung, die Fahne und die Embleme der „Black Sea Trade and Development Bank“ (BSTDB) StF: [BGBl. II Nr. 341/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/341>)

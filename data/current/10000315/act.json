@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000315",
+  "short_title": "Übereinkommen der II. Haager Friedenskonferenz",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000316",
+    "valid_from": "1958-07-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000315&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:21.373274+00:00",
+    "response_sha256": "b050acad9f45dd16f502bd5697658928fd8d206caa1bacb7b209191c29a1a04d",
+    "snapshot_sha256": "aff7f4211edd3f6caf9a381994dd018be91aeddf6935ca44deeffb0123dbb5bc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "efaa225e95774ef0590cf0558f125f4fba9d467941c0e24684ebfd082720425e",
+      "sha256": "45f426e89a5c9f2588a4eb0b699e4214588b034df2b7dd8378aeb56d5d19ac20",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 2. Juli 1958 über die Ratifikation des Übereinkommens vom 18. Oktober 1907, betreffend die Gesetze und Gebräuche des Landkrieges (IV. Übereinkommen der II. Haager Friedenskonferenz) durch die Dominikanische Republik. StF: BGBl. Nr. 142/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 142/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_142_0/1958_142_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "976661a9c12a26a9aeb0449fac5a98671e1a7b9ac948f0e19942efb0be5de7fc",
+      "sha256": "5e055843053c56dd9bfbd00125792140e2ec12eb8ff6cde99c302d24f5571b14",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 180/1913",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=180/1913&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

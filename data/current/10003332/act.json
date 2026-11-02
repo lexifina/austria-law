@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003332",
+  "short_title": "Hoheitszeichen - Estland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003359",
+    "valid_from": "1995-05-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003332&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:14.371573+00:00",
+    "response_sha256": "2473753a17520216cd631925b0afbaf31b848fbe8157a6f1fd2cdc1b056567af",
+    "snapshot_sha256": "25e7186d6334aeb914c7f25a6cbeefa37b490a944f784f6ebf1a1481e947d542",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d18216e42124adb9775316cda5e9a99c590968b024d5f680ff04d40051052f1d",
+      "sha256": "ed1a73ef286ac9121a5d3a7dd2014fdb47382a3cb58fd9f933ea6a03f62d8b5d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Republik Estland StF: BGBl. Nr. 345/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 345/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_345_0/1995_345_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3887e6a83132d56b03d3c385a9e6cc582e111bd4ea2f51b1b12944c4a063d83",
+      "sha256": "b766e8187334bf75e193307c023b9fbaf737f2ac94ae42ff0cc32a4b59983378",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

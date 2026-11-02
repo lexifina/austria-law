@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Justiz über den Ausspruch des Verfassungsgerichtshofs, dass der Abschnitt „A. II. RECHTSANWALTSANWÄRTER“ der Umlagenordnung 2011 der Rechtanwaltskammer Wien, der Abschnitt „B. RECHTSANWALTSANWÄRTER“ in § 1 sowie § 3 Z 2 und die Wortfolge „und der Beitrag für Rechtsanwaltsanwärter gemäß § 1 B. P. 1 lit. a)“ in § 4 Z 2 der Beitragsordnung 2011 der Rechtsanwaltskammer Wien sowie § 5 Abs. 3 und § 9 Abs. 1 zweiter Satz der Geschäftsordnung der Rechtsanwaltskammer Wien und deren Ausschuss 2008 gesetzwidrig waren StF: [BGBl. II Nr. 239/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/239>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002253",
+  "short_title": "Staatssiegel, Zivilschutzzeichen etc. - Algerien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002276",
+    "valid_from": "1973-06-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002253&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:01:01.730846+00:00",
+    "response_sha256": "ab2221ac653e89cabf0e9a1b1649978e05abdb17d13c02447b049b72cebc7fc1",
+    "snapshot_sha256": "3b3433aa485a42aa8e41281efc062b93103b63c257f4dca6cb5ae3d39a9ec820",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3dd759c5a89113fddf78b74931a2092b8f4c2a02d7369064c28fee9dede31f3a",
+      "sha256": "bfe3787ed221f0d15ea0b444c2686d7212fe0450c8e0cf5215c4c9c9a599c4e7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 21. Mai 1973 betreffend das Staatssiegel, das Kennzeichen der Gebietskörperschaften und das Zivilschutzzeichen Algeriens StF: BGBl. Nr. 264/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 264/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_264_0/1973_264_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a4ed962ef81af305fbc2fad09b7abc08f91514e06f17c4509bffee6c972ab1f",
+      "sha256": "aff53b00ea6014c37052ff9df3f00dac8c9ceb3b13c77f5dda686ec488bef78c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

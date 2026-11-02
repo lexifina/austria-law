@@ -1,0 +1,17 @@
+Abkommen zur Errichtung der Welthandelsorganisation (WTO-Abkommen) samt Schlußakte, Anhängen, Beschlüssen und Erklärungen der Minister sowie österreichischen Konzessionslisten betreffend landwirtschaftliche und nichtlandwirtschaftliche Produkte und österreichische Verpflichtungslisten betreffend Dienstleistungen (Übersetzung) ÜBEREINKOMMEN ÜBER DIE LANDWIRTSCHAFT StF: [BGBl. Nr. 1/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_1_0/1995_1_0.pdf>) (NR: GP XVIII [RV 1646](<https://www.parlament.gv.at/gegenstand/XVIII/I/1646>) [AB 1792](<https://www.parlament.gv.at/gegenstand/XVIII/I/1792>) [S. 171.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/171>) BR: [AB 4875](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4875>) [S. 589.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/589>))
+
+Die Mitglieder,
+
+haben beschlossen, eine Grundlage zur Einleitung eines Reformprozesses für den Handel mit landwirtschaftlichen Waren in Übereinstimmung mit den Zielsetzungen der Verhandlungen der Erklärung von Punta del Este zu schaffen;
+
+sind sich bewußt, daß das bei der Halbzeitprüfung der Multilateralen Handelsverhandlungen der Uruguay-Runde vereinbarte langfristige Ziel „darin besteht, ein faires und marktorientiertes landwirtschaftliches Handelssystem zu schaffen, und daß ein Reformprozeß durch Verhandlungen über Verpflichtungen betreffend Stützung und Schutz und durch verstärkte und durchführungswirksamere GATT-Regeln und -Vorschriften eingeleitet werden soll”;
+
+sind sich weiterhin bewußt, daß „dieses oben erwähnte langfristige Ziel darin besteht, eine wesentliche schrittweise Senkung landwirtschaftlicher Stützungen und Schutzmaßnahmen innerhalb eines vereinbarten Zeitraumes zu erreichen, sodaß damit eine Korrektur herbeigeführt sowie Beschränkungen und Verzerrungen auf den Weltagrarmärkten verhindert werden”;
+
+haben sich verpflichtet, bestimmte bindende Verpflichtungen in jedem der folgenden Bereiche zu erzielen: Marktzutritt, Inlandsstützungen, Ausfuhrwettbewerb, wie auch ein Übereinkommen hinsichtlich sanitärer und phytosanitärer Angelegenheiten;
+
+sind übereingekommen, daß die entwickelten Mitgliedsländer bei der Durchführung ihrer Marktzutrittsverpflichtungen die besonderen Bedürfnisse und Bedingungen der Entwicklungsland-Mitglieder voll in Betracht ziehen, indem sie für eine weitergehende Verbesserung der Zutrittsmöglichkeiten und Zutrittsbedingungen für landwirtschaftliche Waren, die für diese Mitglieder besonders wichtig sind, sorgen, einschließlich der größtmöglichen Liberalisierung des Handels mit tropischen landwirtschaftlichen Waren, wie bei der Halbzeitprüfung beschlossen, und für Waren, die für die Diversifizierung der Erzeugung als Alternativen zum Anbau unerlaubter Kulturen für die Drogenherstellung besonders wichtig sind;
+
+nehmen zur Kenntnis, daß Verpflichtungen im Rahmen des Reformprogrammes von allen Mitgliedern auf angemessene Art und Weise übernommen werden, unter Bedachtnahme auf nicht handelsbezogene Faktoren wie Nahrungsmittelsicherheit und Umweltschutz, sowie eingedenk des Abkommens, daß eine besondere und differenzierte Behandlung der Entwicklungsländer ein wesentliches Element der Verhandlungen ist, wobei auch mögliche negative Auswirkungen der Durchführung des Reformprogrammes auf die am wenigsten entwickelten Länder und die Netto-Nahrungsmittelimporteure unter den Entwicklungsländern zu berücksichtigen sind;
+
+kommen hiermit wie folgt überein:

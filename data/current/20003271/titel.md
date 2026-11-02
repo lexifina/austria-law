@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem des United Nations Population Fund (UNFPA) StF: [BGBl. II Nr. 154/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/154>)

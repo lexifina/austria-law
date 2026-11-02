@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung zur Registerforschung im Wirkungsbereich des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (Registerforschungsverordnung-BMK – RFV-BMK) StF: [BGBl. II Nr. 241/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/241>)
+
+Auf Grund des § 38b des Forschungsorganisationsgesetzes – FOG, [BGBl. Nr. 341/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_341_0/1981_341_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 52/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/52>), wird im Einvernehmen mit der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

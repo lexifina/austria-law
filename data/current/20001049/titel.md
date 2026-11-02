@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit und Generationen, mit der der Anpassungsfaktor, die Anpassungsfaktormesszahl, die Anpassungsrichtwertmesszahl sowie der Wertausgleich für das Jahr 2001 festgesetzt werden StF: [BGBl. II Nr. 407/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_407_2/2000_407_2.pdf>)
+
+Auf Grund des § 108 Abs. 5 in Verbindung mit § 108f Abs. 1, 4 und 5 sowie § 299a des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 101/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_101_1/2000_101_1.pdf>), wird mit Zustimmung der Bundesregierung verordnet:

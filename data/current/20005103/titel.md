@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 11. Jänner 1983 betreffend den Geltungsbereich des Übereinkommens über die Internationale Fernmeldesatellitenorganisation „INTELSAT“ und des Betriebsübereinkommens über die Internationale Fernmeldesatellitenorganisation „INTELSAT“ StF: [BGBl. Nr. 22/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_22_0/1983_22_0.pdf>)

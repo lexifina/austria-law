@@ -1,0 +1,731 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "20006046",
+  "short_title": "Finanzmarktstabilitätsgesetz",
+  "abbreviation": "FinStaG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006728",
+    "valid_from": "2008-10-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006046&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:39:55.462873+00:00",
+    "response_sha256": "8fbde848901ad2fda1a158149372b1799e0212806fc205e18dd83bb108011a7a",
+    "snapshot_sha256": "87fe5cbbb968da603dbddd430d96a0d1f8d87c45007fe4e2728ed591c17d49b4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20b4f71b62c575834b3ac9de819fe558462f5b0ea6c21cf3ad88aab1de3eea36",
+      "sha256": "c5551f78a203d4c6b790e85dfd3f2772c3e54a351d6a703c8c76fdf498375373",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Maßnahmen zur Sicherung der Stabilität des Finanzmarktes (Finanzmarktstabilitätsgesetz – FinStaG) StF: BGBl. I Nr. 136/2008 (NR: GP XXIII RV 682 AB 683 S. 75. BR: 8030 AB 8031 S. 761.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 52/2009 (NR: GP XXIV RV 113 und Zu 113 AB 198 S. 21. BR: AB 8112 S. 771.) BGBl. I Nr. 78/2009 (NR: GP XXIV RV 229 AB 284 S. 29. BR: AB 8143 S. 774.) BGBl. I Nr. 184/2013 (NR: GP XXIV RV 2438 AB 2514 S. 216. BR: 9050 AB 9087 S. 823.) [CELEX-Nr.: 32013L0036, 32011L0089] BGBl. I Nr. 51/2014 (NR: GP XXV RV 178 AB 188 S. 34. BR: 9200 AB 9206 S. 832.) BGBl. I Nr. 34/2015 (NR: GP XXV RV 354 AB 436 S. 55. BR: 9274) [CELEX-Nr.: 32009L0138, 32014L0051] BGBl. I Nr. 37/2015 (NR: GP XXV RV 458 AB 485 S. 61. BR: AB 9328 S. 839.) BGBl. I Nr. 127/2015 (NR: GP XXV RV 796 AB 824 S. 98. BR: AB 9464 S. 846.) BGBl. I Nr. 69/2016 (NR: GP XXV RV 1152 AB 1245 S. 136. BR: AB 9623 S. 856.) BGBl. I Nr. 96/2018 (NR: GP XXVI RV 367 AB 426 S. 53. BR: 10071 AB 10088 S. 887.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 136/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/136"
+        },
+        {
+          "text": "RV 682",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/682"
+        },
+        {
+          "text": "AB 683",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/683"
+        },
+        {
+          "text": "S. 75.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/75"
+        },
+        {
+          "text": "8030",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8030"
+        },
+        {
+          "text": "AB 8031",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8031"
+        },
+        {
+          "text": "S. 761.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/761"
+        },
+        {
+          "text": "BGBl. I Nr. 52/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/52"
+        },
+        {
+          "text": "RV 113",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/113"
+        },
+        {
+          "text": "Zu 113",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/113"
+        },
+        {
+          "text": "AB 198",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/198"
+        },
+        {
+          "text": "S. 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/21"
+        },
+        {
+          "text": "AB 8112",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8112"
+        },
+        {
+          "text": "S. 771.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/771"
+        },
+        {
+          "text": "BGBl. I Nr. 78/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/78"
+        },
+        {
+          "text": "RV 229",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/229"
+        },
+        {
+          "text": "AB 284",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/284"
+        },
+        {
+          "text": "S. 29.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/29"
+        },
+        {
+          "text": "AB 8143",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8143"
+        },
+        {
+          "text": "S. 774.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/774"
+        },
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        },
+        {
+          "text": "RV 2438",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2438"
+        },
+        {
+          "text": "AB 2514",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2514"
+        },
+        {
+          "text": "S. 216.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/216"
+        },
+        {
+          "text": "9050",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9050"
+        },
+        {
+          "text": "AB 9087",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9087"
+        },
+        {
+          "text": "S. 823.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/823"
+        },
+        {
+          "text": "32013L0036",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0036:DE:HTML"
+        },
+        {
+          "text": "32011L0089",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0089:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 51/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/51"
+        },
+        {
+          "text": "RV 178",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/178"
+        },
+        {
+          "text": "AB 188",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/188"
+        },
+        {
+          "text": "S. 34.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/34"
+        },
+        {
+          "text": "9200",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9200"
+        },
+        {
+          "text": "AB 9206",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9206"
+        },
+        {
+          "text": "S. 832.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/832"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "RV 354",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/354"
+        },
+        {
+          "text": "AB 436",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/436"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/55"
+        },
+        {
+          "text": "9274",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9274"
+        },
+        {
+          "text": "32009L0138",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0138:DE:HTML"
+        },
+        {
+          "text": "32014L0051",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0051:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/37"
+        },
+        {
+          "text": "RV 458",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/458"
+        },
+        {
+          "text": "AB 485",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/485"
+        },
+        {
+          "text": "S. 61.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/61"
+        },
+        {
+          "text": "AB 9328",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9328"
+        },
+        {
+          "text": "S. 839.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/839"
+        },
+        {
+          "text": "BGBl. I Nr. 127/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/127"
+        },
+        {
+          "text": "RV 796",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/796"
+        },
+        {
+          "text": "AB 824",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/824"
+        },
+        {
+          "text": "S. 98.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/98"
+        },
+        {
+          "text": "AB 9464",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9464"
+        },
+        {
+          "text": "S. 846.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/846"
+        },
+        {
+          "text": "BGBl. I Nr. 69/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/69"
+        },
+        {
+          "text": "RV 1152",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1152"
+        },
+        {
+          "text": "AB 1245",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1245"
+        },
+        {
+          "text": "S. 136.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/136"
+        },
+        {
+          "text": "AB 9623",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9623"
+        },
+        {
+          "text": "S. 856.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/856"
+        },
+        {
+          "text": "BGBl. I Nr. 96/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/96"
+        },
+        {
+          "text": "RV 367",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/367"
+        },
+        {
+          "text": "AB 426",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/426"
+        },
+        {
+          "text": "S. 53.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/53"
+        },
+        {
+          "text": "10071",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10071"
+        },
+        {
+          "text": "AB 10088",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10088"
+        },
+        {
+          "text": "S. 887.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/887"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Grundlagen für Stabilisierungsmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f10a7af43720da2036b32bac133402d2eddf403e102f72175c784031cdfd886",
+      "sha256": "27733886c47c6dba4d9025abef6d1b0fe791c595983c9c04a0a7492c8c15569a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/98"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 51/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/51"
+        },
+        {
+          "text": "BGBl. I Nr. 51/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/51"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1a",
+      "source_heading": "§ 1a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0001a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1992cac6aa9fcba158dcd7774b3596a9cb9a0c02d8ea4a780990a9078e0e935",
+      "sha256": "0aa094d6f58655ff76dd1202b4acc68436a15e05b596e2c6c369a571d73e9c5b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/136"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Instrumente",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1409103d52640056b4f4c8f5208d0ec6a8eee828435af3e0268a7158b42f489",
+      "sha256": "549c9fb4c5da6e3cc0d80bb8550f3b0a2e63aa1dc3f19ace8d4ec11022cc68af",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 98/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_98_0/1965_98_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 71/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_71_0/1954_71_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_24_1/2000_24_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2a",
+      "source_heading": "§ 2a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0002a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2f53e5019bc5363397b76b268332e2d73b8235bf79982d3f251ed1ef5d3fe7db",
+      "sha256": "dd56bf8fc7a027726b35418e4d1fe313c3128b6d081f239e7ab6a9ece2efe7f2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr 1/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1930&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_111_1/2003_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Abwicklung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "347db583bc925421020f5d71e87eca8d955c780aa63bdf8adb9f56a37d8d7f49",
+      "sha256": "4398cf3d60f1efb5822d8632bba1883e39f8433d2fd1b54f995ed9a7a9020a93",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 139/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139"
+        },
+        {
+          "text": "BGBl. Nr. 20/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_20_0/1949_20_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Verfügungs- und Pfändungsbeschränkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1258ff347bd957b41d18fc826617723399a862becbb2050bd179325c6a2438b3",
+      "sha256": "bc18b80be803fee4cb0469f1740058b355655ad57e55be27ef7fdf59358832df",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Gebühren und Abgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d811379fb7b0b1b9d1851b4dba7efe0cf7aea2332b2dc240b5c1648b90b23183",
+      "sha256": "5a4477114e08886126a30965f2d7bd3d0ffc0efea3f37631c2afa0f760245627",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 501/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_501_0/1984_501_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Berichtspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3591969ba91dbab269dcba0471a0d88a8bc4a29a1bf5c0339f3c9392f407fef3",
+      "sha256": "a3b2ac0b38ac82e3073be2c31978c69345c9fc6b0859840354043672e523ba69",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02c3202cc498c80841e7b0a525e2a5ef56407bcdf5d253b78e97b212746d9c01",
+      "sha256": "f43f4eb8e88ebc6657e9266219f3b8a985e8b5b80d70f0aa625982974a8bb449",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Verweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bffa1214f6dadd312ab8f88c3fa62f34518892b769f0599be9714cab6d3b4c3",
+      "sha256": "27899332bef934bf73d6a3a37421a0fe7700e7217cb0136658dad83b20a18cb5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c9103a9e54f03560f1e15decbbc8ed1bdec758f978ee33811c64fc1726f7e15",
+      "sha256": "babc65060fd7c3e49d2d659789b6d8ed82d66c95ad7879e3909b790d250cee22",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§ 10.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f7c61106cf9009416c343bade798a8e40f06dd6d0e0fcd22abf893ca1d10847",
+      "sha256": "85e323322a92af520d71a3369d82639b9626b2103992a7801fa4b0919d7b46e7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 127/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/127"
+        },
+        {
+          "text": "BGBl. I Nr. 96/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/96"
+        },
+        {
+          "text": "BGBl. I Nr. 69/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/69"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2013-184.md",
+      "source_context": "BGBl. I Nr. 184/2013",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b83eaa065ed474462419ddd81cbdbac4edc394c666a34bbfab36a1bb74ad998",
+      "sha256": "2d0aad3ecf8f6451954b59ada2e01b359e414ca466e862b36e8a83b8d864a022",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/136"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1 Umsetzung von Richtlinien der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2015-34.md",
+      "source_context": "BGBl. I Nr. 34/2015",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b608a7ecef6776ef9cd8f1758bd741b21d2c754bf47cc25dbb856a4e1170a48",
+      "sha256": "85a782133fbfd19182762f6d17f50e513bc09860895d5b86e2caf53db1469f0f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/136"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

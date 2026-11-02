@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10006167",
+  "short_title": "Vorzugsbehandlung von österreichischem Holz",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Frankreich",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006280",
+    "valid_from": "1934-03-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006167&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:53:38.622652+00:00",
+    "response_sha256": "f4ab228c7eaaf46b18ae76b5a0de340296aeff9228131b5d298b0da82826ad14",
+    "snapshot_sha256": "14b09a30d5a504b2a64ce5b76ee99f4eaee30e6f8c55e3773616b865262d0c4f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7232c36aad25d51c3008f8ca59c486d741b9581eed4498efaf269f7281fa42f1",
+      "sha256": "dcfc6029fee3fbed22931f0bc3b39ebf54b2c166b0c3b7261fc0246404282dc7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "(Übersetzung.) Übereinkommen zwischen der österreichischen Bundesregierung und der Regierung der französischen Republik, betreffend die Vorzugsbehandlung von österreichischem Holz StF: BGBl. I Nr. 168/1934"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 168/1934",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=168/1934&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36d3f8df53e56881e8c9e0d8c1203070760039bfcd543a66b137de57366c8400",
+      "sha256": "a43835da7faf31f8a9803f0e7dbfc0820f320e30ebfefc8433efabe5f0bc3109",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

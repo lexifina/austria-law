@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Laws“, Universitätslehrgang „Internationales Steuerrecht“ der Wirtschaftsuniversität Wien StF: [BGBl. II Nr. 63/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_63_2/2002_63_2.pdf>)
+
+Gemäß § 26 Abs. 1 und § 79a Abs. 1 des Bundesgesetzes über die Studien an den Universitäten (Universitäts-Studiengesetz – UniStG), [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 105/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_105_1/2001_105_1.pdf>), wird verordnet:

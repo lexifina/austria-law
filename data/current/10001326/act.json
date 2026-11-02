@@ -1,0 +1,120 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10001326",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 883 (1993)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001334",
+    "valid_from": "1994-01-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001326&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:45:04.946808+00:00",
+    "response_sha256": "ccad83c957e48b4174800f6a66dacdc2ba44c33ea4c175b8948d32a5b7c42d28",
+    "snapshot_sha256": "fa393eeb065718fdb380e1b396fac55ef184eb000875bcfbfd4f7639bf792199",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d882b462663ab8b3ec57c72df3cfb7ea505ba27c80029e1608b037984408957b",
+      "sha256": "9b80f0413f70a2b92fafd46bb2f9f3448d87419f8939bb6ebfa95c3b3a81dbf8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 883 (1993), verabschiedet auf der 3 312. Sitzung des Sicherheitsrats am 11. November 1993 StF: BGBl. Nr. 5/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 5/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_5_0/1994_5_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 883 (1993) VERABSCHIEDET AUF DER 3 312. SITZUNG DES SICHERHEITSRATS AM 11. NOVEMBER 1993",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a14b52ff72a22796037818363a6107d7efc18d702c428f68ab55b00fbc3595f",
+      "sha256": "d870d033df1c67571deb15ba9fff230fba07d12f592ae5b5d71b247ee138781f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 221/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_221_0/1992_221_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "293f298bd2d1d73c36d29a4fa05c3114883e4f6b3ea069e3d575aa881ae476b8",
+      "sha256": "574cb2c68a1080bda65238f64bba86e17f31f852ce666d1e4c204654de23e806",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

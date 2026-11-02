@@ -1,0 +1,3 @@
+Bundesgesetz über die erneuerbare Wärmebereitstellung in neuen Baulichkeiten (Erneuerbare-Wärme-Gesetz – EWG) StF: [BGBl. I Nr. 8/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/8>) (NR: GP XXVII [RV 2268](<https://www.parlament.gv.at/gegenstand/XXVII/I/2268>) [AB 2351](<https://www.parlament.gv.at/gegenstand/XXVII/I/2351>) S. 247. BR: [AB 11415](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11415>) S. [963](<https://www.parlament.gv.at/gegenstand/BR/I-BR/963>).) \[CELEX Nr.: [32018L2001](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L2001:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,99 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001323",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 942 (1994)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001331",
+    "valid_from": "1994-11-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001323&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:44:58.554950+00:00",
+    "response_sha256": "7e416e067fb5d2491d76f5f78f77099e2425ea95e2bcb8d7d71708fbacc599e4",
+    "snapshot_sha256": "c764d7cbb04be9ef12e85a899b7c44d1205e1b1ce16dec5c7471f6fc7f6ebeb9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49fa7de17849488537af1d02b4fed6ac9e9386f38afa60baac1a82270dbfbd60",
+      "sha256": "1595c5fac6d0f6ad910e544e05168036bbe20f44727780092c90e2e1ce011045",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 942 (1994) verabschiedet auf der 3428. Sitzung des Sicherheitsrats am 23. September 1994 StF: BGBl. Nr. 859/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 859/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_859_0/1994_859_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 942 (1994) VERABSCHIEDET AUF DER 3428. SITZUNG DES SICHERHEITSRATS AM 23. SEPTEMBER 1994",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba3089be51a9ea40d3d5a6d23497fbcae660900ed4536f76678697cf19491a19",
+      "sha256": "c5ece006c211fd452fdf0b5232cbb270fcf5efd2b9657b619eab17d857e75d34",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 313/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_313_0/1993_313_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Verwendung und den Betrieb von mobilen technischen Einrichtungen, Maschinen und Geräten in IG-L-Sanierungsgebieten (IG-L Off-RoadV) StF: [BGBl. II Nr. 76/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/76>)
+
+Auf Grund des § 13 Abs. 3 des Immissionsschutzgesetzes – Luft, [BGBl. I Nr. 115/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf>) zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 77/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/77>), wird im Einvernehmen mit dem Bundesminister für Wirtschaft, Familie und Jugend verordnet:

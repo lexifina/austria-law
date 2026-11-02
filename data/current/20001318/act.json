@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001318",
+  "short_title": "Errichtung einer dritten Notarstelle in Krems an der Donau",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001415",
+    "valid_from": "2001-05-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001318&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:30:11.031123+00:00",
+    "response_sha256": "b0c09da773e61fcca0d3332f8d5d3effcda804e475212801e7f59e78e44bbb77",
+    "snapshot_sha256": "1acf50487901b707e7d21048518e67997e5ddf31f84157ddba4e797bf14ecabb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d6d801fbfcbd2a823685912f2358774c8f0c0838cf8f4b1e813aa3772818a3c",
+      "sha256": "cb54711b0aa7183d721c3aea96c681c8dba2b15e0f616f6fd248b2e3a277809c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Krems an der Donau StF: BGBl. II Nr. 190/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 190/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_190_2/2001_190_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "624895fb7ce38fb309db9f9f12ef6e6d931cca4e73888a3ae92dc37b400770cc",
+      "sha256": "c3cf4bb38ac522e0540a4154aaf93ce7c098138e423fd4212a636c713b972ef8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

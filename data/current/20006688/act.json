@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20006688",
+  "short_title": "Österreichische Bundesfinanzierungsagentur Server-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40115867",
+    "valid_from": "2010-02-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006688&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:49:24.247985+00:00",
+    "response_sha256": "7eed4f71a7ac06da4dfb4b7a25de0de821fc7209f0924779e6077cf84604b681",
+    "snapshot_sha256": "13b01406373e25b7552168bd61de9f3994ca7d82c914a6442207bf2ad2a75091",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02970e407f733a4effc606ddfecd98b5b6d6837c84798458574bc1f7b9d25963",
+      "sha256": "5285cf3ec608b824c648f78469e7dd61872087da5986c5ea14c9561d3477f712",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen, mit der der Bundesrechenzentrum GmbH Aufgaben übertragen werden (Österreichische Bundesfinanzierungsagentur Server-Verordnung) StF: BGBl. II Nr. 63/2010"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 63/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/63"
+        },
+        {
+          "text": "BGBl. Nr. 757/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 71/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d711acb22244a4ea4b31bda8fda0f572b220dd99f922a965e7f5f147df073739",
+      "sha256": "ff7744d81e7a6fdbcfd0ca6ec2736bec5ba07ad26a29b6264f1d692b804e5e4b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

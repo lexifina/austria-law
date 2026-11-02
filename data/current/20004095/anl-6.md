@@ -1,0 +1,9 @@
+## ANHANG VI
+
+## RECHTE AN GEISTIGEM EIGENTUM NACH ARTIKEL 37
+
+- 1\. Spätestens Ende des vierten Jahres nach Inkrafttreten des Abkommens tritt Ägypten folgenden multilateralen Übereinkünften über die Rechte an geistigem Eigentum bei: – Internationales Abkommen über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen (Rom 1961) – Budapester Vertrag über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren (1977, geändert 1980) – Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens (Washington 1970, geändert 1979 und 1984) – Internationales Übereinkommen zum Schutz von Pflanzenzüchtungen (Genfer Fassung von 1991) – Abkommen von Nizza über die internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken (Genfer Fassung von 1977, geändert 1979) – Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken (Madrid 1989)
+
+- 2\. Die Vertragsparteien bekräftigen, dass sie der Einhaltung der Verpflichtungen, die sich aus folgenden multilateralen Übereinkünften ergeben, besondere Bedeutung beimessen: – Übereinkommen der Welthandelsorganisation über handelsbezogene Aspekte der Rechte an geistigem Eigentum (Marrakesch, 15. April 1994), unter Berücksichtigung der in Artikel 65 dieses Übereinkommens vorgesehenen Übergangszeit für Entwicklungsländer – Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums (Stockholmer Fassung von 1967, geändert 1979) – Berner Übereinkunft über den Schutz von Werken der Literatur und Kunst (Pariser Fassung von 1971) – Madrider Abkommen über die internationale Registrierung von Marken (Stockholmer Fassung von 1967, geändert 1979)
+
+- 3\. Der Assoziationsrat kann beschließen, dass Absatz 1 auf weitere multilaterale Übereinkünfte Anwendung findet.

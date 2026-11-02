@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über Angaben, mit denen sich das Los, zu dem ein Lebensmittel gehört, feststellen lässt (Loskennzeichnungsverordnung) StF: [BGBl. II Nr. 230/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/230>) \[CELEX-Nr.: [32011L0091](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0091:DE:HTML>)\]
+
+Auf Grund des § 6 Abs. 1 und 2 des Lebensmittelsicherheits- und Verbraucherschutzgesetzes – LMSVG, [BGBl. I Nr. 13/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 171/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/171>), wird im Einvernehmen mit dem Bundesminister für Wissenschaft, Forschung und Wirtschaft verordnet:

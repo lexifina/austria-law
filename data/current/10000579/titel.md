@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 17. September 1975 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zu Regelungen über Wohnhygiene (Wohnhygienegesetz) StF: [BGBl. Nr. 527/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_527_0/1975_527_0.pdf>)
+
+Gemäß Art. 138 Abs. 2 des Bundes-Verfassungsgesetzes in der Fassung von 1929 und gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 24. Juni 1975, K II-1/74-27 – dem Bundeskanzleramt zugestellt am 5. September 1975 – zusammengefaßt hat:

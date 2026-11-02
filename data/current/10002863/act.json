@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002863",
+  "short_title": "Errichtung einer vierten Notarstelle in Bregenz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002886",
+    "valid_from": "1988-02-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002863&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:53.383276+00:00",
+    "response_sha256": "82b135c6fda062e58ef93b0520dc17cda190e63475390dfc59c555f2afca92c0",
+    "snapshot_sha256": "22330016ee640c5ecdf12ffbbfedb640712c2ccd95f871f9496d9749ed965ed9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4d35542e82a50be69a885a2be44d4cb2195e359624b8f63827d319283e61435",
+      "sha256": "f1946a3d0f203cd37f504dc67c2aff9ae262d7c1fe160903783a0df9405ffdca",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 26. Jänner 1988 betreffend die Errichtung einer vierten Notarstelle in Bregenz StF: BGBl. Nr. 102/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 102/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_102_0/1988_102_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8b37345bc8b3b9e365562453b20260aa9b4de229cc0a0baa1cc3e6d724165a3",
+      "sha256": "9b3746dbb3c3d047c081893da62dc0aa69b0e54554dada88f99f8bf375d79af0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

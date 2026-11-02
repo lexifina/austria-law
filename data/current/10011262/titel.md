@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 26. Oktober 1949, betreffend die Ratifikation des Abkommens über die internationale Zivilluftfahrt durch Cuba StF: [BGBl. Nr. 269/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_269_0/1949_269_0.pdf>)

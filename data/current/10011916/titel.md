@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 23. Jänner 1990 betreffend den Geltungsbereich des Internationalen Übereinkommens über sichere Container StF: [BGBl. Nr. 85/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_85_0/1990_85_0.pdf>)

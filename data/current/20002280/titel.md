@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Emblem der Region Brüssel - Hauptstadt StF: [BGBl. II Nr. 405/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_405_2/2002_405_2.pdf>)

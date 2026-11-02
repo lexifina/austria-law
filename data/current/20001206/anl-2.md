@@ -1,0 +1,7 @@
+## GENERIERTER TEXT DES MLI UND DES ÜBEREINKOMMENS ZWISCHEN DER REPUBLIK ÖSTERREICH UND DER REPUBLIK FINNLAND ZUR VERMEIDUNG DER DOPPELBESTEUERUNG UND ZUR VERHINDERUNG DER STEUERUMGEHUNG AUF DEM GEBIETE DER STEUERN VOM EINKOMMEN UND VOM VERMÖGEN
+
+(Anm.: Anlage 2 wurde als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: DBA Finnland synthesised deutsch](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40257115/III_93_2018_DBA_Finnland_synthesised_deutsch_final_20112023.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007842",
+  "short_title": "Handelsabkommen zwischen Österreich und Kamerun - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007982",
+    "valid_from": "1996-11-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007842&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:10:51.027150+00:00",
+    "response_sha256": "b849d524e0df9a7eaaee82fd55ccf90a662edbdd4d9dd8afb4cbe48ebd83b597",
+    "snapshot_sha256": "b25d20f295f0ae638e44cd61f22265522f9f50f17c29275ac919f452da6f39c9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3465c0266173e3d7e7f1847d34b10fa6aa0e7cd774228fb30b19e537363732d2",
+      "sha256": "60c697954c9a37e06d0e407a151dfc8e203c32ee709e33ce0f297231a583ac3d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Handelsabkommens zwischen der Republik Österreich und der Bundesrepublik Kamerun StF: BGBl. Nr. 586/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 586/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_586_0/1996_586_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39f0bcab847cd54ee9c5bb11beee6481d4af3200c1c3ce103387f8c2dd739392",
+      "sha256": "b159e766e6ec5a5d311f95bce4567fddeb3816960bbb7a6fb1a035d24c6ad81a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

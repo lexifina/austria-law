@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie zur Anpassung des im Stromkostenzuschussgesetz festgelegten oberen Referenzenergiepreises und zur Verlängerung der Gewährung des Stromkostenergänzungszuschusses StF: [BGBl. II Nr. 167/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/167>)
+
+Auf Grund des § 5 Abs. 4 und des § 6 Abs. 3 des Stromkostenzuschussgesetzes (SKZG), [BGBl. I Nr. 156/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/156>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 199/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/199>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

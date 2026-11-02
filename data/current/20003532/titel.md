@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Übertragung von Buchhaltungsaufgaben im Bereich des Arbeitsmarktservice gemäß § 6 Abs. 1 des Bundeshaushaltsgesetzes (AMS-Buchhaltungsverordnung) StF: [BGBl. II Nr. 338/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/338>)
+
+Auf Grund des § 6 Abs. 1 des Bundeshaushaltsgesetzes, [BGBl. Nr. 213/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird im Einvernehmen mit dem Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz und dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz über den Ersatz von Schäden aufgrund einer strafgerichtlichen Anhaltung oder Verurteilung (Strafrechtliches Entschädigungsgesetz 2005 - StEG 2005) StF: [BGBl. I Nr. 125/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/125>) (NR: GP XXII [RV 618](<https://www.parlament.gv.at/gegenstand/XXII/I/618>) [AB 636](<https://www.parlament.gv.at/gegenstand/XXII/I/636>) [S. 78.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/78>) BR: [7130](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7130>) [AB 7133](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7133>) [S. 714.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/714>))
+
+Der Nationalrat hat beschlossen:

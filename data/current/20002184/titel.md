@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der A 7 Mühlkreis Autobahn – Umlegung im Bereich Bindermichl (einschließlich Anschlussstelle Muldenstraße und Knoten Hummelhof) im Bereich der Stadtgemeinde Linz StF: [BGBl. II Nr. 322/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_322_2/2002_322_2.pdf>)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 50/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_50_1/2002_50_1.pdf>), wird verordnet:

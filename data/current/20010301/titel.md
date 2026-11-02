@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz betreffend das Verzeichnis von Normen für die allgemeine Sicherheit von Verbraucherprodukten StF: [BGBl. II Nr. 233/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/233>) idF [BGBl. II Nr. 83/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/83>) (VFB)
+
+Auf Grund des § 5 Abs. 1 des Produktsicherheitsgesetzes 2004, [BGBl. I Nr. 16/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/16>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 32/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32>), wird kundgemacht:

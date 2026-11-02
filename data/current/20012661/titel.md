@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Ausstellung von Steuerbescheinigungen für Einkünfte aus Kapitalvermögen durch die Abzugsverpflichteten der Kapitalertragsteuer (Steuerreportingverordnung – SteuerreportingVO) StF: [BGBl. II Nr. 213/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/213>)
+
+Aufgrund von § 96 Abs. 5 und § 27 Abs. 8 des Einkommensteuergesetzes 1988 (EStG 1988), [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 113/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/113>), wird verordnet:

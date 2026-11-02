@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007264",
+  "short_title": "Umrechnungskurs des ECU im gemeinsamen Versandverfahren",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007379",
+    "valid_from": "1992-11-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007264&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:02:40.572565+00:00",
+    "response_sha256": "1c4bc53459adc1eb8f233b2d6ee97f5ba53f6005dd5188a6b0de58e94ea5994a",
+    "snapshot_sha256": "796f1d834da7786d5d385fbfeda95f3bef8b5ae866ce6905c741e4f0dea9781a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9773d037d19d90ce82d4d0b8d97b69ae82e16a81582dd66dd6b0dfe0dd2fe211",
+      "sha256": "0e05daed31fa3e25124e6d692ee115cf887ee39e59a06589e8acb57d046187db",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Finanzen betreffend den Umrechnungskurs des ECU im gemeinsamen Versandverfahren StF: BGBl. Nr. 697/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 697/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_697_0/1992_697_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 633/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_633_0/1987_633_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ddf0fda4281a553e1b42435a404464270cd1976ea535fcf0ade3febf7b11587d",
+      "sha256": "3db406d7b5f50ad5399f99e447f231570bf4f4bf88f66c92a5b0ef01c3aa6b73",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 632/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_632_0/1987_632_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

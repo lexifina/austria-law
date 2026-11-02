@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 16. Oktober 1987 über die Neufestsetzung des Schutzgebietes für die Heilquellen von Bad Hall StF: [BGBl. Nr. 624/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_624_0/1987_624_0.pdf>)
+
+Auf Grund des § 254 Abs. 1 des Berggesetzes 1975, BGBl. Nr. 259, in der Fassung des Bundesgesetzes [BGBl. Nr. 520/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_520_0/1982_520_0.pdf>) wird im Einvernehmen mit dem Bundesminister für Gesundheit und öffentlicher Dienst und dem Bundesminister für Land- und Forstwirtschaft verordnet:

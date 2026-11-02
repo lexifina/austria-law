@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 12. März 1980 betreffend die Bezeichnungen und die Abkürzungen der Bezeichnungen der Europäischen Wirtschaftsgemeinschaft StF: [BGBl. Nr. 155/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_155_0/1980_155_0.pdf>)

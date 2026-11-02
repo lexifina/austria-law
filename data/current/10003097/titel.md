@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bezeichnung, die Abkürzung und das Emblem des Übereinkommens über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel, von internationaler Bedeutung StF: [BGBl. Nr. 309/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_309_0/1993_309_0.pdf>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 13. September 1977 betreffend den Beitritt der Türkei und der Deutschen Demokratischen Republik zum Europäischen Abkommen vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: [BGBl. Nr. 486/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_486_0/1977_486_0.pdf>)

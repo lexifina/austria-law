@@ -1,0 +1,3 @@
+Richtlinien des Bundesministers für Finanzen für die einheitliche Einrichtung eines Planungs-, Informations- und Berichterstattungssystems des Bundes für das Beteiligungs- und Finanzcontrolling (Controlling-Richtlinien) StF: [BGBl. II Nr. 319/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_319_2/2002_319_2.pdf>)
+
+Auf Grund des § 15b Abs. 2 des Bundesgesetzes, mit dem das Bundeshaushaltsgesetz geändert wird, [BGBl. I Nr. 8/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_8_1/2002_8_1.pdf>) (kurz: BHG-Novelle 2002), sowie sonstiger gesetzlicher Bestimmungen über die Einrichtung eines Beteiligungs- und Finanzcontrolling, werden folgende Richtlinien erlassen:

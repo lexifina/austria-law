@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007895",
+  "short_title": "4. Hochleistungsstrecken-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008037",
+    "valid_from": "1997-09-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007895&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:11:43.129996+00:00",
+    "response_sha256": "a57241f799a26381d6ef823af3ce292f14ada83f3fa5aec08281d051a00f6a73",
+    "snapshot_sha256": "c810cf5dbd2e1cc1fdf7685678a049da3ad5cb41e9aa7f70bb4d8917b26fa523",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2521d16b4301aaf99ab087366ccf7c1a3de4e7de94c6374f9b045fed3268d1f",
+      "sha256": "ee840fdbb36c3a29eeab58c0babc6c4edf4690761d7c387b941f149c2dc60fe3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung über die Erklärung weiterer Eisenbahnen zu Hochleistungsstrecken (4. Hochleistungsstrecken-Verordnung) StF: BGBl. II Nr. 273/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 273/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_273_2/1997_273_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 135/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 384/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_384_0/1996_384_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "01e958517b52d5ce3ec1217f21cab24ed9588d7f8b5ea0b49e750bf108683de1",
+      "sha256": "511486ef2643386d1d0741dd6fb42e660140986234a2e24aae35ec223075e731",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

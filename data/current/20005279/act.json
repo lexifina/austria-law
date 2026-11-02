@@ -1,0 +1,693 @@
+{
+  "sample_only": false,
+  "included_provisions": 18,
+  "source_provision_count": 18,
+  "schema_version": 1,
+  "gesetzesnummer": "20005279",
+  "short_title": "Medizinproduktebetreiberverordnung",
+  "abbreviation": "MPBV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40280570",
+    "valid_from": "2026-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005279&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:27:57.588073+00:00",
+    "response_sha256": "b4326a9675e7ba2f6b4af6fce2c7273b901f04f86bb45704f38c9b80093ec942",
+    "snapshot_sha256": "2013ceea0ec5e71c5179eba4c58e3696f642ea0fa510734cad18fc00dcecfc17",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1338bd83fcd942362db78685aa47edd5e581b67cdf2fb6ed160d5cea4d700f80",
+      "sha256": "fa1d5ed39c03fd287c55993991b19abeb1697ad8ae6a930f5db91dd344561dad",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über das Errichten, Betreiben, Anwenden, Instandhalten und das weitere Bereitstellen auf dem Markt von Medizinprodukten (Medizinproduktebetreiberverordnung – MPBV) StF: BGBl. II Nr. 70/2007"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 163/2007 BGBl. II Nr. 259/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 70/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/70"
+        },
+        {
+          "text": "BGBl. II Nr. 163/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/163"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. Nr. 657/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_657_0/1996_657_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 153/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/153"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9caa3d2b30308c8d557a54682a812ec089fd261a196ea97e8e13d487d6ef8709",
+      "sha256": "16d2adc77e748d3acd22901b67e30e3e9914243569203b0265bd7bc61ab02990",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4040fb5903c242390d4d451e9ec4a5532926b655c61b0e450234d7836ddc3e5f",
+      "sha256": "a415938df2fd45f8fb4f519e3968e25bb1c30a0795a6efa23b397336358f842d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 122/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/122"
+        },
+        {
+          "text": "BGBl. Nr. 1/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_1_0/1957_1_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Eingangsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6a4e44cc3551ad514de1e3901c5d1f8bec424c39118fc27b3d7c51bcf3ce5ab7",
+      "sha256": "5dde650e581b1e214b20763092ad3c2f753dcbe3f2c06302839c26f145f03d58",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Einweisung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "248fb80fc3238637480317fef2a67f7d66e771c7be5c55e1c009a2da6159dfcd",
+      "sha256": "56e3efde70c39f3fb9e2ee76aa1a28f8a4645acbead52a031bbc6063a4e9f75f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Instandhaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "744217ec3c43f975b2ee159fc6ae75413b470ae2de5e61ba84dda618afae9c1b",
+      "sha256": "c009e201340ff2429b0683fc72e7b0c957a634b5ea688d67fbcb180f2a48adba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Wiederkehrende sicherheitstechnische Prüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae760ec68927eb26daa9fe2588fe1915e3ec84c0bb7404b81f6b79ffd794e9fe",
+      "sha256": "44ce895d6087b025c778117859a64d62943bd81f94b8429152348bd6bf82d6f0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 146/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_146_1/2001_146_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Messtechnische Kontrollen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf61cbd064b6966f7777696a82f2d31b0800835345835594f17676154c671f89",
+      "sha256": "3f5de845a315b9f49c483256bca5ad12c753749169b401aeca12413a865cae5d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 152/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Gerätedatei",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "921ae99a6347bc9b9d7c9ef09206c19d3e4fb0101bfd9a23b4b5c0e1e13a4dd8",
+      "sha256": "c5b0e87be097da7ab09d0c40d346cd55b550b163189fa9b8ddc3b973ecd5bb50",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Bestandsverzeichnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a94fe874b0e3c000ba3bf0fa575e6ddcfde46f2a7041698a3ee537e726381c3b",
+      "sha256": "0ed8dc48dca8a1ab462a9eaa2f086571b1ea3d9c9c9d7f894512617c596a3e55",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Implantatregister",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2763f7b0aab075b00916d03cb18aec5e012fbc352b951d76cc4600d1279b5001",
+      "sha256": "86450e79eacf5dc1580c5606f65412b2f9c7d65eb7c24744f338c2eccaa20f66",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Weiteres Bereitstellen auf dem Markt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a43e32adf2afbb91933d36b293c986e6ef2c07160681f46c80d73a56980ff285",
+      "sha256": "f89035b9de88b8f45d59f4bf817b8dcc3aba180fa60844374a30d0bdbf37bab6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bff8cf474ff96f3e95534ba653a202a422a11d41a6c9a207e6daf210c6d6ce3",
+      "sha256": "56d8b4ee156ad0b9dd7fa6b8bd0db662b4ce3b2d84c0520f5dfa5f6df0ec4f39",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 70/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/70"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 70/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/70"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 70/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/70"
+        },
+        {
+          "text": "BGBl. II Nr. 70/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/70"
+        },
+        {
+          "text": "BGBl. II Nr. 70/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/70"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        },
+        {
+          "text": "BGBl. Nr. 657/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_657_0/1996_657_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Inkrafttreten, Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33a9530c3302867a7edbdb84acefdc9719bd50b1d00e2f6354ecacd8c5b18624",
+      "sha256": "b01cbaca5629a2a53b7106ba145eac109d3512c38cb55d6e63c2aaa68ced295d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 259/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/259"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang 1 Produkte, für die besondere Sicherheitsvorkehrungen zu treffen sind",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "562e66892f4b2c8ee89f0e863c3d682b777ee3f138bb1df73805a21ed1452d81",
+      "sha256": "8d966990e94dcf33e510cecc982cf3c8f7ad78b83885d8f7257cc6355c0170b3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang 2 Medizinprodukte, die messtechnischen Kontrollen unterliegen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31b7ea2500dec8b1a841151f0657ed5ee8a0a58f8e6ecd1d69e7d683b6a8971d",
+      "sha256": "ca32890e1d07485fee34266b8c996d1f4d77204feeff287a801b67f8fd461e60",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 152/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachprüffrist in Jahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1. Medizinprodukte zur akustischen Bestimmung der Hörfähigkeit (zB Ton- und Sprachaudiometer)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Medizinprodukte zur Bestimmung der Körpertemperatur:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "a) Elektrothermometer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "b) Medizinprodukte mit austauschbaren Temperaturfühlern",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "c) Infrarot-Strahlungsthermometer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Medizinprodukte zur Druckmessung:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "a) Medizinprodukte zur nichtinvasiven Blutdruckmessung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "b) Medizinprodukte zur Bestimmung des Augeninnendrucks (Augentonometer)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Diagnostische Tretkurbelergometer für Belastungsuntersuchungen an der Patientin/am Patienten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Therapie- und Diagnostikdosimeter",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "gemäß Maß- und Eichgesetz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. medizinische Personenwaagen (Waagen für Heilzwecke)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "gemäß Maß- und Eichgesetz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anhang 3 Eignung für wiederkehrende sicherheitstechnische Prüfungen Anforderungen an die Prüferin/den Prüfer und Prüfstellen:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87d252323d1e5695a7e63ceaea8ae84321f1b9e7de81d66ee50d8f2aad60b535",
+      "sha256": "692b9f200552ba41eeb0f7d796c00aae451c907cf60c611225850c693cd31a77",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anhang 4 Eignung für messtechnische Kontrollen Anforderungen an die Prüferin/den Prüfer und Stellen:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75ea0cd16a679e4330fce9e55ce830d73b4c9335f71130ffafe1b2433d511792",
+      "sha256": "6788219327a3fe834d734f82f47bf05f8663c7ce3a706cbed3067cba0353b80a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

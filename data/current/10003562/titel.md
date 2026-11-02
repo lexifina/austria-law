@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Abkürzung (in Englisch und Französisch) und das Emblem des Hochkommissars für Flüchtlinge StF: [BGBl. II Nr. 99/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_99_2/1998_99_2.pdf>)

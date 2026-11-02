@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 10. März 1954, betreffend die Verlängerung von Prioritätsfristen zugunsten der Staatsangehörigen der Republik Frankreich. StF: [BGBl. Nr. 58/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_58_0/1954_58_0.pdf>)
+
+Auf Grund des § 13 Abs. 4 des Patentschutz-Überleitungsgesetzes 1950, BGBl. Nr. 128, in der Fassung des Bundesgesetzes [BGBl. Nr. 82/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_82_0/1953_82_0.pdf>), wird festgestellt, daß die Prioritätsfristen des § 13 Abs. 1 des Patentschutz-Überleitungsgesetzes 1950 zugunsten der Staatsangehörigen der Republik Frankreich bis 31. Dezember 1953 verlängert sind.

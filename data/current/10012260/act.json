@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012260",
+  "short_title": "ADR - Widerruf von zwei Vereinbarungen",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012546",
+    "valid_from": "1993-06-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012260&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:07:15.165676+00:00",
+    "response_sha256": "142edbe55bd3cde641d92a58cfa0c7134dc987b95ad135ddadeeb83a69e008b9",
+    "snapshot_sha256": "38f79462b22936a1c478ad586e8fe3fed0465d954991512e92b0d4662cbc9485",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e60e4b0287f71801f50b310f5cc064944f137dcfcf3ca210a1ff78256a4cb17",
+      "sha256": "058c8ff122e502393f19dd50daa3cdf6a4d1142d2c41c0c3d0a4d327635e93a3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf von zwei Vereinbarungen zwischen dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich und der für das ADR zuständigen Behörde von Schweden bzw. für das Königreich Schweden StF: BGBl. Nr. 368/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 368/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_368_0/1993_368_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5df8bc8b450e4af07ebb5d5397dcc9f4c6fe29724f4a314ddfe3acf36f771e9c",
+      "sha256": "276d0e86ea2c0923d3d36f44c4b608d32501343062033332f047552f754265d6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 417/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_417_0/1989_417_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 490/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_490_0/1991_490_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 164/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_164_0/1993_164_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Bundesgesetz über Hypothekar- und Immobilienkreditverträge und sonstige Kreditierungen zu Gunsten von Verbrauchern (Hypothekar- und Immobilienkreditgesetz – HIKrG) StF: [BGBl. I Nr. 135/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/135>) (NR: GP XXV [RV 843](<https://www.parlament.gv.at/gegenstand/XXV/I/843>) [AB 867](<https://www.parlament.gv.at/gegenstand/XXV/I/867>) [S. 102.](<https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/102>) BR: [AB 9482](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9482>) [S. 847.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/847>)) \[CELEX-Nr.: [32014L0017](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0017:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

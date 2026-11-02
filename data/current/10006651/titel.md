@@ -1,0 +1,19 @@
+(Übersetzung) INTERNATIONALE ENERGIE-AGENTUR DURCHFÜHRUNGSÜBEREINKOMMEN EINES FORSCHUNGS- UND ENTWICKLUNGSPROGRAMMS ÜBER DIE ANWENDUNG VON WÄRMEPUMPEN ZUR RATIONELLEN ENERGIEVERWENDUNG StF: [BGBl. Nr. 214/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_214_0/1980_214_0.pdf>) (NR: GP XIV [RV 867](<https://www.parlament.gv.at/gegenstand/XIV/I/867>) [AB 1230](<https://www.parlament.gv.at/gegenstand/XIV/I/1230>) [S. 121.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/121>) BR: [AB 2006](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2006>) [S. 385.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/385>))
+
+Die Vertragschließenden Parteien,
+
+IN ANBETRACHT der Tatsache, daß die Vertragschließenden Parteien, die entweder Regierungen oder internationale Organisationen sind oder aber Parteien, die von ihren jeweiligen Regierungen gemäß Artikel III der vom Verwaltungsrat der Internationalen Energie-Agentur (im folgenden als „die Agentur“ bezeichnet) am 28. Juli 1975 beschlossenen Richtlinien für die Zusammenarbeit auf dem Gebiet von Forschung und Entwicklung im Energiebereich namhaft gemacht wurden, sich im Einklang mit diesem Übereinkommen an der Errichtung und Durchführung eines Forschungs- und Entwicklungsprogramms über die Anwendung von Wärmepumpen zur rationellen Energieverwendung (im folgenden als „das Programm“ bezeichnet) beteiligen wollen;
+
+IN ANBETRACHT der Tatsache, daß jene Vertragschließenden Parteien, die Regierungen sind, sowie die Regierungen der anderen Vertragschließenden Parteien (im folgenden zusammenfassend als „die Regierungen“ bezeichnet) an der Agentur beteiligt sind und sich in Artikel 41 des Übereinkommens über ein Internationales Energieprogramm (im folgenden als „das I.E.P.-Übereinkommen“ bezeichnet) bereit erklärt haben, in den in Artikel 42 des I.E.P.-Übereinkommens bezeichneten Bereichen nationale Programme in die Wege zu leiten, einschließlich der Forschung und Entwicklung auf dem Gebiet der rationellen Energieverwendung, wo das Programm durchgeführt werden wird;
+
+IN ANBETRACHT der Tatsache, daß die Regierungen am 28. Juli 1975 im Verwaltungsrat der Agentur dem Programm als einer Sondertätigkeit im Sinne des Artikels 65 des I.E.P.-Übereinkommens ihre Genehmigung erteilt haben;
+
+IN ANBETRACHT der Tatsache, daß die Agentur die Errichtung des Programms als einen wichtigen Bestandteil der internationalen Zusammenarbeit bei der Forschung und Entwicklung auf dem Gebiet der rationellen Energieverwendung anerkannt hat;
+
+SIND wie folgt ÜBEREINGEKOMMEN:
+
+Die vom Bundespräsidenten unterzeichnete und vom Vizekanzler gegengezeichnete Ratifikationsurkunde wurde am 9. Juli 1979 beim Exekutivdirektor der Internationalen Energie-Agentur hinterlegt; das Durchführungsübereinkommen ist für Österreich am selben Tag in Kraft getreten.
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages wird genehmigt.

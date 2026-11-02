@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001768",
+  "short_title": "Auslieferung von Verbrechern",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001790",
+    "valid_from": "1928-03-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001768&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:52:15.193196+00:00",
+    "response_sha256": "f0d8f547c5c6552a59fbc773a32532aa1aa2d4b3d8b971a054bd551ce148f335",
+    "snapshot_sha256": "f6b3a0edd85cd7c5c940bc1f85554b387de8fab92aa3d568762bf870739a29af",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "405a5bfe1abdb0d28c65bfef368580240a26f1908a29199ee311810a9ac9a797",
+      "sha256": "5c198f1f73c2396a7f77c17b8c8ccbdb9932cb61db2f70d9ef5af5b943a0c122",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 22. Februar 1928, betreffend die Anwendung des zwischen der Republik Österreich und dem Britischen Reiche in Geltung stehenden Auslieferungsvertrages vom 3. Dezember 1873 und der Additionalerklärung vom 26. Juni 1901 im Verhältnis zu den Mandatsgebieten Großbritanniens und der Britischen Dominions. StF: BGBl. Nr. 55/1928"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 55/1928",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=55/1928&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2222dc14329557fd44b217b7f3fdc4e4f4b4f4d1ccd8db14d2dfe10cfe396520",
+      "sha256": "9585540441ac5ff1669519e89344221fa84147905ad380dcd847ffca9539bf8b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

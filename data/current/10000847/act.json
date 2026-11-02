@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000847",
+  "short_title": "VfGH-Feststellung einer Verfassungswidrigkeit",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000849",
+    "valid_from": "1986-09-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000847&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:37:08.454223+00:00",
+    "response_sha256": "8226c33f77dcff9451af29c68fd4806754ae9310e54662f042ce96929db4bb9c",
+    "snapshot_sha256": "87bc5a00ccb5e3253dd072fcb7949b130a15bad74c264470e58a17ebecdf3cc4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba08c867b532d64a4275661cbe86b2c99e280c3e32a0eefb8ded5ddbb096e9dc",
+      "sha256": "14c6c71cece872ec7cbb585c414dfc22884d808d40dac834451984847dfbaef8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 26. August 1986 über den Ausspruch des Verfassungsgerichtshofes, daß die Verordnungen des Landeshauptmannes von Vorarlberg vom 24. Jänner 1983 und vom 16. März 1983 über die Festsetzung von Betriebszeiten für Schifflistickmaschinen gesetzwidrig waren StF: BGBl. Nr. 485/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 485/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_485_0/1986_485_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60e538d3847bb7a7d925ce820cf0d24204107b6bf230074026d133935ca4270b",
+      "sha256": "952f12c20551ce921a7483932f45a00599541059622d687cdab697c99948d1a5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 18. Feber 1969 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Besteuerung des Haltens oder Parkens von Fahrzeugen auf Verkehrsflächen, die nicht Bundesstraßen sind StF: [BGBl. Nr. 76/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_76_0/1969_76_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 10. Dezember 1968, K II-2/68-21, dem Bundeskanzleramt zugestellt am 7. Feber 1969, zusammengefaßt hat:

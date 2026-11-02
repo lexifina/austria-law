@@ -1,0 +1,1869 @@
+{
+  "sample_only": false,
+  "included_provisions": 13,
+  "source_provision_count": 13,
+  "schema_version": 1,
+  "gesetzesnummer": "20011222",
+  "short_title": "Elektrotechnikverordnung 2020",
+  "abbreviation": "ETV 2020",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40224508",
+    "valid_from": "2020-07-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011222&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:10:18.500772+00:00",
+    "response_sha256": "1672bba2542398815ad2abf6a4de594ecea57b59a06e8d0f44b9eb29b5c5d622",
+    "snapshot_sha256": "22aaaff67fbdfd818a38a267dd820cdf72b7594503ae42a88ff4fda3fa4111d8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6e98a86d7e40bb6753cfd792888da03570cb5072fca671841bc57bc702dd045",
+      "sha256": "a9552b73b7412d38602765e435196f0b8312728ec0378dc5ddb4b4baf0af39ee",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über Sicherheit, Normalisierung und Typisierung elektrischer Betriebsmittel und elektrischer Anlagen (Elektrotechnikverordnung 2020 – ETV 2020) StF: BGBl. II Nr. 308/2020"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 329/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 308/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/308"
+        },
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        },
+        {
+          "text": "BGBl. Nr. 106/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_106_0/1993_106_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/27"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a4ba4997ab05328879f458958ef31639cf2ec0377f7d3dcfeb1c295ca360089",
+      "sha256": "386281b25f02f38cdfd4220ca1e3287b5cc9c3687b92fe9aa331637e2d8d0009",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 106/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_106_0/1993_106_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/27"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0fdb8832f53a73d51a3184a790ea0e39dcb322ac986e40ff80d5c14f404f208",
+      "sha256": "b5cec6b80763c85a04a92eb1f8df096c627fb98ac62f615e7c848be102b62459",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Elektrotechnische Sicherheitsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "492b3a0076f5c29fa7e50e6d13664963f848cb7e78038726827a45e5d100b48c",
+      "sha256": "69b2246dd6c5599635b9e44bfbe4ab422d1061f68b8c6cda2009820d1400365b",
+      "notes": [],
+      "links": [
+        {
+          "text": "https://www.ove.at/webshop",
+          "url": "https://www.ove.at/webshop"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Elektrische Anlagen und elektrische Betriebsmittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8064ba72918211b50700f37716535d344a6819ce1279c6ac26b3f460942b9b34",
+      "sha256": "4fc65b68d45512bcba6038a693da2f0845602fd415288d1dab26c2b9159895a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Sonstige Anlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d076c0878c476b925f128a91248d6cb3e611aeca5f913a56346b06ec8e95ce37",
+      "sha256": "55c6881d6d6df6df7ce2fca430239ff530a28e8b196ea604b143a8956e17e69d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Erstprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cb25ba3c0e4231ca07b65eeceb0722b1b1b17185ff3e41608af6df91eaafd14",
+      "sha256": "1a11b1b31f795abab48b4e217d4c3c3327d2c73f467c7c393b81bb8bb2e9e0a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Sicherheit der elektrischen Anlage in Mietwohnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e52aeeaba74422cfc93781687fb728dedba157926b750a8c37e3d570b55facc",
+      "sha256": "848b565d032c69e032e1ac0e01ccad469515edc33611b9d1a31e94ad0a08a871",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 520/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_520_0/1981_520_0.pdf"
+        },
+        {
+          "text": "BGBl I Nr. 58/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "In- und Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82d1c16fffe8eae1388fb3b02b8305e01a75ae3f75d56c7b8e10eb031dbec562",
+      "sha256": "1fa4c6f2e67d0daddea646cf21b247c7b7362a9dd74f64adea9509e97f7ce57b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 222/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_222_2/2002_222_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 229/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/229"
+        },
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7729e516d97bcd365e331446123882a2e8b27be931b900223f8c7eda0876c9b9",
+      "sha256": "a9d8e6e7ca91517c02b793ff751b4fb5413f4485bfd85ca025c7f92c1db7088e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 229/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/229"
+        },
+        {
+          "text": "BGBl. II Nr. 229/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/229"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "EU-Notifikation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ee629e60e84543eb27b9604c9122bd5450d4426d5aab683585c47872f261b73e",
+      "sha256": "57081186bb2ef2350f14c46fb7927a70edc685b6e9f970195431cb60106e02b8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 308/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/308"
+        },
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang I",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07ef0b6d09e2c23b671371042200b3e595be3d360ca6fe0a6ba371b2625ad2d2",
+      "sha256": "c0385e77fd335fa2bb28a33176a96925f92ed08070eaad61eda8341c62ac441c",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen 02 OVE E 8014:2019-01-01 05 ÖVE/ÖNORM E 8610 2012-11-01 06 ÖVE/ÖNORM E 8611 2012-11-01 07 ÖVE/ÖNORM E 8612 2012-11-01 08 ÖVE/ÖNORM E 8613 2012-11-01 09 ÖVE/ÖNORM E 8620-1 2012-11-01 10 ÖVE/ÖNORM E 8620-2 2012-11-01 11 ÖVE/ÖNORM E 8620-3 2012-11-01 12 ÖVE/ÖNORM E 8620-4 2012-11-01 13 ÖVE/ÖNORM E 8620-5 2014-06-01 14 ÖVE/ÖNORM E 8622-1 2012-11-01 15 ÖVE/ÖNORM E 8622-2 2012-11-01 16 ÖVE/ÖNORM E 8622-3 2014-06-01 17 ÖVE/ÖNORM E 8622-4 2014-06-01 18 ÖVE/ÖNORM E 8626 2012-11-01 20 ÖVE/ÖNORM E 8701-1 2003-01-01 21 ÖVE/ÖNORM E 8701-2-2 2003-11-01 23 ÖVE EN 50110-2-700 1998-11 24 ÖVE-L 1 1981 25 ÖVE-L 1a 1986 26 OVE-Richtlinie R 1000-2 2019-01-01 27 OVE-Richtlinie R 1000-3 2019-01-01",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_02_OVE_E_8014_2019-01-01.pdf",
+              "title": "PDF-Dokument: 02 OVE E 8014:2019-01-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_05_OEVE_OENORM_E_8610_2012-11-01.pdf",
+              "title": "PDF-Dokument: 05 ÖVE/ÖNORM E 8610 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_06_OEVE_OENORM_E_8611_2012-11-01.pdf",
+              "title": "PDF-Dokument: 06 ÖVE/ÖNORM E 8611 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_07_OEVE_OENORM_E_8612_2012-11-01.pdf",
+              "title": "PDF-Dokument: 07 ÖVE/ÖNORM E 8612 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_08_OEVE_OENORM_E_8613_2012-11-01.pdf",
+              "title": "PDF-Dokument: 08 ÖVE/ÖNORM E 8613 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_09_OEVE_OENORM_E_8620-1_2012-11-01.pdf",
+              "title": "PDF-Dokument: 09 ÖVE/ÖNORM E 8620-1 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_10_OEVE_OENORM_E_8620-2_2012-11-01.pdf",
+              "title": "PDF-Dokument: 10 ÖVE/ÖNORM E 8620-2 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_11_OEVE_OENORM_E_8620-3_2012-11-01.pdf",
+              "title": "PDF-Dokument: 11 ÖVE/ÖNORM E 8620-3 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_12_OEVE_OENORM_E_8620-4_2012-11-01.pdf",
+              "title": "PDF-Dokument: 12 ÖVE/ÖNORM E 8620-4 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_13_OEVE_OENORM_E_8620-5_2014-06-01.pdf",
+              "title": "PDF-Dokument: 13 ÖVE/ÖNORM E 8620-5 2014-06-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_14_OEVE_OENORM_E_8622-1_2012-11-01.pdf",
+              "title": "PDF-Dokument: 14 ÖVE/ÖNORM E 8622-1 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_15_OEVE_OENORM_E_8622-2_2012-11-01.pdf",
+              "title": "PDF-Dokument: 15 ÖVE/ÖNORM E 8622-2 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_16_OEVE_OENORM_E_8622-3_2014-06-01.pdf",
+              "title": "PDF-Dokument: 16 ÖVE/ÖNORM E 8622-3 2014-06-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_17_OEVE_OENORM_E_8622-4_2014-06-01.pdf",
+              "title": "PDF-Dokument: 17 ÖVE/ÖNORM E 8622-4 2014-06-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_18_OEVE_OENORM_E_8626_2012-11-01.pdf",
+              "title": "PDF-Dokument: 18 ÖVE/ÖNORM E 8626 2012-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_20_OEE_OENORM_E_8701-1_2003-01-01.pdf",
+              "title": "PDF-Dokument: 20 ÖVE/ÖNORM E 8701-1 2003-01-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_21_OEVE_OENORM_E_8701-2-2_2003-11-01.pdf",
+              "title": "PDF-Dokument: 21 ÖVE/ÖNORM E 8701-2-2 2003-11-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_23_OEVE_EN_50110-2-700_1998-11.pdf",
+              "title": "PDF-Dokument: 23 ÖVE EN 50110-2-700 1998-11",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_24_OEVE-L_1_1981.pdf",
+              "title": "PDF-Dokument: 24 ÖVE-L 1 1981",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_25_OEVE-L_1a_1986.pdf",
+              "title": "PDF-Dokument: 25 ÖVE-L 1a 1986",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_26_OVE-Richtlinie_R_1000-2_2019-01-01.pdf",
+              "title": "PDF-Dokument: 26 OVE-Richtlinie R 1000-2 2019-01-01",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_27_OVE-Richtlinie_R_1000-3_2019-01-01.pdf",
+              "title": "PDF-Dokument: 27 OVE-Richtlinie R 1000-3 2019-01-01",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        },
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_02_OVE_E_8014_2019-01-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_05_OEVE_OENORM_E_8610_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_06_OEVE_OENORM_E_8611_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_07_OEVE_OENORM_E_8612_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_08_OEVE_OENORM_E_8613_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_09_OEVE_OENORM_E_8620-1_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_10_OEVE_OENORM_E_8620-2_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_11_OEVE_OENORM_E_8620-3_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_12_OEVE_OENORM_E_8620-4_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_13_OEVE_OENORM_E_8620-5_2014-06-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_14_OEVE_OENORM_E_8622-1_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_15_OEVE_OENORM_E_8622-2_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_16_OEVE_OENORM_E_8622-3_2014-06-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_17_OEVE_OENORM_E_8622-4_2014-06-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_18_OEVE_OENORM_E_8626_2012-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_20_OEE_OENORM_E_8701-1_2003-01-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_21_OEVE_OENORM_E_8701-2-2_2003-11-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_23_OEVE_EN_50110-2-700_1998-11.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_24_OEVE-L_1_1981.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_25_OEVE-L_1a_1986.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_26_OVE-Richtlinie_R_1000-2_2019-01-01.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266570/II_308_2020_27_OVE-Richtlinie_R_1000-3_2019-01-01.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Titel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: Nr. 1 aufgehoben durch Z 5, BGBl. II Nr. 329/2024)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8014:2019-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fundamenterder und ergänzende Maßnahmen mit Erdung und Potentialausgleich für Einrichtungen der Informationstechnik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8065:2023-06-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Errichtung elektrischer Anlagen in explosionsgefährdeten Bereichen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8385:2020-09-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrieb von elektrischen Anlagen -- Besondere Festlegungen für landwirtschaftliche und gartenbauliche Betriebsstätten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8610:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Dreipolige Steckdosen mit N- und Schutzkontakt; 16 A, AC 230/400 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8611:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Dreipolige Stecker mit N- und Schutzkontakt; 16 A, AC 230/400 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8612:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Dreipolige Steckdosen mit N- und Schutzkontakt; 25 A, AC 230/400 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8613:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Dreipolige Stecker mit N- und Schutzkontakt; 25 A, AC 230/400 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8620-1:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 1: Zweipolige Stecker ohne Schutzkontakte für Geräte der Schutzklasse II; 2,5 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8620-2:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 2: Zweipolige Stecker ohne Schutzkontakte für Geräte der Schutzklasse II; 16 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8620-3:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 3: Zweipolige Stecker mit Schutzkontakten für Geräte der Schutzklasse I; 16 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8620-4:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 4: Zweipolige Stecker ohne Schutzkontakte für Geräte der Schutzklasse II, Schutzart IPX4; 16 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8620-5:2014-06-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 5: Zweipolige Stecker mit Schutzkontakten für Geräte der Schutzklasse I, IPX4; 16 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8622-1:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 1: Grundausführung zweipolige Steckdosen mit Schutzkontakten; 16 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8622-2:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 2: Grundausführung zweipolige Steckdosen; 2,5 A, AC 250 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8622-3:2014-06-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 3: Ortsfeste Steckdosen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8622-4:2014-06-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 4: Mobile Steckdosen und Zwischensteckvorrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8626:2012-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke Lehren zur Überprüfung der Funktionsmaße",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8684-1:2021-12-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stecker und Steckdosen für den Hausgebrauch und ähnliche Zwecke -- Teil 1: Allgemeine Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8701-1:2003-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfung nach Instandsetzung und Änderung und Wiederkehrende Prüfung elektrischer Geräte - Teil 1: Allgemeine Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8701-2-2:2003-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfung nach Instandsetzung und Änderung und Wiederkehrende Prüfung elektrischer Geräte - Teil 2-2: Besondere Anforderungen für Elektrowerkzeuge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: Nr. 22 aufgehoben durch Z 9, BGBl. II Nr. 329/2024)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE EN 50110-2-700:1998-11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrieb von elektrischen Anlagen - Teil 2-700: Betrieb elektrischer Anlagen im Bergbau",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE-L 1/1981",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Errichtung von Starkstromfreileitungen bis 1000 V",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE-L 1a/1986",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachtrag a zu den Bestimmungen über Errichtung von Starkstromfreileitungen bis 1000 V, ÖVE-L1/1981",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 1000-2:2019-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wesentliche Anforderungen an elektrische Anlagen - Teil 2: Blitzschutzsysteme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 1000-3:2019-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wesentliche Anforderungen an elektrische Anlagen - Teil 3: Hochspannungsanlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "674b9c66c7fd231985df700747afc9ba57140a9e2d06ea204324d055d2f2a967",
+      "sha256": "ecc0c8d4c728e083876da85bf819633306ad551265a7f1271021e016ffec10c3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        },
+        {
+          "text": "BGBl. II Nr. 329/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/329"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Titel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM E 8016:2012-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektroinstallationen - Hausanschlüsse, Hauptleitungen, Messeinrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8101:2019-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen (ausgenommen Teil 1 Unterabschnitt 134.3 und Teil 6 Unterabschnitt 600.5 unbeschadet gesetzlicher oder behördlicher Vorgaben)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8101/AC1:2020-05-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen (Berichtigung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8120:2017-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verlegung von Energie-, Steuer- und Meßkabeln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE E 8555:2016-12-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrieb elektrischer Bahnen und Obusse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE-IG/EN 50075/1990",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flache, nichtwiederanschließbare, zweipolige Stecker, 2,5 A 250 V, mit Leitung für die Verbindung von Klasse II-Geräten für den Haushalt und ähnliche Zwecke",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 50107-1:2003-10-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leuchtröhrengeräte und Leuchtröhrenanlagen mit einer Leerlaufspannung über 1 kV aber nicht über 10 kV - Teil 1: Allgemeine Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 50110-1:2014-10-01 (EN 50110-2-100 eingearbeitet)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrieb von elektrischen Anlagen -- Teil 1: Allgemeine Anforderungen -- Teil 2-100: Nationale Ergänzungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50174-2:2018-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationstechnik - Installation von Kommunikationsverkabelung - Teil 2: Installationsplanung und Installationspraktiken in Gebäuden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50174-2/AC:2023-02-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationstechnik – Installation von Kommunikationsverkabelung – Teil 2: Installationsplanung und Installationspraktiken in Gebäuden (Berichtigung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50174-3:2017-12-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationstechnik - Installation von Kommunikationsverkabelung - Teil 3: Installationsplanung und Installationspraktiken im Freien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50310:2020-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Telekommunikationstechnische Potentialausgleichsanlagen für Gebäude und andere Strukturen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50341-1:2020-04-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Freileitungen über AC 1 kV – Teil 1: Allgemeine Anforderungen – gemeinsame Festlegungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50341-2-1:2023-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Freileitungen über AC 1 kV Teil 2-1: Nationale Normative Festlegungen (NNA) für Österreich basierend auf EN 50341-1:2012",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50522:2023-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erdung von Starkstromanlagen mit Nennwechselspannungen über 1 kV",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 50565-1:2015-03-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kabel und Leitungen - Leitfaden für die Verwendung von Kabeln und isolierten Leitungen mit einer Nennspannung nicht über 450/750 V (Uo/U) - Teil 1: Allgemeiner Leitfaden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 50565-2:2015-03-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kabel und Leitungen - Leitfaden für die Verwendung von Kabeln und isolierten Leitungen mit einer Nennspannung nicht über 450/750 V (Uo/U) - Teil 2: Aufbaudaten und Einsatzbedingungen der Kabel- und Leitungsbauarten nach EN 50525",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50678:2021-03-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeines Verfahren zur Überprüfung der Wirksamkeit der Schutzmaßnahmen von Elektrogeräten nach der Reparatur",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16b",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 50699:2021-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wiederholungsprüfung für elektrische Geräte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 60038:2012-05-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "CENELEC-Normspannungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN IEC 60079-0:2019-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsgefährdete Bereiche, Teil 0: Betriebsmittel - Allgemeine Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "18a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN IEC 60079-0/AC:2021-05-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsgefährdete Bereiche -- Teil 0: Betriebsmittel – Allgemeine Anforderungen (Berichtigung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 60079-14:2014-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsgefährdete Bereiche -- Teil 14: Projektierung, Auswahl und Errichtung elektrischer Anlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 60079-14/AC:2016-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsgefährdete Bereiche -- Teil 14: Projektierung, Auswahl und Errichtung elektrischer Anlagen [Berichtigung]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 60079-17:2014-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsgefährdete Bereiche -- Teil 17: Prüfung und Instandhaltung elektrischer Anlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN IEC 60079-19:2021-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsgefährdete Bereiche -- Teil 19: Gerätereparatur, Überholung und Regenerierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 60079-25:2011-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsfähige Atmosphäre - Teil 25: Eigensichere Systeme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 60079-25/AC:2014-03-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Explosionsfähige Atmosphäre - Teil 25: Eigensichere Systeme [Berichtigung]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 60335-1:2020-09-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sicherheit elektrischer Geräte für den Hausgebrauch und ähnliche Zwecke -- Teil 1: Allgemeine Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: Nr. 26 aufgehoben durch Z 19, BGBl. II Nr. 329/2024)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN IEC 60335-2-76:2023-03-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sicherheit elektrischer Geräte für den Hausgebrauch und ähnliche Zwecke -- Teil 2-76: Besondere Anforderungen für Elektrozaungeräte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 60335-2-86:2016-09-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sicherheit elektrischer Geräte für den Hausgebrauch und ähnliche Zwecke - Teil 2-86: Besondere Anforderungen für elektrische Fischereigeräte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "28a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN 60335-2-86/A12:2018-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sicherheit elektrischer Geräte für den Hausgebrauch und ähnliche Zwecke – Teil 2-86: Besondere Anforderungen für elektrische Fischereigeräte (Änderung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE EN IEC 61936-1:2023-03-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Starkstromanlagen mit Nennwechselspannungen über 1 kV AC und 1,5 kV DC -- Teil 1: (Mit Ausnahme von Abschnitt 10 anstelle dessen OVE EN 50522 beachtet werden muss) Wechselstrom",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: Nr. 30 aufgehoben durch Z 23, BGBl. II Nr. 329/2024)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 62305-3:2012-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Blitzschutz - Teil 3: Schutz von baulichen Anlagen und Personen (ausgenommen Tabelle 1 letzte Zeile sowie Abschnitt 4.1 letzter Absatz)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 62305-4:2012-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Blitzschutz - Teil 4: Elektrische und elektronische Systeme in baulichen Anlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖVE/ÖNORM EN 62353:2015-11-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Medizinische elektrische Geräte - Wiederholungsprüfungen und Prüfung nach Instandsetzung von medizinischen elektrischen Geräten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 11-1:2022-05-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "PV-Anlagen – Zusätzliche Sicherheitsanforderungen -- Teil 1: Anforderungen zum Schutz von Einsatzkräften der Feuerwehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 12-2:2019-01-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Brandschutz in elektrischen Anlagen - Teil 2: Ergänzende brandschutztechnische Anforderungen an elektrische Betriebsstätten und an elektrische Kabel- und Leitungsanlagen in elektrischen Niederspannungsanlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 12-2/AC:2019-07-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Brandschutz in elektrischen Anlagen - Teil 2: Ergänzende brandschutztechnische Anforderungen an elektrische Betriebsstätten und an elektrische Kabel- und Leitungsanlagen in elektrischen Niederspannungsanlagen (Berichtigung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 2000-5-55N01:2022-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen – Ergänzungen zu OVE E 8101:2019 – Teil 55N01: Anforderungen für die Auswahl und Installation von elektrischen Betriebsmitteln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 2000-5-55N02:2022-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen – Ergänzungen zu OVE E 8101:2019 – Teil 55N02: Aufstellen und Anschließen von Verteilern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 2000-7-7N54:2022-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen – Ergänzungen zu OVE E 8101:2019 – Teil 7N54: Stromversorgung von ortsfesten Experimentierständen in Unterrichtsräumen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 2000-7-7N90:2022-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen – Ergänzungen zu OVE E 8101:2019 – Teil 7N90: Garagen, überdachte Stellplätze, Parkdecks sowie Arbeitsgruben oder Unterfluranlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 2000-7-7N95:2022-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen – Ergänzungen zu OVE E 8101:2019 – Teil 7N95: Stromversorgung von Aufzügen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "OVE-Richtlinie R 2000-7-7N96:2022-08-01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektrische Niederspannungsanlagen – Ergänzungen zu OVE E 8101:2019 – Teil 7N96: Stromversorgung von Fahrtreppen und Fahrsteige",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    }
+  ]
+}

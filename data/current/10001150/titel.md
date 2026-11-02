@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten über die Aufhebung von Bestimmungen der Verordnung des Bürgermeisters der Gemeinde Trebesing, mit der die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 535/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_535_0/1992_535_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 329/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_329_0/1990_329_0.pdf>) wird kundgemacht:

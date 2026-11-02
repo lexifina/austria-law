@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012570",
+  "short_title": "Technisches Format für die Übermittlung von Rechtsgrundlagen gemäß § 4a EStG 1988",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40261334",
+    "valid_from": "2024-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012570&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:38:16.716086+00:00",
+    "response_sha256": "62f35f2d969bdadbb2761b62cef3c43ac4167f4aab09815ecf6621ec0c26e58c",
+    "snapshot_sha256": "6da897d819a5bd7ad0c47456d8692a20d6c791f2d35f9feecfb408aa254994bf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec7076aebea3087934c92b247112b2e172fb8648ff0974ab052c9b81fc7a8566",
+      "sha256": "e10b14ee4b486402870504b6a73f2a849d5addee8821189b4651211a714aab72",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen über das technische Format für die Übermittlung von Rechtsgrundlagen gemäß § 4a EStG 1988 StF: BGBl. II Nr. 104/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 104/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/104"
+        },
+        {
+          "text": "BGBl. Nr. 400/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 13/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/13"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0efb7cc973d8c36034263c575d4626981e97d17487dced2e7ac196ca389b756f",
+      "sha256": "e1718e1a70e8620b84b6d5d0053784fad62f8623387a8d8eccb48864ab8280c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1bf4023c70f30cf6a9b4d11de98d94ce581c6771cc1720b595dd82420427015d",
+      "sha256": "34fa65f38ef81760bb19115f27a3f78feb4848197ba71f0bf0224f3e82379c1b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

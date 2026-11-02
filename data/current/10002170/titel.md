@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. Juni 1970 betreffend das Emblem der Organisation der erdölexportierenden Länder (OPEC) StF: [BGBl. Nr. 203/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_203_0/1970_203_0.pdf>)

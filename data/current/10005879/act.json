@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005879",
+  "short_title": "Sichtvermerkszwang - Abschaffung - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005971",
+    "valid_from": "1994-08-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005879&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:49:50.073564+00:00",
+    "response_sha256": "e0a46ef22bd032e699cd435cf2722b94dc72e86d631ebd064ad4ba64e886aeeb",
+    "snapshot_sha256": "aadd5124e0384540418ddfa5a58701bd737e6712c9ab8c24a73446e0aafa8ac8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9dcee5971c686b9f70bacfd0fde5035d0ca182dbb5bbe4536680392783eaaa41",
+      "sha256": "87666e75252ee8f8ab840b123bb311c6f2ff0b91efa599fb520e862cd36c4c01",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Dominikanischen Republik über die Abschaffung des Sichtvermerkszwanges StF: BGBl. Nr. 670/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 670/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_670_0/1994_670_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "611a08b55b71d1e55e7ed66327192f3b64a941a1fe4d8a2875bea8eba84a3972",
+      "sha256": "38b0014f4e3619dfccbcce4fc3962daf8011566445d04c972fae92503462cee0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_109_0/1968_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

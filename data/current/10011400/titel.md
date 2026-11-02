@@ -1,0 +1,3 @@
+Bundesgesetz vom 3. Juli 1968 über die Landesvermessung und den Grenzkataster (Vermessungsgesetz – VermG) StF: [BGBl. Nr. 306/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_306_0/1968_306_0.pdf>) idF [BGBl. Nr. 124/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_124_0/1969_124_0.pdf>) (DFB) (NR: GP XI [RV 508](<https://www.parlament.gv.at/gegenstand/XI/I/508>) [AB 949](<https://www.parlament.gv.at/gegenstand/XI/I/949>) [S. 105.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/105>) u. [S. 109.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/109>) BR: [S. 267.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/267>))
+
+Der Nationalrat hat beschlossen:

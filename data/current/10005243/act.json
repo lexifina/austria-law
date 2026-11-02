@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005243",
+  "short_title": "Sichtvermerkabkommen (Australien)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Australien",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005327",
+    "valid_from": "1956-04-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005243&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:41:11.536398+00:00",
+    "response_sha256": "bc8499e572ec5fd86e8a15fd6ef899bfe058b4df7dafcc21673118e40ee595c1",
+    "snapshot_sha256": "b0e4fe070d29508a03a6e3afaf00bc48913ef38e49c7e3c8d43718cb870faebb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87059e349b6b8029a4ab8a294a19678270ed8b3dff88db8b03c83b433e513eeb",
+      "sha256": "e6a46231bc9c5730df9c0d26d1c5e7a8713cd2f5c057fde96b02045061a673b7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel über den Abschluß eines Sichtvermerkabkommens zwischen Österreich und Australien StF: BGBl. Nr. 146/1956"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 146/1956",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_146_0/1956_146_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "76f62d328ef3ea2d157918b0975fd479cc1ae4f9e3969a655f3c30c7672da359",
+      "sha256": "8457071cfc120ff818186d0b9d990b24d30df1100a0c5ac2a826d21fb525515d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

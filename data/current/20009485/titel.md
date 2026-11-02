@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Begrenzung der Emission von luftverunreinigenden Stoffen aus Anlagen zur Erzeugung von Eisen und Stahl 2016 (EiSt-V 2016) StF: [BGBl. II Nr. 54/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/54>)
+
+Auf Grund des § 82 Abs. 1 der Gewerbeordnung 1994 – GewO 1994, [BGBl. Nr. 194/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 155/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/155>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

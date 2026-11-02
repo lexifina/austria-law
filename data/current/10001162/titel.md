@@ -1,0 +1,3 @@
+Bundesgesetz über die Erhebung von Gebühren und den Ersatz von Auslagen für Amtshandlungen österreichischer Vertretungsbehörden in konsularischen Angelegenheiten (Konsulargebührengesetz 1992 – KGG 1992) StF: [BGBl. Nr. 100/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_100_0/1992_100_0.pdf>) (NR: GP XVIII [RV 373](<https://www.parlament.gv.at/gegenstand/XVIII/I/373>) [AB 380](<https://www.parlament.gv.at/gegenstand/XVIII/I/380>) [S. 57.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/57>) BR: [4211](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4211>) [AB 4213](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4213>) [S. 549.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/549>))
+
+Der Nationalrat hat beschlossen:

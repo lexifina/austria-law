@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 22. Oktober 1973 betreffend ein staatliches Hoheitszeichen des israelischen Ministeriums für Tourismus StF: [BGBl. Nr. 554/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_554_0/1973_554_0.pdf>)

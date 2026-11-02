@@ -1,0 +1,3 @@
+Bundesgesetz vom 21. Mai 1974 über die gerichtliche Hinterlegung und Einreihung von Urkunden über Rechte an nichtverbücherten Liegenschaften und an Bauwerken (Urkundenhinterlegungsgesetz – UHG) StF: [BGBl. Nr. 326/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_326_0/1974_326_0.pdf>) (NR: GP XIII [RV 1106](<https://www.parlament.gv.at/gegenstand/XIII/I/1106>) [AB 1145](<https://www.parlament.gv.at/gegenstand/XIII/I/1145>) [S. 107.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/107>) BR: [S. 332.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/332>))
+
+Der Nationalrat hat beschlossen:

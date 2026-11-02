@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Österreichischen Botschaft in Paris und dem französischen Ministerium für Auswärtige Angelegenheiten über die Verlängerung der Schutzfrist für Werke der Literatur und der Kunst. StF: [BGBl. Nr. 285/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_285_0/1964_285_0.pdf>)

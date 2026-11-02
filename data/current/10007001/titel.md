@@ -1,0 +1,1 @@
+Abkommen in Form eines Notenwechsels betreffend den Export von Baumwollgarnen aus der Arabischen Republik Ägypten nach Österreich StF: [BGBl. Nr. 202/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_202_0/1989_202_0.pdf>) idF [BGBl. Nr. 251/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_251_0/1989_251_0.pdf>) (DFB)

@@ -1,0 +1,3 @@
+Bundesgesetz über die Festlegung von Flughafenentgelten (Flughafenentgeltegesetz – FEG) StF: [BGBl. I Nr. 41/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/41>) (NR: GP XXIV [RV 1728](<https://www.parlament.gv.at/gegenstand/XXIV/I/1728>) [AB 1745](<https://www.parlament.gv.at/gegenstand/XXIV/I/1745>) [S. 153.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/153>) BR: [AB 8718](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8718>) [S. 808.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/808>)) \[CELEX-Nr.: [32009L0012](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0012:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung, mit der die Zuordnungserfordernisse für das Entlohnungsschema pd präzisiert werden und das Eignungsfeststellungsverfahren festgelegt wird (PD-Zuordnungs-Verordnung – PD-Zuo-V) StF: [BGBl. II Nr. 399/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/399>)
+
+Auf Grund des § 38 Abs. 14 des Vertragsbedienstetengesetzes 1948 – VBG, [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), und des § 3 Abs. 14 des Landesvertragslehrpersonengesetzes 1966 – LVG, [BGBl. Nr. 172/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_172_0/1966_172_0.pdf>), jeweils in der Fassung [BGBl. I Nr. 137/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/137>), wird verordnet:

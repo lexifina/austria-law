@@ -1,0 +1,1 @@
+Gesetz vom 23. November 1945 über die Bereinigung von Schriftstücken wegen Aufhebung von aus sogenannten rassischen Gründen erlassenen Vorschriften (Schriftstücke-Bereinigungsgesetz). StF: [BGBl. Nr. 3/1946](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1946_3_0/1946_3_0.pdf>)

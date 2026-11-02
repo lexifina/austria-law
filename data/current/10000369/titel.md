@@ -1,0 +1,3 @@
+Bundesgesetz vom 5. Juli 1962, betreffend die Durchführung des Artikels 27 § 2 des Staatsvertrages (11. Staatsvertragsdurchführungsgesetz). StF: [BGBl. Nr. 195/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_195_0/1962_195_0.pdf>) idF [BGBl. Nr. 267/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_267_0/1963_267_0.pdf>) (DFB) (NR: GP IX [RV 676](<https://www.parlament.gv.at/gegenstand/IX/I/676>) [AB 751](<https://www.parlament.gv.at/gegenstand/IX/I/751>) [S. 103.](<https://www.parlament.gv.at/gegenstand/IX/NRSITZ/103>) BR: [S. 192.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/192>))
+
+Der Nationalrat hat beschlossen:

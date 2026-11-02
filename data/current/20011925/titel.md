@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie, mit der zur Durchführung von wissenschaftlichen Versuchen eine von der Bestimmung des § 38 Abs. 2b und 6 StVO abweichende Ausführung von Lichtsignalen für zulässig erklärt wird (Verkehrsversuchsverordnung Dosiersystem Reutte Süd) StF: [BGBl. II Nr. 221/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/221>)
+
+Auf Grund des § 34 Abs. 5 Straßenverkehrsordnung 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 154/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/154>), wird verordnet:

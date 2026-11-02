@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002903",
+  "short_title": "Emblem, Bezeichnung, Abkürzung – SHAPE",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002926",
+    "valid_from": "1989-06-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002903&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:10:32.367498+00:00",
+    "response_sha256": "0161f501fc5c1bffc20f3514daf5e354d9f06b143e4964531f867ba348bf7b17",
+    "snapshot_sha256": "a7081a003bd9fe12854ee529620cb8d314b3f8bd02220acca5e9e412dc35bc34",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45bade7356d974cdc7442122239c80ef7e071979fd3a2f8333bc2f2add830f58",
+      "sha256": "ada4f068568c1591f8fa54de0f1fe433829a7213fea00c0d7c7ad2e39ab3c72c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 28. April 1989 betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem des „Oberkommandos der Alliierten Streitkräfte in Europa“ StF: BGBl. Nr. 281/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 281/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_281_0/1989_281_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60161edef4082d6e323b111f463b469a36d749da9d4431c50ecb0ba6345afb24",
+      "sha256": "96e6813d1984964867a34e15c35b36490610e600d708ba93438c65d38e44f2fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d10d38b0f5c236e3a20d85ef91d0ae358ba03a0c2050dd592857618d32b07d22",
+      "sha256": "ef835374a13592427ffeb0e7149f1d2354fd8ccc94f3dd89a9ac208884650bd6",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12035033/hauptdokument.img1is.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

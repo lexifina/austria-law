@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Landwirtschaft, Regionen und Tourismus betreffend die Einstufung erheblich veränderter oder künstlicher Oberflächenwasserkörper, die Erlassung der im Nationalen Gewässerbewirtschaftungsplan 2021 (NGP 2021) zur stufenweisen Erreichung der Umweltziele erstellten allgemein verbindlichen Maßnahmenprogramme StF: [BGBl. II Nr. 182/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/182>)
+
+Aufgrund des § 30b Abs. 1 und des 55f des Wasserrechtsgesetzes 1959, BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 73/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/73>), wird verordnet:

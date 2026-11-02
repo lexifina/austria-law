@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. April 1964, betreffend die Ausdehnung des Geltungsbereiches des Zollabkommens über Behälter StF: [BGBl. Nr. 101/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_101_0/1964_101_0.pdf>)

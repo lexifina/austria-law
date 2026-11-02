@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel und Verkehr im Einvernehmen mit dem Bundeskanzler, betreffend die Wappen und Flaggen Marokkos. StF: [BGBl. Nr. 215/1936](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=215/1936&amp;SkipToDocumentPage=True>)

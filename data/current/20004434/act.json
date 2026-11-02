@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004434",
+  "short_title": "Umstellung der Urkundensammlung des Grundbuchs des Bezirksgerichtes Innere Stadt Wien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004829",
+    "valid_from": "2005-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004434&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:14:26.019893+00:00",
+    "response_sha256": "8f3d1d4eb30e01dcde8cfa59f3638f70ff75e8448bb2df4e26e1c75dc5472f99",
+    "snapshot_sha256": "3976a34967261119d9582e539aa8df754d6698f9477941798995f956f05da02d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67f8078199bd94e67ea95177dd8899dc122a43adf63407a172f8449ca608e37a",
+      "sha256": "3ab2fa34800577c44dd94632664b760c087ccdda9711e46d74562e8fc8ade14b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Umstellung der Urkundensammlung des Grundbuchs des Bezirksgerichtes Innere Stadt Wien StF: BGBl. II Nr. 387/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 387/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/387"
+        },
+        {
+          "text": "BGBl. Nr. 550/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_550_0/1980_550_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 128/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/128"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c628f06a6c59e626451f6686c8fdd88c81f38ed258626f8d37c3ad3a2462dfe7",
+      "sha256": "11ef9252c11c60ca735bfa74b7ef97cd7bac6b562375c0c327f52c61857dc6e5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c808bfb2a0ac5b23a03b316bb2837225b12e38d5cca6ee5a0e69f16c9c5a75c6",
+      "sha256": "93f5a416f9889b547b83ea776f78b6a68e648f193b5c8cd0cea1f4985257e28b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

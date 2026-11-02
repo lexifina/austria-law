@@ -1,0 +1,9 @@
+Ergebnisse der Kündigungsverhandlungen zwischen der Republik Österreich und der Tschechoslowakischen Sozialistischen Republik und zwischen der Republik Österreich und der Bundesrepublik Deutschland gemäß Artikel XXVIII des Allgemeinen Zoll- und Handelsabkommens StF: [BGBl. Nr. 116/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_116_0/1961_116_0.pdf>) (NR: GP IX [RV 361](<https://www.parlament.gv.at/gegenstand/IX/I/361>) u. [362](<http://www.parlament.gv.at/PG/DE/IX/I/I_00362/pmh.shtml>) [](<http://www.parlament.gv.at/PG/DE/IX/I/I_00366/pmh.shtml>)[AB 366](<https://www.parlament.gv.at/gegenstand/IX/I/366>) u. [367](<http://www.parlament.gv.at/PG/DE/IX/I/I_00367/pmh.shtml>) [](<http://www.parlament.gv.at/PG/DE/IX/NRSITZ/NRSITZ_00059/pmh.shtml>)[S. 59.](<https://www.parlament.gv.at/gegenstand/IX/NRSITZ/59>) BR: [S. 171.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/171>))
+
+Nachdem die Ergebnisse der im Jahre 1960 geführten Kündigungsverhandlungen zwischen der Republik Österreich und der Tschechoslowakischen Sozialistischen Republik und zwischen der Republik Österreich und der Bundesrepublik Deutschland gemäß Artikel XXVIII des Allgemeinen Zoll- und Handelsabkommens, welche also lauten:
+
+die verfassungsmäßige Genehmigung des Nationalrates erhalten haben, erklärt der Bundespräsident diese Ergebnisse für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der in diesen Ergebnissen enthaltenen Bestimmungen.
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde vom Bundespräsidenten unterzeichnet, vom Bundeskanzler, vom Bundesminister für Finanzen, vom Bundesminister für Land- und Forstwirtschaft, vom Bundesminister für Handel und Wiederaufbau und vom Bundesminister für Auswärtige Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, am 18. März 1961

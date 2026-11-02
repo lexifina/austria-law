@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über Privilegien und Immunitäten der Europäischen Fernmeldesatellitenorganisation (EUTELSAT) StF: [BGBl. Nr. 293/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_293_0/1993_293_0.pdf>)

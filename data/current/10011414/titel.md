@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 11. Dezember 1970 betreffend den Beitritt weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 404/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_404_0/1970_404_0.pdf>)

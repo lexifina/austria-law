@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Finanzen zur Durchführung der KESt-Entlastung in Bezug auf Auslandszinsen sowie zur Anrechnung ausländischer Quellensteuer bei Kapitalertragsteuerabzug bei Auslandsdividenden (Auslands-KESt VO 2012) StF: [BGBl. II Nr. 92/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/92>)
+
+Zur Durchführung von Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuer vom Einkommen (Doppelbesteuerungsabkommen) sowie gemäß § 48 der Bundesabgabenordnung, [BGBl. Nr. 194/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf>), in der jeweils geltenden Fassung wird verordnet:

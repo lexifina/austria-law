@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 22. August 1989 betreffend den Geltungsbereich des Übereinkommens über den Handel mit Zivilluftfahrzeugen StF: [BGBl. Nr. 430/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_430_0/1989_430_0.pdf>)

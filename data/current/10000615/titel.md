@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 2. Feber 1977 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zu Regelungen über die Zuordnung der zum Gemeinderat Wahlberechtigten zu Wahlsprengeln StF: [BGBl. Nr. 99/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_99_0/1977_99_0.pdf>)
+
+Gemäß Art. 138 Abs. 2 des Bundes-Verfassungsgesetzes in der Fassung von 1929 und gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 16. Dezember 1976, K II-1/76, – dem Bundeskanzleramt zugestellt am 1. Feber 1977 – zusammengefaßt hat:

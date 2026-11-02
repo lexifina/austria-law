@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003540",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Margareten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003569",
+    "valid_from": "1997-05-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003540&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:29.100332+00:00",
+    "response_sha256": "f66303051282844919c36fb63b9a7350d14db80b49c480935cb740ff7ae0c969",
+    "snapshot_sha256": "ef5952c841cf60e6f8ef394d15040734a170fd2a002dc52882032795c1a0eb58",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "63a10599d377303009fa85504c74dab53ed0ea30a29ea07b214c173e175fc6ba",
+      "sha256": "d4bf398164b7e9eb7aa54470967084c6db1b29e8dd203e0881e867945f6114f9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Wien-Margareten StF: BGBl. II Nr. 118/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 118/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_118_2/1997_118_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7cebecee78fca0f651f506f12d63d9462b06a2fce8bdcb6c8a7c2ecec22fc71b",
+      "sha256": "74e23ed854b009b6254043f6c2b6ba4ae8744f9fd2670eaf9cefec45e7c93233",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend die Mitwirkung der Gesundheit Österreich GmbH an der Evaluierung und Qualitätssicherung des Österreichischen Brustkrebs-Früherkennungsprogrammes (Evaluierung und Qualitätssicherung des Österreichischen Brustkrebs-Früherkennungsprogrammes-Verordnung – Brustkrebs-Früherkennungsprogramms-Verordnung) StF: [BGBl. II Nr. 369/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/369>)
+
+Auf Grund des § 15c Abs. 2 des Bundesgesetzes über die Gesundheit Österreich GmbH (GÖGG), [BGBl. I Nr. 132/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/132>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 26/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/26>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 9. August 1951, betreffend die Erweiterung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation und des Protokolls, betreffend das Office International dʻHygiène Publique. StF: [BGBl. Nr. 209/1951](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_209_0/1951_209_0.pdf>)

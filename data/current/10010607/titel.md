@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 3. April 1990 betreffend den Geltungsbereich der Satzung der Weltgesundheitsorganisation StF: [BGBl. Nr. 209/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_209_0/1990_209_0.pdf>)

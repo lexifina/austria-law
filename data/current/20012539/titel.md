@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über die Berücksichtigung von Berufspraxiszeiten für Vertragsbedienstete im Pädagogischen Dienst StF: [BGBl. II Nr. 67/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/67>)
+
+Auf Grund des § 46 Abs. 3 des Vertragsbedienstetengesetzes 1948 – VBG, [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), und des § 18 Abs. 3 des Landesvertragslehrpersonengesetzes 1966 – LVG, [BGBl. Nr. 172/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_172_0/1966_172_0.pdf>), jeweils in der Fassung der Dienstrechts-Novelle 2023, [BGBl. I Nr. 166/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/166>), wird verordnet:

@@ -1,0 +1,1 @@
+Volksabstimmungsgesetz 1972 – VAbstG StF: [BGBl. Nr. 79/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_79_0/1973_79_0.pdf>) (WV) idF [BGBl. Nr. 561/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_561_0/1973_561_0.pdf>) (DFB)

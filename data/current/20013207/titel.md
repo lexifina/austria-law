@@ -1,0 +1,3 @@
+Bundesgesetz über die Errichtung eines Unterstützungsfonds für Alleinerziehende (Unterstützungsfondsgesetz – Alleinerziehende – UFG-AE) StF: [BGBl. I Nr. 44/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/44>) (NR: GP XXVIII [RV 503](<https://www.parlament.gv.at/gegenstand/XXVIII/I/503>) [AB 511](<https://www.parlament.gv.at/gegenstand/XXVIII/I/511>) [S. 81.](<https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/81>) BR: [11821](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11821>) [AB 11823](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11823>) [S. 992.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/992>))
+
+Der Nationalrat hat beschlossen:

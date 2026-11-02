@@ -1,0 +1,3 @@
+Verordnung des Justizministeriums vom 21. Juli 1858, wirksam für den ganzen Umfang des Reiches, womit, in Folge Allerhöchster Entschließung vom 30. Mai 1858, eine Erläuterung des allgemeinen bürgerlichen Gesetzbuches in Bezug auf die Verjährungsfrist der, durch rechtskräftiges Urtheil zugesprochenen, oder durch einen, die Execution begründenden Vergleich, oder durch Vertrag anerkannten Forderungen erlassen wird. StF: [RGBl. Nr. 105/1858](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=105/1858&amp;SkipToDocumentPage=True>)
+
+Zur Beseitigung vorgekommener Zweifel wird in Folge Allerhöchster Entschließung vom 30. Mai 1858 folgende Gesetzeserläuterung erlassen:

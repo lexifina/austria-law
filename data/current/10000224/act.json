@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000224",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000225",
+    "valid_from": "1949-02-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000224&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:24:32.125548+00:00",
+    "response_sha256": "f9adccc91d46d89054f3b279e1450a491d8118e565123c99aec80ca350d26626",
+    "snapshot_sha256": "ec8563d591e7e30a29c0d8455662da90f428552e30b6c60f0164010da8d4c7a4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d9e0c5d01e68ed603d4dc09e8043004d26f8858977af01a9df7b69f4adc62e6",
+      "sha256": "f6f8a9042d4464e5c52a5c0dcab1c7189aadbc9cffed5cd7b2d111ddd971e360",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 3. Jänner 1949, betreffend die Feststellung des Verfassungsgerichtshofes hinsichtlich der Zuständigkeit zur Gesetzgebung und Vollziehung in Angelegenheiten des Jagdrechtes. StF: BGBl. Nr. 41/1949"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 41/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_41_0/1949_41_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c00e9f9228703d216d18f4e550ea5ec4c5c19b056d2ac5c5988d7cb7dc47e56",
+      "sha256": "c6c1ebec9943bd063f4e6fd310be2cfb41723f4f3a92bae965499dc46aa8fb25",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008047",
+  "short_title": "Kundmachung des Vertrags von Amsterdam",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008193",
+    "valid_from": "1999-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008047&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:13:23.305334+00:00",
+    "response_sha256": "aeda5f16674a95cb93e2eef67ccac9bd28d413e0f855ac943eacd3876f8c6b43",
+    "snapshot_sha256": "3220f2b8b86f854eba40c586a6a7ed5e85f00db728fa10be4a4577d6acd79b9a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "afa4ad757c3ba412dcb7590424f6bdc22283f5636793a9daa8c443ab9a13ce1e",
+      "sha256": "dc7e4df4f9f04dd313c810de32b366c02733fa5e90888b88d85a5853d7a1a743",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundeskanzlers betreffend Kundmachung des Vertrags von Amsterdam zur Änderung des Vertrags über die Europäische Union, der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender Rechtsakte samt Schlußakte StF: BGBl. III Nr. 84/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 84/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_84_3/1999_84_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b64551d3f3337d4e500afc3d552f5ed6eb14cfdc994da38c0a351e68ddd75b63",
+      "sha256": "58e0fc8028ceef7de9fcebf25efa83b2ac7e03bf5cdaa77fec70016577fb340d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 83/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_83_3/1999_83_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

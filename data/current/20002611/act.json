@@ -1,0 +1,115 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20002611",
+  "short_title": "Übertragung von Buchhaltungsaufgaben",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002852",
+    "valid_from": "2003-04-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002611&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:50:09.392018+00:00",
+    "response_sha256": "26c3ce0b516d934e9438addd94cf27b6ee088266c1c0fbf9a0a7dd1335548381",
+    "snapshot_sha256": "4945760ce7b960951465431cb0b49b1d5204302e02be159c21ad515e97315018",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f38691a0c4080880f3babf6653f90f2aec0caa2513161debe9191f1f9dd80e7b",
+      "sha256": "8d940fe5728123b3b111676369a8ab84cbbd2a82d9b54430e72e58a2ef079e4c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Präsidenten des Rechnungshofes über die Übertragung von Buchhaltungsaufgaben StF: BGBl. II Nr. 177/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 177/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_177_2/2003_177_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 213/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_98_1/2002_98_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "936d4b0afc29e1f96b70bd678cd1d2fa1eed6c0b65957f449299c93f01954fde",
+      "sha256": "20cad16a3258aee7159f9225b3e0565cc582627c7bcea73010900789f4379def",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b70db7b9874b894a14b40d779139c9e6e6826623bb6e71c4d1ffa32187acd70",
+      "sha256": "3d8bb1dff069923af887e002c0e80479f17c78e506723f92a93ffe19154f8178",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 65/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_65_0/1987_65_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

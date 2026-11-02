@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 25. Feber 1963 über weitere Ratifikationen des Übereinkommens über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge. StF: [BGBl. Nr. 46/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_46_0/1963_46_0.pdf>)

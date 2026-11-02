@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 10. März 1987 betreffend den Geltungsbereich des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht StF: [BGBl. Nr. 102/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_102_0/1987_102_0.pdf>)

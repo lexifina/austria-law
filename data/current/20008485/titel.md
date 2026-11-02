@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die tarifmäßige Festlegung der Kosten für die Probenahme und Untersuchung von Gasölen für nicht auf See befindliche Binnenschiffe und Sportboote und für mobile Maschinen und Geräte (Gasölproben-Kostenverordnung) StF: [BGBl. II Nr. 191/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/191>)
+
+Auf Grund des § 5 des Bundesgesetzes über das Inverkehrbringen von Gasölen für nicht auf See befindliche Binnenschiffe und Sportboote sowie für mobile Maschinen und Geräte, [BGBl. I Nr. 36/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/36>), wird verordnet:

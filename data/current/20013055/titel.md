@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über die Festsetzung der Mauttarife (Mauttarifverordnung 2025) StF: [BGBl. II Nr. 298/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/298>) \[CELEX-Nr.: [32022L0362](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32022L0362:DE:HTML>)\]
+
+Auf Grund des § 8c Abs. 8 und des § 9 des Bundesstraßen-Mautgesetzes 2002 – BStMG, [BGBl. I Nr. 109/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_109_1/2002_109_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 83/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/83>), wird, hinsichtlich der §§ 1 bis 9 und 11 im Einvernehmen mit dem Bundesminister für Finanzen, verordnet:

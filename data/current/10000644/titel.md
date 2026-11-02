@@ -1,0 +1,3 @@
+Bundesgesetz vom 15. März 1978 über Änderungen des Verlaufes der Staatsgrenze zwischen der Republik Österreich und der Bundesrepublik Deutschland StF: [BGBl. Nr. 389/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_389_0/1979_389_0.pdf>) (NR: GP XIV [RV 778](<https://www.parlament.gv.at/gegenstand/XIV/I/778>) [AB 816](<https://www.parlament.gv.at/gegenstand/XIV/I/816>) [S. 87.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/87>) BR: [AB 1810](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1810>) [S. 374.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/374>))
+
+Der Nationalrat hat beschlossen:

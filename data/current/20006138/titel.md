@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz über die Regelung der Zuständigkeit in Dienstrechtsangelegenheiten der Beamtinnen, Beamten und Vertragsbediensteten des Justizressorts (Dienstrechtsverfahrens- und Personalstellenverordnung–Justiz – DVPV–Justiz) StF: [BGBl. II Nr. 471/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/471>)
+
+Auf Grund des § 2 des Dienstrechtsverfahrensgesetzes 1984 (DVG), BGBl. Nr. 29, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 165/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/165>), sowie des § 2e des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 96/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/96>), wird verordnet:

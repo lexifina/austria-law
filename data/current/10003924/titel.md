@@ -1,0 +1,3 @@
+Bundesgesetz vom 15. Dezember 1960 über eine Abgabe vom Bodenwert bei unbebauten Grundstücken und über eine Änderung des Einkommensteuergesetzes 1953 zur stärkeren Erfassung des Wertzuwachses bei Grundstücksveräußerungen (Bodenwertabgabegesetz – BWAG). StF: [BGBl. Nr. 285/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_285_0/1960_285_0.pdf>) (NR: GP IX [IA 115/A](<https://www.parlament.gv.at/gegenstand/IX/A/115>) [AB 353](<https://www.parlament.gv.at/gegenstand/IX/I/353>) [S. 57.](<https://www.parlament.gv.at/gegenstand/IX/NRSITZ/57>) BR: [S. 168.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/168>))
+
+Der Nationalrat hat beschlossen:

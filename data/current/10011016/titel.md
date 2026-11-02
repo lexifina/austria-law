@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft über die Begrenzung von Abwasseremissionen aus der Herstellung und Weiterverarbeitung von Edelmetallen sowie aus der Herstellung von Quecksilbermetall (AEV Edelmetalle und Quecksilber) StF: [BGBl. II Nr. 348/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_348_2/1997_348_2.pdf>)
+
+Auf Grund der §§ 33b Abs. 3, 4, 5 und 7 sowie 33c Abs. 1 WRG 1959, BGBl. Nr. 215, idF des [BGBl. I Nr. 74/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_74_1/1997_74_1.pdf>) wird im Einvernehmen mit dem Bundesminister für wirtschaftliche Angelegenheiten und dem Bundesminister für Umwelt, Jugend und Familie verordnet:

@@ -1,0 +1,43 @@
+## Anhang II
+
+## Schiedsverfahren
+
+(1) Wird eine Streitigkeit einem Schiedsverfahren nach Artikel 16 Absatz 2 dieses Übereinkommens unterworfen, so teilt die Vertragspartei oder teilen die Vertragsparteien dem Sekretariat den Gegenstand des Schiedsverfahrens mit und geben insbesondere die Artikel des Übereinkommens an, deren Auslegung oder Anwendung strittig ist. Das Sekretariat leitet die eingegangenen Mitteilungen an alle Vertragsparteien des Übereinkommens weiter.
+
+(2) Das Schiedsgericht besteht aus drei Mitgliedern. Sowohl die antragstellende(n) Partei(en) als auch die andere(n) Streitpartei(en) bestellen einen Schiedsrichter; die so bestellten Schiedsrichter ernennen einvernehmlich den dritten Schiedsrichter zum Präsidenten des Schiedsgerichts. Dieser darf weder Staatsangehöriger einer der Streitparteien sein, seinen gewöhnlichen Aufenthalt im Hoheitsgebiet einer dieser Parteien haben, im Dienst einer derselben stehen noch in anderer Eigenschaft mit der Sache befasst gewesen sein.
+
+(3) Ist der Präsident des Schiedsgerichts nicht binnen zwei Monaten nach Bestellung des zweiten Schiedsrichters ernannt worden, so ernennt der Exekutivsekretär der Wirtschaftskommission für Europa den Präsidenten auf Antrag einer der Streitparteien binnen weiterer zwei Monate.
+
+(4) Bestellt eine der Streitparteien nicht innerhalb von zwei Monaten nach Eingang des Antrags einen Schiedsrichter, so kann die andere Partei den Exekutivsekretär der Wirtschaftskommission für Europa davon in Kenntnis setzen; dieser ernennt den Präsidenten des Schiedsgerichts binnen weiterer zwei Monate. Nach seiner Ernennung fordert der Präsident des Schiedsgerichts die Partei, die noch keinen Schiedsrichter bestellt hat, auf, diese Bestellung binnen zwei Monaten vorzunehmen. Kommt die Partei dieser Aufforderung innerhalb dieser Frist nicht nach, so unterrichtet der Präsident den Exekutivsekretär der Wirtschaftskommission für Europa, der die Bestellung binnen weiterer zwei Monate vornimmt.
+
+(5) Das Schiedsgericht trifft seine Entscheidungen nach Maßgabe des Völkerrechts und dieses Übereinkommens.
+
+(6) Ein nach diesem Anhang gebildetes Schiedsgericht gibt sich eine Verfahrensordnung.
+
+(7) Das Schiedsgericht entscheidet über verfahrensrechtliche und materiell-rechtliche Fragen mit der Mehrheit seiner Mitglieder.
+
+(8) Das Schiedsgericht kann zur Feststellung der Tatsachen alle geeigneten Maßnahmen ergreifen.
+
+(9) Die Streitparteien erleichtern die Arbeit des Schiedsgerichts; insbesondere werden sie ihm mit allen ihnen zur Verfügung stehenden Mitteln
+
+- a) alle sachdienlichen Schriftstücke vorlegen, Erleichterungen einräumen und Auskünfte erteilen und
+
+- b) die Möglichkeit geben, soweit nötig Zeugen oder Sachverständige zu laden und ihre Aussagen einzuholen.
+
+(10) Die Parteien und die Schiedsrichter wahren die Vertraulichkeit aller während des Verfahrens vor dem Schiedsgericht vertraulich erhaltenen Mitteilungen.
+
+(11) Das Schiedsgericht kann auf Antrag einer der Parteien einstweilige Schutzmaßnahmen empfehlen.
+
+(12) Erscheint eine der Streitparteien nicht vor dem Schiedsgericht oder unterlässt sie es, sich zur Sache zu äußern, so kann die andere Partei das Gericht ersuchen, das Verfahren fortzuführen und seine endgültige Entscheidung zu fällen. Abwesenheit oder das Versäumnis einer Partei, sich zur Sache zu äußern, stellt kein Hindernis für das Verfahren dar.
+
+(13) Das Schiedsgericht kann über Gegenklagen, die mit dem Streitgegenstand unmittelbar im Zusammenhang stehen, verhandeln und entscheiden.
+
+(14) Sofern das Schiedsgericht nicht wegen der besonderen Umstände des Einzelfalls etwas anderes beschließt, werden die Kosten des Gerichts, einschließlich der Vergütung seiner Mitglieder, von den Streitparteien zu gleichen Teilen getragen. Das Gericht verzeichnet alle seine Kosten und legt den Parteien eine Schlussabrechnung vor.
+
+(15) Hat eine Vertragspartei dieses Übereinkommens ein rechtliches Interesse an dem Streitgegenstand und kann sie durch die Entscheidung des Falles berührt werden, so kann sie mit Zustimmung des Gerichts dem Verfahren beitreten.
+
+(16) Das Schiedsgericht fällt seinen Schiedsspruch binnen fünf Monaten nach dem Zeitpunkt, zu dem es gebildet wurde; hält es jedoch eine Verlängerung dieser Frist für notwendig, so soll diese fünf Monate nicht überschreiten.
+
+(17) Der Schiedsspruch des Schiedsgerichts ist mit einer Begründung zu versehen. Er ist endgültig und für alle Streitparteien bindend. Das Schiedsgericht übermittelt den Schiedsspruch den Streitparteien und dem Sekretariat. Dieses leitet die eingegangene Mitteilung an alle Vertragsparteien dieses Übereinkommens weiter.
+
+(18) Streitigkeiten zwischen den Parteien über die Auslegung oder Vollstreckung des Schiedsspruchs können von jeder Partei dem Schiedsgericht, das den Schiedsspruch gefällt hat, oder, falls dieses Gericht nicht befasst werden kann, einem anderen Gericht, das zu diesem Zweck auf die gleiche Weise gebildet wird wie das erste, unterbreitet werden.

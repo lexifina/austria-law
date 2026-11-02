@@ -1,0 +1,2138 @@
+{
+  "sample_only": false,
+  "included_provisions": 56,
+  "source_provision_count": 56,
+  "schema_version": 1,
+  "gesetzesnummer": "20013065",
+  "short_title": "Netz- und Informationssystemsicherheitsgesetz 2026",
+  "abbreviation": "NISG 2026",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40277627",
+    "valid_from": "2026-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013065&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:50:32.479747+00:00",
+    "response_sha256": "721dcc2407083ed876b0edea704ca7e924852f24f96ec38b38cd50e9b4622c60",
+    "snapshot_sha256": "347ef3d8a5df6988e8cdd740d0012febbad20556e83f60dab9b67c17c3587053",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "840103002257d44e4efe4360bb3803eaea18cc5e19094134d46cde55550cfa32",
+      "sha256": "04c0599fb00534dc93e04febd7874abf652d43db069bcd197febefefc5bb056e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz zur Gewährleistung eines hohen Cybersicherheitsniveaus von Netz- und Informationssystemen (Netz- und Informationssystemsicherheitsgesetz 2026 – NISG 2026) StF: BGBl. I Nr. 94/2025 (NR: GP XXVIII RV 308 AB 354 S. 59. BR: 11725 AB 11726 S. 985.) [CELEX-Nr.: 32022L2555]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 94/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/94"
+        },
+        {
+          "text": "RV 308",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/308"
+        },
+        {
+          "text": "AB 354",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/354"
+        },
+        {
+          "text": "S. 59.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/59"
+        },
+        {
+          "text": "11725",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11725"
+        },
+        {
+          "text": "AB 11726",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11726"
+        },
+        {
+          "text": "S. 985.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/985"
+        },
+        {
+          "text": "32022L2555",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32022L2555:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Hauptstück Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfassungsbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand und Ziel des Gesetzes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Strukturen und Aufgaben",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Zuständige Behörde",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bundesamt für Cybersicherheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3b.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Organisation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben der Cybersicherheitsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zentrale Anlaufstelle der Cybersicherheitsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nationales Koordinierungszentrum für Cybersicherheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Unabhängige Stellen und unabhängige Prüfer",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unabhängige Stellen und unabhängige Prüfer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Computer-Notfallteams",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zweck und Aufgaben der Computer-Notfallteams",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen und Eignung von CSIRTs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Koordinierte Offenlegung von Schwachstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Nationale Koordinierung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Cyber Sicherheit Steuerungsgruppe (CSS)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Innerer Kreis der Operativen Koordinierungsstruktur (IKDOK)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Operative Koordinierungsstruktur (OpKoord)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nationale Cybersicherheitsstrategie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Management von Cybersicherheitsvorfällen großen Ausmaßes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt IKT-Lösungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Betrieb von IKT-Lösungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldeanalysesystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "IKDOK-Plattform",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Zusammenarbeit auf nationaler, Unions- und internationaler Ebene",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit auf nationaler Ebene",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit der Datenschutzbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Internationale Zusammenarbeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Peer Reviews",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Wesentliche und wichtige Einrichtungen und Einrichtungen, die Domänennamen-Registrierungsdienste erbringen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Wesentliche und wichtige Einrichtungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wesentliche und wichtige Einrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermittlung der Unternehmensgröße",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Größenunabhängige Einstufung als wesentliche oder wichtige Einrichtung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahmen von Verpflichtungen für wesentliche oder wichtige Einrichtungen aufgrund sektorspezifischer Rechtsakte der Europäischen Union",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Territorialität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Pflichten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Register der Einrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenbank der Domänennamen-Registrierungsdaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Governance",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Risikomanagementmaßnahmen im Bereich der Cybersicherheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachweis der Wirksamkeit von Risikomanagementmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichtspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erheblicher Cybersicherheitsvorfall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Informationsaustausch",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vereinbarungen über den Austausch von Informationen zur Cybersicherheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Freiwillige Meldung relevanter Informationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Aufsicht und Durchsetzung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsmaßnahmen in Bezug auf wesentliche und wichtige Einrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durchsetzungsmaßnahmen in Bezug auf wesentliche und wichtige Einrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nutzung der europäischen Schemata für die Cybersicherheitszertifizierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschwerdeverfahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Datenschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenverarbeitung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenübermittlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Hauptstück Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Bedingungen für die Verhängung von Geldstrafen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwaltungsstrafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nichteinhaltung von Verpflichtungen durch Stellen der öffentlichen Verwaltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Hauptstück Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenbezogene Bezeichnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durchführung und Umsetzung von Rechtsakten der Europäischen Union",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttretens-, Außerkrafttretens- und Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c13a558c06ff9c007c4690030f4501305ff0984c8c852750b4bf23b9579b15d",
+      "sha256": "9686971124f54adb60df0da2cda383346fcc1c5d57c6c49c44cc8746acf15ea2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 1/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1930&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Gegenstand und Ziel des Gesetzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "395be2f881d8b7f4474a6f13f0c65bfaea9addc346b3625ef130d2f36ecea7c3",
+      "sha256": "d465a3df6ad735e84cc592db505b13c008a22a29c08233f73024ab1721ac2759",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d68013e23a0418338f09b93d0239fb74a3f34b5f01e9143ced16355229a5174b",
+      "sha256": "ee9e98c446e71bb292acace370ecbe59672ff67ea909db467a221ea2b7c0817e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 190/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/190"
+        },
+        {
+          "text": "BGBl. I Nr. 152/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_152_1/2001_152_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3a",
+      "source_heading": "2. Hauptstück Strukturen und Aufgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12838057c78af8bd78860b59fcd92c4f0bc0de9101126279b167a940a0bfbf35",
+      "sha256": "079506f81d9c162adf6ce5fcaf7f57244febef12a3d1f39bd5bb036690d88860",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3b",
+      "source_heading": "Organisation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0003b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c95cd84cafc603e4d9733297da70b2549ac7bd1daa1e21efa6093c92b9b31c2",
+      "sha256": "5453be3a6725f2fa23bf78db034609949fbd7f76777297bb7aa8a37f0a1e3f61",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 333/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 85/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_85_0/1989_85_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 133/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_133_0/1955_133_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Aufgaben der Cybersicherheitsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52136f78d655ca18bde67b1ab5c1169f00305d0e9f2d452de7ba4b05ed3ed4e3",
+      "sha256": "892e1be78885f52d2540266be55ed0da9df2a0d23ced25e1c45b75911d90a7c1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 566/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Zentrale Anlaufstelle der Cybersicherheitsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34495da4bbedcb1a98d9ffc4b3b929d203e726adc6b056c60ada6e2da13612de",
+      "sha256": "4b6e202836ec2e3972c7a6773e909bbec06f383c46713afbabe724306de1d6cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Nationales Koordinierungszentrum für Cybersicherheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0e2873662f2a92e7f1dacec8f054ecf3c1cb5981c82724aa6f00fca992a4d8c",
+      "sha256": "0b4668c62da0703c6bf38ddf14dcd71c72d0ad2e277908af5ec996ee128fad9f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 267/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_267_0/1957_267_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "2. Abschnitt Unabhängige Stellen und unabhängige Prüfer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e832d5867cd3ec5afa398e3ab0a0d41702fd571d4ee01cd522dfe9fd60778f4",
+      "sha256": "e90c9517550144fa5f2e7f513357f33f57d932bd88d276a0c553caa7dc60530b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 292/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=292/1921&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "3. Abschnitt Computer-Notfallteams",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "256d65b7ae0229f3220f1fd30869d5d8827e744031908ef52d88f836ac11edd4",
+      "sha256": "329f3507a9fb67b35e71953118da7700d7363094fd9281f41ce465d2d0075e32",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Anforderungen und Eignung von CSIRTs",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "886374ba12d6f061cc68d9adec582f11042064745807e48ded08489909c67a41",
+      "sha256": "b491a676669d2a912d16ea741695824ce3e6402fe4107c3fcbd30294ffc800af",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b8d101fe8da1b7b1a1231ff699746fe9db7ef85153c912252fd8731dc96a6a2",
+      "sha256": "18af18e49a6e44a35e81132cd8b8d241fd26dd06271bc72256f94b6342ec3aca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Koordinierte Offenlegung von Schwachstellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "625575b15febb2e97ffd843a81edc6c90adc7296ffc9da30a4dc2c583438cb04",
+      "sha256": "3ee66237de464cf5c10feb36607ca4d1c36e09d4e68e937a668b5d1212045c85",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "4. Abschnitt Nationale Koordinierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6f65053e326112ca47fd7df1c9ad12a0bf858c46092eaf723924695171bd6e4",
+      "sha256": "808c8fc724eb1a69e19e73799eb0e630ce32b9fbf9a3ce75ccf96171fb257544",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 122/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_122_1/2001_122_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Innerer Kreis der Operativen Koordinierungsstruktur (IKDOK)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27684208ed0fdc792ff125803ae833ed9c19f85273d8e629b757e886ca0464a5",
+      "sha256": "7cbfe404e8b9ebbc131d11c415d19b0c6932181d0a134084a42e9635d9936543",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Operative Koordinierungsstruktur (OpKoord)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d10e07f13fae8a2f414c52d8e035358f4a49c0274b088859c04a5e9fb5fbd8b",
+      "sha256": "e9297e1eff1eadfaca386cf5c4a76037ea7e83e8c65a2fb3c8064eaab5e619f7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Nationale Cybersicherheitsstrategie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4039c2dabf9530d937c87a0b2b2e65725ca6b2bb93c7ee515691451294a3cfc5",
+      "sha256": "e290ff522ea998e7ab2ae5393a2599ed791696fbeb9fc0cf12670093b7dd8118",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Management von Cybersicherheitsvorfällen großen Ausmaßes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0e37701b2f63231a7800622c1fdf2cd801c6d60588f941f588deb871894e305",
+      "sha256": "73959f80b85f7d44d6ff9ea9c4f6fd573ed872b8203ba36e37cc412b79bf532f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "5. Abschnitt IKT-Lösungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "763a1f69b420f5b9fb00e6a5643d7c1cd48184fc16e6194c5076c717931a2894",
+      "sha256": "3a45325518776ab2b10ecda396f4e06925294d759221d59c229396346e45be36",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Meldeanalysesystem",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b66aa8b34fb627d4b0779f549d329dcf5ad30e469c877c25146b4cc614d566c",
+      "sha256": "4b51e8bb4acfbbd407645f24a947c98aa484018df6b79e4395e359a4657ae5f8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "IKDOK-Plattform",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29f71b5068462b3105aecf9a41f89652dda275710230d516a5c07282919cb0f0",
+      "sha256": "f46de4afb21faafe2ee5c97a105df53e6895cf797fadb73ec11dca56671356d6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "6. Abschnitt Zusammenarbeit auf nationaler, Unions- und internationaler Ebene",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "48f04b77999bf4dd19d56c00be90ae1abf0f75dfea50a968b0cf0822941ee030",
+      "sha256": "b385d6b73f9acff43689a0aa9b4523c542c62e5bb1f3dabe4973daa421b52ef3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Zusammenarbeit mit der Datenschutzbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97f8b0c8fc45d69992af5d926f7b0476b6bb39ce63713f0a821b52f651245ee5",
+      "sha256": "8dded70a291916767435be2da57c75dea12c1bf8879cfe425fa6a2a547656780",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Internationale Zusammenarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf93ecb97e1a357a500e4d0c17a92911f9141bb32609db191747a5a936aa1f7f",
+      "sha256": "d003c2c5ca82eb196821e2e5801bc2f15f899ef2049c9daa051988eb23971023",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Peer Reviews",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0347bf784760b75a2d5b988d1dcb7b9dee2fd3457e5313c1b5e192bd81d1eff",
+      "sha256": "1c081836badf29cc45967295a0b4cc2b05f19a462ca07404c9c365dd408120a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "3. Hauptstück Wesentliche und wichtige Einrichtungen und Einrichtungen, die Domänennamen-Registrierungsdienste erbringen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e72c582b981ef990d153bdad3cb832eaff4f3fa0c7ba2d5ade5a514c0ac3b2e",
+      "sha256": "0c2b848b47e48c6cc7de7bf675dbbbc6c4697da2c76460724308ac3f28db4c64",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Ermittlung der Unternehmensgröße",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9af362fa7d9cf2f9ec1a8f4db4fdd58337c9818ddc01e26cf90e66c6a078d11f",
+      "sha256": "98956ed421ea357fd5406198ed938adcbdb93e09c2eeed8927b57b086e5f1b4c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Größenunabhängige Einstufung als wesentliche oder wichtige Einrichtung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37d1419333bf0b6eb3c3840e5e3b31c08b17bac4ad036cabdaae231713e31998",
+      "sha256": "6450504a724c688b7e9d2f21466c58b6a2016730c878c8d4a32f2b9564f27d2c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Ausnahmen von Verpflichtungen für wesentliche oder wichtige Einrichtungen aufgrund sektorspezifischer Rechtsakte der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "555ed257fda595109ebdbdef473e9acf5da3c4a18076c7dccf156d7d48e8dd2e",
+      "sha256": "436f5b21733f76ef38dfac1753e7f3a61acae1865b809283b9835706442d548d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Territorialität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38f97e84059aa41584cf91a21f66b8cbf54b8e25c48a11039ab6dfd78c546eeb",
+      "sha256": "2bef274c389ae9dfd004ad96219dd7bca472be3ebe2fa1e565c4ec57570b0f8d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 200/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_200_0/1982_200_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "2. Abschnitt Pflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10316a85070237221fde5729e04192dfd0d586a21d889da04c38d151baa9953e",
+      "sha256": "4ce2ce3cd503cc0b910a7ebb388829e00835a0267317c8e8aebb9c447c062b47",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Datenbank der Domänennamen-Registrierungsdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75d562b512b580dae644b743c412ffd8f7cb9206f6b3ba37ce73e15b5b1e2e48",
+      "sha256": "33557f4f35beeb6dc8a62b3e171a333e729a581814ea8ccdd0dc67bb5a60b508",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Governance",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de69c038261f037d3d9a2ed0c51ce2a579b9c23722c3edb8620319c70a338b02",
+      "sha256": "5733bbc8a0e46a1f31f1f61ac7dd8d40a7a677d2c20282dbb095da17e158fdd7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Risikomanagementmaßnahmen im Bereich der Cybersicherheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19b1231b624c6a687dd08b7a47bc4e48d4ca2cbf24f7acbb47720d1ccfcee120",
+      "sha256": "214fe6e23b5d449cb608b3832bf576f531ddfefc4066e8cf1aece9ca979d4919",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Nachweis der Wirksamkeit von Risikomanagementmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5ad5217c35b8aed2128bd05a3699f3e1a5f239e3a36ab089f2585e2a1110626",
+      "sha256": "0a658f158134c84cf0b6167d2cb3a2d631e30cbf1cedc8fbee8270d274f87387",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Berichtspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ad5e4f53ad6889f4c1f5d76e0c4937eb9e4f588ff9a8a7deab343ae908e7ae0",
+      "sha256": "01fe3b7c28959c25e8baed71c79a1978b49206a9cfe7378ab30e7683e05c56ca",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/111"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Erheblicher Cybersicherheitsvorfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fce9d6df28b62ece7825cdbe33ab6fdfc2b033a65ab213317ec092d767afb43d",
+      "sha256": "be8587bdb8336f54fbe0f2ba940e365b83a7609d6910928b7e186fcb71abc6aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "3. Abschnitt Informationsaustausch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a0468a8a7b568094c80a3c87325e28fbcb1e1400ed6ab9150fa2e878213e17b",
+      "sha256": "acddf5582e48658b096365683e117d5929450e0b86b80ab5f2610ee4ca8f92c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Freiwillige Meldung relevanter Informationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba0587a3bf969ae2744d8c74804285dc205c1cfece598b8733d5b42414b0fa66",
+      "sha256": "5358220c7f92064f20678e93967d7cb61d15774ebde14784d0334aa43cad6287",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "4. Abschnitt Aufsicht und Durchsetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10bb60fcd1684836f68dfe72f8658ae177919615a503f5f6cfae7fb9ccc4b55a",
+      "sha256": "82286c7ce8c662fdebb07502750c0128a9f3d3221c1fc40976bf4df76793ddd0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Durchsetzungsmaßnahmen in Bezug auf wesentliche und wichtige Einrichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e1e608e44c66339a6a4c9fd191ae3e0c0df67d271d81bdaa41568890f69e917",
+      "sha256": "13b7cf149cf2f5e158c2d27721bfeaa745ce18f5a4d83ab91f0a2c31c0afd798",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Nutzung der europäischen Schemata für die Cybersicherheitszertifizierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "442dcc8cd60202d3b54953687df48d5fc65ba33b7b8d8f6e4a0680f1d18122e5",
+      "sha256": "c9afca5b92e165055582d2ad19eab1c606372a08d6d120120420646d47449d8b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Beschwerdeverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8c7e0eec631830ac7c8025af1261360096ea5514272c5d850e5ae81eb4a4a59",
+      "sha256": "17ccbd81828e7178bea09ad4d4597cd8d7b2fd43dd374dd42bbe4ff39b3e718a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "4. Hauptstück Datenschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9bb326353de6e133bd3551908991073e3ce25d84034996061a5838d375162189",
+      "sha256": "7e65e39dfade54ec0554fb556b3c55d62c13ddec49459a5ad121b5a2f7c6d8a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Datenübermittlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "684db902c95347e43a6bf6fb01ce378dd3a58efda87d1b147ac43a256bddd8dc",
+      "sha256": "3ea26e32f8ad7acc04ea402ef0a250ce7a7af11fece4f5826d980bbcc854c98a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 104/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_104_1/1997_104_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "5. Hauptstück Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d234d8cc3fe17349ba72f9145618ef491378193929b090ce85e3695cfdd005e1",
+      "sha256": "ae6b0e9b5fef3ca67ff739a409f1fda677cbf7a65d66227a26041e95227029a8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Verwaltungsstrafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8067fe9bf9a16194cd0cba111145b9ae5e4e1f1f3cd295b0b26389842a9f6fa6",
+      "sha256": "7b31433a62386c0f940f74f5f93727a422fbe6a01e9574fbbf46a5cd3329df02",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Nichteinhaltung von Verpflichtungen durch Stellen der öffentlichen Verwaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c78f920cbaecce370e029ef8f1afe97a987b3c874fca04937c1d32ea3843e4b",
+      "sha256": "e9516a033601e3e7d762dc3111fbbac5effa56199e0b4aa2707e6813dcf49b2e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "6. Hauptstück Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "669248ff0eadd0ae8d547c745d2fdff698fc67fead62fe8220b1b4e90d6d34b6",
+      "sha256": "a0e11924ec477852c98bebba00e6a6055f19b657f0427279e64628ad40c7bbf5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Durchführung und Umsetzung von Rechtsakten der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4604b9a41b75dc710c51a0ae60e9314dd63a72f7435642aa26c7c31f8f29006",
+      "sha256": "fe6880ee097a919002e6e9849db2e68d298babdbb606994ffc4e366b6c056d0a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d73d12b96044c5cb9a054cd3e9ddeb891520619bba1ff998ee52bab01d48a828",
+      "sha256": "0c380c9c08aa9418a75b05ac5cb9b1ba55c649b8452c8d1f09b25f801bef10d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b1163c5ab0202fa6028a1d38ad3d68db0bcc2303db29fda036e7785a430d2fd",
+      "sha256": "143a4215b64f69fe31f8e55d1115344885ebfaa579989664b2f902d54cf62a24",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Inkrafttretens-, Außerkrafttretens- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92b59e7f214490d51c12707168ef902636275cbd9f4d26cec08345a91a6e5d85",
+      "sha256": "e5f5bcabd6e0dd04d83a3a3d1f07e5d0ae473910ab194aaa0038983acb974f33",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/111"
+        },
+        {
+          "text": "BGBl. II Nr. 215/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/215"
+        },
+        {
+          "text": "BGBl. II Nr. 226/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/226"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/111"
+        },
+        {
+          "text": "BGBl. II Nr. 226/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/226"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e5974a2b518a2dd41ce447f3f622a25d10c28811e0f144985ab0eb8749ac6ee",
+      "sha256": "01bba4e2a742f69ffe21fedcec4ccf9c9da3be7e6378001e5367e6d85d75bea5",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 1",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40273915/I_94_2025__Anlage_1.pdf",
+              "title": "PDF-Dokument: Anlage 1",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40273915/I_94_2025__Anlage_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4953c45af80c44897ac4492cda57fed2f247da7419d20686e3962b50ed474ba6",
+      "sha256": "6bcbea8e30baf018d07528e7a26a605e22d67a57c9637da4ee9a86c273fa4437",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 2",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40273914/I_94_2025__Anlage_2.pdf",
+              "title": "PDF-Dokument: Anlage 2",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40273914/I_94_2025__Anlage_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung, mit der Vorschriften über das Sprengen im Bergbau erlassen werden (Bergbau-Sprengverordnung – BSpV) StF: [BGBl. II Nr. 60/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/60>)
+
+Auf Grund der §§ 2 Abs. 3, 107 Abs. 2, 109 Abs. 1 und 3, 181 sowie 195 Abs. 2 des Mineralrohstoffgesetzes - MinroG, [BGBl. I Nr. 38/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_38_1/1999_38_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 113/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/113>), wird, soweit es sich um Regelungen zum Schutz der Umwelt handelt, im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, verordnet:

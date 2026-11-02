@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz über die Nichtanwendung einer Rechnungslegungsvorschrift des Unternehmensgesetzbuches (Override-Verordnung) StF: [BGBl. II Nr. 283/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/283>)
+
+Aufgrund des § 222 Abs. 3 des Unternehmensgesetzbuches (UGB), [dRGBl. S 219/1897](<https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 58/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/58>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

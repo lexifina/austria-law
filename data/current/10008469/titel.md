@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Justiz vom 16. Mai 1979 über die Verwendung von Geldstrafen und Geldbußen StF: [BGBl. Nr. 219/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_219_0/1979_219_0.pdf>)

@@ -1,0 +1,5 @@
+## Artikel 14 <sup>bis</sup>
+
+### Technische und finanzielle Hilfe
+
+In Fällen, die der Suchtgiftkontrollrat für geeignet hält und entweder zusätzlich oder als Alternative zu den in Artikel 14 Absätze 1 und 2 erwähnten Maßnahmen, kann er nach Zustimmung der betreffenden Regierung den kompetenten Organen der Vereinten Nationen und den speziellen Behörden empfehlen, daß der Regierung eine technische oder finanzielle Hilfe – oder beides – geboten werde, um deren Bemühungen bei der Erfüllung ihrer aus diesem Übereinkommen hervorgehenden Pflichten, einschließlich jener, die in den Artikeln 2, 35, 38 und 38 bis erwähnt wurden oder auf die dort Bezug genommen wurde, zu unterstützen.

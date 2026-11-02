@@ -1,0 +1,1 @@
+Übereinkommen zwischen der Österreichischen Bundesregierung und den Vereinten Nationen anläßlich der 34. Tagung des Komitees der Vereinten Nationen für die friedliche Nutzung des Weltraums StF: [BGBl. Nr. 354/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_354_0/1991_354_0.pdf>)

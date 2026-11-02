@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 22. Dezember 1976 betreffend die britischen Hoheitszeichen ,,Auszeichnung der Königin für Exportleistungen" und ,,Auszeichnung der Königin für technologische Leistungen" StF: [BGBl. Nr. 32/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_32_0/1977_32_0.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000463",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000465",
+    "valid_from": "1969-08-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000463&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:33.406143+00:00",
+    "response_sha256": "5415ef58b8df6329f3a2fc3480f5a22688752ebee33b9cf6bdfe589c88438817",
+    "snapshot_sha256": "6241babee5f628930a841d743e05511fca9071092873b36662e44d4fe9088735",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f52bdf87a7d28c5e643c1c7e41594434006b14fde9e081d686aefbe28ff18866",
+      "sha256": "ec08b13146ab5feb19a4b9ea8f719d6576addbff7c2c2e5a4d3e2b23564c6a11",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 20. August 1969 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit in Angelegenheiten der Errichtung, Auflassung oder Zusammenlegung von Bezirksgerichten StF: BGBl. Nr. 314/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 314/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_314_0/1969_314_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65c5c0e12ac62c4465b73c864c9b65fbe3234eccafa1ba3e8e760fb5fb01d1df",
+      "sha256": "e8ef7b5dbdb2b1c2ddbc96e72e69566a178e3268ad572cfbcb7eaa505e26698c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

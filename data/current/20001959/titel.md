@@ -1,0 +1,1 @@
+Bundesgesetz über die Veräußerung von unbeweglichem Bundesvermögen StF: [BGBl. I Nr. 79/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_79_1/2002_79_1.pdf>) (NR: GP XXI [RV 1034](<https://www.parlament.gv.at/gegenstand/XXI/I/1034>) [AB 1073](<https://www.parlament.gv.at/gegenstand/XXI/I/1073>) [S. 101.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/101>))

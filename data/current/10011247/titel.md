@@ -1,0 +1,1 @@
+Mitteilung der Eintragung eines Verzichts auf das Eigentum an einem Schiff oder einem Schiffsbauwerk an die Behörden der Reichswasserstraßenverwaltung. AV. d. RJM. v. 23. 4. 1941 (3447/2 – V. a 5 890). – Deutsche Justiz S. 525 – StF: DJ S 525/1941

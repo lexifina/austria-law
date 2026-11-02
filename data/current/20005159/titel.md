@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die elektronischen Meldungen betreffend Jahres- und Konzernabschluss (Jahres- und Konzernabschluss-Verordnung – JKAB-V) StF: [BGBl. II Nr. 470/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/470>)
+
+Auf Grund des § 44 Abs. 1 und 5 in Verbindung mit § 44 Abs. 7 und des § 74 Abs. 1 in Verbindung mit § 74 Abs. 7 des Bankwesengesetzes – BWG, [BGBl. Nr. 532/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 141/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/141>), wird – betreffend § 74 Abs. 1 in Verbindung mit § 74 Abs. 7 BWG mit Zustimmung des Bundesministers für Finanzen – verordnet:

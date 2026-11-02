@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012989",
+  "short_title": "Festsetzung des Anpassungsfaktors für das Jahr 2026",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40272342",
+    "valid_from": "2025-10-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012989&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:48:10.321340+00:00",
+    "response_sha256": "c9a8774599cade4e98cdf4d03aa6f17633bf1d4c23ba2a96da80300394feb7f2",
+    "snapshot_sha256": "0c59f1544e1493ff0e192f0f458723829ed84a20ab3daee29e8497cb93d99f13",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75534d82022cd58fe615dec15ccf4991d486c82cfb8834920aca248241300b7e",
+      "sha256": "0db30e13ae336440ee290c4e097f3a57c65b69bd01f7c7dac54c70f1e78951c5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der der Anpassungsfaktor für das Jahr 2026 festgesetzt wird StF: BGBl. II Nr. 226/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 226/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/226"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "556324f808e99922da813b664fac3acc50b874db709a03443765d9fbd471234f",
+      "sha256": "1a0ced0be91f9ab140cc47bb54057e2915c469aa715ed2d20a24c43d8cf122ab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 8. Juli 1948, betreffend die Feststellung des Verfassungsgerichtshofes hinsichtlich der Zuständigkeit zur Gesetzgebung und Vollziehung in Angelegenheiten der beruflichen Vertretungen der Arbeitgeber und Arbeitnehmer auf land- und forstwirtschaftlichem Gebiete. StF: [BGBl. Nr. 183/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_183_0/1948_183_0.pdf>)
+
+Gemäß § 56, Abs. (4), des Verfassungsgerichtshofgesetzes 1930, B.G.Bl. Nr. 127, wird der folgende Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellungen seines Erkenntnisses vom 17. Juni 1948, Zl. K II 1/48/17, zusammengefaßt hat.

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001132",
+  "short_title": "VfGH-Aufhebung zweier paß- und fremdenpolizeirechtlicher Erlässe",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001136",
+    "valid_from": "1991-09-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001132&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:49.203099+00:00",
+    "response_sha256": "d5fa91578bc793bd5535017262dfbacdaa07929d04a9e32cde22755ca9094785",
+    "snapshot_sha256": "c6d2e20e1a9da25eccbb0e48e8d096e0184f0a4ae4136f6fbc3fa98a4d3ca741",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3c0c5800a93d93f7c459ebfadeced14bfd0f30917d6542aab0c6342488bacbb",
+      "sha256": "edfd2904cef14486e8190d401af218bf946b6ff9488a22fdbbd1e190dc38f8d3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Inneres über die Aufhebung zweier paß- und fremdenpolizeirechtlicher Erlässe durch den Verfassungsgerichtshof StF: BGBl. Nr. 510/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 510/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_510_0/1991_510_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87cecebf9e769d1e76fe45a2ab2fdc7b38720587cc5274ae42f39b9a0d3b6ec2",
+      "sha256": "d800124044f7bf6a9b7b0bd98651680130b4aa1567f54e0af6ac295744487799",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

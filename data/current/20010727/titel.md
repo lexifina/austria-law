@@ -1,0 +1,3 @@
+Bundesgesetz über den barrierefreien Zugang zu Websites und mobilen Anwendungen des Bundes (Web-Zugänglichkeits-Gesetz – WZG) StF: [BGBl. I Nr. 59/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/59>) (NR: GP XXVI [RV 574](<https://www.parlament.gv.at/gegenstand/XXVI/I/574>) [AB 655](<https://www.parlament.gv.at/gegenstand/XXVI/I/655>) S. 86. BR: [AB 10199](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10199>) S. [896](<https://www.parlament.gv.at/gegenstand/BR/I-BR/896>).) \[CELEX-Nr.: [32016L2102](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L2102:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz über die Ausstellung von Behindertenpässen und von Parkausweisen StF: [BGBl. II Nr. 495/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/495>)
+
+Aufgrund der §§ 42 und 47 des Bundesbehindertengesetzes, [BGBl. Nr. 283/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_283_0/1990_283_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/71>), sowie aufgrund des § 29b Abs. 1 der Straßenverkehrsordnung 1960 (StVO), BGBl. Nr. 159, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 39/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/39>), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000341",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000342",
+    "valid_from": "1960-02-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000341&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:51.504220+00:00",
+    "response_sha256": "cb4065a9e499818aba54cf3018eb79bcc1cb75342b362f36941cc1391dd6cf5f",
+    "snapshot_sha256": "eeb4d6f27f25759d57c1d1cf9b2fdd48f62f7cd5aca042fed4c31f5ad3139256",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9faf238fd1b94327bb6fa46b57f259c5f702100351d53df9804c90679e74ee0",
+      "sha256": "0bf47d176b3eb33fb670bab87c20ce81abd945b72e5d7f6e7418d3119a4367eb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 4. Feber 1960, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit auf dem Gebiete des Strahlenschutzes. StF: BGBl. Nr. 47/1960"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 47/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_47_0/1960_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c65896cc5970d1b7df8890fe26e06dc2f5dab48dbfff59bb4b1ad7ea3f8e7d07",
+      "sha256": "6726970b7602f7414c236f6017ed9a4bba9d99b16da58bc15dc4473f5744fcc3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

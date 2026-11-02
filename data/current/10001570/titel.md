@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Arbeit, Gesundheit und Soziales über den Ausspruch des Verfassungsgerichtshofes, dass der Ausdruck ,,(Pensionisten)'' in § 4 Abs. 3 Z 3 der Richtlinien des Hauptverbandes der österreichischen Sozialversicherungsträger über die Beurteilung der Voraussetzungen für eine Herabsetzung der Beitragsgrundlage für Selbstversicherte in der Krankenversicherung und über Form und Inhalt diesbezüglicher Anträge gemäß § 31 Abs. 5 Z 9 ASVG gesetzwidrig war StF: [BGBl. II Nr. 249/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_249_2/1999_249_2.pdf>) (VfGH)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

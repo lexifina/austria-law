@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Statistik über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen im Jahr 2014 StF: [BGBl. II Nr. 496/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/496>)
+
+Auf Grund der §§ 4 bis 10 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>), wird im Einvernehmen mit dem Bundeskanzler sowie hinsichtlich des § 6 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

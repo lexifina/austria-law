@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz vom 15. Dezember 1987, mit dem das Bundes-Verfassungsgesetz in der Fassung von 1929 hinsichtlich der Zuständigkeit für das Volkswohnungswesen geändert wird StF: [BGBl. Nr. 640/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_640_0/1987_640_0.pdf>) (NR: GP XVII [RV 303](<https://www.parlament.gv.at/gegenstand/XVII/I/303>) [AB 383](<https://www.parlament.gv.at/gegenstand/XVII/I/383>) [S. 45.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/45>) BR: [AB 3389](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3389>) [S. 495.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/495>))
+
+Der Nationalrat hat beschlossen:

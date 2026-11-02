@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002487",
+  "short_title": "Abweichende Bewuchshöhe bei Neubewaldung durch Naturverjüngung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002725",
+    "valid_from": "2003-01-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002487&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:47:47.387233+00:00",
+    "response_sha256": "b22c03f4d542f616c2a57762c551b9a21c71ff4491347a285fb5c2aae7a579ad",
+    "snapshot_sha256": "b7cb797837b9b8037b8588af6d3ea63a546b0460f13fbaeb979517a2c7a3df0b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b481e938070d35d740ea2bbf3f636e2c63277dfa90f6826e1cb6c9911f6606be",
+      "sha256": "fc460333ba70dd51cba5402333418377263dd3e4be532c5fc36e901df736255a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die abweichende Bewuchshöhe bei Neubewaldung durch Naturverjüngung StF: BGBl. II Nr. 25/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 39/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 25/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_25_2/2003_25_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 39/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/39"
+        },
+        {
+          "text": "BGBl. I Nr. 65/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_65_1/2002_65_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85d0124c6868a9d2a566b56e1ef9a235c51092619adccec706ee50d8d0d4e119",
+      "sha256": "c75779b0c90f4323b9b5dc5a5ea87f55d146c4510e253e1b5be700d30228b327",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

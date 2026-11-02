@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für öffentliche Leistung und Sport über die Übertragung von Buchhaltungsaufgaben StF: [BGBl. II Nr. 205/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_205_2/2000_205_2.pdf>)
+
+Auf Grund des § 6 Abs. 1 des Bundeshaushaltsgesetzes, [BGBl. Nr. 213/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 77/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_77_1/1999_77_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, dem Bundesminister für Finanzen und dem Rechnungshof verordnet:

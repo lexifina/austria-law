@@ -1,0 +1,1 @@
+Notenwechsel vom 16. Jänner 1981 über die Errichtung vorgeschobener österreichischer Grenzdienststellen am Grenzübergang Passau-Voglau StF: [BGBl. Nr. 95/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_95_0/1981_95_0.pdf>)

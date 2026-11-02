@@ -1,0 +1,87 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000153",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000154",
+    "valid_from": "1931-04-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000153&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:23:31.572640+00:00",
+    "response_sha256": "f218fa293143218a164a90a3a062b2f586d2f181fd2cec6f9e2d2fbcac863eed",
+    "snapshot_sha256": "e60098672b5dfb817dcab7df290a9f6485e3b1a3d4189e1a4f19b9373f4f9877",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7546650e89f8deaca625b7a063ac2e33c108f7deb5238a84fe01c0c33ad1fa26",
+      "sha256": "eb93a781228de430075a04b1585f1deb2b828e4808d4b47a81a3239f0d5cfe8c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 13. April 1931, betreffend die Feststellung des Verfassungsgerichtshofes über die Zugehörigkeit des landwirtschaftlichen Bringungsrechtes zur Bodenreform. StF: BGBl. Nr. 113/1931"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 113/1931",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1931&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR11000154/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2909fe7cdb29611f10be97e1657a4b6f3bb6cfa44c2f7b463bbfc39a76fa5b46",
+      "sha256": "e8276868716164c9c897ddad55e546177140987b9e1c407d6bb8fa50d28dcdae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

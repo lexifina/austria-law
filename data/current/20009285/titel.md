@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zur Festlegung der Gesamterfassungsquoten von Haushaltsverpackungen (AbgeltungsV Haushaltsverpackungen) StF: [BGBl. II Nr. 275/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/275>)
+
+Aufgrund des § 29b Abs. 5 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), [BGBl. I Nr. 102/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 193/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/193>), wird im Einvernehmen mit dem Bundesminister für Wissenschaft, Forschung und Wirtschaft verordnet:

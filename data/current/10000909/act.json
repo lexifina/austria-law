@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000909",
+  "short_title": "VfGH-Aufhebung Erlaß d. BMLv",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000912",
+    "valid_from": "1987-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000909&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:38:00.595341+00:00",
+    "response_sha256": "9e283efe9e1eb047ddd9c48cfc3c71c1d316b79cb09ee255a9703e6c4b32672b",
+    "snapshot_sha256": "cb1ff3a28f5e162c9428c4f9567141b5fc8f8277f6a9dfb9a10651c4776f2a48",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "143b100984933e29431ba86f5d53e62ff8824112d2de1ce7c9c9918d0e78f3a4",
+      "sha256": "38b39ec4876cc1ed269f90b6ebbb367607bc1e705ee27e3006d545bc8927494a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Landesverteidigung vom 16. April 1987 über die Aufhebung einiger Worte in der Beilage 1 zum Erlaß des Bundesministers für Landesverteidigung vom 28. Juni 1982, Z. 52.122/491-4.9/82, Verlautbarungsblatt des Bundesministeriums für Landesverteidigung Nr. 167/1982, durch den Verfassungsgerichtshof StF: BGBl. Nr. 172/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 172/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_172_0/1987_172_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "604dfdd689c8ee551db68ad3794c9faf93ae30ee0d2b4263795fcd615e96ecde",
+      "sha256": "4ab6c01fd60809c374fa37e841cbd222f0ed62df9cd7de53b63730c2d6a27904",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

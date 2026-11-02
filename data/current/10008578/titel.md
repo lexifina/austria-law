@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Unterricht, Kunst und Sport vom 26. März 1985 über die Beurteilung der Leistung der Lehrer, Erzieher und Schulleiter StF: [BGBl. Nr. 242/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_242_0/1985_242_0.pdf>)

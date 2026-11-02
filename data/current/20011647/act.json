@@ -1,0 +1,754 @@
+{
+  "sample_only": false,
+  "included_provisions": 18,
+  "source_provision_count": 18,
+  "schema_version": 1,
+  "gesetzesnummer": "20011647",
+  "short_title": "IKT-Schulverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40275307",
+    "valid_from": "2026-01-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011647&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:18:32.551143+00:00",
+    "response_sha256": "76b43cffcabb38ccd78c9bbb30e8aacd3c8bcc3338ce095ad5d81c668178dde5",
+    "snapshot_sha256": "7b0a3a03ccb45e68e79f61739900aef5e9bfcf9e3ac5842056a47f807042eccc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c1d6451c6b6538d91f0ccdf98f3b291e0de87d6450222d7ba2ecce4bc66e4fc",
+      "sha256": "53bdcc3b5d6a78ba6a3e404f06e345af9747f7b12e66031f691e199049da5114",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über IKT-gestützten Unterricht und Datensicherheitsmaßnahmen im Schulwesen (IKT-Schulverordnung) StF: BGBl. II Nr. 382/2021"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 14/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 382/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/382"
+        },
+        {
+          "text": "BGBl. II Nr. 14/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/14"
+        },
+        {
+          "text": "BGBl. I Nr. 20/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/20"
+        },
+        {
+          "text": "BGBl. Nr. 472/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_472_0/1986_472_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 170/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/170"
+        },
+        {
+          "text": "BGBl. I Nr. 9/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/9"
+        },
+        {
+          "text": "BGBl. II Nr. 14/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/14"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Paragraph",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelungszweck",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenbezogene Bezeichnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Technische und organisatorische Maßnahmen zur Gewährleistung der Sicherheit der Datenverarbeitung bei schulischen Verarbeitungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Authentifizierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenmanagement im Bildungsportal",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen an IT-Systeme und Dienste",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hosting",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Organisatorische Datensicherheitsmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Technische und organisatorische Maßnahmen bei digitalen Endgeräten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Endgeräteverwaltung für digitale Endgeräte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbezogene Anforderungen an digitale Endgeräte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Technische und organisatorische Maßnahmen beim IKT-gestützten Unterricht und für Lern- und Arbeitsplattformen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "IT-Nutzungsbedingungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Funktionalitäten der Endgeräte im IKT-gestützten Unterricht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektronische Kommunikation mit Erziehungsberechtigten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: 5. Abschnitt samt § 15 aufgehoben durch BGBl. II Nr. 14/2026)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise auf Bundesgesetze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2cafd7e308900329fa26f4380c492613731acbbfbb7500c9aa07e0c7dcc8574",
+      "sha256": "dfec908e1d0ddf46e260ec716b17eee233d83fb39ffb56e38df6680392ff748b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 20/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/20"
+        },
+        {
+          "text": "BGBl. Nr. 472/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_472_0/1986_472_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Regelungszweck",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8a90d0987db50fecfa76fc5df8135ee9fa1cb8ade1497a0fc8bd2507673dfc6",
+      "sha256": "dfb6e872fdc341500915efe840acb64c2c05ef15d06d25bb84a1b5ae22f05f08",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 9/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/9"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Personenbezogene Bezeichnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d493e0032afaeed25043b27a18b11f28966a833ae76ce8cb6dc2f335405ce31c",
+      "sha256": "006ba609fa7b559b517e3a71c97d872eac465c3bc53a2b9669d22d0be98e69a6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4536c64ad6ec44f455ad80e5c2efb26b2e6557d5de29a1938d436b0f1ff4832a",
+      "sha256": "0ace7c04796bb1de061d762a16c2f28b9f87e392aab46b08c009c97740621c50",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 333/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 86/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "2. Abschnitt Technische und organisatorische Maßnahmen zur Gewährleistung der Sicherheit der Datenverarbeitung bei schulischen Verarbeitungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ab859cda49c3b1be368f9072456e65eb40efbb06bd0b54f30bf89e35cd78080",
+      "sha256": "2a1347be5d94bc0a6fdafc4b8c8c665575bfa2223a8e342f7e1aabff1fd2c4da",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Datenmanagement im Bildungsportal",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b79884ee6228721bc042ff0f88ffb996de90ad2ff815343e1c3d472a8136d27",
+      "sha256": "7a7cad47863debf46c0186e61350d1f77d223b533531c35b98ebd71357e0f77b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Anforderungen an IT-Systeme und Dienste",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0cf21180c171275d8b3a686bd46f47aa43d814e962ed1e8e1306ae1444587d1c",
+      "sha256": "eca302b5a01006af9d839560a059fad523d702cca0607c85d964e7648d1edf02",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Hosting",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1c4af8f87770d5423533cc10563578eb381453d21593ad044592e2f047a21ec",
+      "sha256": "c881144ad94c0fe298c8b5a2987999c72ea503be9ac5fa8235e0c6b8861f1de2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Organisatorische Datensicherheitsmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "61ba939f1bfa154929b5f68f2e922e58d47ce1fc30bc8e08ec06d6d9ff5c1315",
+      "sha256": "41c59830124781e2b0bfdc5724fedd1261991623916e44f0776f95b6f80dcdce",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "3. Abschnitt Technische und organisatorische Maßnahmen bei digitalen Endgeräten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f1380dc9cbc3007ea7cfbfd6e221d40526639dbaea7c6b2ce28be7a98c29009",
+      "sha256": "b88ed3f1a6b13f3d6eaf9a710d841ec38144e6b71f801c1a0ceab4c25731cc9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Anwendungsbezogene Anforderungen an digitale Endgeräte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d3493e62e5332cbb1f321ae719ba7b20d6ef339a61212c6bc067b5557604d89",
+      "sha256": "f786a47a74b995df1ff460f69ef5d6ec61034a483976735111d5d83489e02573",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "4. Abschnitt Technische und organisatorische Maßnahmen beim IKT-gestützten Unterricht und für Lern- und Arbeitsplattformen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26739e57d3d073c6504c2ac771ae1785c18a013385908df7c70abb65df54aec8",
+      "sha256": "2a65dc0c05947741e8908e64af92b4c7255c2adfd7e1b396fd52d43d20d891b8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 111/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=111/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Funktionalitäten der Endgeräte im IKT-gestützten Unterricht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bc1c300c735818ddf52d613c3b0ea88eb6db4e7a66241e7dca1fc17a2714ef1",
+      "sha256": "eb05f08effc50eecbba7e13076386ef0dbd4f5ad0631891cc49b1c22d36b54a9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Elektronische Kommunikation mit Erziehungsberechtigten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e484a0a545635c16bd94a44465bfe1c0d580d3691f320699423292cda0698522",
+      "sha256": "273fc40baead451f17eb78c7c6d41d77f83cd026db7fcb6930d1773cfd809770",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "6. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "adb6ceb391344f98eb97eaec2cf4c34e76937b917b7c5cacd45591baf9c297c8",
+      "sha256": "f329926c13da55d7cc4e45b3b0499490bbe0d3b2ce1608fa2ea4b6d03e1a0ea1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Verweise auf Bundesgesetze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c0811a153127139a60fc3b0a03f293e5a0da73c0e610088ac94ac7646a55538",
+      "sha256": "5c93b93d3d388688f55c7561aeee3be9eec0959063a6dc706cb733978b388be9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1441db41c164f3fbc7f9ee55d801c35adbec02d06d83df61d7a58b54903657fb",
+      "sha256": "d40a881c2c9a3408bb3fe229f8c9944612e5ab6e4ed2e9ddbdad5bfe03d76070",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 14/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/14"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

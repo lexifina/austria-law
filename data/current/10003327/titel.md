@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Republik Litauen StF: [BGBl. Nr. 256/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_256_0/1995_256_0.pdf>)

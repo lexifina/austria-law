@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 28. Dezember 1988 über den Ausspruch des Verfassungsgerichtshofes, daß die Worte ,, , in der Landeshauptstadt Graz jedoch von 13.00 bis 15.00 Uhr'' in § 2 Abs. 1 der Steiermärkischen Ladenschlußverordnung gesetzwidrig waren StF: [BGBl. Nr. 25/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_25_0/1989_25_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

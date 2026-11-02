@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Plausibilisierung der Voraussetzungen für die Zuerkennung einer Förderung im Sinne des § 28 Abs. 3 Z 2 EStG 1988 für die Ermittlung von Einkünften aus Vermietung und Verpachtung (VuV-Plausibilisierungs-VO) StF: [BGBl. II Nr. 324/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/324>)
+
+Aufgrund des § 28 Abs. 3 Z 2 zweiter Teilstrich des Einkommensteuergesetzes 1988 – EStG 1988, [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 144/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/144>), wird im Einvernehmen mit der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

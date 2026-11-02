@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 4. April 1961, betreffend den Beitritt weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 111/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_111_0/1961_111_0.pdf>)

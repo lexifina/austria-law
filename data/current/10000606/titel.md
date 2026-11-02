@@ -1,0 +1,3 @@
+Bundesgesetz vom 27. Jänner 1976 über Änderungen des Verlaufes der Staatsgrenze zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien StF: [BGBl. Nr. 586/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_586_0/1976_586_0.pdf>) (NR: GP XIV [RV 20](<https://www.parlament.gv.at/gegenstand/XIV/I/20>) [AB 87](<https://www.parlament.gv.at/gegenstand/XIV/I/87>) [S. 16.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/16>) BR: [AB 1462](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1462>) [S. 348.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/348>))
+
+Der Nationalrat hat beschlossen:

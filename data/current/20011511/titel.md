@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 10. März 2021, dass § 1 Z 2 lit. e sowie § 2 der Verordnung des Magistrats der Stadt Wien betreffend Auskunftserteilung für Contact Tracing im Zusammenhang mit Verdachtsfällen von COVID-19, ABl. der Stadt Wien 41/2020, gesetzwidrig waren StF: [BGBl. II Nr. 145/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/145>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

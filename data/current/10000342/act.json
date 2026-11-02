@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000342",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000343",
+    "valid_from": "1960-07-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000342&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:53.654914+00:00",
+    "response_sha256": "ae7ed92aedbd8adf945892d25a013c0559b1bc7dd6a68fb8c3ac0dd3c19268c1",
+    "snapshot_sha256": "6f53c55a45f3f0b92e4df222742f53252586f37096d79a159a07037c6346c615",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3cf8c84b1ff5dd9c9b32fa5f63fe7127fa18fe9bd458a875c90ddcfc624a72b",
+      "sha256": "e455e4381104802f99b2680076d421c2a7e3849adaf839dd3d6839df841f34c5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 8. Juli 1960, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Einrichtung eines Fonds zur Leistung von Beihilfen in wirtschaftlichen Notfällen betrieblicher Art, hervorgerufen durch Tierverluste, die nicht durch Seuche oder sonstige Krankheit entstehen. StF: BGBl. Nr. 146/1960"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 146/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_146_0/1960_146_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c321361669878e1a4979fff346c23dbddb52a77c88cd8572b3095a42b11248d",
+      "sha256": "b8e6e9b1463da22b39bca91404deea490197be5ee3c9e3fb799c075a8d9ab9f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

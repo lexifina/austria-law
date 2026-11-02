@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung StF: [BGBl. III Nr. 133/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_133_3/2003_133_3.pdf>)

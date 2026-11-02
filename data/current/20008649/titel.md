@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Formblätter für die Bilanz und die Gewinn- und Verlustrechnung der Betrieblichen Vorsorgekassen sowie für die Rechenschaftsberichte der Veranlagungsgemeinschaft (Betriebliche Vorsorgekassen-Formblätterverordnung – BVK-FBlV) StF: [BGBl. II Nr. 353/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/353>)
+
+Auf Grund des § 40 Abs. 3 des Betrieblichen Mitarbeiter- und Selbständigenvorsorgegesetzes – BMSVG, [BGBl. I Nr. 100/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_100_1/2002_100_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 184/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184>), wird verordnet:

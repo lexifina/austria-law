@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000201",
+  "short_title": "Errichtung einer Notarstelle in Vorchdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000229",
+    "valid_from": "1999-10-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000201&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:16:33.574916+00:00",
+    "response_sha256": "8c1610440acd2e8a2d9d80c2ea91a538328cab0a1c1e51253f21054ffe7a4047",
+    "snapshot_sha256": "e2f29691e4ab858e34a85590b4b77323351629f55f46b19456078a62eff1d320",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f58341398732b0f18a790046682c651a99fb14046294eef3e74cacf68011279b",
+      "sha256": "bbfb804beb5d289d5ee45f32e4729465268c2242949ff728938ed8d9a33a9bf1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer Notarstelle in Vorchdorf StF: BGBl. II Nr. 406/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 406/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_406_2/1999_406_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7daa96b931cdeb987e586bbe6140ba7514d241e0537005e1b802d9117fa44b0",
+      "sha256": "34e6526c8a1478b3e1551fb36a789f7013dbcf4ca3bb6411099dcf2bd6557c5c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

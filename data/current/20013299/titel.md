@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über eine abschnittsbezogene Geschwindigkeitsüberwachung 2026 im Bereich Knoten Linz – Anschlussstelle Franzosenhausweg der A 7 Mühlkreis Autobahn Phase 2 (Section Control-Messstreckenverordnung II A 7 Knoten Linz – Franzosenhausweg 2026) StF: [BGBl. II Nr. 278/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/278>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 62/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/62>), wird verordnet:

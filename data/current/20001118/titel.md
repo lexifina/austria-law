@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 1999 StF: [BGBl. I Nr. 9/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_9_1/2001_9_1.pdf>) (NR: GP XXI [AB 439](<https://www.parlament.gv.at/gegenstand/XXI/I/439>) [S. 55.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/55>))

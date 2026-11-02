@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 21. September 1981 betreffend niederländische amtliche Prüfungszeichen für Landeier und Frühstücksspeck (Bacon) StF: [BGBl. Nr. 459/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_459_0/1981_459_0.pdf>)

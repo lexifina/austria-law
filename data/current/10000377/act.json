@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000377",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000378",
+    "valid_from": "1963-09-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000377&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:28:37.983235+00:00",
+    "response_sha256": "b4337eb48fd684c6858bdd27ad7f867acc1a73405e5629423c6d98d574064d75",
+    "snapshot_sha256": "2ed266a83c544b28138e1601ae01bdb5b8b1836c1e547f747ec8a3bbc1966f4d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2874e30d773c657f72c3ef989ca7f80461feb76d5e6fed9ed94eb288fda0290",
+      "sha256": "7461ad648b90005260885a2843dcf91b082e2ae0a82fa08fde7a43d5291621c0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 23. August 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung von gesetzlichen Vorschriften zur Durchführung der Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949 hinsichtlich des Schutzes des Zeichens und des Namens des Roten Kreuzes. StF: BGBl. Nr. 231/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 231/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_231_0/1963_231_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19031b8a5665f91cc38c88ec51907458b1f12ac346f5a8816135626af31a37df",
+      "sha256": "f930730d91edc4a66cd746c9ed1f778e85c8aaa275ba2940a0bb5f76f2838ccc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

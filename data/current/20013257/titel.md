@@ -1,0 +1,3 @@
+Bundesgesetz über die Besteuerung der Zustellung von Paketen (Paketsteuergesetz – PakStG) StF: [BGBl. I Nr. 62/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/62>) (NR: GP XXVIII [RV 523](<https://www.parlament.gv.at/gegenstand/XXVIII/I/523>) [AB 561](<https://www.parlament.gv.at/gegenstand/XXVIII/I/561>) [S. 89.](<https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/89>) BR: [11838](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11838>) [AB 11839](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11839>) [S. 994.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 16. März 1983 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen, das Emblem und die Flagge der Internationalen Seeschiffahrts-Organisation StF: [BGBl. Nr. 221/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_221_0/1983_221_0.pdf>)

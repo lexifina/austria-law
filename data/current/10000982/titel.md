@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 5. August 1988 über die Aufhebung der Z 2 der Verordnung des Bürgermeisters der Stadt Dornbirn, mit der die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 475/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_475_0/1988_475_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

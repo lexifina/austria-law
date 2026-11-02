@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 9. Oktober 1975 über die Anwendung des Art. 41 Abs. 2 des Konsularvertrages zwischen der Republik Österreich und dem Vereinigten Königreich von Großbritannien und Nordirland StF: [BGBl. Nr. 531/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_531_0/1975_531_0.pdf>)

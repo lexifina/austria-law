@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über ein gemeinsames Versandverfahren StF: [BGBl. Nr. 364/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_364_0/1996_364_0.pdf>)

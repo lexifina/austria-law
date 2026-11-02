@@ -1,0 +1,3 @@
+Bundesgesetz über die Errichtung einer Bundesbeschaffung Gesellschaft mit beschränkter Haftung (BB-GmbH-Gesetz) StF: [BGBl. I Nr. 39/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_39_1/2001_39_1.pdf>) (NR: GP XXI [RV 486](<https://www.parlament.gv.at/gegenstand/XXI/I/486>) [AB 546](<https://www.parlament.gv.at/gegenstand/XXI/I/546>) [S. 61.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/61>) BR: [6330](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6330>) [AB 6340](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6340>) [S. 676.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/676>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000280",
+  "short_title": "Schutz der Opfer des Krieges",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000281",
+    "valid_from": "1956-11-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000280&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:26:15.232007+00:00",
+    "response_sha256": "cfc8c20be97d2f9f8710ff4b3daa9737f189b63bf1a350b8f823d808c6c2823f",
+    "snapshot_sha256": "7d1536a150f69d017aa1416ce253546fd0ff58321799f674c2400b701d481315",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1362d84c26aa8564334e84d92c5be54b2713a414c7375832af333069c4aa285",
+      "sha256": "8ccc917108cabe6b333c43a62069d4fdeab7975e90ec54333ce89bb8bcb7281c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 6. Oktober 1956 über den Beitritt Griechenlands, Libyens und Marokkos zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949, BGBl. Nr. 155/1953. StF: BGBl. Nr. 200/1956"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 200/1956",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_200_0/1956_200_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "454755330e0cfd9b5d4523d3cd6c1d035be3ecc310776db3095ab52444607746",
+      "sha256": "a85813942198d74730bdf1f6d734a60864c8e9a295ddb8a35c978a3bfef57277",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012563",
+  "short_title": "Ermächtigung zur Veräußerung von unbeweglichem Bundesvermögen",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40261286",
+    "valid_from": "2024-04-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012563&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:38:01.722842+00:00",
+    "response_sha256": "9ca2cbe6a3216f909c5d0c017de9884938936151737e15219d19ae74cb1a39f3",
+    "snapshot_sha256": "cdb5b8a58a8687b1dcc0ee2ba7df85d3cd175f571fda7caf693733a8174619c5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9bee597f8216d815fa070e209e943ebdd962920418e30337e17ce8a5958ac1d3",
+      "sha256": "261de1552f87567df4817e4bff90d28d2e953f0115b16524783f4a19965aeb2a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz betreffend Ermächtigung zur Veräußerung von unbeweglichem Bundesvermögen StF: BGBl. I Nr. 26/2024 (NR: GP XXVII AB 2495 S. 255.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 26/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/26"
+        },
+        {
+          "text": "AB 2495",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2495"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "978297647197db7ebf0fb46420cfe49d3b1a6efd6a205746ec7ae39d4e687702",
+      "sha256": "9f3ed94111acf29a6f80e3587832f1bd4665896fac987752c58b0abca4abd5ae",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 141/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_141_1/2000_141_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 96/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/96"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Bundesland:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "EZ:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundstücksnummer(n):",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "KG:",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "W",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2700",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": ".992/2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "01305 Meidling",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d6191d9665a274d9095871b3f0a69f53d82d995987f68baec352fa9d1c77c13",
+      "sha256": "1816890bd2c56f867ad778bd4e2d33f5f84a370d19159e5bca66566f4d656fd1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

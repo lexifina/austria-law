@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012044",
+  "short_title": "Bestimmung des Straßenverlaufes der A 3 Südost Autobahn und der B 16 Ödenburger Straße im Bereich der Gemeinde Wulkaprodersdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012310",
+    "valid_from": "1991-12-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012044&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:04:50.146275+00:00",
+    "response_sha256": "019f8a52f7abf8d4e643d5664961bf8dcac0b89291233f3b3dd71f87e3bbbb94",
+    "snapshot_sha256": "dfebb6c0549b90a67fb222b618573a4d7bc23edd3d051bdde388356df3cd7ebc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89f5ae88b405ce949ec0e3765824af5d6edcb709a6975d929626b4778fa78c37",
+      "sha256": "f85ea17d79d58431282350e703c2ef1da3388bbdd3233a210b85c5209355e411",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der A 3 Südost Autobahn und der B 16 Ödenburger Straße im Bereich der Gemeinde Wulkaprodersdorf StF: BGBl. Nr. 673/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 673/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_673_0/1991_673_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 159/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_159_0/1990_159_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cf8c1e5e4f95f7417217e097afa2f4f13d23eba775be0a16140120bf181516f",
+      "sha256": "8e271998bf8af67c239658d4e71b954fd73352622717ad56f70705fb2c2d4db2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

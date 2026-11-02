@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über studienförderungsrechtliche Sondervorschriften aufgrund von COVID-19 (COVID-19-Studienförderungsverordnung – C-StudFV) StF: [BGBl. II Nr. 173/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/173>)
+
+Auf Grund des § 4 des Bundesgesetzes über hochschulrechtliche und studienförderungsrechtliche Sondervorschriften an Universitäten, Pädagogischen Hochschulen, Einrichtungen zur Durchführung von Fachhochschul-Studiengängen und Fachhochschulen aufgrund von COVID-19 (COVID-19-Hochschulgesetz – C-HG), [BGBl. I Nr. 23/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/23>), wird verordnet:

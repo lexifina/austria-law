@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Bildung, Wissenschaft und Forschung über die Aufhebung von Bestimmungen im Curriculum für das Doktoratsstudium der Rechtswissenschaften und das PhD-Studium Interdisciplinary Legal Studies der Universität Wien, im Curriculum für das Masterstudium Betriebswirtschaft der Universität Wien und in der Verordnung des Rektorats der Universität Wien zum Nachweis über Englischkenntnisse im Rahmen der Zulassung zu Studien durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 363/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/363>)
+
+Gemäß Art.139 Abs. 5 zweiter Satz B-VG iVm § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

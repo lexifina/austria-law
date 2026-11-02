@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 13. Oktober 1987 betreffend den Geltungsbereich des Allgemeinen Zoll- und Handelsabkommens (GATT) StF: [BGBl. Nr. 495/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_495_0/1987_495_0.pdf>)

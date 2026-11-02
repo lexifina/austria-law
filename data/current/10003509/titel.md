@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Wappen, die Flagge und andere Staatsembleme des Heiligen Stuhles und des Staates Vatikanstaat StF: [BGBl. II Nr. 414/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_414_2/1997_414_2.pdf>)

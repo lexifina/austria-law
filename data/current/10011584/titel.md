@@ -1,0 +1,3 @@
+Verordnung des Bundeskanzlers vom 17. Mai 1984 über die Kundmachung der Regelung Nr. 43 gemäß dem Übereinkommen über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen und über die gegenseitige Anerkennung der Genehmigung StF: [BGBl. Nr. 200/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_200_0/1984_200_0.pdf>)
+
+Auf Grund des § 2 Abs. 4 des Bundesgesetzes über das Bundesgesetzblatt 1972, BGBl. Nr. 293, in der Fassung des Bundesgesetzes [BGBl. Nr. 603/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_603_0/1981_603_0.pdf>) wird verordnet:

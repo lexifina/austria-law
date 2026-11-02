@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 7. April 1970, betreffend ein Zeichen des Bureau International des Expositions StF: [BGBl. Nr. 143/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_143_0/1970_143_0.pdf>)

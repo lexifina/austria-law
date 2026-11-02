@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Flagge der Internationalen Zivilluftfahrtorganisation StF: [BGBl. Nr. 732/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_732_0/1993_732_0.pdf>)

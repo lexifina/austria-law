@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001489",
+  "short_title": "Niederlassungsverhältnisse der beiderseitigen Staatsbürger",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Schweiz",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001505",
+    "valid_from": "1997-10-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001489&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:47:27.276799+00:00",
+    "response_sha256": "a1eed5fe49be9e6b6cc498d389f2fade85eab20eeb05be310c490be16c065fd8",
+    "snapshot_sha256": "dd91e5807f347731b5e8d2006cd5bf451c43d5d15603ef574e1209593e1a7da4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2141415eef72d1439822b4ef592535410fd93a9294d835473327841b42e89d1a",
+      "sha256": "1dc23b2814a1d957b8d7e1eacc2b34abf001ac962e4d09efc98253754192e7c6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Abkommen zwischen der Österreichischen Bundesregierung und dem Schweizerischen Bundesrat betreffend zusätzliche Vereinbarungen über die Niederlassungsverhältnisse der beiderseitigen Staatsbürger StF: BGBl. III Nr. 180/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 180/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_180_3/1997_180_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cbcbe4c8cc64870398a800cc6a8d7f13e10d7d443e98c9e55653d66773d2ecb2",
+      "sha256": "7822eff281fa3e284eedd2bdb54aac065a9318e5fecdbc48cf0e4f39c3af754d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 204/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_204_0/1951_204_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

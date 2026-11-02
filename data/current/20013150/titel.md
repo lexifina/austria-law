@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wohnen, Kunst, Kultur, Medien und Sport betreffend die Festsetzung von Luftschnittstellen für Funkanlagen (Funkschnittstellen-Beschreibungsverordnung 2026 – FSBV 2026) StF: [BGBl. II Nr. 92/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/92>)
+
+Auf Grund des § 3 Abs. 4 des Funkanlagen-Marktüberwachungs-Gesetzes – FMaG 2016, [BGBl. I Nr. 57/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/57>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 54/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/54>) und die Bundesministeriengesetz-Novelle 2025, [BGBl. I Nr. 10/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/10>), wird verordnet:

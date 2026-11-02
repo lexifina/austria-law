@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10008165",
+  "short_title": "Pensionsversicherung – Aufbewahrung der Versicherungsunterlagen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008315",
+    "valid_from": "1957-06-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008165&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:15:37.050982+00:00",
+    "response_sha256": "b4401895891fe7087b4f018cf4fc04139d1e6746c2d5d8e94bbc1b121d2230e7",
+    "snapshot_sha256": "3fa9150eb7205c1c9cc01c11eb2d6738616d9ba3d8e8bab39c78130c0b52a04e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6cbe694238b9d0ccf98abc2bd3aa26a5979308a8831c7e833847897d84ba7eb",
+      "sha256": "dd8e0ae0340ae36347e7eab8549af994a887f766de679cbe7f8f4b80e20706e9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für soziale Verwaltung vom 25. Mai 1957, womit die Frist für die Aufbewahrung der Aufzeichnungen über die Versicherungsunterlagen für die Pensionsversicherung bestimmt wird. StF: BGBl. Nr. 117/1957"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 117/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_117_0/1957_117_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10d718b8059b334e723711a0947795b17b8bec6df825085cc9de3b22e4284202",
+      "sha256": "58902c0a92f22988ebe6757d73ee52a500f3a4864d797ed2b1bb1c44cf991171",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89961084126de4b6407d3ad6ae27c9764286e78f46e235294a6ec70372b89cfe",
+      "sha256": "1e103940edb988994d33b44f677b7a030d362e0e15203926d74f9ea84bac9c1c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung, wie die Höhe des vom Bund den Ländern und Gemeinden zu ersetzenden „Klinischen Mehraufwandes“ zu ermitteln ist StF: [BGBl. Nr. 290/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_290_0/1995_290_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 9. März 1995, K II-1/94-21, – dem Bundeskanzler zugestellt am 11. April 1995 – zusammengefaßt hat:

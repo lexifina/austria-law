@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Trassenverlaufes des Teilabschnittes St. Andrä-Aich im Zuge der Koralmbahn Graz-Klagenfurt StF: [BGBl. II Nr. 444/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/444>)
+
+Auf Grund des § 3 Abs. 1 des Hochleistungsstreckengesetzes (HLG), [BGBl. Nr. 135/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf>) idgF und nach Durchführung eines Umweltverträglichkeitsprüfungsverfahrens gemäß dem Umweltverträglichkeitsprüfungsgesetz (UVP-G), [BGBl. Nr. 697/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf>) idgF wird verordnet:

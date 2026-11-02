@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Gleichhaltung von Nebenleistungen der Vertragsbediensteten im Pädagogischen Dienst an land- und forstwirtschaftlichen Lehranstalten des Bundes mit der Unterrichtserteilung (LFPD-NebLV) StF: [BGBl. II Nr. 124/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/124>)
+
+Auf Grund des § 40a Abs. 15 des Vertragsbedienstetengesetzes 1948 – VBG, [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 155/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/155>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

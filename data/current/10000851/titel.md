@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 11. März 1986 betreffend den Geltungsbereich des Übereinkommens über die Privilegien und Immunitäten der Donaukommission StF: [BGBl. Nr. 158/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_158_0/1986_158_0.pdf>)

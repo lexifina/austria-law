@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 2. Mai 1973 betreffend die Flagge des Weltpostvereins StF: [BGBl. Nr. 244/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_244_0/1973_244_0.pdf>)

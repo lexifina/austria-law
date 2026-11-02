@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich der Akte zur Revision von Artikel 63 des Übereinkommens über die Erteilung Europäischer Patente (Europäisches Patentübereinkommen) vom 5. Oktober 1973 StF: [BGBl. III Nr. 56/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_56_3/1997_56_3.pdf>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 7. September 1970 betreffend den Geltungsbereich der Satzung der Weltgesundheitsorganisation vom 22. Juli 1946 StF: [BGBl. Nr. 298/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_298_0/1970_298_0.pdf>)

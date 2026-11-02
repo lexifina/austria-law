@@ -1,0 +1,3 @@
+Bundesgesetz über Einsatzzulagen für Bedienstete des Bundesministeriums für Landesverteidigung und Sport – Einsatzzulagengesetz (EZG) StF: [BGBl. Nr. 423/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_423_0/1992_423_0.pdf>) (NR: GP XVIII [RV 539](<https://www.parlament.gv.at/gegenstand/XVIII/I/539>) [AB 569](<https://www.parlament.gv.at/gegenstand/XVIII/I/569>) [S. 74.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/74>) BR: [4290](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4290>) [AB 4299](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4299>) [S. 556.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/556>))
+
+Der Nationalrat hat beschlossen:

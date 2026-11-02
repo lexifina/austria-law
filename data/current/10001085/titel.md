@@ -1,0 +1,3 @@
+Bundesgesetz vom 9. November 1989 über den Verlauf und Berichtigungen der Staatsgrenze zwischen der Republik Österreich und der Ungarischen Volksrepublik StF: [BGBl. Nr. 657/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_657_0/1990_657_0.pdf>) (NR: GP XVII [RV 961](<https://www.parlament.gv.at/gegenstand/XVII/I/961>) [AB 1023](<https://www.parlament.gv.at/gegenstand/XVII/I/1023>) [S. 117.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/117>) BR: [AB 3748](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3748>) [S. 521.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/521>))
+
+Der Nationalrat hat beschlossen:

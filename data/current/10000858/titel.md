@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 22. April 1986 betreffend den Geltungsbereich des Zusatzprotokolls zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte StF: [BGBl. Nr. 246/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_246_0/1986_246_0.pdf>)

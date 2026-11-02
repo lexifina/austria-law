@@ -1,0 +1,1 @@
+Erlöschen des Abkommens über den Austausch von Gastarbeitnehmern zwischen der Republik Österreich und der Republik Italien StF: [BGBl. III Nr. 200/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_200_3/1997_200_3.pdf>)

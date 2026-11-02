@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der ein Heimarbeitstarif für die Herstellung oder Bearbeitung von Bürsten und Pinseln aller Art (Gewerbe und Industrie) durch Heimarbeiterinnen und Heimarbeiter erlassen wird StF: [BGBl. II Nr. 249/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/249>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz ist gemäß § 34 Abs. 1 Heimarbeitsgesetz 1960, [BGBl. Nr. 105/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_105_0/1961_105_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 110/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/110>) ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmerinnen und Arbeitnehmer Heimarbeitstarife zu erlassen.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz hat mit Beschluss vom 19. August 2026 nach Durchführung einer Senatsverhandlung nachstehenden Heimarbeitstarif erlassen:

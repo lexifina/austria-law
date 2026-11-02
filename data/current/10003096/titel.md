@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem der Isle of Man StF: [BGBl. Nr. 310/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_310_0/1993_310_0.pdf>)

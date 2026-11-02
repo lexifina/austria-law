@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 2. November 1988 über die Aufhebung der Verordnung des Landeshauptmannes von Steiermark vom 26. Mai 1987, LGBl. Nr. 36/1987, betreffend die Verhältnis- und Höchstzahl der für das mit Kraftfahrzeugen betriebene Platzfuhrwerksgewerbe (Taxi-Gewerbe) im Bereich der Stadtgemeinde Graz durch den Verfassungsgerichtshof StF: [BGBl. Nr. 593/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_593_0/1988_593_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

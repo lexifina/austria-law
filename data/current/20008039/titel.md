@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über Lärmimmissionsschutzmaßnahmen im Bereich des Luftverkehrs (Luftverkehr-Lärmimmissionsschutzverordnung – LuLärmIV) StF: [BGBl. II Nr. 364/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/364>)
+
+Auf Grund von § 62 Abs. 4 und § 145b des Luftfahrtgesetzes, [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 77/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/77>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

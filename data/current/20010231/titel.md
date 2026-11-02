@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über Mindestanforderungen zum Schutz von Tieren in besonderen Haltungen (Tierschutz-Sonderhaltungsverordnung – TSch-SV) StF: [BGBl. II Nr. 139/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/139>)
+
+Auf Grund der §§ 14, 29 und 31 Abs. 2 und 3 des Bundesgesetzes über den Schutz der Tiere (Tierschutzgesetz – TSchG), [BGBl. I Nr. 118/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/118>), zuletzt geändert durch [BGBl. I Nr. 61/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/61>), wird im Einvernehmen mit der Bundesministerin für Digitalisierung und Wirtschaftsstandort verordnet:

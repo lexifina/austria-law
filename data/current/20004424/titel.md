@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2004 StF: [BGBl. I Nr. 147/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/147>) (NR: GP XXII [AB 1219](<https://www.parlament.gv.at/gegenstand/XXII/I/1219>) [S. 132.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/132>))

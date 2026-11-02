@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010674",
+  "short_title": "Verfügbarkeit des Teilnehmerverzeichnisses",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40215221",
+    "valid_from": "2019-05-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010674&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:00:46.912996+00:00",
+    "response_sha256": "4c641390465ef99df440a2c3887860f15f103271fa2b164952dc8c3bef3d881d",
+    "snapshot_sha256": "fc3eaf6e99033fe9a40cb262f4a60d51c26cacad8dce78ccae3b49fa7becd620",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00e78ba8897af454975ac21b16a68d9ac6b4018c64f0a52a09bdd5034cc1ce53",
+      "sha256": "360736a9114e4660f790103bb603171a828f843f3fe55be5a5c81977e3b78342",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Verfügbarkeit des Teilnehmerverzeichnisses StF: BGBl. II Nr. 140/2019"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 140/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/140"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da7d8d1a2f0e3788049c9a160d8d6523f51c20e6364bbdda44c63ffd1ddaaa6a",
+      "sha256": "32f114a48b6d2c1be8c4284ed49f3fe05cf5821f054bab5be7484b4ec959e363",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 200/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_200_0/1982_200_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

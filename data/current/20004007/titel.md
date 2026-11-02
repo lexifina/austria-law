@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 15. Dezember 1967 betreffend den Geltungsbereich des Abkommens über die Internationale Finanz-Corporation StF: [BGBl. Nr. 31/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_31_0/1968_31_0.pdf>)

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005483",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2005",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006044",
+    "valid_from": "2007-10-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005483&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:30:56.827940+00:00",
+    "response_sha256": "d86bf93a2125f9b5e903a59c22b837fb031a375a63319aa5af45fda84c8365f7",
+    "snapshot_sha256": "03e4d8117c45d72283f2d136ce437f427d178da382d410a8383c89f71b7c8612",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75714dc8405ccc9c63d96a2d24c9c1e385b4fc3b1bc408cc5a59c5cb79bb8472",
+      "sha256": "8f20a77b3ab6213c8f214979d7980452126fa2ef6a471ec0c90d97379af98bbe",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2005 StF: BGBl. I Nr. 69/2007 (NR: GP XXIII AB 149 S. 31.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 69/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/69"
+        },
+        {
+          "text": "AB 149",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/149"
+        },
+        {
+          "text": "S. 31.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/31"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ee0b5a7a73ff12cb25df0e15a19bdc213ee4f554122b7eeb49de704e721dc925",
+      "sha256": "ea5b4018eb89e92a6dfbbf90e8053b2fcd17e4d2c747fe5d9b032476448aabfd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

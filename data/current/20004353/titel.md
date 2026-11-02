@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und die Embleme des internationalen Instituts für die Vereinheitlichung des Privatrechts (UNIDROIT) StF: [BGBl. II Nr. 339/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/339>)

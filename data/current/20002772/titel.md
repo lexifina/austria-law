@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der North Atlantic Salmon Conservation Organization (NASCO) StF: [BGBl. II Nr. 303/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_303_2/2003_303_2.pdf>)

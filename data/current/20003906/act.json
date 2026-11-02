@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20003906",
+  "short_title": "Übertragung von Bibliotheksaufgaben",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004246",
+    "valid_from": "2005-02-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003906&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:06:26.724727+00:00",
+    "response_sha256": "a30ef83e26fb1a3a94906575011c807c4067f26ffa060324ee687260d78c796c",
+    "snapshot_sha256": "5feb2a30679f3f044935364c0f077695346704fa88cd4c4214a54a949715395b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb32968f273eb2a30a27dfaabeb6554d08e34f5de07b174fdf0e46e1cafab320",
+      "sha256": "1588e910aca33e5f6b1f7e316b32352de05715e0860913658e6f0db3e133d858",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Inneres über die Übertragung von Bibliotheksaufgaben StF: BGBl. II Nr. 27/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 27/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/27"
+        },
+        {
+          "text": "BGBl. I Nr. 118/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/118"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c7aaef87ffb48d62e908a73b17525e0ba7896d8b5775c0018ea0db12ea8ab30",
+      "sha256": "72cc1926b93cbbd1062775b24ed1b13019d28ce1dd642bbae7e12873710ef75e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f108425a0a901304b352a2c3d3d0648e148ca927e6b2495c7a3e8a8e138fc3c",
+      "sha256": "62e421fca779951071fa7c9c5c2d6de05a8bc91f7826b5e4b33d63d37ba2ac65",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

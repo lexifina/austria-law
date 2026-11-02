@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002691",
+  "short_title": "Auslieferungsübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002714",
+    "valid_from": "1985-07-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002691&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:08:10.674955+00:00",
+    "response_sha256": "bbcc14f09f357ff42452f064ff96ca665bca9d9139abfc39123c4ebfb3584030",
+    "snapshot_sha256": "7dca18088ae39ba291d1c011e475acdc46d54f66059468ce2c03868070205eaa",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1724cd4236729dd70b79ecce4b9faa4f8994b937fd444a3db66b7d8c7dec849",
+      "sha256": "0c069925a9e51d0d3a68b274e5052e84f00c9a6245fbb2f4cce6eb7c9f9e67dc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Teilweise Zurücknahme des österreichischen Vorbehaltes zu Artikel 21 Absatz 5 des Europäischen Auslieferungsübereinkommens StF: BGBl. Nr. 309/1985"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 309/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_309_0/1985_309_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "158cd3e781f57768d7d0c0b9e6db5c53842ca43dc893f1a5e269e3dd32fc8708",
+      "sha256": "ac185e81ed69784c7a6bebb4866fc6a6636886350e331c460486da0f67b5454e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 320/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_320_0/1969_320_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Bundesgesetz vom 26. Juni 1974 über die Fortzahlung des Entgelts bei Arbeitsverhinderung durch Krankheit (Unglücksfall), Arbeitsunfall oder Berufskrankheit (Entgeltfortzahlungsgesetz – EFZG) StF: [BGBl. Nr. 399/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_399_0/1974_399_0.pdf>) (NR: GP XIII [RV 1105](<https://www.parlament.gv.at/gegenstand/XIII/I/1105>) [AB 1188](<https://www.parlament.gv.at/gegenstand/XIII/I/1188>) [S. 109.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/109>) BR: [S. 333.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/333>))
+
+Der Nationalrat hat beschlossen:

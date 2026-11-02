@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Unterricht vom 27. Juli 1966 zur Durchführung des § 57 des Gehaltsgesetzes 1956 (Schulleiter-Zulagenverordnung 1966) StF: [BGBl. Nr. 192/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_192_0/1966_192_0.pdf>)

@@ -1,0 +1,95 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000095",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000095",
+    "valid_from": "1927-12-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Überholt durch die B-VG Novelle 1974, BGBl. Nr. 444/1974. Seitdem besteht eine Zuständigkeit der Länder nach Art. 15 Abs. 10 B-VG (vgl. z.B. das Kärtner Landesgesetz über den Landessanitätsrat, LGBl. Nr. 36/1985)."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000095&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:22:39.514857+00:00",
+    "response_sha256": "b9ce5f00e3d5134649e8ca0e6c4cc517383c6e600c80375d9f2e517282e63de5",
+    "snapshot_sha256": "2770d67622afd2cf7547617af7b9d188319fd670cd58a6694a1ae4b9c0406b85",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08a24bea6d3f51c826bf32520da1101046887470492a0a0bfd026c997ad172ec",
+      "sha256": "9b78f8b9b5aba215d6e8ca03bcef4bdc1fa35ed0e71074cb6b86c2e2cb13dc58",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Überholt durch die B-VG Novelle 1974, BGBl. Nr. 444/1974. Seitdem besteht eine Zuständigkeit der Länder nach Art. 15 Abs. 10 B-VG (vgl. z.B. das Kärtner Landesgesetz über den Landessanitätsrat, LGBl. Nr. 36/1985)."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 26. November 1927, betreffend die Feststellung des Verfassungsgerichtshofes in der Frage der Zuständigkeit zur Bestellung der Mitglieder des Landessanitätsrates. StF: BGBl. Nr. 346/1927"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 444/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_444_0/1974_444_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 346/1927",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=346/1927&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa189cd43feae989b8c11acb2448e6ecb7392da68e04e2624b71b0a43d4249f2",
+      "sha256": "da6666cf7e7064b29209adf59e1c1cd505e7c29225c1a96271c8bdb0bac20747",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12002027/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

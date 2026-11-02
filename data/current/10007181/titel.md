@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Ausstattung gewerblicher Betriebsanlagen mit Gaspendelleitungen für ortsfeste Kraftstoffbehälter StF: [BGBl. Nr. 558/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_558_0/1991_558_0.pdf>)
+
+Auf Grund des § 82 Abs. 1 der Gewerbeordnung 1973, [BGBl. Nr. 50/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_50_0/1974_50_0.pdf>), in der Fassung der Gewerberechtsnovelle 1988, BGBl. Nr. 399, wird im Einvernehmen mit dem Bundesminister für Arbeit und Soziales, dem Bundesminister für Gesundheit, Sport und Konsumentenschutz, dem Bundesminister für Umwelt, Jugend und Familie und dem Bundesminister für Land- und Forstwirtschaft verordnet:

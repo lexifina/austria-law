@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 14. August 1986 über den Ausspruch des Verfassungsgerichtshofs, daß § 15 lit. c sowie die Worte "Einhebung der Mitgliedsbeiträge (Umlagenordnung)," im § 17 Abs. 1 lit. b des Wirtschaftstreuhänder-Kammergesetzes in der Fassung vor der Novelle [BGBl. Nr. 301/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_301_0/1984_301_0.pdf>) verfassungswidrig waren StF: [BGBl. Nr. 450/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_450_0/1986_450_0.pdf>) idF [BGBl. Nr. 612/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_612_0/1986_612_0.pdf>) (DFB)
+
+Gemäß Art. 140 Abs. 5 B-VG wird kundgemacht:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Verwaltung vom 27. Oktober 1969, mit der Richtlinien über die Führung von Lehrkursen zur Fortbildung und Sonderausbildung im Krankenpflegefachdienst und in den medizinisch-technischen Diensten erlassen werden StF: [BGBl. Nr. 376/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_376_0/1969_376_0.pdf>)
+
+Auf Grund des Bundesgesetzes betreffend die Regelung des Krankenpflegefachdienstes, der medizinisch-technischen Dienste und der Sanitätshilfsdienste, [BGBl. Nr. 102/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_102_0/1961_102_0.pdf>), in der Fassung der Bundesgesetze [BGBl. Nr. 257/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_257_0/1967_257_0.pdf>) und Nr. 95/1969 wird verordnet:

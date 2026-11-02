@@ -1,0 +1,3 @@
+Stiftungseingangssteuergesetz (StiftEG) StF: [BGBl. I Nr. 85/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/85>) (NR: GP XXIII [RV 549](<https://www.parlament.gv.at/gegenstand/XXIII/I/549>) und [Zu 549](<https://www.parlament.gv.at/gegenstand/XXIII/I/549>) [AB 612](<https://www.parlament.gv.at/gegenstand/XXIII/I/612>) [S. 63.](<https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/63>) BR: [7951](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7951>) [AB 7970](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7970>) [S. 757.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/757>))
+
+Der Nationalrat hat beschlossen:

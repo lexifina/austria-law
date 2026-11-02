@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 3. Juli 1973 betreffend die Staatsflagge und das Staatswappen der Republik Kuba StF: [BGBl. Nr. 377/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_377_0/1973_377_0.pdf>)

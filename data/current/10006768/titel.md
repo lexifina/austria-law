@@ -1,0 +1,3 @@
+Bundesgesetz vom 7. März 1984 über die Betriebszeiten gewerblicher Betriebe an Sonntagen und Feiertagen (Sonn- und Feiertags-Betriebszeitengesetz – BZG) StF: [BGBl. Nr. 129/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_129_0/1984_129_0.pdf>) (NR: GP XVI [RV 198](<https://www.parlament.gv.at/gegenstand/XVI/I/198>) [AB 231](<https://www.parlament.gv.at/gegenstand/XVI/I/231>) [S. 37.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/37>) BR: [AB 2817](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2817>) [S. 444.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/444>))
+
+Der Nationalrat hat beschlossen:

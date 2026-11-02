@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über die Fahrprüfung (Fahrprüfungsverordnung – FSG-PV) StF: [BGBl. II Nr. 321/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_321_2/1997_321_2.pdf>) \[CELEX-Nr.: [391L0439](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0439:DE:HTML>), [396L0047](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0047:DE:HTML>), [397L0026](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0026:DE:HTML>)\]
+
+Auf Grund der §§ 10 bis 12 und 34 Abs. 4 des Führerscheingesetzes, [BGBl. I Nr. 120/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_120_1/1997_120_1.pdf>), wird verordnet:

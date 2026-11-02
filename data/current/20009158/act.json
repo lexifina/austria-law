@@ -1,0 +1,446 @@
+{
+  "sample_only": false,
+  "included_provisions": 16,
+  "source_provision_count": 16,
+  "schema_version": 1,
+  "gesetzesnummer": "20009158",
+  "short_title": "Fernabsatz-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40268127",
+    "valid_from": "2025-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009158&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:27:30.385123+00:00",
+    "response_sha256": "9777a617b31bb81be109947f9a1564665cd7b493e3cfee403f2366822aec15a5",
+    "snapshot_sha256": "71f5f35b493746413a2de556b0692a25a684608e5fcb9d3e1d150054564cc67b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b59ba791fbb94b263f44b9d23d73b35ce51edf480e47f7f0c5b64ada916bc88c",
+      "sha256": "62f67e4daa12d11ffc52ed573674beb00c436ae72fcfbea72166e821ceb07778",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit über die Abgabe von Arzneispezialitäten durch Fernabsatz (Fernabsatz-Verordnung) StF: BGBl. II Nr. 105/2015"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 227/2023 BGBl. II Nr. 10/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 105/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/105"
+        },
+        {
+          "text": "BGBl. II Nr. 227/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/227"
+        },
+        {
+          "text": "BGBl. II Nr. 10/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/10"
+        },
+        {
+          "text": "BGBl. Nr. 185/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 162/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/162"
+        },
+        {
+          "text": "BGBl. I Nr. 63/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_63_1/2002_63_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 189/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/189"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "664b31732806d1cd6662b1c354e7895899d7adf9ee670225c1fda3953035bfa5",
+      "sha256": "4ef6136bd91965b825c0d3b53bc034bc5592d315efdb88651b5562d154f4ec36",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 65/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/65"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9684b6623b70fbe77593a28f0d92c571d830b18503125d6ab23365977b41248",
+      "sha256": "4d06db981ca6de3393dbab5d05a1dd3304dffa5261363adadd9c61522bea1b34",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Allgemeine Anforderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4b9de55c3ac9297f850ce5ba102020d588be8ea5b6f44fa1f2ba03aa2bd1aa2",
+      "sha256": "c6d1ead66c1a9da049a5c344f88f9fc372f008f7285c3bde5db426bbdc8d1a12",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Pharmazeutische Qualitätssicherung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ada99c49dcfbee6f66d7815b511ed179fdf9e407673fed490aba8cd9fa08b267",
+      "sha256": "e086f82a6261a7aaf96992608c8282734e19e5e857ad7c4ff940715c1b2d2d84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Bestellung, pharmazeutische Beratung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "844a7a5d12b0a189bd868e4a89042f7fd9403559f7fa1416fc4f196be8123c5b",
+      "sha256": "408f7e60a55e8006e9870885cf332e42a7d04516b67deedf31d81196eb81005f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 140/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_140_0/1979_140_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Qualitätskontrolle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93a6b0da5d651e7c84d5df3f3a9a6573d2f6834420ee66fa7b5b5e33f23af982",
+      "sha256": "24803fc5013f81b211a387581081534efb7147f11abdf3cf41dd8b6ed23492db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Transport und Lieferung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72d3ce73d4a2b3cbf5f1d137437ab059c1394864689955b8eb39dff8ad863d14",
+      "sha256": "7a31643486fbf61575e1cd159f102833a2624fc9017bdfe93960b10d442562d3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§ 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6774f6d4c647c5ad759b0facd26b27ee588240ef4474d0db970e39086071030e",
+      "sha256": "6abd05a0ab1a5714b9073ccb35c84d24e1c96d446ac71e735f3e028af24bc4a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "§ 9.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b5cca0fe98a88a425f5c8d7a4e95a21badd12308145e9efb099c419f0429de1",
+      "sha256": "28ed3cf09e123979934599959b4fd2921a9a5e5220b04a7deea963b2d009e7d7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 33/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/33"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9a",
+      "source_heading": "Hinterlegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "723b967a73a139c20215b7a32aa42fa173dcb1b306fae2f6f4046c615df20cb9",
+      "sha256": "5dec257fa73263af1c6ea20409435dd126f30ce24ab022637daad9181207767a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Dokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c00cac6653cf79141fc7f9af7e98995f56e5a109ce8f5030db2728e654b23866",
+      "sha256": "275aaf97d65970b47941a8fbecc2b0b812e3679d26c6a2ec78940e572d7c7a33",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 190/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_190_1/1999_190_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Verschwiegenheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f55a03ecfd9f5689d6eab4de97c8106f6400ec40c6c20bdded69702608708f32",
+      "sha256": "1821e982654b9a39ee11c052677d5ebb76eafd9cde72e900364191af2e90c6a8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Überwachung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b91b2b3a7a713dd6e779d9ab71c6e7cab60922e4122bf0c4a5625a94f6bf4a72",
+      "sha256": "e51adc5e1fc5f40e1f6477c1d312c5d34426797a1764df5ee92fc4668de4b5b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Veröffentlichung und Inkrafttreten gemäß § 94i Abs. 3 Arzneimittelgesetz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5ad0a4c6561a63da24bfb20a7162c1245a6daa5d2e29257226e4404941ba01db",
+      "sha256": "066be273fd961f4c65716441610b57ffc5d6cd3c23e1ee8d5e28089886fa0414",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 185/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 48/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/48"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eba797bfb7b945021fd790e8fb55ac5694fa32b39266ff84c280d0546c061b31",
+      "sha256": "7b108c3af0d069315af43fe2c19f16f8bd926b0cef529cdf99402eae517d1708",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 227/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/227"
+        },
+        {
+          "text": "BGBl. II Nr. 10/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

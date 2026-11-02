@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und das Emblem der Europäischen Arzneimittel-Agentur StF: [BGBl. II Nr. 18/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/18>)
+
+Auf Grund des § 4 Abs. 1 Z 1 lit.c des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 96/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/96>), wird im Einvernehmen mit der Bundesministerin für europäische und internationale Angelegenheiten kundgemacht, dass der Name und das Emblem der Europäischen Arzneimittel-Agentur, welche im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen, von der Registrierung nach dem Markenschutzgesetz ausgeschlossen sind.

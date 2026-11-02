@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für soziale Sicherheit und Generationen über den Ausspruch des Verfassungsgerichtshofes, dass Punkt 13 Abs. 4 der Krankenordnung der Versicherungsanstalt öffentlich Bediensteter, kundgemacht in der Sozialen Sicherheit 1978, Amtliche Verlautbarungen Nr. 13/1978, in der Fassung der am 15. Jänner 1992 beschlossenen, mit Erlass des Bundesministers für Arbeit, Gesundheit und Soziales vom 29. Mai 1992, Zl. 26.619/1-5/1992 genehmigten 18. Änderung der Krankenordnung, kundgemacht in den Amtlichen Verlautbarungen der Sozialen Sicherheit Nr. 102/1992 vom 15. Oktober 1992, gesetzwidrig war StF: [BGBl. II Nr. 364/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_364_2/2000_364_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

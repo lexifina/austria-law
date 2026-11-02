@@ -1,0 +1,3 @@
+Bundesgesetz über die Beschwerde an den Obersten Gerichtshof wegen Verletzung des Grundrechtes auf persönliche Freiheit (Grundrechtsbeschwerde-Gesetz – GRBG) StF: [BGBl. Nr. 864/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_864_0/1992_864_0.pdf>) (NR: GP XVIII [IA 408/A](<https://www.parlament.gv.at/gegenstand/XVIII/A/408>) [AB 852](<https://www.parlament.gv.at/gegenstand/XVIII/I/852>) [S. 95.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/95>) BR: [AB 4409](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4409>) [S. 563.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/563>))
+
+Der Nationalrat hat beschlossen:

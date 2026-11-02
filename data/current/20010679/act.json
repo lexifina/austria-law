@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010679",
+  "short_title": "Errichtung einer Notarstelle in Wien-Favoriten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40215281",
+    "valid_from": "2019-06-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010679&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:00:55.479159+00:00",
+    "response_sha256": "44e148e54d6b3460b054519a3ef378334dd424760023391c039f77cd411fb46a",
+    "snapshot_sha256": "260bb37dddea8cdd453a91fbc2f65e8405c2b551c6d745327e88692490f8bea1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ed2ce4b3384256bb21ae87e1c19b5b59934a375224b9f409d42a602aa463ccf",
+      "sha256": "11cfe770653f549def5754b856340086f95741ba31a14a12b156a81a5d2a82f2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz über die Errichtung einer Notarstelle in Wien-Favoriten StF: BGBl. II Nr. 161/2019"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 161/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/161"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 71/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/71"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e11d21fdaca21d251a818d4f42c5a89819fe55eeba85bf5a7f9f35195cbec6ea",
+      "sha256": "4fb2db7d456cf7155df4d708f9ada0ab312c22ea6a1b2bd8ef775bc4755e7500",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000027",
+  "short_title": "Verordnung zum Aufhebungs- und Einstellungsgesetz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000054",
+    "valid_from": "1945-09-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000027&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:14:46.680454+00:00",
+    "response_sha256": "2137aa9e3bbd37a5a6d4361fed12df6a600af23a58b6b94fa46664a025745ca0",
+    "snapshot_sha256": "a59d1a1755d86c87517b75eba7c6d3176bedd8f615882c625f483f91cbc07988",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f335ff41c00a4d0de7ac00724387d0cfa36c59402a30dfa31a01a28a6d9e37a0",
+      "sha256": "6200f84d1b52e57fdba008e23a86f3546892084927b5fecd887442cb00ff4d36",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Provisorischen Staatsregierung vom 5. September 1945, betreffend die Ergänzung des Gesetzes vom 3. Juli 1945, St. G. Bl. Nr. 48, über die Aufhebung von Strafurteilen und die Einstellung von Strafverfahren (Verordnung zum Aufhebungs- und Einstellungsgesetz). StF: StGBl. Nr. 155/1945"
+        }
+      ],
+      "links": [
+        {
+          "text": "StGBl. Nr. 155/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_155_0/1945_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e7293d1308e9bf6b91b90563e541eaeeec8e351fc004d08a114fdc4ee47331e",
+      "sha256": "a4e29386c701e6ca7dd3098ffb79a18c05459611e1ebaf6782f656ae4d22564b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

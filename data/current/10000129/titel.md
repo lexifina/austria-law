@@ -1,0 +1,1 @@
+Entschließung des Bundespräsidenten vom 14. Mai 1930, betreffend die Übertragung des Rechtes zur Ernennung von Bundeslehrern. StF: [BGBl. Nr. 168/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=168/1930&amp;SkipToDocumentPage=True>)

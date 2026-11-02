@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003557",
+  "short_title": "Errichtung einer Notarstelle in Wals-Siezenheim",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003586",
+    "valid_from": "1998-02-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003557&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:43.935448+00:00",
+    "response_sha256": "3e3f13a6be58e6899461f7671ea9a75792c4e6294f26bd50eccd09ad4c04017d",
+    "snapshot_sha256": "30445cd07184394d85e6afa9885b5d1ce698e544dba1b01914d963822e8e7ca4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34240f448da2554272386ab4e0beb8102bebf3a22b41016bffcdd4357cf0e7d8",
+      "sha256": "74ceba79bf306e298b02b8b13d75e4a1d42a02984433a0ff4dc576f9cffb5916",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer Notarstelle in Wals-Siezenheim StF: BGBl. II Nr. 56/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 56/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_56_2/1998_56_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c45a471e480104f6ebabdd0bf36f863a84f96fbda5b557770a292661470c18e1",
+      "sha256": "267a21caf45cd9ff3e5c6b89ec935ade3d59dfe8c820390e1a5d493e5f409ae9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

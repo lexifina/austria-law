@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauen, Wissenschaft und Forschung über Leistungs- und Förderungsstipendien für das Studienjahr 2025/2026 (Leistungs- und Förderungsstipendien-Verordnung 2026) StF: [BGBl. II Nr. 206/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/206>)
+
+Auf Grund der §§ 58 Abs. 2 und 64 in Verbindung mit § 76 Abs. 2 des Studienförderungsgesetzes 1992, [BGBl. Nr. 305/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_305_0/1992_305_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 97/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/97>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

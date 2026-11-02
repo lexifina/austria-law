@@ -1,0 +1,3 @@
+Verordnung der Bundesminister für soziale Verwaltung und für Handel, Gewerbe und Industrie vom 21. Juli 1969 über den Schutz der Dienstnehmer und der Nachbarschaft beim Betrieb von Kälteanlagen (Kälteanlagenverordnung) StF: [BGBl. Nr. 305/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_305_0/1969_305_0.pdf>)
+
+Auf Grund der §§ 74a und 74c der Gewerbeordnung und des § 24 des Arbeitsinspektionsgesetzes 1956, BGBl. Nr. 147, wird vom Bundesminister für soziale Verwaltung im Einvernehmen mit dem Bundesminister für Handel, Gewerbe und Industrie und auf Grund des § 34a der Gewerbeordnung vom Bundesminister für Handel, Gewerbe und Industrie verordnet:

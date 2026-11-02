@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004026",
+  "short_title": "Einfuhr von Berufsausrüstung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004062",
+    "valid_from": "1967-09-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004026&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:23:55.800000+00:00",
+    "response_sha256": "5f70642d6694b19e66b7f6a5f806d0e7c73e3559e5cfdd23cae5c2645f95ae42",
+    "snapshot_sha256": "393ba764195aabdd56859fdbee5b6ace233d3d2a2637e61c29ed98292fe4d99c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c44ede1b487de380b98efe5300d6008da91b38b74343e82e8afc0dff695ce2a",
+      "sha256": "ddaae5ff1291aa941f54aa425f35563a244a5a7321fbd52313bc1e2d754ad02a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 1. September 1967, betreffend den derzeitigen Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von Berufsausrüstung StF: BGBl. Nr. 316/1967"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 316/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_316_0/1967_316_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05c0e9159bb1be1696f48412825c955af7358506c2311cc8f70a8d40e05c51df",
+      "sha256": "a14f5de44a1e5a80d2049c25f59d117444061fe0205d1ec8a692c12d85a93eab",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 1/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_1_0/1963_1_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

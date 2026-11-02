@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001403",
+  "short_title": "VfGH-Aufhebung - Frequenznutzungsplan",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001414",
+    "valid_from": "1995-11-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001403&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:46:06.650694+00:00",
+    "response_sha256": "1de9866aa1907d4b64c46cf385f475fed3286eae0189d08e0229e9bb624bb50b",
+    "snapshot_sha256": "d426b355943d867fa245e9b288d0e341ac86dbdf7c4b7cb71995aa26ee753550",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0438b06f3f3a7661fac161edc8d7a0b230df9c37638b63fc36f29f0752c9851c",
+      "sha256": "a37eb491b6304c774938223df63250ab4be0778570d890072319b6b403414c11",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr über die Aufhebung der Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend die Zuordnung von Frequenzen zur Veranstaltung von Rundfunk (Frequenznutzungsplan), BGBl. Nr. 957/1993, durch den Verfassungsgerichtshof StF: BGBl. Nr. 740/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 957/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_957_0/1993_957_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 740/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_740_0/1995_740_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca708b3c991730dfca0f8a9f07fa59ccb98632ea420b050f69734430e7cd4068",
+      "sha256": "cc964acba658fa16b888cb1a24d536dd707a6e0faae7d7f8496c55abfa9e4489",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 957/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_957_0/1993_957_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

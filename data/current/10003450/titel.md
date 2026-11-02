@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem der Eurasischen Patentorganisation StF: [BGBl. II Nr. 325/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_325_2/1997_325_2.pdf>)

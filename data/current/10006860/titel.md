@@ -1,0 +1,1 @@
+Vereinbarung zwischen Österreich und Singapur betreffend den Export bestimmter Kleidung von Singapur nach Österreich StF: [BGBl. Nr. 56/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_56_0/1987_56_0.pdf>)

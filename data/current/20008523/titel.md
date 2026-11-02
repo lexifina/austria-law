@@ -1,0 +1,3 @@
+Geschäftsordnung des Verfassungsgerichtshofes über die elektronische Durchführung von Verfahren (VfGH-elektronischer Verkehr-Geschäftsordnung – VfGH-EV-GO) StF: [BGBl. II Nr. 218/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/218>)
+
+Der Verfassungsgerichtshof hat am 28. Juni 2013 die aus der Anlage ersichtliche „Geschäftsordnung des Verfassungsgerichtshofs über die elektronische Durchführung von Verfahren“ (§ 14 Abs. 1 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 122/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/122>)) beschlossen.

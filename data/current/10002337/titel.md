@@ -1,0 +1,3 @@
+Bundesgesetz vom 19.2.1975 über die Gebühren der Zeugen und Zeuginnen, Sachverständigen, Dolmetscher und Dolmetscherinnen, Geschworenen, Schöffen und Schöffinnen (Gebührenanspruchsgesetz – GebAG) StF: [BGBl. Nr. 136/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_136_0/1975_136_0.pdf>) (NR: GP XIII [RV 1336](<https://www.parlament.gv.at/gegenstand/XIII/I/1336>) [AB 1463](<https://www.parlament.gv.at/gegenstand/XIII/I/1463>) [S. 136.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/136>) BR: [AB 1322](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1322>) [S. 339.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/339>))
+
+Der Nationalrat hat beschlossen:

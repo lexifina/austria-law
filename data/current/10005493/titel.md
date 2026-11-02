@@ -1,0 +1,1 @@
+Notenwechsel vom 18. März 1981 über die Errichtung vorgeschobener österreichischer und deutscher Grenzdienststellen am Grenzübergang Schwarzbach-Autobahn/Walserberg-Autobahn StF: [BGBl. Nr. 205/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_205_0/1981_205_0.pdf>)

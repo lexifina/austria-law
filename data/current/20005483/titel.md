@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2005 StF: [BGBl. I Nr. 69/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/69>) (NR: GP XXIII [AB 149](<https://www.parlament.gv.at/gegenstand/XXIII/I/149>) [S. 31.](<https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/31>))

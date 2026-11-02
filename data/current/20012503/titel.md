@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauen, Familie, Integration und Medien über die Festlegung von Obergrenzen für Honorarsätze für an geförderten Familienberatungsstellen tätige Berater/innen StF: [BGBl. II Nr. 14/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/14>)
+
+Auf Grund des § 4 Abs. 2 des Familienberatungsförderungsgesetzes, [BGBl. Nr. 80/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_80_0/1974_80_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 61/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/61>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

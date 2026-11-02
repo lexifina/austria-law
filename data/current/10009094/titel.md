@@ -1,0 +1,1 @@
+Erlöschen des Abkommens zwischen Österreich und Spanien über die Anwerbung spanischer Arbeitskräfte und deren Beschäftigung in Österreich StF: [BGBl. III Nr. 165/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_165_3/1998_165_3.pdf>)

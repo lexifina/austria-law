@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 30. November 1957, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung auf dem Gebiete des Volksbildungswesens. StF: [BGBl. Nr. 249/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_249_0/1957_249_0.pdf>) idF [BGBl. Nr. 19/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_19_0/1958_19_0.pdf>) (DFB)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 9. Oktober 1957, K II-1/1957-21, zusammengefaßt hat:

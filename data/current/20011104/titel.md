@@ -1,0 +1,1 @@
+Verfügung der Bundesministerin für Landesverteidigung betreffend die Heranziehung von Wehrpflichtigen des Milizstandes zum Einsatzpräsenzdienst StF: [BGBl. II Nr. 131/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/131>)

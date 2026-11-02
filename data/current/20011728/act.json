@@ -1,0 +1,999 @@
+{
+  "sample_only": false,
+  "included_provisions": 42,
+  "source_provision_count": 42,
+  "schema_version": 1,
+  "gesetzesnummer": "20011728",
+  "short_title": "Meldeverordnung ZABIL-DL 1/2022 der Oesterreichischen Nationalbank betreffend die statistische Erfassung des grenzüberschreitenden Dienstleistungsverkehrs",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40239533",
+    "valid_from": "2022-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011728&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:19:51.725722+00:00",
+    "response_sha256": "5a93a2c781013c4f260dd63350c27db15cb14670522694cb147388b38465dabd",
+    "snapshot_sha256": "3b10d5a7069e15d4000e7603b6d931037527dd527a48448c3c2d0fb07d3cbb19",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95166d9cd81be52c53a4b5998c07aa39958918ef8d08617a79a1b5b3cc8af3cc",
+      "sha256": "5bea744c3dab2e0290890cc4ed4375b867eeac8d095f388b1944f5a3f6d1eec9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Meldeverordnung ZABIL-DL 1/2022 der Oesterreichischen Nationalbank betreffend die statistische Erfassung des grenzüberschreitenden Dienstleistungsverkehrs StF: BGBl. II Nr. 510/2021"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 14/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 510/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/510"
+        },
+        {
+          "text": "BGBl. II Nr. 14/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/14"
+        },
+        {
+          "text": "BGBl. I Nr. 123/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_123_1/2003_123_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2c515b6d5eb813a5be20da159c77fa9d93851211800000224f4b92de9354e37",
+      "sha256": "d43500c3c3985e7e2a9c61ebc35ea04a62095391c6a8974352579ac3d4679691",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 123/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_123_1/2003_123_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Meldegegenstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd967ad3618304d33a9b08d354b958d1040a1e83cc1072078e46ac5d97fffb79",
+      "sha256": "492b7ff4625a31c536f11b20d6a3a596578aa79a6a42ac43e87e929dcb24662a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Allgemeine Meldebestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b5d367317d6e2821b3b1f372993ff843a438ed7ef785d93fd7b66c0603c29e28",
+      "sha256": "5bb68bf42e0473694e4faca76882d361e39b75bc1444a816b06dbd2e463444f7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 663/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_0/1994_663_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Ausnahmen von der Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cc43b51455c2ce7c684b1a2f0336141e389dcfeb62aaa59e7ee22183204c123",
+      "sha256": "a1ff8bb1e01c8cba7cb76d1389a189b52b70f1d78fc5bf459df32cf674044448",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b3d1938474696b94229b37329d6ae7f6e80b7f39d7a0d00f70ed29290f837c4",
+      "sha256": "02246a5e7731fcbdae0204ac687868de0c86ac8a4701f14d3fe1cd0cf45331df",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Geheimhaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19135f76f78761f8626484ed4bd25e600ba829eff3d663c4ab8d6948300f5fee",
+      "sha256": "55aa12c1df2e1616715b14e87a78516f71a29ae24b79e0a743c7366651d823ac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "2. Hauptstück Erhebungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac352234f57378d237d64db601161c48913464523c6ec5cbf44b59fb88dc994f",
+      "sha256": "e659a26aef547101f3be6fc02304d97084625f0d93e6843bc2dfe62d5bcd073a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "506955737b3f9e973d512a579c04ff8ca097c05b7438791f0b54d63729a86604",
+      "sha256": "af624ef3898598e4add5c71bb209ff826291d8f0a16a4641ebcbacc23a67eff6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Meldegrenze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7b73204fef1b1efe37cc418aeac01d7ce588cae0833a212caf1062cc68632c1",
+      "sha256": "feb0e2966e6964d21a4e5f77e8457654ad9cd8588e878fea747a6bc23d415ee9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Meldeperiode",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb0704bce94954e5e31e4ff2ba1fb48ebb0862372769229af05f9a24aebd96ea",
+      "sha256": "e6533a3e8493adc9831fb41ca68052a5b4045adc037c198a18564100cdd4900b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9dc266f972271db2193328c3deeacd855f7d86fad811bd22d68c4c03c1d5afd9",
+      "sha256": "e967a709f8119a59a1ba568df13a4c7bb4c9d9138cd334ffc1402369949ba31b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "2. Abschnitt Meldung des grenzüberschreitenden Dienstleistungsverkehrs im volkswirtschaftlichen Sektor Unternehmen betreffend die Abschnitte B bis K, M bis O, Q bis T, die Gruppe 64.2 sowie die Abteilung 66 der ÖNACE 2025 – Quartalsweise Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b858b02e7b071243bb4f206a3e5680520bd7a67c0d4e32df153f429b3f37d001",
+      "sha256": "5407f83ae82e6fa10eab53fe6a6201495c78c328507b2978642fa79af2fe28bd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf3540592dfb6a5427fc175593809a81f0e761de55d00a756f33f73fc823c18b",
+      "sha256": "3099c24a793cff0af40c10ae30725bd108954d596cc7f6ff43a8531d09fa46af",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Meldegrenze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0cc60d0480f64106462f2c4426122ccb54305f0e95b4f21632954321cef41a7",
+      "sha256": "09c0c9a143c1a177711dd2162bb3687aa67f4f355e6cd64bf48e8e68b2bbc335",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Meldeperiode",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "987148b4f26c828cbd5474d6a586ae159bb00155890b6da73372730ba2e85797",
+      "sha256": "4693387943730a67decdfe8825cc54295999e6213bc4c6115b3bf369a3abe6ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39c82042cf74a7981daf4df579104e524f58c737f9509d52b4c8fafe109c6c80",
+      "sha256": "9de7cc9427f911fc415e85b26f3015168135f4efb9b6fec25f9ecfa402ed7c59",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "3. Abschnitt Meldung des grenzüberschreitenden Dienstleistungsverkehrs im volkswirtschaftlichen Sektor finanzielle Unternehmen betreffend die Abteilung 64 und die Gruppe 65.3 der ÖNACE 2025 – Quartalsweise Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51b5c3b1856285c53c5ef0511c02578816e0602c70341c458fd0b92d7ad842fe",
+      "sha256": "0ec69903ff86ca5d3ab9299dfa4b509c5f06a314041cf35c25d62e4e7b4d7397",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6fbaf5aefbe7024cecca0ac7be0215d65da6b161d6721e3b1ff40d83017ebbb6",
+      "sha256": "aad696b5e6385eebf49b1f4db2f56f69df302a0557b74f9f27e56c6e00cf5f8f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 281/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_281_0/1990_281_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Meldegrenze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78763697274223888ce1dbb5c5675b421df22b50d50ddae7f2ba602e707aefdd",
+      "sha256": "a043aea4c10cad418cc0daf515020c8ca7dde117970e6216b04bb16646e632fb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 471/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/471"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Meldeperiode und Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df54c22fa515cfd4d9314f6a2b95451d1784a9afe83351b16ac2ff43b7fe01f6",
+      "sha256": "15a7ceb2e77cc2a2cdea3f3946f6167e32e59d8f16a0eac71d2ada8529a867c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "4. Abschnitt Meldungen des grenzüberschreitenden Dienstleistungsverkehrs von Zahlungsdienstleistern, die Issuing, Acquiring bzw. das Auszahlungsgeschäft via Geldausgabegerät gemäß § 1 Abs. 2 Z 2 und Z 5 des Zahlungsdienstegesetzes 2018 bzw. die Ausgabe und Verwaltung unbarer Zahlungsmittel gemäß § 1 Abs. 1 Z 6 BWG betreiben – Quartalsweise Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ffa7c346f0f89494b38e2331cb41453d10ab0e9cbb859d5427889545837aceea",
+      "sha256": "f8122b718cb9c5d18d940ffbecd6315d3f67c071bbfca6cc9ca2b48d636f2efd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8de996f6761c91bd96500a04ef77ddd8d71fc70da1d93dd664dd8464595c73db",
+      "sha256": "f25cccd63dd479bb044800d992225d875a0c48acc578a8215a93304157367b1c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. I Nr. 39/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/39"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Meldeperiode und Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dab1736eb9b7cce16373564f2d981ed2e3bde7d7d15de333c07557c343374055",
+      "sha256": "aad37add6bb6beb60cfd35787e79f5214e7421cb5aaddec8e65d6efee6df4269",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "5. Abschnitt Meldung von grenzüberschreitenden Versicherungsdienstleistungen im volkswirtschaftlichen Sektor Versicherungsgesellschaften betreffend die Gruppen 65.1 und 65.2 der ÖNACE 2025 bzw. Versicherungsunternehmen gemäß dem Versicherungsaufsichtsgesetz 2016 – Quartalsweise Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d86f56276204c85e510a0e4bac8e6ac9f4e6a848a8d07f03a362a128196a354a",
+      "sha256": "2b6155fc6a24ba30751bf5c4889f02160423117c392d548715c5363825be8f6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9eceab8ce7338ebecb3ea5d274e04be65adaff32faecbb6d7318dbf59e4a35d",
+      "sha256": "8479aa844fc0eaea14b94fdd1e2f2b137f587c8507488bc51173330ef18dec3e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Meldeperiode und Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cf1b9c935a8da66170aa2db25768aec519d7be3c434566daf370bdbeb2a62ed",
+      "sha256": "6540c084ebfa8af79b3db0ddb3013895c66b07021e807050710d0747fe42c92a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "6. Abschnitt Meldung von grenzüberschreitenden Versicherungsdienstleistungen im volkswirtschaftlichen Sektor Versicherungsgesellschaften betreffend die Gruppen 65.1 und 65.2 der ÖNACE 2025 bzw. Versicherungsunternehmen gemäß dem Versicherungsaufsichtsgesetz 2016 – Jährliche Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92a73355321b93e4db9af21fa3d875c167afdc91cf1a709c3166e139be2e2b49",
+      "sha256": "0e9f4fcf73b6748b75bd055dcf9c39f60fe24754740b1880dae891ec405f9907",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56884cdd30d82ad1c1d343a4482942ab574b2cbb97a9d579fe3f36487b7073f2",
+      "sha256": "b2e2b74d1d4cdeca54b5057b96abc679b52414b008145734f63e8c6678126db1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Meldeperiode und Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "499a2a8828b9bdade6d1ed0e39ec76a06d3d02b049bee879af903fcf6ecc29ab",
+      "sha256": "660ba5b3cff687e5dc1059a52e6328ee9900b2b4453d59333bbe91d45c43a7fd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "7. Abschnitt Meldung von grenzüberschreitenden Großschäden im volkswirtschaftlichen Sektor Versicherungsgesellschaften betreffend die Gruppen 65.1 und 65.2 der ÖNACE 2025 bzw. Versicherungsunternehmen gemäß dem Versicherungsaufsichtsgesetz 2016 – Meldung im Anlassfall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "621536f45ddb690c5afd708034404c0552e93bf10441f6b6b3618a9a8d455812",
+      "sha256": "58a312a497faa7f25d13552c2fb76e62328fb4062a0180fef3acd7ee979c6dc5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95c82ec0fbfa4845249d3180ed33a63a91b86a5a2c4f3e9f09c20f98a9f94a3e",
+      "sha256": "7600f77e3038cabdc653d4212f501181b99945f08567cf4c837a8039886013ea",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Meldegrenze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b8f3bf09dfefafa842e36a09b1a518d660f3a56ab9a33d375490fe620347fbc",
+      "sha256": "34e8f94a705240e0cbf0f55ae33a2d518f451cfeb86d6e642ba7526d200d9c9b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Meldeperiode und Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e1847815d5b2e918549301cf186a97f5b3cca105ec88f92429b6f8fe7825852",
+      "sha256": "3c884f206586edb82e5ebc51033d9317c2b7cc73ba5099dd1fccb397ee7cda7e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "8. Abschnitt Meldung von grenzüberschreitenden Dienstleistungen im volkswirtschaftlichen Sektor Versicherungsgesellschaften betreffend die Gruppen 65.1 und 65.2 der ÖNACE 2025 bzw. Versicherungsunternehmen gemäß dem Versicherungsaufsichtsgesetz 2016 – Quartalsweise Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07e5f5a93a03347996515a1267b09783f7ce93e7cfb42481edc8a0a6fd70ff1c",
+      "sha256": "e1437a70d6789012c50071df49151f9bbfa862e4a364804846d5011a66086fd2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ac5cb664f4e9b70d5ce6374574ccd7da9c0f187c6668b8623cf365841fa37dc",
+      "sha256": "98f9f4d4d5cf426bed2b0ccc04503c6a6b436e193d79217aeb969d9302ac695e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Meldegrenze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f8f3629c17e9c81c833299f2e4762acb5b9c7bcaa11d843aefcbba47c7961e8",
+      "sha256": "f2800f8e06f09d62e8d6efacc65567bfbfaea43552e6a2dc0171d01738ea40d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Meldeperiode und Meldungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6633b78befeb5f886f51060d61133dd9c48b5f825cc64a0a9e59220f360382c",
+      "sha256": "390984d482291be7cc5aea85360c076a73f252ae894a9fde1e46537760e68a83",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "3. Hauptstück Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3a46b11a00256c11c3b30af8fdce9ba4da1578b98d101585a48716a0ead81de",
+      "sha256": "b4154b02db66acc797487112e7f32f99b47c93d6855303cb4f23d97281d8fac4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ef730e6489464f84ed43b83096eb86ae63f65347e5f5926e1959275e5abd483",
+      "sha256": "a2c57e22f5063b3be0561e62c03bf03da2d517c9472c6c6e88ed8195e9f38130",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 14/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/14"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb092581357df12f1f0e21b52d16ccdca640162fc96d598ac06297a36dfb17b1",
+      "sha256": "6a40eff4bfa98eaa750c6ce9bfd8ccd9504b11cb34ede1d9f6a97a3969d802e7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage zur Meldeverordnung ZABIL-DL 1/2022 der Oesterreichischen Nationalbank betreffend die statistische Erfassung grenzüberschreitender Dienstleistungen (Einzelpositionen der Leistungen und Übertragungen)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39722a88cd57d42926d899afd82a56623e82b1dd79f2e65f12eb8ab25aeff6e6",
+      "sha256": "085219e2d0ef1cdbaa146659cc4cc8d376d77b09271ec03371083ff7b5d75886",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

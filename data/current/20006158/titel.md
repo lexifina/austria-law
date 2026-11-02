@@ -1,0 +1,5 @@
+Vereinbarung gemäß Art. 15a B-VG über den Ausbau des institutionellen Kinderbetreuungsangebots und über die Einführung der verpflichtenden frühen sprachlichen Förderung in institutionellen Kinderbetreuungseinrichtungen sowie Schaffung eines bundesweiten vorschulischen Bildungsplanes StF: [BGBl. II Nr. 478/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/478>)
+
+Der Bund – vertreten durch die Bundesministerin für Unterricht, Kunst und Kultur, die Bundesministerin für Gesundheit, Familie und Jugend, die Bundesministerin für Frauen, Medien und öffentlicher Dienst sowie den Bundesminister für Wissenschaft und Forschung –, und die Länder Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien, jeweils vertreten durch den Landeshauptmann bzw. die Landeshauptfrau – im Folgenden Vertragspartner genannt – sind übereingekommen, gemäß Art. 15a des Bundes-Verfassungsgesetzes nachstehende Vereinbarung zu schließen:
+
+Aufgrund des Art. 13 Abs. 1 ist die Vereinbarung zwischen dem Bund und allen Bundesländern mit 1. Jänner 2008 in Kraft getreten.

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Abkommens über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 284/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_284_0/1992_284_0.pdf>)

@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung der Islamischen Republik Pakistan betreffend den Commonwealth Kriegsfriedhof in Klagenfurt StF: [BGBl. Nr. 65/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_65_0/1968_65_0.pdf>)

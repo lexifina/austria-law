@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft über die Vermarktung von Olivenöl StF: [BGBl. II Nr. 286/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/286>)
+
+Auf Grund der §§ 4 Abs. 1 Z 1, 5, 14 Abs. 2, 16, 20 Abs. 9 und 21 Abs. 2 des Vermarktungsnormengesetzes – VNG, [BGBl. I Nr. 68/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/68>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird im Einvernehmen mit dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz sowie mit dem Bundesminister für Arbeit und Wirtschaft verordnet:

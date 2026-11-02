@@ -1,0 +1,1 @@
+Notenwechsel vom 31. März 1977 über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Zollhaus Erl StF: [BGBl. Nr. 301/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_301_0/1977_301_0.pdf>)

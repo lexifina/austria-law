@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung im Bereich Knoten St. Pölten – St. Pölten Nord der S33 Kremser Schnellstraße (Section Control-Messstreckenverordnung S33 Knoten St. Pölten – St. Pölten Nord) StF: [BGBl. II Nr. 273/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/273>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_159_0/1969_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 161/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/161>), wird verordnet:

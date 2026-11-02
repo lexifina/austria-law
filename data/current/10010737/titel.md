@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit, Sport und Konsumentenschutz über Gebrauchsgegenstände aus Keramik und Gebrauchsgegenstände mit einem Überzug aus Email (Keramik-Verordnung) StF: [BGBl. Nr. 893/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_893_0/1993_893_0.pdf>) \[CELEX-Nr.: [384L0500](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984L0500:DE:HTML>)\]
+
+Auf Grund des § 29 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 756/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_756_0/1992_756_0.pdf>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Vorsitzenden des Vorstandes der Österreichischen Post Aktiengesellschaft über die Zuordnung der Verwendungen der Beamten, die der Österreichischen Post Aktiengesellschaft oder einem Unternehmen, das durch Maßnahmen der Umgründung im Rahmen des bestehenden Gesellschaftsrechts aus dieser Gesellschaft hervorgegangen ist, zur Dienstleistung zugewiesen sind, zu Verwendungs- und Dienstzulagengruppen (Post-Zuordnungsverordnung 2012– P-ZV 2012) StF: [BGBl. II Nr. 289/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/289>)
+
+Auf Basis des § 229 Abs. 3 Beamten-Dienstrechtgesetz 1979 und des § 17a Abs. 3 Poststrukturgesetz 1996, beide in der jeweils geltenden Fassung, wird verordnet:

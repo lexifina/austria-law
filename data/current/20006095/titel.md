@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugehörigkeit der von Land- und Forstwirten hergestellten Produkte zur land- und forstwirtschaftlichen Urproduktion (Urprodukteverordnung) StF: [BGBl. II Nr. 410/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/410>)
+
+Auf Grund des § 2 Abs. 3a der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 68/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/68>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, der Bundesministerin für Gesundheit, Familie und Jugend und dem Bundesminister für Finanzen verordnet:

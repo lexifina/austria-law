@@ -1,0 +1,3 @@
+Bundesgesetz betreffend die Errichtung eines Fonds zur Abgeltung von Borkenkäferschäden, zur Förderung klimafitter, artenreicher Wälder und zur Stärkung der Verwendung des Rohstoffes Holz (Waldfondsgesetz) StF: [BGBl. I Nr. 91/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/91>) (NR: GP XXVII [RV 282](<https://www.parlament.gv.at/gegenstand/XXVII/I/282>) [AB 340](<https://www.parlament.gv.at/gegenstand/XXVII/I/340>) [S. 43.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/43>) BR: [AB 10396](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10396>) [S. 910.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/910>))
+
+Der Nationalrat hat beschlossen

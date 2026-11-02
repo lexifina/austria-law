@@ -1,0 +1,131 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "20011655",
+  "short_title": "EBITDA-Ermittlungs-VO",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40237934",
+    "valid_from": "2021-09-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011655&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:18:49.032938+00:00",
+    "response_sha256": "c0f8bb3aa9b28347b8016d842a69225f3c1b4801c41c2139217c87e463aa15dc",
+    "snapshot_sha256": "8dc62b68059f56c4c7db1412235082ba107361708077fd2dd821aaa575db0cd3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1bb191de067dec847de81a998ac8c286f196c03ce4631254534a49c91b8ff769",
+      "sha256": "068cd1dfdabd1e0cd4bc36a8d158a198553d7e633e2439feae401f0f67c9cdfb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen zur Ermittlung des steuerlichen EBITDA sowie des Gruppen-EBITDA (EBITDA-Ermittlungs-VO) StF: BGBl. II Nr. 390/2021"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 390/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/390"
+        },
+        {
+          "text": "BGBl. I Nr. 401/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_401_1/1988_401_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 3/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/3"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57927460f1491dbdce6d6bb1b571a95041906595a5639790ea9e0f03a4bd8f37",
+      "sha256": "6741022c9b0a774d4e9a92f88691bc3348dcb9307fa31fcbe5246635497b1019",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4a10df27161442efba1d42d37d723b41819f92067c0a6d69ed120bcbe7ff99e3",
+      "sha256": "e19d1d30b6afb700dbcb2b78e827498c2e22251c23eaf06fb4fb90e3efc4b636",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69b9b796a755df60c1998d4adce2032609b260ed402322420316997510b19424",
+      "sha256": "3c21d93ddea9d8b47797b69d75821e84bf8b0995732f8078f014c050135a43df",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

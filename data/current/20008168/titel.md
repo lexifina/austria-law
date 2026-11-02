@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Finanzen über Vergütungen für Leistungen zwischen Organen des Bundes und über Entgelte für Leistungen von Organen des Bundes gegenüber Dritten (Leistungsabgeltungs-Verordnung 2013 – LA-V 2013) StF: [BGBl. II Nr. 509/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/509>)
+
+Auf Grund der §§ 63 Abs. 2 und 64, jeweils in Verbindung mit § 121 Abs. 13 des Bundeshaushaltsgesetzes 2013 (BHG 2013), [BGBl. I Nr. 139/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 62/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/62>), wird verordnet:

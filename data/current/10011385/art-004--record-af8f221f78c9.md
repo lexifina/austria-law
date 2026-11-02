@@ -1,0 +1,21 @@
+## Artikel IV
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Von Art. I Z 1 (§ 1 d Abs. 1 Z 3.3) und Z 2 (§ 1 d Abs. 1 Z 5) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(2) Von Art. I Z 4 (§ 7 Abs. 2) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(3) Von Art. I Z 9 (§ 54 a Abs. 6) sind Fahrzeuge, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind, ausgenommen. Solche Fahrzeuge dürfen nach dem 31. Dezember 1987 nicht mehr erstmals zum Verkehr zugelassen werden.
+
+(4) Wenn
+
+- 1\. ein Seitenständer, der nicht dem Art. I Z 9 entspricht,
+
+  - a) entfernt wird,
+
+  - b) in einen vorschriftsmäßigen Zustand gebracht wird, oder
+
+- 2\. ein dem Art. I Z 9 entsprechender Seitenständer angebracht wird,
+
+entfällt die Anzeigepflicht nach § 33 Abs. 1 KFG 1967.

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 2. Dezember 1983 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen und das Emblem der Afrikanischen Organisation für geistiges Eigentum StF: [BGBl. Nr. 9/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_9_0/1984_9_0.pdf>)

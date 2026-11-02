@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die Grundversorgung von bestimmten Fremden durch den Bund geregelt wird (Grundversorgungsgesetz – Bund 2005 – GVG-B 2005) StF: [BGBl. Nr. 405/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_405_0/1991_405_0.pdf>) (NR: GP XVIII [RV 158](<https://www.parlament.gv.at/gegenstand/XVIII/I/158>) [AB 215](<https://www.parlament.gv.at/gegenstand/XVIII/I/215>) [S. 36.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/36>) BR: [AB 4102](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4102>) [S. 544.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/544>))
+
+Der Nationalrat hat beschlossen:

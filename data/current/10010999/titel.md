@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über die amtliche Kontrolle der Temperaturen von tiefgefrorenen Lebensmitteln (Temperaturkontrollverordnung) StF: [BGBl. Nr. 581/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_581_0/1996_581_0.pdf>) \[CELEX-Nr.: [392L0001](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0001:DE:HTML>) und [392L0002](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0002:DE:HTML>)\]
+
+Auf Grund der §§ 10 Abs. 1 und 39 Abs. 8 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 1105/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_1105_0/1994_1105_0.pdf>), wird verordnet:

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001633",
+  "short_title": "Gerichtlicher Eid der Mohammedaner",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001655",
+    "valid_from": "1945-07-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001633&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:49:56.005948+00:00",
+    "response_sha256": "9128c6c078bdde1e0dd2235261fa1e6c9cb2d57373f048e18222dcdd9e340665",
+    "snapshot_sha256": "748f628af58764b8315bf254d6a68f0871345fa4098702b1da89454ce27eca25",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33d0442aae8fa62f316f1582ccce4e6aafed11a71fc6aed1986449e4807d58c6",
+      "sha256": "ce3cdd2ed1f8742797300939e73befc8263a0d2f48d245c85164d74715808881",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Hofdecret vom 26sten August 1826, an sämmtliche Appellations-Gerichte, einverständlich mit der Hofcommission in Justiz-Gesetzsachen. StF: JGS Nr. 2217/1826"
+        },
+        {
+          "kind": "Änderung",
+          "text": "dRGBl. I S 984/1940 StGBl. Nr. 47/1945"
+        }
+      ],
+      "links": [
+        {
+          "text": "dRGBl. I S 984/1940",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19400004&seite=00000984"
+        },
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac71fd9a06de903e2c5a5fba5dd173165f9994a60fd4a6759ede235f6c767ec5",
+      "sha256": "03f44d3a0a8663c71242849b6100660a285e9d840cadf1856a8d766b33a9ecc1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Emblem, Name und Abkürzung der Panafrikanischen Universität (PAU) StF: [BGBl. II Nr. 389/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/389>)

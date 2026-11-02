@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000336",
+  "short_title": "Internationale Pflanzenschutzkonvention",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000368",
+    "valid_from": "1954-03-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000336&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:17:38.808260+00:00",
+    "response_sha256": "02f7ef512217a0875e57968f60d014fa2ce18c04b143b6eb7a9f005c846164bb",
+    "snapshot_sha256": "62e107e7e7b9d922b3e5aca6e11833436a7f8b036e91014a7184e33881446370",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0e6b58ddc01d7058aa5bae6defb3b91c154a4f92a52f5ded7922d51cf7b48e0",
+      "sha256": "509a8d9ecc3bc1737b0be75274c00eba6d4167d578028f85ba9922088699b140",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 15. Feber 1954 über den Geltungsbereich der Internationalen Pflanzenschutzkonvention StF: BGBl. Nr. 44/1954"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 44/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_44_0/1954_44_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "48315ca0bffce5ebfccf18d6754ca33fb2381ceddd57275176736f232daf1647",
+      "sha256": "70ac8612c3b5ac02cf9b2a900656c6de8c514e54161178bf1240811cecd6cd2e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 86/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_86_0/1953_86_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

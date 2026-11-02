@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Europäischen Übereinkommens betreffend die an Verfahren vor der Europäischen Kommission und dem Europäischen Gerichtshof für Menschenrechte teilnehmenden Personen StF: [BGBl. Nr. 101/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_101_0/1996_101_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über verkehrspsychologische Nachschulungen (Nachschulungsverordnung FSG-NV) StF: [BGBl. II Nr. 357/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_357_2/2002_357_2.pdf>)
+
+Auf Grund der §§ 4, 24 und 36 des Führerscheingesetzes, [BGBl. I Nr. 120/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_120_1/1997_120_1.pdf>) idF [BGBl. I Nr. 25/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_25_1/2001_25_1.pdf>) sowie des § 8 Abs. 1 und 2 des Bundesministeriengesetzes [BGBl. Nr. 76/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf>) idF [BGBl. I Nr. 87/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_87_1/2002_87_1.pdf>), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001807",
+  "short_title": "Pariser Verbandsübereinkunft (Haager Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001829",
+    "valid_from": "1932-02-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001807&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:01.969455+00:00",
+    "response_sha256": "5a346f19bd39edcecc5d188ebfd8a414217c8932cde5450797d6d9d019eb1a1e",
+    "snapshot_sha256": "5f695180327a309ba9448fd309a73074089294afece7cdfddd1455c0462434c9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06e89c4720358f5b4ed07d5dfd7b5a29daea3b6c5d313781154e15feec4e07d2",
+      "sha256": "e5d6efccb7ec1c4c6ac949ea0ce207be4885ad79f9ec5c161f2e8ed2d9127fe3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit dem Bundesministerium für Handel und Verkehr vom 16. Februar 1932 über den Beitritt der italienischen Kolonien von Lybien und Erythrea und der italienischen Besitzungen der ägäischen Inseln zum Pariser Unionsvertrag zum Schutze des gewerblichen Eigentums und zum Madrider Abkommen, betreffend die internationale Registrierung von Fabriks- oder Handelsmarken, beide in der im Haag am 6. November 1925 revidierten Fassung. StF: BGBl. Nr. 59/1932"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 59/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=59/1932&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18d01ee5ef39f17827ac7be1064f9ef0f4591c91286b2a33c8b6af91743bb65f",
+      "sha256": "f01c6ee097075a2858250a4e4e9301309ddbd5792c3aec0c517a7f58d0e84928",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

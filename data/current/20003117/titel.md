@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen betreffend die Dokumentation von Kostendaten in Krankenanstalten, die über Landesfonds abgerechnet werden (Kostenrechnungsverordnung für landesfondsfinanzierte Krankenanstalten) StF: [BGBl. II Nr. 638/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_638_2/2003_638_2.pdf>)
+
+Auf Grund des § 7 Abs. 4 des Bundesgesetzes über die Dokumentation im Gesundheitswesen, [BGBl. Nr. 745/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_745_0/1996_745_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 146/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_146_1/2003_146_1.pdf>), wird verordnet:

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 23. August 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung von gesetzlichen Vorschriften zur Durchführung der Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949 hinsichtlich des Schutzes des Zeichens und des Namens des Roten Kreuzes. StF: [BGBl. Nr. 231/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_231_0/1963_231_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 18. Juni 1963, K II-5/62-16, – dem Bundeskanzleramt am 12. August 1963 zugestellt – zusammengefaßt hat:

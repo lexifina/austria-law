@@ -1,0 +1,17 @@
+## Anhang – Vorrechte und Immunitäten (Artikel 66)
+
+- 1\) Dieser Anhang findet Anwendung auf die in Artikel 66 des Übereinkommens genannten GREVIO-Mitglieder sowie auf sonstige Mitglieder der Delegationen bei Länderbesuchen. Im Sinne dieses Anhangs umfasst der Begriff „sonstige Mitglieder der Delegationen bei Länderbesuchen“ die in Artikel 68 Abs. 9 des Übereinkommens genannten unabhängigen nationalen Fachleute und auf bestimmte Bereiche spezialisierten Personen sowie Mitarbeiterinnen und Mitarbeiter des Europarats und vom Europarat beschäftigte Dolmetscherinnen und Dolmetscher, welche GREVIO bei den Länderbesuchen begleiten.
+
+- 2\) Die GREVIO-Mitglieder und die sonstigen Mitglieder der Delegationen bei Länderbesuchen genießen während der Wahrnehmung ihrer Aufgaben im Zusammenhang mit der Vorbereitung und der Durchführung von Länderbesuchen sowie deren Nachbereitung und auf Reisen in Zusammenhang mit diesen Aufgaben folgende Vorrechte und Immunitäten:
+
+  - a) Immunität von Festnahme oder Haft und von der Beschlagnahme ihres persönlichen Gepäcks sowie Immunität von jeder Gerichtsbarkeit bezüglich aller von ihnen in ihrer amtlichen Eigenschaft vorgenommenen Handlungen einschließlich ihrer schriftlichen und mündlichen Äußerungen;
+
+  - b) Befreiung von allen Beschränkungen ihrer Bewegungsfreiheit bei der Ausreise aus ihrem und der Einreise in ihren Aufenthaltsstaat und bei der Einreise in den und der Ausreise aus dem Staat, in dem sie ihre Aufgaben wahrnehmen, sowie Befreiung von der Meldepflicht für Ausländerinnen und Ausländer in dem Staat, den sie in Wahrnehmung ihrer Aufgaben besuchen oder durchreisen.
+
+- 3\) Während der in Wahrnehmung ihrer Aufgaben durchgeführten Reisen werden den GREVIO-Mitgliedern und den sonstigen Mitgliedern der Delegationen bei Länderbesuchen hinsichtlich der Zoll- und Devisenvorschriften dieselben Erleichterungen wie Vertretern ausländischer Regierungen in vorübergehendem amtlichem Auftrag gewährt.
+
+- 4\) Die Unterlagen im Zusammenhang mit der von den GREVIO-Mitgliedern und den sonstigen Mitgliedern der Delegationen bei Länderbesuchen vorgenommenen Bewertung der Durchführung des Übereinkommens sind insofern unverletzlich, als sie die Tätigkeit von GREVIO betreffen. Die amtliche Korrespondenz von GREVIO und der amtliche Nachrichtenverkehr von GREVIO-Mitgliedern und sonstigen Mitgliedern der Delegationen bei Länderbesuchen dürfen nicht abgefangen werden und unterliegen nicht der Zensur.
+
+- 5\) Um den GREVIO-Mitgliedern und den sonstigen Mitgliedern der Delegationen bei Länderbesuchen volle Freiheit des Wortes und völlige Unabhängigkeit bei der Wahrnehmung ihrer Aufgaben sicherzustellen, wird ihnen die Immunität von der Gerichtsbarkeit in Bezug auf ihre in Wahrnehmung ihrer Aufgaben vorgenommenen Handlungen einschließlich ihrer mündlichen und schriftlichen Äußerungen gewährt, auch wenn sie nicht mehr mit der Wahrnehmung dieser Aufgaben betraut sind.
+
+- 6\) Die Vorrechte und Immunitäten werden den in Abs. 1 genannten Personen nicht zu ihrem persönlichen Vorteil gewährt, sondern zu dem Zweck, die unabhängige Wahrnehmung ihrer Aufgaben im Interesse von GREVIO sicherzustellen. Die Immunität der in Abs. 1 genannten Personen wird vom Generalsekretär des Europarats in allen Fällen aufgehoben, in denen sie seiner Auffassung nach verhindern würde, dass der Gerechtigkeit Genüge geschieht, und in denen sie ohne Schädigung der Interessen von GREVIO aufgehoben werden kann.

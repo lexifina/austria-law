@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002355",
+  "short_title": "Amtliche Gewährzeichen - Niederlande",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002378",
+    "valid_from": "1976-07-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002355&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:02:56.215818+00:00",
+    "response_sha256": "cfe1e86668a988f282ba3576c7422075223741f2020d64afb27a930802e60eb2",
+    "snapshot_sha256": "f69129baf3321b96f8b506cd4c9d9e019f7930e3dc1b66dc9baada72c317ddc7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5ea5823b27d742211a89fc79541b065df20412a60154fc8825dfe5c3896d137",
+      "sha256": "80fefa06c6d2800fa97cfdd2d7c66ead70ab9710cb8b7f34f988ac158d8ed158",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 18. Juni 1976 betreffend niederländische amtliche Gewährzeichen für Butter und Milchpulver StF: BGBl. Nr. 351/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 351/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_351_0/1976_351_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4282d8a792fc27cc1e6cc48eea8dd0ad5a62581de2161eae4a9a2b5f956dae0",
+      "sha256": "4a055a007aac35d7967e2fe5044c562eb34e54a9e4a9f8fab4c29b46175ef13d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

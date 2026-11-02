@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009456",
+  "short_title": "Rechtsstellung von Gemeinden der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009647",
+    "valid_from": "1978-08-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009456&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:32:25.355956+00:00",
+    "response_sha256": "92caaa3e83f0489826c4485f0ca462acb0d8279e16a04edc7922be630f40f06b",
+    "snapshot_sha256": "8232c6be3adbfa1dc1b37cffa1a63a420c984de81e1ec69b02f2d08cf1cf7cf7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6ebcd5c6af96131e335a4950be4633656d10890b58cd321b39e874282703693",
+      "sha256": "4f5cf9df141d84876855c09beead6a974b6c98d7710b4c71da406f5bec9df02f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und Kunst vom 12. Juni 1978 über die Rechtsstellung von Gemeinden der Evangelischen Kirche StF: BGBl. Nr. 378/1978"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 378/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_378_0/1978_378_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b968c084e45a95cf281b92c6940dd324279921db96c3a2acdc7a7670886261d1",
+      "sha256": "1b5302a13a7e75c1c2c188dd1d8e2539f4b8577e99ef3d5bd9ffe0af7e93c1aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

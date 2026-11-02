@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Informationspflichten für die Lebensversicherung (Lebensversicherung Informationspflichtenverordnung 2018 – LV-InfoV 2018) StF: [BGBl. II Nr. 247/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/247>)
+
+Auf Grund des § 135c Abs. 4 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, [BGBl. I Nr. 34/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 37/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37>), sowie hinsichtlich Artikel 1 auf Grund des § 135d Abs. 4 VAG 2016 wird mit Zustimmung des Bundesministers für Finanzen verordnet:

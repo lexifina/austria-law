@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003713",
+  "short_title": "Errichtung einer zweiten Notarstelle in Mistelbach",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003746",
+    "valid_from": "1999-06-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003713&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:57.095483+00:00",
+    "response_sha256": "4d2e11f99a4bd1a74eec36cc3698cbb184fe12a5bd2f06a04cee789152b2be19",
+    "snapshot_sha256": "5b05b381e9b88b6588138c6c109835ef6e371ac06022605370140e2264a9a205",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "897bbdbc309cabfd8348dde77a3df7ab5ff7cbe33d0ce319e92c08a954623aed",
+      "sha256": "fc1052ef195f07b49377a2d3f9ba0923187dbfe7715a7e9b6d095e74bbdfff5d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Mistelbach StF: BGBl. II Nr. 190/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 190/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_190_2/1999_190_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed8eb726afb023fe01e3de61b7e6b75db8576ab398aefba5156875e1e9a37a4a",
+      "sha256": "45f9f6a9b0e4b107e6ac53dc34bf2fcf8c3542b5629b9284f89d29ecd6f53922",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung vom 10. Dezember 1974, mit der die Wochendienstzeit bestimmter Bedienstetengruppen im Bundesdienst verlängert wird StF: [BGBl. Nr. 799/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_799_0/1974_799_0.pdf>)
+
+Auf Grund des § 28 Abs. 5 der Dienstpragmatik, [RGBl. Nr. 15/1914](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=15/1914&amp;SkipToDocumentPage=True>), in der Fassung der Dienstpragmatik-Novelle 1972, BGBl. Nr. 213, in Verbindung mit § 20 des Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, in der Fassung der 20. Vertragsbedienstetengesetz-Novelle, [BGBl. Nr. 215/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_215_0/1972_215_0.pdf>), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001266",
+  "short_title": "VfGH-Aufhebung Öffentliche Bekanntmachung für den Import von Speck",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001274",
+    "valid_from": "1993-06-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001266&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:44:22.245636+00:00",
+    "response_sha256": "ea55c9a8072e37be741dea4254e9ea63aa6703817648af622235482f4e7eae66",
+    "snapshot_sha256": "b51d212af99cceba555b7cd035bf4f04cb75485de7a2d5b7162d44f74a8009a5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "140c2f48891624189b3fd22f984ce8fa2679d7121ff5bfc417575f0d0f6b3f79",
+      "sha256": "c6184462604fc731ebfa5047400a7dc88d61c5c6420024cf3eeda2a2483474e1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft über die Aufhebung der Z 1.2. und des Punktes 13 der 106. Öffentlichen Bekanntmachung für den Import von Speck der Vieh- und Fleischkommission beim Bundesministerium für Land- und Forstwirtschaft durch den Verfassungsgerichtshof StF: BGBl. Nr. 382/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 382/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_382_0/1993_382_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e647eefeefe0b344dbbab6d8c87ebff1b7ef55b0a8011b23b9e8698348cf123",
+      "sha256": "1d1892de3004f6f005555e5a84037c464d4decf880423a812ceb73670d807a7a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

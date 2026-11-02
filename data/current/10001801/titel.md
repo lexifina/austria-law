@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 22. Juli 1932, betreffend die Ausdehnung des Geltungsbereiches des österreichisch-britischen Rechtshilfeabkommens. StF: [BGBl. Nr. 202/1932](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=202/1932&amp;SkipToDocumentPage=True>)

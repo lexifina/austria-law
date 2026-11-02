@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011727",
+  "short_title": "Straßenverlauf der A 1 West Autobahn – Anschlußstelle Amstetten/Ost",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011992",
+    "valid_from": "1988-11-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011727&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:02:07.122484+00:00",
+    "response_sha256": "b018931ef303c0bd45a24c4bcb5c77ba3f62c617cfa78020e70b271035e27487",
+    "snapshot_sha256": "f22fe9dd26aaed8b4cd3f8108a09520ef714957217f335fce0ace1f677246bff",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af4043afa2326925c9a6ca0edecd5f650e7479e2579ba92fd8a32b8a509d22c5",
+      "sha256": "8c87baa8512c4c41f3b10f53cdba72d050236d53eb4b3d1007b191e021a990b3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 18. Oktober 1988 betreffend die Bestimmung des Straßenverlaufes der A 1 West Autobahn – Anschlußstelle Amstetten/Ost (Vollausbau) im Bereich der Marktgemeinde Blindenmarkt StF: BGBl. Nr. 580/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 580/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_580_0/1988_580_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 63/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_63_0/1983_63_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f7e49ca12a10f193cf37641ceb72d74a30ea29bbfd69f9688d6e06aff50e726f",
+      "sha256": "1383b6e7d18e3546565ea29c2086ead3a48b8ba302b92d9cd699fc7ec7948531",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

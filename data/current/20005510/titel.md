@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2006 StF: [BGBl. I Nr. 74/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/74>) (NR: GP XXIII [AB 248](<https://www.parlament.gv.at/gegenstand/XXIII/I/248>) [S. 35.](<https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/35>))

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Wappen des Schweizer Kantons Jura StF: [BGBl. II Nr. 338/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/338>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 81/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/81>), wird im Einvernehmen mit der Bundesministerin für europäische und internationale Angelegenheiten kundgemacht, dass § 6 Abs. 1 des Markenschutzgesetzes 1970 auf das Wappen des Schweizer Kantons Jura Anwendung findet, welches im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt.

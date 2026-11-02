@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000868",
+  "short_title": "Errichtung einer fünften Notarstelle in Wien-Favoriten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000931",
+    "valid_from": "2000-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000868&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:23:47.149489+00:00",
+    "response_sha256": "dde59e4bbe91de52d19fcb0cb51a940d94cc3b78c2dcdee3274fdaaf8d779f40",
+    "snapshot_sha256": "7e124d9d7c6fcabd45f438a5d17634821861a575755d053175ded60ff38d1dc6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26cae8532dfad76a5d758ce58f1c478fcac7fac5c44d3e44f7812ade82d88f7d",
+      "sha256": "6b8211f994f653dce6a5557dfd264ad97fbc63e5bbb45494709872de9ccef12b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer fünften Notarstelle in Wien StF: BGBl. II Nr. 275/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 275/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_275_2/2000_275_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7af036f04682c9f106efba44db238b849a2f9d6de70401a0a9b194ba9725ce3c",
+      "sha256": "e5716532fd9007f9df91c4a669d30ac8f990e35516095c02c92174b9f7de44d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

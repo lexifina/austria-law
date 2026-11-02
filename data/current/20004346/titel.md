@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung, die Fahne und das Emblem der Vereinigung Südostasiatischer Staaten (ASEAN) StF: [BGBl. II Nr. 332/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/332>)

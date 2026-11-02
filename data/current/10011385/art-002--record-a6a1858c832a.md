@@ -1,0 +1,15 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Diese Verordnung tritt unbeschadet des Abs. 2 mit dem Ablauf des Tages der Kundmachung in Kraft.
+
+(2) In Kraft treten:
+
+- a) Art. I Z 24, 25 und 32 mit 1. Juli 1993
+
+- b) Art. I Z 28, 29, 36, 38, 39 und 40 mit 1. Oktober 1993.
+
+(3) Schulfahrzeuge, die dem Art. I Z 24 nicht entsprechen, dürfen noch bis 30. Juni 1996 verwendet werden. Schulfahrzeuge, die über kein mehrstufiges Gruppengetriebe verfügen, alle anderen Voraussetzungen des Art. I Z 24 aber erfüllen, dürfen noch bis 30. Juni 1998 verwendet werden. Diese Ausnahmen gelten nur für jene Fahrzeuge, die vor dem 1. Juli 1993 als Schulfahrzeuge genehmigt worden sind und nur für die Verwendung bei der Fahrschule, der diese Genehmigung erteilt wurde.
+
+(4) Motorräder, die dem Art. I Z 25 nicht entsprechen, dürfen noch bis 31. Dezember 1993 als Prüfungsfahrzeuge verwendet werden.

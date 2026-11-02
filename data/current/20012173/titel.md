@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung 2023 im Bereich des Schartnerkogeltunnels im Zuge der A 9 Pyhrn Autobahn (Section Control-Messstreckenverordnung A 9 Schartnerkogeltunnel 2023) StF: [BGBl. II Nr. 40/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/40>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 154/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/154>), wird verordnet:

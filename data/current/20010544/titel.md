@@ -1,0 +1,3 @@
+Vierte Verordnung des Bundesministers für Finanzen und der Bundesministerin für Digitalisierung und Wirtschaftsstandort je im Einvernehmen mit dem Bundesminister für Verfassung, Reformen, Deregulierung und Justiz zur Durchführung von Artikel XIII des Einführungsgesetzes zur Zivilprozessordnung (Schiedsgerichtsgebührenverordnung – SchGVO) StF: [BGBl. II Nr. 5/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/5>)
+
+Auf Grund des Artikels XIII des Einführungsgesetzes zur Zivilprozessordnung (EGZPO), zuletzt geändert durch [BGBl. I Nr. 30/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/30>), wird verordnet:

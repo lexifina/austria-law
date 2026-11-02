@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 20. Dezember 1977 betreffend die Bezeichnung, das Siegel und das Emblem der Europäischen Organisation für Kernforschung (CERN) StF: [BGBl. Nr. 64/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_64_0/1978_64_0.pdf>)

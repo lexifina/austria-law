@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung im Lehrberuf Tierpfleger (Tierpfleger-Ausbildungsordnung) StF: [BGBl. II Nr. 64/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_64_2/1997_64_2.pdf>)
+
+Auf Grund der §§ 7, 8, 24 und 27 Abs. 2 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch das Kompetenzbereinigungsgesetz 1992, [BGBl. Nr. 256/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_256_0/1993_256_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Arbeit und Soziales verordnet:

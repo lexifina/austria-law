@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend zwei offizielle Zeichen, welche ein Qualitätskennzeichen für Fischereiprodukte beziehungsweise den nationalen Preis für Qualität des Königreichs Marokko betreffen StF: [BGBl. II Nr. 302/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_302_2/2003_302_2.pdf>)

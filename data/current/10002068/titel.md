@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 26. Mai 1965 betreffend ein kanadisches Hoheitszeichen StF: [BGBl. Nr. 163/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_163_0/1965_163_0.pdf>)

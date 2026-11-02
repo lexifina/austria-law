@@ -1,0 +1,3 @@
+Bundesgesetz vom 21. Jänner 1959 über die Haftung für den Ersatz von Schäden aus Unfällen beim Betrieb von Eisenbahnen und beim Betrieb von Kraftfahrzeugen (Eisenbahn- und Kraftfahrzeughaftpflichtgesetz – EKHG.). StF: [BGBl. Nr. 48/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_48_0/1959_48_0.pdf>) (NR: GP VIII [RV 470](<https://www.parlament.gv.at/gegenstand/VIII/I/470>) [AB 572](<https://www.parlament.gv.at/gegenstand/VIII/I/572>) [S. 78.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/78>) BR: [S. 142.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/142>))
+
+Der Nationalrat hat beschlossen:

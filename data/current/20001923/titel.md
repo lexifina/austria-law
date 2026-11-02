@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Justiz über den Ausspruch des Verfassungsgerichtshofes, dass die Satzung der Versorgungseinrichtung der Oberösterreichischen Rechtsanwaltskammer, Teil B: Zusatzpension in der Fassung des Beschlusses der Vollversammlung der Oberösterreichischen Rechtsanwaltskammer vom 5. September 1997, kundgemacht im Anwaltsblatt 1997, S 808 bis S 811, genehmigt mit Bescheid des Bundesministers für Justiz vom 15. September 1997, Z 16.203/20-I.6/1997, bis zum Ablauf des 31. Mai 1999 gesetzwidrig war StF: [BGBl. II Nr. 170/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_170_2/2002_170_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

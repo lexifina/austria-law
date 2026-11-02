@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008970",
+  "short_title": "Festsetzung des Anpassungsfaktors für das Jahr 2015",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40165369",
+    "valid_from": "2014-10-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008970&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:24:06.018143+00:00",
+    "response_sha256": "cdca205f8bb3bc058ccc0b4bb0e9455fd8f144d5c2b6d69ccefe8751b8e80542",
+    "snapshot_sha256": "a2a77d693b1977bbb346d4bcb62bcfb9ac8d60f3c45ff24195a6c1bc5827a04a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6451cdbd48e94f4d6ddb3cc33566ce4368b8c001d7da9c848f0a38c9f5adea8c",
+      "sha256": "81ec2ae11eb4526715cce707f41c5611da24567523821ba239f17de924005a23",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz, mit der der Anpassungsfaktor für das Jahr 2015 festgesetzt wird StF: BGBl. II Nr. 267/2014"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 267/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/267"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "292682e0ba6dd37a445ec0ee21d63d0aebeb523b10cd470047a3c3dfb35026fe",
+      "sha256": "ef2caaa2e64505266b78661277992c2f4de1d7501a8dcd5d5a412bcfc7d3219e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

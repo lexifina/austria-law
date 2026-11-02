@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über die Ausnahme von Bundesstraßenstrecken von der Mautpflicht (Mautstreckenausnahmenverordnung 2010) StF: [BGBl. II Nr. 204/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/204>)
+
+Auf Grund des § 1 Abs. 2 des Bundesgesetzes über die Mauteinhebung auf Bundesstraßen (Bundesstraßen-Mautgesetz 2002 – BStMG), [BGBl. I Nr. 109/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_109_1/2002_109_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 135/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/135>) und die Bundesministeriengesetz-Novelle 2009, BGBl. I Nr. 3, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,1 @@
+Allgemeine Bekanntmachung der Bundesministerin für Landesverteidigung betreffend die Entlassung von Wehrpflichtigen aus dem Aufschubpräsenzdienst StF: [BGBl. II Nr. 260/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/260>)

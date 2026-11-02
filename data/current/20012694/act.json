@@ -1,0 +1,305 @@
+{
+  "sample_only": false,
+  "included_provisions": 11,
+  "source_provision_count": 11,
+  "schema_version": 1,
+  "gesetzesnummer": "20012694",
+  "short_title": "Ladepunkt-Daten-VO",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40265337",
+    "valid_from": "2024-09-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012694&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:41:40.715945+00:00",
+    "response_sha256": "5ec86de24f562f9d3fd248839ccf3e05c6886614483225227ec4d80f463b5bef",
+    "snapshot_sha256": "3a2370610279efeadf2ce327681d63a4b07e4e228f08f3dbeb7dd0e8dbc25d5b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f22de89f811e745c1a637ae7cba886a5926c4d9343cab889a7b23150b3e69df9",
+      "sha256": "85cb6dccc68dedeb2d79b38ca53487f92fff51719798153866ee48152d1844a6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die von Betreibern öffentlich zugänglicher Ladepunkte verpflichtend einzumeldenden statischen und dynamischen Daten (Ladepunkt-Daten-VO) StF: BGBl. II Nr. 257/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 257/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/257"
+        },
+        {
+          "text": "BGBl. I Nr. 38/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/38"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d134a5897476fe177cc618c0bce52e1bb28310f1df7bdf30bcd152074639157c",
+      "sha256": "1195c5c28e7786cca49fcb937b18de8932b8e4e9e82058181f0bdaaf1d3b85c6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 38/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/38"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4149ccdd2b731213983509c296b2b6e8c0213dc42c6e4c8014c80450b3bd7b32",
+      "sha256": "9114e75a4db84a43cefb8e286c216731fd2de29e8911a28494eb0927c0b08c31",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 38/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/38"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Meldepflichten betreffend Betrieb",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6f64d7427229f1a4525582da95180d1e938f173bd51266a5bd01746414e96da9",
+      "sha256": "fa26a7b48df73478cdb9325612a4132b4f950bee3f791f121d168c3be80649ec",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Standortbezogene Meldepflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d26ca08fe8d69dda4b53e8c68a198d41fd8cbcb78d1ea53dc354ceff65379b85",
+      "sha256": "33474d7fde8ef1efac67596145d0d97dfe510b97c4232fa77f1fcb7f4071fff0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 150/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150"
+        },
+        {
+          "text": "BGBl. I Nr. 198/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/198"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Meldepflichten betreffend die einzelnen Ladepunkte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7152f42417ce2be9cf015c0f31e9b9ac4c3c2a9c1c409060eebb9922a6d63a81",
+      "sha256": "510ade25b21788990218b3d7c2d9023fc13eb3bf46c78c4de43c56d47f79811b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Pflicht zur laufenden Aktualisierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7331384dba45f6874e02baaa363ab3d6e6c12a1557e2334ce0a6f215c4b1e403",
+      "sha256": "cdfe19407133ba120c0446fd868b08654062a8bfd5e14030a1386d33719be8d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Format",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38ad1a08e88b352a6910827baf022abc8e32f9eef817fc27fd57d13dca2e5b1c",
+      "sha256": "888372eb7f3acac4a2a0354d45a56cf530e84e564de7ba5bf69c14ebb34a0ba7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Verantwortlichkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6d744259555dfec2eff4adaf2dde68c9057204252a0866cf5bd6811fa6f69da",
+      "sha256": "b414ad38e2c9d863edef2e9fc792ce55a2716c5ebba8229f7f3392235f41f2c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Übergangsfrist",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1bea01706fa2d2007fcdbeeb1492c132753c266d23daafad2801d36dca29e4b6",
+      "sha256": "98774823bed7ad8b33a4da923eb453c0be5ac130d4d82b5acdc8c74abf86e08d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4281326eb3c40e711a6bc2e1df164971f18d86f4ec6bb016b205e00413dcc99",
+      "sha256": "35e70f2b9371b8871c7327927d6ecafd79c06a1dc9aad0b9b9b3d1fdc0e5556c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

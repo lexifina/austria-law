@@ -1,0 +1,3 @@
+Verordnung des Vorstandsvorsitzenden der Österreichischen Postbus Aktiengesellschaft über die Dienstpflicht und Kostentragung von Weiterbildungsmaßnahmen gem. der „Grundqualifikations- und Weiterbildungsverordnung – Berufskraftfahrer – GWB“ für die gemäß § 17 Abs. 1a des Poststrukturgesetzes (PTSG) der Österreichischen Postbus Aktiengesellschaft zur Dienstleistung zugewiesenen Beamten (Postbus – Weiterbildungsverordnung) StF: [BGBl. II Nr. 450/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/450>)
+
+Gemäß § 17a Abs. 3 Z 1 des Poststrukturgesetzes, [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>), in der Fassung [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>), wird verordnet:

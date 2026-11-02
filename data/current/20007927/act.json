@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20007927",
+  "short_title": "Kultur- und Naturerbe auf dem Gebiet der Republik Österreich, das in die Liste des Erbes der Welt aufgenommen wurde",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40141487",
+    "valid_from": "2012-07-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007927&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:07:49.589155+00:00",
+    "response_sha256": "e23480aed18e253161890d714e2214722a4eac50a299952469a80aaf8eaeb65c",
+    "snapshot_sha256": "abe30bf60cc9e15c90260200ed089e687015e84710dfabf557385c1ca32deace",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45f53d7667f491b278005b419ad1e2cf5ef8ff87eac8ea4b66df13bb349be6d7",
+      "sha256": "3ec2892a4e0de7bb3c355f787d40615037392a53a9769d2147fcf317aa85b652",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend das Kultur- und Naturerbe auf dem Gebiet der Republik Österreich, das in die Liste des Erbes der Welt aufgenommen wurde StF: BGBl. III Nr. 105/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 105/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2012/105"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3c1d73d0b7d5a5c8dfa3cbf0c1082c89cb5b0442b50551f3b0be254b281654a",
+      "sha256": "55fb3149a5a3cc710dab087e9cae92755e03feac8803f191c91b2c7278d4f70b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_60_0/1993_60_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Festlegung von einheitlichen Grundsätzen zur Durchführung der finanziellen Erfolgskontrolle bei Anwendung der Flexibilisierungsklausel (Erfolgskontrollen-Verordnung) StF: [BGBl. II Nr. 28/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_28_2/2001_28_2.pdf>)
+
+Auf Grund des § 17a Abs. 8 des Bundeshaushaltsgesetzes, [BGBl. Nr. 213/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 26/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_26_1/2000_26_1.pdf>) wird verordnet:

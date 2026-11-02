@@ -1,0 +1,362 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20006801",
+  "short_title": "E-Government-Gleichwertigkeitsverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40118549",
+    "valid_from": "2010-06-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006801&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:51:15.822771+00:00",
+    "response_sha256": "bc49fb5404b0197f9e91d0ee7c6bad301c5adffe4875aa2e17e1ca146facdb91",
+    "snapshot_sha256": "b52b992f6e491d1b292ff6c2ba9beeff5f672d6518701c0c00756d3772b5d3a1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56437b7bbe789597a6526be177351ae6090700ff6c8b05da508309b75ab4e3d2",
+      "sha256": "93756084bdfe7a668e698ecc0655a5c1efa4dbfcc0ff50017d1e7b9d18e1f036",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundeskanzlers, mit der die Voraussetzungen der Gleichwertigkeit gemäß § 6 Abs. 5 des E-Government-Gesetzes festgelegt werden (E-Government-Gleichwertigkeitsverordnung) StF: BGBl. II Nr. 170/2010"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 170/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/170"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        },
+        {
+          "text": "BGBl. I Nr. 7/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/7"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/59"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Gleichwertige ausländische elektronische Identitätsnachweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da1f7b3355d9afab0b971252ac9f2636e8afb858b9d06498dfa3e946f0b28117",
+      "sha256": "352aa37dba6053c74488ca05d2a6103e25a6d0d187989ccc67418abaea902546",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Staat",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eindeutiger Identifikator des Herkunftsstaates im Nachweis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnung des Mediums für die Erbringung des Nachweises",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Belgien",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "RRN-Nummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Belgian Personal Identity Card (Elektronische identiteitskaart BELPIC)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Estland",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "PIC-Nummer",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Estonian ID Card (Isikutunnistus ID-kaart ESTEID)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Estonian mobile eID (Mobiil-ID)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Finnland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "FINUID-Nummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Finnish Electronic Identity Card (FINEID)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Island",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "SSN-Nummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Isländische Bankkarte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Italien",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Steuernummer",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Electronic Identity Card (Carta d’identità elettronica)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "National Service Card (Carta nazionale dei servizi)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Liechtenstein",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Seriennummer des Zertifikats in Verbindung mit PEID-Nummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "lisign",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Litauen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Persönlicher ID-Code",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lithuanian Personal Identity Card (Asmens Tapatybės Kortelė)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Portugal",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Persönliche Identifikationsnummer Sozialversicherungsnummer Steuernummer Gesundheits-Benutzernummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personal Identity Card (Cartão do Cidadão)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schweden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Persönliche ID-Nummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nationellt id-kort",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Slowenien",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Seriennummer des Zertifikats in Verbindung mit PRN-Nummer oder Steuernummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "SIGOV Card",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Steuernummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Halcom ONE FOR ALL!",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Steuernummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Postarca smart card",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Spanien",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Persönliche ID-Nummer",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "DNI electronic (DNI electrónico)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Notifikationshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfc14d8c97dea83e94ba5f161ab11745105b60441b6c6ddc6e5eba705407f09e",
+      "sha256": "6d3777200e14ee8fec878c17407635f976e0e27c8abf2ec53731c8279d158581",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

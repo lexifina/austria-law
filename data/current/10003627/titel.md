@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Justiz gemäß § 16 Abs. 6 des Mietrechtsgesetzes StF: [BGBl. II Nr. 74/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_74_2/1998_74_2.pdf>)
+
+Gemäß § 16 Abs. 6 des Bundesgesetzes über das Mietrecht, [BGBl. Nr. 520/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_520_0/1981_520_0.pdf>) (MRG), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 140/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_140_1/1997_140_1.pdf>), wird auf Grund der Verlautbarung des Österreichischen Statistischen Zentralamtes vom 18. Februar 1998 kundgemacht, daß sich die in § 16 Abs. 5, § 15a Abs. 3 und § 45 Abs. 1 und 1a MRG genannten Beträge wie folgt erhöht haben:

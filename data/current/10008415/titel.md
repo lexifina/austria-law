@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Finanzen vom 28. November 1977 über die Verwendung von Geldstrafen und Geldbußen StF: [BGBl. Nr. 589/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_589_0/1977_589_0.pdf>)

@@ -1,0 +1,3 @@
+Bundesgesetz vom 31. März 1982 über ein Wohnbausonderprogramm 1982 (Bundes-Sonderwohnbaugesetz 1982) StF: [BGBl. Nr. 165/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_165_0/1982_165_0.pdf>) (NR: GP XV [IA 149/A](<https://www.parlament.gv.at/gegenstand/XV/A/149>) [AB 988](<https://www.parlament.gv.at/gegenstand/XV/I/988>) [S. 105.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/105>) BR: [S. 419.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/419>) NR: [Einspr. d. BR: 1006](<https://www.parlament.gv.at/gegenstand/XV/I/1006>) [AB 1040](<https://www.parlament.gv.at/gegenstand/XV/I/1040>) [S. 109.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/109>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit, Familie und Jugend über ein Programm zur Überwachung der Freiheit von der Blauzungenkrankheit (Bluetongue-Überwachungsverordnung, BTÜ-V) StF: [BGBl. II Nr. 158/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/158>)
+
+Auf Grund des § 2 Abs. 1 bis 3 des Tiergesundheitsgesetzes (TGG), [BGBl. I Nr. 133/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_133_1/1999_133_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/6>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, verordnet:

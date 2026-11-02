@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011272",
+  "short_title": "Beitritt der Republik Österreich zur „Technischen Einheit im Eisenbahnwesen, Fassung 1938“",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011537",
+    "valid_from": "1951-03-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011272&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:51:39.619151+00:00",
+    "response_sha256": "7d1099edcb79c68e16b060ead1a6fd756c46274d329c35c6f5e58d71848853ed",
+    "snapshot_sha256": "cd3f3ce27339430000038a2c53789e869ee7e869c38f66afd542b707be1eb79f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "567d5c9cae4d688cc35d7efb6cbcc28ddab3dd117f95780c1991ec349d2360eb",
+      "sha256": "527c64c30bd75c94296be635e0edb230512c40cf07f2d43f898d6a0b18cfaba5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 19. Februar 1951 über den Beitritt der Republik Österreich zur „Technischen Einheit im Eisenbahnwesen, Fassung 1938“. StF: BGBl. Nr. 56/1951"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 56/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_56_0/1951_56_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9593c46ea5a6edaba05d2b5e44612795092b914009b4272e255a1c8bdde429fa",
+      "sha256": "86fb382948215ca2c1104e3b47b7c9cc76d171555d3dcd67f4ebad12c74b7574",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 150/1914",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=150/1914&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

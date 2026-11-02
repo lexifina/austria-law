@@ -1,0 +1,1 @@
+Bundesgesetz über die Unterrichtszeit an den im Schulorganisationsgesetz geregelten Schularten (Schulzeitgesetz 1985) StF: [BGBl. Nr. 77/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_77_0/1985_77_0.pdf>) (WV)

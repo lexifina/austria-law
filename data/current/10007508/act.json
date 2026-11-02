@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007508",
+  "short_title": "3. Hochleistungsstrecken-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007632",
+    "valid_from": "1994-02-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007508&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:06:43.129753+00:00",
+    "response_sha256": "25836369cf9597afb7b95e79bcd352584cf9822c0a5544a1c545d30bcc78883f",
+    "snapshot_sha256": "ea59fedf59c53733877af776da9616050ba7f3949a3a4c85b67821a49de435e8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e030084d7c78592083b032cbd872921788399768b7e66bf9d6af538236bfa703",
+      "sha256": "00f6ca1c1ad02f188ec22a94eba12527bbe4aeadd0dd38cd81fbe93fb387699a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung über die Erklärung weiterer Eisenbahnen zu Hochleistungsstrecken (3. Hochleistungsstrecken-Verordnung) StF: BGBl. Nr. 83/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 83/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_83_0/1994_83_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 135/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 576/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_576_0/1989_576_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac27f0ed5a83aa80abb6df102f6b653d9dbc10a53f40e8cb3ba37190ba6eeda0",
+      "sha256": "8dc950e382e474dfc577246f3dfacf99568b2508da32d26eaaf727c8e5715f07",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

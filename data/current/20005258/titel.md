@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus über den Ziel- und Leistungsplan, den Ressourcenplan, das interne Rechnungswesen, die Evaluierung und das Qualitätsmanagement für die Hochschule für Agrar- und Umweltpädagogik Wien (Hochschul-Planungs-, Steuerungs- und Evaluierungsverordnung für die Hochschule für Agrar- und Umweltpädagogik Wien – HPSEV-HAUP) StF: [BGBl. II Nr. 46/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/46>)
+
+Auf Grund der §§ 30, 31, 33 und 34 Abs. 2 des Hochschulgesetzes 2005, [BGBl. I Nr. 30/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/30>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 32/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32>), wird verordnet:

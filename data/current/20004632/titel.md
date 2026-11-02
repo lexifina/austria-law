@@ -1,0 +1,3 @@
+Bundesgesetz über Änderungen des Verlaufes der Staatsgrenze zwischen der Republik Österreich und der Republik Ungarn in den Unterabschnitten C II und C IV (regulierte Pinka und regulierte Strem) StF: [BGBl. I Nr. 38/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/38>) (NR: GP XXII [RV 7](<https://www.parlament.gv.at/gegenstand/XXII/I/7>) [AB 362](<https://www.parlament.gv.at/gegenstand/XXII/I/362>) [S. 45.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/45>) BR: [AB 6977](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6977>) [S. 705.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/705>))
+
+Der Nationalrat hat beschlossen:

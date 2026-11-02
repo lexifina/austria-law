@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003723",
+  "short_title": "Weltgesundheitsorganisation - Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004041",
+    "valid_from": "1949-09-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003723&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:03:44.516473+00:00",
+    "response_sha256": "9101d43529e42bfa8ab3fa4f682979a3c4e325605e6682d9799f8b42ef1f8dfe",
+    "snapshot_sha256": "3cb50c6a7f13e16b1ebd44ec8f250f9f9e6caa3c232f051821ac715af51341d8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0817fc1f997e9e700e75ea60eb6b07942f5a8926bd2a8b804c77e1bf2dfc40fd",
+      "sha256": "d4912e0b7380ebb6ec7b09606b8552545b5622c8cc33b127362446bf5eabebba",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 16. August 1949, betreffend die Erweiterung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation und des Protokolls, betreffend das Office International dʻHygiène Publique. StF: BGBl. Nr. 216/1949"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 216/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_216_0/1949_216_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1744aa62d0faa0f931061286fadb7e611eedfc2b5190ad8bb9ce59850b6f2db",
+      "sha256": "94de67e2e39f32a891cc0b32af151a70684868fcc5dfa10215e8a1d3033bce57",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011626",
+  "short_title": "Betrieb von Amateurfunkstellen",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Griechenland",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011891",
+    "valid_from": "1986-10-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011626&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:01:04.463446+00:00",
+    "response_sha256": "f3b448dd6402443ab2d35c97f40e235cfedf1f9b7b3aa1986194f17675029e99",
+    "snapshot_sha256": "490dfe52512522d563fbfcc4b141298b2975a117c7c81f49ae76b44cf5e91761",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed67cf636430df19da26687dfa7caeb016333c6cb6a2debe7f0ddec16538a484",
+      "sha256": "4a648bd7d5c80039a183ca70122e44bf0a0006e9bcfc6eb01846e51c8e84558e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Österreichischen Bundesregierung und der Griechischen Regierung über die Gegenseitigkeit bei der Erteilung von Berechtigungen an Funkamateure beider Staaten zum Betrieb von Amateurfunkstellen StF: BGBl. Nr. 585/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 585/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_585_0/1986_585_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cadf3179c8d638898746c9027c7e03f038e08c4278e6371c1f4a7b5aa2c0af6",
+      "sha256": "ddf2f35ff24bcbefad68cc4dd76531169c7946767951b486180bc3d5fd30a6ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

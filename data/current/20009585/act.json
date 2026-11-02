@@ -1,0 +1,907 @@
+{
+  "sample_only": false,
+  "included_provisions": 22,
+  "source_provision_count": 22,
+  "schema_version": 1,
+  "gesetzesnummer": "20009585",
+  "short_title": "Signatur- und Vertrauensdienstegesetz",
+  "abbreviation": "SVG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40184751",
+    "valid_from": "2016-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009585&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:36:05.425146+00:00",
+    "response_sha256": "5c9a53eefdb852c990e9d4d072fa4b9a666106a80fd514cb0692e5c5c9d43b22",
+    "snapshot_sha256": "ee5772041db0fb7fc80e2f380aafab0fab0b4dd127b6f536f6fd957a2cf6afda",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f576960f8c1e9aa50b451ae397a0c3034fe4ccda07041711ce28dd660b13ef8",
+      "sha256": "a888c0fc8d49d27a92c9f6b81914a0cbaa223f8203ad1ff0f027ce9b5e304dc8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über elektronische Signaturen und Vertrauensdienste für elektronische Transaktionen (Signatur- und Vertrauensdienstegesetz – SVG) StF: BGBl. I Nr. 50/2016 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1145 AB 1184 S. 134. BR: 9594 AB 9607 S. 855.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 32/2018 (NR: GP XXVI RV 65 AB 97 S. 21. BR: 9947 AB 9956 S. 879.) [CELEX-Nr.: 32016L0680] BGBl. I Nr. 104/2018 (NR: GP XXVI RV 381 AB 396 S. 55. BR: AB 10112 S. 887.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/27"
+        },
+        {
+          "text": "RV 1145",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1145"
+        },
+        {
+          "text": "AB 1184",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1184"
+        },
+        {
+          "text": "9594",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9594"
+        },
+        {
+          "text": "AB 9607",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9607"
+        },
+        {
+          "text": "855",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/855"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        },
+        {
+          "text": "RV 65",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/65"
+        },
+        {
+          "text": "AB 97",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/97"
+        },
+        {
+          "text": "S. 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/21"
+        },
+        {
+          "text": "9947",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9947"
+        },
+        {
+          "text": "AB 9956",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9956"
+        },
+        {
+          "text": "S. 879.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/879"
+        },
+        {
+          "text": "32016L0680",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0680:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/104"
+        },
+        {
+          "text": "RV 381",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/381"
+        },
+        {
+          "text": "AB 396",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/396"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/55"
+        },
+        {
+          "text": "AB 10112",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10112"
+        },
+        {
+          "text": "S. 887.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/887"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Abschnitt Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand des Gesetzes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personenbezogene Bezeichnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Elektronische Signaturen und elektronische Siegel",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtswirkungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten von Signatoren und Siegelerstellern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aussetzung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestätigungsstelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Vertrauensdiensteanbieter",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausstellung qualifizierter Zertifikate für einen Vertrauensdienst",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beendigungsplan und Vertrauensinfrastruktur",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zugangsrechte und Aufbewahrungsdauer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Haftung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Aufsicht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsstelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Heranziehung der RTR-GmbH",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Aufgaben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durchführung der Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Verwaltungsstrafbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verordnung über Elektronische Signaturen und Vertrauensdienste für elektronische Transaktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsregelung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ee9075ed56b176f98085a36f95d8c482246bd678d5f372a58cfe2b33dbe02226",
+      "sha256": "38a1698474f4b553de202ffdd98804658595df48f4c9ea209fc88ad1a3f1d0cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Personenbezogene Bezeichnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38448ce351ec8ec41ccc4dc8048eb0412d0bc463ce87890d3d7fa9b0d7c0d718",
+      "sha256": "30518ecb946379b627d505b83edd53591833b897b47907699126d349e4e29e06",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fae9786af76b2ea41c38581a685a42e16f35e18c4512ba7c82fe74df1230bdb9",
+      "sha256": "3db35644ac1e82080e393d04b112590475472edff7d7ce0fe886b054f44b505c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Elektronische Signaturen und elektronische Siegel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d83f142ca2a37c39f9abdb894c19347a79a314931a549f7c43c2e6e403928e8",
+      "sha256": "6dd144fc36968bc9edb2274c1ce95cd6f4ef49158315bceacc5f3b045d92f046",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Pflichten von Signatoren und Siegelerstellern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21e0ff63ed235cc3761281670c1961fae7774a7348fac29aac12393b8ac452ec",
+      "sha256": "41aa23c77d5f03551322b413830c1c8a299023a1a7bed6fb6e373c5bccb3a7b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Aussetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c6e9d3ee8c5f6db0d57f30df7f73cf16200bb884b01ab1d2a0333ec3fd1b67a",
+      "sha256": "4023071f5ced53a894ecb71ffedb7f98ca729cc01ab627b0f4432e3fc16b4a72",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Bestätigungsstelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4d45a34875d0975b548cbc92fe922db35f6e3b36accfa117827d6d2a43ed888b",
+      "sha256": "d7f47caaf076565d53aff4610b8f1f163616439666817e78865f88a7ce3308e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "3. Abschnitt Vertrauensdiensteanbieter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db284d9c26304567e7f9e824e7b4bc07b808361e9e0a0b31bff81371dd523a31",
+      "sha256": "49079fb74f74e676bdf35c8998c6da2c103ed7ef17876f8079116d230bdd19e8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Beendigungsplan und Vertrauensinfrastruktur",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be2da05cdc93d92edd6fa80e24429c611f67aff73382fcf053182650beb78cc8",
+      "sha256": "9c8af61f0ac88271f348c98b938569cbb7648c993b68507b557906deadcb7cfd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Zugangsrechte und Aufbewahrungsdauer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ceab4947a26afc92692354c60394a561c66c7801bf5f659d45de928bd940c1f3",
+      "sha256": "ddece6a8a39b6b129f7a92181126a037bee4673fdbdb4f98d14a7db6efe569c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Haftung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40bdc6508673d9dfd3669807905c34ede6baacbd7fc01a651fe103fad2b64b91",
+      "sha256": "0b0a215aad4cde5c1125980d1e8a91614f27036e5965fb57a86478992862761c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "4. Abschnitt Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b847f6198d71c4161d0033ac38998fd0d75eab50ed3c78ca8d957abfadd51048",
+      "sha256": "bb4dfd9ea76d69f3a721ae978ae67bc456ef6e0b3a127b1ed96a27c5a1d0327a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Heranziehung der RTR-GmbH",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7c9a0af43b1d95dae97744e7c2f8462add83a7f5d206cf4242fb3367bcbb15b",
+      "sha256": "408aab541fe9430cbcc8d7c80b884454734a11c271521b82d80813e86474b436",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Sonstige Aufgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6aa59a5c512cec27de2e858a01c522e965344af4baa0267bcc09752e6a55fe8d",
+      "sha256": "f40846ce9c01660c3754f800fec567783fe9c4da4bf55c9192304a74f83e93bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Durchführung der Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "523d5bb7d333b0a024e0c905ee3f01b7cd29c135c2b16438be2184b29616bba9",
+      "sha256": "18d28daf83eef2dc6dd829fb9154cdbd6ffcd4b43153a0d53e34c04981cc19bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "5. Abschnitt Verwaltungsstrafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f097b519696163e76f4aeba5860559e3707235ffa18f2ee0d5895beed5187a1",
+      "sha256": "dbe1896b95c69f4a4dc9d0ce2d3df73edd3a4073453fb95d72f37a86a2c90fb1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "6. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85b201b1a6c823e1cc63aa8eb5a864db48f93121e9a2e607e4b803a4ec4e6832",
+      "sha256": "b98491f4f696f225638f5065ae79c662f23c26669469cab1bc05869af61ae998",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "deb399b96467720f893c68401b19f0ed78404b830bd067edcc9e3171408bb7f9",
+      "sha256": "c78f4f677799475acf5b3aa5d88f51611a3975e72a64127930e5c16c8a15fb6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Übergangsregelung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93f68913329231ddff8f31fbefb05e3687cb92dd8a9e8840e99fcf937d5e388b",
+      "sha256": "eeb480d432c7913fe7cd4922b5307b671fa7d0021d5d9544b58b9bfd31088bd9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 190/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_190_1/1999_190_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/75"
+        },
+        {
+          "text": "BGBl. I Nr. 190/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_190_1/1999_190_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/75"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0b717252cd4b4b64790a2372bbdba556960efc8d8ba858b5c764d384ff936a6",
+      "sha256": "20514aa165b4460ee223ab1b06099a0a9845b56d92ed3877377dba4825e73f2f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 190/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_190_1/1999_190_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/75"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 25",
+      "source_heading": "Artikel 25 Notifikationshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "art-025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5457edad26210c77a8f94f5f5ffb6b3beaaa8b821bfbe01cc74cd8841d55a442",
+      "sha256": "46ebec6987db0300480e927e6938898fa66f5a1cf6b365c0c210b65c9cc49039",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

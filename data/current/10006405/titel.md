@@ -1,0 +1,3 @@
+Bundesgesetz vom 3. Juli 1975 über die gewerbsmäßige Beförderung von Gütern in Rohrleitungen (Rohrleitungsgesetz) StF: [BGBl. Nr. 411/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_411_0/1975_411_0.pdf>) (NR: GP XIII [RV 1517](<https://www.parlament.gv.at/gegenstand/XIII/I/1517>) [AB 1693](<https://www.parlament.gv.at/gegenstand/XIII/I/1693>) [S. 150.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/150>) BR: [1391](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1391>) [AB 1438](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1438>) [S. 344.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/344>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003025",
+  "short_title": "Hoheitszeichen - Commonwealth Australien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003049",
+    "valid_from": "1992-01-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003025&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:39.273226+00:00",
+    "response_sha256": "9109e783067345ec9fc59da53b7f18c37cfb29b82820d92e1af5ff092e9a9d16",
+    "snapshot_sha256": "e6c984bede9a6fe5664e26202933c868646177f8af670aa6b0cf147997f41faf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebae3a9a8f94c3ccd5b65246963ca795d4a6f88fc28f1d16c24a5e9008516dfb",
+      "sha256": "2cce99d2fb3934a29b6e3bbaee44f14aaad393a0d097a379063cce1badf97003",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen des Commonwealth Australien StF: BGBl. Nr. 7/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 7/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_7_0/1992_7_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25271f730ec0c759388f307decc780ebc17eee52e2182a2a1f21e713c6d2b9c5",
+      "sha256": "e73af6cccb8b4e21b3a1819e26ec55e17daa1af73b2a3cc4786a38b4da8e3308",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_350_0/1977_350_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

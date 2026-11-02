@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004196",
+  "short_title": "VfGH-Aufhebung eines Punktes der 2. Änderung des Erstattungskodex",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004570",
+    "valid_from": "2005-07-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004196&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:10:43.218191+00:00",
+    "response_sha256": "965b9afbb616a69b46f6e9849fc8ea57a46940d77d6f21ed42600552af65157f",
+    "snapshot_sha256": "1f3026ffaca309ba5d4bf0a61f79c0a3f5e058725190ff9d738b36cb3d055891",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2f3cea25f947c9c3d762c3b271486d78b9bd261cff4aeaeabdfc1f80f4121a97",
+      "sha256": "f751855c789f53fbe790cfdca02d27fc5cf88af965cd175b75ef364a969f16d7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz betreffend die Aufhebung eines Punktes der 2. Änderung des vom Hauptverband der österreichischen Sozialversicherungsträger herausgegebenen Erstattungskodex, kundgemacht als Amtliche Verlautbarung der österreichischen Sozialversicherung im Internet Nr. 16/2005, durch den Verfassungsgerichtshof StF: BGBl. II Nr. 219/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 219/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/219"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b1c747026627283fc463b7183a6e778036b18ed29f44e6e57ffead6ac504907",
+      "sha256": "b11faa1036497df0c61852bd9816c0a953e264ea2732764489644c2da5ccb285",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

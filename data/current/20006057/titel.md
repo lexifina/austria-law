@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Festlegung näherer Bestimmungen über die Bedingungen und Auflagen für Maßnahmen nach dem Finanzmarktstabilitätsgesetz und dem Interbankmarktstärkungsgesetz StF: [BGBl. II Nr. 382/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/382>)
+
+Aufgrund des § 2 Abs. 5 Finanzmarktstabilitätsgesetz – FinStaG, [BGBl. I Nr. 136/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/136>), in Verbindung mit § 1 Abs. 4 Interbankmarktstärkungsgesetz – IBSG, [BGBl. I Nr. 136/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/136>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

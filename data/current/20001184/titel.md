@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über Fernsprechentgeltzuschüsse (Fernsprechentgeltzuschussverordnung – FEZVO) StF: [BGBl. II Nr. 90/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_90_2/2001_90_2.pdf>)
+
+Auf Grund des § 6 des Fernsprechentgeltzuschussgesetzes, [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), und des Artikels Ia des Fernmeldegebührengesetzes, [BGBl. Nr. 170/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_170_0/1970_170_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 159/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_159_1/1999_159_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

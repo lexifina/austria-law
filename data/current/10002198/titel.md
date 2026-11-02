@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 16. September 1971 betreffend eine Erklärung Luxemburg zum Übereinkommen über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 StF: [BGBl. Nr. 389/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_389_0/1971_389_0.pdf>)

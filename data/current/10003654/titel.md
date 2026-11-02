@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Fahne der ehemaligen jugoslawischen Republik Mazedonien StF: [BGBl. II Nr. 403/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_403_2/1998_403_2.pdf>)

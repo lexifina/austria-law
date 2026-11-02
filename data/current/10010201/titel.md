@@ -1,0 +1,1 @@
+Bundesgesetz vom 16. Dezember 1927 über die Bildung einer Donauhochwasserschutz-Konkurrenz. StF: [BGBl. Nr. 372/1927](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=372/1927&amp;SkipToDocumentPage=True>) (NR: GP III 101 AB 115 S. 24.)

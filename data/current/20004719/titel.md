@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 17. Juli 1934, betreffend das Inkrafttreten des Handels- und Schiffahrtsvertrages zwischen Österreich und Schweden vom 26. Jänner 1934. StF: [BGBl. II Nr. 134/1934](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=134/1934&amp;SkipToDocumentPage=True>)

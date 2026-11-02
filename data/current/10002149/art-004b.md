@@ -1,0 +1,3 @@
+## (Anm.: Artikel 4)
+
+B. - Demgemäß kann die spätere, jedoch vor Ablauf dieser Fristen in einem der anderen Verbandsländer bewirkte Hinterlegung nicht unwirksam gemacht werden durch inzwischen eingetretene Tatsachen, insbesondere durch eine andere Hinterlegung, durch die Veröffentlichung der Erfindung oder deren Ausübung, durch das Feilbieten von Stücken des Musters oder Modells, durch den Gebrauch der Marke; diese Tatsachen können kein Recht Dritter und kein persönliches Besitzrecht begründen. Die Rechte, die von Dritten vor dem Tag der ersten, prioritätsbegründenden Anmeldung erworben worden sind, bleiben nach Maßgabe der inneren Gesetzgebung eines jeden Verbandslandes gewahrt.

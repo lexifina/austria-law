@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003694",
+  "short_title": "Vollstreckung gerichtlicher Entscheidungen - Ausdehnung Hongkong/Künd",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003724",
+    "valid_from": "1999-03-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003694&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:46.525530+00:00",
+    "response_sha256": "0de807580655fef814720d010833d81116e98a105ffa460445693cb1744dd127",
+    "snapshot_sha256": "3292310c31cb7472aabd73200a1c5db0604ce17ad7cb9019f2726228cac8382f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0413993afe433d848d7622e20e395560562b29d9484803bd79f47152a2571c8d",
+      "sha256": "da29eb09fef4ceb09239a21f9120438bb4775d01d1fbcf54e4ed1055f2ef8664",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Beendigung der Ausdehnung des Vertrages zwischen dem Vereinigten Königreich von Großbritannien und Nordirland und der Republik Österreich über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen auf Hongkong StF: BGBl. III Nr. 51/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 51/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_51_3/1999_51_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0bae5d38164c0eeececdaf28563d4d1531d8ad7de6353ba531c53aab8c6798a",
+      "sha256": "30ed4f92631fd43bc3cd36a11d5081786a7963159b4a3d772936a015eb92fc76",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 224/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_224_0/1962_224_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 90/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_90_0/1978_90_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

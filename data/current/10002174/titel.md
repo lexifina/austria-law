@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 4. November 1970 betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht durch Belgien und eine Erklärung Italiens zu diesem Übereinkommen StF: [BGBl. Nr. 333/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_333_0/1970_333_0.pdf>)

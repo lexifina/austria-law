@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003054",
+  "short_title": "Amtliche Prüfungszeichen der Tschechischen und Slowakischen Föderativen Republik",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003079",
+    "valid_from": "1992-07-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003054&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:07.325826+00:00",
+    "response_sha256": "1f98b73c2eb9cb99ba4b036cd81ec450e855572c6c9b4ca1dd10a44d2139272b",
+    "snapshot_sha256": "467c71177186d27b41aab2cb53309c3e4de5eb9e99f9e8fd323e0903051c0756",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90f7b1297ea977574ca9c07662371f2023da8d0cd92d01722a866344c0becbdf",
+      "sha256": "10d2bebb19be4e781939fc0e6dbfcf2e93183b68ccec29c7fd69532f29f35a24",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend amtliche Prüfungszeichen der Tschechischen und Slowakischen Föderativen Republik StF: BGBl. Nr. 428/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 428/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_428_0/1992_428_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bde0926e11e7e40463d8d904a88f7f8c08bcf4ea0b209e7741de9715b0a0de2e",
+      "sha256": "99ace5c7ea68bb7029ca1d5f5e3cffd59a2539f6f16acb544da7431c66386ff2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_350_0/1977_350_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 260/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_260_0/1983_260_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 43/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_43_0/1972_43_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

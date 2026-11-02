@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Abfallvermeidung, Sammlung und Behandlung von Altbatterien und -akkumulatoren (Batterienverordnung) StF: [BGBl. II Nr. 159/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/159>) \[CELEX-Nr.: [32006L0066](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0066:DE:HTML>)\]
+
+Auf Grund der §§ 13, 13a, 13b, 14, 19, 23 Abs. 1 und 3, 28a und 36 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), BGBl. I Nr. 102, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 54/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/54>), wird im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit verordnet:

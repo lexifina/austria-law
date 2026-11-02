@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Rückstellung für Kapitalanlagerisiken bei der prämienbegünstigten Zukunftsvorsorge, die über die Kapitalanlagerisiken der Lebensversicherung hinausgehen (Prämienbegünstigte Zukunftsvorsorge-Zusatzrückstellungs-Verordnung – PZV-ZRV) StF: [BGBl. II Nr. 297/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/297>)
+
+Auf Grund des § 152 Abs. 2 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, [BGBl. I Nr. 34/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112>), wird verordnet:

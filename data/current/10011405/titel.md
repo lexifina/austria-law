@@ -1,0 +1,3 @@
+ABKOMMEN ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER REGIERUNG DER REPUBLIK COSTA RICA ÜBER DIE BETREIBUNG VON AMATEURFUNKSTELLEN StF: [BGBl. Nr. 357/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_357_0/1969_357_0.pdf>)
+
+Die Österreichische Bundesregierung und die Regierung der Republik Costa Rica, in der Absicht, ein Abkommen über die wechselseitige Einräumung von Berechtigungen abzuschließen, auf Grund derer lizenzierte Funkamateure beider Länder ihre Funkstellen im anderen Land gemäß den Bestimmungen des Artikels 41 der „Vollzugsordnung für den Funkdienst“, Genf 1959, betreiben dürfen, sind wie folgt übereingekommen:

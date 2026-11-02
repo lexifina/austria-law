@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über Arzneispezialitäten mit Stoffen oder Materialien tierischen Ursprungs StF: [BGBl. II Nr. 45/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_45_2/2000_45_2.pdf>) \[CELEX-Nr.: [399L0082](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0082:DE:HTML>), [399L0104](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0104:DE:HTML>)\]
+
+Auf Grund des § 5 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 78/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_78_1/1998_78_1.pdf>), wird verordnet:

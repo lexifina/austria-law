@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes, betreffend die Anwendung des österreichisch-britischen Handels- und Schiffahrtsvertrages auf Kenia und Uganda. StF: [BGBl. Nr. 152/1937](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=152/1937&amp;SkipToDocumentPage=True>)

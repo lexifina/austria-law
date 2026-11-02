@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000294",
+  "short_title": "Übereinkommen der Haager Friedenskonferenzen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000295",
+    "valid_from": "1957-02-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000294&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:26:39.102743+00:00",
+    "response_sha256": "f828e1173aaf5966fa3748fac31f04f64659b8a54f5b167827c3be961e36d2d9",
+    "snapshot_sha256": "0c6c4c5be6e704370345e3813ffa9b8baba43b30416c2a2589f2ac36cb3f3d30",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9903f3f36c29e93bcc2342bc29676901d5ff25729d8118f04420a3afbda4c26",
+      "sha256": "d14414bd84212416b07c52bab01ba86fa1f58f568ca31ac6b23dd8021ddbf1aa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 29. Jänner 1957, über den Mitgliedsstand der Übereinkommen und Erklärungen der Ersten und Zweiten Haager Friedenskonferenz von 1899 und 1907 (RGBl. Nr. 173 bis Nr. 188/1913). StF: BGBl. Nr. 50/1957"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 50/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_50_0/1957_50_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03976df592bab859e3c5f0dea2a54ceb48dd5bbd574451108bbd4eeff379d5ba",
+      "sha256": "b60cd7554deb4324d52763601ef35e821d010aa21ef7254cbc7cbe8be7ad2487",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

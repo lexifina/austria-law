@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002166",
+  "short_title": "Zeichen - Afrikanisch-Madegassisches Amt des gewerblichen Eigentums",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002189",
+    "valid_from": "1970-04-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002166&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:59:22.560938+00:00",
+    "response_sha256": "d94da4edee8093e7a9b9a1de3d24ad2875fe2c0557fb39effffc5494ec277137",
+    "snapshot_sha256": "8c7cb5c474d5fc6aaa1829d5cdfa052eb7e21f01f788dc9a1e7ca5dded7f5cee",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5f03f240cf909ac5b04051a9b681d97a2d91276cb7e88f76a209e571b56783b",
+      "sha256": "a4cce4e8c07f44f3a29cda8a041a62fac00869325130b34b98f9697fae1bf805",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. März 1970, betreffend Zeichen des Afrikanisch-Madegassischen Amtes des gewerblichen Eigentums StF: BGBl. Nr. 120/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 120/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_120_0/1970_120_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cc486e6f6e4fb32d60f29448ecec513e279ea7653a55917fc36154b5252300d",
+      "sha256": "2cc1e517ab13a32ca280954127725acd3d66c3071a671f146a52159395e11f0a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

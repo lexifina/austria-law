@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 1. September 1970 betreffend Zeichen der Weltorganisation für geistiges Eigentum StF: [BGBl. Nr. 304/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_304_0/1970_304_0.pdf>)

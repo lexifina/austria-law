@@ -1,0 +1,1684 @@
+{
+  "sample_only": false,
+  "included_provisions": 47,
+  "source_provision_count": 47,
+  "schema_version": 1,
+  "gesetzesnummer": "20013064",
+  "short_title": "Krypto-Meldepflichtgesetz",
+  "abbreviation": "Krypto-MPfG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40273846",
+    "valid_from": "2026-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013064&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:50:29.883248+00:00",
+    "response_sha256": "bf069500a21a64ee40fac56aaba1f6ad1e5beed47d6291dbfa4694dc1ec6b131",
+    "snapshot_sha256": "a921a57b92700bc41b9b1e76a031e2f78f6ba8438ddd52d11707466005071f38",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f86c13c0d3b1f274c091ce11f0b80cfdcefa51e35cc31ad2abe5ddf9f9dbe92",
+      "sha256": "f2402d20e841d804b71664723725d02a548718219492613b9221ef695233b900",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über den verpflichtenden automatischen Informationsaustausch betreffend meldepflichtige Kryptowerte im Bereich der Besteuerung (Krypto-Meldepflichtgesetz – Krypto-MPfG) StF: BGBl. I Nr. 96/2025 (NR: GP XXVIII RV 306 AB 332 S. 55. BR: AB 11737 S. 985.) [CELEX-Nr.: 32011L0016, 32023L2226]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 96/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/96"
+        },
+        {
+          "text": "RV 306",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/306"
+        },
+        {
+          "text": "AB 332",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/332"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/55"
+        },
+        {
+          "text": "AB 11737",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11737"
+        },
+        {
+          "text": "S. 985.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/985"
+        },
+        {
+          "text": "32011L0016",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0016:DE:HTML"
+        },
+        {
+          "text": "32023L2226",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2226:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis 1. Hauptstück Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzung von Unionsrecht und der mehrseitigen Vereinbarung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kryptowert, E-Geld und damit zusammenhängende Begriffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anbieter von Krypto-Dienstleistungen, Kryptowert-Betreiber und Krypto-Dienstleistungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Transaktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kryptowert-Nutzer und andere Personen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Institute und Unternehmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Staatlicher Rechtsträger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Versicherungs-, Rentenversicherungs-, und rückkaufsfähiger Versicherungsvertrag (Anm.: Versicherungs-, Rentenversicherungs- und rückkaufsfähiger Versicherungsvertrag)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Barwert",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beherrschende Personen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aktiver Rechtsträger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Meldepflicht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendung der Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befreiung von der Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befreiende Mitteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Meldepflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zeitpunkt, Form und Übermittlung der Meldung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identifikation von meldepflichtigen Konten und Information an zu meldenden Personen (Anm.: Identifikation von meldepflichtigen Konten und Information an die zu meldenden Personen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationsaustausch",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Registrierungspflicht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Registrierungspflichtiger Kryptowert-Betreiber",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Registrierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erteilung der individuellen Identifikationsnummer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mahnung und Widerruf der Registrierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Antrag auf Löschung aus dem zentralen Register",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erneute Registrierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Hauptstück Sorgfaltspflichten bei als Kryptowert-Nutzer agierenden natürlichen Personen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feststellung, ob die natürliche Person eine meldepflichtige Person ist",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderung der Gegebenheiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Hauptstück Sorgfaltspflichten bei als Kryptowert-Nutzer agierenden Rechtsträgern",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feststellung, ob der Rechtsträger eine meldepflichtige Person ist",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feststellung, ob der Rechtsträger eine meldepflichtige beherrschende Person hat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderung der Gegebenheiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Hauptstück Allgemeine Sorgfaltsvorschriften im Zusammenhang mit der Anwendung von Vorschriften des 5. und 6. Hauptstücks",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren zur Erfüllung der Sorgfaltspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verlass auf Selbstauskünfte und Belege",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inanspruchnahme von Dienstleistern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Selbstauskunft einer als Kryptowert-Nutzer agierenden natürlichen Person",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Selbstauskunft eines als Kryptowert-Nutzer agierenden Rechtsträgers",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durchsetzung der Informationserhebung und –überprüfung (Anm.: Durchsetzung der Informationserhebung und -überprüfung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufbewahrung der Informationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Hauptstück Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verletzung der Meldepflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verletzung der Registrierungspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verletzung der Sorgfaltspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausschluss der gerichtlichen Verfolgung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Hauptstück Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise auf andere Bundesgesetze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e32f13b16cbccfc0f64138f3720414ed68d837c1229a5c5faf0c8459686d0e50",
+      "sha256": "ec9f403f035e268d9a213b728b2c69deb4766ba8dc7dc266ed3486d3121ae7f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ccb5912715b2e87c19614d8b3889bd8f4bdb8515fd5eaacbde4506b86f67c0c2",
+      "sha256": "6b93ce7926357c1ed72a91f776446779718abcd155059631f82c2d63b849e1ee",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 112/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/112"
+        },
+        {
+          "text": "BGBl. Nr. 194/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c15b9303ad1b3ad3107a04a24d0cac5e0bfd60f0ef40efad537ad0686acc331e",
+      "sha256": "3de373f71fdde7aa44568210cb990012a18a48292134fed859c9c22932979f63",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Hauptstück Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3eddb8976c3c8541b255829063a278fb4e4b14c12384f468d0207e9ea2df4aad",
+      "sha256": "d577af3b592f851444b942c7aece7261458aef541bbd7a2067bd8b99eee164e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Anbieter von Krypto-Dienstleistungen, Kryptowert-Betreiber und Krypto-Dienstleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3efb7fbac01fd413d348e1a07d5be7852439419884970f29d9fd696b299ad0f",
+      "sha256": "ec1f9a0c0e0c429dff762341ba790a007b5ef7d15584b5e71ca718a74d6e5ee4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Transaktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4adcaae6cda0b567357b9fb1457a6756ec08e6ba4dc7b5100efd748dd3fa4921",
+      "sha256": "d35ea72743da2664605da4199a86c5a55bc25bf0697b3e4931fc5ca8f136a880",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Kryptowert-Nutzer und andere Personen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c396cea8bb950f3139c1ca6b787f4f1542a08199499dfa8bbe12195998060670",
+      "sha256": "d938e8f8e0d714f325fb2f0ad51047da0516cb9166e76c745d67ef1168444829",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Institute und Unternehmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e5cad7fd4affd5594ef8d8f7f6b7bdd8a6bce25e414763a9a6316831c5a760b",
+      "sha256": "1b17c9d6cc52c234aa13612542baaf24924aee0859f5e2e8899102c3b9071abf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Staatlicher Rechtsträger",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87ee6ee7bd0f851675483ff3d85acde7e27c1621b44a2f4029b48b7fba8bcbd6",
+      "sha256": "34d098766231b6ff51b54e60a45a86e33bb39a0210e78f0d4aaf9c85fa7dd848",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Versicherungs-, Rentenversicherungs- und rückkaufsfähiger Versicherungsvertrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2e00d64881e18dabeb6140b7412d76028f66087470466cfe986c02bafd0f18e",
+      "sha256": "efb741b6be532bb86a23cec04f120fdd32418598bc2e3a992074bb3511a7d46c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Barwert",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be43850c667c7ca15f3292cdaa1310321a90466c3b5492f120e1b598603514d4",
+      "sha256": "fd23b76549cfa82489f53ee5cad6105dde6bb96bfeb83b621e14b784053ed8da",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Beherrschende Personen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3997af31a46429cef067f35a4f10f8b3146ce4c5281753981bcab3d1d1f039db",
+      "sha256": "6379a0d7f274debc93a95ab208d84a2d0568cc3d4a18eafb4f6667015aa2f96c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Aktiver Rechtsträger",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e98756140c05820ea4c7bbc47ef335a9d94d6bcfc07634c8a8ae6be790a2994",
+      "sha256": "25af3489b86238ecd1dd388c670c3d2421a5acdbc5e6adf2ca52cad86d3123a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Sonstige Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d969c62e618abe935fd85467916c5070da45c0ef9d1e3eee66a2a29fff689df9",
+      "sha256": "e321fbd0df9cdd13a37c2af681c6b40b5f51e57c6e7ef1a4a615de82078b0372",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "3. Hauptstück Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6791e0105a6b002e2485554c7276403903981b3202ae1529b95092d9cacc7a4f",
+      "sha256": "5167362d1e99c8c50609776541dda81b6316d27152bd8cec89708e9a73f5e0ef",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Befreiung von der Meldepflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fdff4b09c67d074c8ac1e8ca35b37a00f99b42fb6e74888aeeaa783f1103ec16",
+      "sha256": "9005969b6714d5ac15d436c9b99aea26a502d2f80cb6adad31ad650270dcb536",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Befreiende Mitteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd73401137a4297a83ee137cad417e00324fad67accb4af3e2bf8e9c3dfd799f",
+      "sha256": "c2cbd85f1bab8acafe916954f1bc46fddef907227b1deb238944037bf9716931",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Allgemeine Meldepflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "42e6fcce8abd0d3843e06f2c64762f28ee9db019d5a2aa86198daaaa919167c1",
+      "sha256": "1ccb9268552f99912f1af11d46f549ce50d8e3481a2568466c3c042ecf5cd3b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Zeitpunkt, Form und Übermittlung der Meldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c81917b7ccad7b6c2d2150740c2e59cc49e68998fe27c60e99f212decfd9b14",
+      "sha256": "75dc2ae81f2cdd44e495de299630642b0128b65336df20594c19c71d0d69cb8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Identifikation von meldepflichtigen Konten und Information an die zu meldenden Personen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08ef56bfe19bfbf862467619a3f201edff97f035fb795ce2c949f795793c72ce",
+      "sha256": "ce02071c83b4d793776de81319049f1e42611841e1b892172be4c9412a73a3e0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Informationsaustausch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df1bb547c9ff54bd1c36e47f8c07e398982457de00826de650e2f981e96332a0",
+      "sha256": "915e352c539301ffd9254925732b5323e32ea9d1ba4e411bf29ae51638035b52",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "4. Hauptstück Registrierungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6dc21cbfe5104566573a52e218e3b2ebae27fe306ae229931d8c8190e2a9b473",
+      "sha256": "608e277fda69385d1ab0ca1ba01f787f54d0b84c599b4d9dc5b29d9b839fbcd2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Registrierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d33eac55ac0ce6fd91bb6a30c8059f0ebb9be3ae1e0a3ea6e493ebd2bd6211a3",
+      "sha256": "5eedee8ec4f6fcfeb248a0a419775a6e55cce8cb649acaa071f254a0b443e1ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Erteilung der individuellen Identifikationsnummer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2e57e58af232a5c9f64e8e60a10c85912987973afb48fde22b182a3f84ede3a",
+      "sha256": "a19d92969821eaf41b2b4fb9797e972df341753b406a96458f235a390ba745a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Mahnung und Widerruf der Registrierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebdaab0389958f67b703a74d833954fcae84572a0d37fabd2f80b7d05072d8fa",
+      "sha256": "63157f1350a33b0d2b04cede8ae4259537a40541658550ad365f38a48155e5bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Antrag auf Löschung aus dem zentralen Register",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "142d00a262dbaad407796a455aefa46f7070c1b5d4986b09694bfe879f9f1220",
+      "sha256": "f921ac89f295507ad1ab11bb5ee14e13dc7922da9aef90965e22055126543411",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Erneute Registrierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb958c1c9f9d927ac6cd2f9c06b9013292aebafd2f5b84b506a3491c26ac89b9",
+      "sha256": "25742a7b0beb8bfe4a918bf1bb9996fed8cb1dee7961da66e9554944b8a396bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "5. Hauptstück Sorgfaltspflichten bei als Kryptowert-Nutzer agierenden natürlichen Personen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b335a4946e88c3e3e5be411cba311a445089fa731612d0e2310e80511182e45",
+      "sha256": "2b17603d8852d70a979bc2d16fbd3f97eced9d4251980ae18d73455e2a4cec3c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Änderung der Gegebenheiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e63fc8c54a281d66b339fe8a00ee9be8a579296f73356e7bc53c9da1257df74",
+      "sha256": "5e3040ab78bd077a0c6da20f5fff66a1662f10edeae22b604fb707d00c498629",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "6. Hauptstück Sorgfaltspflichten bei als Kryptowert-Nutzer agierenden Rechtsträgern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "290f3f167b67f6bd8e4110b155244e58133e10c1cc040604884fac7f7d82f434",
+      "sha256": "21939863ce00b9a717358ff942eaf53721ae650b1da6f2b2637105fbf736379a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Feststellung, ob der Rechtsträger eine meldepflichtige beherrschende Person hat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a1863b9a5c2d5025df8ed06985377327e5a664e1ffe5edd0558798d92230a9e",
+      "sha256": "046704c7f036c9b010e35381a50bd4edffdc0e3f93a42c5212f1365d625e2e47",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Änderung der Gegebenheiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1860afff4f5ec70dcc36a646f4be459f3b650fbd71a4df777465c61e0b6d1edc",
+      "sha256": "8881bacbc9ead319e85b96759f963e84f3fdcc3a8156a5db2f168fd7c1ecdfd2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "7. Hauptstück Allgemeine Sorgfaltsvorschriften im Zusammenhang mit der Anwendung von Vorschriften des 5. und 6. Hauptstücks",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02da66a65f979a48e6ec566ea81c6b7c7e3bea0063831a3a0ed2aa0e13e6fb16",
+      "sha256": "d23a81a827dae2639a9dd6e03859583aaf042459aee6794213154f8e52b215a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Verlass auf Selbstauskünfte und Belege",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b018b051ec85ad61f256029d5eddcc0a2e4c2e2744a0bab6c42a7cece8b0683e",
+      "sha256": "002830f3ac1152fa9133ffe2c1f355368565c1af690f2b915fdd3ebdfa19fba1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Inanspruchnahme von Dienstleistern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc0a4e7039200e22a494717d4f48e39f079d83c7f72186c381fbe43ea5deb2a4",
+      "sha256": "bb54ab209a89db82447cdc925ec814eadf2bed263b91b6d0337bf66932583f76",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Selbstauskunft einer als Kryptowert-Nutzer agierenden natürlichen Person",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c691f508bafa0c6c9388dfd80e3c598cbee5a83790d07475dd4d73ee4fd74b1",
+      "sha256": "a4a637d9576787c9ce72297d402db7b288df37e7155c0f3c1f782af6ea7ead75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Selbstauskunft eines als Kryptowert-Nutzer agierenden Rechtsträgers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4efb5ff790f9be46d0865938dcb4a4ba80c2f75b710075d9359ae2708ac1271",
+      "sha256": "ad15925e8058860aef79ec4ef3ab45d35fc2ed5af16c0dae8d3078ba76cfb7a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Durchsetzung der Informationserhebung und -überprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97fea7aa338d8abd043a5b8c6a20b93fffad2854d1bfd4f5db95a0bf19e32da1",
+      "sha256": "1ba8764a135e1e9b651afa932cfc13b3dce9cba19de6626577943926ee72a204",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Aufbewahrung der Informationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "946863c4cc26accf8f13af26d3c4a9be6a5098a1a78bda9575d236d1d1ea240d",
+      "sha256": "1d96b2cfc85800bf8580f928450467109c0703d23ea1e153a02a82b469201d4f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "8. Hauptstück Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1a6a6095caa316037c10e09509db3ecf59dab6875d516efe7f5827c36988e5c",
+      "sha256": "3b31de309230698498234c62e8a0a2e10358aebc0d616f21078f920eca77cc56",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Verletzung der Registrierungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfc116c48d4126fa6b8c4fa87712caecaa8a15dee5ac95220f2067abc9bf574f",
+      "sha256": "875858d66335430e0834d3012d40c9d30c5449450cb9b092097d0c5ff72dcc46",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Verletzung der Sorgfaltspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fdd7e946f34b2e09f3db27f5187745210ec59beb4052c768e0ee3b0156272771",
+      "sha256": "26c26661d6038af5621dd667be2e3e6136577a6782565081d63ac542e55c4013",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Ausschluss der gerichtlichen Verfolgung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04aaaed71999ef83156224d04cce25ecaec154c486652c205076ac623653283b",
+      "sha256": "b20d6da17f8ddef7cd0725ea1670ea9ee586464de7944b108b2ab310ce09f006",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "9. Hauptstück Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85c2bb373d2e78dded62c70341ff0523afe8f3f0ed5ae5e1e4466df5175c1624",
+      "sha256": "d5713476955464bebcc11b25448d43159eae7c6fbef7790477cf979e4075ad52",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Verweise auf andere Bundesgesetze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1dec4033f8376176665850d2daf0dd4c38ae021a3f546d16fd5beb617921266f",
+      "sha256": "cc5d7b17a3fa4656316b7193c9a3b4aa684b169f27663de00fd69f9de9440cb4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "963d0c7a3ad31b4c3c57685c76a7de19d7fe1fef3205f6912babc536094c5368",
+      "sha256": "6f471baf17f2c78a7e9d2481ba753508da0eee8426aee2feb2fac0259568337a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

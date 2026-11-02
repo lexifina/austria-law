@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002335",
+  "short_title": "Errichtung einer Notarstelle in Vöcklamarkt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002570",
+    "valid_from": "2002-12-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002335&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:44:36.251476+00:00",
+    "response_sha256": "e5adb6dc3c3bc40ea2e3faca48fb5b3047bde74ed0af0e492ac48a321b9f1154",
+    "snapshot_sha256": "9854c98de8a47b49ffa59bb794cb5aa305e9e072368fd3f49e177e086f51f65a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c65bbd6facf821f006f7d959eaafea1d64c6e0234c4602d4753c73e328c9d664",
+      "sha256": "8a66f99ef350389323eea4661516d9fa2110c852832d91b0e0fc46c158008613",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer Notarstelle in Vöcklamarkt StF: BGBl. II Nr. 451/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 451/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_451_2/2002_451_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4fa1814833c434da0927d3196851aa635320aa500332fa1efb0bd50e19c9021f",
+      "sha256": "b6571ba603cc50e3d7eb076248f991b3414827445818e30e040e9f7089417565",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

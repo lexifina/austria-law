@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 9. April 1927, betreffend den Abschluß eines Niederlassungs- und Handelsübereinkommens mit Abessinien StF: [BGBl. Nr. 134/1927](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=134/1927&amp;SkipToDocumentPage=True>)

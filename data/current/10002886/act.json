@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002886",
+  "short_title": "Errichtung einer achten Notarstelle in Innsbruck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002909",
+    "valid_from": "1989-11-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002886&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:10:21.577754+00:00",
+    "response_sha256": "9d544b77897bcdbbf40baedb0a86ea7694d2a3107dec452cf608c5a9127ca88c",
+    "snapshot_sha256": "c6e8a9f3f6eb066a09eef8cbf1e35a3d7f598de0aa8304488359fd4ce7e9adda",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dee51a862b2ee6e9b737df2d227c69e2d47d385b30ba717d89410056d4c560bd",
+      "sha256": "2d6ec61ce2aa420febbf86941734e3c46d33ef021e4b88c2ae218f0cfd9a28d8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 16. Oktober 1989 betreffend die Errichtung einer achten Notarstelle in Innsbruck StF: BGBl. Nr. 516/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 516/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_516_0/1989_516_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb952a55c2d9b6069997e3f39ee2cd8d4b38acbd7ed15528d5c23a76db24ee90",
+      "sha256": "0271d058857f8a79fd604dd1b03226cddea26587db39187fdc9f380b1d71853d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

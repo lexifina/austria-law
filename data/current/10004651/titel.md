@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 3. April 1990 betreffend den Geltungsbereich des Internationalen Übereinkommens über das Harmonisierte System zur Bezeichnung und Kodierung von Waren und des Änderungsprotokolls zu diesem Übereinkommen StF: [BGBl. Nr. 211/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_211_0/1990_211_0.pdf>)

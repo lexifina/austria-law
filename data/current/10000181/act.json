@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000181",
+  "short_title": "Verständigung der Konsulate von den Todesfällen der Konnationalen (Ägypten)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Ägypten",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000182",
+    "valid_from": "1934-08-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000181&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:23:51.314045+00:00",
+    "response_sha256": "4fa2ab00cc33701be3f90d3f920e64d02a36bf7a356b4653d5e5a79b7bf13be3",
+    "snapshot_sha256": "7f02828399767fb12a9b8ac21e32015990f4a748feea9aa4e9b98e34a8744f38",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78faebf6a49ab81b98f229bf1d322810e35e1afc6b4a1fe4f794e883f27426bb",
+      "sha256": "e9a62cfa92f179ca2a04e036ec3fa3f94a4f3e752c70d0fd604756243593a08a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen dem Bundesstaate Österreich und dem Königreiche Ägypten, betreffend die Verständigung der beiderseitigen Konsulate von den Todesfällen ihrer Konnationalen. StF: BGBl. II Nr. 262/1934"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 262/1934",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=262/1934&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Herr Minister!",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5f11c730473af566a27686747c8a5bc743b80f51f79d65ff171ddc5e9ec6964",
+      "sha256": "dd78b90ee1fd5c354a913456ae6ce0b7a803c9a89fa2145d8c45fdd85c5639a4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Kairo, am 2. November 1932.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kairo, am 2. November 1932.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

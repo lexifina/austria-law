@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10006201",
+  "short_title": "Auffanggesellschaften für verstaatlichte Unternehmungen und Betriebe",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006314",
+    "valid_from": "1946-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006201&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:53:53.832197+00:00",
+    "response_sha256": "51347443245f1923749b7c418caaa67df179a4e99ad6b033158e2735c2d2df97",
+    "snapshot_sha256": "a30d1496a78be14056e0603e0047d955d3e72b1216b44a5ca3e4e233d36e61f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad9ffc223e23ed0168bb5063768970d15d19aa62cbdac519525ca16911463870",
+      "sha256": "94d66e56b6084e4c75fe3af67b6d63e1a07b434060a63ecf833d39d6484dc169",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Vermögenssicherung und Wirtschaftsplanung im Einvernehmen mit den beteiligten Bundesministerien vom 3. Oktober 1946 über die Bestimmung von Auffanggesellschaften für verstaatlichte Unternehmungen und Betriebe StF: BGBl. Nr. 199/1946"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 199/1946",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1946_199_0/1946_199_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54a6a2f67ee8618296c9b7c6863f74f0a037c35b04240de2429e4b4c80538dfc",
+      "sha256": "4023e6a236a8d8bf8888f63929937394dffe11267ca9bd00672db2df24907d47",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

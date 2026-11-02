@@ -1,0 +1,153 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "20013259",
+  "short_title": "Normalkostentarif",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40280384",
+    "valid_from": "2026-08-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013259&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:56:25.468087+00:00",
+    "response_sha256": "68e322ce164e551a56a3399ef2119f8f9d96a55eda3a048c83448738e0ef36f3",
+    "snapshot_sha256": "1dc829d45916f1505be19d058e6929dd4f3257a465c0b10463697798f3aeb1a1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cad6337de8c0edc5aa1b6879601ab58f8623dba4c07a8c3404af9d6cad99e8a",
+      "sha256": "c8a54d676b573dedb592210309d7c7ff1735f1696b19f1740516d53ab4851fff",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über den Normalkostentarif StF: BGBl. II Nr. 226/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 226/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/226"
+        },
+        {
+          "text": "BGBl. Nr. 189/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_189_0/1969_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/112"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b585b9a2b5040fd65ae921e5f4a8d1928788af3e5a7e11f17309488a1a311e64",
+      "sha256": "474cf100c63b00824d4e4b1e760f9b5aa60a066a1dbcfa59c803ce3f9652d620",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7bb259f50aa6fafb86d8c974111009285c188e2c1a5b7b65c631e9715d53c93",
+      "sha256": "1af3c76c3d5a8055aa33c3223d4ec1d81b32a71f956232c9b8dfb1f946f82ab1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 52/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/52"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae46841a0bd5f7a95f80e9c34124a765e2b87e50af8596cca0605c4c4b9f6770",
+      "sha256": "b142d94c47322c6c00c435a18d3e558a1b44a7e92b9cc1a74dbad8a3b5a8f84f",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlagen",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280383/II_226_2026_Anlagen.pdf",
+              "title": "PDF-Dokument: Anlagen",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280383/II_226_2026_Anlagen.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

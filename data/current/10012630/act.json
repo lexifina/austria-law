@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012630",
+  "short_title": "ADR - Vereinbarung gem. Rn. 2010 und 10 602",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11013014",
+    "valid_from": "1996-05-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012630&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:11:03.454249+00:00",
+    "response_sha256": "b6eadc35235e405f0ba3da0fcc4d181c35bcca62bc49ae09437701bf009c8c99",
+    "snapshot_sha256": "4c9a59b6b8d8f2a4bcfaf995476e0729d02b1d9e2a88a5334d684e05fd6f8632",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f54154176f75dba69cf53f1d57541ffea1657eb687401a9e65c9ceb8e13ee7d0",
+      "sha256": "338db5011a3bb51b7d47adb5b8ba126e8f1e448490b8827ce1ee5bb7de8e2553",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wissenschaft, Verkehr und Kunst betreffend Widerruf der Vereinbarung zwischen dem Bundesminister für Verkehr der Bundesrepublik Deutschland und dem Bundesminister für Verkehr der Republik Österreich gemäß Rn. 2010 und 10 602 des ADR StF: BGBl. Nr. 232/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 232/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_232_0/1996_232_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8920563fd0b32e246d41cd56754c0761852788a32170c85add59e5a34f5b84a2",
+      "sha256": "708253335afa485d54984111038c4e5f296b26abefa695fde00410ee17b5a79f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 414/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_414_0/1978_414_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 357/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_357_0/1995_357_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

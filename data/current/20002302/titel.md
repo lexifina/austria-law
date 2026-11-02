@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Abfallvermeidung, Sammlung und Behandlung von Altfahrzeugen (Altfahrzeugeverordnung) StF: [BGBl. II Nr. 407/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_407_2/2002_407_2.pdf>) \[CELEX-Nr.: [300L0053](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0053:DE:HTML>)\]
+
+Auf Grund der §§ 14, 23 und 36 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), [BGBl. I Nr. 102/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf>), wird vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit verordnet:

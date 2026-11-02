@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend Widerruf der Vereinbarung zwischen dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich und dem Verkehrsminister der Bundesrepublik Deutschland nach Rn. 2010 ADR über die Beförderung von magnesium-imprägniertem Koks mit einem durchschnittlichen Magnesiumgehalt von 42,5%, höchstens jedoch 48,0%, als Stoff der Klasse 4.3, Ziff. 1d StF: [BGBl. Nr. 463/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_463_0/1994_463_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

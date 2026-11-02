@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 16. September 1959 über den Geltungsbereich des Protokolls, betreffend das Office International dʻHygiène Publique. StF: [BGBl. Nr. 221/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_221_0/1959_221_0.pdf>)

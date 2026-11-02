@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000087",
+  "short_title": "Vertragsregime mit der Schweiz",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000087",
+    "valid_from": "1926-03-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000087&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:22:28.838771+00:00",
+    "response_sha256": "72a0ab0d81ed88ac34413540223ed64378c6bb760987575a6f173e9a8037e26d",
+    "snapshot_sha256": "5dd5e6ebb16274d1f15fb4f3811d540e8ca7f0947acda09701f490c02e92a34a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0328859b77ce697a885c6f098a19de83cdefd6ad9b09f06c729ca9d1cd46584d",
+      "sha256": "69cd06a678d99a6b4e974995a8948315604af9d72610f60a8f1c2b3fd7edda25",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 17. März 1926, betreffend die Regelung des Vertragsregimes mit der Schweizerischen Eidgenossenschaft. StF: BGBl. Nr. 56/1926"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 56/1926",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=56/1926&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67c90cf5759c058831dec6e628782fd9c1dcd5315b5453bc2d2a790b24a89c45",
+      "sha256": "746e24abc64e67c8733fe9f5401a74a4df3ae46ede89a73e9c751d670687a3d0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

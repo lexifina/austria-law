@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Unterricht, Kunst und Kultur über die Einstufung der Studienfachbereiche und Lehrveranstaltungen an den öffentlichen Pädagogischen Hochschulen im Bereich des Bundesministeriums für Unterricht, Kunst und Kultur (Hochschul-Einstufungsverordnung) StF: [BGBl. II Nr. 258/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/258>)
+
+Auf Grund des § 7 Abs. 1 des Bundesgesetzes über das Ausmaß der Lehrverpflichtung der Bundeslehrer, [BGBl. Nr. 244/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_244_0/1965_244_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 123/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_123_1/1998_123_1.pdf>), wird verordnet:

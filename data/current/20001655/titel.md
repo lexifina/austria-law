@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über die Überwachung des Fernmeldeverkehrs (Überwachungsverordnung – ÜVO) StF: [BGBl. II Nr. 418/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_418_2/2001_418_2.pdf>)
+
+Auf Grund des § 89 des Telekommunikationsgesetzes, [BGBl. I Nr. 100/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_100_1/1997_100_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 32/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_32_1/2001_32_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Inneres und dem Bundesminister für Justiz verordnet:

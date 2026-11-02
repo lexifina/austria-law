@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001566",
+  "short_title": "VfGH-Ausspruch, dass Punkt 33 der Krankenordnung der Versicherungsanstalt öffentlich Bediensteter gesetzwidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001588",
+    "valid_from": "1999-05-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001566&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:49:10.650321+00:00",
+    "response_sha256": "86fb8b180988cc3d25c21b3943c0108fb0f83db812e590e760db9ba1d011ae0a",
+    "snapshot_sha256": "b991070cd670e7af341342939711cf708c300d135fa10496fea03359f02c21ad",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f177684f1f8795a35a7e55d211283fe4e04f7ca24da9fe441762af1f2e7bc70f",
+      "sha256": "21afab18d2eba4e076745a9385dd7730686cb9eb453772dc22d009aa32155bc0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Arbeit, Gesundheit und Soziales über den Ausspruch des Verfassungsgerichtshofes, dass Punkt 33 der Krankenordnung der Versicherungsanstalt öffentlich Bediensteter gesetzwidrig war StF: BGBl. II Nr. 142/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 142/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_142_2/1999_142_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "065753b5a4635a87c4d38c83b837748f4bd50a72baaa930f66e3e59a25495a1d",
+      "sha256": "723a6f5197bd4bb6925f8e0ea918e0fd6e7efd13fb4e4bcc3d5768aca82e9016",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

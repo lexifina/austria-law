@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über Angaben der Herkunft von Zutaten in Speisen, die in Einrichtungen der Gemeinschaftsverpflegung abgegeben werden StF: [BGBl. II Nr. 65/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/65>)
+
+Auf Grund der §§ 4 Abs. 3 und 6 Abs. 1 und 2 des Lebensmittelsicherheits- und Verbraucherschutzgesetzes – LMSVG, [BGBl. I Nr. 13/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 256/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/256>), wird im Einvernehmen mit dem Bundesminister für Arbeit und Wirtschaft verordnet:

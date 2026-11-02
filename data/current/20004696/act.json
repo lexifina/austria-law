@@ -1,0 +1,123 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004696",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes der Gemeinden Korneuburg und Leobendorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005126",
+    "valid_from": "2006-03-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004696&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:18:31.165935+00:00",
+    "response_sha256": "c411f7cc1b80366756f4ba701d18ca148d776bad36714287a17597f80a4f06a7",
+    "snapshot_sha256": "d80d3d9c26f88d38e946767e66619e73f68bc40c0e7156c883468e4dd71b7fe3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "23520f713bc1e3e253ac4a49021fc49890cbf445a595473ac47477d9201c959e",
+      "sha256": "f028bc086027c0868e1dec11ce332eef747557834bde07f7c85660ec1a5f264f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Korneuburg und Leobendorf StF: BGBl. II Nr. 125/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 125/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/125"
+        },
+        {
+          "text": "BGBl. I Nr. 154/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/154"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91db797d329c21449fcaf41e1ebe6a9bff49ca2f76301bdbefa34d26781b9a1c",
+      "sha256": "c100728030cb5f689b5e44a8f3ec3208de639a54beb33b8f257f7cbccfc3f2aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "662811265aa856ff4bb87d900df89cdaf31b850e02e5d9c33100fe5725066bcb",
+      "sha256": "f673440009500f8b6cd6ff4995914da8b1cf202ea955947a320422aa427e9c88",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40077063/ii_125_2006__Anhang_1.pdf",
+              "title": "PDF-Dokument: Anlage",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40077063/ii_125_2006__Anhang_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

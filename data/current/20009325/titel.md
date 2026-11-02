@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft, mit der die Bundesrechenzentrum GmbH mit der Errichtung, Betrieb und Wartung einer Datenbank für das Energieeffizienz-Monitoring betraut wird StF: [BGBl. II Nr. 323/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/323>)
+
+Auf Grund des § 2 Abs. 6 des Bundesgesetzes über die Bundesrechenzentrum GmbH (BRZ GmbH), [BGBl. Nr. 757/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

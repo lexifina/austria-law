@@ -1,0 +1,1 @@
+Gesetz, betreffend die privatrechtlichen Verhältnisse der Binnenschiffahrt. StF: [dRGBl. S 868/1898](<https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1898_025_0868.jpg?uselang=de>)

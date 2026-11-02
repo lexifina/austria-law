@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. April 1953, betreffend den Beitritt Libyens zum Abkommen über die internationale Zivilluftfahrt StF: [BGBl. Nr. 57/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_57_0/1953_57_0.pdf>)

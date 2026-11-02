@@ -1,0 +1,71 @@
+## Anlage A
+
+## Anwendung der Bestimmungen des 2. Abschnitts des 2. Teils der COVID-19-Schulverordnung 2020/21
+
+Die Bestimmungen des 2. Abschnitts des 2. Teils, Bestimmungen über die Ampelphase „Gelb“, der COVID-19-Schulverordnung 2020/21 sind auf folgende Schulen oder Teile von diesen anzuwenden:
+
+- 1\. die folgenden Praxisschulen gemäß § 1 Abs. 3 Z 1 des Bildungsdirektionen-Einrichtungsgesetzes – BD-EG, [BGBl. I Nr. 138/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/138>):
+
+  - a) Praxismittelschule der Pädagogischen Hochschule in Wien, 1100 Wien, Grenzackerstraße 18/Ettenreichgasse 45, SKZ 910032,
+
+  - b) Praxisvolksschule der Pädagogischen Hochschule in Wien, 1100 Wien, Grenzackerstraße 18, SKZ 910221,
+
+  - c) Private Praxismittelschule Strebersdorf der Hochschulstiftung der Erzdiözese Wien, 1210 Wien, Mayerweckstraße 1, SKZ 921112,
+
+  - d) Private Volksschule Strebersdorf der Privaten Pädagogischen Hochschule – Hochschulstiftung Erzdiözese Wien, 1210 Wien, Mayerweckstraße 1, SKZ 921201,
+
+  - e) Praxismittelschule der Pädagogischen Hochschule Steiermark, 8010 Graz, Hasnerplatz 12, SKZ 601272,
+
+  - f) Praxisvolksschule der Pädagogischen Hochschule Steiermark, 8010 Graz, Hasnerplatz 12, SKZ 601541,
+
+  - g) Praxisvolksschule der Privaten Pädagogischen Hochschule der Stiftung der Diözese Graz-Seckau, 8010 Graz, Lange Gasse 2, SKZ 601571,
+
+  - h) Private Volksschule Krems der Privaten Pädagogischen Hochschule – Hochschulstiftung Erzdiözese Wien, 3500 Krems an der Donau, Dr.-Gschmeidler-Straße 22-30, SKZ 301071,
+
+  - i) Praxismittelschule der Pädagogischen Hochschule in Niederösterreich, 2500 Baden, Pelzgasse 13-17, SKZ 306022,
+
+  - j) Praxisvolksschule der Pädagogischen Hochschule in Niederösterreich, 2500 Baden, Mühlgasse 67, SKZ 306471,
+
+  - k) Neue Praxismittelschule der Pädagogischen Hochschule in Oberösterreich, 4020 Linz, Donau, Lederergasse 35, SKZ 401282,
+
+  - l) Private Praxismittelschule der Privaten Pädagogischen Hochschule der Diözese Linz, 4020 Linz, Donau, Salesianumweg 5, SKZ 401292,
+
+  - m) Praxisvolksschule der Pädagogischen Hochschule in Oberösterreich, 4020 Linz, Donau, Lederergasse 35, SKZ 401501,
+
+  - n) Praxisvolksschule der Privaten Pädagogischen Hochschule der Diözese Linz, 4020 Linz, Donau, Kapuzinerstraße 51, SKZ 401531,
+
+  - o) Praxismittelschule der Pädagogischen Hochschule in Vorarlberg, 6800 Feldkirch, Liechtensteiner Straße 33-37, SKZ 804092,
+
+  - p) Praxisvolksschule der Pädagogischen Hochschule in Vorarlberg, 6800 Feldkirch, Liechtensteiner Straße 33-37, SKZ 804431,
+
+  - q) Praxismittelschule der Pädagogischen Hochschule in Kärnten, 9020 Klagenfurt, Hubertusstraße 1, SKZ 201152,
+
+  - r) Praxisvolksschule der Pädagogischen Hochschule in Kärnten, 9020 Klagenfurt, Hubertusstraße 1, SKZ 201201;
+
+- 2\. die Zentrallehranstalten gemäß § 1 Abs. 3 Z 2 bis 6 BD-EG;
+
+- 3\. die folgenden höheren land- und forstwirtschaftlichen Lehranstalten:
+
+  - a) Höhere Bundeslehr- und Forschungsanstalt für Landwirtschaft Raumberg-Gumpenstein, 8952 Irdning-Donnersbachtal, Raumberg 38, SKZ 612730,
+
+  - b) Private Höhere Lehranstalt für Landwirtschaft und Ernährung des Schulvereins der Grazer Schulschwestern, 8020 Graz, Georgigasse 84, SKZ 601790,
+
+  - c) Höhere Bundeslehranstalt für Forstwirtschaft, 8600 Bruck an der Mur, Dr.-Theodor-Körner-Straße 44, SKZ 621710,
+
+  - d) Höhere Bundeslehr- und Forschungsanstalt für Gartenbau Schönbrunn und Österreichische Bundesgärten, 1130 Wien, Grünbergstraße 24, SKZ 913710,
+
+  - e) Höhere Bundeslehranstalt für Landwirtschaft und Ernährung Elmberg, 4040 Linz, Elmbergweg 65, SKZ 401730,
+
+  - f) Höhere Landwirtschaftliche Bundeslehranstalt, 4490 Sankt Florian, Fernbach 37, SKZ 410730,
+
+  - g) Forstfachschule des Bundes Traunkirchen, 4801 Traunkirchen, Forstpark 1, SKZ 407740,
+
+  - h) Private katholische Höhere Lehranstalt für Landwirtschaft des Schulträgervereins Marienberg in Bregenz, 6845 Hohenems, Rheinhofstraße 16, SKZ 803720,
+
+  - i) Höhere Bundeslehr- und Forschungsanstalt für Landwirtschaft, Landtechnik sowie Lebensmittel- und Biotechnologie Francisco-Josephinum, 3250 Wieselburg, Schloss Weinzierl 1, SKZ 320720,
+
+  - j) Höhere Bundeslehranstalt und Bundesamt für Wein- und Obstbau, 3400 Klosterneuburg, Wiener Straße 74, SKZ 321720,
+
+  - k) Höhere Bundeslehranstalt für Landwirtschaft und Ernährung Sitzenberg, 3454 Sitzenberg-Reidling, Schlossbergstraße 4, SKZ 321730,
+
+  - l) Höhere Bundeslehranstalt für Landwirtschaft und Ernährung Pitzelstätten, 9061 Klagenfurt-Wölfnitz, Glantalstraße 59, SKZ 201760.

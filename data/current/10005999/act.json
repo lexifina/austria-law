@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005999",
+  "short_title": "Schengener Übereinkommen - Durchführung - Beitritt Österreich - IDAT",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006100",
+    "valid_from": "1997-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005999&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:50:46.699305+00:00",
+    "response_sha256": "6b09e97bec419a1e2810fcc173fb561ef0b960f2ea42dac21bdbc7b797513830",
+    "snapshot_sha256": "88e2b78d7c39e3353a4eb168af71246a3b1d9e2111f076f18740badc7bdae0d7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ff5b995966eedd3c8fac299f752253d68fc90147937905a701c44f7f3aae951",
+      "sha256": "49f43b81aaf4f2c8ea518e8d1c2281ec9d1293be62795897d0fe5aebc3f94cd7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend das Inkrafttreten des Übereinkommens über den Beitritt der Republik Österreich zu den am 19. Juni 1990 in Schengen unterzeichneten Übereinkommen zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 zwischen den Regierungen der Staaten der Benelux-Wirtschaftsunion, der Bundesrepublik Deutschland und der Französischen Republik betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen, dem die Italienische Republik, das Königreich Spanien und die Portugiesische Republik sowie die Griechische Republik jeweils mit den Übereinkommen vom 27. November 1990, vom 25. Juni 1991 und vom 6. November 1992 beigetreten sind StF: BGBl. III Nr. 203/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 203/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_203_3/1997_203_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83cccbb31ee46b7e02a21df5555d4adc1ded714121b44714144037a20483e05e",
+      "sha256": "55e138b58ad21a1b17d04ec3c6a1003da2e159d3ce321b156f1abaf6cf3b02f3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 90/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_90_3/1997_90_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

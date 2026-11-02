@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über Pharmakovigilanzanforderungen und Pharmakovigilanzmeldungen (Pharmakovigilanz-Verordnung 2013 – PhVO 2013) StF: [BGBl. II Nr. 299/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/299>) \[CELEX-Nr.: [32001L0082](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0082:DE:HTML>), [32004L0028](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0028:DE:HTML>)\]
+
+Auf Grund der §§ 75a, 75g Abs.1 sowie § 94h Abs. 7 und 8 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 48/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/48>), wird verordnet:

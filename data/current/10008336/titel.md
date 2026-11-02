@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Verwaltung vom 1. August 1974 über die Einhebung der Betriebsrats(Zentralbetriebsrats)umlage, über die Errichtung, Verschmelzung, Trennung, Auflösung und Verwaltung des Betriebsrats(Zentralbetriebsrats)fonds, über die Revision seiner Gebarung und die Rechte und Pflichten der Revisionsorgane sowie über die Wahl der Rechnungsprüfer und ihre Geschäftsführung (Betriebsratsfonds-Verordnung 1974) StF: [BGBl. Nr. 524/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_524_0/1974_524_0.pdf>)
+
+Auf Grund des § 161 Abs. 1 Z 3 bis 5 des Arbeitsverfassungsgesetzes (ArbVG), [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), wird verordnet:

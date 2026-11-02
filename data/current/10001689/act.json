@@ -1,0 +1,95 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001689",
+  "short_title": "Vorgang bei der Erledigung des Besetzungsaktes über eine Notarstelle",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001711",
+    "valid_from": "1885-02-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "In das JMVBl. aufgenommene Verordnungen galten den Justizbehörden gegenüber mit der Zustellung des Verordnungsblattes an sie als kundgemacht. Mangels eines einheitlichen Inkrafttretensdatums wird für die Dokumentation die Inkrafttretensregelung für das Reichsgesetzblatt (RGBl. Nr. 113/1869: 45 Tage nach Kundmachung) sinngemäß angewendet."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001689&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:50:37.046129+00:00",
+    "response_sha256": "ac2b55ce3624e18ae631e8f1b2c15bb2e065207df174d3241bfe85d80522b4e0",
+    "snapshot_sha256": "305fcec04955f8923c0087d3f42b170129b4433184a7583beab9ea9263ccc983",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf7f53d8116ea0d5bac90f3397470f78ea3e3172eac78ad6db829257a737c86c",
+      "sha256": "ac4ecded17556b2bffc5cce43f40377e8fd072abbd3b0c316a188e476654612d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "In das JMVBl. aufgenommene Verordnungen galten den Justizbehörden gegenüber mit der Zustellung des Verordnungsblattes an sie als kundgemacht. Mangels eines einheitlichen Inkrafttretensdatums wird für die Dokumentation die Inkrafttretensregelung für das Reichsgesetzblatt (RGBl. Nr. 113/1869: 45 Tage nach Kundmachung) sinngemäß angewendet."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Justizministeriums vom 31. December 1884, Z. 19668, betreffend den Vorgang bei der Erledigung des Besetzungsactes über eine Notarstelle. StF: JMVBl. Nr. 5/1885"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fafc6f775993617a76b87689e389b031a4f3f1671bf06fc29402ff20ca087286",
+      "sha256": "538ef890747453d9a0dec649857d8f7a843f7b7874b9ca1df686801d3e3b02dd",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "In das JMVBl. aufgenommene Verordnungen galten den Justizbehörden gegenüber mit der Zustellung des Verordnungsblattes an sie als kundgemacht. Mangels eines einheitlichen Inkrafttretensdatums wird für die Dokumentation die Inkrafttretensregelung für das Reichsgesetzblatt (RGBl. Nr. 113/1869: 45 Tage nach Kundmachung) sinngemäß angewendet."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

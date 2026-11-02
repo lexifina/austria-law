@@ -1,0 +1,1 @@
+Artikel 8bis. Der Eigentümer einer internationalen Marke kann jederzeit durch eine an die Behörde des Ursprungslandes der Marke gerichtete Erklärung auf den Schutz in einem oder in mehreren der vertragschließenden Länder verzichten; die Erklärung wird dem Internationalen Bureau mitgeteilt und von diesem den durch den Verzicht betroffenen Ländern bekanntgegeben.

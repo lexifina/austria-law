@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, Soziales, Gesundheit und Konsumentenschutz, mit der die Lehrlingsentschädigung für Zahntechniker und Zahntechnikerinnen festgesetzt wird StF: [BGBl. II Nr. 62/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/62>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit und Konsumentenschutz ist gemäß § 26 Abs. 1 Arbeitsverfassungsgesetz, [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 104/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/104>) ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft die Lehrlingsentschädigung festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit und Konsumentenschutz hat mit Beschluss vom 27. Februar 2019 nach Durchführung einer Senatsverhandlung nachstehende Lehrlingsentschädigung festgesetzt:

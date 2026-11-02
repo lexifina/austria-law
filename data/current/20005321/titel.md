@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Quartalsberichte und Kreditrisikobegrenzung von Finanzkonglomeraten (Finanzkonglomeratsquartalsberichts-Verordnung – FK-QUAB-V) StF: [BGBl. II Nr. 101/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/101>)
+
+Auf Grund des § 9 Abs. 5 und des § 14 Abs. 5 des Finanzkonglomerategesetzes – FKG, [BGBl. I Nr. 70/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/70>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 141/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/141>), wird - betreffend § 14 Abs. 5 FKG mit Zustimmung des Bundesministers für Finanzen - verordnet:

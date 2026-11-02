@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers über die Aufhebung eines Wortes im Eingangssatz des § 1 Abs. 1, eines Wortes in § 1 Abs. 3 und einer Wortfolge in § 4a Abs. 1 des Betriebshilfegesetzes durch den Verfassungsgerichtshof sowie über den Ausspruch des Verfassungsgerichtshofes, daß die Worte ,,Mütter'' im ersten Satz des § 4a Abs. 4 des Betriebshilfegesetzes verfassungswidrig waren StF: [BGBl. I Nr. 48/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_48_1/1998_48_1.pdf>)
+
+Gemäß Art. 140 Abs. 5 und 6 B-VG und gemäß § 64 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

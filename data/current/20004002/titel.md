@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 19. Mai 1959 über die Annahme der durch das Protokoll vom 11. Dezember 1946 abgeänderten Abkommen, Übereinkommen und Protokolle, betreffend die Suchtgifte, durch weitere Staaten. StF: [BGBl. Nr. 135/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_135_0/1959_135_0.pdf>)

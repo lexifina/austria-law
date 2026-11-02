@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentrechtsübereinkommen) vom 5. Oktober 1973 in der Fassung der Akte zur Revision vom 17. Dezember 1991 und der Akte zur Revision vom 29. November 2000 StF: [BGBl. III Nr. 90/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2012/90>)

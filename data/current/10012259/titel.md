@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf der Vereinbarung zwischen dem Bundesminister für Verkehr der Bundesrepublik Deutschland und dem Bundesminister für Verkehr der Republik Österreich nach Rn. 2010 des ADR über die Beförderung von Cyanurchlorid (Kristallin) in Transportgefäßen aus Kunststoff mit einem Fassungsraum von höchstens 1 250 Litern StF: [BGBl. Nr. 367/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_367_0/1993_367_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

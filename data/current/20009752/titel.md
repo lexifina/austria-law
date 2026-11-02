@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control betreffend die Anordnung statistischer Erhebungen über gasförmige Energieträger jeder Art (Gasstatistikverordnung 2017 – GStat-VO 2017) StF: [BGBl. II Nr. 417/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/417>)
+
+Aufgrund § 147 Gaswirtschaftsgesetz 2011 (GWG 2011), [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), zuletzt geändert durch [BGBl. II Nr. 226/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/226>), iVm § 7 Abs. 1 Energie-Control-Gesetz – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>), zuletzt geändert durch [BGBl. I Nr. 174/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/174>), wird verordnet:

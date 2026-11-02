@@ -1,0 +1,1 @@
+Verordnung der Bundesregierung vom 4. Juli 1967 über die Durchführung der Wahl der Personalvertreter bei den Dienststellen des Bundes (Bundes-Personalvertretungs-Wahlordnung – PVWO) StF: [BGBl. Nr. 215/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_215_0/1967_215_0.pdf>)

@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Verzicht auf gewisse administrative und phytosanitäre Behinderungen bei der Einfuhr von Pflanzen, Pflanzenteilen, Pflanzenerzeugnissen und Erde StF: [BGBl. Nr. 340/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_340_0/1970_340_0.pdf>)

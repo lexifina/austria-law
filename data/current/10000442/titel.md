@@ -1,0 +1,3 @@
+Bundesgesetz über die Haftung der Organe der Gebietskörperschaften und der sonstigen Körperschaften und Anstalten des öffentlichen Rechts für Schäden, die sie dem Rechtsträger in Vollziehung der Gesetze unmittelbar zugefügt haben (Organhaftpflichtgesetz – OrgHG) StF: [BGBl. Nr. 181/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_181_0/1967_181_0.pdf>) (NR: GP XI [RV 206](<https://www.parlament.gv.at/gegenstand/XI/I/206>) [AB 467](<https://www.parlament.gv.at/gegenstand/XI/I/467>) [S. 55.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/55>) BR: [S. 254.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/254>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009273",
+  "short_title": "Evangelisches Jugendwerk",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009464",
+    "valid_from": "1963-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009273&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:29:52.062246+00:00",
+    "response_sha256": "b61c5c939793c7aa6b2f084450ce5d05f3ee4e89da66ba93ba5d87366feb2de7",
+    "snapshot_sha256": "eda38fbc121afb8afa46f9c0f0c823a0b017c98a440581a4ea7641fb188e16a8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "edfb2c598d3151bcae929d9fc5179f0e82577d952319d738907373aa391ec7ae",
+      "sha256": "56c249cb7572792a73f61553b8033f33c40127a9fb7a9f18075f34a130cff0a1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Unterricht vom 25. Oktober 1963 über die Rechtspersönlichkeit des Evangelischen Jugendwerks in Österreich StF: BGBl. Nr. 336/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 336/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_336_0/1963_336_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "056c8a1cdea15940766279b34959f19c804b52b285faca79a61977c0d92a5520",
+      "sha256": "a2a4dc2d0f598695572b2104e21e0c9a549de2d153a87aa31fff34d5744835a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

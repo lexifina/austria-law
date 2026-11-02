@@ -1,0 +1,3 @@
+Bundesgesetz vom 4. Dezember 1979 über die Auslieferung und die Rechtshilfe in Strafsachen (Auslieferungs- und Rechtshilfegesetz – ARHG) StF: [BGBl. Nr. 529/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_529_0/1979_529_0.pdf>) (NR: GP XV [RV 4](<https://www.parlament.gv.at/gegenstand/XV/I/4>) [AB 144](<https://www.parlament.gv.at/gegenstand/XV/I/144>) [S. 13.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/13>) BR: [2041](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2041>) [AB 2050](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2050>) [S. 390.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/390>))
+
+Der Nationalrat hat beschlossen:

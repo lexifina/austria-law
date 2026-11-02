@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Dokumentation und Meldung von Daten aus dem ambulanten und stationären Bereich (Gesundheitsdokumentationsverordnung – GD-VO) StF: [BGBl. II Nr. 367/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/367>)
+
+Aufgrund des § 4 Abs. 1 und 2, § 6g sowie § 8 Abs. 2 des Bundesgesetzes über die Dokumentation im Gesundheitswesen, [BGBl. Nr. 745/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_745_0/1996_745_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 191/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/191>), wird verordnet:

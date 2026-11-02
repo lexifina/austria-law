@@ -1,0 +1,2192 @@
+{
+  "sample_only": false,
+  "included_provisions": 13,
+  "source_provision_count": 13,
+  "schema_version": 1,
+  "gesetzesnummer": "20001998",
+  "short_title": "Emissionskatasterverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002182",
+    "valid_from": "2002-06-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001998&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:40:04.111789+00:00",
+    "response_sha256": "d75a094d3959a9ebfa90c71d060923bf2dbae3f526fd36ccb99ffaf1940ff5e9",
+    "snapshot_sha256": "de014aac54158647d6ad1168ba53edcf2dfc0c497ffbf37c67325de2ca0a4a2d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bcf6f5a08c376bea9d9df18ada5d9d622dd105195be8b177eadebe41628abf49",
+      "sha256": "aa273703e4c7082835afb451bc2885f82a6ee1c5c015c4dc8e12da1e19dfc9ab",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Inhalt und Umfang der Emissionskataster (Emissionskatasterverordnung) StF: BGBl. II Nr. 214/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 214/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_214_2/2002_214_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 115/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_62_1/2001_62_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Luftschadstoffe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c526e72fd6d9fecd74f878d62085519bb7d555f4b41c5dea88568a8dce672726",
+      "sha256": "02f772c8fb2f307fc67eee4380fbb85577accb7a0cadad032f2983cbfe117c6d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 115/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_115_1/1997_115_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Luftschadstoff mit Überschreitung des Immissionsgrenzwertes",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Luftschadstoff(e), dessen (deren) Emissionskataster zu erstellen ist (sind)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schwefeldioxid",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe aus Schwefeldioxid und Schwefeltrioxid angegeben als SO2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Stickstoffdioxid und Stickstoffoxide",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe aus Stickstoffmonoxid und Stickstoffdioxid angegeben als NO2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kohlenmonoxid",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kohlenmonoxid",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schwebestaub",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Staub 1)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "PM10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "PM10 1)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Benzol",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Benzol",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Emittenten/Emittentengruppen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eef8bfc35f4a5ab6efca0c93a9e28c726493b58c1ae0fcf5c3a9e829f52d6f00",
+      "sha256": "30f726e55278431415ec4ea4671a7ec8591a1e40c2cc4df0ac78ee71330936d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Räumliche Auflösung und Genauigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "98cef3342856fc5f50be3871f8b463911f13e1b2cbf6cb397fd0fa2e6ddd48b4",
+      "sha256": "afb909ecbc5129f8c694f07f65fbc6efdd6b6a4d58ed00af80b29fa63eca969f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Sanierungsgebiet",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "räumliche Auflösung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gemeinde oder kleiner",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe III (detailliert)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Bundesland bzw. Teile des Bundeslandes, die mehr als eine Gemeinde umfassen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe II (kleinräumig)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "gesamtes Bundesgebiet",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe I (großräumiger Überblick)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Emittentengruppe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe I (großräumiger Überblick)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe II (kleinräumig)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe III (detailliert)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(1) Kraft- und Fernheizwerke",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ab 50 MW Brennstoff-Wärmeleistung Vollerhebung, sonst statistische Daten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ab 10 MW Brennstoff-Wärmeleistung Vollerhebung, sonst statistische Daten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollerhebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(2) Sachgütererzeugung in Arbeitsstätten mit einer Beschäftigtenzahl von 20 Personen und mehr",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken und Kenngrößen, vor allem Energiestatistiken und Arbeitsstättenzählung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollerhebung bei Betrieben mit 50 und mehr Beschäftigten, darunter Benützung vorhandener Statistiken und Kenngrößen sowie Erhebung mittels Stichproben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollerhebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(3) Sachgütererzeugung in Arbeitsstätten mit einer Beschäftigtenzahl von weniger als 20 Personen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken und Kenngrößen, vor allem Energiestatistiken und Arbeitsstättenzählung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken und Kenngrößen sowie Erhebung mittels Stichproben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollerhebung bei produktionsspezifischen Emissionen, sonst wie Genauigkeitsstufe II",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(4) Landwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken und Kenngrößen (zB Viehzählung, Handelsdüngerabsatz, Energiekennzahlen)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "bei Trocknungsanlagen ab 0,5 MW: Vollerhebung; bei Glashäusern: Energiekennzahlen (zB Glashausflächen), sonst wie Genauigkeitsstufe I",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollerhebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(5) Haushalte",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken und Kenngrößen, vor allem Gebäude- und Wohnungszählung (Gliederung der Wohnfläche nach Brennstoff), sowie Mikrozensus",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Gebäude- und Wohnungszählung (Gliederung der Wohnfläche nach Brennstoff und Heizungsart), sowie Mikrozensus unter besonderer Berücksichtigung von Gas- und Fernwärme-Versorgungsgebieten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Gebäude- und Wohnungszählung (Gliederung der Wohnfläche nach Brennstoff, Heizungsart, Gebäudeart und Gebäudealter), sowie Erhebung mittels Stichproben unter besonderer Berücksichtigung von Gas- und Fernwärme-Versorgungsgebieten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(6) Fremdenverkehr",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Energiestatistiken, Übernachtungszahlen und Arbeitsstättenzählung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Energiestatistiken und Übernachtungszahlen unter Berücksichtigung der Bettenkategorien; Vollerhebung bei Betrieben mit mehr als 150 Betten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "wie Genauigkeitsstufe II",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(7) Handel",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Energiestatistiken und Arbeitsstättenzählung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken sowie Erhebung mittels Stichproben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "wie Genauigkeitsstufe II",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(8) Natur",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "diverse Unterlagen, zB über die Flächennutzung, Forstinventur sowie meteorologische Daten",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "(9) Sonstige ortsfeste Emittenten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Energiestatistiken und Arbeitsstättenzählung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung vorhandener Statistiken, vor allem Energiestatistik und Arbeitsstättenzählung, sowie Erhebung mittels Stichproben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollerhebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Unter Vollerhebung ist eine möglichst vollständige Einzelerfassung emissionsrelevanter Daten zu verstehen. Diese kann vorhandene Emissionsmessungen, Emissionserklärungen und sonstige Erhebungen erforderlicher Daten umfassen.",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "Bei einer Erhebung mittels Stichproben werden Daten von einer repräsentativen Auswahl relevanter Emittenten erhoben. Die Daten können aus Emissionsmessungen, Emissionserklärungen und sonstigen Erhebungen (zB Fragebögen) stammen. Sinkt die Anzahl der Emittenten in einem Sektor unter 5, ist eine Vollerhebung vorzunehmen.",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Erhebungsgegenstand",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe I (großräumiger Überblick)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe II (kleinräumig)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genauigkeitsstufe III (detailliert)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Emissionsquelle",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Autobahnen, Schnell- und Bundesstraßen als Linienquellen, Rest als Flächenquellen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Autobahnen, Schnell-, Bundes- und Landesstraßen als Linienquellen, Rest als Flächenquellen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Autobahnen, Schnell-, Bundes- und Landesstraßen sowie verkehrsrelevante Gemeindestraßen als Linienquellen, Rest als Flächenquellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verkehrsmengen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "aus bestehenden Verkehrszählungen (Bund, Länder, sonstige) sowie Abschätzung des Flächenverkehrs",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "aus bestehenden Verkehrszählungen (Bund, Länder, sonstige) sowie mathematischen Modellen, Dringlichkeitsreihungen der Behörden und ähnlichem; Abschätzung des Flächenverkehrs",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "aus vorhandenen und speziellen Verkehrszählungen sowie Abschätzung des Flächenverkehrs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Fahrcharakteristik",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "nach Straßenart",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "mittlere Fahrgeschwindigkeit aus bestehenden Unterlagen mit Stichprobenerhebung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "stichprobenartige Verteilung von Fahrzyklen (einschließlich Stauneigung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Emissionsfaktoren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "aus der Literatur",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "wie Genauigkeitsstufe I, jedoch unter besonderer Berücksichtigung der Flottenstatistik",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "wie Genauigkeitsstufe II unter der Berücksichtigung des „stop and go“-Verkehrs bei Staus",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Straßencharakteristik",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "nicht zu berücksichtigen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steigung, absolute Höhe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "wie Genauigkeitsstufe II",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Lage von Emissionsquellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f749b24e80da3d411e324f4b765412f05fa0d3c11513d31b38c3efe726a157a4",
+      "sha256": "a2b84e723a7daf4ae6cffc8905a227de00f9f5cf237befdb90c401a51dac74e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Emissionsdaten und Emissionsfaktoren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a85cfb5e855da8e8d199e33f4505dd77d80563ca02c700de53cea0077462614c",
+      "sha256": "ebdf1635ef78b5c9e759d58a359f88051b627a78bd56d3d2a9870122ba583aa9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Einzelquellen und Linienquellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "023d6f4883f3117212b17e3dc561858ab31c7c5410e293240a158f5fe30f23e9",
+      "sha256": "d2066cb93dd5baa0b62335b4564c5ea4079afbf735abb550bce2ed5a4016425b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Bezugszeitraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "84fbb1fb8f6b1167f4949963829ae322665aaeb856558bea8d6ee4333044bb0c",
+      "sha256": "9a288ae557f1cf5db7def322aebf05b95f1064a119ef64b27ada8be6559df616",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Fortschreibung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a183dd2e688701012b73c2ea702a91c9f0ee635bfb53ef55deb0765f8f7e845",
+      "sha256": "cc571c99fe882a904ff85cebeedd6ccfc85aa62a2a63a34d9a1884a0501fe438",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1 zu § 2 Emittenten/Emittentengruppen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df539420386f6f88a6c4dfa42e79a3cbcc2941826276223af355fefd20e63d15",
+      "sha256": "753900b318d1407154b995805775fd83b6ab969568ba113a9eb317db5964aac5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "01",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kraft- und Fernheizwerke",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0101",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Öffentliche Elektrizitätsversorgung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0102",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fernwärmeversorgung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0103",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mineralölverarbeitung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0104",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kokerei",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0105",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kohlebergbau, Öl/Gas-Förderung, Transport in Rohrfernleitungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "02",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wärmeerzeugung (Haushalte, Gewerbe und öffentlicher Dienst)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0201",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuerungsanlage in Gewerbe und öffentlichem Dienst",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0202",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuerungsanlage im Haushalt (Hausbrand)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0203",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuerungsanlage in der Landwirtschaft, Forstwirtschaft, Fischzucht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "03",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbrennungsprozesse in der produzierenden Industrie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0301",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuerungsanlage in der Produktionsindustrie – Dampfkessel, Gasturbinen, Motorenkraftwerke",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0302",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuerungsanlage in der Produktionsindustrie – Feuerungsanlage ohne direkten Kontakt zwischen Flamme und Produkt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0303",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuerungsanlage in der Produktionsindustrie – Feuerungsanlage mit direktem Kontakt zwischen Flamme und Produkt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "04",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Industrielle Prozesse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0401",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mineralölverarbeitung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0402",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erzeugung von Roheisen, Stahl und Ferrolegierungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0403",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erzeugung und erste Bearbeitung von NE-Metallen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0404",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Herstellung von anorganischen chemischen Grundstoffen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0405",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Herstellung von organischen chemischen Grundstoffen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0406",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prozesse in der Holz-, Papier-, Nahrungsmittel- und anderen Industrie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0408",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Produktion von halogenierten Kohlenwasserstoffen und Schwefelhexafluorid",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "05",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Förderung und Erstbehandlung fossiler Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0501",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Förderung und Erstbehandlung fester fossiler Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0502",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Förderung, Erstbehandlung und Verladen flüssiger fossiler Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0503",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Förderung, Erstbehandlung und Verladen gasförmiger fossiler Brennstoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0504",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Flüssigbrennstoff-Verteilungskette (außer Motorenkraftstoffe-Verteilung in 0505)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0505",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Motorenkraftstoff-Verteilungskette",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0506",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gas-Verteilungsnetz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0507",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "geothermische Energienutzung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "06",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lösemitteleinsatz und Einsatz anderer direkt emittierter Stoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0601",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Farb- und Lackanwendung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0602",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entfetten, Putzereien und Elektronik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0603",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Herstellung und Verarbeitung chemischer Produkte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0604",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anderer Lösemittelgebrauch und verwandte Tätigkeiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0605",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung von NH3, N2 O, HFC, PFC und SF6",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "07",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Straßenverkehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0701",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "PKWs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0702",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LKW < 3,5 t",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0703",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LKW > 3,5 t und Omnibusse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0704",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mopeds und Motorräder < 50 cm3",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0705",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mopeds und Motorräder > 50 cm3",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0706",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Treibstoff-Verdunstungsverluste bei Fahrzeugen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0707",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Reifen- und Bremsverschleiß, Staubaufwirbelung von der Fahrbahnoberfläche",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "08",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstiger Verkehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0801",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Militär",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0802",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Eisenbahnen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0803",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Binnenschifffahrt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0804",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – See- und Küstenschifffahrt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0805",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Flugverkehr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0806",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Landwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0807",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Forstwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0808",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Industrie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0809",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – Haushalte und Gärtner",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0810",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Fahrzeuge und Maschinen – andere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "09",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abfallbehandlung, Deponien und Krematorien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0902",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abfallverbrennung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0904",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Deponien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0907",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Offene Verbrennung landwirtschaftlicher Restprodukte (außer am Feld 1003)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0909",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Krematorien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "0910",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Abfallbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Landwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1001",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gedüngte Pflanzenkulturen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1002",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ungedüngte Pflanzenkulturen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1003",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strohverbrennung auf offenem Feld",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1004",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verdauungsbedingte Emissionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1005",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Jauchemanagement betreffend organische Verbindungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1006",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pestizideinsatz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1009",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Jauchemanagement betreffend Stickstoffverbindungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Quellen und Senken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1101",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nicht bewirtschafteter Laubwald",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1102",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nicht bewirtschafteter Nadelwald",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1103",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Waldbrände",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1104",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Natürliches Grünland",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1105",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Feuchtgebiete",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1106",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gewässer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1107",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tiere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1108",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vulkane",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1109",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gasaustritte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1110",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Blitze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1111",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewirtschafteter Laubwald",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1112",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewirtschafteter Nadelwald",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1121",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderung des Vorrates von holziger Biomasse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1122",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umwandlung von Wald- und Weideflächen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1123",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Brachlegung bewirtschafteten Landes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1124",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "CO2-Emissionen aus/oder Bindung in Böden (außer 1006)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1125",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2 Zu § 4 1. Verortung von Emissionsquellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69b0084b381cbbfdd2b9597c16687537522cfbad7bdc22db6668451cf01d265a",
+      "sha256": "d66460c012f199b383bdd363491d454346978d7268786625d05af05f7fdb5d50",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Kennzeichnung durch",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "a) Angabe des Bezugsmeridians",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "b) Umrechnung ins Bundesmeldenetz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erhebungslisten oder Datenfiles sind mit der Bezugsmeridian-Bezeichnung M 28 M 31 M 34 zu kennzeichnen.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Durch folgende Translationen der y-Koordinaten ergeben sich eindeutige Koordinaten ohne Angabe des Bezugsmeridians System M 28: Rechtswert = y + 150 000 m System M 31: Rechtswert = y + 450 000 m System M 34: Rechtswert = y + 750 000 m",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Genauigkeitsstufe",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I (großräumiger Überblick)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II (kleinräumig)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "III (detailliert)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Empfohlener Maßstab",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 : 200 000",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 : 50 000",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "größer als 1 : 50 000",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Beispiele für betrachtete Gebiete",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bundesgebiet",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bundesland bzw. Teile des Bundeslandes, die mehr als eine Gemeinde umfassen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gemeindegebiet, Stadtteil",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Genauigkeitsstufe",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "I",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "II",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "III",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Größte Seitenlänge der Rasterquadrate bei Verortung nach 1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "40 km",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "10 km",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 km",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Größte Bezugsflächen bei Verortung nach 1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Politische Bezirke",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gemeinden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zählsprengel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3 zu § 5 Abs. 3 Bezeichnung der Brennstoffe:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd25aa034d87e0198d1246c6a4d048e06b987e178da911af5db6295593d734ba",
+      "sha256": "ea46a6dee9961f3221af0a4e592f20dacbbe8966e2ab8527f91904a15a0e541c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage 4 zu § 5 Abs. 3 Einheiten, in welchen Aktivitäten und Emissionsfaktoren anzugeben sind:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e008f32cbdb29002837cf29634c437852de546e34e6d7830a41f08d9c2a8a60",
+      "sha256": "a023542965af23971964841d2d4e360ec0c6a86830802ea9ffc1393483832b87",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Aktivität",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Brennstoffmenge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gigajoule",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Viehbestand",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stück",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Waldflächen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hektar",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Fahrleistung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kilometer mal Zahl der Kraftfahrzeuge in Tausend",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Produkte aus Gewerbe, Industrie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tonnen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Menge Erdgas (zur Bestimmung von Leckraten und Emissionen bei der Förderung)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Millionen Kubikmeter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kläranlagen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einwohnergleichwerte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Menge deponierter Abfall",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tonnen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

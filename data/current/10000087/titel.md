@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 17. März 1926, betreffend die Regelung des Vertragsregimes mit der Schweizerischen Eidgenossenschaft. StF: [BGBl. Nr. 56/1926](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=56/1926&amp;SkipToDocumentPage=True>)
+
+Es wird hiemit kundgemacht, daß anläßlich des Austausches der Ratifikationsurkunden zum Übereinkommen zwischen der Republik Österreich und der Schweizerischen Eidgenossenschaft vom 25. Mai 1925 zur Regelung der Niederlassungsverhältnisse, der gegenseitigen Auslieferung von Verbrechern und der Beglaubigung von Urkunden am 6. März 1926 zwischen der österreichischen Bundesregierung und dem schweizerischen Bundesrat unter anderem die nachfolgenden Bestimmungen durch Notenwechsel vereinbart wurden.

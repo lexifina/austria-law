@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, mit der der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH weitere Aufgaben gemäß § 19 Abs. 2 GESG übertragen werden (AGES – Übertragungsverordnung 2004) StF: [BGBl. II Nr. 356/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/356>)
+
+Auf Grund des § 19 Abs. 2 GESG, [BGBl. I Nr. 63/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_63_1/2002_63_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 83/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/83>), wird verordnet:

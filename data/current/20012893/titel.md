@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Reisegebühren für die Teilnahme an Schulveranstaltungen (Land- und Forstwirtschaftliche Schulveranstaltungen-Reisegebühren-Verordnung 2025 – LuFSchVRGV) StF: [BGBl. II Nr. 99/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/99>)
+
+Auf Grund des § 49a der Reisegebührenvorschrift 1955, [BGBl. Nr. 133/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_133_0/1955_133_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 144/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/144>), wird im Einvernehmen mit dem Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport verordnet:

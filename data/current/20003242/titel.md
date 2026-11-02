@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Durchführung der Anordnung und Anweisung finanzieller Leistungen im Arbeitsmarktservice (AMS – Anweisungsverordnung) StF: [BGBl. II Nr. 120/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/120>)
+
+Auf Grund des § 4 Abs. 6 zweiter Satz des Bundeshaushaltsgesetzes, [BGBl. Nr. 213/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Rechnungshof verordnet:

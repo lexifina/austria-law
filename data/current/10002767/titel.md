@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 21. Oktober 1986 betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: [BGBl. Nr. 583/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_583_0/1986_583_0.pdf>)

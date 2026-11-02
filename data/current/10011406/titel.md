@@ -1,0 +1,3 @@
+Bundesgesetz vom 6. März 1969, betreffend die Finanzierung der Tauernautobahn im Abschnitt Talübergang Larzenbach bis Gmünd (Tauernautobahn-Finanzierungsgesetz) StF: [BGBl. Nr. 115/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_115_0/1969_115_0.pdf>) idF [BGBl. Nr. 245/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_245_0/1969_245_0.pdf>) (DFB) (NR: GP XI [RV 1133](<https://www.parlament.gv.at/gegenstand/XI/I/1133>) [AB 1183](<https://www.parlament.gv.at/gegenstand/XI/I/1183>) [S. 135.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/135>) BR: [S. 274.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/274>))
+
+Der Nationalrat hat beschlossen:

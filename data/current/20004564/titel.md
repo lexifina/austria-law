@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 5. Jänner 1961, betreffend die Ratifikation des Europäischen Wahrungsabkommens und der Zusatzprotokolle Nr. 2 und Nr. 3 durch weitere Staaten. StF: [BGBl. Nr. 24/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_24_0/1961_24_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der jene Arten von Betriebsanlagen bezeichnet werden, für die jedenfalls keine Genehmigung erforderlich ist StF: [BGBl. II Nr. 20/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_20_2/1999_20_2.pdf>) idF [BGBl. II Nr. 149/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_149_2/1999_149_2.pdf>) (DFB)
+
+Auf Grund des § 74 Abs. 7 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 116/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_116_1/1998_116_1.pdf>), wird vom Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales verordnet:

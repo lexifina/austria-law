@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002421",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002444",
+    "valid_from": "1979-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002421&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:03:44.508748+00:00",
+    "response_sha256": "8d4cdac9a227467d7bc7e272e2a7e44a78ccd0720f0f82d89954dfa225ec0d07",
+    "snapshot_sha256": "1aa8082175ce7eda9891fe5482fda976307367fbe31cf803b7bd0ceb60ddc7b8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b46b17351ef9153aa093fbf7abcf0c64e198df606a0826347f0f4b13abeed681",
+      "sha256": "45f6c16833a6440f5600dadb9b7d56ad91a41b593376d2252df390b1d166d947",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Republik Österreich und dem Commonwealth der Bahamas betreffend die Weiteranwendung des österreichisch-britischen Rechtshilfeabkommens vom 31. März 1931 *1) StF: BGBl. Nr. 611/1978"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 611/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_611_0/1978_611_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 45/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=45/1932&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd2710e1bb1de8a6e4e1f636eeaa8e3354214e0cb1a7a76480350d21e41c5b45",
+      "sha256": "0f960f4dd59c8bc9efaa6c43fbb21a36ca47bfe94dfce03004fa2e10af6c9c5e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

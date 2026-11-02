@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Land- und Forstwirtschaft vom 14. Juli 1988 über die Feststellung des Verfassungsgerichtshofes, daß Art. I Z 2 ex 02.02 B lit. a der Verordnung des Bundesministers für Land- und Forstwirtschaft vom 25. Juli 1984 sowie des Punktes 4 erster Satz der Geschäftsordnung des Beirates gemäß § 10 des Bundesgesetzes über die Erhebung eines Importausgleiches bei der Einfuhr von Erzeugnissen der Geflügelwirtschaft, [BGBl. Nr. 135/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_135_0/1969_135_0.pdf>), gesetzwidrig waren StF: [BGBl. Nr. 397/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_397_0/1988_397_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

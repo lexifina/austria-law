@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 3. April 1956 über die Genfer Abkommen zum Schutze der Opfer des Krieges. StF: [BGBl. Nr. 80/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_80_0/1956_80_0.pdf>)

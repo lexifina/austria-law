@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001615",
+  "short_title": "Auflassung der Notarstelle Geras",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001758",
+    "valid_from": "2001-10-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001615&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:34:28.461284+00:00",
+    "response_sha256": "31d3dacc57e348559f24973a77b5f3c79233fa038ab8e68f97bb0210462be63e",
+    "snapshot_sha256": "540fea2ebb49f4a44204ae4b6bb41b3516b044a42b753b69559868acc0e45c02",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac2984a85b9d4b245c929d08a5ed1364c6bf4f51706052dbe1f1a3ee9caf1c10",
+      "sha256": "07ba58766b90dfae8e9fa811d240a9cd3a3e3cc0fa64d1cf42324f487933b109",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Auflassung der Notarstelle Geras StF: BGBl. II Nr. 374/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 374/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_374_2/2001_374_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea7c37b8226958250ff7a80ba52c7bc14b746d11cfab661cecc6e5c01b035e28",
+      "sha256": "019bbc70321625eeb6b2a72e6f4d3f655d044f4b57e6e7b525c3a9fc69678409",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

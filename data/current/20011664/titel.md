@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen gemäß § 3b Abs. 3 des ABBAG-Gesetzes betreffend Richtlinien über die Gewährung von Rekapitalisierungsmaßnahmen, die zur Erhaltung der langfristigen Zahlungsfähigkeit von Unternehmen im Zusammenhang mit der Ausbreitung des Erregers SARS-CoV-2 und den dadurch verursachten wirtschaftlichen Auswirkungen geboten sind (VO Rekapitalisierungsmaßnahmen) StF: [BGBl. II Nr. 416/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/416>)
+
+Aufgrund des § 3b Abs. 3 des ABBAG-Gesetzes, [BGBl. I Nr. 51/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/51>), zuletzt geändert durch das COVID-19-Transparenzgesetz, [BGBl. I Nr. 4/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/4>), wird im Einvernehmen mit dem Vizekanzler verordnet:

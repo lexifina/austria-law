@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung StF: [BGBl. I Nr. 111/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/111>) (NR: GP XXIV [IA 2316/A](<https://www.parlament.gv.at/gegenstand/XXIV/A/2316>) [AB 2383](<https://www.parlament.gv.at/gegenstand/XXIV/I/2383>) [S. 207.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/207>) BR: [AB 9027](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9027>) [S. 822.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/822>))
+
+Der Nationalrat hat beschlossen:

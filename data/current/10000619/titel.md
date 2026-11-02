@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 31. Mai 1977 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zu Regelungen im Zusammenhang mit der Beförderung gefährlicher Güter und von Lebensmitteln durch Kraftfahrzeuge StF: [BGBl. Nr. 316/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_316_0/1977_316_0.pdf>)
+
+Gemäß Art. 138 Abs. 2 B-VG und gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 26. März 1977, K II-2/76-27 – dem Bundeskanzleramt zugestellt am 20. Mai 1977 –, zusammengefaßt hat:

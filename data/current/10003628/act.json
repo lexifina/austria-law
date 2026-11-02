@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003628",
+  "short_title": "Name, Siegel und Emblem - Welthandelsorganisation",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003657",
+    "valid_from": "1998-03-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003628&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:17:44.724510+00:00",
+    "response_sha256": "b518f32d494a46b981dda0e95a0bf31e44a69b852dde1cad349b951110a4260a",
+    "snapshot_sha256": "ae9e149667e9038197ee071da198397b4fa167a746b800d7c76476a61601d949",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d856dd06f6a56f82cf88ec359f5ecac30e93b233376fe85c747a231e3bf347c3",
+      "sha256": "5aa3bb8567cc1ebe9cca1d9e442448411522f23b8bffc5848be976594fad82fc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen, den abgekürzten Namen und das Siegel (jeweils in Englisch, Französisch und Spanisch), sowie das Emblem (in schwarz-weiß und in Farbe) der Welthandelsorganisation StF: BGBl. II Nr. 76/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 76/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_76_2/1998_76_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "48a6dcfc8abb5cd9867f3372ca7062268b677cdc3c771fb3ca351a92ca2049a6",
+      "sha256": "cc7841eb3ea2e32d97b47b9c30ebaf59b1d1905d6893b246ed3e77c8030765dc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

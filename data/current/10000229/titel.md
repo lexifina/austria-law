@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 28. April 1950, betreffend die Feststellungen des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung in den Angelegenheiten der Personalvertretungen der mit behördlichen Aufgaben betrauten Angestellten des Bundes, der Länder und der Gemeinden. StF: [BGBl. Nr. 107/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_107_0/1950_107_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1930, BGBl. Nr. 127, werden folgende Rechtssätze kundgemacht, in denen der Verfassungsgerichtshof die Feststellungen seines Erkenntnisses vom 29. März 1950, K II-1/49/16 und K II-1/50/16, zusammengefaßt hat:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. Juni 1925 über den Beitritt Südrhodesiens zum Handels- und Schiffahrtsvertrag zwischen Österreich und Großbritannien. StF: [BGBl. Nr. 212/1925](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=212/1925&amp;SkipToDocumentPage=True>)

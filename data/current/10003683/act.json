@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003683",
+  "short_title": "Errichtung einer zweiten Notarstelle in Deutschlandsberg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003713",
+    "valid_from": "1999-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003683&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:39.997381+00:00",
+    "response_sha256": "8b6fc3ce905843ab6a18424f45fd14423c4f3654e2191d91e73f7224ef189d88",
+    "snapshot_sha256": "6be7a3b3bda9d048f65e08f38161a1df75ac4d1b94a8af016de0cc8d580d80f4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9ce912f5247b00c33c7eeb0152e2975222a82924409484765cb411914a3a829",
+      "sha256": "58beb1a648a6ffbcf7f0210812c06e8857dd0c06dc881a5bcfa1b889a7dde654",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Deutschlandsberg StF: BGBl. II Nr. 300/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 300/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_300_2/1999_300_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ddb3378bb2fc3e28beeff1853092183b8705579f8f2f06eaed670d52c68b8d0",
+      "sha256": "a959ee8abb27f6f0948d4793392502074d6149c39376490b5d360a6f19542e3a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

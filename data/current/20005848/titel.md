@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit, Familie und Jugend, mit der nähere Regelungen für den Betrieb von Gewebebanken getroffen werden (Gewebebankenverordnung – GBVO) StF: [BGBl. II Nr. 192/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/192>) \[CELEX-Nr.: [32006L0017](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0017:DE:HTML>), [32006L0086](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0086:DE:HTML>)\]
+
+Auf Grund des § 30 des Gewebesicherheitsgesetzes, [BGBl. I Nr. 49/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/49>), wird verordnet:

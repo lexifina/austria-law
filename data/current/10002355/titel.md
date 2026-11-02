@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 18. Juni 1976 betreffend niederländische amtliche Gewährzeichen für Butter und Milchpulver StF: [BGBl. Nr. 351/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_351_0/1976_351_0.pdf>)

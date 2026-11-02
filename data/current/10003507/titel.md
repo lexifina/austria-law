@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bezeichnung, das Emblem und die Abkürzung der Europäischen Investitionsbank StF: [BGBl. II Nr. 412/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_412_2/1997_412_2.pdf>)

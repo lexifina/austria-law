@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010422",
+  "short_title": "Errichtung einer achten Notarstelle in der Landeshauptstadt Salzburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209461",
+    "valid_from": "1986-04-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010422&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:45.225682+00:00",
+    "response_sha256": "f2df26414d0f74d796df8e48b04c1c84cb1c2314a39a17fd654262e15bacc4a4",
+    "snapshot_sha256": "76c5fd47354917c3783b6fb177de34130fc6d4446992f7d2c54ea0d55b3f9628",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c4563354b38ac87c4cab6277e18c40af193d9a599f7323d7c080bbf1a7656e7",
+      "sha256": "1acd4f22fd6f3c1085a56ae3e11f89b369ba6e1f9afc612de46bc54ec512b022",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 19. März 1986 betreffend die Errichtung einer achten Notarstelle in der Landeshauptstadt Salzburg StF: BGBl. Nr. 194/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_194_0/1986_194_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38c6690fb64ae3ace238aaf43fb27e8b82c6293f8fc95c50a028fa04fa730bba",
+      "sha256": "21a64759963316f7d6350e8d050721cf18215789e8369cc323e0a6093629126b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

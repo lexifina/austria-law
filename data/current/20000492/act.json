@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000492",
+  "short_title": "Luftfahrt - Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000528",
+    "valid_from": "1963-03-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000492&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:19:16.034682+00:00",
+    "response_sha256": "50b5921a03781d81f0bd3c243fb60d8b81fba3a1dc39c0634fbf3a6bd10b3046",
+    "snapshot_sha256": "093c3a7485735f510851181543db26b661ac8e5f854e569d831c7e17eb6706dc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed429d95190b71a884e7c0e906ff47a463b2aaa2214d81169972a4ffdae57644",
+      "sha256": "a90143f621c3b86d48cb170aafa762193b7dde12716540a853966bf53bea46fd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 25. Feber 1963 über weitere Ratifikationen des Übereinkommens über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge. StF: BGBl. Nr. 46/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 46/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_46_0/1963_46_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2883003a2bdfca548280214f52087f0eddd3f64c8c9cec55a19c29ef1d10c536",
+      "sha256": "0b9d1867a5d7ac5bebf24fe65c99aa6503420c4efe6b6f4a64bdcd388e3a200c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 245/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_245_0/1961_245_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

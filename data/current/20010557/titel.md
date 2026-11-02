@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen für die einheitliche Einrichtung eines Planungs-, Informations- und Berichterstattungssystems des Bundes für das Beteiligungs- und Finanzcontrolling (Beteiligungs- und Finanzcontrolling-Verordnung) StF: [BGBl. II Nr. 18/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/18>)
+
+Auf Grund des § 67 Abs. 2 des Bundesgesetzes über die Führung des Bundeshaushaltes (Bundeshaushaltsgesetz 2013-BHG 2013), [BGBl. I Nr. 139/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 34/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/34>), (kurz: BHG 2013), wird verordnet:

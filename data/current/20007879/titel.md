@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Betrauung einer Registerstelle für die technische Durchführung des Registers für den Emissionshandel und die Führung des nationalen Registers (Registerstellenverordnung 2012) StF: [BGBl. II Nr. 208/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/208>)
+
+Auf Grund des § 43 Abs. 1 des Emissionszertifikategesetzes 2011 (EZG 2011), [BGBl. I Nr. 118/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/118>), und des § 47 des Umweltförderungsgesetzes (UFG), [BGBl. Nr. 185/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_185_0/1993_185_0.pdf>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 35/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35>), wird verordnet:

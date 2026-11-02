@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz vom 29. November 1988, mit dem das Bundes-Verfassungsgesetz in der Fassung von 1929 geändert wird (Bundes-Verfassungsgesetz-Novelle 1988) StF: [BGBl. Nr. 685/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_685_0/1988_685_0.pdf>) (NR: GP XVII [RV 607](<https://www.parlament.gv.at/gegenstand/XVII/I/607>) [AB 817](<https://www.parlament.gv.at/gegenstand/XVII/I/817>) [S. 81.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/81>) BR: [3593](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3593>) [AB 3595](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3595>) [S. 509.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/509>))
+
+Der Nationalrat hat beschlossen:

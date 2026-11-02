@@ -1,0 +1,3 @@
+Bundesgesetz vom 3. Mai 1974 über die Ausübung der Gerichtsbarkeit im Sinn des Art. 21 des Europäischen Übereinkommens über Staatenimmunität StF: [BGBl. Nr. 433/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_433_0/1976_433_0.pdf>) (NR: GP XIII [RV 866](<https://www.parlament.gv.at/gegenstand/XIII/I/866>) [AB 1079](<https://www.parlament.gv.at/gegenstand/XIII/I/1079>) [S. 106.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/106>) BR: [1117](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1117>) [S. 331.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/331>))
+
+Der Nationalrat hat beschlossen:

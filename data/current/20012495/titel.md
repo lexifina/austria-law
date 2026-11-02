@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz zur Anwendung der Inhalationsnarkose bei der Ferkelkastration StF: [BGBl. II Nr. 438/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/438>)
+
+Aufgrund des § 64 Abs. 2 des Tierarzneimittelgesetzes (TAMG), [BGBl. I Nr. 186/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/186>), sowie der §§ 7 Abs. 3 und 24 Abs. 1 des Tierschutzgesetzes (TSchG), [BGBl. I Nr. 118/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/118>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 130/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/130>), wird verordnet:

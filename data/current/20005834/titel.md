@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit, Familie und Jugend, mit der das Verbot des Inverkehrbringens des gentechnisch veränderten Maises Zea mays L., Linie MON 810 aufgehoben und das Inverkehrbringen dieser Maislinie zum Zweck des Anbaus in Österreich erneut verboten wird StF: [BGBl. II Nr. 181/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/181>)
+
+Auf Grund des § 60 des Gentechnikgesetzes – GTG, [BGBl. Nr. 510/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_510_0/1994_510_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 127/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/127>) und das Bundesgesetz [BGBl. I Nr. 6/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/6>) wird verordnet:

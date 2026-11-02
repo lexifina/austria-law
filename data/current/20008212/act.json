@@ -1,0 +1,1533 @@
+{
+  "sample_only": false,
+  "included_provisions": 34,
+  "source_provision_count": 34,
+  "schema_version": 1,
+  "gesetzesnummer": "20008212",
+  "short_title": "Bundesverwaltungsgerichtsgesetz",
+  "abbreviation": "BVwGG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40271553",
+    "valid_from": "2025-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008212&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:12:47.957518+00:00",
+    "response_sha256": "9dbe1f49d4c81ea64557f83000881653b5d030ed060566ab682bb37f6b1d66bb",
+    "snapshot_sha256": "b547c8608edf778624532955a82aca8e1fc6a33cf8e50d4df8ab00c7108894f5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e903d44bc1ce9af1dba74ccb150eea58ded14638682aee8ef39e49a672367c6f",
+      "sha256": "efeebefafe3af777b923bff738449ad79e682bb54eb3c203adb3aa6962cd5cde",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Organisation des Bundesverwaltungsgerichtes (Bundesverwaltungsgerichtsgesetz – BVwGG) StF: BGBl. I Nr. 10/2013 (NR: GP XXIV RV 2008 AB 2057 S. 185. BR: 8829 AB 8833 S. 816.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 50/2016 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1145 AB 1184 S. 134. BR: 9594 AB 9607 S. 855.) BGBl. I Nr. 24/2017 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1255 AB 1369 S. 158. BR: AB 9723 S. 863.) BGBl. I Nr. 22/2018 (NR: GP XXVI AB 100 S. 21. BR: AB 9959 S. 879.) BGBl. I Nr. 44/2019 (NR: GP XXVI RV 561 AB 584 S. 70. BR: AB 10163 S. 892.) BGBl. I Nr. 87/2021 (NR: GP XXVII RV 769 AB 787 S. 99. BR: AB 10615 S. 925.) BGBl. I Nr. 77/2023 (NR: GP XXVII RV 2093 AB 2155 S. 226. BR: AB 11288 S. 957.) BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.) BGBl. I Nr. 54/2025 (NR: GP XXVIII RV 136 AB 164 S. 35. BR: AB 11669 S. 980.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 10/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/10"
+        },
+        {
+          "text": "RV 2008",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2008"
+        },
+        {
+          "text": "AB 2057",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2057"
+        },
+        {
+          "text": "S. 185.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/185"
+        },
+        {
+          "text": "8829",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8829"
+        },
+        {
+          "text": "AB 8833",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8833"
+        },
+        {
+          "text": "S. 816.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/816"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/27"
+        },
+        {
+          "text": "RV 1145",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1145"
+        },
+        {
+          "text": "AB 1184",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1184"
+        },
+        {
+          "text": "S. 134.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/134"
+        },
+        {
+          "text": "9594",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9594"
+        },
+        {
+          "text": "AB 9607",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9607"
+        },
+        {
+          "text": "S. 855.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/855"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/24"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/27"
+        },
+        {
+          "text": "RV 1255",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1255"
+        },
+        {
+          "text": "AB 1369",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1369"
+        },
+        {
+          "text": "S. 158.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/158"
+        },
+        {
+          "text": "AB 9723",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9723"
+        },
+        {
+          "text": "S. 863.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/863"
+        },
+        {
+          "text": "BGBl. I Nr. 22/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/22"
+        },
+        {
+          "text": "AB 100",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/100"
+        },
+        {
+          "text": "S. 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/21"
+        },
+        {
+          "text": "AB 9959",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9959"
+        },
+        {
+          "text": "S. 879.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/879"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/44"
+        },
+        {
+          "text": "RV 561",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/561"
+        },
+        {
+          "text": "AB 584",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/584"
+        },
+        {
+          "text": "S. 70.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/70"
+        },
+        {
+          "text": "AB 10163",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10163"
+        },
+        {
+          "text": "S. 892.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/892"
+        },
+        {
+          "text": "BGBl. I Nr. 87/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/87"
+        },
+        {
+          "text": "RV 769",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/769"
+        },
+        {
+          "text": "AB 787",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/787"
+        },
+        {
+          "text": "S. 99.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/99"
+        },
+        {
+          "text": "AB 10615",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10615"
+        },
+        {
+          "text": "S. 925.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/925"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/77"
+        },
+        {
+          "text": "RV 2093",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2093"
+        },
+        {
+          "text": "AB 2155",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2155"
+        },
+        {
+          "text": "S. 226.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/226"
+        },
+        {
+          "text": "AB 11288",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11288"
+        },
+        {
+          "text": "S. 957.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/957"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        },
+        {
+          "text": "BGBl. I Nr. 54/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/54"
+        },
+        {
+          "text": "RV 136",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/136"
+        },
+        {
+          "text": "AB 164",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/164"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "AB 11669",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11669"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis 1. Hauptstück Organisation des Bundesverwaltungsgerichtes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Sitz und Zusammensetzung des Bundesverwaltungsgerichtes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sitz und Außenstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammensetzung des Bundesverwaltungsgerichtes und Ernennung der Mitglieder",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Organe des Bundesverwaltungsgerichtes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Präsident",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollversammlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leiter der Außenstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einzelrichter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Senate",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beratung und Abstimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben des Vorsitzenden und der Beisitzer eines Senates",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personalsenat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsverteilungsausschuss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fachkundige Laienrichter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: § 12a. Geheimhaltungspflicht der Laienrichter)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtspfleger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Amtssachverständige (Anm.: Sachverständige und Dolmetscher)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Gang und Führung der Geschäfte des Bundesverwaltungsgerichtes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsverteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gerichtsabteilungen und Kammern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.: § 16a. Rufbereitschaft und Journaldienst)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuweisung und Abnahme von Rechtssachen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsordnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Elektronischer Rechtsverkehr",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Controlling und Berichtswesen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Controlling",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsausweise",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tätigkeitsbericht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Datenschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 24a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmung zur Erstbesetzung des Bundesverwaltungsgerichtes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Organisation des Bundesverwaltungsgerichtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "527395ad735848aa623129f2a6d1bc065088650b1ffb07a66556010be977e17b",
+      "sha256": "e1b61285b9124dadc253c0bf17f0ae5ff3e8f07ca18e3c2b3e1d8b56908f0595",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zusammensetzung des Bundesverwaltungsgerichtes und Ernennung der Mitglieder",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18ff566d1d1d4201f19812682c8f3fd471e946a272575ab2ae1a232548ad0d2b",
+      "sha256": "696fe4bd093ce232e114f48ac82651dbbbd0049eba2605ec601ef6bde6cc0e31",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Organe des Bundesverwaltungsgerichtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00e2aaaf598b18cf8b29c3d7645b4ceb2439476d1cea2801f89bd3d85be7ce39",
+      "sha256": "f8f26ab9ab469b9f502f43c950bea968aaf2f7eff302a5fc9f87f4a75b1dbb58",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 217/1896",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=217/1896&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Vollversammlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d556990387458e94ce01fbd3ce61383340eaff5aa9a9ed52e857ff3ba43d424e",
+      "sha256": "73bd52320746efbe2f88c5c71fe48453d4ffde1d5c4326e688f1756b6485ab85",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Leiter der Außenstellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77cede622ab904a71abcb45290b8b298a3cd031e7d3501a53eecf4f559356255",
+      "sha256": "95175fa4101807356510cff03fa21cf1dfd95b9025ebb1aee5d0247e506b3282",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Einzelrichter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ea57756d28fc61d16577318ee0c034541a6785f0c3623ef7a75adabc420621c",
+      "sha256": "a7c9f2cb989e8c99c5979822f105caafb7d7124a7a2a4b5dc96bafb461a88502",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Senate",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50bf058cf6938dd96002e90448262ecb8f57eca6c7f259a03eaa26bc0effa48e",
+      "sha256": "908de22950ba2dc12602d4631d85c7301dd7d7dd91fd47322165e51946f1e5f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Beratung und Abstimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f0093f93a380f66a7d605cc238279161e39ac4dffe6c61453a6d2ff7c455d361",
+      "sha256": "fe67ae337e0776033d3d5f44d94566f311b03a4a09c7ccebd44ecb02926b8dae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Aufgaben des Vorsitzenden und der Beisitzer eines Senates",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "428f753cc8a656db5620628e175ec79adbf66110e744583a48f89338f710f726",
+      "sha256": "46e550355ef5bdcdb24732ff4a6c119b9e14885a0bb7fd3c1a4001323f6af106",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Personalsenat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54adad0195fd5721ee77580e050b3f6f140ef6c526fc00fb7159502df684b8e1",
+      "sha256": "4aab05de09c2b523ad51d1887f19674c2ced79d1702c7b7fc9bbe92d5f4bc0eb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Geschäftsverteilungsausschuss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e46f0b6064b617878042ba9d7215759afcc712c3db621f42c85ef9088c398c59",
+      "sha256": "3ec42725a9032bb4f75ae6e4ae8fbd71fa99eb37541a4346c4e922c7b9c7b7d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Fachkundige Laienrichter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "559909028ed0b4a8f872978d21341a64ad81031b7a987add7d88aac0299d64d9",
+      "sha256": "42fbcc4f76fd7d5e29f5149f3ee5dd2ac35a88a27d99623f01e67170a96581d5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 68/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_68_0/1972_68_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12a",
+      "source_heading": "Geheimhaltungspflicht der Laienrichter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1aaa18f857cf733c62fb4fa6885784010c80f79929580cd7e44f221370bab7d2",
+      "sha256": "d3cc7f7856137da09c8575a57ae9bbe54d6f4e4e59f0ab7bcbec73e43c7a3537",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 23/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_23_1/2002_23_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Rechtspfleger",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f44d859adae1160ac46bb6f76a6d0f7a33e550071013a5d62fb2c529d6cd4af8",
+      "sha256": "92cf8486c0fc52f7888c90dd59bfcce80f048f9039b15208dd64ef1863d0b306",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 560/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_560_0/1985_560_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Sachverständige und Dolmetscher",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c1852ba8b8822c180f54bd38c954ff4f9e4f4c2853be5381f07f0ad56fac582",
+      "sha256": "52914f0020228501e6a22627b4550d222696738c625e948b2cfd1fe9e3c197c5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 1/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1930&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "3. Abschnitt Gang und Führung der Geschäfte des Bundesverwaltungsgerichtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "522782a9154f60d6f8b81aca2a69f4a6eaab1a729a5b3e43cdc62d1fd880b059",
+      "sha256": "7831027a29785071dd74fc7e88a6fd337e7b48d7634f31021eb6960bafec83bc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 5/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Gerichtsabteilungen und Kammern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7100405418a9e432c31b77f3fc22d2ff66e119a9a3e9a2844201a1800c05b56e",
+      "sha256": "239f16f5d1672b82f54d3b308d653bc4b754428bc276f05af9b1818f108b1031",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16a",
+      "source_heading": "Rufbereitschaft und Journaldienst",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0016a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "847c3f54d07b9f3568b7543c8547e76a995eb97b725564edfa2cfeb8fc657823",
+      "sha256": "ff72c74a0cd822f16729760dfb05e86ebf0730ed863a9c585eadd037dca8cb25",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Zuweisung und Abnahme von Rechtssachen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9ce23d0d5ef2b094c43af76637320108d76412d91fe15a20f33bd9b7ae87898",
+      "sha256": "8838943d6c477bb24512f3bee1487cbce3b5c06f7e7bf359ef8cf148e2a8b373",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Geschäftsführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4da6f4aa46a5e1f8fe7525fa1366ac007198812f0e00b9c9f80478874822394f",
+      "sha256": "1eb794dad145ff30cec7f97d5e9b6f5be9cb21b5e498fd202ee59a523a55373f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Geschäftsordnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4087df958f882faf57b9c8e76f0d60f8f634dc658cd71935893478c7fd2dd08",
+      "sha256": "ff2463a5c3a403783c8f6d7086d5f51bc5b2217ec1ba6146a7f0049b91687756",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Veröffentlichung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b5401cc80943055c1fa535aca78d9484946e88e7a48d546ca488a13961fb390b",
+      "sha256": "83c80dedd39b113e7aec8ce0130b43dbbd8df728cafac42c7c286af5bb4be49f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "4. Abschnitt Elektronischer Rechtsverkehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10d175182e9df2163369d3778f2d4e5673d0652e70c2766ab900d9051323bb90",
+      "sha256": "723d789eaa5c07715ee025b1143b9e4dcdfa00bac2334bbcad639873d17d62a9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 200/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_200_0/1982_200_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        },
+        {
+          "text": "RGBl. Nr. 217/1896",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=217/1896&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "5. Abschnitt Controlling und Berichtswesen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3a37de255cd7553b7fc7d7fd93e823e21584ff0e1f05ce6ffba919e7af15020",
+      "sha256": "036d823ef9801db242e215c5d7928629400b73463357ce7b91c2950c4e8f5467",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Geschäftsausweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1bbed158fdf128f72e29799df65f58f367a21830fe6b44519484fde843cb9a19",
+      "sha256": "55715b6ba9932e3f9a51a3b0614e20e1f25142e25635420d7b4aa53c64c7986b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Tätigkeitsbericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06d7287851bf686c10de80c333d4360c44c17ca8b5b80d3a2aca62e4603eadec",
+      "sha256": "e046576395ca9d72019c4b2618ba43b1ed17395974affbee2b50e42ed08908b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24a",
+      "source_heading": "6. Abschnitt Datenschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0024a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "866e842ae62486b020762b4b390ccb084e4a95437a2c720a2003113eca0fbc45",
+      "sha256": "bfbe4da1bb49620e8ac85aff09ed4c3c64d16553b4aa2f99ecdf2cfcf1c7194a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "2. Hauptstück Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10efb6c0ebe6b01a5aab195537bc430af1dbc9ab97ccae98e8d9aadd10d51e08",
+      "sha256": "a5a88f71555c6f1434e2039493693d5108f1f6c74238d36f51de8301dcce89e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1ad65e1eb8da8ea5cbed744f1287257e53e84f8778b4e48ca7e2cf4b89862f9",
+      "sha256": "a2b924420eae0be3ef9409f0eade16b62016b3511fa7f03bdd53cb6ce9f131db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f380690f32b30765159d531b57b1d4acc63f18b2f80ad39773f34810952eaa9",
+      "sha256": "04e1731d103f875221366816ff2a223e1a35ecf2a57b4c9260ed7639f242fa9a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 4/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/4"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/24"
+        },
+        {
+          "text": "BGBl. I Nr. 22/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/22"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/44"
+        },
+        {
+          "text": "BGBl. I Nr. 87/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/87"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/77"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "BGBl. I Nr. 54/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/54"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Übergangsbestimmung zur Erstbesetzung des Bundesverwaltungsgerichtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c22ccebeebf063c761502a695efdca350896d6ce0441ef80b533f74e1c43b33",
+      "sha256": "ec63386793baf09f06d0d3173ef87a9042a298b1f3f7e29fccb6505df7bbe49f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 85/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_85_0/1989_85_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "769229dbde2797771639c540f8f10e975b4be02a1caace41b5f6a8d00e862a0c",
+      "sha256": "9605540dbb3ddb332af0667472cbcb49a84786fcf997946a6dcdb2d56c8f9178",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 25",
+      "source_heading": "Artikel 25 Notifikationshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "art-025.md",
+      "source_context": "BGBl. I Nr. 50/2016",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62dc9951ffa08667487ca998342b155d3c0bc4593ab1c8a475bb7de07edd1343",
+      "sha256": "7279171a64a19e57df6e27b5e6178210bf3876c0ed9d25e97d90d8c7a35decfe",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010402",
+  "short_title": "Errichtung einer zweiten Notarstelle in Neunkirchen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209417",
+    "valid_from": "1976-03-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010402&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:02.952354+00:00",
+    "response_sha256": "904c9ad43a1762633915b58a68bb07c490b039439a5645da131feb48063bc5ad",
+    "snapshot_sha256": "cfe3bc488b276f085dd24244d89629c7be235251710b72b887f41cc561d25ac1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6b1cc2ae4383f3d0256e2df42d365aa2f84326cce6f4f9cd0d57901e242b8a1",
+      "sha256": "f49e5e3b88589f2dc49dcc6cd6ba633c261e2e7e0d0f19335cd7010dea702d5b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 5. Feber 1976 betreffend die Errichtung einer zweiten Notarstelle in Neunkirchen StF: BGBl. Nr. 85/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 85/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_85_0/1976_85_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1cc3e3667fa3337c9ac619474da88f0041efdebabf49ba8cb4428ab47911418f",
+      "sha256": "bb1b7cc72d241dcc3e06fa874456edce1f7b907d004e32d0a4d49477e1db6c8e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

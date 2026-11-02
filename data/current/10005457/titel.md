@@ -1,0 +1,1 @@
+Notenwechsel vom 24. Oktober 1978 über die Errichtung vorgeschobener österreichischer Grenzdienststellen am Grenzübergang Schwarzbach-Bundesstraße StF: [BGBl. Nr. 600/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_600_0/1978_600_0.pdf>)

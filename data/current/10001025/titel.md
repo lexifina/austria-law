@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 4. April 1989 betreffend den Geltungsbereich der Genfer Abkommen zum Schutze der Opfer des Krieges StF: [BGBl. Nr. 195/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_195_0/1989_195_0.pdf>)

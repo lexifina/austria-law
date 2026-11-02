@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 15. Mai 1990 betreffend den Geltungsbereich des Europäischen Abkommens über Soziale Sicherheit und der Zusatzvereinbarung zur Durchführung des Europäischen Abkommens über Soziale Sicherheit StF: [BGBl. Nr. 268/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_268_0/1990_268_0.pdf>)

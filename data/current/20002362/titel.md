@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über mobile Anlagen zur Behandlung von Abfällen StF: [BGBl. II Nr. 472/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_472_2/2002_472_2.pdf>) \[CELEX-Nr.: [375L0442](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975L0442:DE:HTML>)\]
+
+Auf Grund des § 65 Abs. 3 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), [BGBl. I Nr. 102/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit verordnet:

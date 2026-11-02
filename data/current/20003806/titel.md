@@ -1,0 +1,1 @@
+Bundesgesetz über die Veräußerung von unbeweglichem Bundesvermögen StF: [BGBl. I Nr. 147/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/147>) (NR: GP XXII [RV 642](<https://www.parlament.gv.at/gegenstand/XXII/I/642>) [AB 735](<https://www.parlament.gv.at/gegenstand/XXII/I/735>) [S. 89.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/89>))

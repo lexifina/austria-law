@@ -1,0 +1,3 @@
+Bundesgesetz zur Durchführung des Unionsrechts auf dem Gebiet der biologischen Produktion, geschützten Herkunftsangaben und traditionellen Spezialitäten (EU-Qualitätsregelungen-Durchführungsgesetz – EU-QuaDG) StF: [BGBl. I Nr. 130/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/130>) (NR: GP XXV [RV 777](<https://www.parlament.gv.at/gegenstand/XXV/I/777>) [AB 811](<https://www.parlament.gv.at/gegenstand/XXV/I/811>) S. 96. BR: [9454](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9454>) [AB 9460](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9460>) S. [846](<https://www.parlament.gv.at/gegenstand/BR/I-BR/846>).)
+
+Der Nationalrat hat beschlossen:

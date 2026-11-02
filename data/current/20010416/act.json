@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010416",
+  "short_title": "Errichtung einer siebenten Notarstelle in Innsbruck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209449",
+    "valid_from": "1982-05-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010416&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:32.552513+00:00",
+    "response_sha256": "e3f9c3260acbe896327e2760de2cda8aacb5bfb4eff59217abb9a707672dbae6",
+    "snapshot_sha256": "3e6849a7f0de3b1a4a44658a0004a37e7db1fb69eefe8d7c0fe5a4f78551c525",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79ae2a36bdfb254e8c39f065ff6b2365674c84015f4910e49ba45a785f5080be",
+      "sha256": "571b98d169317421ff1e2d7e8f3391d0d227752aa1c0dc0cb4785df7d2dcd210",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 16. April 1982 betreffend die Errichtung einer siebenten Notarstelle in Innsbruck StF: BGBl. Nr. 209/1982"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 209/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_209_0/1982_209_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d07016710d11eb115c26482eedeea8c30338c5f569b5e57cf3142c4fc528806",
+      "sha256": "78205f298b94f4d969a09a465e8b8344b11f82faf0125cadf70b619277cff40b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

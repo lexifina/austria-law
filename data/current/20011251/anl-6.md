@@ -1,0 +1,9 @@
+## ANHANG VI
+
+## VORSCHRIFTEN UND NORMEN, DIE BEI DER ANWENDUNG DER IN ANHANG IV DES EUROPA-MITTELMEER-LUFTVERKEHRSABKOMMENS EU-ISRAEL AUFGEFÜHRTEN RECHTSVORSCHRIFTEN ERFÜLLT SEIN MÜSSEN
+
+(Anm.: Anhang VI als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: Anhang VI](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40225652/Anhang_VI_III_106_2020.pdf>)

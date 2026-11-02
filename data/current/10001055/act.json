@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001055",
+  "short_title": "VfGH-Aufhebung V d. Landeshauptmannes von Wien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001058",
+    "valid_from": "1990-04-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001055&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:40:40.958635+00:00",
+    "response_sha256": "b40b488ec1a64cd9c27693e5a40f7b01d9937c43cff0dc64d067e59d284640f6",
+    "snapshot_sha256": "139a7674b6124094f228e5e7e55196c3e403b182f19833994d7a7e34a03e2040",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d1c753018dbfec549aa5ba557fb013fd85ce272df8eb8879ee2f74946d62e5b",
+      "sha256": "d0f97b406c68a39521fde26bcdaef8a8a38b6822f3c0e77e040322fdaf6a348e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 19. April 1990 über die Aufhebung der Verordnung des Landeshauptmannes von Wien vom 14. Mai 1987, LGBl. Nr. 22/1987, betreffend die Verhältnis- und Höchstzahl der für das mit Kraftfahrzeugen betriebene Platzfuhrwerksgewerbe zuzulassenden Kraftfahrzeuge in Wien (Wiener Taxi-Kraftfahrzeug Verhältnis- und Höchstzahl-Verordnung) durch den Verfassungsgerichtshof StF: BGBl. Nr. 225/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 225/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_225_0/1990_225_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6209b84daed276740fdc51eea927db3f12740aa5afad96336142118b4809af82",
+      "sha256": "3ebb71a606395e8ffae3616849f394e544e71ee180d97967ca7ceb74e162f3fc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

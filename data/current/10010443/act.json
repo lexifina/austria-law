@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10010443",
+  "short_title": "Österreichisch-Tschechoslowakische Grenzgewässerkommission",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010662",
+    "valid_from": "1983-01-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010443&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:43:34.866399+00:00",
+    "response_sha256": "c18c7e73ca22aac6d4923f4842e5ab9175e774ee5075f4369e32e5e72103109c",
+    "snapshot_sha256": "e2d8c7632804e5dff5175c1711814ce22bda459f635d5b0b3409639a110a10cb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36c7e9b1b5e68d31d18ac18957f8a3f42bb46530fbd67b746a3117bd00e8e645",
+      "sha256": "cb0bebc7a5806fa10be822226cd8676f0a14f74682297d38aefdbf1cf249c3bd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 11. Jänner 1983 betreffend den Beschluß der Österreichisch-Tschechoslowakischen Grenzgewässerkommission StF: BGBl. Nr. 21/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 21/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_21_0/1983_21_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d120082ab445e99fb43cb1de02e261e133a670be1d5eaa484668a35d3bbef6c",
+      "sha256": "2694b551d502383f1e6201e233fcfc406999c0357cafd8a8ef426828218131ca",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 106/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_106_0/1970_106_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 106/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_106_0/1970_106_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

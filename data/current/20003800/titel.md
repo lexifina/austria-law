@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Übertragung des Rechtes zur Ernennung von Bundesbeamten und Bundesbeamtinnen an den Präsidenten/die Präsidentin des Österreichischen Patentamtes StF: [BGBl. II Nr. 469/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/469>)
+
+Auf Grund des Art. 66 Abs. 1 B-VG in Verbindung mit Art. I Abs. 2 Z 1 und 6 der Entschließung des Bundespräsidenten betreffend die Ausübung des Rechts zur Ernennung von Bundesbeamten, [BGBl. Nr. 54/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_54_0/1995_54_0.pdf>), wird verordnet:
