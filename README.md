@@ -1,5 +1,7 @@
 # Austrian federal law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Austria's federal law, which global-law reads at `austria/bund/acts/`.
+
 Austrian federal acts as a git repository. Each amending law is one commit, credited to that law and dated the day it
 took effect, at noon in Vienna. The text is the consolidated federal law ("Bundesrecht konsolidiert") that the
 Federal Chancellery publishes in the [RIS](https://www.ris.bka.gv.at) (Rechtsinformationssystem des Bundes).
