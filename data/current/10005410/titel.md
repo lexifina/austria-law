@@ -1,0 +1,3 @@
+ABKOMMEN ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER REGIERUNG DES GROSSHERZOGTUMS LUXEMBURG ÜBER DEN PERSONENVERKEHR StF: [BGBl. Nr. 263/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_263_0/1975_263_0.pdf>)
+
+Das Abkommen ist gemäß seinem Art. 7 Abs. 1 am 11. März 1975 in Kraft getreten.

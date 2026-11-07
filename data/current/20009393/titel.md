@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Familien und Jugend über den Ersatz des einmaligen Aufwandes einschließlich der Implementierungskosten aller Krankenversicherungsträger und Kosten nachträglicher Anpassungen sowie Investitionen technischer Natur nach § 38 Abs. 3 und 4 Kinderbetreuungsgeldgesetz StF: [BGBl. II Nr. 416/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/416>)
+
+Auf Grund des § 38 Abs. 3 und 4 Kinderbetreuungsgeldgesetz (KBGG), [BGBl. I Nr. 103/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_103_1/2001_103_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 35/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/35>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Ermächtigung von Ärzten zur Durchführung von Untersuchungen gemäß § 5 StVO (Ärztepoolverordnung-ÄpV) StF: [BGBl. II Nr. 21/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/21>)
+
+Aufgrund des § 5a Abs. 4 der Straßenverkehrsordnung 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 152/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/152>), wird im Einvernehmen mit der Bundesministerin für Gesundheit, Familie und Jugend und dem Bundesminister für Inneres verordnet:

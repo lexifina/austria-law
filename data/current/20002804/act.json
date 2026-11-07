@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002804",
+  "short_title": "Errichtung einer zweiten Notarstelle in Oberndorf bei Salzburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003052",
+    "valid_from": "2003-07-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002804&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:52:27.942188+00:00",
+    "response_sha256": "81f2ce4572d2597d76c254127b0ca1025c039ce88599a58c208010ae2290ec2f",
+    "snapshot_sha256": "c4e0f5bf76e5f33c1ed6c085ea92a78f413c7dc1226603dca07ef73d51fe1745",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9cfcd647a24f66e4fe409fb7103d1677cd44ca907ddc853443ca733c45e030c",
+      "sha256": "e4903cf209a9110be8a2e02a856b85e68290487842d5dd5d7234c7394a25f50e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Oberndorf bei Salzburg StF: BGBl. II Nr. 321/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 321/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_321_2/2003_321_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c6d9ce8cca51f4154d7a467385b2c7fbbe999fdf003554767370fa27cd6bfdd",
+      "sha256": "c85c23bea1f7e2c32442e17cf3a6e2ed785af5c63b9d3cb276296b479f2c17ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

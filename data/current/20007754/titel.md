@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend über die Zugangsvoraussetzungen für das reglementierte Gewerbe der Wertpapiervermittlung (Wertpapiervermittlungsverordnung) StF: [BGBl. II Nr. 88/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/88>)
+
+Auf Grund des § 18 Abs. 1 sowie des § 352a Abs. 1 der Gewerbeordnung 1994, [BGBl. Nr. 194/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 144/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/144>) und in der Fassung der Kundmachung [BGBl. I Nr. 6/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/6>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 7. Juni 1983 betreffend den Geltungsbereich des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 316/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_316_0/1983_316_0.pdf>)

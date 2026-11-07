@@ -1,0 +1,13 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Fahrzeuge, deren Type oder die einzeln vor dem 1. Jänner 1972 genehmigt worden sind, sind von § 10 Abs. 7 Z 4.2 lit. a ausgenommen.
+
+(2) Fahrzeuge, deren Type oder die einzeln vor dem 23. Juni 1972 genehmigt worden sind, sind von § 10 Abs. 7 Z 4.2 lit. e, Z 6.1 lit. a, b und e und Z 6.2 lit. a und b ausgenommen.
+
+(3) Fahrzeuge, die erstmals vor dem 1. Jänner 1981 zugelassen oder vor dem 1. Juli 1980 in das Bundesgebiet eingebracht worden sind, sind von Art. I Z 1 (§ 1d) ausgenommen; sie müssen jedoch den bisherigen Vorschriften über Auspuffgase entsprechen. Dies gilt sinngemäß auch für Fahrgestelle.
+
+(4) Reifen, die unter § 4 Abs. 3a fallen und die vor dem 1. Jänner 1982 erzeugt oder feilgeboten worden sind, sind von Art. I Z 3 (§ 2 lit. j) und Z 5 (§ 4 Abs. 3a) ausgenommen. Solche Reifen dürfen bis zum 31. Dezember 1989 verwendet werden.
+
+(5) Besitzer einer vor dem Inkrafttreten dieser Verordnung erteilten Lenkerberechtigung, bei denen eine Farbenuntüchtigkeit vom Grade einer Deuteranopie vorliegt, gelten als zum Lenken von Kraftfahrzeugen geeignet, wenn die Annahme gerechtfertigt ist, daß ein Ausgleich des bestehenden Mangels durch erlangte Geübtheit eingetreten ist.

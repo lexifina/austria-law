@@ -1,0 +1,7 @@
+## Gemeinsame Erklärung über die kurzfristigen Maßnahmen nach Titel I des Übereinkommens von Schengen vom 14. Juni 1985 zwischen den Regierungen der Staaten der Benelux-Wirtschaftsunion, der Bundesrepublik Deutschland und der Französischen Republik betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen in der Fassung des am 27. November 1990 in Paris unterzeichneten Protokolls über den Beitritt der Regierung der Italienischen Republik
+
+Aus Anlaß der Unterzeichnung des Protokolls über den Beitritt der Regierung der Portugiesischen Republik zu dem Übereinkommen von Schengen vom 14. Juni 1985, dem die Italienische Republik mit dem am 27. November 1990 in Paris unterzeichneten Protokoll beigetreten ist, stellen die Vertragsparteien fest, daß die kurzfristigen Maßnahmen nach Titel I dieses Übereinkommens in den Beziehungen zwischen den sechs durch dieses Übereinkommen gebundenen Regierungen und der Regierung der Portugiesischen Republik unter denselben Voraussetzungen und auf dieselbe Weise wie in den Beziehungen zwischen den sechs durch dieses Übereinkommen gebundenen Regierungen Anwendung finden werden.
+
+## Erklärung der Regierung der Portugiesischen Republik betreffend das Protokoll über den Beitritt der Regierung des Königreichs Spanien
+
+Bei der Unterzeichnung dieses Protokolls nimmt die Regierung der Portugiesischen Republik den Inhalt des Protokolls über den Beitritt der Regierung des Königreichs Spanien zu dem Übereinkommen von Schengen von 1985 und der beigefügten Erklärungen zur Kenntnis.

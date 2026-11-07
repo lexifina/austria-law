@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der die Beteiligung des Bundes an der Vorarlberger Illwerke Aktiengesellschaft festgelegt wird StF: [BGBl. Nr. 720/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_720_0/1995_720_0.pdf>)
+
+Auf Grund des Art. III Abs. 5 des Bundesverfassungsgesetzes, mit dem das 2. Verstaatlichungsgesetz geändert wird und organisationsrechtliche Bestimmungen für die vom 2. Verstaatlichungsgesetz betroffenen Unternehmungen erlassen werden, [BGBl. Nr. 321/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_321_0/1987_321_0.pdf>), wird mit Zustimmung des Hauptausschusses des Nationalrates verordnet:

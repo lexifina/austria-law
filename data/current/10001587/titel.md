@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für auswärtige Angelegenheiten, mit der Gruppen- und Abteilungsleiterfunktionen, denen eine besonders wichtige Aufgabenstellung zukommt, festgelegt werden StF: [BGBl. II Nr. 157/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_157_2/1999_157_2.pdf>)
+
+Auf Grund des § 9 Abs. 3 des Bundesgesetzes über die Zahl, den Wirkungsbereich und die Einrichtung der Bundesministerien (Bundesministeriengesetz 1986), [BGBl. Nr. 76/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 10/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_10_1/1999_10_1.pdf>), wird verordnet:

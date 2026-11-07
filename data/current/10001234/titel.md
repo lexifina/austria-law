@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur gesetzlichen Einräumung von Vorkaufs- und Vorbestandsrechten und ähnlichen Rechten zu bestimmten Verwaltungszwecken StF: [BGBl. Nr. 184/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_184_0/1993_184_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 18. Dezember 1992, K II-1/91-41, – dem Bundeskanzler zugestellt am 8. Februar 1993 – zusammengefaßt hat:

@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002484",
+  "short_title": "Bezeichnung, Abkürzung - EGKS",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002507",
+    "valid_from": "1980-04-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002484&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:45.900853+00:00",
+    "response_sha256": "7aa441216e1b2b350fce5e73460239df4f0d41f12081e2348b8ff8eca4436129",
+    "snapshot_sha256": "ba65ac835ea24b151fff00a4580e74a8c4c5f078c2df6cb350dbdc5ee23918dd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0967a112d18fa96208f918ec434893bd0d7fae2fee1d60fdf4189754393003e7",
+      "sha256": "7118f45e34626d690ce1b12c546b5db46b32e1ad5c750351632f50aeded8cee3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 19. März 1980 betreffend die Bezeichnungen und die Abkürzungen der Bezeichnungen der Europäischen Gemeinschaft für Kohle und Stahl StF: BGBl. Nr. 157/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 157/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_157_0/1980_157_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7cdb4116309efcd22e0b7d5dc5c3bd52746a4f29cde36bf0d193f2f291dbf6ff",
+      "sha256": "3c34f30aae68507d9abb65b9863e0b7b0e4aaa29b4ffae3e1ce15408db2069b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b77dfb5025b57707bf08d80b2a0db66fd0bf88df810c0a52a7de9b7b7425b73",
+      "sha256": "9e32e98cb0c186b9720db845f60caa875f76f446b6d6620804f564cba6d3e25e",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12031941/image001.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

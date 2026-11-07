@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 16. Feber 1973 betreffend das amtliche libanesische Prüfungs- und Gewährzeichen für den Früchteexport StF: [BGBl. Nr. 133/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_133_0/1973_133_0.pdf>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, wird im Einvernehmen mit dem Bundesminister für Auswärtige Angelegenheiten kundgemacht, daß § 6 Abs. 1 des Markenschutzgesetzes 1970 auf das amtliche libanesische Prüfungs- und Gewährzeichen für den Früchteexport, das im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt, Anwendung findet.

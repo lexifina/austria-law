@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011211",
+  "short_title": "Schiffahrt - Eichung der Binnenschiffe",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011476",
+    "valid_from": "1930-07-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011211&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:50:10.773883+00:00",
+    "response_sha256": "c477de6df6050415d2e3b51a8bc3da39b472a1470ff3e89d1a8acee92a177d77",
+    "snapshot_sha256": "8d2c04eea8f39f8430391cbe79ae5c01d68a7ff4ca53cc86f3a8072be8913a39",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5318d8270fe039be49e321979a2d1fe56bab5e4709cd51bba6fcb39063f98eaf",
+      "sha256": "8536a694bf895118711e8752f6f9ee1e64fad05e98c5aad0e38e1bc38ba66d56",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 26. Juni 1930, betreffend die Hinterlegung der Ratifikationsurkunde des Königreiches Jugoslawien zum Übereinkommen über die Eichung der Binnenschiffe StF: BGBl. Nr. 196/1930"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 196/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=196/1930&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26dd9b2d060093d8669890ddd08a1c31843009fc3ad9db37f9519c5667bc54b3",
+      "sha256": "2dbdb9f5ca8938ddd9442740301fd813659c8ab5f2c248fd1ffe7b741b095033",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

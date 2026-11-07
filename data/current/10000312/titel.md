@@ -1,0 +1,3 @@
+Bundesgesetz vom 10. Juli 1958, mit dem weitere Bestimmungen zur Durchführung des IV. Teiles des Staatsvertrages vom 15. Mai 1955, BGBl. Nr. 152, erlassen werden (8. Staatsvertragsdurchführungsgesetz). StF: [BGBl. Nr. 149/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_149_0/1958_149_0.pdf>) (NR: GP VIII [RV 465](<https://www.parlament.gv.at/gegenstand/VIII/I/465>) [AB 508](<https://www.parlament.gv.at/gegenstand/VIII/I/508>) [S. 63.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/63>) BR: [S. 137.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/137>))
+
+Der Nationalrat hat beschlossen:

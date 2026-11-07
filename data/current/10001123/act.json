@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001123",
+  "short_title": "VfGH-Ausspruch, dass einzelne Bestimmungen der Marktordnungsgesetz-Novellen 1985, 1986 und 1987 verfassungswidrig waren und einzelne Bestimmungen der Marktordnungsgesetz-Novellen 1985, 1986, 1987 und 1988 aufgehoben werden",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001127",
+    "valid_from": "1991-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001123&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:38.555900+00:00",
+    "response_sha256": "a3bbb6881bf38a0d2d1ff8359a43eea8a050838f8ebe75915552b1d7540b0fff",
+    "snapshot_sha256": "a1ee932be77ea6c22eeec46070e19683f73ccdd9112ab8ba24e8720733d45ef8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f1cd542e2b8180331c4a1129a0f26a89c4e866aab44996df13ea93ff894e924",
+      "sha256": "ecc32e1ea90a42535dbe31867f3c8ca32899396f60c172cf0810c336af12bc37",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, daß einzelne Bestimmungen der Marktordnungsgesetz-Novellen 1985, 1986 und 1987 verfassungswidrig waren und über die Aufhebung einzelner Bestimmungen der Marktordnungsgesetz-Novellen 1985, 1986, 1987 und 1988 durch den Verfassungsgerichtshof StF: BGBl. Nr. 220/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 220/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_220_0/1991_220_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "835289ef7702e42ac6d8ec80a70019466db6b681b2534feb4db9f18997c34103",
+      "sha256": "529ad99f2ebbe8d68a4531a2ad5461780dc72b26c2afa4ff278bf68c80c00032",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

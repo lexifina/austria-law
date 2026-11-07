@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Handel und Wiederaufbau vom 21. Mai 1953, womit Zeichen der Weltgesundheitsorganisation von der Registrierung nach dem Markenschutzgesetz ausgeschlossen werden. StF: [BGBl. Nr. 83/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_83_0/1953_83_0.pdf>)

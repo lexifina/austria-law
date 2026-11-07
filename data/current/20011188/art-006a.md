@@ -1,0 +1,3 @@
+### Überschreitung im Geldfluss aus der Finanzierungstätigkeit mit Bedeckung durch den Geldfluss aus der Finanzierungstätigkeit der Untergliederung 58
+
+Artikel VIa. Der Bundesminister für Finanzen ist ermächtigt, im Finanzjahr 2020 die Zustimmung zur Überschreitung bei der Voranschlagsstelle 58.01.02 (kurzfristige Verpflichtungen) für Auszahlungen im Geldfluss aus der Finanzierungstätigkeit bis zu insgesamt 15.000 Millionen Euro zu geben, wenn die Bedeckung durch Mehreinzahlungen im Geldfluss aus der Finanzierungstätigkeit der Untergliederung 58 (Voranschlagsstelle 58.01.02) sichergestellt ist.

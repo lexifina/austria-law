@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die repräsentativsten mit einem Zahlungskonto verbundenen Dienste im Sinne des Verbraucherzahlungskontogesetzes (Verbraucherzahlungskonto-Diensteverordnung – VZKDV) StF: [BGBl. II Nr. 60/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/60>) \[CELEX-Nr. [32014L0092](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0092:DE:HTML>)\]
+
+Auf Grund des § 29 Abs. 4 des Verbraucherzahlungskontogesetzes – VZKG, [BGBl. I Nr. 35/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/35>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 158/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/158>), wird verordnet:

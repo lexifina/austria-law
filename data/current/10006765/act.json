@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10006765",
+  "short_title": "EG - Abkommen Österreich - EWG - Protokoll der 25. Tagung",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – EG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006878",
+    "valid_from": "1984-12-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Vor dem Hintergrund des österreichischen EU-Beitritts überholt."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006765&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:58:36.560677+00:00",
+    "response_sha256": "1c74749b217339f5e421dca55f2f6689243da3d349b6ca98a7afc749ef982c15",
+    "snapshot_sha256": "acc8bd5d9a03ecd30d7c27cb0825ca6f146cb1e9e584ef11058b521cf9979d5a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa4240c2a9548faa0d392a1256e798b6837edec236ea81ad45ef1085e436e36a",
+      "sha256": "7f9f4a1d5cbdc484daad27c2d2c1b3ae56c7df4a42ab0854639f9239877214b6",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Vor dem Hintergrund des österreichischen EU-Beitritts überholt."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "ABKOMMEN ÖSTERREICH - EWG - Der Gemischte Ausschuß - Auszug aus dem Protokoll der 25. Tagung am 4. Juli 1984 StF: BGBl. Nr. 480/1984"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 480/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_480_0/1984_480_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "623c946d95c87bc2e6955a37d97ce2338f76a63d752e748e6fe608a85d9d09fe",
+      "sha256": "5f35a7a724eefd7072d59a79054a81fda383bdccdbf8a31f2a96fab95353833f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

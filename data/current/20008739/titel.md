@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die ordnungsgemäße Erfassung, Steuerung, Überwachung und Begrenzung der Risikoarten gemäß § 39 Abs. 2b BWG (Kreditinstitute-Risikomanagementverordnung – KI-RMV) StF: [BGBl. II Nr. 487/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/487>) \[CELEX-Nr.: [32013L0036](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0036:DE:HTML>)\]
+
+Auf Grund des § 39 Abs. 4 des Bankwesengesetzes – BWG, [BGBl. Nr. 532/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 184/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184>), wird mit Zustimmung der Bundesministerin für Finanzen verordnet:

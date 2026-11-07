@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend den Betrieb und die Nutzung des Zollinformationssystems und des Aktennachweissystems für Zollzwecke (Zollinformationssystem- und Aktennachweissystem-Verordnung – ZIS-ANS-V) StF: [BGBl. II Nr. 168/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/168>)
+
+Aufgrund der §§ 119a, 119c und 119j des Zollrechtsdurchführungsgesetzes, [BGBl. Nr. 659/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_659_0/1994_659_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 120/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Fahrverbindungen im Zuge eines Betriebes an der A 4 Ost Autobahn im Bereich der Gemeinde Nickelsdorf StF: [BGBl. Nr. 96/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_96_0/1996_96_0.pdf>)
+
+Auf Grund der §§ 4 Abs. 1 und 27 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, in der Fassung des Bundesgesetzes [BGBl. Nr. 33/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_33_0/1994_33_0.pdf>) unter Berücksichtigung der Bestimmungen der §§ 30 ff. des Umweltverträglichkeitsprüfungsgesetzes, [BGBl. Nr. 697/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf>), wird verordnet:

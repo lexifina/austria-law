@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über die Verwaltungsabgaben in den Angelegenheiten der Bundesverwaltung und über die Art ihrer Einhebung bei den Bundesbehörden (Bundesverwaltungsabgabenverordnung 1983 – BVwAbgV) StF: [BGBl. Nr. 24/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_24_0/1983_24_0.pdf>) idF [BGBl. Nr. 181/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_181_0/1983_181_0.pdf>) (DFB) und [BGBl. II Nr. 103/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/103>) (VFB)
+
+Auf Grund des § 78 des Allgemeinen Verwaltungsverfahrensgesetzes 1950, BGBl. Nr. 172, in der Fassung des Bundesgesetzes [BGBl. Nr. 45/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_45_0/1968_45_0.pdf>) wird verordnet:

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011432",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P2",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011697",
+    "valid_from": "1971-07-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011432&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:56:21.024918+00:00",
+    "response_sha256": "55e0726b00e3ba9d26e0329bade6b5e64d04f75a40a3ef0491de2829f98940f3",
+    "snapshot_sha256": "98bca3a13f6eabc718c0a87c114b5c2000853c1de101e566e3d592e2f1795cf2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2232133e83c139493f86ec67eb3d1cf95d47ab20e4d662a68d2c8124f85a8e1f",
+      "sha256": "9c61204c644ef9df9a869defebf0889babf84d2c1f13bc633db994d36ae170fb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 9. Juni 1971 betreffend den Geltungsbereich des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt vom 21. Juni 1961 StF: BGBl. Nr. 245/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 245/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_245_0/1971_245_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "688399085a6d3141e1cd7b477b02bfd7e18cb1e99fe718f463bf835860fa22fe",
+      "sha256": "d13decd0e242d7edb4e99673b8f9897a008a9a23a817364f2040f224df9291b5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 286/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_286_0/1962_286_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 292/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_292_0/1968_292_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

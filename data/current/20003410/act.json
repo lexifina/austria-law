@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003410",
+  "short_title": "Straßenverlauf der A 14 Rheintal Autobahn in Vorarlberg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003715",
+    "valid_from": "2004-06-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003410&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:00:05.618908+00:00",
+    "response_sha256": "03c4463edf92e19adc47528dfea0ca3d3d992e88d3927f0f9f7a9f5a2c497136",
+    "snapshot_sha256": "77c8a3692c018b229f19dcf58b69f461742c161272ffb481d7fbee9b05c2a327",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9a151532cc4846a20d524ad02761683347f0ef06285c8fca874f52fa9b1d87e",
+      "sha256": "45c46371d09ffd748425e5da240d8ea19490987f86051acabaa5ec6555e5a5c3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie über den Straßenverlauf der A 14 Rheintal Autobahn in Vorarlberg StF: BGBl. II Nr. 261/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 261/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/261"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_50_1/2002_50_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7ebf8da7318f841ca6667fefe615deafffaf82e07b80da0e961c31663208679",
+      "sha256": "0c37123ae4b24b2241af4b4417937b843c19f85b723331c59e0dee871fda1dd7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

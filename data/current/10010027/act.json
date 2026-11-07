@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10010027",
+  "short_title": "Teilung der Evangelischen Pfarrgemeinde A.u.H.B. Salzburg-West",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010231",
+    "valid_from": "1997-10-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010027&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:37:47.877308+00:00",
+    "response_sha256": "f4895393ea6f92fd445d8833b53107ae52ad6e2ef212eedad3c7d7bc065d7495",
+    "snapshot_sha256": "5745ae295e5f6dea397284c61271285093e65038f403423dc69c3d182eedc131",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df9a247d6b98aa2bee6bb043fba8ad50cce8cf331edac09fb19d76a9bcb8dc68",
+      "sha256": "66206cf58df087fcc38a291935f0e20129dbc01691508719f97b3e5785c0232e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Unterricht und kulturelle Angelegenheiten über die Teilung der Evangelischen Pfarrgemeinde A.u.H.B. Salzburg-West StF: BGBl. II Nr. 297/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 297/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_297_2/1997_297_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1c57ab6f94b3ec349f0dd2be2de511047624c223d845d590c214b9897e54147",
+      "sha256": "c8f37fcdd9aae33557f940c7636dba38e2f4aaca964f150cc70062d4142bb549",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend die Grunderwerbsteuer-Selbstberechnungserklärung und die Übermittlung von Daten an die Justiz (Grunderwerbsteuer-Selbstberechnungsverordnung – GrESt-SBV) StF: [BGBl. II Nr. 156/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/156>)
+
+Auf Grund der §§ 12, 13 und 16 des Grunderwerbsteuergesetzes 1987, [BGBl. Nr. 309/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_309_0/1987_309_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 36/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/36>), wird im Einvernehmen mit dem Bundesminister für Justiz verordnet:

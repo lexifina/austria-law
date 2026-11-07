@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20006307",
+  "short_title": "Section Control-Messstreckenverordnung Graz Ost",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30007160",
+    "valid_from": "2009-06-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006307&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:43:29.212080+00:00",
+    "response_sha256": "4fc83081c2c267516ebb4fc374bd980db165df5f2ec86bf238e1dafb0dbb782d",
+    "snapshot_sha256": "b487eecc47f5e61693462fa02206a21bc454561059cc090036e5eea5d00c759f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1be93f8e1cf89f4d15ac6c43122209c12bd463a8d928d55c2fa3594f193cd15",
+      "sha256": "9e040e59302e3cf788c286077d8d9e9f3dc3e5ed20f878d80604a0d16afcb848",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung auf einem Abschnitt der A 2 Süd Autobahn (Section Control-Messstreckenverordnung Graz Ost) StF: BGBl. II Nr. 179/2009"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 179/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/179"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d29308c4fdc8a7bffa2f28e91801e60105c12d3c5a2951e949c45c258e90fb13",
+      "sha256": "9e7ca5b46bc25f6c1223886fb4c2c7e17e8346b5b23c4444d4e3f298d0b673a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95d44b11c71de0b7d087c5f01c12691b27eeb4e17b3807d6e581ca875d53ea50",
+      "sha256": "6a3eea9fe92f7cecb8c6e627f98202fe64064bf2e17d25d9f4747d04e5fb119a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

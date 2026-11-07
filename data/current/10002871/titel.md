@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 8. August 1988 betreffend das amtliche Gewährzeichen zur Kennzeichnung der Qualität aller irakischen Produkte StF: [BGBl. Nr. 508/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_508_0/1988_508_0.pdf>)

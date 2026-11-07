@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz für die befristete Beschäftigung von Ausländerinnen und Ausländern im Tourismus und in der Land- und Forstwirtschaft im Jahr 2026 (Saisonkontingentverordnung 2026) StF: [BGBl. II Nr. 218/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/218>)
+
+Auf Grund des § 5 Abs. 1 Z 1 des Ausländerbeschäftigungsgesetzes – AuslBG, [BGBl. Nr. 218/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 67/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/67>), wird verordnet:

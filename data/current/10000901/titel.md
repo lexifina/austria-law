@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. Jänner 1987 über die Aufhebung der Z 1 des § 1 der Verordnung des Bürgermeisters der Landeshauptstadt Bregenz, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 62/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_62_0/1987_62_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

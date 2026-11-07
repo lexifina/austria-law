@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Entsorgung von Schiffsabfällen und Ladungsrückständen in Seehäfen von Mitgliedstaaten der Europäischen Union (Entsorgungsverordnung-See 2022 – EntsorgungsV-See 2022) StF: [BGBl. II Nr. 203/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/203>) \[CELEX-Nr.: [32019L0883](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L0883:DE:HTML>)\]
+
+Auf Grund des § 7 Abs. 4 des Seeschifffahrts-Erfüllungsgesetzes – SSEG, [BGBl. Nr. 387/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_387_0/1996_387_0.pdf>), zuletzt geändert mit [BGBl. I Nr. 14/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/14>), wird verordnet:

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011345",
+  "short_title": "Errichtung einer Notarstelle in Raaba-Grambach",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40227549",
+    "valid_from": "2020-11-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011345&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:13:19.444121+00:00",
+    "response_sha256": "b045d26a2d02b43035b35f1b4d2028082225fe6ac6e2f3f0f55bebebb55d09e5",
+    "snapshot_sha256": "35c2bf2ca9dbd12e6251f2bc4c65a30341e30916ddac34443794e1dcfb9eb249",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "faf3dbfb871c5a43f1b71e50774cd93bec9333fa9a687a2a048bfde6f3ba450f",
+      "sha256": "1e703603bba1c94bbf8f17165448ba68628d9f35e50ed494884da5d911c35434",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer Notarstelle in Raaba-Grambach StF: BGBl. II Nr. 505/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 505/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/505"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83f820af293a6a0121f12c475395911ff6a869a7b9919769c0d176e86aa72536",
+      "sha256": "aad93361f5380dac7b6b09ea5ff88ec559409d144a4b74ecce6a3e9453c222db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

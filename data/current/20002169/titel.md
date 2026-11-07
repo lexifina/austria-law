@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit und Generationen über die Mitwirkung der Bundesrechenzentrum GmbH bei der Durchführung des § 135a des Allgemeinen Sozialversicherungsgesetzes StF: [BGBl. II Nr. 326/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_326_2/2002_326_2.pdf>)
+
+Auf Grund des § 2 Abs. 6 des Bundesgesetzes über die Bundesrechenzentrum GmbH, [BGBl. Nr. 757/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 47/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_47_1/2001_47_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

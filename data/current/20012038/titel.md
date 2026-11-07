@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Inneres über den Ausspruch des Verfassungsgerichtshofes vom 19. September 2022, dass § 1 Abs. 1 und 2 der Verordnung der Bezirkshauptmannschaft Deutschlandsberg vom 17. April 1999 betreffend das Anschlagen und Aushängen von Druckwerken an öffentlichen Orten, Z S.268/1999, kundgemacht in der Grazer Zeitung, Amtsblatt für die Steiermark, Stück 15/1999, als gesetzwidrig aufgehoben wird StF: [BGBl. II Nr. 377/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/377>)
+
+Gemäß Art. 139 Abs. 5 erster Satz B-VG und § 59 Abs. 2 VfGG iVm § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

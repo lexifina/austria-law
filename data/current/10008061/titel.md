@@ -1,0 +1,1 @@
+Verordnung des Ministeriums des Innern vom 18. September 1875, betreffend die Prüfung der Aerzte zur Erlangung einer bleibenden Anstellung im öffentlichen Sanitätsdienste bei den politischen Behörden StF: [RGBl. Nr. 126/1875](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=126/1875&amp;SkipToDocumentPage=True>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 7. Jänner 1986 betreffend den Geltungsbereich des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation „EUTELSAT'' StF: [BGBl. Nr. 24/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_24_0/1986_24_0.pdf>)

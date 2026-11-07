@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft zur Festlegung einer angemessenen Aufwandsentschädigung für die Mitglieder des Aufsichtsrates des Wissenschaftsfonds (FWF-Vergütungsverordnung – FWF-VV) StF: [BGBl. II Nr. 401/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/401>)
+
+Auf Grund des Forschungs- und Technologieförderungsgesetzes, [BGBl. Nr. 434/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_434_0/1982_434_0.pdf>), zuletzt geändert durch die Wissenschaftsfonds-Novelle 2015, [BGBl. I Nr. 110/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/110>), insbesondere dessen § 4a wird verordnet:

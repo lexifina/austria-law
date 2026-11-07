@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Begrenzung von Emissionen aus Aufbereitungsanlagen für bituminöses Mischgut StF: [BGBl. Nr. 489/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_489_0/1993_489_0.pdf>)
+
+Auf Grund des § 82 Abs. 1 der Gewerbeordnung 1973, [BGBl. Nr. 50/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_50_0/1974_50_0.pdf>), zuletzt geändert durch die Gewerberechtsnovelle 1992, [BGBl. Nr. 29/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_29_0/1993_29_0.pdf>), wird vom Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit den Bundesministern für Arbeit und Soziales und für Umwelt, Jugend und Familie verordnet:

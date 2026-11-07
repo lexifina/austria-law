@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001686",
+  "short_title": "Errichtung einer vierten Notarstelle in Wien-Floridsdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001831",
+    "valid_from": "2001-12-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001686&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:35:55.581428+00:00",
+    "response_sha256": "c1938b4331f2ee9097d68d61665a0b22ae2c5afebebe27a7d67a5559dcc90ecd",
+    "snapshot_sha256": "751de66a6fc7f6a137dbf03781d00e456b219af290a43ad8610a3053578d8de1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2dee7b5dd1032df6ce98bf4d23e0cb3a8c9c44adcf85986ac830707d62caff05",
+      "sha256": "90d5bb71d116fb756381101cd474dbe3d4b7f5039e8a8620227be7f2906a0d7c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Wien-Floridsdorf StF: BGBl. II Nr. 455/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 455/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_455_2/2001_455_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b23d35a140f372dcbf4a2de9acde8c8ace7bacabcab5a421452aed2d87c3cfa3",
+      "sha256": "93323653c0f79bcfda036eb0e01be58070bedf02df9708a57bd8e962583fb8cb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

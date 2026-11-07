@@ -1,0 +1,15 @@
+## Anlage III
+
+Soweit die in diesem Protokoll vorgesehenen Maßnahmen von der Gemeinschaft deklariertes Kernmaterial betreffen und unbeschadet des Artikels 1 dieses Protokolls, arbeiten die Organisation und die Gemeinschaft zusammen, um die Durchführung dieser Maßnahmen zu erleichtern, und vermeiden unnötige Doppelarbeit.
+
+Die Gemeinschaft übermittelt der Organisation bei einer Weitergabe zu nuklearen oder nichtnuklearen Zwecken aus einem Staat in einen anderen Mitgliedstaat der Gemeinschaft sowie bei einer derartigen Weitergabe in einen Staat aus einem anderen Mitgliedstaat der Gemeinschaft die Informationen, die den Informationen entsprechen, die auf Grund des Artikels 2 Abschnitt a Ziffer vi Buchstaben b und c bei der Aus- oder Einfuhr von Ausgangsmaterial, das nach Zusammensetzung und Reinheit noch nicht für die Brennstoffherstellung oder die Isotopenanreicherung geeignet ist, zu übermitteln sind.
+
+Jeder Staat übermittelt der Organisation bei einer Weitergabe in einen oder aus einem anderen Mitgliedstaat der Gemeinschaft die Informationen, die den Informationen entsprechen, die über die in Anlage II dieses Protokolls angegebenen Ausrüstungen und nichtnuklearen Materialien auf Grund des Artikels 2 Abschnitt a Ziffer ix Buchstabe a bei Ausfuhren und des Artikels 2 Abschnitt a Ziffer ix Buchstabe b auf besonderes Ersuchen der Organisation bei Einfuhren zu übermitteln sind.
+
+In bezug auf die Gemeinsame Forschungsstelle der Gemeinschaft führt die Gemeinschaft auch die in diesem Protokoll für die Staaten festgelegten Maßnahmen, soweit angemessen, in enger Zusammenarbeit mit dem Staat durch, in dessen Hoheitsgebiet sich eine Einrichtung der Forschungsstelle befindet.
+
+Der Verbindungsausschuß, der auf Grund des Artikels 25 Buchstabe a des in Artikel 26 des Sicherungsübereinkommens erwähnten Protokolls eingesetzt worden ist, wird erweitert, um die Teilnahme von Vertretern der Staaten und die Anpassung an die aus diesem Protokoll erwachsenden neuen Umstände zu ermöglichen.
+
+Ausschließlich zur Durchführung dieses Protokolls und unbeschadet der jeweiligen Zuständigkeit und Verantwortung der Gemeinschaft und ihrer Mitgliedstaaten unterrichtet jeder Staat, der beschließt, der Kommission der Europäischen Gemeinschaften die Durchführung bestimmter Bestimmungen anzuvertrauen, die auf Grund dieses Protokolls in den Verantwortungsbereich der Staaten fallen, die übrigen Vertragsparteien des Protokolls davon in einem Zusatzschreiben. Die Kommission der Europäischen Gemeinschaften teilt den übrigen Vertragsparteien des Protokolls mit, daß sie den Beschluß annimmt.
+
+GESCHEHEN ZU Wien am 22. September 1998 in zwei Urschriften in dänischer, deutscher, englischer, finnischer, französischer, griechischer, italienischer, niederländischer, portugiesischer, schwedischer und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich, im Falle von unterschiedlichen Auslegungen jedoch der Wortlaut in den Amtssprachen des Gouverneursrats der Internationalen Atomenergie-Organisation maßgebend ist.

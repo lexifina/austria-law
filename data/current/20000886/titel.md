@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie über die Aufhebung der Verordnung des Bundesministers für Wissenschaft und Verkehr vom 24. März 1997, Z 138.002/32-II/A/31/97 durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 287/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_287_2/2000_287_2.pdf>)

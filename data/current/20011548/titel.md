@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Kunst, Kultur, öffentlichen Dienst und Sport zur Besetzung von Planstellen (Planstellenbesetzungsverordnung 2021) StF: [BGBl. II Nr. 235/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/235>)
+
+Auf Grund des § 3 Abs. 2 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, des § 2a Abs. 1 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86 und des Art. VII des Richter- und Staatsanwaltschaftsdienstgesetzes (RStDG), [BGBl. Nr. 305/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf>), jeweils zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 153/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/153>), wird verordnet:

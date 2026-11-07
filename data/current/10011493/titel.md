@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 12. April 1976 betreffend den Beitritt weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 175/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_175_0/1976_175_0.pdf>)

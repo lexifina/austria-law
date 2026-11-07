@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über Schiffsüberprüfungs- und -besichtigungsorganisationen (Klassen-Verordnung) StF: [BGBl. II Nr. 307/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/307>) \[CELEX-Nr.: [32009L0015](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0015:DE:HTML>)\]
+
+Auf Grund des § 7 Abs. 4 des Seeschifffahrts-Erfüllungsgesetzes - SSEG, [BGBl. Nr. 387/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_387_0/1996_387_0.pdf>), zuletzt geändert mit [BGBl. I Nr. 32/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_32_1/2002_32_1.pdf>), wird verordnet:

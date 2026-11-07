@@ -1,0 +1,7 @@
+## BUNDESVORANSCHLAG 2000
+
+(Anm.: Bundesvoranschlag 2000 nicht darstellbar, es wird auf die Kundmachung des BGBl. im RIS verwiesen:
+
+[BGBl. I Nr. 38/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_38_1/2000_38_1.pdf>)
+
+[BGBl. I Nr. 123/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/123>))

@@ -1,0 +1,3 @@
+Gesetz vom 27. Februar 1907, womit Bestimmungen des Gesetzes vom 21. September 1869, R. G. Bl. Nr. 150 (über die Erfordernisse der Exekutionsfähigkeit der vor Vertrauensmännern aus der Gemeinde abgeschlossenen Vergleiche und über die von denselben zu entrichtenden Gebühren), abgeändert und ergänzt werden. StF: [RGBl. Nr. 59/1907](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=59/1907&amp;SkipToDocumentPage=True>)
+
+Die Bestimmungen der §§ 1, 2, 8 und 9 des Gesetzes vom 21. September 1869, R. G. Bl. Nr. 150 (über die Erfordernisse der Exekutionsfähigkeit der vor Vertrauensmännern aus der Gemeinde abgeschlossenen Vergleiche und über die von denselben zu entrichtenden Gebühren), werden abgeändert und haben zu lauten:

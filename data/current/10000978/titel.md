@@ -1,0 +1,3 @@
+Bundesgesetz vom 13. Dezember 1988 über den Ersatz des bei der Ausübung polizeilicher Zwangsbefugnisse entstandenen Schadens (Polizeibefugnis-Entschädigungsgesetz) StF: [BGBl. Nr. 735/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_735_0/1988_735_0.pdf>) (NR: GP XVII [RV 722](<https://www.parlament.gv.at/gegenstand/XVII/I/722>) [AB 809](<https://www.parlament.gv.at/gegenstand/XVII/I/809>) [S. 87.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/87>) BR: [AB 3615](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3615>) [S. 510.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/510>))
+
+Der Nationalrat hat beschlossen:

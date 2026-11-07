@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die Grenzmengen der Suchtgifte (Suchtgift-Grenzmengenverordnung – SGV) StF: [BGBl. II Nr. 377/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_377_2/1997_377_2.pdf>)
+
+Auf Grund des § 28b des Suchtmittelgesetzes (SMG), [BGBl. I Nr. 112/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_112_1/1997_112_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 143/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/143>) und die Bundesministeriengesetz-Novelle 2009, [BGBl. I Nr. 3/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/3>), wird im Einvernehmen mit der Bundesministerin für Justiz verordnet:

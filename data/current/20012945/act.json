@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012945",
+  "short_title": "Valorisierung des Fahrtkostenzuschusses",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40271401",
+    "valid_from": "2025-08-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012945&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:47:09.276985+00:00",
+    "response_sha256": "2d712484df0836e9f38ad7ef9dc5453da01669789484620d57481c86ac76e12a",
+    "snapshot_sha256": "98502953f3e5c3d05b645b2cb4feb5b26b31ce86e5f137a6aa16ae8466f5c486",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfc0f56395d8c70f38a67f894797f6cc6a4b334228d1512fa4c2f408bbea077a",
+      "sha256": "bdea2d3b34d17d92c4bb528a998c630675806deaea3fe7167b18633376c6d373",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über die Valorisierung des Fahrtkostenzuschusses StF: BGBl. II Nr. 175/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 175/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/175"
+        },
+        {
+          "text": "BGBl. II Nr. 422/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/422"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b58f1e57d4360068ebd4f9fab29674605a389a76d9537b186c23c7cec5d84e0",
+      "sha256": "b7423386346638d31aeb74f01a299dfcb6d443acd50a0fe5e02c48657c5e8630",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

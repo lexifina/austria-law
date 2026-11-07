@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control, mit der die Anforderungen an intelligente Messgeräte bestimmt werden (Intelligente Gas-Messgeräte-AnforderungsVO 2012 – IGMA-VO 2012) StF: [BGBl. II Nr. 501/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/501>)
+
+Auf Grund § 128 Abs. 2 Gaswirtschaftsgesetz 2011 (GWG 2011), [BGBl I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), iVm § 7 Abs. 1 Energie-Control-Gesetz (E-ControlG), [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 51/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/51>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über eine Änderung des Artikels 56 des Abkommens über die Internationale Zivilluftfahrt StF: [BGBl. III Nr. 49/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_49_3/1999_49_3.pdf>)

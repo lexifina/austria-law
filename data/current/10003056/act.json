@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003056",
+  "short_title": "Name, Emblem - EUREKA",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003081",
+    "valid_from": "1992-07-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003056&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:09.454732+00:00",
+    "response_sha256": "c4b7cb0fd7892f9012934843988cc8043a55ba6671228e12288557b83383851d",
+    "snapshot_sha256": "2946d8ca2bdc900434d06990b9dbb2d00c8990648bf7aa10045dd1d22ae1a0d8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40f3207e8155a35955966deabc7eb72461c4bf0434fa2df7b0b651b4ec5072d5",
+      "sha256": "fc1915667c3492ad9721f34f88b7087a284672cd8c81b6aa8f4e7b577294fc7e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen und das Emblem der Organisation ,,EUREKA'' StF: BGBl. Nr. 430/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 430/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_430_0/1992_430_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91325d33368927ca77eb543ff55a575ee8c59494735f451eac94ff6f33955f4b",
+      "sha256": "6ed3e90abb683ce276410980d37f7af46a6c2342b9a186fbab9965df2f546048",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_350_0/1977_350_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

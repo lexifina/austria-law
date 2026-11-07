@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit, mit der die aliquoten administrativen und finanziellen Aufwendungen sowie die aliquoten Aufwendungen für die Ausgleichsenergie der Ökostromabwicklungsstelle für die Jahre 2006 und 2007 bestimmt werden StF: [BGBl. II Nr. 378/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/378>)
+
+Auf Grund des § 21a des Ökostromgesetzes, [BGBl. I Nr. 149/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_149_1/2002_149_1.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 105/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/105>), wird verordnet:

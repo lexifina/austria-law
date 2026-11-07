@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003042",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Hietzing",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003067",
+    "valid_from": "1992-05-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003042&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:50.077631+00:00",
+    "response_sha256": "38e16052ec4ef580666e008543eb340214561870c42e7947b57a8b0d9f2f942a",
+    "snapshot_sha256": "71db46324d4ff2af5735b6d4a55247f5f9ec5bfcbe9f5ce689cf32a85eded776",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fc0acca58fde92f54f44761c62ac338e931ebb89c61f22d53da5881dec656e5f",
+      "sha256": "df767e6fa05bcdcc1c406c3e07170f8dbbe2b130e168da97f7a69b96fe059dcf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Wien-Hietzing StF: BGBl. Nr. 257/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 257/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_257_0/1992_257_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d6ef59eefd831440d537548ae8d63611e37e411b6bb1096a874e41391bdd6d6",
+      "sha256": "e85ed433b9da4f6c96a092b6153b5f846d5e4128af0e7a839461bc657730e153",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

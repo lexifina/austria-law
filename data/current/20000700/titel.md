@@ -1,0 +1,3 @@
+Bundesgesetz vom 22. Juni 1949 über die Rückstellung entzogenen Vermögens juristischer Personen des Wirtschaftslebens, die ihre Rechtspersönlichkeit unter nationalsozialistischem Zwang verloren haben (Fünftes Rückstellungsgesetz). StF: [BGBl. Nr. 164/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_164_0/1949_164_0.pdf>) (NR: GP V [RV 643](<https://www.parlament.gv.at/gegenstand/V/I/643>) [AB 834](<https://www.parlament.gv.at/gegenstand/V/I/834>) [S. 114.](<https://www.parlament.gv.at/gegenstand/V/NRSITZ/114>) BR: [S. 45.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/45>))
+
+Der Nationalrat hat beschlossen:

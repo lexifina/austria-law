@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über die Grundsätze der chef- und kontrollärztlichen Bewilligung für Heilmittel, der nachfolgenden Kontrolle von Verschreibungen, sowie die Grundsätze der Dokumentation (Heilmittel-Bewilligungs- und Kontroll-Verordnung) StF: [BGBl. II Nr. 473/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/473>)
+
+Auf Grund des § 609 Abs. 9 des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 106/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/106>), wird verordnet:

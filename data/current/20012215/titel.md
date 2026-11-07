@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Justiz über die Änderung der Richtwerte nach dem Richtwertgesetz StF: [BGBl. II Nr. 81/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/81>)
+
+Gemäß § 5 Abs. 2 des Richtwertgesetzes, [BGBl. Nr. 800/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_800_0/1993_800_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 59/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/59>), wird auf Grund der Verlautbarung der Bundesanstalt Statistik Österreich vom 23. Februar 2023 kundgemacht, dass sich die in § 5 Abs. 1 des Richtwertgesetzes festgesetzten Richtwerte mit Wirksamkeit vom 1. April 2023 wie folgt ändern:

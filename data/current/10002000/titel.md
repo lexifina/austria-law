@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Handel und Wiederaufbau vom 13. Feber 1961, womit das Zeichen der Internationalen Atomenergiebehörde von der Registrierung nach dem Markenschutzgesetz 1953 ausgeschlossen wird. StF: [BGBl. Nr. 48/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_48_0/1961_48_0.pdf>)

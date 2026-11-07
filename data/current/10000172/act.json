@@ -1,0 +1,95 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000172",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000173",
+    "valid_from": "1933-01-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Soweit es Maßnahmen zum Schutz gegen die unbefugte Führung des von Ländern und Gemeinden geschaffenen Wappen, Siegel, Titel und Ehrenzeichen betrifft, sind in Gesetzgebung und Vollziehung seit der B-VG Novelle 1974, BGBl. Nr. 444/1974, nunmehr die Länder zuständig (Art. VII)."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000172&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:23:47.046228+00:00",
+    "response_sha256": "f7f1e25c854a66b234acad4c8ef563c191c469ebbebda409d171840991bc17c8",
+    "snapshot_sha256": "2e42d1efe8a121c5098887483dc5070eca5960ef7b4e6577775bcf63b92d6db5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7993419338ba6c603c0e8f4d491b73dd05225ebeca0fcd41d6196075652ad57",
+      "sha256": "d3091b0612c2c4ac2b3c4fcb1cd714bdb04e650d48605803b1da2a73af0def01",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Soweit es Maßnahmen zum Schutz gegen die unbefugte Führung des von Ländern und Gemeinden geschaffenen Wappen, Siegel, Titel und Ehrenzeichen betrifft, sind in Gesetzgebung und Vollziehung seit der B-VG Novelle 1974, BGBl. Nr. 444/1974, nunmehr die Länder zuständig (Art. VII)."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 28. Dezember 1932, betreffend die Feststellung des Verfassungsgerichtshofes, daß der Schutz gegen Vortäuschung öffentlicher Berechtigungen und unbefugte Verfertigung amtlicher Siegel eine Angelegenheit der Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit ist. StF: BGBl. Nr. 1/1933"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 444/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_444_0/1974_444_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 1/1933",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1933&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR11000173/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd9bea8afbf3cb828c70a89834886a73f59ab9c257c859baae7273ebc6af8ad1",
+      "sha256": "2a19edccf36c024c3619881568dd4df788b3da3d3844e72eb65b578eae158dca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

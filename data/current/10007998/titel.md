@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Gleichhaltung von Prüfungen mit der Ausbilderprüfung und über die Gleichhaltung von Ausbildungen mit dem Ausbilderkurs StF: [BGBl. II Nr. 262/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_262_2/1998_262_2.pdf>)
+
+Auf Grund des § 29h Abs. 1 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_142_0/1996_142_0.pdf>) (Anm.: richtig: [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>)), in der Fassung der Berufsausbildungsgesetz-Novelle 1997, [BGBl. I Nr. 67/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_67_1/1997_67_1.pdf>), wird verordnet:

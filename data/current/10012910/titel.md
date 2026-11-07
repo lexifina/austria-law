@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Abkommens über die Internationale Zivilluftfahrt StF: [BGBl. III Nr. 41/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_41_3/1999_41_3.pdf>)

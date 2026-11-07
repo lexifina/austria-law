@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Justiz über den Beitritt Rumäniens zu dem Berner Übereinkommen zum Schutze von Werken der Literatur und der Kunst in der in Rom am 2. Juni 1928 geänderten Fassung StF: [BGBl. Nr. 282/1936](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=282/1936&amp;SkipToDocumentPage=True>)

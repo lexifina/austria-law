@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003567",
+  "short_title": "Name, Abkürzung, Emblem - European Agency for the Evaluation of Medicinal Products",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003596",
+    "valid_from": "1998-06-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003567&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:17:05.101349+00:00",
+    "response_sha256": "260764b2ceecd96d368c16d57f5fd5075a5f08eb47a2cd4c576d1634dd836c95",
+    "snapshot_sha256": "ede20f888db5ad3256b0e3acf2fd53c648ee94c74b8485f40e6e6c63aed8e84c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b80e8def9cb1e4b4dc9f5f95f9932903d209b8fffd1a86afd45517936c5b27f6",
+      "sha256": "ebddaf7571c045a77248a81f6797c432f9af33d17e69082b793a8ed8a8775969",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem (sowohl in Farbe als auch in schwarzweiß), den Namen und die Abkürzung der European Agency for the Evaluation of Medicinal Products StF: BGBl. II Nr. 196/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 196/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_196_2/1998_196_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eac7e6f8312dfcad16ca2cc21f4bc6bacfafd8a2fed9b5392213e02d925c7f86",
+      "sha256": "8c1c0f667e735f9b05b1ae275985e7fe1c6f1c7b471a7765e908fdcfe95c3f0b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

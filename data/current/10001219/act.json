@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001219",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001225",
+    "valid_from": "1992-12-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001219&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:43:32.458225+00:00",
+    "response_sha256": "401f83bcb03c3565296fe9fff7d2afe6f2ccc03b0cb61bfec27699cf8d9719aa",
+    "snapshot_sha256": "4dfb73d48e39c77d23ff13cc9a38276c1b33119c3143a5996e6b6983720bd3fa",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25f7f12e8093a76b1e3a20387d34b7fb4dc228619b554c22855f38307d3f372d",
+      "sha256": "15ef4c706004ce8feccbda7d84e9cca1825deefc57af75ab1de0e910851e7727",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Errichtung, der Erhaltung und des Betriebes von Pflegeheimen StF: BGBl. Nr. 790/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 790/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_790_0/1992_790_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec8f97302f07d0f57631f2e189891b915c09a74f22077a79da4f1f9830a8bd25",
+      "sha256": "8fd866ed25f15771230969841c4efc65377c2c5f46460f577bd2d243750061f3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

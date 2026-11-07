@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003738",
+  "short_title": "Schiffahrt - Hilfeleistung und Bergung in Seenot sowie Regeln über den Zusammenstoß von Schiffen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004056",
+    "valid_from": "1936-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003738&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:04:16.409420+00:00",
+    "response_sha256": "24cef40f94154d355d1d6982a390a2a70cb9f440fb07470f8d647f0780a3e4a1",
+    "snapshot_sha256": "bd04de23f81f56dfa62862d6dc80fd67e61acec98639f8540a295d87543096f2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2fb84e35803f445dd7aaa5fb0f7f17ba045f197f714923dad557a7733a4718e7",
+      "sha256": "473cae385a40ba55f322fed438259f13ce82da36cc1402d32fa30d085c3d5bea",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes, betreffend den Beitritt der Union der Sozialistischen Sowjetrepubliken zu den Internationalen Übereinkommen zur einheitlichen Feststellung bestimmter Regeln über den Zusammenstoß von Schiffen sowie zur einheitlichen Feststellung bestimmter Regeln über Hilfeleistung und Bergung in Seenot StF: BGBl. Nr. 302/1936"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 302/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=302/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "17450584f61a63f247995b22eeba7a7622e5ab25558ccf2663c5b2fad61836ff",
+      "sha256": "8264caa2c753faca9c8d28717959434f60001c9af862f0acd07286a3cba6ae70",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

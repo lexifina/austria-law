@@ -1,0 +1,1314 @@
+{
+  "sample_only": false,
+  "included_provisions": 31,
+  "source_provision_count": 31,
+  "schema_version": 1,
+  "gesetzesnummer": "20001703",
+  "short_title": "E-Commerce-Gesetz",
+  "abbreviation": "ECG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001848",
+    "valid_from": "2002-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001703&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:36:04.283333+00:00",
+    "response_sha256": "afa85b4a32c7b585475dd37684cbc50200f5eec8a575805fe6ae7b6d2588a520",
+    "snapshot_sha256": "6ba4e86dfe56a71e1fe8347c5461b087bc77af7e7984b74e4fcfbdabb3b7f3e2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f66fdf9da2d3b2098d25931f202b0eff938dc1657109788a80e530f8541969d8",
+      "sha256": "b6b85fec3ee470e141810529508ad6f3c0e91b933caf40f22be777307f5496ba",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz, mit dem bestimmte rechtliche Aspekte des elektronischen Geschäfts- und Rechtsverkehrs geregelt werden (E-Commerce-Gesetz – ECG) StF: BGBl. I Nr. 152/2001 (NR: GP XXI RV 817 AB 853 S. 83. BR: AB 6499 S. 682.) [CELEX-Nr.: 300L0031]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 34/2015 (NR: GP XXV RV 354 AB 436 S. 55. BR: 9274) [CELEX-Nr.: 32009L0138, 32014L0051] BGBl. I Nr. 148/2020 (NR: GP XXVII RV 481 AB 516 S. 69. BR: 10456 AB 10523 S. 917.) [CELEX-Nr.: 32011L0093, 32012L0029, 32017L0541] BGBl. I Nr. 61/2022 (NR: GP XXVII RV 1291 AB 1400 S. 147. BR: AB 10924 S. 939.) BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 152/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_152_1/2001_152_1.pdf"
+        },
+        {
+          "text": "RV 817",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/817"
+        },
+        {
+          "text": "AB 853",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/853"
+        },
+        {
+          "text": "S. 83.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/83"
+        },
+        {
+          "text": "AB 6499",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6499"
+        },
+        {
+          "text": "S. 682.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/682"
+        },
+        {
+          "text": "300L0031",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0031:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "RV 354",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/354"
+        },
+        {
+          "text": "AB 436",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/436"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/55"
+        },
+        {
+          "text": "9274",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9274"
+        },
+        {
+          "text": "32009L0138",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0138:DE:HTML"
+        },
+        {
+          "text": "32014L0051",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0051:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 148/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/148"
+        },
+        {
+          "text": "RV 481",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/481"
+        },
+        {
+          "text": "AB 516",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/516"
+        },
+        {
+          "text": "S. 69.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/69"
+        },
+        {
+          "text": "10456",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10456"
+        },
+        {
+          "text": "AB 10523",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10523"
+        },
+        {
+          "text": "S. 917.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/917"
+        },
+        {
+          "text": "32011L0093",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0093:DE:HTML"
+        },
+        {
+          "text": "32012L0029",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0029:DE:HTML"
+        },
+        {
+          "text": "32017L0541",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L0541:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/61"
+        },
+        {
+          "text": "RV 1291",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1291"
+        },
+        {
+          "text": "AB 1400",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1400"
+        },
+        {
+          "text": "S. 147.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/147"
+        },
+        {
+          "text": "AB 10924",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10924"
+        },
+        {
+          "text": "S. 939.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/939"
+        },
+        {
+          "text": "BGBl. I Nr. 182/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182"
+        },
+        {
+          "text": "RV 2309",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2309"
+        },
+        {
+          "text": "AB 2344",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2344"
+        },
+        {
+          "text": "S. 247.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/247"
+        },
+        {
+          "text": "11366",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11366"
+        },
+        {
+          "text": "AB 11400",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11400"
+        },
+        {
+          "text": "S. 961.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/961"
+        },
+        {
+          "text": "BGBl. I Nr. 182/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182"
+        },
+        {
+          "text": "BGBl. I Nr. 182/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182"
+        },
+        {
+          "text": "BGBl. I Nr. 182/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "[Anm.: Inhaltsverzeichnis wurde nicht im BGBl. kundgemacht Stand: 17.2.2023 gemäß BGBl. I Nr. 182/2023 1. Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Zulassung von Diensten der Informationsgesellschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zulassungsfreiheit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Informationspflichten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Informationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationen über kommerzielle Kommunikation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nicht angeforderte kommerzielle Kommunikation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kommerzielle Kommunikation für Angehörige geregelter Berufe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Abschluss von Verträgen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationen für Vertragsabschlüsse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abgabe einer Vertragserklärung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vertragsbestimmungen und Geschäftsbedingungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zugang elektronischer Erklärungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Ansprüche gegenüber Vermittlungsdiensteanbietern und Maßnahmen gegen Hass im Netz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunftsansprüche",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren bei Auskunftsanordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationsmechanismus für Entfernungsanordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schadenersatz bei Hass im Netz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(§§ 17. bis 19. aufgehoben durch BGBl. I Nr. 182/2023)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Herkunftslandprinzip und Ausnahmen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Herkunftslandprinzip",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahmen vom Herkunftslandprinzip",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abweichungen vom Herkunftslandprinzip",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Verbindungsstelle",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "(§ 24. aufgehoben durch BGBl. I Nr. 182/2023)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbindungsstelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Abschnitt Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwaltungsübertretungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tätige Reue",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Abschnitt Vollzugs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "In-Kraft-Treten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise auf andere Bundesgesetze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollzug",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hinweise auf Notifikation und Umsetzung]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c70cd8c8d32561b2c2f628a8f485ad7955f6db2f2f9965a64f199964868ffa39",
+      "sha256": "ec01d5f13c16de5d6c3e4c516a9b095b5654fb7306585e9c602a4deab5179600",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33df52113520fa5f2b66e9be46ef6bd124310895cdf1468df24dae8ca1703635",
+      "sha256": "d6073055d935c17bdeac7b2195e33bf80c4f300d7d5756e2e03c01663ea5f67a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d38e621602d1a4e547519f84bce3aa70165d3c09aa140bd72c27c091feaa7dff",
+      "sha256": "2312976be2fcb704734fe7e6dd9844fc319798169283bb83336f3013ee4c7ba6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Zulassung von Diensten der Informationsgesellschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "102724543530511d71ee83cbfa4788c69485580838d16090e814712f574084eb",
+      "sha256": "c268b711827c48182fe0416d9ea114f76fd8b1573f9b0b86f8f8bf4437de6378",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "3. Abschnitt Informationspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56204d5e6e4e1cdf7406b21df432030c8dc1911f5a3f94c959dc4b18103fa904",
+      "sha256": "acc2de5688bf31cbbce1f9c9fa1f10270fbc5437e99ad9280c825552f8d1927e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Informationen über kommerzielle Kommunikation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6b1fc25039acc1830c89edbeb82350c945ed40cb68ddc541475e697cb2aed1da",
+      "sha256": "d0f2d6abdff8705e095a147b46205585c9a82a52a0935772664485439081beb7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Nicht angeforderte kommerzielle Kommunikation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b39b9260c249d244aca4c479bf66e15ed64205526536e8473f0bbcabdef04d80",
+      "sha256": "00a0892ccfa23b6fba08ac77f2257e7d10981c85098953dee83f43c3cee29af0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Kommerzielle Kommunikation für Angehörige geregelter Berufe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "64c9eab01a59e709e9d513a61601b911931446cfbcc92e43673315d84e7dbaaf",
+      "sha256": "ad6957ea8e76453bbae1a8ae1c2d818ade8bcd48b4d84fb5fe7fa8928334ed3c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "4. Abschnitt Abschluss von Verträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6a1f385d5b3feb1928c3ac2460f87686ffefd4bb2034387849b1c36d466a0db2",
+      "sha256": "13865b7fc04dfe930c420b28e0844c2b4d4796ce3753e7a31808ed749ac61f9e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Abgabe einer Vertragserklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfbf31cf0ddfee9269388ef18170187c38ccfb3328babaf7b35359f72305d1c8",
+      "sha256": "84e32340a08b436bd69fa7568cfa9d9a74ee302d8c51175bb9683f9f62bb5c6f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Vertragsbestimmungen und Geschäftsbedingungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78428729f0e487ea3eb3dcbab97bfcfb7aa82b2eef407b35e5e1db7b6a2be82c",
+      "sha256": "3872cf88a797eb15a05580150d7fcb9e2184a8d2f470930e624f373439d9c64a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Zugang elektronischer Erklärungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a91bec5e571f0fefbbafc2c1b85da01e53d07a1d6a2cc995f2349ecccabc50b3",
+      "sha256": "505e50f06c3ce023afc707002fd32764419d481b93ee56e7c996e7acc6cc68b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "5. Abschnitt Ansprüche gegenüber Vermittlungsdiensteanbietern und Maßnahmen gegen Hass im Netz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b6c2340e6707c42fda94defab8c39b6cea1b41bf4740a42150893c22f3ee7468",
+      "sha256": "d9d6ef3a671a2ff71b60c607bc82dd5371d3f0f66d6c687fe85cf29e8b4c8fdc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Verfahren bei Auskunftsanordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ccd80233cf14cc0af7582857759843d7e12c3cce984a23c0989fc72da6a25ed",
+      "sha256": "19dde5de6419d5bde0127da6650b448f0b8ac64eac3204dcf6689d4863bfe67f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Informationsmechanismus für Entfernungsanordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aca7e98fd697e44305ced5ff810517fe6cd12adaad6cb3de668c843611844163",
+      "sha256": "9b11794f4690550874bb0d2bf4bbad5da9f479c88cd50edc501b193b3d856edc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Schadenersatz bei Hass im Netz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebe2380a518ab3c30a642dcd7cec9815fde1c4a3fcc0b276c75a24672f4c7d7f",
+      "sha256": "0fbae735e579b1873d44879af5de0e1dc9a89acab73d24760a42f016f9751e83",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 314/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_314_0/1981_314_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "6. Abschnitt Herkunftslandprinzip und Ausnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f594811d7fa1d1ca05d0ab7ac797bf051b8cfb01fc3bc71742e21fe18e06a79",
+      "sha256": "87d7d44106f62808a0b02d29ae6872129d24721f202ddf6c366bfc5ed9a9c626",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Ausnahmen vom Herkunftslandprinzip",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a63ce29d126b7fbc61dd8128f560ef41954bd1aa0ea929e779412b0b2444378",
+      "sha256": "3d9cf46f07554f3ecc3e3ddefafbaf478309526f1830758fbeb1a2210b330d77",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Abweichungen vom Herkunftslandprinzip",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f3a04736e58be7e1371e3a1672ddbdaf1ca210579d9ace94874a68748bfc30e",
+      "sha256": "9a819fdfb7e27d0c99d876aa5e8eb0df2c16ba6648d55b802a2e1fdb5a853169",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "§ 23.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "584d99e151bb2acecc340fb9a24fd898f4208978d7a15fbbc2caae5befdc6264",
+      "sha256": "13f55ab1b1cb855c61e97ba15de573ce197ae83d8a4d86f6840e54861a337274",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "7. Abschnitt Verbindungsstelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2a7c5a08e4d7c9aaf9248f1062c4c86c9cb8aa313fb71aca19a0a6a60d3ec24",
+      "sha256": "a39a276d60a51ef8da91300c03db8eafe929d25e42c53116da4fe92be50f49f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "8. Abschnitt Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db079608ecc8f884771804bacf74e05a5b6d0709a6c94b53fa526430bb01bf16",
+      "sha256": "c56d8f6954f78d7e3960a1fa795f1b25c9c00d27e55fe5db08aa65383a0c419f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26a",
+      "source_heading": "Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0026a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b99ba1a5d8781c11fb3828f4801251adc845a19db0f852cd4a8c8dd1bf1cb661",
+      "sha256": "11b53bce911ee72c7943da4eaa211d415117ff3614dcbfbcc271e43b6b130e5a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Tätige Reue",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af7d0c1a43321126044a7a91a217d1f5ee642d61f3079f3f7d2e37291d71648e",
+      "sha256": "8fe70c09e63bff3dd856616dc2d170159f00f608823ac60517f6d4b431b4709f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "9. Abschnitt Vollzugs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45422bbe0f36ae0891c669c0011a91858843297e6ffb454d1f5282a42d1beaea",
+      "sha256": "79f09342851960ef94f90c0780ca7d1ed15b0b87b5d0fbd1255e933845705e6a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 148/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/148"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/61"
+        },
+        {
+          "text": "BGBl. I Nr. 182/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Verweise auf andere Bundesgesetze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80370e94a4b37b88568811759c7575884018c35881e0bb32ce73baece98f92ad",
+      "sha256": "109c3f1c555b9336b4f8ec727679bc484401639fb9ce78db076d60a8ab82f9fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Vollzug",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f14468c898bc4b97ea294842ef38d46d7a6b83db510b5bce7d3fbe706462f2d",
+      "sha256": "f711e0b6ae2d886f07953287ecee92bd57e0047be0e751bdcf29f4b328a4702a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Hinweise auf Notifikation und Umsetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "59918de3fcbb810c4facb98cd9a9a10067ee3c537191decce892a98cd9794173",
+      "sha256": "e480417db5b14ae16de98f7a0b63042c48a07ef56ebaf93f214532b8d433b4ad",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 182/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 12",
+      "source_heading": "Artikel 12",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "art-012.md",
+      "source_context": "BGBl. I Nr. 148/2020",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9fb2aec1e9b4f08e3007fcd76ed7c370769700d71e3340a68c74fb65a5dd1da8",
+      "sha256": "6ce80ed5f5e6891e4aae1ae651e54b48d2febe675b71967eb75bfc1c2d973699",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 148/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/148"
+        },
+        {
+          "text": "BGBl. I Nr. 152/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_152_1/2001_152_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1 Umsetzung von Richtlinien der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": "BGBl. I Nr. 34/2015",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51bc19693b19ed1c0982b718160b6bdc33ddd0b616320488d401f8bf94ce8f72",
+      "sha256": "9efa68b7fcb8f31075f1e3437aa7a4ec80c862b864ddc5efe13119c4cdaf885d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 152/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_152_1/2001_152_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

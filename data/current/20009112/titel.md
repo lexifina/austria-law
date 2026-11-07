@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung zum Schutz der Bediensteten vor Verletzungen durch scharfe oder spitze medizinische Instrumente (Nadelstichverordnung Bund – B-NastV) StF: [BGBl. II Nr. 50/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/50>) \[CELEX-Nr.: [32010L0032](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0032:DE:HTML>)\]
+
+Aufgrund der §§ 3, 4, 5, 7 und 8 Abs. 2, §§ 12, 14 und 15 Abs. 3, §§ 33, 35 und 41 bis 43 sowie 60 Abs. 2 und § 61 Abs. 1 des Bundes-Bedienstetenschutzgesetzes – B-BSG, [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 32/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/32>), wird verordnet:

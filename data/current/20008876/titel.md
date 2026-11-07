@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Gefahrenzonenplanungen nach dem Wasserrechtsgesetz 1959 (WRG-Gefahrenzonenplanungsverordnung –WRG-GZPV) StF: [BGBl. II Nr. 145/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/145>) \[CELEX-Nr.: [32007L0060](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0060:DE:HTML>)\]
+
+Aufgrund des § 42a Abs. 2 und 3 des Wasserrechtsgesetzes 1959 (WRG 1959), BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 98/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/98>), wird verordnet:

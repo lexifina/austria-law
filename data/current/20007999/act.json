@@ -1,0 +1,277 @@
+{
+  "sample_only": false,
+  "included_provisions": 10,
+  "source_provision_count": 10,
+  "schema_version": 1,
+  "gesetzesnummer": "20007999",
+  "short_title": "Datenformat- und VerbrauchsinformationsdarstellungsVO 2012",
+  "abbreviation": "DAVID-VO 2012",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40142536",
+    "valid_from": "2012-09-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "[CELEX-Nr.: 32019L0944]"
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007999&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:09:01.492522+00:00",
+    "response_sha256": "ce6aac1121c6197c741e436bdea2b6f77259ff05d392536b70bce24e88ee2330",
+    "snapshot_sha256": "c3098d401e79ad05a7e8a961816e8cd9324ccf82631811a25354e83b9925f2bf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f03b0bb0551df7ee586ef0b9e71000ec42cb0ceb0ce2fc0ed038e2276a36e76d",
+      "sha256": "e0102a175ade1684eacbd5b28d73619ea06464f9c7e085816a704a3b773b9f15",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "[CELEX-Nr.: 32019L0944]"
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Vorstands der E-Control, mit der die Anforderungen an die Datenübermittlung von Netzbetreiber zu Lieferant und die Verbrauchsinformationen an die Endkunden festgelegt werden (Datenformat- und VerbrauchsinformationsdarstellungsVO 2012 – DAVID-VO 2012) StF: BGBl. II Nr. 313/2012"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 468/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "32019L0944",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L0944:DE:HTML"
+        },
+        {
+          "text": "BGBl. II Nr. 313/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/313"
+        },
+        {
+          "text": "BGBl. II Nr. 468/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/468"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Regelungsgegenstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a610ae9665bcc0f460466993c2e2169a2d942ed86ad2a0cca3f5d199d9b367a0",
+      "sha256": "56ad7d4e114ac3d8244ae8a2f7fe61293d85fcad510cac9a77c0e19f1d3d9328",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Übermittlung der Daten vom Netzbetreiber an den Lieferanten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ce67127af5645643722af0c95a4c5a170c241674ba828561acfbf750b205b1e",
+      "sha256": "299588dbce9509356377a0e25f9d755d19e905edbca67a2221fd9608bafdfc6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Anforderungen zur Darstellung der Verbrauchsdaten durch den Netzbetreiber",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f574e97611f387b892d8e4ba4858e4778bcf23fc5c26969ec4425e134843b5d7",
+      "sha256": "517eb3db9230168e93bee8dfaf1836b01ab5b238dde4e9a4760b963b013814d0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ee73186a910453cc0c44784728903531a6613497ce7e3e996c9d246687cdc324",
+      "sha256": "0b18cfdd1392b062251ea8397a3328f369efdd6efa90d3b5e26203c124e818ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Anforderungen zur Darstellung der Verbrauchs- und Stromkosteninformation durch den Lieferanten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "70c477088b49411462441459b3ebb83ee181c209a459708d72835451ef346a94",
+      "sha256": "90fff87002ac25017c4ef469a657ba012adf5f5258a48e38040ef37bb0993db3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§ 6.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c93882e1f8452718cdf6811b2f2ca8557f30b60475b1dfd0400a217a1df23ef",
+      "sha256": "1d1643e392000ead6d674601e164a3fc8fcfb279849d5e5f556200c117db0083",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Verbrauchs- und Stromkosteninformation für Endverbraucher ohne intelligentes Messgerät",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f30f6633a61bfc8e46b9966b4da2810d5400432e310e330c41b464b7fe6e9251",
+      "sha256": "ef4b3d72f2b7b815467d02b3bf44a734f45fd7a414508bb6241ef99c783a6f4c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Übergangsfristen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c2864425e5c30a1b96123f927e73d5fe9ec1274ebdec854b0ff8743fa58654c",
+      "sha256": "112cfdb0fb015e41da45586319c81779b6e42099c6a7180681fae99d21f33e25",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "810677f99bd590c34b893181014f90d6f5b150487387192ffed0855700639d29",
+      "sha256": "d3a636de7cba3b0762bed7f673affb9cb222aa17f5b0bd8cd1497d90b850f32a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

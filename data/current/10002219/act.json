@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002219",
+  "short_title": "Hoheitszeichen - Großbritannien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002242",
+    "valid_from": "1972-03-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002219&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:00:22.739868+00:00",
+    "response_sha256": "98448017f61b1336e7bc23df615dc707d993bfa19fb01439ae7fc72978df45be",
+    "snapshot_sha256": "69bc1292ebbd6128b16b93cedd7ee51095cee4c37ae320668f87139a75582247",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5305e815f9e2b1fe518e576275e7273a59a1079134cce82ad050512e7177d17b",
+      "sha256": "3f124a45684da4db16f9ade80906febbafb54a81c110650555d86c2560b3fa35",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 18. Feber 1972 betreffend staatliche Hoheitszeichen des Vereinigten Königreiches von Großbritannien und Nordirland StF: BGBl. Nr. 81/1972"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 81/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_81_0/1972_81_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54467a51276a12b7721123d79a2156c4b93c2c1ccd6ef7e89978a8059df18387",
+      "sha256": "447fcb842e8f9cecffebf24e65d0e8797bdea2fe4e807a1fc339fa86d311b559",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

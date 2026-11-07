@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) betreffend Reserven von Sonderkreditinstituten (Reservenmeldungsverordnung – ResV) StF: [BGBl. Nr. 970/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_970_0/1994_970_0.pdf>)
+
+Auf Grund des § 70 Abs. 1 Z 1 in Verbindung mit § 44 Abs. 1 des Bankwesengesetzes, [BGBl. Nr. 532/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf>), in der Fassung der Druckfehlerberichtigung [BGBl. Nr. 639/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_639_0/1993_639_0.pdf>) wird nach Anhörung der Oesterreichischen Nationalbank verordnet:

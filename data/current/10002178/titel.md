@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz vom 28. September 1970 über die Gegenseitigkeit hinsichtlich der Anerkennung und der Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen in Zivilrechtssachen sowie von gerichtlichen Entscheidungen in Unterhaltssachen im Verhältnis zur kanadischen Provinz Britisch-Kolumbien StF: [BGBl. Nr. 314/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_314_0/1970_314_0.pdf>)
+
+Auf Grund des § 79 der Exekutionsordnung, [RGBl. Nr. 79/1896](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=79/1896&amp;SkipToDocumentPage=True>), wird verordnet:

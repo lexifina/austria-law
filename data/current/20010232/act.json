@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010232",
+  "short_title": "Errichtung einer Notarstelle in Bergheim",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40204362",
+    "valid_from": "2018-07-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010232&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:49:57.060395+00:00",
+    "response_sha256": "cf67671e360e0c8dc2990b658665bd79aaf5b228c8955837fefa8d701a894518",
+    "snapshot_sha256": "397dc089506269c8b2df40b4f0bcf0523d4926c1e4618ea5b4a79ccda76f700c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1e1b4d1056d92ebd64de37d9cb23a1ae8a4bf5b2de9838432efc4940db498dd",
+      "sha256": "2b054c3c71e41f0bf2ac6750da39f8dbaf423b7bfad756c85c62451618d38e05",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz über die Errichtung einer Notarstelle in Bergheim StF: BGBl. II Nr. 142/2018"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 142/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/142"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/136"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9db9187ea3dd8de8b751b853bbedf0a84b9a41ac3e354014ecfa8ed47b8a65d8",
+      "sha256": "8c295ba784adfe7b4a47a47f9568098fbac61c87b9510753be829ca3856e2dca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

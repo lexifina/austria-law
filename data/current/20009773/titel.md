@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Ausnahme von der Verpflichtung zur Aufzeichnung einer Risikoanalyse und der Anwendbarkeit vereinfachter Sorgfaltspflichten im Bereich des Betrieblichen Vorsorgekassengeschäfts (BVK-Risikoanalyse- und Sorgfaltspflichtenverordnung – BVK-RiSoV) StF: [BGBl. II Nr. 4/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/4>)
+
+Auf Grund des § 4 Abs. 2 und des § 8 Abs. 5 des Finanzmarkt-Geldwäschegesetzes – FM-GwG, [BGBl. I Nr. 118/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118>), wird – hinsichtlich des § 8 Abs. 5 mit Zustimmung des Bundesministers für Finanzen – verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes über den Beitritt Österreichs zu den auf den Haager Friedenskonferenzen der Jahre 1899 und 1907 unterzeichneten Übereinkommen und Erklärungen. StF: [BGBl. Nr. 381/1937](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=381/1937&amp;SkipToDocumentPage=True>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über den Ersatz der Investitionskosten der Betreiber für die Bereitstellung aller Einrichtungen, die zur Auskunft von Daten und zur Überwachung des Inhalts einer Telekommunikation erforderlich sind (Investitionskostenverordnung – IKVO) StF: [BGBl. II Nr. 320/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/320>)
+
+Aufgrund des § 94 des Telekommunikationsgesetzes 2003 (TKG 2003), BGBl. I Nr. 70, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 133/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/133>), wird im Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie, dem Bundesminister für Finanzen, der Bundesministerin für Inneres und dem Bundesminister für Landesverteidigung verordnet:

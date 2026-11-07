@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend amtliche Prüfungszeichen der Tschechischen und Slowakischen Föderativen Republik StF: [BGBl. Nr. 428/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_428_0/1992_428_0.pdf>)

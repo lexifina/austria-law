@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 14. September 1989 betreffend die Bestimmung des Straßenverlaufes der S 6 Semmering Schnellstraße im Bereich der Gemeinden Schottwien, Semmering und Spital am Semmering StF: [BGBl. Nr. 475/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_475_0/1989_475_0.pdf>) idF [BGBl. Nr. 76/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_76_0/1990_76_0.pdf>) (DFB)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, in der Fassung des Bundesgesetzes [BGBl. Nr. 63/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_63_0/1983_63_0.pdf>) wird verordnet:

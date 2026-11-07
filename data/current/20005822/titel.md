@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) zur Festlegung der angemessenen Informationen, sowie der Kriterien zur Beurteilung der Gleichwertigkeit von Aufsichtsbestimmungen und des Schutzniveaus der Anteilinhaber bei Veranlagungsvorschriften (Informationen- und Gleichwertigkeitsfestlegungsverordnung – IG-FestV) StF: [BGBl. II Nr. 168/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/168>)
+
+Auf Grund des § 20 Abs. 9 Z 1 und 2 sowie des § 20 Abs. 3 Z 8c lit. b des Investmentfondsgesetzes – InvFG 1993, BGBl. Nr. 532, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 69/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/69>), wird verordnet:

@@ -1,0 +1,3 @@
+Notenwechsel zur Ergänzung des Art. 8 Abs. 2 des Luftverkehrsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Sozialistischen Republik Rumänien vom 14. Juli 1975 StF: [BGBl. Nr. 133/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_133_0/1986_133_0.pdf>)
+
+Der im Art. 13 Abs. 1 des Luftverkehrsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Sozialistischen Republik Rumänien vorgesehene Notenwechsel wurde am 31. Jänner 1986 durchgeführt; der Notenwechsel zur Ergänzung des Art. 8 Abs. 2 tritt daher nach Art. 13 Abs. 1 des Luftverkehrsabkommens am 1. April 1986 in Kraft.

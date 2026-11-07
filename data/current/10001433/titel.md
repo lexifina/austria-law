@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 1031 (1995) verabschiedet auf der 3607. Sitzung des Sicherheitsrats am 15. Dezember 1995 StF: [BGBl. Nr. 77/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_77_0/1996_77_0.pdf>)

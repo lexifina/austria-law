@@ -1,0 +1,3 @@
+Bundesgesetz vom 20. Dezember 1955, womit Bestimmungen zur Durchführung des Artikels 26 des Staatsvertrages, [BGBl. Nr. 152/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_152_0/1955_152_0.pdf>), hinsichtlich kirchlicher Vermögensrechte getroffen werden. StF: [BGBl. Nr. 269/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_269_0/1955_269_0.pdf>) (NR: GP VII [RV 678](<https://www.parlament.gv.at/gegenstand/VII/I/678>) [AB 703](<https://www.parlament.gv.at/gegenstand/VII/I/703>) [S. 91.](<https://www.parlament.gv.at/gegenstand/VII/NRSITZ/91>) BR: [S. 112.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/112>))
+
+Der Nationalrat hat beschlossen:

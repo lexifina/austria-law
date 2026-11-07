@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung über die Reisegebühren für die Teilnahme an Schulveranstaltungen (Schulveranstaltungen-Reisegebühren-Verordnung 2024 – SchVRGV) StF: [BGBl. II Nr. 135/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/135>)
+
+Auf Grund des § 49a der Reisegebührenvorschrift 1955, [BGBl. Nr. 133/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_133_0/1955_133_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 205/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/205>), wird im Einvernehmen mit dem Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport verordnet:

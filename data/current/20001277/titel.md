@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der Pan-Amerikanischen Gesundheitsorganisation StF: [BGBl. II Nr. 156/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_156_2/2001_156_2.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Anwendung der Kronzeugenregelung des Wettbewerbsgesetzes StF: [BGBl. II Nr. 487/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/487>)
+
+Auf Grund des § 11b Abs. 4 des Wettbewerbsgesetzes – WettbG, [BGBl. I Nr. 62/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_62_1/2002_62_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 176/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/176>), wird nach Anhörung der Bundeswettbewerbsbehörde, des Bundeskartellanwaltes und der Wettbewerbskommission verordnet:

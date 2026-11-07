@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012068",
+  "short_title": "Ergebnis der Wahl des Bundespräsidenten",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40248548",
+    "valid_from": "2022-11-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012068&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:26:48.017051+00:00",
+    "response_sha256": "799f412f5aae16215b91ac4f1e682d07cffc6ee5ba413f236a778f64a5906848",
+    "snapshot_sha256": "98baf0e5f33c64df44e0ad3bc6619c5dedff7bc28a1b8a20d479fbbba875c2be",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69f92a8c5df52d256420eefd97edf362183570a9e41c60b36e19db600bc94d86",
+      "sha256": "7012f96c535658e701a1d38fdefbe8466ec11706078c1027895aea8449f91227",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über das Ergebnis der Wahl des Bundespräsidenten StF: BGBl. II Nr. 420/2022"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 420/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/420"
+        },
+        {
+          "text": "BGBl. Nr. 57/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_57_0/1971_57_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 101/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/101"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90aed6754d31c18b925be04c92c4c042086d448de5bff27963f7d0f708d6f6f3",
+      "sha256": "b98e155f9a07c8068c4651b56533402641810fc82ec6caad38ecc258143e2823",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

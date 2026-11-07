@@ -1,0 +1,1883 @@
+{
+  "sample_only": false,
+  "included_provisions": 36,
+  "source_provision_count": 36,
+  "schema_version": 1,
+  "gesetzesnummer": "20006780",
+  "short_title": "Verbraucherkreditgesetz",
+  "abbreviation": "VKrG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40117859",
+    "valid_from": "2010-06-11",
+    "valid_to": "2026-11-19",
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006780&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:51:01.935975+00:00",
+    "response_sha256": "b5c6d0fdd00e556a8bcbd355a23cbf4b841246fc60f9c6daabc8da370b4830a9",
+    "snapshot_sha256": "86b7cc26646e63e98a94d46591a76ac750fe8352aa3ce4aed0cb9b27837a9636",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "166f57806fa7c65084e19b475a8c56e51c070ee8aac2adaad38a650e70b96a7e",
+      "sha256": "4b7b31b8d7e86af6bd6350df9f2ccb219c1db006e36e125a6866be5414efb83f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Verbraucherkreditverträge und andere Formen der Kreditierung zu Gunsten von Verbrauchern (Verbraucherkreditgesetz – VKrG) StF: BGBl. I Nr. 28/2010 (NR: GP XXIV RV 650 AB 652 S. 60. BR: 8303 AB 8305 S. 784.) [CELEX-Nr. 32008L0048]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 50/2013 (NR: GP XXIV RV 2111 AB 2178 S. 191. BR: AB 8910 S. 818.) [CELEX-Nr.: 32011L0007, 32011L0090] BGBl. I Nr. 83/2013 (NR: GP XXIV RV 2168 AB 2268 S. 200. BR: AB 8968 S. 820.) [CELEX-Nr.: 31995L0046] BGBl. I Nr. 135/2015 (NR: GP XXV RV 843 AB 867 S. 102. BR: AB 9482 S. 847.) [CELEX-Nr.: 32014L0017] BGBl. I Nr. 93/2017 (NR: GP XXV RV 1662 AB 1726 S. 190. BR: AB 9844 S. 870.) BGBl. I Nr. 1/2021 (NR: GP XXVII RV 478 AB 517 S. 69. BR: AB 10522 S. 917.) [CELEX-Nr.: 32008L0048, 32014L0017] BGBl. I Nr. 6/2025 (NR: GP XXVIII IA 72/A AB 33 S. 11. BR: AB 11620 S. 975.) [CELEX-Nr.: 32021L2167] BGBl. I Nr. 36/2026 (NR: GP XXVIII RV 473 AB 492 S. 79. BR: AB 11816 S. 991.) [CELEX-Nr.: 32023L2225]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 28/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/28"
+        },
+        {
+          "text": "RV 650",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/650"
+        },
+        {
+          "text": "AB 652",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/652"
+        },
+        {
+          "text": "S. 60.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/60"
+        },
+        {
+          "text": "8303",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8303"
+        },
+        {
+          "text": "AB 8305",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8305"
+        },
+        {
+          "text": "S. 784.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/784"
+        },
+        {
+          "text": "32008L0048",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0048:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/50"
+        },
+        {
+          "text": "RV 2111",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2111"
+        },
+        {
+          "text": "AB 2178",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2178"
+        },
+        {
+          "text": "S. 191.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/191"
+        },
+        {
+          "text": "AB 8910",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8910"
+        },
+        {
+          "text": "S. 818.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/818"
+        },
+        {
+          "text": "32011L0007",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0007:DE:HTML"
+        },
+        {
+          "text": "32011L0090",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0090:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 83/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/83"
+        },
+        {
+          "text": "RV 2168",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2168"
+        },
+        {
+          "text": "AB 2268",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2268"
+        },
+        {
+          "text": "S. 200.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/200"
+        },
+        {
+          "text": "AB 8968",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8968"
+        },
+        {
+          "text": "S. 820.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/820"
+        },
+        {
+          "text": "31995L0046",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/135"
+        },
+        {
+          "text": "RV 843",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/843"
+        },
+        {
+          "text": "AB 867",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/867"
+        },
+        {
+          "text": "S. 102.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/102"
+        },
+        {
+          "text": "AB 9482",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9482"
+        },
+        {
+          "text": "S. 847.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/847"
+        },
+        {
+          "text": "32014L0017",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0017:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 93/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/93"
+        },
+        {
+          "text": "RV 1662",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1662"
+        },
+        {
+          "text": "AB 1726",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1726"
+        },
+        {
+          "text": "S. 190.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/190"
+        },
+        {
+          "text": "AB 9844",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9844"
+        },
+        {
+          "text": "S. 870.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/870"
+        },
+        {
+          "text": "BGBl. I Nr. 1/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/1"
+        },
+        {
+          "text": "RV 478",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/478"
+        },
+        {
+          "text": "AB 517",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/517"
+        },
+        {
+          "text": "S. 69.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/69"
+        },
+        {
+          "text": "AB 10522",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10522"
+        },
+        {
+          "text": "S. 917.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/917"
+        },
+        {
+          "text": "32008L0048",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0048:DE:HTML"
+        },
+        {
+          "text": "32014L0017",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0017:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/6"
+        },
+        {
+          "text": "IA 72/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/A/72"
+        },
+        {
+          "text": "AB 33",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/33"
+        },
+        {
+          "text": "S. 11.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/11"
+        },
+        {
+          "text": "AB 11620",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11620"
+        },
+        {
+          "text": "S. 975.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/975"
+        },
+        {
+          "text": "32021L2167",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32021L2167:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 36/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/36"
+        },
+        {
+          "text": "RV 473",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/473"
+        },
+        {
+          "text": "AB 492",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/492"
+        },
+        {
+          "text": "S. 79.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/79"
+        },
+        {
+          "text": "AB 11816",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11816"
+        },
+        {
+          "text": "S. 991.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/991"
+        },
+        {
+          "text": "32023L2225",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2225:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Regelungsgegenstand, Begriffsbestimmungen, zwingendes Recht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd665a474a2c9090991a53682121c4b66928ea7c93236cb9e975553ab062a745",
+      "sha256": "0ceb26774e07c2863e431bc3b539c9aa75a1c7e42e091adb04dd8f8bf821976d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5bb0e45ea4c5f6c1be8918b670a85f3489cfac9bfb8efd1a65e0f88375523c01",
+      "sha256": "f059bc07e0a5e7c88dcda10d2d91c82915bb8f0c91838b6e5a5db1536147dac1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Unwirksame Vereinbarungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f98b368e91147e988599cddec7df3ae08db424ab96ef1da5b305d61b5777acb4",
+      "sha256": "df11613c3c3018946794c523cdcfe7bbf09fc755ee771516a40c72387d48f45f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Verbraucherkreditverträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ab25dfe5748501fbe9887af9a228ee9c7dfb31dd6f65580eb164c4f51f5409d",
+      "sha256": "93666c502160c50ab308954fb21b4d3fe7992b6f7dd097e044006892832923b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Werbung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b03dddfa511010d66fc6a5af639a0a1098022063f176c99911b3bc5c2fca7a21",
+      "sha256": "bca1a6ad8eecfcbe64a186515344358ccaf10e41c55f573a2f8f5334020e811d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Vorvertragliche Informationspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc2a9da2f866444653b7b740f586ed48e3e9446c5bf585e3432cebaad8acd31c",
+      "sha256": "4480e8b066f54f09ad40b0e51d11a7677a5d46521634c664b7b821dc8f287ff3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Prüfung der Kreditwürdigkeit des Verbrauchers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "811560571c6f3704572f4247a77126f42178fad4fcdf2e2e729e8a43fbec1e70",
+      "sha256": "035706208271f4fdf56acfab71b96d27e0f0360d758dcf443923ad94913ff7d4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 1/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/1"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Zugang zu Datenbanken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1f34fa6f084c809321ac5fc45453dc4d28ab5777b8899bc6a7b5716100fc065",
+      "sha256": "021ff43012a767678402113d2cd0facea87c28410c67862d9071a9344d6334a6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Zwingende Angaben in Kreditverträgen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3192598e7a6a0cd06d8831e64d83fcd9710d5f1e67f03de6a73cb69a0f4df62b",
+      "sha256": "e7e0dfadde24b1d4ed7030f3cedebf995031b04610c5cc4766274060bbd4ddfe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Tilgungsplan",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1876398a88fca43e2ab0eff06bfc71171cb0c06ee16894207f2cf2117e02a76d",
+      "sha256": "7bef717f70da0f5d09e8a2ea23f1a64fc29b78ba81dd47cf193ca64e8e481489",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Änderung des Sollzinssatzes; Kontomitteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd5654911507965512406057aa21bc8e53748f93835842e56b23917d2eb7359c",
+      "sha256": "b348a740a96b0c9ba0b72c171f3c2e629dc4f21cc18c077f8d728ab7fa3e529f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11a",
+      "source_heading": "Informationen zur Änderung der Bedingungen des Kreditvertrags",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0964c6adfe06c635ebf1984a8cda26cec4100d3146e30a8213ab3f98c5b2bcf",
+      "sha256": "6b278f94e3403133d4c57ea9be651a1462fdbfe293a63308d0f50ae51ee04eeb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Rücktrittsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "99978270561b56f8c74eb05743559859126c709f1c9f1522a2982f2f2c1b7fce",
+      "sha256": "a4a982ff962a89fc554b5e162da48cf7baaf43ef12e03286e7b6f2abef7442a3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 135/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/135"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Verbundene Kreditverträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54ff3c490599b3ba4bc84ab0b70b16e6efaf610d80edf5f2053f17e71391217e",
+      "sha256": "4f5b41c5494373a269c4ae9e0a7416b6c7c7389f0266bc6107ea0120ed7eb098",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Kündigungsrecht und ähnliche Rechte des Kreditgebers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8303310652f250edac5f9dd8b50cbcc141911a8e63a0cbfc787869c41b8a5d30",
+      "sha256": "a28b25a0797a0f77144d0e95d3bb2d966707b80971d92cfba35af13c7d8eba18",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Kündigung durch den Verbraucher",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b36e91439973f48a28cd8a3cab1dc676b79fdcde302ed0909f0aee450ac059a9",
+      "sha256": "622b472133e98768232e10b9c0e9e3caeb8ee55fa45b2b0fac228225d428a69b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Vorzeitige Rückzahlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eacf5fbce357a45598688786610c5a75f59c3867cd68173a5dbb1e2c0d498e53",
+      "sha256": "cc858e7cfb3fe7463afc7872d5373eab6bc05e03a93d3d75b1e0494f18f1efeb",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 29 Abs. 12"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 135/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/135"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Forderungsabtretung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50199f26af5d2c4e6cbbb9d51501b9ab0dc509798a8b58fc388f4a73283d1635",
+      "sha256": "9cf1dc383376fb3dfe94babd8490a36b1a7b2906702487cd5223a752191c944b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "3. Abschnitt Überziehungsmöglichkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77ab9cd198c37f250d617e78b91ede1e9c169bd824a80aecde1ca6245c6007aa",
+      "sha256": "0fce117cda316c1fb54e9f9c0b84a41161bbdb33202589fb974ad50d80f6f30f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Vorvertragliche Informationspflichten bei kurzfristigen Überziehungsmöglichkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2074a9165ef5c0ed44f11bd3a005bc6c283c264097f5b992a9336a5cf7570e96",
+      "sha256": "5a6533b8848fb568cab5615d2e46b414804a6c9fe6773f43e42b36899a1d5936",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Zwingende Angaben bei kurzfristigen Überziehungsmöglichkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad670d2dc66d0808421c6c7ec271d415b286e3aff37b98f1a666c116f6939cd1",
+      "sha256": "250ebf7a95fbd1c713508907fe022fae4506841b453c9745043f693818c12293",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Kontoauszug",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73abd526fbadedaa040c5bb0f36210106867325a243b74d901b8551ab3bda279",
+      "sha256": "133a59c185819e6485ec3bdb76513a616d7efeff4cb4db2d9189bc0755f2ea1a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Informationen bei Änderung des Sollzinssatzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2344ee31c9f7f95736319139b24844402e0e05f646f576f2d483ff22cf9f33ea",
+      "sha256": "9db177b15b1f94bfe76452cb5e9355e149397cb89e5f88ed08b59e62ba9375f2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "4. Abschnitt Überschreitungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4167a5f545cbab65cc391717d2dc7fb5bbe86046854aee8e90a6d65dc9263a3",
+      "sha256": "1cc8e2cc34da59d1531ecaadbe2692a607fde8ad19b2c3ae5021e06af3836a62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Zwingende Angaben im Vertrag und Informationspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1172e3e21d5f59825fed3e46f39ed36571df17b1026fac261ea339f97ccfcb2",
+      "sha256": "ac0016a30f7ad1bfc35750d1de6beadc114e01e349a3b11fef25ba6314a9ab9d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "5. Abschnitt Zahlungsaufschub und sonstige Finanzierungshilfen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c15b6a4e78deeecbecfa6ae35754e92a0d20014d0fa875906e0b90fb556ae99e",
+      "sha256": "a6d15e00045e3caf1ce812486855dcc7f1e213bc4e57f351dfb82c55d70ae54a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Verbraucherleasingverträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b916f6e08e80a8042dcf8fa3fa73e92c3331b2035b7d1873fd353896de8d7419",
+      "sha256": "48944ba7024bfec031446c13350befe85c94fd00ede2925546e73685a9d98aa6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "6. Abschnitt Ergänzende Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2834038d6a32467d728fe4d0d4e22e579629317bb6286fb33793af7154f39776",
+      "sha256": "c628f6da681691e27aedd946c62a59da0b982d5287af2618f32caacf8c6f1c8d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6f696848272102e0733cf57c1064606d9dcfcd9c3df4ddfd07d879399354ffa8",
+      "sha256": "6d72f3184755e7c9cf5aa0dfa66527045747de81c6094df4e8e2e16490176f58",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Inkrafttretens- und Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1cae530b9d03ec6a7734e0a202e585e0a307b7c0722dd4f67235e0353209a07e",
+      "sha256": "587cb6c65859955c1d7c5a0c063aac4d22e6dc183d59e5cc2ccaba9faab21793",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/50"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/135"
+        },
+        {
+          "text": "BGBl. I Nr. 93/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/93"
+        },
+        {
+          "text": "BGBl. I Nr. 1/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/1"
+        },
+        {
+          "text": "BGBl. I Nr. 1/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/1"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/6"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab9167098def7ac1aa46693185ef5787dc1f3015d0b467ced06dd261a724cf0f",
+      "sha256": "354ba96f565049d4a88941288db7888391d17b09c9bad34dc2dd0d05b9c8a675",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "ANHANG I",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5887c6da84088fa9027b5624ea3cf20f12281ba3009a1f76641aa847779b86fc",
+      "sha256": "5994fe5427e2d9ac9a3bf5d854b7a512f723ac811b66c49630d8d968f310058a",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40148634/hauptdokument.img1is.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40148634/hauptdokument.img2is.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6facd6fa96e1fa679675f38b3f7a3711ae6e066bd6daf36cf2dfd6da6d0725fc",
+      "sha256": "7c40535b2b1fb0cadbb8d7d8cb94541f9101e960b8fc5907544796550fcf6151",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Kreditgeber Anschrift Telefon (*) E-Mail (*) Fax (*) Internet-Adresse (*)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Name] [Anschrift für Kontakte mit dem Verbraucher]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Kreditvermittler Anschrift Telefon (*) E-Mail (*) Fax (*) Internet-Adresse (*)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Name] [Anschrift für Kontakte mit dem Verbraucher]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kreditart",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gesamtkreditbetrag Obergrenze oder Summe aller Beträge, die auf Grund des Kreditvertrags zur Verfügung gestellt wird",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Bedingungen für die Inanspruchnahme Gemeint ist, wie und wann Sie das Geld erhalten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Laufzeit des Kreditvertrags",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Teilzahlungen und gegebenenfalls Reihenfolge, in der die Teilzahlungen angerechnet werden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sie müssen folgende Zahlungen leisten: [Betrag, Anzahl und Fälligkeit der vom Verbraucher zu leistenden Zahlungen] Zinsen und/oder Kosten sind wie folgt zu entrichten:",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Von Ihnen zu zahlender Gesamtbetrag Betrag des geliehenen Kapitals zuzüglich Zinsen und etwaiger Kosten im Zusammenhang mit Ihrem Kredit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Summe des Gesamtkreditbetrags und der Gesamtkosten des Kredits]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Der Kredit wird in Form eines Zahlungsaufschubs für eine Ware oder Dienstleistung gewährt oder ist mit der Lieferung bestimmter Waren oder der Erbringung einer Dienstleistung verbunden. Bezeichnung des Produkts/der Dienstleistung Barzahlungspreis",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Verlangte Sicherheiten Beschreibung der von Ihnen im Zusammenhang mit dem Kreditvertrag zu stellenden Sicherheiten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Art der Sicherheiten]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Zahlungen dienen nicht der unmittelbaren Kapitaltilgung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[ % — fest oder — variabel (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz) — Zeiträume]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Effektiver Jahreszins Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags Diese Angabe hilft Ihnen dabei, unterschiedliche Angebote zu vergleichen.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[ %. Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des Jahreszinses einfließender Annahmen]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ist — der Abschluss einer Kreditversicherung oder — die Inanspruchnahme einer anderen mit dem Kreditvertrag zusammenhängenden Nebenleistung zwingende Voraussetzung dafür, dass der Kredit überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird? Falls der Kreditgeber die Kosten dieser Dienstleistungen nicht kennt, sind sie nicht im effektiven Jahreszins enthalten.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ja/nein [Falls ja, Art der Versicherung:] Ja/nein [Falls ja, Art der Nebenleistung:]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kosten im Zusammenhang mit dem Kredit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Die Führung eines oder mehrerer Konten ist für die Buchung der Zahlungsvorgänge und der in Anspruch genommenen Kreditbeträge erforderlich.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Höhe der Kosten für die Verwendung eines bestimmten Zahlungsmittels (z. B. einer Kreditkarte)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Sonstige Kosten im Zusammenhang mit dem Kreditvertrag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Bedingungen, unter denen die vorstehend genannten Kosten im Zusammenhang mit dem Kreditvertrag geändert werden können",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Verpflichtung zur Zahlung von Notariatsgebühren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kosten bei Zahlungsverzug Ausbleibende Zahlungen können schwerwiegende Folgen für Sie haben (z. B. Zwangsversteigerung) und die Erlangung eines Kredits erschweren.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Rücktrittsrecht Sie haben das Recht, innerhalb von 14 Kalendertagen vom Kreditvertrag zurückzutreten.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ja/nein",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorzeitige Rückzahlung Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Festlegung der Entschädigung (Berechnungsmethode) gemäß § 16 Verbraucherkreditgesetz]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Datenbankabfrage Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage informieren, wenn ein Kreditantrag auf Grund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung den Zielen der öffentlichen Ordnung oder der öffentlichen Sicherheit zuwiderläuft.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Recht auf einen Kreditvertragsentwurf Sie haben das Recht, auf Verlangen unentgeltlich eine Kopie des Kreditvertragsentwurfs zu erhalten. Diese Bestimmung gilt nicht, wenn der Kreditgeber zum Zeitpunkt des Verlangens nicht zum Abschluss eines Kreditvertrags mit Ihnen bereit ist.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Diese Informationen gelten vom … bis ...",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "a) zum Kreditgeber",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon (*) E-Mail (*) Fax (*) Internet-Adresse (*)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Name] [tatsächliche Anschrift, für den Verbraucher]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Eintragung im Firmenbuch (Handelsregister)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Firmenbuch (Handelsregister), in das der Kreditgeber eingetragen ist, und seine Firmenbuchnummer (Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung)]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Zuständige Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "b) zum Kreditvertrag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Ausübung des Rücktrittsrechts",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Praktische Hinweise zur Ausübung des Rücktrittsrechts, darunter Rücktrittsfrist, Angabe der Anschrift, an die die Rücktrittserklärung zu senden ist, sowie Folgen bei Nichtausübung dieses Rechts]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder die zuständige Gerichtsbarkeit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[entsprechende Klausel hier wiedergeben]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Wahl der Sprache",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "c) zu den Rechtsmitteln",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verfügbarkeit außergerichtlicher Beschwerde- oder Schlichtungsverfahren und Zugang dazu",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- oder Schlichtungsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anhang III",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb79764f52da21ca439c89c9245d396b67b6c29356b69473544763d0e54caeea",
+      "sha256": "f2c0ff6ecea64a5a36c570b9c11d5c675daacf0cc3f8655486137a8aba56e229",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Kreditgeber Anschrift Telefon (*) E-Mail (*) Fax (*) Internet-Adresse (*)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Name] [Anschrift für Kontakte mit dem Verbraucher]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Kreditvermittler Anschrift Telefon (*) E-Mail (*) Fax (*) Internet-Adresse (*)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Name] [Anschrift für Kontakte mit dem Verbraucher]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kreditart",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gesamtkreditbetrag Obergrenze oder Summe aller Beträge, die auf Grund des Kreditvertrags zur Verfügung gestellt wird",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Laufzeit des Kreditvertrags",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Sie können jederzeit zur Rückzahlung des gesamten Kreditbetrags aufgefordert werden.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[ % — fest oder — variabel (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz)]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "effektiver Jahreszins Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags des Kredits. Der effektive Jahreszins soll dem Verbraucher einen Vergleich der verschiedenen Angebote ermöglichen.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[ %. Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des Jahreszinses einfließender Annahmen]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Kosten (falls zutreffend) Bedingungen, unter denen diese Kosten geändert werden können",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[sämtliche vom Zeitpunkt einer Überschreitung an zu zahlende Kosten]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kosten bei Zahlungsverzug",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Beendigung des Kreditvertrags",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Bedingungen und Verfahren zur Beendigung des Kreditvertrags]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Datenbankabfrage Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage informieren, wenn ein Kreditantrag auf Grund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung den Zielen der öffentlichen Ordnung oder der öffentlichen Sicherheit zuwiderläuft.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Diese Informationen gelten vom … bis ...",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "a) zum Kreditgeber",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon (*) E-Mail (*) Fax (*) Internet-Adresse (*)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Name] [Anschrift für Kontakte mit dem Verbraucher]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Eintrag im Firmenbuch (Handelsregister)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Firmenbuch (Handelsregister), in das der Kreditgeber eingetragen ist, und seine Firmenbuchnummer (Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung)]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) zuständige Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "b) zum Kreditvertrag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Rücktrittsrecht Sie haben das Recht, innerhalb von 14 Tagen vom Kreditvertrag zurückzutreten. (falls zutreffend) Ausübung des Rücktrittsrechts",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ja/Nein [praktische Hinweise zur Ausübung des Rücktrittsrechts, u.a. Anschrift, an die die Rücktrittserklärung zu senden ist, sowie Folgen bei Nichtausübung dieses Rechts]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder die zuständige Gerichtsbarkeit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[entsprechende Klausel hier wiedergeben]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(falls zutreffend) Wahl der Sprache",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "c) zu den Rechtsmitteln",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verfügbarkeit außergerichtlicher Beschwerde- oder Schlichtungsverfahren und Zugang zu ihnen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "[Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- oder Schlichtungsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Art. 9",
+      "source_heading": "Artikel 9 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "art-009.md",
+      "source_context": "BGBl. I Nr. 50/2013",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "249f1fbc351188685fb09daee89befc00b16865ea6cd15928a864a658a0f0d55",
+      "sha256": "d325e033fae5ef38c09f806d90ec0bf93c8bd38c991f6028bcd250e1baf2b883",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 50/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/50"
+        },
+        {
+          "text": "BGBl. I Nr. 28/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/28"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

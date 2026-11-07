@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Abkürzung, Name und Emblem der Internationalen ITER - Fusionsenergieorganisation StF: [BGBl. II Nr. 386/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/386>)

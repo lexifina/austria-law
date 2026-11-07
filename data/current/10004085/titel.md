@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 2. Juli 1970 betreffend den Geltungsbereich des Europäischen Abkommens vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: [BGBl. Nr. 217/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_217_0/1970_217_0.pdf>)

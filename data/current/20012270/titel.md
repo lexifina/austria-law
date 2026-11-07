@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die vom Investitionsfreibetrag ausgenommenen Anlagen im Zusammenhang mit fossilen Energieträgern (Fossile Energieträger-Anlagen-VO) StF: [BGBl. II Nr. 156/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/156>)
+
+Auf Grund des § 11 Abs. 3 Z 6 des Einkommensteuergesetzes 1988 – EStG 1988, [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), zuletzt geändert durch das [BGBl. I Nr. 31/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/31>), wird im Einvernehmen mit der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

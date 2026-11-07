@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 16. Juli 1959, betreffend die Ratifikation des Protokolls über gewisse Abänderungen des Abkommens über die Internationale Zivilluftfahrt durch die Bundesrepublik Deutschland und Peru StF: [BGBl. Nr. 184/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_184_0/1959_184_0.pdf>)

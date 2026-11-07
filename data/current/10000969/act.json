@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000969",
+  "short_title": "Übereinkommen der Haager Friedenskonferenzen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000972",
+    "valid_from": "1988-08-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000969&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:39:05.491030+00:00",
+    "response_sha256": "1ecc55f0dbb25779567c51027a324135119dfa1bd4218db57b4ea795e4610972",
+    "snapshot_sha256": "360d7e498940b019b08432a178a6bf44c65ab101e9bd5d8ca8fc706b2ebb18ca",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7429d28d56a9428fe8323fb933b76fa95e94baeefbc4b22bde32709663a272ab",
+      "sha256": "c3445d1934da4fa0bf16531c4a7276fab2c9238fe54cd9741ad1404f9bd609eb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 16. August 1988 betreffend den Geltungsbereich der Übereinkommen und Erklärungen der Ersten und Zweiten Haager Friedenskonferenz von 1899 und 1907 StF: BGBl. Nr. 479/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 479/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_479_0/1988_479_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c0c97dccf465ad61d1575466d32ce284ccfaff956f0046de0203b822d1d122b",
+      "sha256": "b8354d1d81bee7bed536a6abf3b31ca7f62d699ea8c973733c81b945eaa763ae",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 173/1913",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=173/1913&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 29/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_29_0/1968_29_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

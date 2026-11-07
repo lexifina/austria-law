@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 8. Juli 1960, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Einrichtung eines Fonds zur Leistung von Beihilfen in wirtschaftlichen Notfällen betrieblicher Art, hervorgerufen durch Tierverluste, die nicht durch Seuche oder sonstige Krankheit entstehen. StF: [BGBl. Nr. 146/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_146_0/1960_146_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 16. März 1960, K II-1/59 – dem Bundeskanzleramt am 1. Juli 1960 zugestellt – zusammengefaßt hat:

@@ -1,0 +1,76 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011235",
+  "short_title": "Führung des Binnenschiffsregisters",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011500",
+    "valid_from": "1939-08-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011235&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:50:34.638954+00:00",
+    "response_sha256": "52de0338e0a5ee8fb73578b3a95704c84fc5f0de7fcfc4edfddf6d243ec91c96",
+    "snapshot_sha256": "64f27b0f05e0ed11aa965f333640b1627ca54d99817365966ef3b04cfa0bf28c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0b46f4b3ba83cee5eb2a5479a733253482bc277504311bc5d3d1d19ad2d40633",
+      "sha256": "c5b75556f69e5c02799ae2a9f69276a42170ea6a60d3cd0f382699ffa00aa42d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Nr. 358. Führung des Binnenschiffsregisters. AV. d. RJM. v. 12. 8. 1939 (3821 - V. a3 757). – Deutsche Justiz S. 1361 StF: DJ S 1361/1939"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "I.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82a6558cbc9d64e077ed0119f30919d5d6762d2e6d880afde2db79ede2678803",
+      "sha256": "1e1d7abd43a65005bffa327c1f15aa9ec2eaf95704dc8c4f937a979685c25a84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der A 22 Donauufer Autobahn – Anschlußstelle Korneuburg West/Leobendorf und der B 208 Eibesbrunner Straße sowie der B 3 Donau Straße und der B 6 Laaer Straße im Bereich der Gemeinden Korneuburg und Leobendorf StF: [BGBl. Nr. 290/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_290_0/1992_290_0.pdf>)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, in der Fassung des Bundesgesetzes [BGBl. Nr. 159/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_159_0/1990_159_0.pdf>) wird verordnet:

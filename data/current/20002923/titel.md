@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Einrichtung von Bakkalaureats- und Magisterstudien an der Universität für künstlerische und industrielle Gestaltung Linz (Studienstandortverordnung Universität für künstlerische und industrielle Gestaltung Linz) StF: [BGBl. II Nr. 431/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_431_2/2003_431_2.pdf>)
+
+Auf Grund der §§ 11 Abs. 3 und 11a Abs. 2, 4 und 6 des Universitäts-Studiengesetzes, [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 121/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_121_1/2002_121_1.pdf>), wird verordnet:

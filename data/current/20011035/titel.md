@@ -1,0 +1,3 @@
+Verordnung der Minister des Innern und der Justiz über die Gemeindevermittlungsämter StF: LGBlVbg. Nr. 27/1910
+
+Auf Grund des Artikels III, Absatz 3 des Gesetzes vom 27. Februar 1907, LGBl.Nr. 59, wird verordnet, dass die zuständigen politischen Behörden den Beginn der Wirksamkeit der in Vorarlberg gemäß dem Gesetze vom 15. September 1909, LGBl.Nr. 158, errichteten Gemeindevermittlungsämter sowie die Namen und den Stand der gewählten Vertrauensmänner, ferner jeden Wechsel in deren Person dem Bezirksgerichte, in dessen Sprengel das Gemeindevermittlungsamt seinen Sitz hat, mitzuteilen haben. Ebenso ist diesem Gerichte der jeweilige Amtssitz des Vermittlungsamtes (§ 3 Abs. 3 des Landesgesetzes) bekannt zu geben.

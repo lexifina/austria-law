@@ -1,0 +1,3 @@
+Bundesgesetz über das Wirksamwerden der Verordnung (EU) 2020/1503 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (Schwarmfinanzierung-Vollzugsgesetz) StF: [BGBl. I Nr. 225/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/225>) (NR: GP XXVII [RV 1165](<https://www.parlament.gv.at/gegenstand/XXVII/I/1165>) [AB 1181](<https://www.parlament.gv.at/gegenstand/XXVII/I/1181>) S. 137. BR: [AB 10829](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10829>) S. [935](<https://www.parlament.gv.at/gegenstand/BR/I-BR/935>).)
+
+Der Nationalrat hat beschlossen:

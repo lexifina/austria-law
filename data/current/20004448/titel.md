@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Begrenzung der Emissionen bei der Verwendung halogenierter organischer Lösungsmittel in gewerblichen Betriebsanlagen (HKW-Anlagen-Verordnung – HAV) StF: [BGBl. II Nr. 411/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/411>)
+
+Auf Grund des § 82 Abs. 1 sowie des § 84h der Gewerbeordnung 1994, [BGBl. Nr. 194/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf>) (WV), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 85/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/85>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

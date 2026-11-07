@@ -1,0 +1,1 @@
+Übergangsgesetz 1920 (ÜG 1920) StF: [BGBl. Nr. 368/1925](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=368/1925&amp;SkipToDocumentPage=True>) (WV) idF [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB)

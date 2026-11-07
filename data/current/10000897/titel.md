@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Land- und Forstwirtschaft vom 13. Jänner 1987 über die Aufhebung der Z 17 der 12. öffentlichen Bekanntmachung der Vieh- und Fleischkommission beim Bundesministerium für Land- und Forstwirtschaft vom 26. April 1982 und der Z 1 dieser Bekanntmachung in der Fassung der 29. öffentlichen Bekanntmachung der Vieh- und Fleischkommission beim Bundesministerium für Land- und Forstwirtschaft vom 8. Juni 1982 betreffend Festsetzung eines Importausgleiches durch den Verfassungsgerichtshof StF: [BGBl. Nr. 25/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_25_0/1987_25_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 wird kundgemacht:

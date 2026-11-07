@@ -1,0 +1,3 @@
+Bekanntmachung des Bundesministers für Bildung, Wissenschaft und Kultur betreffend die Studienpläne der Lehrveranstaltung Evangelische Religionspädagogik und der zusätzlichen Lehrveranstaltung Evangelische Religionspädagogik an Pädagogischen Akademien StF: [BGBl. II Nr. 116/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_116_2/2000_116_2.pdf>)
+
+Auf Grund § 2 Abs. 2 des Religionsunterrichtsgesetzes, [BGBl. Nr. 190/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_190_0/1949_190_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 256/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_256_0/1993_256_0.pdf>), wird bekannt gemacht:

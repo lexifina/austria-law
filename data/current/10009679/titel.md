@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Schülerheimbeiträge an höheren land- und forstwirtschaftlichen Lehranstalten StF: [BGBl. Nr. 393/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_393_0/1989_393_0.pdf>)
+
+Auf Grund des § 4 Abs. 3 des Land- und forstwirtschaftlichen Bundesschulgesetzes, [BGBl. Nr. 175/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_175_0/1966_175_0.pdf>), in der Fassung der Bundesgesetze [BGBl. Nr. 332/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_332_0/1971_332_0.pdf>), 231/1977, 231/1982 und 328/1988 wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

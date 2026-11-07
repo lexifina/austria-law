@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit, Familie und Jugend über die Anwendung vereinfachter behördlicher Verfahren bei weiteren Anträgen für eine bereits gemäß § 68 Abs. 3 GTG zugelassene Einrichtung (Vereinfachungsverordnung) StF: [BGBl. II Nr. 129/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/129>)
+
+Aufgrund des § 72 Abs. 2 des Gentechnikgesetzes, [BGBl. 510/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_510_0/1994_510_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 107/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/107>) und das Bundesgesetz [BGBl. I Nr. 6/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/6>), wird verordnet:

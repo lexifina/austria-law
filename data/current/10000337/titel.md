@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 16. Feber 1959 über die Ratifikation beziehungsweise den Beitritt weiterer Staaten zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: [BGBl. Nr. 43/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_43_0/1959_43_0.pdf>)

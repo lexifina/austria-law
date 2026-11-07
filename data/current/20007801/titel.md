@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend über die Überwachung von Flüssiggas-Umbaubehältern StF: [BGBl. II Nr. 136/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/136>)
+
+Auf Grund der §§ 7, 10 Abs. 1 Z 3 und § 19 des Kesselgesetzes, [BGBl. Nr. 211/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_211_0/1992_211_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 80/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/80>), und unter Anwendung des Artikel 2 Z 3 bis 7 der Verordnung (EG) Nr. 765/2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. Nr. L 218 vom 13.8.2008 S. 30, wird verordnet:

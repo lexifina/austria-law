@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Gesundheit und Frauen, mit der die Kundmachung [BGBl. II Nr. 416/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/416>) aufgehoben wird, und Kundmachung der Feststellung der Gesetzwidrigkeit des § 22 Abs. 1 der Satzung der Niederösterreichischen Gebietskrankenkasse, Amtliche Verlautbarung Nr. 5/2003 (umbenannt in § 21 Abs. 1 durch die Verlautbarung Nr. 28/2004), sowie des § 12 der Satzung 2003 der Sozialversicherungsanstalt der Gewerblichen Wirtschaft, Amtliche Verlautbarung Nr. 61/2003, durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 156/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/156>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001832",
+  "short_title": "Madrider Markenabkommen (Haager Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001854",
+    "valid_from": "1934-05-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001832&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:14.808288+00:00",
+    "response_sha256": "9fe1880ff31bfb2870a2d366c92e1c2e2b10b5b6f167717550ccb927ab844351",
+    "snapshot_sha256": "4a6a221311fb40561fab3af403d13eea2c99b520a02a3c99893a30f18cabc1e9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "196b750173f0599e74c5b307cc0b1dd056a133b77221f955a59013fd06df1603",
+      "sha256": "941761e7ea81083460309fb5fba555152a2ba53d95977eba028201fc2022980d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit dem Bundesministerium für Handel und Verkehr vom 25. Mai 1934, betreffend die Kündigung des Madrider Abkommens über die internationale Registrierung von Fabriks- oder Handelsmarken durch die Vereinigten Staaten von Brasilien. StF: BGBl. Nr. 38/1934"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 38/1934",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=38/1934&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6ee6e0808f50183a819c85603f1edfea8318bc5eb698928ed1da47e5447a2c7",
+      "sha256": "3756e3054446d19831e790f4d72c54b3c4eb57e9f113cfe7f3e0aaa493a64b7a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

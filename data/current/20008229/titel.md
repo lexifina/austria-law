@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Bezeichnung, Sitz und örtliche Zuständigkeit der Dienststellen der Wildbach- und Lawinenverbauung (Wildbach- und Lawinenverbauung-Dienststellenverordnung – WLV-DienststellenV) StF: [BGBl. II Nr. 35/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/35>)
+
+Aufgrund des § 102 Abs. 7 des Forstgesetzes 1975, [BGBl. Nr. 440/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_440_0/1975_440_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 55/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/55>), wird verordnet:

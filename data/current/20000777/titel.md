@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über Maßnahmen zur Gewährleistung der Sicherheit von Personen bei der Einrichtung und beim Betrieb von Schaubergwerken, Fremdenbefahrungen oder vergleichbaren Benützungen von Grubenbauen von stillgelegten Bergwerken (Schaubergwerkeverordnung) StF: [BGBl. II Nr. 209/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_209_2/2000_209_2.pdf>)
+
+Auf Grund des § 2 Abs. 3, des § 112 Abs. 3, des § 181 und des § 189 des Mineralrohstoffgesetzes, [BGBl. I Nr. 38/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_38_1/1999_38_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 197/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_197_1/1999_197_1.pdf>), wird verordnet:

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 22. Juni 1954, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit des Bundes und der Länder, Maßnahmen zur Erleichterung der Familiengründung und zur Hebung der Geburtenfreudigkeit durch Gewährung von Familienbeihilfen zu treffen. StF: [BGBl. Nr. 159/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_159_0/1954_159_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 21. Juni 1954, K II – 3, 4/54/17, zusammengefaßt hat:

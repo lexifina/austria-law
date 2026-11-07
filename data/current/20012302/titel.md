@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung 2023 im Abschnitt Gmünd-Spittal/Millstätter See der A 10 Tauern Autobahn (Section Control-Messstreckenverordnung A 10 2023) StF: [BGBl. II Nr. 199/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/199>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 122/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/122>), wird verordnet:

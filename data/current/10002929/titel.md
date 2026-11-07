@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 9. Jänner 1990 betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: [BGBl. Nr. 37/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_37_0/1990_37_0.pdf>)

@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Finanzen vom 5. Dezember 1968 über die Ausgabe von Scheidemünzen zu 5 Schilling aus Kupfer-Nickel und Einziehung von Scheidemünzen zu 5 Schilling aus Silber StF: [BGBl. Nr. 439/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_439_0/1968_439_0.pdf>)

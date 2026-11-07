@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Errichtung des Funktionalen Luftraumblocks „Zentraleuropa“ StF: [BGBl. III Nr. 111/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2012/111>)

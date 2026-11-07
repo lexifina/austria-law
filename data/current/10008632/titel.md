@@ -1,0 +1,1 @@
+Bundesgesetz über die Beschäftigung von Kindern und Jugendlichen 1987 (Kinder- und Jugendlichen-Beschäftigungsgesetz 1987 – KJBG) StF: [BGBl. Nr. 599/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_599_0/1987_599_0.pdf>) (WV)

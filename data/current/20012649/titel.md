@@ -1,0 +1,3 @@
+Bundesgesetz über die Veröffentlichung länderbezogener Ertragsteuerinformationsberichte (CBCR-Veröffentlichungsgesetz – CBCR-VG) StF: [BGBl. I Nr. 83/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/83>) (NR: GP XXVII [RV 2556](<https://www.parlament.gv.at/gegenstand/XXVII/I/2556>) [AB 2618](<https://www.parlament.gv.at/gegenstand/XXVII/I/2618>) [S. 274.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/274>) BR: [AB 11569](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11569>) [S. 970.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/970>)) \[CELEX-Nr.: [32021L2101](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32021L2101:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011216",
+  "short_title": "Schiffahrt - Eichung der Binnenschiffe",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011481",
+    "valid_from": "1932-12-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011216&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:50:17.160063+00:00",
+    "response_sha256": "81a1f5773ec513ed4701dfa516e869abdb8b3e7e8731e8418ec648d7c22a2252",
+    "snapshot_sha256": "ddc2b4b7fa5c107e6b31e0ec165676fc0db44a882a874115cf0d44157fc95f34",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b3820f7552db7df11e560d1ebbc33ce67e7ee4aa2e72b5ae0545da9ee57c4bcb",
+      "sha256": "6b917e188bb902abd3defadaa10613a48711d96f006a6f5e2b3fa7878d5c501b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. November 1932 über die Hinterlegung der Ratifikationsurkunde Italiens zum Übereinkommen über die Eichung der Binnenschiffe StF: BGBl. Nr. 337/1932"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 337/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=337/1932&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a90a080089f9a499aca28ec4339b9ff045c0c0bf9f72122eaf5385e52b6cb48",
+      "sha256": "e6c033636b8c06dda18140d56465f50e34089fe1c570029e950429a37ac1e85f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

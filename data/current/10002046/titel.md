@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 18. Juni 1963, betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht durch Frankreich. StF: [BGBl. Nr. 152/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_152_0/1963_152_0.pdf>)

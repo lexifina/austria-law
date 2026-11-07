@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für Justiz vom 20. August 1959 im Einvernehmen mit dem Bundesministerium für Land- und Forstwirtschaft über die Feststellung des in den einzelnen Gebieten Österreichs bestehenden anerbenrechtlichen Brauches. StF: [BGBl. Nr. 200/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_200_0/1959_200_0.pdf>)
+
+Auf Grund des § 3 Abs. 3 des Anerbengesetzes, [BGBl. Nr. 106/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_106_0/1958_106_0.pdf>), stellt das Bundesministerium für Justiz fest, daß in den unten angeführten Gerichtsbezirken folgender Brauch für die bäuerliche Erbteilung besteht:

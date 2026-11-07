@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Justiz vom 8. März 1947 über die Errichtung einer zweiten Notarstelle in Bregenz. StF: [BGBl. Nr. 89/1947](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_89_0/1947_89_0.pdf>)

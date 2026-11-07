@@ -1,0 +1,11 @@
+## Anhang IX
+
+## Anforderungen an die Energieeffizienz gemäß § 56a
+
+Bei der Vergabe von Dienstleistungskonzessionen sind folgende Anforderungen zu beachten:
+
+- a) Soweit Waren von einer gemäß der Richtlinie Verordnung (EU) 2017/1369 zur Festlegung eines Rahmens für die Energieverbrauchskennzeichnung und zur Aufhebung der Richtlinie 2010/30/EU, ABl. Nr. L 198 vom 28.07.2017 S. 1, idF der Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter, zur Änderung der Verordnung (EU) 2017/1369 und zur Aufhebung der Verordnung (EG) Nr. 1222/2009, ABl. Nr. L 177 vom 05.06.2020 S. 1, erlassenen Delegierten Verordnung oder einer entsprechenden Durchführungsverordnung erfasst werden, sind Waren zu erwerben, die das Kriterium der Zugehörigkeit zur höchstmöglichen Energieeffizienzklasse erfüllen.
+
+- b) Soweit Waren, die nicht unter lit. a fallen, von einer der Durchführungsverordnung gemäß der Richtlinie 2009/125/EG zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte, ABl. Nr. L 285 vom 31.10.2009 S. 10, idF der Richtlinie 2012/27/EU zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG, ABl. Nr. L 315 vom 14.11.2012 S. 1, erfasst werden, sind Waren zu erwerben, die die in der jeweiligen Durchführungsverordnung festgelegten Referenzwerte für die Energieeffizienz erfüllen.
+
+- c) Es sind Reifen zu erwerben, die das Kriterium der Zugehörigkeit zur höchsten Energieeffizienzklasse gemäß der Festlegung durch die Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter, zur Änderung der Verordnung (EU) 2017/1369 und zur Aufhebung der Verordnung (EG) Nr. 1222/2009, ABl. Nr. L 177 vom 05.06.2020 S. 1, zuletzt berichtigt durch ABl. Nr. L 382 vom 28.10.2021 S. 52, erfüllen. Der Auftraggeber kann jedoch auch den Erwerb von Reifen mit den besten Nasshaftungseigenschaften oder dem geringsten Abrollgeräusch vorschreiben, sofern dies aus Gründen der Sicherheit oder der öffentlichen Gesundheit gerechtfertigt ist.

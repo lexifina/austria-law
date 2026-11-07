@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Festlegung und Anerkennung der Kapitalpufferanforderungen für den antizyklischen Kapitalpuffer, für Systemrelevante Institute und für den Systemrisikopuffer (Kapitalpuffer-Verordnung 2025 – KP-V 2025) StF: [BGBl. II Nr. 112/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/112>)
+
+Auf Grund des § 23a Abs. 3, § 23d Abs. 7 und § 23e Abs. 3 des Bankwesengesetzes – BWG, [BGBl. Nr. 532/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/6>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

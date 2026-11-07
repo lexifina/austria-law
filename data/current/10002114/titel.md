@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 14. Juni 1968, betreffend ein niederländisches amtliches Prüfungs- und Gewährzeichen StF: [BGBl. Nr. 272/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_272_0/1968_272_0.pdf>)
+
+Auf Grund des § 4a Abs. 2 des Markenschutzgesetzes 1953, BGBl. Nr. 38, wird im Einvernehmen mit dem Bundesministerium für Auswärtige Angelegenheiten kundgemacht, daß § 4a Abs. 1 des Markenschutzgesetzes 1953 auf ein niederländisches amtliches Prüfungs- und Gewährzeichen für Münzen und Medaillen Anwendung findet, dessen Darstellung im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt.

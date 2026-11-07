@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend drei offizielle Zeichen zur Kennzeichnung der Übereinstimmung mit den Produktionsnormen des Königreichs Marokko StF: [BGBl. II Nr. 393/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_393_2/1999_393_2.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Gewährung einer zusätzlichen Mutterkuhprämie im Jahr 2014 (Mutterkuhzusatzprämien-Verordnung 2014) StF: [BGBl. II Nr. 60/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/60>)
+
+Auf Grund der §§ 7 Abs. 1 Z 6, 31 und 32 Abs. 10 des Marktordnungsgesetzes 2007 (MOG 2007), [BGBl. I Nr. 55/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/55>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 47/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/47>), und auf Grund des § 8 Abs. 5 Z 3 lit. b MOG 2007 in der Fassung des Bundesgesetzes [BGBl. I Nr. 189/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/189>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

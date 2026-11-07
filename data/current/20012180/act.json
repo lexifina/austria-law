@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012180",
+  "short_title": "Section Control-Messstreckenverordnung Nordbrücke",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40251183",
+    "valid_from": "2023-02-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012180&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:28:38.249864+00:00",
+    "response_sha256": "330a922bb08d5c9cc5418523d294468cc9d68856ac619dba783854ab945c8bbd",
+    "snapshot_sha256": "a094879852433a5b3a815db9e988233aa88471bd0aba60f3be55c2225622ac6b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1086d0bd9fa1367ae7c8f72c1ee63bf57d18fbdbfa7700d61f8787894deaca21",
+      "sha256": "e4d6422e88af0e6b2d7167e1cbdaf82aa25bd20bd34dec40bccbb584f63a163d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung im Bereich der A 221 Nordbrücke im Zuge der A 22 Donauufer Autobahn (Section Control-Messstreckenverordnung Nordbrücke) StF: BGBl. II Nr. 49/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 49/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/49"
+        },
+        {
+          "text": "BGBl. Nr. 159/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 122/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/122"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fbc79eb4dca71ca1d8e97c6e4e1ac80bb7078a28648a28868b450164b48a09f",
+      "sha256": "a24aeaf71ef1f0fbab39c5e5ccc3640c030f9b4d49f362fc9fc7108c5f6546e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "15ae63fa6b181ac0bd5096ba993d0b711cc0897b91964dcf635145ab14717e93",
+      "sha256": "00060e73574822bfb0eb71af073ec0e0734d685ebea35e7086690cb76fb1d11a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

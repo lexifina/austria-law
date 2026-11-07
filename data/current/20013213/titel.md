@@ -1,0 +1,3 @@
+Verordnung der Abschlussprüferaufsichtsbehörde hinsichtlich Art und Umfang der Antragstellung zur Durchführung einer Qualitätssicherungsprüfung (APAB-Qualitätssicherungsprüfungsantragsverordnung – APAB-QAV) StF: [BGBl. II Nr. 166/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/166>)
+
+Aufgrund des § 29 Abs. 5 des Abschlussprüfer-Aufsichtsgesetzes – APAG, [BGBl. I Nr. 83/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

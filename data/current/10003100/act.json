@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003100",
+  "short_title": "Emblem des gemeinsamen Rohstoffonds",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003125",
+    "valid_from": "1993-05-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003100&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:37.638680+00:00",
+    "response_sha256": "61eba2aabccff60dfe7499b6a002d7de76acd244d3285810c1c27c202469cdcd",
+    "snapshot_sha256": "5dbb71f1f4286b2903e866c69141a6986efdf48dd35de8091b266e3a4088ef56",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe78b02b61661fdb8deed9756cfaa794b3314c89b84f0dff903a1280d7bed950",
+      "sha256": "0c8e6282d405d88ad707b665d3ee1a682b84b4610c64c497555701e261a9e75a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem des gemeinsamen Rohstoffonds StF: BGBl. Nr. 312/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 312/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_312_0/1993_312_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c89ebbf2c75fc233bdba641eab211956380b7dac678063a839a7887f443aabf",
+      "sha256": "1a19f94afa6ae195388243863e0fb25950822d1dcf3778cd105c8b0493bc2282",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

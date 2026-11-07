@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 9. Juli 1986 betreffend die Staatsflagge, das Staatswappen und ein amtliches Zeichen für Qualitätskontrolle der Vereinigten Mexikanischen Staaten StF: [BGBl. Nr. 438/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_438_0/1986_438_0.pdf>)

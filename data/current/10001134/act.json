@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001134",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 713 (1991)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001138",
+    "valid_from": "1991-11-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001134&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:51.318700+00:00",
+    "response_sha256": "e257e2f54d89e78fefe621b5aecd65320de6614f6c315de4869c70b4af241e36",
+    "snapshot_sha256": "3ac0511626c63b59549a5b059570d1b6ab13069fc15441d3c1f16f02f6f86762",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa3fd33089fcf2386939138af65d415284cb9b2a60035441cd56d6be0de7ce49",
+      "sha256": "9e9f49f9eda59f9b4b23ca8e36f17c0293d917541e11b21ec46f26f9f613055d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 713 (1991), verabschiedet auf der 3009. Sitzung des Sicherheitsrats am 25. September 1991 StF: BGBl. Nr. 592/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 592/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_592_0/1991_592_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 713 (1991)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7adf35836ba30cf88aea5b1ae47a98aff13aa49a87fa737cefd5069109fa33d3",
+      "sha256": "d62c2b4566a0e395350bdfc3e315f5c9989370ce14d2421ec6901586b1cc5109",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

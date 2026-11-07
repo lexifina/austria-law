@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002156",
+  "short_title": "Pariser Verbandsübereinkunft (Lissabonner Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002179",
+    "valid_from": "1969-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002156&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:59:01.537368+00:00",
+    "response_sha256": "96882c4016ccc87a853c00190496d61c40f45ad9b8ed1d599dca6e13be0931d2",
+    "snapshot_sha256": "f36ced80d209d8d36e92304a88773070bfe2ecccf60cefebadf62ab7aed27c36",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b1856d69694499a813056d2143c20af48fd906022785446942218e9eb7fc09d",
+      "sha256": "25a2761bd707e72e7e0448f4ae5d62bd3577f52617630a3f054a82286a2501fc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 28. November 1969 betreffend das Inkrafttreten und den Geltungsbereich der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums vom 20. März 1883, revidiert in Brüssel am 14. Dezember 1900, in Washington am 2. Juni 1911, im Haag am 6. November 1925, in London am 2. Juni 1934 und in Lissabon am 31. Oktober 1958 StF: BGBl. Nr. 403/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 403/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_403_0/1969_403_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "59fbbfa931829840616f443302665f38a3a51c87ecb1026857d1758a4796e881",
+      "sha256": "a10fb184e1a0d21dc4f0b61e4353104332ffceabcf357e5cc8da4a2554000a1a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 385/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_385_0/1969_385_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

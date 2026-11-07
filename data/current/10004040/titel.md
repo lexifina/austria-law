@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 12. Dezember 1968 betreffend den Geltungsbereich des Zollabkommens vom 18. Mai 1956 über Behälter StF: [BGBl. Nr. 462/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_462_0/1968_462_0.pdf>)

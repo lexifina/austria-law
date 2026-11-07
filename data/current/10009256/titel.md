@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Unterricht vom 5. Oktober 1961, über die bestehenden Gemeinden der Evangelischen Kirche StF: [BGBl. Nr. 242/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_242_0/1961_242_0.pdf>)
+
+Auf Grund des § 3 Abs. 2 des Bundesgesetzes vom 6. Juli 1961, BGBl. Nr. 182, über äußere Rechtsverhältnisse der Evangelischen Kirche werden – nach Anhören des Evangelischen Oberkirchenrates Augsburgischen und Helvetischen Bekenntnisses als Evangelischer Kirchenleitung im Sinne des § 7 des genannten Bundesgesetzes – folgende Gemeinden aller Stufen der Evangelischen Kirche als bereits im Zeitpunkt des Inkrafttretens des genannten Bundesgesetzes, das ist am 20. Juli 1961, bestehend bezeichnet:

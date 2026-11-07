@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001794",
+  "short_title": "Berner Übereinkunft (Berliner Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001816",
+    "valid_from": "1931-08-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001794&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:52:51.145317+00:00",
+    "response_sha256": "ebe13a74c64cddbe185bed2ae1dfd1e303eb3615fbf7471c8e11c9d5ed7d07e7",
+    "snapshot_sha256": "42d7de983481a38e389f96a93748164abb4bde794f28fa27f263636c66bb22b0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f51170145e735cbd1dfdad98de40b6ccb3514d441199d0d5930c0624e4cc92d",
+      "sha256": "df2dba8b2655abe0c0a0ffec0aa3ec1c1eaaf25dfc1d7cf519aaa614c51b89d4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Justiz vom 17. August 1931 über den Beitritt Siams zu dem Revidierten Berner Übereinkommen zum Schutze von Werken der Literatur und Kunst. StF: BGBl. Nr. 262/1931"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 262/1931",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=262/1931&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c512d8fa6ff755af8f2bcb69dda5cc7852b46f5e7395b4b26f071358f6272490",
+      "sha256": "9a20d386980f3fd49521f5ba92d0052bd9c1d0c8403618a6218fa448b7847d57",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

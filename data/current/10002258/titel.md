@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 8. März 1973 betreffend das Inkrafttreten des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 für Liechtenstein StF: [BGBl. Nr. 137/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_137_0/1973_137_0.pdf>)

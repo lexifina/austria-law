@@ -1,0 +1,3 @@
+Verordnung der Ministerien des Innern und für Kultus und Unterricht vom 31. December 1892, betreffend das Übereinkommen zwischen Österreich-Ungarn und Frankreich wegen Mittheilung der Civilstandsurkunden der beiderseitigen Staatsangehörigen. StF: [RGBl. Nr. 2/1893](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=2/1893&amp;SkipToDocumentPage=True>)
+
+Um zwischen der österreichisch-ungarischen Monarchie und der französischen Republik die gegenseitige Mittheilung der Civilstandsurkunden, welche ihre Staatsangehörigen betreffen, zu sichern, wurde nachstehendes Übereinkommen getroffen.

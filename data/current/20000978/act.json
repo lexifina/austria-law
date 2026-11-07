@@ -1,0 +1,139 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20000978",
+  "short_title": "Veräußerung von unbeweglichem Bundesvermögen",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001047",
+    "valid_from": "2000-11-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000978&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:24:54.557569+00:00",
+    "response_sha256": "3ba6672d7abc4cf22b50fdaae3aa9e7ce0cf339f78ed634e993c6c604ef00c10",
+    "snapshot_sha256": "9b0df77388dc90809bd76f1e2c1e967ca11d77fed5a058a0c9b6d53fe0613d15",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "337d8bb376a12c4fd3db9c5cf00bc6e58b85a2de55da783bc32b30bfe1af3d82",
+      "sha256": "4fa7ce4bf9371fdb85497784c7983420b42973bc142568ec5d69703e7c1a4cfe",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Veräußerung von unbeweglichem Bundesvermögen StF: BGBl. I Nr. 111/2000 (NR: GP XXI RV 281 AB 319 S. 41.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_111_1/2000_111_1.pdf"
+        },
+        {
+          "text": "RV 281",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/281"
+        },
+        {
+          "text": "AB 319",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/319"
+        },
+        {
+          "text": "S. 41.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/41"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "In Kärnten: Verkauf",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fc87866324ac623b6a32186f281dc7c86e2c80c53d013d51f732bb385dbe7bf",
+      "sha256": "88db8685e8b091ddeb9ae3b1b1088db53a52aaf11ed036b96084e771c9df5c8d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "zu Schilling",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Grundstück Nr. 246/1 Wald, inneliegend in EZ 379, sowie Grundstücke Nr. 247 Baufläche, Garten, Sonstige, Nr. .249 Baufläche und Nr. .1247 Baufläche, inneliegend in EZ 69, je Grundbuch 72195 Waidmannsdorf",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "64 900 000",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d6191d9665a274d9095871b3f0a69f53d82d995987f68baec352fa9d1c77c13",
+      "sha256": "1816890bd2c56f867ad778bd4e2d33f5f84a370d19159e5bca66566f4d656fd1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

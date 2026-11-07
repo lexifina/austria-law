@@ -1,0 +1,3 @@
+Bundesgesetz über den Schutz vor Gesundheitsgefahren im Zusammenhang mit Neuen Psychoaktiven Substanzen (Neue-Psychoaktive-Substanzen-Gesetz, NPSG) StF: [BGBl. I Nr. 146/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/146>) (NR: GP XXIV [RV 1518](<https://www.parlament.gv.at/gegenstand/XXIV/I/1518>) [AB 1593](<https://www.parlament.gv.at/gegenstand/XXIV/I/1593>) [S. 135.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/135>) BR: [8611](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8611>) [AB 8632](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8632>) [S. 803.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/803>))
+
+Der Nationalrat hat beschlossen:

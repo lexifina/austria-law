@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Landesverteidigung vom 16. April 1987 über die Aufhebung einiger Worte in der Beilage 1 zum Erlaß des Bundesministers für Landesverteidigung vom 28. Juni 1982, Z. 52.122/491-4.9/82, Verlautbarungsblatt des Bundesministeriums für Landesverteidigung Nr. 167/1982, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 172/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_172_0/1987_172_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

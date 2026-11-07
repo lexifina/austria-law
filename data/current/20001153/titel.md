@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Sicherheit und Generationen über die Rentenanpassung und über die Feststellung bestimmter Werte im Versorgungsrecht für das Kalenderjahr 2001 StF: [BGBl. II Nr. 50/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_50_2/2001_50_2.pdf>)
+
+Auf Grund des § 1 Abs. 3 und 4 des Bundesgesetzes betreffend Abänderung und Ergänzung des Kleinrentnergesetzes, [BGBl. Nr. 90/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_90_0/1955_90_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 433/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_433_0/1995_433_0.pdf>), wird die Höhe der Kleinrenten für das Kalenderjahr 2001 wie folgt festgestellt:

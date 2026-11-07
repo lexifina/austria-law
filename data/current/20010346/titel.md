@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 15. Dezember 1947, betreffend die Verlängerung von Prioritätsfristen zu Gunsten der Staatsangehörigen der Republik Italien. StF: [BGBl. Nr. 38/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_38_0/1948_38_0.pdf>)
+
+Auf Grund des § 13, Abs. (4), des Patentschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 123, und des § 10, Abs. (4), des Markenschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 125, wird festgestellt, daß die Prioritätsfristen des § 13, Abs. (1), des Patent-ÜG. und des § 10, Abs. (1), des Marken-ÜG., zu Gunsten der Staatsangehörigen der Republik Italien verlängert sind.

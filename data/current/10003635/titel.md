@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem der Organisation „International Finance Corporation“ (IFC) StF: [BGBl. II Nr. 141/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_141_2/1998_141_2.pdf>)

@@ -1,0 +1,3 @@
+Bundesgesetz über die Transparenz und das Targeting politischer Werbung (Politische-Werbung-Gesetz – PolWG) StF: [BGBl. I Nr. 21/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/21>) (NR: GP XXVIII [RV 403](<https://www.parlament.gv.at/gegenstand/XXVIII/I/403>) [AB 414](<https://www.parlament.gv.at/gegenstand/XXVIII/I/414>) [S. 71.](<https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/71>) BR: [11782](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11782>) [AB 11786](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11786>) [S. 989.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/989>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Prozentuale Anteile am Gesamtaußenhandel für die in Artikel XXVI vorgesehene Berechnung
+
+(auf Grund der Durchschnittswerte der Jahre 1949—1953) Ist dieses Abkommen vor dem Beitritt Japans zum Allgemeinen Abkommen von Vertragsparteien angenommen worden, deren Außenhandel nach Spalte I den in Artikel XXVI Absatz 6 bezeichneten Hundertsatz erreicht, so wird für die Berechnung nach dem genannten Absatz die Spalte I angewendet. Ist das Abkommen nicht vor dem Beitritt Japans angenommen worden, so wird Spalte II angewendet.

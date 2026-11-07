@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 14. Jänner 1950, betreffend die Ratifikation des Abkommens über die internationale Zivilluftfahrt durch Libanon StF: [BGBl. Nr. 48/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_48_0/1950_48_0.pdf>)

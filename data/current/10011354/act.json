@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011354",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P1",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011619",
+    "valid_from": "1961-03-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011354&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:54:06.874976+00:00",
+    "response_sha256": "a5d1dac77e6acdcf9d7ab87203bc7c495d152df3f4a725cadd58c6bdb4961bc7",
+    "snapshot_sha256": "3ceecaf88d2c700b8289fe384b08fef9e994c2ed77508e8314564544e93c0dda",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "effc5988d765ad0bd0894d4a0bb003b9200d239ccd1c9fa7b4b48c65712dd168",
+      "sha256": "81001f077e6c9a06aa6662cdfe15dd9befeb99199ec78d7540a3c50fded50dca",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 20. Feber 1961, betreffend die Ratifikation des Protokolls über gewisse Abänderungen des Abkommens über die Internationale Zivilluftfahrt durch den Sudan und Costa Rica StF: BGBl. Nr. 62/1961"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 62/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_62_0/1961_62_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "517ca7876c0e5412b2ffdea838df92567061a6bfda57f92659ccb015887086d5",
+      "sha256": "e76839c846435d655042536e952dc453391a7bf4e639f124dc3ee3dc4788e446",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 106/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_106_0/1957_106_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

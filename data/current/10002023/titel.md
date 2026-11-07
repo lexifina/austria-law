@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Handel und Wiederaufbau vom 17. Mai 1962, womit Zeichen der Vereinten Nationen und anderer internationaler Organisationen von der Registrierung nach dem Markenschutzgesetz 1953 ausgeschlossen werden. StF: [BGBl. Nr. 147/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_147_0/1962_147_0.pdf>)

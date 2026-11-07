@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Zulassung von Telekopierern zur Einreichung von Anbringen an das Bundesministerium für Finanzen, an die Verwaltungsgerichte sowie an die Finanzämter, das Zollamt Österreich und das Amt für Betrugsbekämpfung StF: [BGBl. Nr. 494/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_494_0/1991_494_0.pdf>)
+
+Auf Grund des § 86a Abs. 2 der Bundesabgabenordnung (BAO), zuletzt geändert durch [BGBl. Nr. 10/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_10_0/1991_10_0.pdf>), und des § 56 Abs. 2 des Finanzstrafgesetzes, zuletzt geändert durch [BGBl. Nr. 465/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_465_0/1990_465_0.pdf>), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002787",
+  "short_title": "Errichtung einer zweiten Notarstelle in der Stadt Schwaz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002810",
+    "valid_from": "1987-08-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002787&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:14.493349+00:00",
+    "response_sha256": "96020983d2545413cb271424497b33eb8d225d882d656cf3b7bf16d2dc617ee6",
+    "snapshot_sha256": "8e5f0a524b3a2f91287d33c3c890400853be1090ef7c62ee3d8f7242d2976519",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2130b9580b354a5579f60d028106c1b5720eca086642f19b464d4c7f3b58496",
+      "sha256": "2a14545865882f78bf92178922b0132ad1da854b153ed1692d2ca775f9d8129b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 31. Juli 1987 betreffend die Errichtung einer zweiten Notarstelle in der Stadt Schwaz StF: BGBl. Nr. 392/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 392/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_392_0/1987_392_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fecc733284e16475afb013018560c71b7d5c88c3b7be74a87cf0b8fac18501b",
+      "sha256": "03989c4747bf3385c159db9c3e0014feed579a39b05600040320e69ac3885911",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

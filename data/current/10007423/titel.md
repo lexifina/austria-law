@@ -1,0 +1,1 @@
+Vereinbarung in Form eines Notenwechsels zwischen dem Bundesminister für wirtschaftliche Angelegenheiten der Republik Österreich und dem Minister für auswärtige Angelegenheiten der Republik Korea gemäß Artikel 4 des Übereinkommens über den Internationalen Handel mit Textilien StF: [BGBl. Nr. 439/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_439_0/1993_439_0.pdf>)

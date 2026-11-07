@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Höchstgehalte von bestimmten gentechnisch veränderten Organismen in Futtermitteln (Futtermittel-GVO-Schwellenwert-Verordnung) StF: [BGBl. II Nr. 394/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_394_2/2001_394_2.pdf>)
+
+Auf Grund der §§ 4 und 5 Abs. 2 des Futtermittelgesetzes 1999, [BGBl. I Nr. 139/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_139_1/1999_139_1.pdf>), zuletzt geändert durch das Agrarrechtsänderungsgesetz 2001, BGBl. I Nr. 109, wird im Einvernehmen mit dem Bundesminister für soziale Sicherheit und Generationen verordnet:

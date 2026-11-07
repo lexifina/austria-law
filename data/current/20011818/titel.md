@@ -1,0 +1,3 @@
+Bundesgesetz über einen nationalen Zertifikatehandel für Treibhausgasemissionen (Nationales Emissionszertifikatehandelsgesetz 2022 – NEHG 2022) StF: [BGBl. I Nr. 10/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/10>) (NR: GP XXVII [RV 1293](<https://www.parlament.gv.at/gegenstand/XXVII/I/1293>) [AB 1306](<https://www.parlament.gv.at/gegenstand/XXVII/I/1306>) S. 139. BR: [10860](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10860>) [AB 10866](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10866>) S. [937](<https://www.parlament.gv.at/gegenstand/BR/I-BR/937>).)
+
+Der Nationalrat hat beschlossen:

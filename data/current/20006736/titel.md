@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Festlegung des ökologischen Zustandes für Oberflächengewässer (Qualitätszielverordnung Ökologie Oberflächengewässer – QZV Ökologie OG) StF: [BGBl. II Nr. 99/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/99>) \[CELEX-Nr.: [32000L0060](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0060:DE:HTML>)\]
+
+Auf Grund des § 30a Abs. 2 Z 1 und 3 des Wasserrechtsgesetzes 1959, BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 123/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/123>) und die Bundesministeriengesetznovelle 2009, BGBl. I Nr. 3, wird verordnet:

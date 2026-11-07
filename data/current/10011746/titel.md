@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 12. Juli 1988, mit der die Verordnungen betreffend die Bestimmung des Straßenverlaufes der A 15 Bodensee Autobahn im Bereich der Gemeinden Hard, Lauterach, Wolfurt, Fußach und Höchst aufgehoben werden StF: [BGBl. Nr. 396/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_396_0/1988_396_0.pdf>)

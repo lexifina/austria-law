@@ -1,0 +1,3 @@
+Bundesgesetz vom 29. Juni 1978 betreffend die Finanzierung der Karawanken Autobahn im Abschnitt Winkl im Rosental bis Staatsgrenze im Karawankentunnel (Karawanken Autobahn-Finanzierungsgesetz) StF: [BGBl. Nr. 442/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_442_0/1978_442_0.pdf>) (NR: GP XIV [RV 894](<https://www.parlament.gv.at/gegenstand/XIV/I/894>) [AB 929](<https://www.parlament.gv.at/gegenstand/XIV/I/929>) [S. 98](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/98>) BR: [1863](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1863>) [S. 378.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/378>))
+
+Der Nationalrat hat beschlossen:

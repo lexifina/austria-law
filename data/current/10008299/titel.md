@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz vom 23. November 1973 über die Festsetzung von Mehrleistungszulagen für Maschinschreibarbeiten (Schreib- und Ansageprämien) StF: [BGBl. Nr. 604/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_604_0/1973_604_0.pdf>)
+
+Auf Grund des § 18 des Gehaltsgesetzes 1956, BGBl. Nr. 54, in der Fassung des Bundesgesetzes [BGBl. Nr. 214/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_214_0/1972_214_0.pdf>) sowie auf Grund des § 22 Abs. 1 des Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, in der Fassung des Bundesgesetzes [BGBl. Nr. 215/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_215_0/1972_215_0.pdf>) wird im Einvernehmen mit dem Bundeskanzler und dem Bundesminister für Finanzen verordnet:

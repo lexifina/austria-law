@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009284",
+  "short_title": "Rechtspersönlichkeit von Superintendenzen der Evangelischen Kirche A. B. in Österreich",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009475",
+    "valid_from": "1966-06-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009284&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:30:09.196989+00:00",
+    "response_sha256": "f0a9f03ed6b67b34d84a12c0c8507dc041c3a5b8217f9883b6c1c5e068d8c228",
+    "snapshot_sha256": "7ddb31e5088af9920385dc3f48d3948e9575c0eef240cdae1640e018972787dc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f48098345c614fd23db7de27ad3fedf4cb9df68eb58e6ddf90c5e53c138ab56",
+      "sha256": "84055828930e9e643ce077678ff1d9f0c04a08d2ad91c53c6d24b3e3c744f950",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Unterricht vom 5. Mai 1966 über die Rechtspersönlichkeit von Superintendenzen der Evangelischen Kirche A. B. in Österreich StF: BGBl. Nr. 81/1966"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 81/1966",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_81_0/1966_81_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cce83b27ee25ff8d2b515c1fe38c3094dceb6cc8f5eaaa69e8ee228de2b61249",
+      "sha256": "b2f0e1c9c83c63425981d04292b1080caf13a117eb8bffcbd6b975fc06bf9a18",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

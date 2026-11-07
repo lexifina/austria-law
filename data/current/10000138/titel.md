@@ -1,0 +1,1 @@
+Bundes-Verfassungsgesetz (B-VG) StF: [BGBl. Nr. 1/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=1/1930&amp;SkipToDocumentPage=True>) (WV) idF [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB)

@@ -1,0 +1,3 @@
+Bundesgesetz zur Errichtung der Österreichischen Forschungsförderungsgesellschaft mit beschränkter Haftung (Forschungsförderungsgesellschaftsgesetz – FFGG) StF: [BGBl. I Nr. 73/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/73>) (NR: GP: XXII [RV 510](<https://www.parlament.gv.at/gegenstand/XXII/I/510>) [AB 538](<https://www.parlament.gv.at/gegenstand/XXII/I/538>) [S. 67.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/67>) BR: [7062](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7062>) [AB 7080](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7080>) [S. 711.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/711>))
+
+Der Nationalrat hat beschlossen:

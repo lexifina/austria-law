@@ -1,0 +1,23 @@
+## Artikel II
+
+### (Anm.: zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Von Art. I Z 1 (§ 1 c Abs. 9 erster Satz zweiter Halbsatz), Z 2 (§ 1 c Abs. 9 zweiter bis vierter Satz), Z 3 (§ 1 c Abs. 10 lit. a) und Z 4 (§ 1c Abs. 10 lit. b) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(2) Von Art. I Z 5 (§ 1 f) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(3) Reifen, die unter § 4 Abs. 3 a fallen und deren Type vor dem Inkrafttreten dieser Verordnung genehmigt wurde, sind von Art. I Z 8 ausgenommen.
+
+(4) Reifen, die unter § 4 Abs. 3 b fallen und die vor dem 1. Jänner 1986 erzeugt worden sind, sind von Art. I Z 7 (§ 2 lit. j) und Z 9 (§ 4 Abs. 3 b) ausgenommen. Solche Reifen dürfen jedoch nur bis zum 31. Dezember 1994 verwendet werden.
+
+(5) Von Art. I Z 15 und 17 (§ 10 Abs. 7 Z 8 lit. b und Abs. 8) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(6) Sofern sie dieser Vorschrift nicht entsprechen, sind von Art. I Z 16 (§ 10 Abs. 7 letzter Satz) Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(7) Von Art. I Z 24 sind hinsichtlich des § 16 Abs. 2 Rückstrahler ausgenommen, die an Fahrzeugen angebracht sind, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind oder für solche Fahrzeuge bestimmt sind; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(8) Von Art. I Z 26 (§ 18 Abs. 5 bis 7) sind Warnvorrichtungen ausgenommen, die an Fahrzeugen angebracht sind, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind oder für solche Fahrzeuge bestimmt sind; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(9) Von Art. I Z 64 (§ 52 Abs. 9) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(10) Von Art. I Z 76 (§ 63 a Abs. 1) sind Fahrzeuge ausgenommen, für die die Genehmigung oder Zustimmung des Landeshauptmannes gemäß § 112 Abs. 1 oder 4 KFG 1967 vor Inkrafttreten dieser Verordnung erteilt worden ist.

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003564",
+  "short_title": "Errichtung einer zehnten Notarstelle in der Landeshauptstadt Salzburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003593",
+    "valid_from": "1998-05-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003564&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:58.727565+00:00",
+    "response_sha256": "d6bd9343b86b3c085c4286718c44e21eb4e12cb65dbb37c25c5c561daa2437f0",
+    "snapshot_sha256": "260db6641bb4d13b2a95486acbdf649b324cb10476deb80ea3fd06d9bf6af167",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aef47c8506e046a4924028b66fbf2460235f68c2d305af797c5df2e1e4bde162",
+      "sha256": "77bb34eb66c869222d7ee2a182752b0a4f7ff44210ec00c86a217ab65509307d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zehnten Notarstelle in der Landeshauptstadt Salzburg StF: BGBl. II Nr. 165/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 165/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_165_2/1998_165_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91696d4255a1d716ddbed6f782d50350c204c4b13904b99396f2352136de904e",
+      "sha256": "06d02a2e962dd6285c280d726788d3829ced81e720e1828d77e3074041f6e67b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

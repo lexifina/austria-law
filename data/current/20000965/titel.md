@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für soziale Sicherheit und Generationen über den Aufteilungsschlüssel in der Krankenversicherung der Pensionisten StF: [BGBl. II Nr. 347/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_347_2/2000_347_2.pdf>)
+
+Auf Grund des § 73 Abs. 5 des Allgemeinen Sozialversicherungsgesetzes, [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 101/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_101_1/2000_101_1.pdf>), in der Fassung mit der Kundmachung [BGBl. I Nr. 102/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_102_1/2000_102_1.pdf>) wird verordnet:

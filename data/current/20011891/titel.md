@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Aufhebung von Punkt A) 3. der Verordnung des Bundesministers für Verkehr, Innovation und Technologie vom 6. November 2006, Z BMVIT-138.002/0033-II/ST5/2006, durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 164/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/164>)
+
+Gemäß Art. 139 Abs. 5 erster Satz B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), iVm § 4 Abs. 1 Z 4 des Bundesgesetzblattgesetzes – BGBlG, [BGBl. I Nr. 100/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf>), wird kundgemacht:

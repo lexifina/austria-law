@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005892",
+  "short_title": "Österreichische Nationalbibliothek-Archiv-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006562",
+    "valid_from": "2008-07-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005892&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:37:17.249613+00:00",
+    "response_sha256": "6172420ddb17161ac51d831846f48ee15a5e785403955c9ad179f9ecffa57532",
+    "snapshot_sha256": "8654f5647b95e6ae8dccd33e1b4ed7eda4d3bc7bde6611b06d85e99787212368",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b8503bf3179d9a4115ea80084d1959f094ae8c8c9dc5c927952484821b6f05b5",
+      "sha256": "b78c74434df876ead3d5de880a5d43ec0951056bea1e3bf7f0c8de1024d97c73",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Unterricht, Kunst und Kultur mit der der Bundesrechenzentrum GmbH die Aufgaben der Archivierung der Österreichischen Nationalbibliothek übertragen werden (Österreichische Nationalbibliothek-Archiv-Verordnung) StF: BGBl. II Nr. 239/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 239/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/239"
+        },
+        {
+          "text": "BGBl. Nr. 757/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 71/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab47fcd895c4f134f39264b124629ba2853448f6804b0293703acec08928f871",
+      "sha256": "54a857138f52d1477032e2fc9d82deb1e799363839bb09a0c111be9519aeaba6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

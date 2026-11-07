@@ -1,0 +1,3 @@
+Bundesgesetz über die Vertretung der Anliegen der Jugend (Bundes-Jugendvertretungsgesetz) StF: [BGBl. I Nr. 127/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_127_1/2000_127_1.pdf>) (NR: GP XXI [IA 270/A](<https://www.parlament.gv.at/gegenstand/XXI/A/270>) [AB 351](<https://www.parlament.gv.at/gegenstand/XXI/I/351>) [S. 46.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/46>) BR: [6253](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6253>) und [6254](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6254>) [AB 6264](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6264>) [S. 670.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/670>))
+
+Der Nationalrat hat beschlossen:

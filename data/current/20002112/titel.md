@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend zur Umsetzung der Richtlinie 1999/13/EG über die Begrenzung der Emissionen bei der Verwendung organischer Lösungsmittel in gewerblichen Betriebsanlagen (VOC-Anlagen-Verordnung – VAV) StF: [BGBl. II Nr. 301/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_301_2/2002_301_2.pdf>)
+
+Auf Grund des § 82 Abs. 1 und Abs. 3a sowie des § 84h der Gewerbeordnung 1994, BGBl. Nr. 194, in der Fassung des Bundesgesetzes [BGBl. I Nr. 111/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf>) wird im Einvernehmen mit dem Bundesminister für Land und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

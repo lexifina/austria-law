@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauen, Wissenschaft und Forschung über die Gewährung von Studienbeihilfe an Kandidatinnen und Kandidaten für die Studienberechtigungsprüfung (Studienberechtigungsprüfungsförderungsverordnung – SBPFV) StF: [BGBl. II Nr. 17/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/17>)
+
+Auf Grund des § 5 Abs. 1 des Studienförderungsgesetzes 1992, [BGBl. Nr. 305/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_305_0/1992_305_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 97/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/97>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

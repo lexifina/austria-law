@@ -1,0 +1,567 @@
+{
+  "sample_only": false,
+  "included_provisions": 8,
+  "source_provision_count": 8,
+  "schema_version": 1,
+  "gesetzesnummer": "20009295",
+  "short_title": "Lebensversicherung-Gewinnbeteiligungsverordnung",
+  "abbreviation": "LV-GBV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40175028",
+    "valid_from": "2016-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009295&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:30:05.487415+00:00",
+    "response_sha256": "c59a8fd3f772c6f3cfc57b38d863bbf2c2f7dfcdf31986c18151a04642bed7b7",
+    "snapshot_sha256": "e2ba6bd53bd7a6544d54ae15f3328374a02979a4248820cdae7f561375bab89a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0fd02f3058024094f365dd7cd95bbd8b9fc9e599d8e79b660b2a40478dbeef1",
+      "sha256": "57d2699b724f1bffb2186506913a2ffccfe0daebd7be76d50202a4309272cf38",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Gewinnbeteiligung in der Lebensversicherung (Lebensversicherung-Gewinnbeteiligungsverordnung – LV-GBV) StF: BGBl. II Nr. 292/2015"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 322/2016 BGBl. II Nr. 355/2021"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 292/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/292"
+        },
+        {
+          "text": "BGBl. II Nr. 322/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/322"
+        },
+        {
+          "text": "BGBl. II Nr. 355/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/355"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "050d5482236cc9635049198d2f558476a622bbfd454d4ce45f2e6d9e0bb7d7bc",
+      "sha256": "3a182539fefb6b9e1392f6882039209b6c44b625915606fa1c6f25c43bfe3d20",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f645ae3b173ab4bf24c380fa1da289d9e98eaae5f30a6e7e4d25d2598136904d",
+      "sha256": "d805c6036004b6e5e89ffe65fcc6c13590b0324b209739dd1c6fb8962fb01bbb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Mindestgewinnbeteiligung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8cfc1333cf0db3f80438481b98bccbe1b3cfe1b1464415f3681a538530248d3d",
+      "sha256": "501f561eb7bbc4e39cf04efe0e145fa9527876280457ff7ca496425a20de756e",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 7 Abs. 4"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Mindestbemessungsgrundlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9980be6e87c55b56c2e936a9648ba25d59dfbc786f6317af4b9252acbdaa1231",
+      "sha256": "32b5be2be965bd3c2fb53fb5f27e936a5e73f734914acb3eda8d5ec0249ba05e",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 7 Abs. 4"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 266/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/266"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abgegrenzte Prämien (§ 146 Abs. 4 Posten III.1. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erträge aus Kapitalanlagen und Zinsenerträge (§ 146 Abs. 5 Posten IV.2. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für Kapitalanlagen und Zinsenaufwendungen (§ 146 Abs. 5 Posten IV.3. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige versicherungstechnische Erträge (§ 146 Abs. 4 Posten III.4. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für Versicherungsfälle (§ 146 Abs. 4 Posten III.5. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erhöhung von versicherungstechnischen Rückstellungen (§ 146 Abs. 4 Posten III.6. VAG 2016) abzüglich der Aufwendungen für die Dotierung der Zinszusatzrückstellung gemäß § 3 der Versicherungsunternehmen-Höchstzinssatzverordnung – VU-HZV, BGBl. II Nr. 266/2016, in der jeweils geltenden Fassung;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verminderung von versicherungstechnischen Rückstellungen (§ 146 Abs. 4 Posten III.7. VAG 2016) abzüglich der Erträge aus der Auflösung der Zinszusatzrückstellung gemäß § 3 VU-HZV;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für den Versicherungsbetrieb (§ 146 Abs. 4 Posten III.9. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige versicherungstechnische Aufwendungen (§ 146 Abs. 4 Posten III.11. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige nichtversicherungstechnische Erträge (§ 146 Abs. 5 Posten IV.5. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige nichtversicherungstechnische Aufwendungen (§ 146 Abs. 5 Posten IV.6. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steuern vom Einkommen und vom Ertrag (§ 146 Abs. 5 Posten IV.11. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auflösung der Risikorücklage gemäß § 143 VAG 2016 (§146 Abs. 5 Posten IV.13.a. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuweisung an die Risikorücklage gemäß § 143 VAG 2016 (§ 146 Abs. 5 Posten IV.14.a. VAG 2016);",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für die Dotierung der Zinszusatzrückstellung gemäß Abs. 3 Z 3;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "+",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erträge aus der Auflösung der Zinszusatzrückstellung gemäß § 3 Abs. 6 VU-HZV;",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "–",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anrechnung von Überdotierungen oder negativen Mindestbemessungsgrundlagen aus früheren Geschäftsjahren gemäß Abs. 6.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Schlussgewinnfonds",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77af2e763333488a6ed73f18e0f9221e1bd05ea1df2ef8d6a41a6fcb0ca62e12",
+      "sha256": "5008afd5dcabbd2425a5cc1de91ed2978bb21f41484479c9d5f2f1e3983eedfd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Gewinnbeteiligung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8cd5284d3b0990350799da7e2c8d4a78c4a22f37547c9ca8462abea8c8ed5a70",
+      "sha256": "c4e6e93406565601454401ab685484a541dcb1ecccca42988d2265fd7c78865d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 295/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/295"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Inkrafttreten und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7332828c2e1494738f812dcd584fdeb2685ca12b5b0c0a500f2651ad288e32b1",
+      "sha256": "74cf9e244a4cf6e678252e78ae45e85725eced467dad51816b752d247cf682da",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 398/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/398"
+        },
+        {
+          "text": "BGBl. II Nr. 397/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/397"
+        },
+        {
+          "text": "BGBl. Nr. 70/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_70_0/1995_70_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 354/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/354"
+        },
+        {
+          "text": "BGBl. II Nr. 322/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/322"
+        },
+        {
+          "text": "BGBl. II Nr. 355/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/355"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

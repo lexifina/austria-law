@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 23. November 1959, betreffend die Ratifikation des Protokolls über gewisse Abänderungen des Abkommens über die Internationale Zivilluftfahrt durch Brasilien und Guinea StF: [BGBl. Nr. 259/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_259_0/1959_259_0.pdf>)

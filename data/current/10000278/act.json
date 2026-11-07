@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000278",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000279",
+    "valid_from": "1956-05-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000278&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:26:13.103113+00:00",
+    "response_sha256": "e7b351f02847efe2cf12cef83316819fb2d5600228a2615367018ac732236064",
+    "snapshot_sha256": "65ea2761b9b47d2c7c0b93597507da53f942379f6503b982b14079847ff040e0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "210b6fa33e93c0f44694f99b952004930a25d38300579e4b564c19b5fd72168e",
+      "sha256": "1dacf55e890cefd287811e772493e45037a480da0b013e41cf7826feb927c2d4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 14. Mai 1956, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung des Betriebes von Garagen und Einstellplätzen sowie zur Regelung der behelfsmäßigen Einstellung von Kraftfahrzeugen. StF: BGBl. Nr. 108/1956"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 108/1956",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_108_0/1956_108_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5fe1d579105aa6f2b4a7e131a3e4565773328fcd3b474fc1f645e35ca2c9c5d0",
+      "sha256": "3d37d96b9480f2cb9fb4ec08b07613cce976dd35ba58316546de16a87abbedfa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

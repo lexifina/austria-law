@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010382",
+  "short_title": "Errichtung einer 5. Notarstelle in der Stadt Salzburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209370",
+    "valid_from": "1948-04-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010382&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:22.741981+00:00",
+    "response_sha256": "6f4b8ae474c235ab204825fe353794d206000a1189adb0f13e16b8bd78079036",
+    "snapshot_sha256": "500823092c43ac4cbf1cd8dbff2d9113bc7046b86869034d7ba5efbc686114ef",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ed3be4d0011dcf9ff599bde9157ec5d64ca015364659a91a1c11f4017239e75",
+      "sha256": "63678ef5e02831342851afc931a9eaeaa56678a9050175a799726eceab8f4f54",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Justiz vom 10. März 1948 über die Errichtung einer 5. Notarstelle in der Stadt Salzburg. StF: BGBl. Nr. 69/1948"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 69/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_69_0/1948_69_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c713c8d0ba7c39abd1aaf0499e2dfdcb823a4c8f4698919f3956b637289322ec",
+      "sha256": "f1d95701868414c4d9a674ff603ae0f6c57acb93cbf5bb3ed00a9e729a2eca13",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

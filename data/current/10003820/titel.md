@@ -1,0 +1,3 @@
+Bundesgesetz vom 16. Dezember 1948, betreffend die Gewährung von Gebührenbefreiungen für Anleihen von Gebietskörperschaften. StF: [BGBl. Nr. 24/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_24_0/1949_24_0.pdf>) idF [BGBl. Nr. 76/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_76_0/1949_76_0.pdf>) (DFB) (NR: GP V [RV 728](<https://www.parlament.gv.at/gegenstand/V/I/728>) [AB 763](<https://www.parlament.gv.at/gegenstand/V/I/763>) [S. 99.](<https://www.parlament.gv.at/gegenstand/V/NRSITZ/99>) BR: [S. 37.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/37>))
+
+Der Nationalrat hat beschlossen:

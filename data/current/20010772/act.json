@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010772",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2018",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40218119",
+    "valid_from": "2019-10-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010772&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:02:52.835517+00:00",
+    "response_sha256": "0e1341c5be8de1a6651a4d37aad1438e0fd2e26d9df8e8730219ddcf3e8674d6",
+    "snapshot_sha256": "012d48ba3066e91bdc6bfe58283127bf57557dd7a7f6492c68e16b4073a29e4d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d96854cd753fdd15ae22fa1b0f45a52e2499e78532b0f4ad8e30010e739cd06",
+      "sha256": "c80ac33690ec64ed48dc7c9573ee281bd07cc6a077d6ec1a8ffa14c7a137fb68",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2018 StF: BGBl. I Nr. 90/2019 (NR: GP XXVI AB 684 S. 89.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 90/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/90"
+        },
+        {
+          "text": "AB 684",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/684"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "505f936068d7c5cbc0e35b5ebb56553d0047226de34e7240419eb1a3b3e6e643",
+      "sha256": "7a0266d19e8ecf8e8c40103853f84646ad465e925025e9f5cc97ca389d175605",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

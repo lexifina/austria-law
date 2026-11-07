@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für EU, Kunst, Kultur und Medien, mit der der Bundesrechenzentrum GmbH der Betrieb und die Weiterentwicklung von bestimmten in den Wirkungsbereich des Bundeskanzleramts fallenden IT-Verfahren, übertragen werden StF: [BGBl. II Nr. 295/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/295>)
+
+Auf Grund des § 2 Abs. 6 des Bundesgesetzes über die Bundesrechenzentrum GmbH (BRZ GmbH), [BGBl. Nr. 757/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

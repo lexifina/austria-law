@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004441",
+  "short_title": "Übertragung von Bibliotheksaufgaben",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004839",
+    "valid_from": "2006-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004441&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:14:32.386396+00:00",
+    "response_sha256": "4e067048d195b8c0ee38bbc9cd8a4dce7ce4bf942215282fc8b354c872557e90",
+    "snapshot_sha256": "ee748620b13a136edfd8e87527dee23914500e20ca320b6034e4f17171c2064f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72c2b5b4f38051f784abff73e9afd1d41228c22aaf8045245c0d88ab0e194643",
+      "sha256": "f8cc64e62055fc313c4f63c1cfe6c1d00725f0cb83b90dd760947a886c48c0a0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz über die Übertragung von Bibliotheksaufgaben StF: BGBl. II Nr. 401/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 401/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/401"
+        },
+        {
+          "text": "BGBl. I Nr. 151/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/151"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af42e456a2f1937d4b371602ac9849571b418f33b92e7571852a0ffb1033a883",
+      "sha256": "d112003bac28e26eeee800bee7841b0f27aa5148b579f174f9596472deefe232",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfc010aaec70a58751d3c0a12b36780b02aa9e278eeb240a51c472f3e2455c07",
+      "sha256": "5105e3ed545537a0404a893c6f6aa2bb33805510d9d270ce9c4e2fd71de084b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002384",
+  "short_title": "Haager Unterhaltsstatutübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002407",
+    "valid_from": "1977-08-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002384&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:03:20.366733+00:00",
+    "response_sha256": "73e8455ff63a2a04abfbb8747878186662e4566c715d76e5ac965b3f61b8a901",
+    "snapshot_sha256": "0ecdc3a431788c16080a3706094d70665222f42be92d76eaec250acecc70b85c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9cd1d1d566a2ad4fa182246a5f3fba9ddbd818927c2b32110466175eba305c84",
+      "sha256": "fc7f456a3ba20177f93e5d0ab56f5c2ad4b5113f77a6605b24aeaf2a82b04eb8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 12. August 1977 betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 durch Japan StF: BGBl. Nr. 444/1977"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 444/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_444_0/1977_444_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c513426baefbfb5e3e1baeaf375523e566f0bb7996f3d203d8d058f85d1a814c",
+      "sha256": "fd10b8be3ba4919c0d91e814309d60f49536fafc044745f34cd9cae310f203c1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 293/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_293_0/1961_293_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 339/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_339_0/1974_339_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

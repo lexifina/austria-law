@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 16. August 1988 betreffend den Geltungsbereich der Übereinkommen und Erklärungen der Ersten und Zweiten Haager Friedenskonferenz von 1899 und 1907 StF: [BGBl. Nr. 479/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_479_0/1988_479_0.pdf>)

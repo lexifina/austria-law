@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres, mit der das unbefugte Betreten und der unbefugte Aufenthalt in den Betreuungseinrichtungen des Bundes verboten wird 2005 (Betreuungseinrichtungen-Betretungsverordnung 2005 – BEBV 2005) StF: [BGBl. II Nr. 2/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/2>)
+
+Auf Grund des § 5 Abs. 1 des Grundversorgungsgesetzes-Bund 2005 (GVG-B 2005), [BGBl. Nr. 405/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_405_0/1991_405_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 39/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/39>), wird verordnet:

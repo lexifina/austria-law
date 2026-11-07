@@ -1,0 +1,784 @@
+{
+  "sample_only": false,
+  "included_provisions": 17,
+  "source_provision_count": 17,
+  "schema_version": 1,
+  "gesetzesnummer": "20004760",
+  "short_title": "IST-Austria-Gesetz",
+  "abbreviation": "ISTAG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40225123",
+    "valid_from": "2021-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004760&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:21.556904+00:00",
+    "response_sha256": "e833227b68c7423ea37a3ce2461b8168778ff481e2942773e7f40c005ed9aebe",
+    "snapshot_sha256": "90232348fad9869f606b90073d2b830361bb968c9b3cef06c61801d80bea0d09",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8733ff64b3b4e793bea94c8af539e0d0453cb1250eb7a027924ca40ba16ccc74",
+      "sha256": "a8ad545d029b57e02b61f44972939a4ab532214c18f9e3e554b3715e73c1377e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über das Institute of Science and Technology – Austria (IST-Austria-Gesetz – ISTAG) StF: BGBl. I Nr. 69/2006 (NR: GP XXII IA 798/A AB 1358 S. 142. BR: 7497 AB 7532 S. 734.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 31/2018 (NR: GP XXVI RV 68 AB 105 S 21. BR: AB 9960 S. 879.) BGBl. I Nr. 75/2020 (NR: GP XXVII RV 239 AB 308 S. 43. BR: AB 10406 S. 911.) BGBl. I Nr. 188/2023 (NR: GP XXVII RV 2319 AB 2380 S. 245. BR: 11361 AB 11410 S. 961.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 69/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/69"
+        },
+        {
+          "text": "IA 798/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/A/798"
+        },
+        {
+          "text": "AB 1358",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1358"
+        },
+        {
+          "text": "S. 142.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/142"
+        },
+        {
+          "text": "7497",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7497"
+        },
+        {
+          "text": "AB 7532",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7532"
+        },
+        {
+          "text": "S. 734.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/734"
+        },
+        {
+          "text": "BGBl. I Nr. 31/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/31"
+        },
+        {
+          "text": "RV 68",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/68"
+        },
+        {
+          "text": "AB 105",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/105"
+        },
+        {
+          "text": "S 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/21"
+        },
+        {
+          "text": "AB 9960",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9960"
+        },
+        {
+          "text": "S. 879.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/879"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/75"
+        },
+        {
+          "text": "RV 239",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/239"
+        },
+        {
+          "text": "AB 308",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/308"
+        },
+        {
+          "text": "S. 43.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/43"
+        },
+        {
+          "text": "AB 10406",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10406"
+        },
+        {
+          "text": "S. 911.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/911"
+        },
+        {
+          "text": "BGBl. I Nr. 188/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/188"
+        },
+        {
+          "text": "RV 2319",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2319"
+        },
+        {
+          "text": "AB 2380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2380"
+        },
+        {
+          "text": "S. 245.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/245"
+        },
+        {
+          "text": "11361",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11361"
+        },
+        {
+          "text": "AB 11410",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11410"
+        },
+        {
+          "text": "S. 961.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/961"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Errichtung und Rechtsstellung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ziele und Grundsätze",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Finanzierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Leistungsvereinbarungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Jahresvoranschlag, Gebarung und Rechnungslegung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Qualitätssicherung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kuratorium (board of trustees)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Präsidentin oder Präsident (president)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwaltungsdirektorin oder Verwaltungsdirektor (managing director)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wissenschaftlicher Rat (scientific board)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personal",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "PhD-Programme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wirkung der Rechtsstellung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkraft- und Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13b.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen zur Forschungsfinanzierungsnovelle 2020 (Anm.: § 13b wurde nicht vergeben)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Errichtung und Rechtsstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a6ba29ccc6094df3ddb8a9b981935dd28c352b9cbaddac2109ac3521c545dd8",
+      "sha256": "f355d24f8dafa280bff6cd83f870d9037398b5084956bfd95b81b4bcb17b4960",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 341/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_341_0/1981_341_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Ziele und Grundsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7cbabd6019d6b303d87b33df2ec6b0dfeff6863a1225ee70cad7a6dc78fe2157",
+      "sha256": "ba9a5b08a1840be1748817aeea3d4a4d51e456fb2eaa14431f658fc9ab978121",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 142/1867",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=142/1867&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Finanzierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "766826796150ff1c6efd605ca169241622f354679bb8642f8b8d77ad3a205fb7",
+      "sha256": "717c5d93c666e117d30cf5c74e0b793c1660e1028e6c4054e7eff7a8ee46ec8c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 75/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/75"
+        },
+        {
+          "text": "BGBl. I Nr. 120/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_120_1/2002_120_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3a",
+      "source_heading": "Leistungsvereinbarungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d93a3fad9cda3275f56559baed6c263a09360eb61fc2e67f19b186cc7064ca3a",
+      "sha256": "acae92d742be34e20382c56c702fd90906b687f6d80b1edb191ef0fbdafaa2fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Jahresvoranschlag, Gebarung und Rechnungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62e5fdae95fcbbd70340a8e4bca278836f685cefdc2174908f84e350d420417b",
+      "sha256": "e48377af21d242ee41df600dd1d427c2e8165f376c5319e141aa0800d6a945cb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Qualitätssicherung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "551d41574506205325860e584e1adec085447cdcf9cb906b9a3d6d04f8269661",
+      "sha256": "89e0af0d2f9c1eb1ce840b431999d548f9bc4686e07f3997be9937985151a6c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Kuratorium (board of trustees)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebaa4479209cd489c93ddffaf2b03a41e9cd15a442a1757b1cc6443b1a9b0615",
+      "sha256": "6e741cb9da1e08f3d34b2ed4ea88f11e483e6d248eff43283273ccffafd0a107",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Präsidentin oder Präsident (president)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90ffd86f40e03b0767979452ab85889a44654e29871546e9590e16ed74745f4b",
+      "sha256": "db659caeb9114562c2c2ba4d2e3be426aa545b285fb83722f37df8d9da0be4c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Verwaltungsdirektorin oder Verwaltungsdirektor (managing director)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b486a46f40adffdd3e810560747202619371be8f9c5223b2e6d09f89a0b01861",
+      "sha256": "fc452882217e2522399ef09e851e637ad3860a3c0eab63abaf3e40d7c9158a9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Wissenschaftlicher Rat (scientific board)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fb7bb9908c3542f1c3e65bee665cf4089194ef335e43a96199d10f2a54c4ff2",
+      "sha256": "cedf40c780283becd6d166a7cccb81e231d35f421e14da3f50802f4fd12c5984",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Personal",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62a13b8ac4708a704cd0595d35ae42232f7f4ec0b52f5f1dffbfd8f04b4d046c",
+      "sha256": "03193f0eba24cc866dd36af83e6428a9eb03d150f9172267829d6fbfac823332",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 292/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=292/1921&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 259/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_259_0/1970_259_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "PhD-Programme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7735bfb9f917506aee3574ee5fb31ab2a39345a750bbac9b98a18ab6b66c084",
+      "sha256": "260ced81aa59987895c5bde1079324a5736f175017fbda92272cb8f594e1192c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Wirkung der Rechtsstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00c7c92b8f25488ec0abb61b8ad9cfeb2084fac6858cdb444abb63ef63925c77",
+      "sha256": "646ebe453d047ad275228967b2e179a0e7f5b0046df3fcc46a45cf8dce80f5a7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100"
+        },
+        {
+          "text": "BGBl. Nr. 218/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 305/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_305_0/1992_305_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 291/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_291_0/1986_291_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 376/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_376_0/1967_376_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 194/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 213/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_213_0/1996_213_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7efc1606ea988d399e87859024e602b1d8b996fb628e731db0d10fda3118a65a",
+      "sha256": "6b83f81f43e62b10fbd914e568de1e454a105ca520e70e2251ec6d96e539f26e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13a",
+      "source_heading": "Inkraft- und Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0013a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bddeac14d4866dfa7aa261795f4ee7513e46b81e16385b0c762573b3c8aa0aba",
+      "sha256": "910cc676fdb19d38989f1ac220b2697ae074073369e7e5f4f14a00d47bc1ebc6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 31/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/31"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/75"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb8dd8bd24396eaf9de8548c7b9ca8243f885ff9859a71ed75602605d5a37d79",
+      "sha256": "4180d040ed081e3c8a9acaeb9ca249e02bb44359a1f2f47d96782751f2105c0d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

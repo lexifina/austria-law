@@ -1,0 +1,3508 @@
+{
+  "sample_only": false,
+  "included_provisions": 96,
+  "source_provision_count": 96,
+  "schema_version": 1,
+  "gesetzesnummer": "20009532",
+  "short_title": "Verwertungsgesellschaftengesetz 2016",
+  "abbreviation": "VerwGesG 2016",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40241432",
+    "valid_from": "2022-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009532&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:35:01.543517+00:00",
+    "response_sha256": "de2090f95040906a8c7486de55053c3cfd0a6758100d964d5e1b6440c3aaf15b",
+    "snapshot_sha256": "947dd8dcda8fb1e178f8dec829c9cb3a2f21169b4162ef80c67f20e2eb508646",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0d01a77fbc5ac185054fadfcedbef1c3ed31f3b2d3a4481c7dbf0db8cdd2a6a",
+      "sha256": "f5482610140dc0318aded711127b973d77c6914284a2efd4bd96be3a58852eb9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Verwertungsgesellschaften (Verwertungsgesellschaftengesetz 2016 – VerwGesG 2016) StF: BGBl. I Nr. 27/2016 (NR: GP XXV RV 1057 AB 1078 S. 126. BR: 9558 AB 9565 S. 853.) [CELEX-Nr. 32014L0026]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 244/2021 (NR: GP XXVII RV 1178 AB 1257 S. 137. BR: AB 10839 S. 936.) [CELEX-Nr.: 32019L0789, 32019L0790] BGBl. I Nr. 138/2023 (NR: GP XXVII IA 3523/A AB 2263 S. 233. BR: AB 11325 S. 959.) BGBl. I Nr. 97/2026 (NR: GP XXVIII IA 1008/A AB 641 S. 101. BR: AB 11883 S. 997.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 27/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/27"
+        },
+        {
+          "text": "RV 1057",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1057"
+        },
+        {
+          "text": "AB 1078",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1078"
+        },
+        {
+          "text": "S. 126.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/126"
+        },
+        {
+          "text": "9558",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9558"
+        },
+        {
+          "text": "AB 9565",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9565"
+        },
+        {
+          "text": "S. 853.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/853"
+        },
+        {
+          "text": "32014L0026",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0026:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 244/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/244"
+        },
+        {
+          "text": "RV 1178",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1178"
+        },
+        {
+          "text": "AB 1257",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1257"
+        },
+        {
+          "text": "S. 137.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/137"
+        },
+        {
+          "text": "AB 10839",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10839"
+        },
+        {
+          "text": "S. 936.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/936"
+        },
+        {
+          "text": "32019L0789",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L0789:DE:HTML"
+        },
+        {
+          "text": "32019L0790",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L0790:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 138/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/138"
+        },
+        {
+          "text": "IA 3523/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3523"
+        },
+        {
+          "text": "AB 2263",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2263"
+        },
+        {
+          "text": "S. 233.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/233"
+        },
+        {
+          "text": "AB 11325",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11325"
+        },
+        {
+          "text": "S. 959.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/959"
+        },
+        {
+          "text": "BGBl. I Nr. 97/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/97"
+        },
+        {
+          "text": "IA 1008/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/A/1008"
+        },
+        {
+          "text": "AB 641",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/641"
+        },
+        {
+          "text": "S. 101.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/101"
+        },
+        {
+          "text": "AB 11883",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11883"
+        },
+        {
+          "text": "S. 997.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Art / Paragraf",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand / Bezeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Allgemeines",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand dieses Bundesgesetzes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Definitionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Wahrnehmungsgenehmigung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erfordernis und Voraussetzungen der Wahrnehmungsgenehmigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unabhängige Verwertungseinrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hauptberufliche Geschäftsführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Organisationsvorschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Monopolgrundsatz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dauer und Kundmachung von Wahrnehmungsgenehmigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abgrenzung von Wahrnehmungsgenehmigungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übertragung der Wahrnehmungsgenehmigung und Zusammenschluss von Verwertungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Mitgliedschaft und Unternehmensverfassung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitgliedschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Organe einer Verwertungsgesellschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitgliederhauptversammlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Teilnahme- und Stimmrecht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Delegiertenversammlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezugsberechtigtenversammlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kurienversammlungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsrat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschäftsführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechnungslegung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vermeidung und Offenlegung von Interessenkonflikten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Rechte und Pflichten gegenüber Rechteinhabern und Bezugsberechtigten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmungspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmungsvertrag",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmungsvermutung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmung von Rechten an nicht verfügbaren Werken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25b.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erweiterte kollektive Rechtewahrnehmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewilligungen für nicht-kommerzielle Nutzungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beendigung des Wahrnehmungsvertrags",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationsverpflichtungen vor Abschluss eines Wahrnehmungsvertrags",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechtewahrnehmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einziehung und Verwaltung der Einnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nichtdiskriminierung von Bezugsberechtigten anderer Verwertungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abzüge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Soziale und kulturelle Einrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nicht verteilbare Beträge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Rechte und Pflichten gegenüber Nutzern",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erteilung von Nutzungsbewilligungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bedingungen und Tarife für Nutzungsbewilligungen und Vergütungsansprüche",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tarife für die Geräte- und Speichermedienvergütung (Anm.: Tarife für Geräte und Speichermedien)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beirat für die Geräte- und Speichermedienvergütung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Reaktion auf Anfragen, elektronische Kommunikation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Transparenz- und Berichtspflichten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechnungslegung gegenüber Bezugsberechtigten (Anm.: Rechnungslegung gegenüber Rechteinhabern)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechnungslegung gegenüber anderen Verwertungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunft über das Repertoire",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Transparenzbericht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfung und Offenlegung des Transparenzberichts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Gesamtverträge",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtverträge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtvertragsfähigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Normative Wirkung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Form und Inhalt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung und Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsdauer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verträge mit dem ORF und mit dem Bund (Anm.: Verträge mit dem ORF, dem Bund und den Ländern)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Abschnitt Sondervorschriften für Verwertungsgesellschaften, die Mehrgebietslizenzen für Online-Rechte an Musikwerken vergeben",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anforderungen an Verwertungsgesellschaften, die Nutzungsbewilligungen für Online-Dienste in mehreren Staaten erteilen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befassung der Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunft über das Repertoire",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 57.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sammlung und Sicherung des Datenbestandes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 58.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung, Nutzungsmeldung, Abrechnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 59.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verteilung und Rechnungslegung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 60.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verträge zwischen Verwertungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 61.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmungspflicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 62.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahme für Online-Rechte an Musikwerken für Hörfunk- und Fernsehprogramme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Abschnitt Beschwerdemanagement, Streitbeilegung und Aufsicht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Unterabschnitt Beschwerdemanagement",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 63.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschwerdemanagement",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Unterabschnitt Streitbeilegung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 64.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vermittlung durch die Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 65.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Streitbeilegung durch den Schlichtungsausschuss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Unterabschnitt Satzungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 66.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Satzungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 67.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anrufung des Schlichtungsausschusses",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 68.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten und Kundmachung von Satzungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Unterabschnitt Aufsicht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 69.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt der Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 70.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitteilungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 71.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsbehördliche Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 72.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Widerruf der Wahrnehmungsgenehmigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 73.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wirkungen des Widerrufs der Wahrnehmungsgenehmigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 74.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kontrolle der Bedingungen für Wahrnehmungsverträge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 75.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungen der Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 76.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit Aufsichtsbehörden in der Europäischen Union und im Europäischen Wirtschaftsraum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 77.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit der Kommission",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 78.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Unterabschnitt Behörden und Verfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 79.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Urheberrechtssenat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 80.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vergütungen und Gebühren für den Urheberrechtssenat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 81.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren vor dem Urheberrechtssenat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 82.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schlichtungsausschuss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 83.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsbehörde für Verwertungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 84.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Finanzierung der Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10. Abschnitt Schluss- und Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 85.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abgabenbefreiung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 86.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 87.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Weitergeltung von Rechtsakten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 88.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anpassung der Organisationsvorschriften und Wahrnehmungsverträge (Anm.: Anpassung der Organisationsvorschriften, Wahrnehmungsverträge und Verteilungsbestimmungen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 89.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationspflichten über die Rechtewahrnehmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 90.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen für Transparenz- und Berichtspflichten, Verteilung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 91.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zugang zur Mehrgebietslizenzierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 92.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit der Kommission",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 93.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3513686229a5e260dc2998ef1079807f29b6402911a813edb4f7c942768b3b18",
+      "sha256": "9fce069856ff2ecf69be4944cc41fa8d028da87ddf42d3235e215cdd729105e2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 244/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/244"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Definitionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "733dabd38a3a3508b6bf862ce6227de5b0fb1a28d72316ed9f815994ca84072b",
+      "sha256": "ece1f81292d3ca8410a6505c7b0690c4edc2d1357a015b672b14d53274fce840",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Wahrnehmungsgenehmigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea7d8ad67fa94c7a75c946c0329a4c6047e4814bf0df8081fe2314d483117972",
+      "sha256": "3b1a6abae065b4c095f336431d58e6d8267e49198b24e0737728ff1c0291c051",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Unabhängige Verwertungseinrichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "375b5c9fc6bca34271e845c115eea53e81f6854adb6bcc846eb2a306751b1bfe",
+      "sha256": "676db12b7dd9e29fd0679932c8c5384562184e7f7baf9747d48bd04636e503ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Hauptberufliche Geschäftsführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "98007cfe8a60be5254cc209cb25261e24088586904c2672df0ed9920d09c00df",
+      "sha256": "f43e393541a8d66acbbd1c9ec9db184b0835e44ece381633200e80747550d773",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Organisationsvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7a73ada660df7c4ecbd4af950fce85ec3b6902bfdc2317c8418d6fdc11e7041",
+      "sha256": "f5e9be9948afafc61786259428c89dd2b2a28f476fd66d557c9586cd5b93db09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Monopolgrundsatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8886c19aa092e2a09434a9b1ba87016a5f487ef7f6647897a3a58c8711c9b0af",
+      "sha256": "1fba99a4476c1590a40ff543c915b8c5a58f1b9b2306d9301e3fb0b1678972e7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b09847a18834c5bb913adefd01bbc791379e7439c81bebba1572f0d3b172a55c",
+      "sha256": "48864630fb1c3c2c6601e7edb3c9035e9738a19ffcc7fcebad8936847d64cfab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Dauer und Kundmachung von Wahrnehmungsgenehmigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09b33ec327259c152f7b1bc3f17e83b3c3df798ec86c3aa2bfcab0d2f8d4bfb7",
+      "sha256": "05d96a2fe074f6636aff9488246c15a73557e324d9a3171669b352a21cf66ba1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Abgrenzung von Wahrnehmungsgenehmigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5268c72488ce05df684b924ed79074734a944b0cc9be4a5a0a3a98f622ebdac",
+      "sha256": "d67ed42b9a584515860d5bee6ea1a3827c42b41ac82e2f8c76148231a47ea0a9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Übertragung der Wahrnehmungsgenehmigung und Zusammenschluss von Verwertungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d28b81342b2d37eb2cbf16600056dd2162f63ffa23fa2d20efa8157f06e0f36d",
+      "sha256": "c20f65d9e1d69c61057c60bf90548a755ab6059aabc8b143f7291f9ec6fd9bce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "3. Abschnitt Mitgliedschaft und Unternehmensverfassung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "beec4715777e3665375250943db237d581964b1600d91e9fc8ad2e373fc07437",
+      "sha256": "246c038a486b9bee8e03f3d40b3b704aae3e3758cd0cc48770a1368088aba3f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Organe einer Verwertungsgesellschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "06954e4095b5dfd2c76dbe1fa7e506d14482823f76cfa91215f9474a5f68d088",
+      "sha256": "2483d4f30cb1c2e91de5c9c887ed98c7b9ae8d17ca9a2e2ae59e01733a0564b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Mitgliederhauptversammlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad4cb8a06050310e7a8f205b4282b6f15ca3ab80ad5fc92e5ff66738c1478ad5",
+      "sha256": "d7badc4224ed7b7ba415b83fce12076ad86c19a43015fcf362fb76a7c9d455a8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Teilnahme- und Stimmrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "70067e77e65fc8b2c4f415c64b245caf7da417e5c7bc9e6b8d89cdb536e6e150",
+      "sha256": "b79133ee1bfea9cfa12005fb044779ea1b28a1bdf50ac3d805679620b6654895",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Delegiertenversammlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "70b5fb4d77e475ee0c76c9a824d01837e498d19aec6eec56a9ff0b1e3195b924",
+      "sha256": "2549510d4ef4ed0a6b468e75d72dbc55d694f42ecb620769ae5e2fdaf4c9178c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Bezugsberechtigtenversammlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6c66765c9bc86742bd91663d2fc48465bbaf0d681bd428462d074cc81611c54",
+      "sha256": "ebe9133d2e4ab31d56f5f982d874ce629fb956554c0555c37ce82f53abe2c9dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Kurienversammlungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb5437803cec47f62a6cdf0ebeb65d59b0a38377d6ea4d30ae8751861c4f49c6",
+      "sha256": "4b4401039c0fd3ba9f6c7b36344094961b094c24fbc88bc4cd7470745b09a6b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Aufsichtsrat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acafe1b0511585aff08f25abac44195fdfd3ab17e8b81339b07b54e66438198f",
+      "sha256": "1177ad6b99c04678503bc2162ffc0819c0f18057705e8aafa5a0afa467c35dcf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Geschäftsführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6eed7990c21975bec81b70c311a5507816a53c9bd332bd61d6794c01651d9931",
+      "sha256": "0bf13b2adaeb18417a319c4d80f1287d09f3c9b2b3f095ec31c3872fd396fc9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Rechnungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2f29d99d8c31b7ef5527e1a801b55d83f61c2a8e6e8fdb265e8fddc37b86ad96",
+      "sha256": "909c1930cdbb601783b54666cc29e38cf50bc17932629ee4bb147751eae32497",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Vermeidung und Offenlegung von Interessenkonflikten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cae583a8cd5c9b8501ad7ff484615a510c76ac23a2389a51ddc3ed306a819f48",
+      "sha256": "fbda2d8995e3d3bfdecb8c856515e0707d5d05baaf7028074b680ca01c78cefe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "4. Abschnitt Rechte und Pflichten gegenüber Rechteinhabern und Bezugsberechtigten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "742f285791afaa21100d9f6e886575adb9834187f54257d68f9905625e8fae8b",
+      "sha256": "ce9676a099b676583548373623deb710a0d4e391599a1bcd012c447902cc9305",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Wahrnehmungsvertrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "76a776dc8e82cc190dd3e932b4fb7dfe973d4d9cf1d416bdcf06fc6fdb1d3dcc",
+      "sha256": "8492a2a633d86c8fe6ffb46eb909a521a11f130d120f425f7af1ec95af3956c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Wahrnehmungsvermutung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81e41901f6cb7a4d8a542c47820079107d1281c3262ee8a864f6b5ada1b046bd",
+      "sha256": "f9eb87ffc1d8e9388497ae5d3dd1c0163945ce925e1998b4d409fbcaa3849226",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25a",
+      "source_heading": "Wahrnehmung von Rechten an nicht verfügbaren Werken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0025a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b07a22a18f6786c077eff8a0b0d9f0e834af68a4999e5eb695d7fc3cdcbd24e",
+      "sha256": "48904dc78b39cd6c67eac390b9d479461f160c3d19b992c6b93e267730e52f88",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25b",
+      "source_heading": "Erweiterte kollektive Rechtewahrnehmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0025b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2abab7464f69c2788cd6469b2e20c7c5300e6ef42b9ab0761199126be7e845c",
+      "sha256": "0fe84d7d4b02a13ddab2b433030ef424e0c7255bcf9413bbea85f85f4784fa94",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Bewilligungen für nicht-kommerzielle Nutzungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40e463a3ca7f78902158c5ec9348e83488e91eb86d030ff39fb88dfe2befefdd",
+      "sha256": "34e122b0c4ab4c8ee3be7d59073fce089a0b4b75c6632cc53e4eafbf006929fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Beendigung des Wahrnehmungsvertrags",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "163e9ea3c27846807db25cc0616aaa9dda62cfac7c5a83b4011b1ba5bb60c3f8",
+      "sha256": "1448ba98faf38e6ec5711783965ff7f4610c8de5063a34c18bc6b562ea5611be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Informationsverpflichtungen vor Abschluss eines Wahrnehmungsvertrags",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "080b8dd4e9b3b371661ddbfc1f7eab6a3e5d934f6ed82703f438fe3ab0a2817b",
+      "sha256": "ed09d6d58e014ffdd846467e06972dd7d96b97e356d70d751f237baf6a04f95b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Rechtewahrnehmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3189dc8ace0a0c7a00f9f64b026ce2c35ec27fcb04ffd597c0e9375383c2f83",
+      "sha256": "a56aafb41f625e63c1c55dbf6dad660d29f67885998b7c4ff2b591e0377ffccc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Einziehung und Verwaltung der Einnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d89337abaaf94119f7f52fc9458acf0b8e5fa62768755ee5b74cca01352f022",
+      "sha256": "1a8fad774a36219bc5be67eb0dae983ad3bccead33cbb856972343b7e4e4514b",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Nichtdiskriminierung von Bezugsberechtigten anderer Verwertungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2db9b332800efdd2f33b0b2b321d23821154cc6ee3803f20f9490ab040c7bc5",
+      "sha256": "e3504eda08a0cebf11b1d7c2a8380ee12bdc20b139ce9cd0d03bc029a082dcb8",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Abzüge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3098dd3de07703e68de0c1fe0b16263de907adddbc810d431f0c0add3c75822",
+      "sha256": "ec6fe3a7c35f6c43ba4a0d7650b5da3d57fa31dc2e515b0d3ba462de0477e31c",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Soziale und kulturelle Einrichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d49e22b75bb73b029916ab2e77717a971bbb5427ea69bd9b9d863dfb1ba72229",
+      "sha256": "d159f0ed07452cfd9fcd68ac89a18ba56796c75b1eb8d36546a1d80ee6c0959b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Verteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "676f17fafeab9d3dba6271abafaaba775fd5e2d7bd3fb997c9ee304bbe34f999",
+      "sha256": "1e59bbf77a75999f565b99bf329a544d48f81dbc4569bbc69e8fb73de694c473",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Nicht verteilbare Beträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d21f84a4606c081bade23910d791440710bfd3c4da50a13e755bc7beff264b37",
+      "sha256": "61dc87dcce27329608f44da056d5d4b723a85a7fc519bfead4572ae72310dc6b",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "5. Abschnitt Rechte und Pflichten gegenüber Nutzern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "578fce14745177b356075525d6e8b42cc7295f70259a6a754352923b4747a977",
+      "sha256": "5f59c6dd38671069d9aa9c7852eb603d3ef7b4b1a63a4c406734717ee99a02dc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Bedingungen und Tarife für Nutzungsbewilligungen und Vergütungsansprüche",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "262eaf17f0281dfae17868381ff85badd02805e77fed1415dc8ed759dd47b1d5",
+      "sha256": "4ddbe6c24c0bdca1051a352eb7f97aa0f9444f0e156b3b965e61f9f7b98de541",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Tarife für Geräte und Speichermedien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5934ad3ed7ce9d2f6ec4a817e81e7865253eb65fc32c06716a0c5a00dfb9fc05",
+      "sha256": "13a06d67cd7951ac83df0a095d0ece09a120d1f1a7117453218e3c88c035bf41",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Beirat für die Geräte- und Speichermedienvergütung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5a4a18a733217a4c56f5841168cc6e6c10509ce60a29b8113e78d1dcc8602d82",
+      "sha256": "6676567f86adb7aa8788b01b0a98ab91f8cdbd892242135354f704e7df489d17",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Reaktion auf Anfragen, elektronische Kommunikation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e59f8e20066b2a9ac09684c8e923bd1ace4e086be2dd38458a76a4a27b37ede6",
+      "sha256": "b9a6e85519492b7808bfdb83bb15b5ec4930fe6a0da4731d489d4d87883003dc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "6. Abschnitt Transparenz- und Berichtspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd7e6acff93e2a9c0b54f2e6473b138af9af0e78c013d04880f4c492d8bb8f35",
+      "sha256": "c624ccebed22ae32f0d726e2d34f3427f0208b02fc1d1c7ce584c6b16ba108c4",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Rechnungslegung gegenüber anderen Verwertungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d1e876014bc862febeb28c590cd7925da1fdb6094ed207abf0ccfbe8e32bc87",
+      "sha256": "6d4a022836a461165650dd78efe940f93deee82006a9b43979c07072b2942565",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Auskunft über das Repertoire",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af3324109c017dfff314b6d022d1224c92ff0e711f906a5d203af1e71afed582",
+      "sha256": "1913c05c083f73fe88209a1426090ad612496c6dde6f662517abe60ee41fcf20",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Veröffentlichungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31385d88c79a51c205deb9a6d7c2c93cd6ef74caa28e2ab9b4813c1d1ed49367",
+      "sha256": "16a80b1e044ff3e651aecbf7b2062d0867c32f59cdb71ba90f262d8ea154792f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Transparenzbericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf1ce932af3708236ea2592c1e2ed3a581313303021eef284319252fe39f20ef",
+      "sha256": "8d1774f95682c0f1d90b3074377d3e3a42ce06a5983f9ceee7a6b03a17856df1",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Prüfung und Offenlegung des Transparenzberichts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b51e8f9d0595d2cb05213375bdacc197074b8e515903c5724c9f6964adefb02a",
+      "sha256": "b4e0708c03a9f9e2e7e3ef93065816c7c568b5c475c5f74d2a7060504f7c6045",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 90"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "7. Abschnitt Gesamtverträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "007a1627753e29225d74ab005abc7fdfac7e6f6dddc323b1b6be7d9850070fe3",
+      "sha256": "726a315da1c421aad6457fb8c67515fa055559be4447c9cb463f29b2a78d3cfc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Gesamtvertragsfähigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8e1c9db91e421410625f2bee345dd82d71d478aa3bab50e4f313561f462d68a",
+      "sha256": "b84a5a2d2aff68e5e9c4525c5ed8feedf21ae23fa761de48afbc69f4fec55c37",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Normative Wirkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4c0374eca02c9959818f2dbc86231bfdf590a4f74c2af85d840f2c90ec60df6",
+      "sha256": "34d341962edd99e4161221cc0e5dd3e7d5e02d0bde4decf29caa2194c947754e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Form und Inhalt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65f9ce6b24d46ce5e6269185f244af039bed1ca31289e127d351f07fec3abe21",
+      "sha256": "5edd0082183753886d2cf8bc09fd31c3e1ba1706bf9984e423c9b3f4021ebad4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Veröffentlichung und Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df675b5cead080058d92ff32c60fd617f95b330d247906fe6702a2f9f5d413ee",
+      "sha256": "0b650aebe7932664e912dcd76c6cba6d49066e00afe9df1fb941930cd5eb0f0a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "Geltungsdauer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "893618a3cdb719dd491e9732ea4f9f976a898a7b98597dbe8fc87dccc608a660",
+      "sha256": "b254807a0af1093c0f1c132d977abb1c49744f2d529ec458223ad550923df14a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Verträge mit dem ORF, dem Bund und den Ländern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bba215eb3922048f9a1bafa1d72e9e89398b091e4ec477ba7b238a97bce60e0d",
+      "sha256": "fec47146b306d39aaa17ce4622ae99ad34bd2844d32567cd98b0b511b058a13a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "8. Abschnitt Sondervorschriften für Verwertungsgesellschaften, die Mehrgebietslizenzen für Online-Rechte an Musikwerken vergeben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45e7561d934c414be98675d0752e547c5cae8c736661b25ae26a9f52cd37ab3e",
+      "sha256": "aa206ed61ad5f3c553c6c26928e4de2e52040d6a046cbe376480bc2dc32ba7d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "Befassung der Aufsichtsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "22f91fb02c7690df54545bf3e87d16b55c987bc8255236795cddf3843324e9c8",
+      "sha256": "f9b32743416777a1553f906e2c1c6067d1124a2273f92d35e48999a633f09b78",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "Auskunft über das Repertoire",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1eebdb411201750aad3b7f92f8cfaae670ea9ae061798a740b7b40eab283d132",
+      "sha256": "6e812a9d35cd836482b18fc61162e2ed3162ac42c69618b59d86cf2582dd4d80",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "Sammlung und Sicherung des Datenbestandes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f4abd5b7b46bacfafb85a224ca159b48bc850d6da17eba15997c7bae0d666db",
+      "sha256": "eb70f28306b6a20311230c6866756382fec0988710cce03409d8f4e46f942c27",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "Überwachung, Nutzungsmeldung, Abrechnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e3fc363144959df103a60be5b002923a47c76febb06a4a363cd4869fc13038a",
+      "sha256": "4cdd526c4a4b6921f5b4a3083cf3acd2602e140f1dc97ca402bbfef1c041cd56",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "Verteilung und Rechnungslegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa33b4b784af05c080414602c29203601c7f5c89f5e36ac4419a66505dc34a84",
+      "sha256": "7f43fb2a8fd5950e9969407d06eeaafee1e1d083a7dd9dc8c71ba1606eed9a7e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 60",
+      "source_heading": "Verträge zwischen Verwertungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "par-0060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f817eff503df4499173840b2a914c18fa2c9334ec17417274f359740a7bcd419",
+      "sha256": "02002b929416a1e9cddfc87cb0efda1e68acff8211b4719aa964e3ec77f79e31",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 61",
+      "source_heading": "Wahrnehmungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "par-0061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "433a12900531f177082a6803b123fa37af3f5b563b13405291d04395e0282369",
+      "sha256": "6483a013d4308a6e5b5f20df6499612c0b3a2df05dfef956352d9cca53b1d608",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 62",
+      "source_heading": "Ausnahme für Online-Rechte an Musikwerken für Hörfunk- und Fernsehprogramme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 64,
+        "stable_identity": false
+      },
+      "file": "par-0062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa47944ea44f9f8112fd19d7b7f78614a44fb958f03af5647e15c5804cbb9c14",
+      "sha256": "4003fb7e6eb8b59f4bec8a46ac640688139efd3b4a57c099fd788b454e253da1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 63",
+      "source_heading": "9. Abschnitt Beschwerdemanagement, Streitbeilegung und Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 65,
+        "stable_identity": false
+      },
+      "file": "par-0063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "268af1659e980cf4747200ea6b117ad333585bfda272a1a4cf5542ee12853d0f",
+      "sha256": "76e4eb1e797ced46432de0c346fb4516c6a697c5df4dedfe18c97cfb2732bc02",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 64",
+      "source_heading": "2. Unterabschnitt Streitbeilegung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 66,
+        "stable_identity": false
+      },
+      "file": "par-0064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef0a3741615346317206137e2ba77c888588a7747c1a1d0dd07a8455b2a67f69",
+      "sha256": "19fc7f34d70be391474cc736007e098291186f74d01ac845f50873707460fc07",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 65",
+      "source_heading": "Streitbeilegung durch den Schlichtungsausschuss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 67,
+        "stable_identity": false
+      },
+      "file": "par-0065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9de4df5184455f833b5ad4fa535f453180ce132876aec11f9fa30960c7e72710",
+      "sha256": "9afbee31eaefd3ec85016af8f6d30c275e4f47785fee899142ac5e8392ac966c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 66",
+      "source_heading": "3. Unterabschnitt Satzungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 68,
+        "stable_identity": false
+      },
+      "file": "par-0066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0363850c0e4e8ff82dd50bf4b799be8ba486c27366e2cd5d295d85cebed5e92a",
+      "sha256": "d5b94338c12b60a5aa96263fb329feec633f188f6ab38bccb500b5966056e112",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 67",
+      "source_heading": "Anrufung des Schlichtungsausschusses",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 69,
+        "stable_identity": false
+      },
+      "file": "par-0067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "063524dcef48aaa701388d1cdd303f28bed2536c094a05129a6f216070261bfa",
+      "sha256": "7bfbc76b7f01358fa8bd79455835e0ae89b36dfa73e04ab610a294755dc6db30",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 68",
+      "source_heading": "Inkrafttreten und Kundmachung von Satzungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 70,
+        "stable_identity": false
+      },
+      "file": "par-0068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "914eb5d602d296da8c70ed572eea566bfe7a365a180c66a1696a2c42efef6db4",
+      "sha256": "a4293756bd9bf1234d645c6d7713046e9f157e23da121ea64e76693d95e04c61",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 69",
+      "source_heading": "4. Unterabschnitt Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 71,
+        "stable_identity": false
+      },
+      "file": "par-0069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "569233ac2ea338f37fe8e3bda10da5c035fbfa9f72edb54486aa30d0359426c7",
+      "sha256": "151d753c32478938ad7cff65a824362ae96a79c6d4662cb4dbabf80858c2ebbe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 70",
+      "source_heading": "Mitteilungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 72,
+        "stable_identity": false
+      },
+      "file": "par-0070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ea3de6a1243839e53a5d3b5654e71256f60f0ae4aba4ac4fd8188bd941a6a4c4",
+      "sha256": "ff15e14c1fa268040b17ebfc7375a2f4a61ae5b58f02e6cc2590f9fb2e7f06ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 71",
+      "source_heading": "Aufsichtsbehördliche Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 73,
+        "stable_identity": false
+      },
+      "file": "par-0071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b8607dd4e83227ee6381446ddaa4fafe922a34dc2de84bbb56a1d9e410392c4",
+      "sha256": "91f8cd51cf29d8978f1a4d42380ab5f968aa4be527a6323b9241bf1864809bee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72",
+      "source_heading": "Widerruf der Wahrnehmungsgenehmigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 74,
+        "stable_identity": false
+      },
+      "file": "par-0072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d590a48796f620f4d3de53201f27f4cec0cd67d2962b0f64d29bd6a02de25c5b",
+      "sha256": "6e7ef6b0d76b028d864013136d64ceca90d9c42d6109febabe1c7c3f33547711",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 73",
+      "source_heading": "Wirkungen des Widerrufs der Wahrnehmungsgenehmigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 75,
+        "stable_identity": false
+      },
+      "file": "par-0073.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f93ed4fa5547534988944bc40f350039f8a147c6a4385941a0af7db49ef8f64",
+      "sha256": "b39708202738541df5d813321908b55aa737af95750b24dbffaf01d1683d0cdd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 74",
+      "source_heading": "Kontrolle der Bedingungen für Wahrnehmungsverträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 76,
+        "stable_identity": false
+      },
+      "file": "par-0074.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d6d73ccdb0720525c8e57f61eaa09dab11bc41afd8640b005cab7dcaf04ad9f",
+      "sha256": "96a3fd136d3a4ced1f91d870c91cc2acfd51ef493b56b8e0f618d69e5c18dce6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 75",
+      "source_heading": "Veröffentlichungen der Aufsichtsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 77,
+        "stable_identity": false
+      },
+      "file": "par-0075.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f474d625812dd49bbbff9203f5badeba1a6cbdb9f53a9206b9a7129c756a26a",
+      "sha256": "25d847c0d96fd7379d332805ae6d0771c6e6d686d6a99e1a1535a97800acd17c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 76",
+      "source_heading": "Zusammenarbeit mit Aufsichtsbehörden in der Europäischen Union und im Europäischen Wirtschaftsraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 78,
+        "stable_identity": false
+      },
+      "file": "par-0076.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f822561e454db70dcfd65306b38ebec43e79d8289a6d229e17c1b02f77282557",
+      "sha256": "b692a52bfac662e24c21662d9cbe9a50a7200cd485e4cea834d6e23a6dcfb1c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 77",
+      "source_heading": "Zusammenarbeit mit der Kommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 79,
+        "stable_identity": false
+      },
+      "file": "par-0077.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "174aa4e8c636d0ef8fa0866cc90c7ef7e4921d63733bcb04cc219c4304078892",
+      "sha256": "241d126f471035121c5e19e03142d735cd6362785554dabccef35b09cf112dc5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 78",
+      "source_heading": "Strafen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 80,
+        "stable_identity": false
+      },
+      "file": "par-0078.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a2853a8b52be5ebb429b531e52c9867c11009b67754f284c06e4f07b307c958d",
+      "sha256": "ba053e9f5494a1d6130cd4316737459cd1e9f796c3767e3d78a0c071da38be5b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 79",
+      "source_heading": "5. Unterabschnitt Behörden und Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 81,
+        "stable_identity": false
+      },
+      "file": "par-0079.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "58add4202890c8ad6bf4a49e03ecf48d2186e31e65f41556d132d4a460a6c2de",
+      "sha256": "2862b88f872760705fab7186413a34ea154776d6d48b49eb3d046fe21a4aca2b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 80",
+      "source_heading": "Vergütungen und Gebühren für den Urheberrechtssenat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 82,
+        "stable_identity": false
+      },
+      "file": "par-0080.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77d33bc7fe8f1b5499a901a8429bd45b107e8f0bf27708ab03b9d07943d9be66",
+      "sha256": "f6802304d571a95c8b548798822e20c7911607f124368cd15cbc2d5444e720a1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 81",
+      "source_heading": "Verfahren vor dem Urheberrechtssenat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 83,
+        "stable_identity": false
+      },
+      "file": "par-0081.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37c5cb0140dc3ce1c231646a4cf5754a7b0db54030e1afa66589ccd9113a15d2",
+      "sha256": "d37d02ac517353354a137702c95e49432533477d7f28e6d7171e478a6ef52159",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 82",
+      "source_heading": "Schlichtungsausschuss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 84,
+        "stable_identity": false
+      },
+      "file": "par-0082.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0cdc691573f97ac1fb4a04167cafa3dbf234ad1f8da397750823668b98441e41",
+      "sha256": "4cf977cf95319c1085241b63b92e894a15f1e8a1d949353206aa716ae5b9b290",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 83",
+      "source_heading": "Aufsichtsbehörde für Verwertungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 85,
+        "stable_identity": false
+      },
+      "file": "par-0083.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b047ce18dfa4868a19fbcacbf6478ea71bdf22c68522c70fd575e733998b0573",
+      "sha256": "55f399df83ee505ebc039a7f1cbecf220df5c116e7a2ec77bb833d2006610506",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 84",
+      "source_heading": "Finanzierung der Aufsichtsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 86,
+        "stable_identity": false
+      },
+      "file": "par-0084.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfe9e7c727a3b76644fca8add06867c4796ebf1bf62522d03d9e9afccddfda04",
+      "sha256": "0b5fb8086ad371dea4f02f20a64343c849f5f6972bd7897bb0907559d04afb64",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 85",
+      "source_heading": "10. Abschnitt Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 87,
+        "stable_identity": false
+      },
+      "file": "par-0085.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73d95d084f70feba0e8a55e4799d39ac7f02cc0d470f994248d5948d10ab4dc0",
+      "sha256": "2c5862bb148ce78783b862d794a6b18e946c243e20755f818a0838a902cb3525",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 699/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_699_0/1991_699_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 86",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 88,
+        "stable_identity": false
+      },
+      "file": "par-0086.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b3ba30f6a28139d5d322582a928e1ad89da65fff393d0742200c2dae0db9ea73",
+      "sha256": "b258e0da06a32b7907929f98fa58dfb9ad02df28fe55986cc46fb12acf2ecc82",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 9/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/9"
+        },
+        {
+          "text": "BGBl. I Nr. 244/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/244"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 87",
+      "source_heading": "Weitergeltung von Rechtsakten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 89,
+        "stable_identity": false
+      },
+      "file": "par-0087.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c76fc33e6e3f821250048e03ccebd323ca0c50c053da02eaa8a6f3311ea18481",
+      "sha256": "b301905af5029321e9fea514c432f60390b6f9fbc089ddebaee18ce1b9fc79a5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 236/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/236"
+        },
+        {
+          "text": "BGBl. II Nr. 247/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/247"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 88",
+      "source_heading": "Anpassung der Organisationsvorschriften, Wahrnehmungsverträge und Verteilungsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 90,
+        "stable_identity": false
+      },
+      "file": "par-0088.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5723c2aa3aae827646bb4ad07887385e718a9c10b37c170a8a66feb3d5fc244e",
+      "sha256": "a1f7d422fbea647490992d2f708c355b314a216b31a57bc0b7aced509ddf6134",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 89",
+      "source_heading": "Informationspflichten über die Rechtewahrnehmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 91,
+        "stable_identity": false
+      },
+      "file": "par-0089.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "64a93bdf0710361b1eba7677e83d0c067883a0dcbd1fa30940b11f25c913e97b",
+      "sha256": "40e0508ad6913ef8f57b081e1c6ae8a6871c0621dab44c9f97a90a0fcd1c12a8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 90",
+      "source_heading": "Übergangsbestimmungen für Transparenz- und Berichtspflichten, Verteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 92,
+        "stable_identity": false
+      },
+      "file": "par-0090.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81de4af5723e7bf13bcbcb3827efa720d8112eb6aed6476501505f5a9a7ad01c",
+      "sha256": "95dc972a3c32379504c638dbdb6977ef8b487930969636bc250a2eed8c957c6d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl I Nr. 138/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/138"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 91",
+      "source_heading": "Zugang zur Mehrgebietslizenzierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 93,
+        "stable_identity": false
+      },
+      "file": "par-0091.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eedf59ef6fc20dca01afa3621c2f244c3d396563c181070fbcc11a48350ca9ab",
+      "sha256": "b55bca5d069015692e0bb287a246d5ed5dcfbe9d81fc9fc9aa85569a5b5ea7b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 92",
+      "source_heading": "Zusammenarbeit mit der Kommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 94,
+        "stable_identity": false
+      },
+      "file": "par-0092.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4438aa65f3b5462f1ae9b98c4031820ed568955df80d75bfa1c5e70983379fda",
+      "sha256": "1a247336feefbf07da93b03027462eedb599526ddd8cdfff66115ee8aa99d975",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 93",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 95,
+        "stable_identity": false
+      },
+      "file": "par-0093.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "850b87947726ac08c91ac32459754ce9aab0360d5dda305f693cef870a828d4a",
+      "sha256": "e0ce32d37e221eed260aca33d16366bbdffda206662b1ca656f29877331bbccc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

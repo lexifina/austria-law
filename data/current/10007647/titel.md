@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung im Lehrberuf Hörgeräteakustiker (Hörgeräteakustiker-Ausbildungsverordnung) StF: [BGBl. Nr. 609/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_609_0/1995_609_0.pdf>)
+
+Auf Grund der §§ 7, 8 und 24 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch das Kompetenzbereinigungsgesetz 1992, [BGBl. Nr. 256/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_256_0/1993_256_0.pdf>), wird - hinsichtlich der Verhältniszahlen im Einvernehmen mit dem Bundesminister für Arbeit und Soziales - verordnet:

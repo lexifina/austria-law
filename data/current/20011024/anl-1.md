@@ -1,0 +1,18373 @@
+## Anlage 1 (Lehrberufsliste zu § 1)
+
+<table>
+  <tr>
+    <td rowspan="2"><p>Lehrberuf</p></td>
+    <td rowspan="2"><p>Lehrzeit in Jahren</p></td>
+    <td rowspan="2"><p>Verwandter Lehrberuf</p></td>
+    <td colspan="2"><p>Anrechnung der Lehrzeit auf den verwandten Lehrberuf</p></td>
+  </tr>
+  <tr>
+    <td><p>Lehrjahr</p></td>
+    <td><p>Ausmaß</p></td>
+  </tr>
+  <tr>
+    <td><p>Abwassertechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gerberei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schädlingsbekämpfer/Schädlingsbekämpferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Applikationsentwicklung – Coding</p></td>
+    <td><p>4</p></td>
+    <td><p>Informationstechnologie</p>
+<p>– Schwerpunkt Systemtechnik</p>
+<p>– Schwerpunkt Betriebstechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/ Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>3</p></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>Voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>Voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Augenoptik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Feinoptik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hörgeräteakustiker/Hörgeräteakustikerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bäckerei</p></td>
+    <td><p>3</p></td>
+    <td><p>Backtechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>halb</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>halb</p></td>
+  </tr>
+  <tr>
+    <td><p>Backtechnologie</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Bäckerei</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>halb</p></td>
+  </tr>
+  <tr>
+    <td><p>Bahnreise- und Mobilitätsservice (Ausbildungsversuch)</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/ Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/ Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/ Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/ Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/ Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/ Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/ Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bankkaufmann/ Bankkauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Bautechnischer Zeichner/ Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bautechnischer Zeichner/ Bautechnische Zeichnerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Elektroinstallationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/ Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Vermessungs- und Geoinformationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bauwerkabdichtungs-technik</p></td>
+    <td><p>3</p></td>
+    <td><p>Dachdecker/Dachdeckerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Wärme-, Kälte-, Schall- und Brandschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bekleidungsfertiger/ Bekleidungsfertigerin</p></td>
+    <td><p>2</p></td>
+    <td><p>Bekleidungsgestaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bekleidungsgestaltung</p></td>
+    <td><p>3 bzw. 3,5</p></td>
+    <td><p>Bekleidungsfertiger/Bekleidungsfertigerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Berufsfotografie</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medienfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reprografie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Berufskraftfahrer/ Berufskraftfahrerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>1.Hälf-te voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Beschriftungsdesign und Werbetechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Lackiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Vergolden und Staffieren</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Betonbau</p></td>
+    <td><p>3</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pflasterer/Pflasterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Betonbauspezialist / Betonbauspezialistin – Schwerpunkt Konstruktiver Betonbau (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Betonbauspezialist / Betonbauspezialistin – Schwerpunkt Stahlbetonhochbau (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist / Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist / Hochbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prüftechnik – Baustoffe</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist / Tiefbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Betriebsdienstleister/ Betriebsdienstleisterin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brief- und Paketlogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bildhauerei</p></td>
+    <td><p>3</p></td>
+    <td><p>Präparation</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steinmetz/Steinmetzin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steinmetztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Binnenschifffahrt</p></td>
+    <td><p>3</p></td>
+    <td><p>–</p></td>
+    <td><p>–</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Blechblasinstrumenten-erzeugung</p></td>
+    <td><p>3</p></td>
+    <td><p>–</p></td>
+    <td><p>–</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Bodenleger/ Bodenlegerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tapezierer und Dekorateur/ Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Faserverbundtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkte Planung und Produktion</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Brau- und Getränketechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Destillateur/Destillateurin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Milchtechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Brief- und Paketlogistik (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>3</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p>
+<p>– Siedlungswasserbau</p>
+<p>– Baumaschinenbetrieb</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/ Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/ Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/ Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Buchbindetechnik und Postpresstechnologie</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Drucktechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>erste Hälfte voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kartonagewarenerzeuger/ Kartonagewarenerzeugerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>erste Hälfte voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p>
+<p>2,</p></td>
+    <td><p>voll</p>
+<p>erste Hälfte voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Büchsenmacher/ Büchsenmacherin</p></td>
+    <td><p>3</p></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffenmechaniker/Waffenmechanikerin</p></td>
+    <td><p>1. 2. 3.</p></td>
+    <td><p>voll voll voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>erste Hälfte</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zahnärztliche Fachassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Abwassertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gerberei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Papiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmatechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schädlingsbekämpfer/ Schädlingsbekämpferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textilchemie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Chirurgieinstrumentenerzeuger /Chirurgieinstrumentenerzeugerin</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Chocolatier/Chocolatière</p></td>
+    <td><p>3</p></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>halb</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Dachdecker/ Dachdeckerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bauwerksabdichtungstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Destillateur/ Destillateurin</p></td>
+    <td><p>3</p></td>
+    <td><p>Brau- und Getränketechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/ Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmatechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Drucktechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Buchbindetechnik und Postpresstechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Druckvorstufentechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Medienfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reprografie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fitnessbetreuung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fleischverkauf</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medienfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/-frau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch- kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>erste Hälfte</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fitnessbetreuung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fleischverkauf</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportgerätefachkraft</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Elektronik</p></td>
+    <td><p>3,5 bzw. 4</p></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Elektroinstallationstechnik</p>
+<p>– Maschinenbautechnik</p>
+<p>– Werkzeugbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Veranstaltungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>Voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>3,5 bzw. 4</p></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Elektroinstallationstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Seilbahntechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Veranstaltungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>3</p></td>
+    <td><p>Chemieverfahrenstechnik,</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin –Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin –Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin –Stahlbaubautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin –Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Eventkaufmann/ Eventkauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fitnessbetreuung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Veranstaltungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fachkraft für vegetarische Kulinarik (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Gastronomiefachmann/ Gastronomiefachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/ Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/ Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/ Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fahrradmechatronik (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportgerätefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Faserverbundtechnik (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fassbinder/Fassbinderin</p></td>
+    <td><p>3</p></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkte Planung und Produktion</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Wagner/Wagnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Feinoptik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Augenoptik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fernwärmetechnik (Ausbildungsversuch)</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Schwerpunkt Installations- und Gebäudetechnik/ Konstrukteurin – Schwerpunkt Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Schwerpunkt Maschinenbautechnik/ Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Schwerpunkt Metallbautechnik/ Konstrukteurin – Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Schwerpunkt Stahlbautechnik/ Konstrukteurin – Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/ Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>3</p></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p>
+<p>– Neubau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Stuckateur und Trockenausbauer/Stuckateurin und Trockenausbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Planung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Produktion</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fertigungsmesstechnik (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/ Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fitnessbetreuung</p></td>
+    <td><p>3</p></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fleischverarbeitung</p></td>
+    <td><p>3</p></td>
+    <td><p>Fleischverkauf</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fleischverkauf</p></td>
+    <td><p>3</p></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fleischverarbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Florist/Floristin</p></td>
+    <td><p>3</p></td>
+    <td><p>Friedhofs- und Ziergärtner/Friedhofs- und Ziergärtnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>½</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Garten- und Grünflächengestaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>Forsttechnik</p></td>
+    <td rowspan="2"><p>3</p></td>
+    <td><p>Garten- und Grünflächengestaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Berufsfotografie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Friedhofs- und Ziergärtner/Friedhofs- und Ziergärtnerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Florist/Floristin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>½</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Garten- und Grünflächengestaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Klimagärtnerin/ Klimagärtner</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Friseur (Stylist)/Friseurin (Stylistin)</p></td>
+    <td><p>3</p></td>
+    <td><p>Kosmetik (Kosmetologie)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kosmetik (Kosmetologie) / Fußpflege (Podologie)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maskenbildner/Maskenbildnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fußpflege (Podologie)</p></td>
+    <td><p>3</p></td>
+    <td><p>Kosmetik (Kosmetologie)</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Masseur / Masseurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kosmetik (Kosmetologie) / Fußpflege (Podologie)</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Garten- und Grünflächengestaltung</p></td>
+    <td><p>3</p></td>
+    <td><p>Florist/Floristin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>1/3</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Forsttechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Friedhofs- und Ziergärtner/Friedhofs- und Ziergärtnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Klimagärtnerin/ Klimagärtner</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gastronomiefachmann/ Gastronomiefachfrau</p></td>
+    <td><p>4</p></td>
+    <td><p>Fachkraft für vegetarische Kulinarik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fleischverarbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gerberei</p></td>
+    <td><p>3</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Abwassertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Präparation</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gießereitechnik</p>
+<p>– Eisen- und Stahlguss</p>
+<p>– Nichteisenmetallguss</p></td>
+    <td><p>4</p></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Maschinenbautechnik</p>
+<p>– Metallbautechnik</p>
+<p>– Stahlbautechnik</p>
+<p>– Werkzeugbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Glasbautechnik</p></td>
+    <td><p>3 bzw. 4</p></td>
+    <td><p>Glasformung und Glasveredelung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Glasformung und Glasveredelung</p></td>
+    <td><p>3</p></td>
+    <td><p>Glasbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Glasbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glasformung und Glasveredelung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gold- und Silberschmied und Juwelier/Gold- und Silberschmiedin und Juwelierin</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Metalldesign</p>
+<p>– Schwerpunkt Gürtlerei</p>
+<p>– Schwerpunkt Gravur</p>
+<p>– Schwerpunkt Metalldrückerei</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gold-, Silber- und Perlensticker/Gold-, Silber- und Perlenstickerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Textilgestaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>erste Hälfte</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hafner/Hafnerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Keramiker/Keramikerin</p>
+<p>– Schwerpunkt Gebrauchskeramik</p>
+<p>– Schwerpunkt Baukeramik</p>
+<p>– Schwerpunkt Industriekeramik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Ofenbau- und Verlegetechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Platten- und Fliesenleger/</p>
+<p>Platten- und Fliesenlegerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Handschuhmacher/ Handschuhmacherin</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Harmonikamacher/ Harmonikamacherin</p></td>
+    <td><p>3</p></td>
+    <td><p>Orgelbau</p></td>
+    <td><p>1. 2. 3.</p></td>
+    <td><p>voll voll voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hochbau (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bodenleger/Bodenlegerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pflasterer/Pflasterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Stuckateur und Trockenausbauer/ Stuckateurin und Trockenausbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hochbauspezialist / Hochbauspezialistin – Schwerpunkt Neubau (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Stuckateur und Trockenausbauer/ Stuckateurin und Trockenausbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hochbauspezialist / Hochbauspezialistin – Schwerpunkt Sanierung (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Stuckateur und Trockenausbauer/ Stuckateurin und Trockenausbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hörgeräteakustiker/ Hörgeräteakustikerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Augenoptik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Holzblasinstrumentenerzeugung</p></td>
+    <td><p>3</p></td>
+    <td><p>–</p></td>
+    <td><p>–</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Holztechnik</p></td>
+    <td><p>3 bzw. 3,5 bzw. 4</p></td>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Forsttechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkte Planung und Produktion</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hotelkaufmann/ Hotelkauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hotel- und Gastgewerbeassistent/ Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hotel- und Restaurantfachmann/ Hotel- und Restaurantfachfrau</p></td>
+    <td><p>4</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fachkraft für vegetarische Kulinarik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Hufschmied/ Hufschmiedin</p></td>
+    <td><p>3</p></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Maschinenbautechnik</p>
+<p>– Metallbautechnik</p>
+<p>– Stahlbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Immobilienkaufmann/ Immobilienkauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Industriekaufmann/ Industriekauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Informationstechnologie</p>
+<p>– Schwerpunkt Systemtechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Applikationsentwicklung – Coding</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>– Schwerpunkt Betriebstechnik</p></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>3 bzw. 4</p></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin (Maschinenbautechnik, Metallbautechnik, Stahlbautechnik)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Schwerpunkt Installations- und Gebäudetechnik/Konstrukteurin – Schwerpunkt Installations- und Gebäudetechnik</p></td>
+    <td><p>1. 2.</p></td>
+    <td><p>voll voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Elektroinstallationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Papiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kanzleiassistent/ Kanzleiassistentin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Karosseriebautechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Fertigungsmesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lackiertechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Wagner/Wagnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kartonagewarenerzeuger</p></td>
+    <td><p>3</p></td>
+    <td><p>Buchbindetechnik und Postpresstechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Keramiker/Keramikerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Hafner/Hafnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Ofenbau- und Verlegetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Platten- und Fliesenleger/Platten- und Fliesenlegerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kerammaler/ Kerammalerin</p></td>
+    <td><p>2</p></td>
+    <td><p>Glasformung und Glasveredelung – Schwerpunkt Glasmalerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Klavierbau</p></td>
+    <td><p>3,5</p></td>
+    <td><p>–</p></td>
+    <td><p>–</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Klimagärtnerin/ Klimagärtner (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Friedhofs- und Ziergärtner/ Friedhofs- und Ziergärtnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Garten- und Grünflächengestaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>3</p></td>
+    <td><p>Fachkraft für vegetarische Kulinarik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fleischverarbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>3</p></td>
+    <td><p>Bäckerei</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>½</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Backtechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>½</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Chocolatier/Chocolatière</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>½</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fachkraft für vegetarische Kulinarik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebzelter und Wachszieher /Lebzelterin und Wachszieherin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>½</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur/ Konstrukteurin</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur – Schwerpunkt Elektroinstallationstechnik/ Konstrukteurin – Schwerpunkt Elektroinstallationstechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/ Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur – Schwerpunkt Installations- und Gebäudetechnik/ Konstrukteurin – Schwerpunkt Installations- und Gebäudetechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/ Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik,</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur – Schwerpunkt Maschinenbautechnik/ Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Büchsenmacher/Büchsenmacherin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Chirurgieinstrumentenerzeuger /Chirurgieinstrumentenerzeugerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hufschmied/Hufschmiedin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Orthopädietechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Papiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Uhrmacher – Zeitmesstechniker/Uhrmacherin – Zeitmesstechnikerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waagenhersteller/Waagenherstellerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffenmechaniker/Waffenmechanikerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur – Schwerpunkt Metallbautechnik/ Konstrukteurin – Schwerpunkt Metallbautechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hufschmied/Hufschmiedin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalldesign</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reifen- und Vulkanisationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/ Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waagenhersteller/ Waagenherstellerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur – Schwerpunkt Stahlbautechnik/ Konstrukteurin – Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/ Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hufschmied/ Hufschmiedin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalldesign</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reifen- und Vulkanisationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/</p>
+<p>Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waagenhersteller/ Waagenherstellerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur – Schwerpunkt Werkzeugbautechnik/ Konstrukteurin – Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnischer Zeichner/ Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Büchsenmacher/Büchsenmacherin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Chirurgieinstrumentenerzeuger /Chirurgieinstrumentenerzeugerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Orthopädietechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Papiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/ Technische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p>
+<p>4.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Uhrmacher – Zeitmesstechniker/ Uhrmacherin – Zeitmesstechnikerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waagenhersteller/Waagenherstellerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kosmetik (Kosmetologie)</p></td>
+    <td><p>3</p></td>
+    <td><p>Fußpflege (Podologie)</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Friseur (Stylist) / Friseurin (Stylistin)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Masseur / Masseurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kosmetik (Kosmetologie) / Fußpflege (Podologie)</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kosmetik (Kosmetologie) / Fußpflege (Podologie)</p></td>
+    <td><p>4</p></td>
+    <td><p>Fußpflege (Podologie)</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Friseur (Stylist) / Friseurin (Stylistin)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kosmetik (Kosmetologie)</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Masseur / Masseurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>3,5 bzw. 4</p></td>
+    <td><p>Berufskraftfahrer/ Berufskraftfahrerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fahrradmechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Karosseriebautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Maschinenbautechnik</p>
+<p>– Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kupferschmied</p></td>
+    <td><p>3</p></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>4</p></td>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Faserverbundtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Faserverbundtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Labortechnik</p></td>
+    <td><p>3,5 bzw. 4</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Entsorgungs- und Recyclingfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Abwassertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Papiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmatechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prüftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schädlingsbekämpfer/Schädlingsbekämpferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textilchemie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Lackiertechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Beschriftungsdesign und Werbetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Karosseriebautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Berufskraftfahrer/Berufskraftfahrerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fahrradmechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Karosseriebautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p>
+<p>– Baumaschinenbetrieb</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Wagner/Wagnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Brau- und Getränketechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Chocolatier/Chocolatière</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Destillateur/Destillateurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigungsmesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Milchtechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verfahrenstechnik für die Getreidewirtschaft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Lebzelter und Wachszieher/Lebzelterin und Wachszieherin</p></td>
+    <td><p>2</p></td>
+    <td><p>Konditorei (Zuckerbäckerei)</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>½</p></td>
+  </tr>
+  <tr>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Beschriftungsdesign und Werbetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bodenleger/ Bodenlegerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lackiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Stuckateur und Trockenausbauer/Stuckateurin und Trockenausbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tapezierer und Dekorateur/Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Vergolden und Staffieren</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Maskenbildner/ Maskenbildnerin (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Friseur (Stylist)/Friseurin (Stylistin)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Masseur / Masseurin</p></td>
+    <td><p>3</p></td>
+    <td><p>Fußpflege (Podologie)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kosmetik (Kosmetologie)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kosmetik (Kosmetologie) / Fußpflege (Podologie)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Mechatronik</p></td>
+    <td><p>3,5 bzw. 4</p></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fahrradmechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Informationstechnologie</p>
+<p>– Schwerpunkt Systemtechnik</p>
+<p>– Schwerpunkt Betriebstechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Schwerpunkt Elektroinstallations-technik</p>
+<p>– Schwerpunkt Maschinenbautechnik</p>
+<p>– Schwerpunkt Metallbautechnik</p>
+<p>– Schwerpunkt Stahlbautechnik</p>
+<p>– Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Seilbahntechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Medienfachkraft</p></td>
+    <td><p>3</p></td>
+    <td><p>Berufsfotografie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Druckvorstufentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reprografie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Medizinproduktekauf-mann/Medizinprodukte-kauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungs¬kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fitnessbetreuung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>3</p></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fahrradmechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hufschmied/ Hufschmiedin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reifen- und Vulkanisationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Seilbahntechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metalldesign</p></td>
+    <td><p>3</p></td>
+    <td><p>Gold- und Silberschmied und Juwelier/Gold- und Silberschmiedin und Juwelierin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metallgießer/ Metallgießerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Gießereitechnik</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Eisen- und Stahlguss</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Nichteisenmetallguss</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metalltechnik</p></td>
+    <td><p>3,5 bzw. 4</p></td>
+    <td><p>Büchsenmacher/Büchsenmacherin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Chirurgieinstrumentenerzeuger/ Chirurgieinstrumentenerzeugerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fahrradmechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigungsmesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Installations- und Gebäudetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Maschinenbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Metallbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Stahlbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>– Werkzeugbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kraftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Oberflächentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Orthopädietechnik</p>
+<p>– Orthesentechnik</p>
+<p>– Prothesentechnik</p>
+<p>– Rehabilitationstechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Papiertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reifen- und Vulkanisationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Seilbahntechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Uhrmacher/ – Zeitmesstechniker/ Uhrmacherin – Zeitmesstechnikerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Veranstaltungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waagenhersteller/Waagenherstellerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Schwerpunkt Maschinenbautechnik</p>
+<p>– Schwerpunkt Metallbautechnik</p>
+<p>– Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallgießer/Metallgießerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Miedererzeuger/ Miedererzeugerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Orthopädietechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Milchtechnologie</p></td>
+    <td><p>3</p></td>
+    <td><p>Brau- und Getränketechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkaufrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Oberflächentechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Oberteilherrichter/ Oberteilherrichterin</p></td>
+    <td><p>2</p></td>
+    <td><p>Orthopädieschuhmacher/ Orthopädieschuhmacherin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schuhmacher/Schuhmacherin</p></td>
+    <td><p>1. 2.</p></td>
+    <td><p>voll voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schuhfertigung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Ofenbau- und Verlegetechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Hafner/Hafnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Keramiker/Keramikerin</p>
+<p>– Schwerpunkt Gebrauchskeramik</p>
+<p>– Schwerpunkt Baukeramik</p>
+<p>– Schwerpunkt Industriekeramik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Platten- und Fliesenleger/</p>
+<p>Platten- und Fliesenlegerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Orgelbau</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Harmonikamacher/Harmonikamacherin</p></td>
+    <td><p>1. 2. 3.</p></td>
+    <td><p>voll voll voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Orthopädieschuh-macher/ Orthopädieschuhmacherin</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Oberteilherrichter/Oberteilherrichterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schuhfertigung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schuhmacher/Schuhmacherin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Orthopädietechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Miedererzeuger/Miedererzeugerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Papiertechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kälteanlagentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Maschinenbautechnik</p>
+<p>– Werkzeugbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/ Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Pflasterer/Pflasterin</p></td>
+    <td><p>3</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p>
+<p>– Verkehrswegebau</p>
+<p>– Siedlungswasserbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>Pflegeassistenz (Ausbildungsversuch)</p></td>
+    <td rowspan="3"><p>3</p></td>
+    <td><p>Pflegefachassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p>3.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>Pflegefachassistenz (Ausbildungsversuch)</p></td>
+    <td rowspan="3"><p>4</p></td>
+    <td><p>Pflegeassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p>3.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Pharmatechnologie</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungs¬kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmatechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Platten- und Fliesenleger/in</p></td>
+    <td><p>3</p></td>
+    <td><p>Hafner/Hafnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Keramiker/in</p>
+<p>– Schwerpunkt Gebrauchskeramik</p>
+<p>– Schwerpunkt Baukeramik</p>
+<p>– Schwerpunkt Industriekeramik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Ofenbau- und Verlegetechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Polsterer/Polsterin</p></td>
+    <td><p>3</p></td>
+    <td><p>Tapezierer und Dekorateur/Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Präparation</p></td>
+    <td><p>3</p></td>
+    <td><p>Bildhauerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gerberei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schädingsbekämpfer/ Schädlingsbekämpferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Prozesstechnik</p></td>
+    <td></td>
+    <td><p>Abwassertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p>3,5</p></td>
+    <td><p>Brau- und Getränketechnik</p></td>
+    <td><p>1</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Faserverbundtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigungsmesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/ Konstrukteurin</p>
+<p>– Schwerpunkt Maschinenbautechnik</p>
+<p>– Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Luftfahrzeugtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallurgie und Umformtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmatechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Seilbahntechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Prüftechnik – Schwerpunkt Baustoffe</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Prüftechnik – Schwerpunkt Physik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Rauchfangkehrer/ Rauchfangkehrerin</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Reifen- und Vulkanisationstechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Schwerpunkt Metallbautechnik</p>
+<p>– Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Reinigungstechnik</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Reisebüroassistent/ Reisebüroassistentin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Reprografie</p></td>
+    <td><p>3</p></td>
+    <td><p>Berufsfotografie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Druckvorstufentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medienfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Restaurantfachmann/ Restaurantfachfrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Fachkraft für vegetarische Kulinarik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/Gastronomiefachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Sattlerei</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>– Reitsportsattlerei</p></td>
+    <td></td>
+    <td><p>Tapezierer und Dekorateur/Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>– Taschnerei</p></td>
+    <td></td>
+    <td><p>Tapezierer und Dekorateur/Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>– Fahrzeugsattlerei</p></td>
+    <td></td>
+    <td><p>Tapezierer und Dekorateur/ Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Schädlingsbekämpfer</p></td>
+    <td><p>3</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Abwassertechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Präparation</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Schuhfertigung</p></td>
+    <td><p>3</p></td>
+    <td><p>Oberteilherrichter/Oberteilherrichterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Orthopädieschuhmacher</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schuhmacher/Schuhmacherin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>1. Hälfte voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Schuhmacher/ Schumacherin</p></td>
+    <td><p>3</p></td>
+    <td><p>Oberteilherrichter/ Oberteilherrichterin</p></td>
+    <td><p>1. 2.</p></td>
+    <td><p>voll voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Orthopädieschuhmacher</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Schuhfertigung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Seilbahntechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Skibautechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Faserverbundtechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Wagner/Wagnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Schwerpunkt Metallbautechnik</p>
+<p>– Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tapezierer und Dekorateur/Tapeziererin und Dekorateurin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Speditionskaufmann/ Speditionskauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Berufskraftfahrer/Berufskraftfahrerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>1. Hälfte voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brief- und Paketlogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Spengler/Spenglerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Dachdecker/Dachdeckerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bauwerksabdichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fernwärmetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Installations- und Gebäude-technik (Modullehrberuf)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Karosseriebautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Schwerpunkt Installations- und Gebäudetechnik</p>
+<p>– Schwerpunkt Metallbautechnik</p>
+<p>– Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kupferschmied/Kupferschmiedin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalldesign</p>
+<p>– Schwerpunkt Gravur</p>
+<p>– Schwerpunkt Gürtlerei</p>
+<p>– Schwerpunkt Metalldrückerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik (Modullehrberuf)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Sportadministrator/ Sportadministratorin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fitnessbetreuung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Sportgerätefachkraft (Ausbildungsversuch)</p></td>
+    <td><p>3</p></td>
+    <td><p>Einzelhandel</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fahrradmechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Steinmetz/Steinmetzin</p></td>
+    <td><p>3</p></td>
+    <td><p>Bildhauerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steinmetztechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Steinmetztechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Bildhauerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steinmetz/Steinmetzin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft</p>
+<p>– Buch- und Musikalienhandel</p>
+<p>– Buch- und Pressegroßhandel</p>
+<p>– Verlag</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/ Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>3</p></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Garten- und Grünflächengestaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pflasterer/ Pflasterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Streich- und Saiteninstrumentenbau</p></td>
+    <td><p>3</p></td>
+    <td><p>–</p></td>
+    <td><p>–</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>Stuckateur/in und Trockenausbauer/in</p></td>
+    <td><p>3</p></td>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Wärme-, Kälte-, Schall- und Brandschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Systemgastronomiefachkraft</p></td>
+    <td><p>3</p></td>
+    <td><p>Fachkraft für vegetarische Kulinarik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gastronomiefachmann/ Gastronomiefachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Koch/Köchin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Restaurantfachmann/ Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tapezierer/in und Dekorateur/in</p></td>
+    <td><p>3</p></td>
+    <td><p>Bodenleger/Bodenlegerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Polsterer/Polsterin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sattlerei</p>
+<p>– Reitsportsattlerei</p>
+<p>– Taschnerei</p>
+<p>– Fahrzeugsattlerei</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sonnenschutztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Technischer Zeichner/ Technische Zeichnerin</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Bautechnischer Zeichner/</p>
+<p>Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/ Konstrukteurin - alle Schwerpunkte</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Vermessungs- und Geoinformationstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Textilchemie</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Chemieverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Labortechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textilreiniger</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Textilgestaltung</p></td>
+    <td><p>3</p></td>
+    <td><p>Gold-, Silber- und Perlensticker/Gold-, Silber- und Perlenstickerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Textilreiniger</p></td>
+    <td><p>3</p></td>
+    <td><p>Textilchemie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Textiltechnologie</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Maschinenbautechnik</p>
+<p>– Metallbautechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mechatronik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metallbearbeitung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textilchemie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Textilgestaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tiefbau</p></td>
+    <td><p>3</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pflasterer/Pflasterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tiefbauspezialist / Tiefbauspezialistin – Schwerpunkt Baumaschinenbetrieb (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pflasterer/Pflasterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tiefbauspezialist / Tiefbauspezialistin – Schwerpunkt Siedlungswasserbau (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pflasterer/Pflasterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tiefbauspezialist/ Tiefbauspezialistin – Schwerpunkt Tunnelbautechnik (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tiefbauspezialist / Tiefbauspezialistin – Schwerpunkt Verkehrswegebau (Ausbildungsversuch)</p></td>
+    <td><p>4</p></td>
+    <td><p>Bautechnische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Brunnen- und Grundbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Gleisbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Straßenerhaltungsfachkraft</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tierärztliche Ordinationsassistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tierpflege</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tierpflege</p></td>
+    <td><p>3</p></td>
+    <td><p>Tierärztliche Ordinationsassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td rowspan="8"><p>Tischlerei</p></td>
+    <td rowspan="8"><p>3</p></td>
+    <td><p>Bootbauer/ Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fassbinder/ Fassbinderin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tischlereitechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Wagner/ Wagnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td rowspan="8"><p>Tischlereitechnik – Schwerpunkt Modell- und Formenbau</p></td>
+    <td rowspan="8"><p>4</p></td>
+    <td><p>Faserverbundtechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Gießereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Konstrukteur/ Konstrukteurin – Schwerpunkte Maschinenbautechnik, Metallbautechnik, Stahlbautechnik und Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kunststoffverfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Kunststofftechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metallgießer/ Metallgießerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td rowspan="9"><p>Tischlereitechnik – Schwerpunkte Planung und Produktion</p></td>
+    <td rowspan="9"><p>4</p></td>
+    <td><p>Bootbauer/ Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fassbinder/ Fassbinderin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tischlerei – Schwerpunkt Allgemeine Tischlerei</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Tischlerei – Schwerpunkt Drechslerei</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Wagner/ Wagnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Transportbetontechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonfertigteiltechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prüftechnik – Schwerpunkt Baustoffe</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prüftechnik – Schwerpunkt Physik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tiefbauspezialist/Tiefbauspezialistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Uhrmacher – Zeitmesstechniker/ Uhrmacherin – Zeitmesstechnikerin</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Konstrukteur/Konstrukteurin</p>
+<p>– Maschinenbautechnik</p>
+<p>– Werkzeugbautechnik</p>
+<p>Metalltechnik</p></td>
+    <td><p>1.</p>
+<p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Veranstaltungstechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Elektronik (Modullehrberuf)</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Elektrotechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Verfahrenstechnik für die Getreidewirtschaft</p></td>
+    <td><p>3</p></td>
+    <td><p>Lebensmitteltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Vergolden und Staffieren</p></td>
+    <td><p>3</p></td>
+    <td><p>Beschriftungsdesign und Werbetechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Maler- und Beschichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Vermessungs- und Geoinformationstechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Bautechnischer Zeichner/ Bautechnische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Technischer Zeichner/ Technische Zeichnerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Verpackungstechnik</p></td>
+    <td><p>3,5</p></td>
+    <td><p>Buchbindetechnik und Postpresstechnologie</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Glas-Verfahrenstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kartonagewarenerzeuger/ Kartonagewarenerzeugerin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur – Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prozesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Verwaltungsassistent/ Verwaltungsassistentin</p></td>
+    <td><p>3</p></td>
+    <td><p>Archiv-, Bibliotheks- und Informationsassistent/Archiv-, Bibliotheks- und Informationsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bahnreise- und Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebslogistikkaufmann/ Betriebslogistikkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanz- und Rechnungswesenassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Kanzleiassistent/Kanzleiassistentin</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Mobilitätsservice</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionslogistik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Steuerassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Waffen- und Munitionshändler/ Waffen- und Munitionshändlerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Waagenhersteller</p></td>
+    <td><p>3</p></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Metallbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Stahlbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Werkzeugbautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Waffen- und Munitionshändler</p></td>
+    <td><p>3</p></td>
+    <td><p>Assistent in der Sicherheitsverwaltung/ Assistentin in der Sicherheitsverwaltung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bankkaufmann/Bankkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betriebsdienstleister/Betriebsdienstleisterin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Musikalienhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Buch- und Pressegroßhandel</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Buch- und Medienwirtschaft – Verlag</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Drogist/Drogistin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>E-Commerce-Kaufmann/ E-Commerce-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>EDV-Kaufmann/EDV-Kauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einkäufer/Einkäuferin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Einzelhandel – alle Schwerpunkte</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Eventkaufmann/Eventkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Finanzdienstleistungskaufmann/ Finanzdienstleistungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Foto- und Multimediakaufmann/Foto- und Multimediakauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Großhandelskaufmann/Großhandelskauffrau</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>1. Hälfte voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotelkaufmann/Hotelkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Gastgewerbeassistent/Hotel- und Gastgewerbeassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hotel- und Restaurantfachmann/Hotel- und Restaurantfachfrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Immobilienkaufmann/Immobilienkauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Industriekaufmann/Industriekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Medizinproduktekaufmann/ Medizinproduktekauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Personaldienstleistung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Pharmazeutisch-kaufmännische Assistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Reisebürokaufmann/Reisebürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Speditionskaufmann/Speditionskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Sportadministrator/Sportadministratorin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Versicherungskaufmann/ Versicherungskauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Verwaltungsassistent/Verwaltungsassistentin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Waffenmechaniker/ Waffenmechanikerin</p></td>
+    <td><p>3</p></td>
+    <td><p>Büchsenmacher/Büchsenmacherin</p></td>
+    <td><p>1. 2. 3.</p></td>
+    <td><p>voll voll voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin – Schwerpunkt Maschinenbautechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Wagner</p></td>
+    <td><p>3</p></td>
+    <td><p>Fassbinder/Fassbinderin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Land- und Baumaschinentechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Skibautechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik – Schwerpunkte Planung und Produktion</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Wärme-, Kälte-, Schall- und Brandschutztechnik</p></td>
+    <td><p>3</p></td>
+    <td><p>Bauwerksabdichtungstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Stuckateur und Trockenausbauer/Stuckateurin und Trockenausbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Werkstofftechnik</p></td>
+    <td><p>3 bzw. 3,5</p></td>
+    <td><p>Fertigungsmesstechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Konstrukteur/Konstrukteurin (Maschinenbautechnik, Metallbautechnik, Stahlbautechnik, Werkzeugbautechnik)</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Metalltechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Prüftechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zahnärztliche Fachassistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Bürokaufmann/Bürokauffrau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zahntechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zahntechnische Fachassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zahntechnische Fachassistenz</p></td>
+    <td><p>3</p></td>
+    <td><p>Zahnärztliche Fachassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zahntechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zahntechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Zahnärztliche Fachassistenz</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zahntechnische Fachassistenz</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zimmerei</p></td>
+    <td><p>3</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin</p>
+<p>– Stahlbetonhochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p>
+<p>– Neubau</p>
+<p>– Sanierung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik</p>
+<p>– Schwerpunkt Planung</p>
+<p>– Schwerpunkt Produktion</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td><p>Zimmereitechnik</p></td>
+    <td><p>4</p></td>
+    <td><p>Betonbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Betonbauspezialist/Betonbauspezialistin – Stahlbetonhochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Bootbauer/Bootbauerin</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Fertigteilhausbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbau</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Hochbauspezialist/Hochbauspezialistin</p>
+<p>– Neubau</p>
+<p>– Sanierung</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Holztechnik</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlerei</p></td>
+    <td><p>1.</p></td>
+    <td><p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Tischlereitechnik</p>
+<p>– Schwerpunkt Planung</p>
+<p>– Schwerpunkt Produktion</p></td>
+    <td><p>1.</p>
+<p>1.</p></td>
+    <td><p>voll</p>
+<p>voll</p></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><p>Zimmerei</p></td>
+    <td><p>1.</p>
+<p>2.</p>
+<p>3.</p></td>
+    <td><p>voll</p>
+<p>voll</p>
+<p>voll</p></td>
+  </tr>
+</table>

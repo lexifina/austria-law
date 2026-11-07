@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 7. Juni 1983 betreffend den Geltungsbereich des Abkommens über die Internationale Zivilluftfahrt vom 7. Dezember 1944 StF: [BGBl. Nr. 315/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_315_0/1983_315_0.pdf>)

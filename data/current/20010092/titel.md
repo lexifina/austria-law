@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Aufhebung der Verordnung „Beschluss der Fachgruppentagung“ der Fachgruppe Holzindustrie in der Wirtschaftskammer Oberösterreich vom 7. Oktober 2011 durch den Verfassungsgerichtshof StF: [BGBl. II Nr. 373/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/373>)
+
+Gemäß Art. 139 Abs.5 erster Satz B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 24/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/24>), wird kundgemacht:

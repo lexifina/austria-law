@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Justiz über den Ausspruch des Verfassungsgerichtshofs, dass § 13a der Satzung der Versorgungseinrichtung der Oberösterreichischen Rechtsanwaltskammer, beschlossen von der außerordentlichen Vollversammlung der Oberösterreichischen Rechtsanwaltskammer am 29. Juni 1974 (kundgemacht im Anwaltsblatt 1974, S 387 bis S 394), in der Fassung des Beschlusses der ordentlichen Vollversammlung der Oberösterreichischen Rechtsanwaltskammer vom 23. November 1985 (kundgemacht im Anwaltsblatt 1986, S 30) gesetzwidrig war StF: [BGBl. II Nr. 422/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_422_2/2001_422_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

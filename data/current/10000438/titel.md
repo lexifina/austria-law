@@ -1,0 +1,3 @@
+Bundesgesetz vom 21. Juni 1967 über die Änderung der Landesgrenze zwischen den Bundesländern Oberösterreich und Salzburg StF: [BGBl. Nr. 246/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_246_0/1967_246_0.pdf>) idF [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB) (NR: GP XI [RV 436](<https://www.parlament.gv.at/gegenstand/XI/I/436>) [AB 578](<https://www.parlament.gv.at/gegenstand/XI/I/578>) [S. 60.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/60>) BR: [S. 256.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/256>))
+
+Der Nationalrat hat beschlossen:

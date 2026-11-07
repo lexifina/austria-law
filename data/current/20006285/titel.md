@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Unterricht, Kunst und Kultur betreffend die Anerkennung der Anhänger von Jehovas Zeugen als Religionsgesellschaft StF: [BGBl. II Nr. 139/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/139>)
+
+Auf Grund des § 2 des Gesetzes vom 20. Mai 1874, betreffend die gesetzliche Anerkennung von Religionsgesellschaften, [RGBl. Nr. 68/1874](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=68/1874&amp;SkipToDocumentPage=True>) und des § 11 des Bundesgesetzes über die Rechtspersönlichkeit von religiösen Bekenntnisgemeinschaften, [BGBl. I Nr. 19/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_19_1/1998_19_1.pdf>), jeweils zuletzt geändert durch die Bundesministeriengesetz-Novelle 2007, BGBl. I Nr. 6, wird verordnet:

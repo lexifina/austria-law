@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005242",
+  "short_title": "Sichtvermerkabkommen (Kanada)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Kanada",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005326",
+    "valid_from": "1956-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005242&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:41:09.413528+00:00",
+    "response_sha256": "121221f14e80ecad00ddaab66e66f1a051b5eef32fc3e33366707c96e597342b",
+    "snapshot_sha256": "e1e96d6fa7719a4e3c26c862061a6d4525ffb69158a7a2c31231aba1a7c8361c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5468d5d0a83db51e230c08a5d40675a15193e1389bf6b09e00472bf4b47a53bc",
+      "sha256": "7b3a4bce2bb190ac94598136df74f56571ce71853dba38f1c53ac523e12c35e0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel über den Abschluß eines Sichtvermerkabkommens zwischen Österreich und Kanada StF: BGBl. Nr. 124/1956"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 124/1956",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_124_0/1956_124_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ee3cea0228081175c817b1e5be436937bc2040f47e0b9c612a9c64871f4c97af",
+      "sha256": "194b6fb860a857838965b878983bdda71172f18b1544e2ec4d57be4e194d7a0a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

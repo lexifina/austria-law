@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10006130",
+  "short_title": "Notenwechsel zwischen Österreich und Schweden, betreffend die Weiteranwendung des Handels- und Schiffahrtsvertrages",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Schweden",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006243",
+    "valid_from": "1924-11-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006130&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:52:56.494058+00:00",
+    "response_sha256": "2859c6f5611aebbd08accf7d6ebbe31f506b0324ae1db273a4ff2d452d16e840",
+    "snapshot_sha256": "8e96c4d30c37a81879dd7badc0657957a6a8da9d6dd6825f9d0d9e20a4f3f1f8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f33b0f7ff5417e8a2e89e555735d6ebdb04eb6aabb624c4c01cbca453899793",
+      "sha256": "2d3092eb95b620d2604d983a08e477891138f4b737403c146fc9f02aabd22ae5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen Österreich und Schweden, betreffend die Weiteranwendung des Handels- und Schiffahrtsvertrages vom 3. November 1873, im Verhältnis zwischen der Republik Österreich und dem Königreiche Schweden. StF: BGBl. Nr. 433/1924"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 134/1934"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 433/1924",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=433/1924&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. II Nr. 134/1934",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=134/1934&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Übersetzung.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "debe3336cbe4de8076781b8254becbbc740b36fe28a4414f576f288b2bad66f4",
+      "sha256": "7e46481ce9ada044b3968476b85b99abb88229740587b400e525618f0925ec05",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

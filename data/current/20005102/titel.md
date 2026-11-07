@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 30. April 1976 betreffend den Geltungsbereich des Übereinkommens über die Internationale Fernmeldesatellitenorganisation „INTELSAT“ und des Betriebsübereinkommens über die Internationale Fernmeldesatellitenorganisation „INTELSAT“ StF: [BGBl. Nr. 232/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_232_0/1976_232_0.pdf>)

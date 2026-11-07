@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002068",
+  "short_title": "Hoheitszeichen - Kanada",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002091",
+    "valid_from": "1965-07-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002068&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:57:16.044514+00:00",
+    "response_sha256": "32af65d009e6605cb12e05707a1d949915007d33a17725b569ea537a71157324",
+    "snapshot_sha256": "b00a72e5f70eda1a4dfa184f46f48fe86bd379ca228d657e17d110f3913fcbfb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c67a7120700f2ab180a3a0e5fe6277cdead8ed140ea212677b588a591d62680c",
+      "sha256": "2306cba0d50b78ff238d6535a0f9dd628e7788ff0696fef8ace5db2c92f04a2a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 26. Mai 1965 betreffend ein kanadisches Hoheitszeichen StF: BGBl. Nr. 163/1965"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 163/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_163_0/1965_163_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0a02c979c561e68058a2085f8e3daa8e88d61eca52e2763ae8c74f049c9d93b",
+      "sha256": "83948ef03556fe8a2deb45e7710d7458dc49568a19eda3357019eef3c8d07162",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

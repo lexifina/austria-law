@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000343",
+  "short_title": "Privilegien und Immunitäten des Europarates",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000344",
+    "valid_from": "1960-03-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000343&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:55.801074+00:00",
+    "response_sha256": "025db5d8498d1c071fd6af75de2cc7969000f5f75517d1b10900c7cce7fb0b4f",
+    "snapshot_sha256": "b25f731fe5dfc5e3c39aaa13a803453863cd6e1f46fe34b2d852afff06c7759f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa1fa9757de946b294997b33085e7f76277dfea603700486e9388ec2107b10ab",
+      "sha256": "b874fa2b8b9493ea089c01a047313460750d2f5102f0b5e51a43af951cb77e47",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 29. Feber 1960, über den Geltungsbereich des Allgemeinen Abkommens über die Privilegien und Immunitäten des Europarates samt Zusatzprotokoll und des Zweiten Protokolls zum Abkommen über die Privilegien und Immunitäten des Europarates. StF: BGBl. Nr. 64/1960"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 64/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_64_0/1960_64_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c0a4fdf41cb270288b8b0879ac5616dfdcaf3e2b979eb57534affdbbe3c18f2",
+      "sha256": "33a9110e45f34cc8bc5eed2b0651fc53f55d8ee63fcc383c5e05efcee4818680",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 127/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_127_0/1957_127_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 13/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_13_0/1959_13_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

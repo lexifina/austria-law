@@ -1,0 +1,124 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005260",
+  "short_title": "Aufhebung der Sichtvermerkspflicht - Änderung (Dänemark)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Dänemark",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005344",
+    "valid_from": "1958-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005260&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:41:37.914158+00:00",
+    "response_sha256": "f8e98b5cbb2f79b2f43097a0561c6b730fed10a207d7264bd15943da17cbc8c3",
+    "snapshot_sha256": "09381171cd5f963400d880fc668ed0a2045d2839a972dcb3bef966f7e50adbb5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cac602bab223e3693d5c14a441172d772b8828618c25b2154454d6fe2f6ab31c",
+      "sha256": "1e104e0398d38a7ce9d7f10d8d9af6ab2c83964e771081b351807125ae4c6c2b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über die Abänderung des Übereinkommens über die Aufhebung der Sichtvermerkspflicht zwischen Österreich und Dänemark, BGBl. Nr. 192/1955. StF: BGBl. Nr. 29/1959"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 192/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_192_0/1955_192_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 29/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_29_0/1959_29_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "DER BUNDESMINISTER",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72370b194e9c7190a8f0587706368f3e8fb9049be217dd08c79fcb14230e8085",
+      "sha256": "2d7e4f156423cbac3a3da7d1bb60584c4cd204b8e2ac3e53fb1172588ae8bbec",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Wien, den 18. Juni 1958.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "36. D. 28",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Zl. 887",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Wien, am 18. Juni 1958.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

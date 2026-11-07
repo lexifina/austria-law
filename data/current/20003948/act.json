@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003948",
+  "short_title": "VfGH-Aufhebung V d. Bundesministers für Wirtschaft und Arbeit",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004291",
+    "valid_from": "2005-03-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003948&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:07:10.835006+00:00",
+    "response_sha256": "8deff82a983a695c2cf1584b77a8a05f33e23dbff756f28d47835fcf3155f52d",
+    "snapshot_sha256": "71b7e3e6c5b599ee9112b22dbef4118aa2ba237f073aed69aee33111c6b954ba",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d388c40ba712031a21e474b2cf2bd4b97a5e685b888653279891706d48b1022a",
+      "sha256": "f8cf3af408fe872e8185d36fab5d2c72a4b592d50d24e889eea4ace17e9c8823",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wirtschaft und Arbeit über die Aufhebung einer Wortfolge in der Verordnung des Bundesministers für Wirtschaft und Arbeit vom 10. Juni 2003, Z 556.475/58-IV/5a/03, durch den Verfassungsgerichtshof StF: BGBl. II Nr. 66/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 66/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/66"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11d28d572503dbc545b173005dca06e8613066111cbc70e1707667b29bc9e1f7",
+      "sha256": "5188bd1274780d5632435ff3861a65ee1696052f2a3f9caf604f8553e14bdfda",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

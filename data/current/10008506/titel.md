@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 8. Mai 1981 über die Verwendung der Geldmittel aus Geldbußen und Geldstrafen StF: [BGBl. Nr. 239/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_239_0/1981_239_0.pdf>)

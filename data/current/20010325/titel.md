@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Aufhebung des Übereinkommens (Nr. 21) über die Vereinfachung der Aufsicht über die Auswanderer an Bord von Schiffen StF: [BGBl. III Nr. 146/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2018/146>)

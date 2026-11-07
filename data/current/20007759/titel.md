@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers betreffend die Verfahren für die Übermittlung von Bekanntmachungen und Mitteilungen auf Grund des Bundesvergabegesetzes 2006 und des Bundesvergabegesetzes Verteidigung und Sicherheit 2012 StF: [BGBl. II Nr. 105/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/105>)
+
+Auf Grund der §§ 50 und 211 des Bundesvergabegesetzes 2006, [BGBl. I Nr. 17/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/17>), zuletzt geändert durch [BGBl. I Nr. 10/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/10>), und des § 42 des Bundesvergabegesetzes Verteidigung und Sicherheit 2012, BGBl. I Nr. 10, werden für die Übermittlung von Bekanntmachungen und Mitteilungen folgende Verfahren kundgemacht:

@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Justiz vom 4. Mai 1973 über die Festsetzung von pauschalierten Aufwandsentschädigungen für Beamte im Gefangenenaufsichtsdienst an Justizanstalten StF: [BGBl. Nr. 227/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_227_0/1973_227_0.pdf>)

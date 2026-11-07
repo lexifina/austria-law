@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000600",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000602",
+    "valid_from": "1976-05-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000600&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:33:00.650167+00:00",
+    "response_sha256": "f4317b25b5b79555bdd9cec27a959835de44835cc7d8aab0ab833fdec41dac06",
+    "snapshot_sha256": "f3f94e0992ccd88c9cbcd2b51afb580a1bfb14b3d4e6104ee02386f2393c4cb4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae38dda20328629734cdb4694dab6718350b5289c46ffd5e3c0a39c0bd7bb3bc",
+      "sha256": "c408ce8c5c4bbd54c0a10de2be24f8816e23fd3f25444f7f4d04871cdd16a0ec",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 21. April 1976 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der unschädlichen Beseitigung von Abfällen StF: BGBl. Nr. 187/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 187/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_187_0/1976_187_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dddc0ad331784930c15cc4d39142080861dacbf576f2463ed6e8b485ada8729a",
+      "sha256": "e2d55c92b1e4f26a2487e07c633a30b93709b3d670316aa608c826959d64c007",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich der Genfer Abkommen zum Schutze der Opfer des Krieges StF: [BGBl. III Nr. 8/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_8_3/1999_8_3.pdf>)

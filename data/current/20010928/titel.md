@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Sicherstellung der Arzneimittelversorgung StF: [BGBl. II Nr. 30/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/30>)
+
+Auf Grund des § 57a Abs. 2 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), und die Bundesministeriengesetz-Novelle 2020, [BGBl. I Nr. 8/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/8>), wird verordnet:

@@ -1,0 +1,3 @@
+Vereinbarung zwischen dem Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich und dem Ministerium für auswärtige Angelegenheiten der Republik Slowenien über die Durchführung des Abkommens zwischen der Republik Österreich und der Republik Slowenien über die wechselseitige Vertretung beider Staaten durch deren Vertretungsbehörden hinsichtlich der Erteilung von Visa für den Flughafentransit (Visum A), zur Durchreise (Visum B) und zum kurzfristigen Aufenthalt (Visum C) StF: [BGBl. III Nr. 8/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2008/8>)
+
+Gemäß Abschnitt XI ist die Vereinbarung mit 1. Dezember 2007 in Kraft getreten.

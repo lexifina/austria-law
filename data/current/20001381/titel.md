@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Bildung, Wissenschaft und Kultur gemäß § 7 Abs. 1 des Bundesgesetzes über die Förderung der Erwachsenenbildung und des Volksbüchereiwesens aus Bundesmitteln StF: [BGBl. II Nr. 228/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_228_2/2001_228_2.pdf>)

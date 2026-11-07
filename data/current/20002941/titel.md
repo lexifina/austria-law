@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft betreffend die Festlegung der Abwicklungsstelle nach dem Umweltförderungsgesetz (UFG) StF: [BGBl. II Nr. 460/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_460_2/2003_460_2.pdf>)
+
+Auf Grund der §§ 11 Abs. 1 und 46 Abs. 1 des Umweltförderungsgesetzes (UFG), [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>) (Anm.: richtig: 185/1993), in der Fassung [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>) wird verordnet:

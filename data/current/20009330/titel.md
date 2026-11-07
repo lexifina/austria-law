@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft mit Rahmenbedingungen für Erzeuger zur Verbesserung der Erzeugung und Vermarktung und zur Stärkung ihrer Marktstellung (Erzeuger-Rahmenbedingungen-Verordnung) StF: [BGBl. II Nr. 326/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/326>)
+
+Auf Grund der § 7 Abs. 1 und 2, § 11a, § 22, § 23 und § 28 des Marktordnungsgesetzes 2007 (MOG 2007), [BGBl. I Nr. 55/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/55>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 89/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/89>), wird verordnet:

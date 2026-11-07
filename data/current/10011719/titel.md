@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 25. August 1987 betreffend den Geltungsbereich des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 425/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_425_0/1987_425_0.pdf>)

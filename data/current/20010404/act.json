@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010404",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Floridsdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209421",
+    "valid_from": "1976-08-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010404&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:07.174112+00:00",
+    "response_sha256": "52f6a0b381e45b984955393181b9da384a60f33fbe18875711d5a4ae27a7e7da",
+    "snapshot_sha256": "dd84ee3d5d627ac3f3c855c4fd105170898bd2a9a3ef062481bd7347ee40e396",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b73cd073c6d44d773c948ce498b6fda7ccb85cf6d34c1105995e577bd4463dd6",
+      "sha256": "7bfe41061c9df02bded2c6e60f011490d0747bdd6e6a05753ef7537354e66ef4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 26. Juli 1976 betreffend die Errichtung einer dritten Notarstelle in Wien-Floridsdorf StF: BGBl. Nr. 435/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 435/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_435_0/1976_435_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9026209ced8f55d504e201ebf8abeeb495e67b24edbb03ccc1b943169a0acf40",
+      "sha256": "6cd60a88ea63b2995085d42d30fa8d4ef50708b9f51eb9720c90b82967a05bfe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

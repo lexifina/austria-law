@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 28. Dezember 1932, betreffend die Feststellung des Verfassungsgerichtshofes, daß der Schutz gegen Vortäuschung öffentlicher Berechtigungen und unbefugte Verfertigung amtlicher Siegel eine Angelegenheit der Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit ist. StF: [BGBl. Nr. 1/1933](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=1/1933&amp;SkipToDocumentPage=True>)
+
+Auf Grund des § 56, Absatz 4, des Verfassungsgerichtshofsgesetzes 1930 wird kundgemacht, daß der Verfassungsgerichtshof in seinem Erkenntnis vom 19. November 1932, G. Z [Source image](<https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR11000173/image001.png>) , den folgenden Rechtssatz beschlossen hat:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 9. Juli 1926 über den Beitritt britischer Kolonien und Protektorrate zum Handels- und Schiffahrtsvertrag zwischen Österreich und Großbritannien vom 22. Mai 1924, B. G. Bl. Nr. 80 von 1925. StF: [BGBl. Nr. 172/1926](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=172/1926&amp;SkipToDocumentPage=True>)

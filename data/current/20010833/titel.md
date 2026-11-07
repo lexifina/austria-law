@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur näheren Regelung der Umsetzung des Digitalsteuergesetzes 2020 (DiStG 2020-UmsetzungsV) StF: [BGBl. II Nr. 378/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/378>)
+
+Auf Grund des § 5 Abs. 5 des Digitalsteuergesetzes 2020 – DiStG 2020, [BGBl. I Nr. 91/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/91>), und der §§ 86a, 90a, sowie 97 Abs. 3 der Bundesabgabenordnung – BAO, [BGBl. Nr. 194/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird verordnet:

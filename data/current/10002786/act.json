@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002786",
+  "short_title": "Errichtung einer Notarstelle in St. Gilgen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002809",
+    "valid_from": "1987-06-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002786&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:12.371622+00:00",
+    "response_sha256": "536ba32d5118c865d9ecc5c4c123dcad515f3d59bb3229235f9035bb0608456f",
+    "snapshot_sha256": "bacde0421440aa45139bf83cabb716643eec912cf67a28cf098ebdf21ab4c86d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18b738230902935414b4e09456f24a631835252afa3c0eb88f6954476f78f5bc",
+      "sha256": "fc6d95f894c87b8b70c820912dcdd91c8e951fa1bc65087d9008c4dfea31bdca",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 12. Juni 1987 betreffend die Errichtung einer Notarstelle in St. Gilgen StF: BGBl. Nr. 258/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 258/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_258_0/1987_258_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4250269fae9e34792de10021a0b743703c68ea2cb058f23478bbc9d2a6925ff",
+      "sha256": "662de234ef674d759f0d1add1cf9dcf3237c3dee94d055f2dba7f5f80a6242a1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

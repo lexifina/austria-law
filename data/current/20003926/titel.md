@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2003 StF: [BGBl. I Nr. 7/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/7>) (NR: GP XXII [AB 747](<https://www.parlament.gv.at/gegenstand/XXII/I/747>) [S. 93.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/93>))

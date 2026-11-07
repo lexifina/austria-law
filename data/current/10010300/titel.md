@@ -1,0 +1,3 @@
+Verordnung der Bundesministerien für soziale Verwaltung, für Justiz und für Handel und Wiederaufbau vom 15. November 1960 über Herstellung, Verkauf, Zurichtung und Verwendung von Geschirren und Geräten, die mit Lebensmitteln unmittelbar in Berührung kommen, über Kinderspielzeug bestimmter Art sowie über bestimmte Arten der Aufbewahrung und Verpackung von Lebensmitteln (Geschirrverordnung). StF: [BGBl. Nr. 258/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_258_0/1960_258_0.pdf>)
+
+Auf Grund des § 6 des Lebensmittelgesetzes 1951, BGBl. Nr. 239, wird von den Bundesministerien für soziale Verwaltung, für Justiz sowie für Handel und Wiederaufbau verordnet:

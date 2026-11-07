@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. Juli 1957, betreffend den Beitritt weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 194/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_194_0/1957_194_0.pdf>)

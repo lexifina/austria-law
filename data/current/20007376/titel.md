@@ -1,0 +1,3 @@
+Bundesgesetz über die Gewährung eines Bundeszuschusses und sonstiger Förderungen aus Anlass der 90. Wiederkehr des Jahrestages der Volksabstimmung in Kärnten StF: [BGBl. I Nr. 48/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/48>) (NR: GP XXIV [RV 1218](<https://www.parlament.gv.at/gegenstand/XXIV/I/1218>) [AB 1327](<https://www.parlament.gv.at/gegenstand/XXIV/I/1327>) [S. 114.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/114>) BR: [AB 8564](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8564>) [S. 799.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/799>))
+
+Der Nationalrat hat beschlossen:

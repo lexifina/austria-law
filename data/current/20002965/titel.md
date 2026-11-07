@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über Form und Inhalt des Berufsausweises für Heilmasseure und Heilmasseurinnen (Heilmasseur-Berufsausweisverordnung – Hm-BerufsausweisV) StF: [BGBl. II Nr. 493/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_493_2/2003_493_2.pdf>)
+
+Auf Grund des § 49 Abs. 3 des Medizinischer Masseur- und Heilmasseurgesetzes, [BGBl. I Nr. 169/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_169_1/2002_169_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 66/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_66_1/2003_66_1.pdf>), wird verordnet:

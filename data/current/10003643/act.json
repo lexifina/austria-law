@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003643",
+  "short_title": "Errichtung einer zweiten Notarstelle in Feldkirchen in Kärnten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003672",
+    "valid_from": "1998-08-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003643&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:03.980904+00:00",
+    "response_sha256": "33eead2b120cd3ead358839c64c371fafa7145d37719900c0dc1e51d2f10fdbe",
+    "snapshot_sha256": "fdf303afb943cccf9a5b578fb2abc0f1c57ab66b635dce103be78f1d7797ea0f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cb63603bcbb20998fdc2b1ee38b7677e56dc96d1c10ed6dadc45454af731ea5",
+      "sha256": "70cbf735c1cc1f32f49c404f39908772d4a0db797b62d052d4adfcfa82707587",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Feldkirchen in Kärnten StF: BGBl. II Nr. 274/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 274/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_274_2/1998_274_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b42cbcf1bcb297e2ec5bab0ac357cfcc470b477ff18227bf418e8f0ddbd7b15",
+      "sha256": "badfd61e3c9870b72e3102a345202799ec355864bc1420de4047e40b993b2dee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

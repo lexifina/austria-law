@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 23. Feber 1988 betreffend den Geltungsbereich des Internationalen Übereinkommens über das Harmonisierte System zur Bezeichnung und Kodierung der Waren und des Änderungsprotokolls zu diesem Übereinkommen StF: [BGBl. Nr. 131/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_131_0/1988_131_0.pdf>)

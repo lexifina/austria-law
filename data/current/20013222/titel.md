@@ -1,0 +1,3 @@
+Verordnung des Vorstandsvorsitzenden der Österreichischen Post Aktiengesellschaft über die Anpassung der Bezüge und Zulagen für die gemäß § 17 Abs. 1a des Poststrukturgesetzes (PTSG) der Österreichischen Post Aktiengesellschaft oder der GIS Gebühren Info Service GmbH (gemäß § 21 ORF-Beitrags-Gesetz nunmehr „ORF-Beitrags Service GmbH (OBS)“) - oder einem dieser Gesetzesbestimmung unterliegenden Tochterunternehmen der Österreichischen Post Aktiengesellschaft zur Dienstleistung zugewiesenen Beamt\*innen (Post-Bezügeverordnung 2026) StF: [BGBl. II Nr. 174/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/174>)
+
+Gemäß § 17a Abs. 3 Z 2 PTSG wird verordnet:

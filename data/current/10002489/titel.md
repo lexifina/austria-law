@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz vom 30. April 1980 über den Auslieferungsverkehr und den zwischenstaatlichen Rechtshilfeverkehr in Strafsachen (Auslieferungs- und Rechtshilfeverordnung - ARHV) StF: [BGBl. Nr. 219/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_219_0/1980_219_0.pdf>)
+
+Auf Grund des Auslieferungs- und Rechtshilfegesetzes, [BGBl. Nr. 529/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_529_0/1979_529_0.pdf>), und des § 61 der Strafprozeßordnung 1975 wird im Einvernehmen mit dem Bundesminister für Auswärtige Angelegenheiten und dem Bundesminister für Inneres verordnet:

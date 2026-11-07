@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 28. Mai 1965 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung und Vollziehung eines Gesetzes zum Schutz von Gegenständen geschichtlicher, künstlerischer oder sonst kultureller Bedeutung (Denkmalschutzgesetz) StF: [BGBl. Nr. 140/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_140_0/1965_140_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 19. März 1964, K II-4/63, dem Bundeskanzleramt zugestellt am 19. Mai 1965, zusammengefaßt hat:

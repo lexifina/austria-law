@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003616",
+  "short_title": "Emblem der Andinischen Gemeinschaft",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003645",
+    "valid_from": "1998-12-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003616&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:17:38.369233+00:00",
+    "response_sha256": "24896984edb278859744b7aad0139cf1f0fea5c64df8a16ee09c7a6593aa463e",
+    "snapshot_sha256": "722f8b7c45ac38fc65a1943353b22f6d12027bd0e5744026ef4d17f7ba8e3b00",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "48611d87275b4375713750477f0e530e960c58e60587e6f22eead8df4f272989",
+      "sha256": "c3e5cdcdf7935bb90c09257db0f3d2108cedd69804a4f4e4d88038088248fc6e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem der Andinischen Gemeinschaft StF: BGBl. II Nr. 414/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 414/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_414_2/1998_414_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7984aa8409f954da5c727862ffeef0f1ebe0a698f4f27fa6e7d5fe14fd53f0cf",
+      "sha256": "940e390f94c020fa9db7bdda2caa5743eef31f7faad2fdf1ebd76775e6a485d8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

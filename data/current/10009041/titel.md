@@ -1,0 +1,1 @@
+Erlöschen des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Schweden über den Austausch von Gastarbeitnehmern StF: [BGBl. III Nr. 207/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_207_3/1997_207_3.pdf>)

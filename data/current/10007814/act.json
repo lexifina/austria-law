@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007814",
+  "short_title": "Handelsabkommen zwischen Österreich und Thailand - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007953",
+    "valid_from": "1996-07-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007814&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:10:27.355172+00:00",
+    "response_sha256": "5a205bedfa96f1fdf1ff8716d0ef1161339b88378f73f90042a284609b54a857",
+    "snapshot_sha256": "198c8f110f00cfadcfdfdf76136d3b82d27280c7ac27f9c8125838f97aea6795",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "804cc8e0a984b3c70e9f92f92cbae0283c3c8d4211d66579eaab2129ac6f8bb8",
+      "sha256": "d410e9ada055de8e3b459635e4875352cd4e0537de090c2ffc37738109c1e957",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Handelsabkommens zwischen der Bundesregierung der Republik Österreich und der Regierung des Königreiches Thailand StF: BGBl. Nr. 311/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 311/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_311_0/1996_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4f3dcfad2d1e1877618eda0d1566af453dcac980b6937148b37c3ddeb9e793e5",
+      "sha256": "8e72cec1c7f45049938f8f9a08d450038bab346873d524c35039b03116371dda",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

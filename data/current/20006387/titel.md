@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2007 StF: [BGBl. I Nr. 69/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/69>) (NR: GP XXIV [AB 307](<https://www.parlament.gv.at/gegenstand/XXIV/I/307>) [S. 31.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/31>))

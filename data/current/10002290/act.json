@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002290",
+  "short_title": "Hoheitszeichen – Großbritannien",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002313",
+    "valid_from": "1974-06-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002290&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:01:31.608503+00:00",
+    "response_sha256": "267faa983729f5f1c1b01a9bc88ec95128a3c3efd6d0a3e808702148fbf25daf",
+    "snapshot_sha256": "18fb7876374140d94412a0e7c10ad7127f70c7662c84766e479161ec5a50f584",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08d6bf7fc8bc5353247a8da2b902f34ca93379e077c6dfe9ac5b531783487fa1",
+      "sha256": "5a635a84ea2cb67b1f84963456bd80f0fa4345e678bdf4731ce55ab0ea55826d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. April 1974 betreffend das britische Hoheitszeichen „Auszeichnung der Königin für die Industrie“ StF: BGBl. Nr. 309/1974"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 309/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_309_0/1974_309_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "17afd556061423a4c766a2eb66c48869ad1826c99d1f6ffe46eddd1d3ffb5c52",
+      "sha256": "26f39bde759c1796734f6d6591c3ba91c441c6af26962244fc369667f199eb85",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

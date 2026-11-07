@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 2. Feber 1989 über die Begrenzung des Schwefelgehaltes von Heizöl StF: [BGBl. Nr. 94/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_94_0/1989_94_0.pdf>)
+
+Auf Grund des § 69 Abs. 1 und des § 82 Abs. 1 der Gewerbeordnung 1973, [BGBl. Nr. 50/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_50_0/1974_50_0.pdf>), in der Fassung der Gewerberechtsnovelle 1988, BGBl. Nr. 399, wird – hinsichtlich der §§ 2, 3, 4 Abs. 2 und des § 5 im Einvernehmen mit den Bundesministern für Arbeit und Soziales, für Gesundheit und öffentlicher Dienst, für Umwelt, Jugend und Familie und für Land- und Forstwirtschaft – verordnet:

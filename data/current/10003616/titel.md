@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem der Andinischen Gemeinschaft StF: [BGBl. II Nr. 414/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_414_2/1998_414_2.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über Wirtschaftsgüter, deren Anschaffung oder Herstellung für Zwecke des Investitionsfreibetrags dem Bereich Ökologisierung zuzuordnen ist (Öko-IFB-VO) StF: [BGBl. II Nr. 155/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/155>)
+
+Auf Grund des § 11 Abs. 1 Z 1 des Einkommensteuergesetzes 1988 – EStG 1988, [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), zuletzt geändert durch das [BGBl. I Nr. 31/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/31>), wird im Einvernehmen mit der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

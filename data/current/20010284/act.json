@@ -1,0 +1,686 @@
+{
+  "sample_only": false,
+  "included_provisions": 17,
+  "source_provision_count": 17,
+  "schema_version": 1,
+  "gesetzesnummer": "20010284",
+  "short_title": "PNR-Gesetz",
+  "abbreviation": "PNR-G",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40206165",
+    "valid_from": "2018-08-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010284&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:51:17.910736+00:00",
+    "response_sha256": "750219aa26bd45b0e93d5bceeba92d0f02f9266ec742a4eb8654e9e202d58aab",
+    "snapshot_sha256": "8ba165f2c4fbc9a81f388b0a3b163871daed0c000339a7bd34357276f6089427",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b6f9ab5605378b373ce46474dcae1d8fb71aa4cc7690631a5d59bd1ecb9207dc",
+      "sha256": "73c56b708f04725f5e9998b8cf81329d721059e830f5ec94c9f54876bc946500",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz, mit dem ein Bundesgesetz über die Verarbeitung von Fluggastdaten zur Vorbeugung, Verhinderung und Aufklärung von terroristischen und bestimmten anderen Straftaten (PNR-Gesetz – PNR-G) erlassen wird StF: BGBl. I Nr. 64/2018 (NR: GP XXVI RV 186 AB 208 S. 36. BR: AB 10021 S. 883.) [CELEX-Nr.: 32016L0681]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 87/2025 (NR: GP XXVIII RV 255 AB 282 S. 52. BR: AB 11719 S. 983.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 64/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/64"
+        },
+        {
+          "text": "RV 186",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/186"
+        },
+        {
+          "text": "AB 208",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/208"
+        },
+        {
+          "text": "AB 10021",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10021"
+        },
+        {
+          "text": "883",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/883"
+        },
+        {
+          "text": "32016L0681",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0681:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 87/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/87"
+        },
+        {
+          "text": "RV 255",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/255"
+        },
+        {
+          "text": "AB 282",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/282"
+        },
+        {
+          "text": "S. 52.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/52"
+        },
+        {
+          "text": "AB 11719",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11719"
+        },
+        {
+          "text": "S. 983.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/983"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenübermittlung durch Luftfahrtunternehmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fluggastdaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verarbeitung von Fluggastdaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Festlegung von Kriterien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Depersonalisierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenschutzbeauftragter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunftsrecht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwaltungsübertretungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezugnahme auf Richtlinien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d318aad7257245e81501970323fefa1c4d860ad04352cded3df7247f6775148",
+      "sha256": "90dd58826a20b62df1ecd7dac595b9073ffb4cda787a19d7185cffdb51b219ee",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_60_0/1974_60_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 631/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Datenübermittlung durch Luftfahrtunternehmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0491e3ca7c9d14f11596368db94f736891ce1bed8d7819954c9c5775d1c4499f",
+      "sha256": "c1a49b3881116a0d875c4ca9f529882c0f5c89890bcb3a6f1664d52cf0dd3d96",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Fluggastdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc62b748f65f1c96205d6df50d449a5d5d424c1fe950904cd4fa41503198d214",
+      "sha256": "906369b5726791f7b34ce7a5a1e2ffa01516e1a34ce53a625df816cab97bf168",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Verarbeitung von Fluggastdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66315d43a31f6b6d21030a14ebf8e4aa88fa1935cfe7b0592e3821fe0456f74d",
+      "sha256": "b94e5a2ee592dd5fa8e18db1ea442c8f99a5725f523655cf875fc52c7e48c10f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Festlegung von Kriterien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d80c8f82de1f183c533f9f04f4fc5b58f6b7a3b5ee3d6d37c424fcf34577fdf8",
+      "sha256": "facca0d58f73351d452c1f861a87c9c60c30ed77cb6229e1c0d6d1879fea4c41",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Depersonalisierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55da0eb3e7046c18d4f380f58cf6e83cb24e5218a20fdf21d306399ef7f165a0",
+      "sha256": "6e2dfa4e13aac81310e73fc786df4a326ed73e33cafc86d51dda99e63a63c90c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 129/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_129_0/1958_129_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 86/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_86_1/2000_86_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2550bf38d7fc1e3a55242d292347a05cdd659257f402e02e45d45ef422eb8da3",
+      "sha256": "ad4cddb31b43e9082a2bb4283b57854aa02a539a6426a71833e9a2f87d6e7ae0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 104/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_104_1/1997_104_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 36/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/36"
+        },
+        {
+          "text": "BGBl. Nr. 529/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_529_0/1979_529_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_135_1/2002_135_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 263/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_263_0/1996_263_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Datenschutzbeauftragter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49980b539294e5b2e4fd7eaea34ab378b4cc1ab37b2295b71129ee592cec8490",
+      "sha256": "d3c102f15631c64726cf05b73aec533a4b60c08f0f266c97e1a4a7ff735a712a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Auskunftsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5139583680ffab109b293d74a0ee793b1793b2dfaec779ccce117887a1695c26",
+      "sha256": "ce7856c3a83e08ebbb814285cc46d85c86861ad22e8f1f64b59728eb98ddb7b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Verwaltungsübertretungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae721570da68e3bc321148a9c26302c6d18c6a8fe8c67e7a975c29ac59ba5e29",
+      "sha256": "9c254d1957fae057f269c1f376587d3e0552755d2f07e071fad9d9b8d168f31c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c1775d05f6a11253ae33d07a744f16ba68b9fabe8fef3f12c501c2e6fcb0c559",
+      "sha256": "483fd4d545190da18feeb1a46ee6c1429a4362e042127ff7e03d15325a428c59",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f51aef114e0d0d3971789787f352a899e07ae4299dcac35e299d13832ef41802",
+      "sha256": "b32bd5b2bf848a9c3933f8b1f593f6e274fe5e98260205ca53a77de2e89c1978",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Bezugnahme auf Richtlinien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00a5db7d7ae815f14537716bcf998e3d3b735946dc03f920ef5bb0a423c6a811",
+      "sha256": "dfc99c8900769c9c21711c76f42354ea42480f1238d0ea9c6335c547d4dd1f8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0917dba5600a082381fcfe68979fc85276a5c491c76d70635e6b0bb4828e81fc",
+      "sha256": "23e59f49dddc0c60f1436ffec29c73ebb64e7475434d4a4fb2d670f692c00c12",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 87/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/87"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d17e0dd0a2d6a5fd27ddb28b4c74e274b235a827b34bb1c9de5837fb6404e5b2",
+      "sha256": "ebf1b2d5cec61eeef9a3c9a8cd0153d58262035bbca45d62668dc744512a17a9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a8ef03b9c74534cb86eaade2a0e675b22d0c1cd1b5776ee5a35ad79a8d1cb0c",
+      "sha256": "e4d27efd831073fd52a5bc9a9e6ae00c4d51fb87b0feafb9f99f8e6f34fd2087",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

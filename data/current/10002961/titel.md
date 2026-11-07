@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 2. Juli 1990 betreffend das Emblem und die Flagge der Organisation der afrikanischen Erdöl-Produzenten (African Petroleum Producers' Association - APPA) StF: [BGBl. Nr. 502/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_502_0/1990_502_0.pdf>)

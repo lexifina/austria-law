@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr über den Ausspruch der Gesetzwidrigkeit der Verordnung des Landeshauptmannes von Kärnten vom 16. Dezember 1990, LGBl. für Kärnten Nr. 3/1991, betreffend die Festlegung der Verhältniszahl und Kundmachung der Höchstzahl der Taxifahrzeuge im Bereich der Landeshauptstadt Klagenfurt und der Stadt Villach durch den Verfassungsgerichtshof StF: [BGBl. Nr. 955/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_955_0/1993_955_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshof-Gesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

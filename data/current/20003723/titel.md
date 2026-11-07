@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 16. August 1949, betreffend die Erweiterung des Geltungsbereiches der Satzung der Weltgesundheitsorganisation und des Protokolls, betreffend das Office International dʻHygiène Publique. StF: [BGBl. Nr. 216/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_216_0/1949_216_0.pdf>)

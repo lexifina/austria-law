@@ -1,0 +1,3 @@
+Bundesgesetz über die Führung der Bezeichnung „Sozialarbeiterin“ oder „Sozialarbeiter“ oder „Sozialarbeiter:in“ sowie der Bezeichnung „Sozialpädagogin“ oder „Sozialpädagoge“ oder „Sozialpädagog:in“ (Sozialarbeits-Bezeichnungsgesetz 2024 – SozBezG 2024) StF: [BGBl. I Nr. 25/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/25>) (NR: GP XXVII [IA 3814/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/3814>) [AB 2448](<https://www.parlament.gv.at/gegenstand/XXVII/I/2448>) S. 252. BR: [AB 11430](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11430>) S. [964](<https://www.parlament.gv.at/gegenstand/BR/I-BR/964>).)
+
+Der Nationalrat hat beschlossen:

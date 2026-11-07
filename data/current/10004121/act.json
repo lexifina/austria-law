@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004121",
+  "short_title": "Transitursprungszeugnisse - gegenseitige Anerkennung (Spanien)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Spanien",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004157",
+    "valid_from": "1972-05-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004121&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:25:20.667872+00:00",
+    "response_sha256": "f6a6acadd094073dccc48a33936b216cfe90a1c3f8d88263863317a2e46159f2",
+    "snapshot_sha256": "9d0a7e092b0fe353a89c11291ac259ea3c83e071705349bdb4baf4bb6dcf44ec",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3547309c02723cec8f7ec8faea3f46938b364417b14e92b9a937dcca7fb8e60a",
+      "sha256": "bce8c97a2f07ec5b8c8709397b958466485561095fc3c94d5063d542f8a3d9e3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung von Spanien betreffend die gegenseitige Anerkennung von Transitursprungszeugnissen StF: BGBl. Nr. 249/1972"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 249/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_249_0/1972_249_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "VERBALNOTE",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5d825bf9b7ebe36a72c225fefae482add8d954d94eca1e85854583adebdc105",
+      "sha256": "ab83b0108e7baa676d7cc64d22867de52c2d0c154b5ee8cc7ce0d6887d537b70",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

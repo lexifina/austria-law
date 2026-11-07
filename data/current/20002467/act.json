@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002467",
+  "short_title": "Konditoren-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002705",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002467&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:47:12.967517+00:00",
+    "response_sha256": "a7b2148072c8da28a59d912cefffad765a93e783dd1bf1414d314c7dc5592950",
+    "snapshot_sha256": "6ad12b5b510ad5ebbad59d72861be72078223f4f746cf3a5dcf3a392c4046994",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f17045ea3999ec4d739214e28ea98ea320a7ab6bf16da9af3a137cb46268d984",
+      "sha256": "30a44cb7568021b14f83677b3a7d9f3e6450b80b9c17e2d3ba538057db675297",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das Handwerk der Konditoren (Zuckerbäcker) einschließlich der Lebzelter und der Kanditen-, Gefrorenes- und Schokoladewarenerzeugung (Konditoren-Verordnung) StF: BGBl. II Nr. 63/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 399/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 63/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_63_2/2003_63_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 399/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/399"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "84264b1e932bc9c6d51cbddc068abd8b2cccb9117fa4c8b76a1062fdd92f1a6e",
+      "sha256": "38827bf424579367c6b91d8d56ab3116265238f87c9ba35bbdb1f99250e81e68",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus über belastete Gebiete (Luft) 2019 StF: [BGBl. II Nr. 101/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/101>) \[CELEX-Nr.: [32011L0092](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0092:DE:HTML>), [32014L0052](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0052:DE:HTML>)\]
+
+Auf Grund des § 3 Abs. 10 des Umweltverträglichkeitsprüfungsgesetzes 2000 (UVP-G 2000), [BGBl. Nr. 697/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 80/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/80>), wird verordnet:

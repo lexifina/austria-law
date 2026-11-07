@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die niederösterreichischen Umland-Bezirksgerichte Wiens niederösterreichischen Gerichtshöfen zugewiesen werden StF: [BGBl. Nr. 91/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_91_0/1993_91_0.pdf>) (NR: GP XVIII [RV 715](<https://www.parlament.gv.at/gegenstand/XVIII/I/715>) [AB 775](<https://www.parlament.gv.at/gegenstand/XVIII/I/775>) [S. 101.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/101>) BR: [4477](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4477>) [AB 4467](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4467>) [S. 564.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/564>))
+
+Der Nationalrat hat beschlossen:

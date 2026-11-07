@@ -1,0 +1,3 @@
+Verordnung der Rundfunk und Telekom Regulierungs-GmbH (RTR-GmbH) betreffend die Erfassung und Zurverfügungstellung von Daten im Zusammenhang mit der Zuteilung und Nutzung von Rufnummern in einer zentralen Datenbank (Zentrale Rufnummern-Datenbank Verordnung – ZR-DBV) StF: [BGBl. II Nr. 535/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/535>)
+
+Auf Grund des § 65 Abs. 9 des Bundesgesetzes, mit dem ein Telekommunikationsgesetz erlassen wird (Telekommunikationsgesetz 2003 – TKG 2003), [BGBl. I Nr. 70/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_70_1/2003_70_1.pdf>) idF [BGBl. I Nr. 90/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/90>), wird verordnet:

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010748",
+  "short_title": "Errichtung einer weiteren Notarstelle in Mödling",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40217165",
+    "valid_from": "2019-08-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010748&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:02:26.627439+00:00",
+    "response_sha256": "9dcc62db2bcc90021eb3e9c9b5b4824c339ac713e428ed03d68f7ac052b3b77c",
+    "snapshot_sha256": "7a47c471eb8f59b8bd4b8ada6cd994b96dd7373142c00ed9d408c95274a2ea9c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80fa93c149e17ab660ee9165b074fc4f71105c038d2acee49cd4b033cf9387ce",
+      "sha256": "8806d07fae594511db9006b6f30d0ed820504904146e4fcec8881692e350070b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz über die Errichtung einer weiteren Notarstelle in Mödling StF: BGBl. II Nr. 251/2019"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 251/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/251"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/61"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b09411c5348932d4a7cb3727b64427f35a3f6fc18c19fa5d36d74a02df24220b",
+      "sha256": "b40edd1d7cbc8592e6615f568f46a9d86e5c91805450ba82fbc2f3822ae1dddd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

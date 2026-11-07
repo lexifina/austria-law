@@ -1,0 +1,1 @@
+Bundesgesetz über österreichische Beiträge an internationale Finanzinstitutionen (IFI-Beitragsgesetz 2008) StF: [BGBl. I Nr. 10/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/10>) (NR: GP XXIV [RV 15](<https://www.parlament.gv.at/gegenstand/XXIV/I/15>) [AB 68](<https://www.parlament.gv.at/gegenstand/XXIV/I/68>) [S. 14.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/14>))

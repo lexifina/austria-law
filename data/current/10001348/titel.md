@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 917 (1994), verabschiedet auf der 3376. Sitzung des Sicherheitsrats am 6. Mai 1994 StF: [BGBl. Nr. 444/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_444_0/1994_444_0.pdf>)

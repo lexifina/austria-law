@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001837",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001859",
+    "valid_from": "1935-09-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001837&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:16.928292+00:00",
+    "response_sha256": "2514cd5447d3eacad7ed9b52f6cd0d01e633c6d23056f11d972be7032f4e21cb",
+    "snapshot_sha256": "875582be25fdbba145dcb348fc3f1e8e0bdb3ef93f1a4ec14cd86b9f93d375f9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4da6ceaefc87886f07a7c68e13d9607b1f2f5149c2f5c51a724b1f28e65f472b",
+      "sha256": "87bda8b8f84e417092c244011dc84a0ab99045d4d317767be70d122c9dc83793",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes, betreffend die Ausdehnung des Geltungsbereiches des Österreichisch-britischen Rechtshilfeabkommens auf Kanada. StF: BGBl. Nr. 347/1935"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 347/1935",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=347/1935&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04fca69bcc1d867dfda0f81a6c0c16c3746836a7846161605d122216761f1206",
+      "sha256": "8270ef2d6f96585f9b27d02887705da0f2b0d39e7b6c2c20f18b1cea418bb71b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

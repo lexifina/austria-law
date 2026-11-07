@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010421",
+  "short_title": "Errichtung von zwei Notarstellen in Wien-Donaustadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209459",
+    "valid_from": "1985-12-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010421&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:43.097831+00:00",
+    "response_sha256": "88d93e724e2cdb733662c1449a8d89aaf634aeb83f87c597f8854ea1aed1d930",
+    "snapshot_sha256": "a6171312295c30235344c98feb18d4eda6634949dded478887c2b02621fe9908",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77a1654bb9faff6973153f2f63e2b1338bb7be995748d6a0233f8aafe5507abb",
+      "sha256": "50a2feabaee7a97082a4a5e1db2e2fa6364e9777b042689b1f48374666e7f22d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 2. Dezember 1985 betreffend die Errichtung von zwei Notarstellen in Wien-Donaustadt StF: BGBl. Nr. 534/1985"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 534/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_534_0/1985_534_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d18800552e0a1a80d02fa9ddc8ac6d18915ac2e6b00a71da4d7309f506239fbf",
+      "sha256": "1edee0dd356503ae55259ecf194459c43844707ef22bc6f882aa85383d954fa1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

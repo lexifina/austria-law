@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Einrichtung von Bakkalaureats-, Magister-, Diplom- und Doktoratsstudien an der Universität Linz (Studienstandortverordnung Universität Linz) StF: [BGBl. II Nr. 397/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_397_2/2000_397_2.pdf>)
+
+Auf Grund der §§ 11 Abs. 5 und 18 Abs. 4 des Bundesgesetzes über die Studien an den Universitäten (Universitäts-Studiengesetz – UniStG), [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 77/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_77_1/2000_77_1.pdf>), wird verordnet:

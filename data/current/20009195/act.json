@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009195",
+  "short_title": "PFAG-Kostenbeitragsverordnung 2015",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40170957",
+    "valid_from": "2015-06-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009195&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:28:08.890300+00:00",
+    "response_sha256": "a49a0de937aa7f3141a5a191461d76806c72533fd1c6b8c7fc2b16a601e0ae03",
+    "snapshot_sha256": "f1f3758345dc2847bfdc679c6e2963dba1446272d67c072c689d96800ff01a38",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "88924f4dcc23f25ca6d769763310648792f76cabd9a90c16a4238fd919226c1e",
+      "sha256": "2e260c3b65ac2eee69cd4386e1881ed466c22ac6112d1bc37ae1550828831186",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, lnnovation und Technologie über die Höhe der Beiträge der von Schlichtungsverfahren betroffenen Unternehmer (PFAG-Kostenbeitragsverordnung 2015) StF: BGBl. II Nr. 150/2015"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 150/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/150"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cad392d253e206f141236b7ab3dc3f41ce91d4517a4a4e704d5be74fcfb9e2de",
+      "sha256": "d87c4aface1589bb64d122f16e594ce1e97c3b7ee085e2051133a0b8158d5e30",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

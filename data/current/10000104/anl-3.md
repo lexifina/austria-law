@@ -1,0 +1,5 @@
+## Beilage, betreffend die “Frage der Verbindlichkeiten und Zinsen”.
+
+In Gemäßheit der Bestimmungen des § 5 des zwischen der Republik Österreich und dem Königreiche Ungarn zur Regelung der auf die Wasserrechtsverhältnisse auf dem Gebiete der Gemeinde Pamhagen bezüglichen juridischen Fragen geschlossenen Einkommens ist die Frage der Verbindlichkeiten zwischen dem Raabregulierungssyndikat und dem österreichischen Syndikate am 27. Juli bei einer Zusammenkunft des österreichischen und des ungarischen Kommissärs im Grenzregelungsausschuß in Anwesenheit der Herrn Hofrat P. Buckeisen und Oberbaurat K. Hofeneder, Vertreter des österreichischen Ministeriums für Handel und Verkehr und der Gebäudedirektion der Landesregierung in Sauerbrunn einerseits und des Herrn Sektionsrates Alexander Gillyen de Nagyenyed, Vertreters des ungarischen Ackerbauministeriums, und des Herrn Louis Jausz, Vertreters der Regulierungsgesellschaft, behandelt worden.
+
+Vorbehaltlich der Genehmigung der beiden Regierungen wurde nachstehendes beschlossen.

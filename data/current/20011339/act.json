@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011339",
+  "short_title": "Errichtung weiterer Notarstellen in Graz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40227514",
+    "valid_from": "2020-11-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011339&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:13:05.667815+00:00",
+    "response_sha256": "9f24ef7f0d3b254cb6ad95992757a2526b0f12f0d9e9830e7bf1e3207e3f4378",
+    "snapshot_sha256": "5ad196d401bbb92b264aa928a1634e467d160312574918be8e50c0d9466244d0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "61d199cc8df7765e4e51c5171002a2ddb87a1a2e9a902f7f110e707d75b1d9ad",
+      "sha256": "10732d437e0ca0d42491e3ff6ccd56c0eb08df8cf530d4bbf72b2f54adf5f758",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung weiterer Notarstellen in Graz StF BGBl. II Nr. 500/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 500/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/500"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef8d5933db5b901eaae2c2c47cfba354f1ec731bdb1bea5f4ebd0869064fbe99",
+      "sha256": "8608ff78944fc348b400631749c5c2848f12f8fff19db91680f4d9197b2d394d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

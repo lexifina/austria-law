@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 1998 StF: [BGBl. I Nr. 11/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_11_1/2000_11_1.pdf>) (NR: GP XXI [AB 27](<https://www.parlament.gv.at/gegenstand/XXI/I/27>) [S. 6.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/6>))

@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Österreichischen Botschaft in Madrid und dem spanischen Ministerium für Auswärtige Angelegenheiten über die Verlängerung der Schutzfrist für Werke der Literatur und der Kunst. StF: [BGBl. Nr. 256/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_256_0/1961_256_0.pdf>)

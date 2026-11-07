@@ -1,0 +1,3 @@
+Bundesgesetz über eine Verhältnismäßigkeitsprüfung vor Erlassung neuer Berufsreglementierungen (Verhältnismäßigkeitsprüfungs-Gesetz – VPG) StF: [BGBl. I Nr. 67/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/67>) (NR: GP XXVII [RV 645](<https://www.parlament.gv.at/gegenstand/XXVII/I/645>) [AB 712](<https://www.parlament.gv.at/gegenstand/XXVII/I/712>) S. 89. BR: [AB 10594](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10594>) S. [924](<https://www.parlament.gv.at/gegenstand/BR/I-BR/924>).) \[CELEX-Nr.: [32018L0958](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L0958:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

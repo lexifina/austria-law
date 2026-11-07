@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend das Inkrafttreten des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Republik Senegal über Entwicklungszusammenarbeit StF: [BGBl. Nr. 861/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_861_0/1993_861_0.pdf>)

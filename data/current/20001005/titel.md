@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Gliederung der Universität Wien, der Universität Innsbruck, der Technischen Universität Wien und der Technischen Universität Graz in Fakultäten StF: [BGBl. II Nr. 373/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_373_2/2000_373_2.pdf>)
+
+Auf Grund des § 6 Abs. 2 des Bundesgesetzes über die Organisation der Universitäten (UOG 1993), [BGBl. Nr. 805/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_805_0/1993_805_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 132/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_132_1/1999_132_1.pdf>), wird im Einvernehmen mit dem Hauptausschuss des Nationalrates verordnet:

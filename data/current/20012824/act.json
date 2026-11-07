@@ -1,0 +1,516 @@
+{
+  "sample_only": false,
+  "included_provisions": 21,
+  "source_provision_count": 21,
+  "schema_version": 1,
+  "gesetzesnummer": "20012824",
+  "short_title": "Vet-FachinformationsV",
+  "abbreviation": "VetFIV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40268196",
+    "valid_from": "2025-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012824&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:44:10.013096+00:00",
+    "response_sha256": "eb362e4cc1951c3850d291fd2682d01b33dadd856b22d4982e6a5febec6298fd",
+    "snapshot_sha256": "a9854bfb707c614a665f01c57297e61acc23b47af58be1625d695cd620350882",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c5b83fbfe6995f1d64f9c6840abf951bd5a91b0ab059df08d448e86c56380be",
+      "sha256": "3f5d2a2ad8a5d99cf92816cb2c0b08945de9feaeaa30408a7459b5ad30cd4b91",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Fachinformation von Tierarzneimitteln (Vet-FachinformationsV – VetFIV) StF: BGBl. II Nr. 10/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 10/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/10"
+        },
+        {
+          "text": "BGBl. I Nr. 186/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/186"
+        },
+        {
+          "text": "BGBl. I Nr. 53/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/53"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8db0e259fb2f0707aa9b7ab3eee8e73ec57e8424a5c76af5d08bb6a197347033",
+      "sha256": "83b7247c56d11ec752510ae43dad5c34518cf2d32bd10f37efdb519cba74a983",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 186/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/186"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Austria Codex-Fachinformation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "28ec45def67decad7ceceda6e4f46f23ef087cb4daa12a6b0c69ccd060dcb001",
+      "sha256": "38b5284d6369d7d11a828e66c20307086ff973fde288c141099199b598d524a4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 175/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/175"
+        },
+        {
+          "text": "BGBl. Nr. 185/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Bezeichnung der Veterinärarzneispezialität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "035501e26cc88cfe26194bbe0c1a1f0fd7e6f8e8fd5cd32d03aafeca6204587d",
+      "sha256": "f0a30d824d099b43b04db06682643bf611ac2247cf7dd770f2d0bc4ce0d8bfb4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Qualitative und quantitative Zusammensetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d691697808fe5b5e1593153dc95a4b184d991d6997d7d39e04b61e7ec3fb7a61",
+      "sha256": "614817864246c067b6e2f7edf7360c4fc2e818f59cfd488a179ed7b224fdc8c8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 44/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/44"
+        },
+        {
+          "text": "BGBl. Nr. 152/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Zieltierarten und Anwendungsgebiete",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d73df163679e56277861a9e09606008e535cac6e7c7fec2544756761f7906f3b",
+      "sha256": "a08ff76fc628895d7362d3a6c351143165e5a67d1c416f068811a4fa98241f44",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Gegenanzeigen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80f241c12c3a2aab86dfa943b1a7ed3aeff40a743f4fc0b88174f1fe033ae1e4",
+      "sha256": "9ac6af29c608a64edf91b236d6625f6e550fb12966b634ab86550c2367e2c5d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Nebenwirkungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b618682a510d5f0ae436c5386dedeb393051c850c0904b0e3862a665c007f74a",
+      "sha256": "e2c6684891acc67d3c798a5dcd1868d8676970a9f999807f9baf7f4c9ab64614",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Anwendung während der Trächtigkeit, Laktation oder Legeperiode",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6646cc6ae384827c44b12bdee2c064826ce2c496c838693f9f2d514d3a0923ff",
+      "sha256": "392ff7cdd984845377cf93e95604afdffa92fa4819edddb2f536504de2c87ae1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Wechselwirkungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3c0bb1d5b25557e4d0919986132378b9dec848aa741beeec8d99f4c6f1fd58c",
+      "sha256": "83a12d156615823e75bc3cf7240149a0a5d526f92768717d0c3916b2f3be0a1c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Dosierung, Art und Dauer der Anwendung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66a9dde396665184f824e18bc80af354c395809ba38755218769d35e644a86b8",
+      "sha256": "f85b08f7c63c6daf8fbaee7748fd9bb33b5be1f426b5d580ba2ea4a19fd95050",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Überdosierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2cc0cfcbc3e68d0ab55b068c5999fbdca091f65d91387108264e0763227f0216",
+      "sha256": "c6fe9ad12d4efd00b23b43739a652d8e7669d80fad4c7b8202fd0ad339360152",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Wartezeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f12cd4c4cffc0c30ff9264051e98e017a00078bdd1234686c376f61ce8ec85d8",
+      "sha256": "94c2348166416ff005ebd4bb1e1bbcb463f96dea5c3a704fe62a413cb3aff1d2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Pharmakologischebzw. Immunologische Angaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a6c90d0c2cbe704a47828ba7ea7df45ef593539eacc27a85fc683960ca365de",
+      "sha256": "9ac2565ead4c2f60143cc5393c342cac79823a03d2d9cdd0b80705d6d9a98f71",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Hauptinkompatibilitäten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f7d209dd9525735f5a3238d964b9bb6f07bad05b4c3314f74f42f2acae9d41b6",
+      "sha256": "59bab995abdff97768632d917f39ef7eefeb6d27c87e2c6a857c29c74f0d3d74",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Haltbarkeitsdauer und Lagerungshinweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d79ba44d10d8abdad86a614083d5304711e86f2a6396bf0ffece13373f797078",
+      "sha256": "c47ec55c05c551aec75d56e31db7617099f8981c72ba9581618b7119320778fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Art und Beschaffenheit des Behältnisses",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d8a29dc12d28104db2d8e778c2808e339177b36252972c08ab0c8c7636af8cce",
+      "sha256": "68f1b08d4683e58665f2f61deb1f479bca79cc47e5adf67011b75c11b14277a2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Angaben zur Zulassung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1d55f91ffe20d3c03d19c64e1531d65423d6a02e67036182ad81a1176f262f0",
+      "sha256": "49cddea34f24f7290ea5bd097b6869ed781a30a268993860f15fa08bc3727f8b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Stand der Information",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d28eabb3c25440ba90ab01865c4ae92b9a344c05215128eec6cd3910fcbbc12",
+      "sha256": "d3b0cb5b618b6d67bb02ebe59bcb496cce11666cb7069d50673b5d1e9474c54a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Einstufung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "23fc4b1d68fba9504090406c866532fd07e0675264bcf19393fd4e4430729cc3",
+      "sha256": "33f4d01effe049b9482def6c29d4bc68ac9fc3e6c7d4545178dc75af7f16594a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 413/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_413_0/1972_413_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be75c174eff2d81b2e3f6cf2ccdfaa6d426c47438c77a1493fcc1a4fe727c928",
+      "sha256": "4245349a72d08309456c2d90533231f71f1a61f008d7d9e044f8c94fb2e44ad0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

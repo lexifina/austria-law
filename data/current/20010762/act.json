@@ -1,0 +1,709 @@
+{
+  "sample_only": false,
+  "included_provisions": 13,
+  "source_provision_count": 13,
+  "schema_version": 1,
+  "gesetzesnummer": "20010762",
+  "short_title": "Gaskennzeichnungsverordnung",
+  "abbreviation": "G-KenV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40253954",
+    "valid_from": "2024-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010762&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:02:39.661228+00:00",
+    "response_sha256": "30718183eeabbcf86bef0bf04e9126ae199ad4dafb83947dcef9344eeedb9add",
+    "snapshot_sha256": "7f4ef7e42166e68428ee88f698af037f20f22c6bdb6f0289365270d409dc53d4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fdeafb4c53e537c8bca1e3a34f7b269bc52b5adcc34fcd8e9651479b6d929867",
+      "sha256": "a7c0a26ba697dc015ccece065f8469411130644844b873c3ea5a4b3a52e06c44",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der E-Control über die Regelungen zur Gaskennzeichnung und zur Ausweisung der Herkunft nach Primärenergieträgern (Gaskennzeichnungsverordnung – G-KenV) StF: BGBl. II Nr. 275/2019"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 47/2022 BGBl. II Nr. 216/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 275/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/275"
+        },
+        {
+          "text": "BGBl. II Nr. 47/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/47"
+        },
+        {
+          "text": "BGBl. II Nr. 216/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/216"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107"
+        },
+        {
+          "text": "BGBl. I Nr. 23/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/23"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c44970b993739b624d57c54f7a9dc3cb87e2cdbe813e3c806f77a5fa4605a84d",
+      "sha256": "bfdc6b5939362a78fd8a18407342be5a84c910e93161a94ac27403a1a6264b69",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "add78e73f11a720ae2540bd88e71db306fdf4567adbbc6c34f0d5535ebb994dc",
+      "sha256": "5da121e18990fcf980d74552ee45924c8ef5c2bdee87da11a64fecb5cf252262",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 2"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 47/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/47"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Ausgestaltung der Gaskennzeichnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5d006f0a655520001f0549e7c792807e360e6903cfabf38b6b72ce3033bdb8b",
+      "sha256": "3ce382d33f892abeb7369644780c1f5aecefeb66da8c3c31a1fc123bb9c75ab8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Ausweisung des Versorgermixes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e069121103e7067f5a1c7de78459d5ca63f3c81a7f07eb18c3fa6a06b442009",
+      "sha256": "97732218fa9caf11ec70394c630304935fa1e97ec75a131aae6b9fa33aa85e84",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 124/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/124"
+        },
+        {
+          "text": "BGBl. II Nr. 88/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/88"
+        },
+        {
+          "text": "BGBl. II Nr. 85/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/85"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4a",
+      "source_heading": "Umwandlung und Speicherung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0004a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a059de95b65e5f441148d4b6c0332bd255c2f6e9d069080754a29fb145303e4",
+      "sha256": "7f0d3837b459751b9a61ac1070d574cffe145c51d975d6cc8e2bfd009721cbf6",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Ausweisung der Umweltauswirkungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5540496e6570927560f3b2d31cc7a36db03f2a1ac828862935cd1a34232662a6",
+      "sha256": "c8759231227fe19111a0621e7f36be9dd953294318d974fe0598437d89d1a11c",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Ausweisung des Produktmixes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3f6e54be220e279f38f97330061af80fa35574be77855918a66470fd5f9d913",
+      "sha256": "8d39a3ae4c529568aef1f5873af996cd23836a69d1d86e74026b4ef501425d3b",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "3. Abschnitt Einsatz und Anerkennung von Herkunftsnachweisen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cae6686a3445d975f95d399cc684f9adc49fcc88f6ad866c6bcc0e8169a81df",
+      "sha256": "1517ead25ea98ae2c2e3614874474614cc6a7b08a46f9cc315ae609163efe822",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Internationaler Handel von Herkunftsnachweisen und Anerkennung für die Gaskennzeichnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f6d0f8a8a88d1f25ed31fed68dc20f6438ffab74ff7a094d7f30f7d26977f40",
+      "sha256": "dbbdf7b9085e2b3ff76322679e70f3300638a856889e18e1c7f0fd8fa0705a15",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "4. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b3a07b023d3a932bd96ea4a601fce0903a7db1a4b80587a5ed201918aac935b",
+      "sha256": "f9079e75fa4df81000cf9682082e8a783804fa1d3af977a10f11c11750324487",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0be9e133873b29dacc9bc2f1345701f29a4926b1028084a34f1da8c982c319cd",
+      "sha256": "f695c7cacca58113e42017d653d86419b5f613d23d9334bf5e8813cf0d5b1e28",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 10 Abs. 3"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 47/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/47"
+        },
+        {
+          "text": "BGBl. II Nr. 216/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/216"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "694b49fb003f3bdfddd669ff2992072b5c6ffda3d7d11680751c658290c84f19",
+      "sha256": "c944a65922e31a676e4f38a1fa850b3fa976220a6917581dd6cd8744baf3af52",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "A) Erdgas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "A.1. Natürliches Erdgas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "A.2. Synthetisches Gas auf Basis von Erdgas als Energieträger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B) Erneuerbare Gase",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1 Biomethan",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1 Biomethan auf Basis von Biogas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.1 Biomethan auf Basis von Biogas aus landwirtschaftlichen Stoffen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.1.1 Reststoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.1.1.1 Wirtschaftsdünger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.1.1.2 Stroh",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.1.1.3 Sonstige Reststoffe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.1.2 Energiepflanzen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.2 Biomethan auf Basis von Biogas aus Reststoffen der Lebensmittelindustrie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.3 Biomethan auf Basis von Biogas aus Reststoffen der getrennten Sammlung aus Haushalten, Gastronomie, Großküchen etc.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.1.4 Biomethan auf Basis von Biogas aus sonstigen biogenen Reststoffen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.2 Biomethan auf Basis von Deponiegas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.3 Biomethan auf Basis von Klärgas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.4 Biomethan aus Holzgas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.4.1 Biomethan auf Basis Waldrestholz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.4.2 Biomethan aus Sägenebenprodukten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.4.3 Biomethan aus Holzabfällen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.1.5 Biomethan sonstigen Ursprungs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.2 Wasserstoff auf Basis erneuerbarer Energieträger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.2.1 Wasserstoff auf Basis von elektrischer Wind- und Sonnenenergie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.2.2 Wasserstoff auf Basis von sonstiger, erneuerbarer elektrischer Energie (nicht B.2.1)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.2.2 Wasserstoff auf Basis von sonstiger, erneuerbarer Quellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.3 Synthetisches Gas auf Basis erneuerbarer Energieträger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.3.1 Synthetisches Gas auf Basis von elektrischer Wind- oder Sonnenenergie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.3.2 Synthetisches Gas auf Basis von sonstiger, erneuerbarer elektrischer Energie (nicht B.3.1.)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.3.2 Synthetisches Gas auf Basis von sonstiger, erneuerbarer Quellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "B.4 Andere erneuerbare Gase (unspezifisch)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C) Sonstige Gase",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.1 Dekarbonisiertes Gas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.2. Kokereigas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.3 Gichtgas",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.4 Wasserstoff auf Basis sonstiger Energieträger (nicht B.2)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.4.1 Wasserstoff auf Basis fossiler Energieträger",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.4.2 Wasserstoff auf Basis nuklearer Energie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.5 Synthetisches Gas auf Basis sonstiger Energieträger (nicht B.3)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.5.1 Synthetisches Gas auf Basis fossiler Energieträger (nicht A.)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.5.2 Synthetisches Gas auf Basis nuklearer Energie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "C.5 Gas sonstigen Ursprungs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000901",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters von Bregenz",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000904",
+    "valid_from": "1987-02-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000901&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:37:49.973081+00:00",
+    "response_sha256": "72979bd7a8ab3e29ab4013b3db5e2eb99ba4ba4ebb843108f520b03bd26779ec",
+    "snapshot_sha256": "51a1622f471019de75adeae982242960fb259eb38679f142e9669f1e8e1ff3ba",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86000617664230e4ee315402c3be09d00e8976b8e9d4a0e24853e6b130e80039",
+      "sha256": "c58ef6c15397e8d15229638ede259806a66af82c152828e5d799616627507dd4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. Jänner 1987 über die Aufhebung der Z 1 des § 1 der Verordnung des Bürgermeisters der Landeshauptstadt Bregenz, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 62/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 62/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_62_0/1987_62_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a86ee1f6c3334ec7361122f6e311e7c14b900f3460c75020d639485f79ab913e",
+      "sha256": "fc2118d505d495303f25a8600500efb9a1a4eb141ebf5b092d60ffb07aa345dd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

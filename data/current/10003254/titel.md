@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: [BGBl. Nr. 484/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_484_0/1994_484_0.pdf>) idF [BGBl. Nr. 457/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_457_0/1995_457_0.pdf>) (DFB)

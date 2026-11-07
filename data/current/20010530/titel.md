@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus über Sicherheiten, Lizenzen, Bescheinigungen und Überwachungsdokumente für Marktordnungswaren (Marktordnungs-Sicherheiten- und Lizenzenverordnung) StF: [BGBl. II Nr. 375/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/375>)
+
+Auf Grund der §§ 6 Abs. 1, 7 Abs. 1 Z 1, 14 Abs. 1, 15 Abs. 4 Z 1 und 22 des Marktordnungsgesetzes 2007 (MOG 2007), [BGBl. I Nr. 55/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/55>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 46/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/46>), wird verordnet:

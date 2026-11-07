@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Energie und Tourismus über die Berufsausbildung im Lehrberuf Maler- und Beschichtungstechnik (Maler- und Beschichtungstechnik-Ausbildungsordnung) StF: [BGBl. II Nr. 141/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/141>)
+
+Auf Grund der §§ 8 und 24 des Berufsausbildungsgesetzes (BAG), [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 62/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/62>) und der Bundesministeriengesetz-Novelle 2025, [BGBl. I Nr. 10/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/10>), wird verordnet:

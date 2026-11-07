@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. Mai 1961 über den Geltungsbereich des Zweiten Protokolls zum Abkommen über die Privilegien und Immunitäten des Europarates. StF: [BGBl. Nr. 196/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_196_0/1961_196_0.pdf>)

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20007991",
+  "short_title": "Verlegung des Amtssitzes der Notarstelle Wilhelmsburg nach Sankt Pölten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40142398",
+    "valid_from": "2012-09-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007991&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:08:49.901485+00:00",
+    "response_sha256": "12a97b85d61aca59712df6f4d918061abbba4354435eeb401f4b0deb5d4294bc",
+    "snapshot_sha256": "23abe2fad0e8bf9ca184d52ddb86b8428c1aff7e57b63eaaca7a96c9e4a99cf7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e45d8cbcd94d49749de96c83c1cfd688762d61987c4cd8c7a9f46ba327c4d03",
+      "sha256": "5133b17d2a0f6ee221d907ff1c770017987ebc93cc8e986d822a82fe4d80f02b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Verlegung des Amtssitzes der Notarstelle Wilhelmsburg nach Sankt Pölten StF: BGBl. II Nr. 308/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 308/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/308"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "782c05f4e369b8702a7650339031fd82516f258921b8a1a4736c61ab1c1b72d6",
+      "sha256": "63f2d38b874ea9c3964cb53ad224f71049b5a39301878bce71504ff04f147d5f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

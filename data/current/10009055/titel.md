@@ -1,0 +1,1 @@
+Erlöschen des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Republik Finnland über den Austausch von Gastarbeitnehmern zwischen Österreich und Finnland StF: [BGBl. III Nr. 134/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_134_3/1997_134_3.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008291",
+  "short_title": "Physikatsprüfungsverordnung – 1. Ergänzung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008441",
+    "valid_from": "1873-09-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008291&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:18:15.009253+00:00",
+    "response_sha256": "48b372e9d19cdcd89e75eeaf6c14b182ff1e87deb38450a0f9adc26a5704fb06",
+    "snapshot_sha256": "bbb7e2e1a8ce95f48fbeeae5712b0e2a34f3411bd179c6183e23dcdd28de40d4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "212d4a76292bc46555d20eb65c1db6749323e8d12d3fc79584a205b95bf5d200",
+      "sha256": "ab8f705c9e5fab8ade490dd478f478cc0a2f3b649b57d92e61267b962c393073",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Ministers des Innern vom 27. August 1873, betreffend den Umfang der Prüfungsgegenstände bei der Prüfung der Aerzte zur Erlangung einer bleibenden Anstellung im öffentlichen Sanitätsdienste bei den politischen Behörden StF: RGBl. Nr. 139/1873"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 139/1873",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=139/1873&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97814eb3689dddf0e166da97c51dd3ce3ee448998dad436428f217523a5517e0",
+      "sha256": "6509281d27f6287af5660572702c9212ba318c995416c383a1e586cc58bbecf8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

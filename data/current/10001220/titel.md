@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 787 (1992), verabschiedet auf der 3137. Sitzung des Sicherheitsrats am 16. November 1992 StF: [BGBl. Nr. 822/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_822_0/1992_822_0.pdf>)

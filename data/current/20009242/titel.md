@@ -1,0 +1,3 @@
+Bundesgesetz über alternative Streitbeilegung in Verbraucherangelegenheiten (Alternative-Streitbeilegung-Gesetz – AStG) StF: [BGBl. I Nr. 105/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/105>) (NR: GP XXV [RV 697](<https://www.parlament.gv.at/gegenstand/XXV/I/697>) [AB 772](<https://www.parlament.gv.at/gegenstand/XXV/I/772>) S. 85. BR: [AB 9411](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9411>) S. [844](<https://www.parlament.gv.at/gegenstand/BR/I-BR/844>).) \[CELEX-Nr.: [32013L0011](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0011:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

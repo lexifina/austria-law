@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Verordnung) StF: [BGBl. II Nr. 228/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_228_2/2000_228_2.pdf>) \[CELEX-Nr.: [394L0058](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0058:DE:HTML>), [398L0035](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0035:DE:HTML>)\]
+
+Auf Grund des § 11 Abs. 3 des Seeschifffahrts-Erfüllungsgesetzes - SSEG, [BGBl. Nr. 387/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_387_0/1996_387_0.pdf>), wird verordnet:

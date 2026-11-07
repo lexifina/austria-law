@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für europäische und internationale Angelegenheiten über die Wahrnehmung konsularischer Aufgaben durch die österreichischen Vertretungsbehörden im Ausland (Konsularverordnung – KonsV) StF: [BGBl. II Nr. 327/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/327>) \[CELEX-Nr.: [32015L0637](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L0637:DE:HTML>)\]
+
+Auf Grund der §§ 4 Abs. 1 und 5 Abs. 3 des Bundesgesetzes über die Wahrnehmung konsularischer Aufgaben (Konsulargesetz – KonsG), [BGBl. I Nr. 40/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/40>), wird verordnet:

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002010",
+  "short_title": "Verlängerung der Schutzfrist für Werke der Literatur und Kunst (Spanien)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Spanien",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002033",
+    "valid_from": "1961-11-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002010&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:56:14.707281+00:00",
+    "response_sha256": "4f659695979e31ed9fc4279a47ace84657614546762909c57f57c9078d4088d1",
+    "snapshot_sha256": "b86d040a6c525b876bd3754d9b36311d27544ff56b8c116599792055caeb9dd9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1cf6e690013459d791c4c0ca48a5942f77a08c3af35a6c928505475fdb87c61a",
+      "sha256": "b53a51e971a55d980c7644d2fbf97dad21bb93b9f6cfb8f1003b11e84c28decf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Österreichischen Botschaft in Madrid und dem spanischen Ministerium für Auswärtige Angelegenheiten über die Verlängerung der Schutzfrist für Werke der Literatur und der Kunst. StF: BGBl. Nr. 256/1961"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 256/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_256_0/1961_256_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5ba0c65075e421a1b64c679ab2afdae9fd792b74760ae6036d19354c9c82be7",
+      "sha256": "24a6081dbe0a5206256c82f29ab8dd9901d5fb46599bcc02964dd43d3d799c09",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 106/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_106_0/1953_106_0.pdf"
+        },
+        {
+          "text": "BGBL. Nr. 111/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=111/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

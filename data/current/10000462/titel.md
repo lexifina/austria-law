@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 5. Mai 1969, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung und Vollziehung verwaltungsstrafgesetzlicher Bestimmungen gegen den Mißbrauch von Zeichen, Einrichtungen und Vorrichtungen, mit denen einer Gefährdung von Personen und Sachen begegnet werden soll StF: [BGBl. Nr. 157/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_157_0/1969_157_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 10. März 1969, K II-3/68-17, dem Bundeskanzleramt zugestellt am 2. Mai 1969, zusammengefaßt hat:

@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) zur Festsetzung der Kriterien für die Führung der geschäftsplanmäßigen Rückstellung für die nach Pensionsbeginn anfallenden Verwaltungskosten (Verwaltungskostenrückstellungsverordnung 2013 – VKRStV 2013) StF: [BGBl. II Nr. 381/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/381>)
+
+Auf Grund des § 20 Abs. 5 Pensionskassengesetz – PKG, [BGBl. Nr. 281/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_281_0/1990_281_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 184/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184>), wird verordnet:

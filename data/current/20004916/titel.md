@@ -1,0 +1,15 @@
+(Übersetzung) ZWEITE NIEDERSCHRIFT (PROCESVERBAL) BETREFFEND DIE VERLÄNGERUNG DER DEKLARATION ÜBER DEN PROVISORISCHEN BEITRITT ARGENTINIENS ZUM ALLGEMEINEN ZOLL- UND HANDELSABKOMMEN (GATT) StF: [BGBl. Nr. 122/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_122_0/1965_122_0.pdf>) (NR: GP X [RV 597](<https://www.parlament.gv.at/gegenstand/X/I/597>) [AB 610](<https://www.parlament.gv.at/gegenstand/X/I/610>) [S. 74.](<https://www.parlament.gv.at/gegenstand/X/NRSITZ/74>) BR: [S. 224.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/224>))
+
+Die Vertragsparteien der Deklaration vom 18. November 1960 über den provisorischen Beitritt Argentiniens zum Allgemeinen Zoll- und Handelsabkommen (im folgenden als „die Deklaration“ beziehungsweise als „das Allgemeine Abkommen“ bezeichnet) sind
+
+IN ANWENDUNG des Absatzes 4 der Deklaration ÜBEREINGEKOMMEN wie folgt:
+
+Die vorliegende Niederschrift ist für Österreich gemäß ihrer Ziffer 2 am 17. Mai 1965 in Kraft getreten.
+
+Nachdem die Zweite Niederschrift (Proces-Verbal) betreffend die Verlängerung der Deklaration über den provisorischen Beitritt Argentiniens zum Allgemeinen Zoll- und Handelsabkommen (GATT), welche also lautet:
+
+die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der gemäß Artikel 64 des Bundes-Verfassungsgesetzes die Funktionen des Bundespräsidenten ausübende Bundeskanzler diese Niederschrift für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der in dieser Niederschrift enthaltenen Bestimmungen.
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde von dem gemäß Artikel 64 des Bundes-Verfassungsgesetzes die Funktionen des Bundespräsidenten ausübenden Bundeskanzler unterzeichnet, vom Vizekanzler, vom Bundesminister für Finanzen, vom Bundesminister für Land- und Forstwirtschaft, vom Bundesminister für Handel und Wiederaufbau und vom Bundesminister für Auswärtige Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, am 13. April 1965.

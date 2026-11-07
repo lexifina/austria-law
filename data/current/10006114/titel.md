@@ -1,0 +1,5 @@
+(Übersetzung) Additional-Artikel zu dem zwischen Österreich und Griechenland unterm 4. März 1835 geschlossenen Handels- und Schiffahrts-Tractate vom 12. Juni 1856, die Behandlung der beweglichen Verlassenschaften der beiderseitigen Unterthanen betreffend. StF: [RGBl. Nr. 169/1856](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=169/1856&amp;SkipToDocumentPage=True>)
+
+Herr Freiherr von Walter, Minister-Resident Seiner Majestät des Kaisers von Oesterreich, Königs von Ungarn und Böhmen, ec. ec., einerseits, und Herr Alexander Rizo-Rangabe, Minister des königlichen Hauses und der auswärtigen Angelegenheiten Seiner Majestät des Königes von Griechenland, andererseits, von ihren Regierungen insbesondere bevollmächtiget zu dem Zwecke, um sich über den Wirkungskreis der Gerichtsbehörden beider Staaten in Bezug auf die beweglichen Verlassenschaften der in Griechenland verstorbenen österreichischen Unterthanen, oder der in Oesterreich verstorbenen griechischen Unterthanen zu vereinbaren, haben festgesetzt, wie folgt:
+
+Die beiderseitigen Ratificirungen wurden ausgewechselt zu Athen am 22. August 1856.

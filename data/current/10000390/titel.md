@@ -1,0 +1,3 @@
+Bundesgesetz vom 18. März 1964 über die Verwendung der zufließenden Mittel aus dem Vertrag zwischen der Republik Österreich und der Volksrepublik Bulgarien zur Regelung offener finanzieller Fragen (Verteilungsgesetz Bulgarien). StF: [BGBl. Nr. 129/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_129_0/1964_129_0.pdf>) (NR: GP X [RV 360](<https://www.parlament.gv.at/gegenstand/X/I/360>) [AB 380](<https://www.parlament.gv.at/gegenstand/X/I/380>) [S. 45.](<https://www.parlament.gv.at/gegenstand/X/NRSITZ/45>) BR: [S. 215.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/215>))
+
+Der Nationalrat hat beschlossen:

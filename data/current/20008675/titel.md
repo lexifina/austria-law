@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Abkürzung, Name und Emblem der Europäischen Fischereiaufsichtsagentur (EFCA) StF: [BGBl. II Nr. 388/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/388>)

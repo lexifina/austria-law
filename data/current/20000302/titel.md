@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz über die gesonderte Festsetzung der Pauschalvergütung des Bundes für die von Rechtsanwälten in überdurchschnittlich lang dauernden Verfahren nach § 16 Abs. 4 RAO erbrachten Leistungen für das Jahr 1998 StF: [BGBl. II Nr. 499/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_499_2/1999_499_2.pdf>)
+
+Auf Grund des § 47 Abs. 5 der Rechtsanwaltsordnung, [RGBl. Nr. 96/1868](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=96/1868&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_71_1/1999_71_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Hauptausschuss des Nationalrats verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend die Übertragung der operationellen Abwicklung der Ausgangsbestätigungen im Rahmen des sogenannten Touristenexportes an Unternehmen (Zoll-Touristenexport-Informatikverordnung 2019 – Zoll-TE-Inf-V 2019) StF: [BGBl. II Nr. 344/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/344>)
+
+Aufgrund des § 6a des Zollrechts-Durchführungsgesetzes, BGBl. Nr. 659/194 (Anm.: richtig: [BGBl. Nr. 659/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_659_0/1994_659_0.pdf>)) (ZollR-DG), zuletzt geändert durch [BGBl. I Nr. 62/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/62>), wird verordnet:

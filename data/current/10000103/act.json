@@ -1,0 +1,87 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000103",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000103",
+    "valid_from": "1928-07-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000103&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:22:46.071953+00:00",
+    "response_sha256": "77c3e070909c1accd879319fddcf19525a50206a162ef1eefee1c77132ebba93",
+    "snapshot_sha256": "2b3021b2e8d3e1c287fbda99daa036670305393e4561c281aa040cdad2696190",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "970c3cb4ff16d559a5f11805504052ed0394dcc071fd897205d0b8f41d4c64f0",
+      "sha256": "995cf34915f362e5d932f85d8b5b3b11e771bbdf388b773511f46f86fde42bbd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 2. Juli 1928, betreffend die Feststellung des Verfassungsgerichtshofes in der Frage, ob durch Bundesgrundsatzgesetz eigene Bundesorgane mit der Vollziehung betraut werden dürfen. StF: BGBl. Nr. 171/1928"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 171/1928",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=171/1928&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a2d230400d8dbd0fe352d5935f505b75d611dadab61d7f7be59ae78dda6fc3ca",
+      "sha256": "65e607896feaa902a524da60fa999ddac25913d12cc8abee4a800c717f78cf85",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12002078/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

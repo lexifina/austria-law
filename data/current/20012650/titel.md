@@ -1,0 +1,3 @@
+Bundesgesetz über Qualifizierte Einrichtungen zur kollektiven Rechtsverfolgung (Qualifizierte-Einrichtungen-Gesetz – QEG) StF: [BGBl. I Nr. 85/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/85>) (NR: GP XXVII [RV 2602](<https://www.parlament.gv.at/gegenstand/XXVII/I/2602>) [AB 2616](<https://www.parlament.gv.at/gegenstand/XXVII/I/2616>) S. 274. BR: [AB 11566](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11566>) S. [970](<https://www.parlament.gv.at/gegenstand/BR/I-BR/970>).) \[CELEX-Nr.: [32020L1828](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32020L1828:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Inhalt und Gliederung der Information eines Versicherungsunternehmens an Anwartschaftsberechtigte, Leistungsberechtigte oder Versicherte der betrieblichen Kollektivversicherung (Betriebliche Kollektivversicherung Informationspflichtenverordnung 2021 – BKV-InfoV 2021) StF: [BGBl. II Nr. 356/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/356>)
+
+Auf Grund der §§ 94 Abs. 7 und 98 Abs. 3 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, [BGBl. I Nr. 34/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 16/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/16>), wird – betreffend § 94 Abs. 7 mit Zustimmung des Bundesministers für Finanzen – verordnet:

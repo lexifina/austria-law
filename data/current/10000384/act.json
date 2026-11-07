@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000384",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000385",
+    "valid_from": "1963-07-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000384&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:28:46.571332+00:00",
+    "response_sha256": "993666d745c27d1c41eef53a8bde3d05aded889c5dda0a0ec86991c0d2cef005",
+    "snapshot_sha256": "14c0b6ac66f0742557e7dd253fa8c84c78d1a474406ed686a48bab264b76fa8a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6464f0f926a9304459f3b91da4358585bde5dc1790aed91fc07aaddceb25d68",
+      "sha256": "ac5f61eaacf0f797020f24b0bbf02b53dfdcebe5cc12f0b98b8f85ef6ab21539",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 3. Juli 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Abwässerbeseitigung von bebauten Liegenschaften. StF: BGBl. Nr. 160/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 160/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_160_0/1963_160_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "839c146cdedbdd33197d716000db5fdc0005cfee5cfc67d3e5de712fd8821edb",
+      "sha256": "5fb630da3a50af57bab6c83a8b4031eeda8632df3e48ca921a306e496bb2d637",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Verwaltung vom 22. Mai 1974 über die Vorbereitung und Durchführung der Wahl zum Betriebsrat, Zentralbetriebsrat, Jugendvertrauensrat und Zentraljugendvertrauensrat sowie die Bestellung und Tätigkeit von Wahlkommissionen und Wahlzeugen (Betriebsrats-Wahlordnung 1974 – BRWO 1974) StF: [BGBl. Nr. 319/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_319_0/1974_319_0.pdf>)
+
+Auf Grund des § 161 Abs. 1 Z 1 und 2 des Arbeitsverfassungsgesetzes (ArbVG), [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), wird verordnet:

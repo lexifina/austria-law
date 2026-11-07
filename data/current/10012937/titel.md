@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über die zur Atemalkoholuntersuchung geeigneten Geräte und die zu deren Handhabung zu ermächtigenden Organe der Schiffahrtspolizei (Alkomatverordnung-Schiffahrt) StF: [BGBl. II Nr. 162/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_162_2/1999_162_2.pdf>)
+
+Auf Grund des § 6 Abs. 6 des Schiffahrtsgesetzes, [BGBl. I Nr. 62/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_62_1/1997_62_1.pdf>) idF [BGBl. I Nr. 9/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_9_1/1998_9_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Inneres verordnet:

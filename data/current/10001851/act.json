@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001851",
+  "short_title": "Pariser Verbandsübereinkunft (Haager Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001874",
+    "valid_from": "1936-09-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001851&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:33.046166+00:00",
+    "response_sha256": "bd50eb659b0ad495062df0d26606440bfb6585f9dcc265871a87f30167c9291d",
+    "snapshot_sha256": "f4da1c7596fbbe453bd300b32780b2426fdce6e2c460b6b88ba4e0cf70cef4e2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3058c6165dd73ce0d127a6d97fb900e7ea66662411713125d00ec58d4eb11ee",
+      "sha256": "1cd9d6d2fa75efb0622dce7afc0a329689514b9bb587a72bd5687ce01dcd0682",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes im Einvernehmen mit dem Bundesministerium für Handel und Verkehr über den Beitritt des Gebietes der Insel Norfolk und des Mandatsgebietes Nauru zu dem im Haag revidierten Pariser Unionsvertrage zum Schutze des gewerblichen Eigentums. StF: BGBl. Nr. 301/1936"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 301/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=301/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a249a66f02a6dae3c74f6a66feeb27342cea91014b798a67fba395b5ac8d042",
+      "sha256": "65b1115c1e7e644afdd3cb27ee69c62afad313bbb8499a2da6d6e23debde3228",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

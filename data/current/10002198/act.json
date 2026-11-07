@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002198",
+  "short_title": "Haager Unterhaltsstatutübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002221",
+    "valid_from": "1971-10-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002198&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:00:05.350624+00:00",
+    "response_sha256": "d3ebb741d6eb0edb612d3a4dbe97a5b66e976d7b6d9bf4b270d709dca48b1ff3",
+    "snapshot_sha256": "f7c92d86319febb60867ff21781cc15051864b59a401719d6948edcd15614033",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "949cd9026d277fc98b4d7d587586027f33320d3a1567e6808a2d1ef7b10e9f61",
+      "sha256": "d0e4941d588fc03f20e51522f08e0d5c13261ec34b70bcb00882794c48627004",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 16. September 1971 betreffend eine Erklärung Luxemburg zum Übereinkommen über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 StF: BGBl. Nr. 389/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 389/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_389_0/1971_389_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5616f8d1505a68bedd04104813d9e168d98a1b3be0656add653d901e356965cc",
+      "sha256": "d02c1e79ac7f0eefaf557627432ed9d2dd9012489c8d0f6c17deafda309455fc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 293/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_293_0/1961_293_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 333/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_333_0/1970_333_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

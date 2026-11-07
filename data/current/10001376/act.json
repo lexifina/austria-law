@@ -1,0 +1,99 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001376",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 808 (1993)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001387",
+    "valid_from": "1995-01-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001376&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:45:36.781855+00:00",
+    "response_sha256": "ecff871ab5b28c5bd1583777572289048d19799d94778104e7973de57efffd15",
+    "snapshot_sha256": "521350874b49bae89b94b83522ffe76178026387e790117ce4ee50f33afb209c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3fbb95f8b6ece1292a77a4b588a1ec6f2d9803fc2423980dcde508e68fdf361",
+      "sha256": "f7a8b6f5ce45b31a4864e3c4c8246c995a19d2c64166aea48b96a21107905213",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 808 (1993) verabschiedet auf der 3175. Sitzung des Sicherheitsrats am 22. Februar 1993 StF: BGBl. Nr. 36/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 36/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_36_0/1995_36_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 808 (1993) VERABSCHIEDET AUF DER 3175. SITZUNG DES SICHERHEITSRATS AM 22. FEBRUAR 1993",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9b6145de4e7faadb833fdb5deb551b036bec51328e2d5ac8cb6e2cffc65d9c2",
+      "sha256": "cda575a93545442dec6525c459f2f0ace5b262441798647deb726d187de69c68",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 592/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_592_0/1991_592_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

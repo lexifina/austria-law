@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002482",
+  "short_title": "Bezeichnung, Abkürzung - EWG",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002505",
+    "valid_from": "1980-04-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002482&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:41.626366+00:00",
+    "response_sha256": "aec23323a93caafdb499a0559e3293a804b13063ef4869f385b87c1ea66afb64",
+    "snapshot_sha256": "d43767726cbc264e63f30c89b68da40d0cdf42e8ff5c8ea5b7ca57c10bae814d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8aa47abe3a6dc247b7dbde3d950e726cafcce1aa354a53f633af02c7d2964fbb",
+      "sha256": "45a99122678beb0550947ff2904b2e795d1bd68890c37f2260947e7906708373",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 12. März 1980 betreffend die Bezeichnungen und die Abkürzungen der Bezeichnungen der Europäischen Wirtschaftsgemeinschaft StF: BGBl. Nr. 155/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_155_0/1980_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3eb4e3cff4222122850aa590beec53ae344bfade44e6fe65ff050bc3d1948ac1",
+      "sha256": "c7f7617420bdbf9976183e7a6879cbb92508459734061da9a8481c5c940bbfca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c1dde06d99789a26d2b1fef3d746a683e8df34693f45c925e0e8d977cf1b6fe",
+      "sha256": "03f175fbf81f9fc381d4970ff1f5dcad8c90d0c9eb984973cf08d7ac8b0efd93",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12031937/image001.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

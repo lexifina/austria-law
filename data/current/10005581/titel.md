@@ -1,0 +1,3 @@
+Bundesgesetz über die Schaffung und Verleihung des Exekutivdienst- und Anerkennungszeichens (Exekutivdienst- und Anerkennungszeichengesetz – EDuAZG) StF: [BGBl. Nr. 521/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_521_0/1985_521_0.pdf>) (NR: GP XVI [RV 688](<https://www.parlament.gv.at/gegenstand/XVI/I/688>) [AB 770](<https://www.parlament.gv.at/gegenstand/XVI/I/770>) [S. 113.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/113>) BR: [AB 3042](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3042>) [S. 469.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/469>))
+
+Der Nationalrat hat beschlossen:

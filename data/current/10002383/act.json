@@ -1,0 +1,112 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002383",
+  "short_title": "Emblem, Bezeichnung, Abkürzung - CEPT",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002406",
+    "valid_from": "1979-04-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002383&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:03:18.266932+00:00",
+    "response_sha256": "51cbe996dc7e5d3ab1cf4507175e8ab5ed1f88be5a812360ea768c2516c469c9",
+    "snapshot_sha256": "83eeff70417e2361c99c6922fe788f1bbc95000dc7a61ff00ed84914085289de",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4bc166d49cdfbedb7c3c4f0dff3bf4de098a155e5b38bc3a9e41a80f04674b08",
+      "sha256": "a711636e6d9fb2ac3c390b50b854234549fb758c3b73914fbaf83a56957ba427",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. Oktober 1977 betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem der „Europäischen Konferenz der Post- und Fernmeldeverwaltungen“ (CEPT) StF: BGBl. Nr. 534/1977 idF BGBl. Nr. 168/1979 (DFB)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 534/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_534_0/1977_534_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 168/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_168_0/1979_168_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7509326f6129763c9ea4588ed77df32576a4501388a40571e8332aeb5b36074b",
+      "sha256": "8e44943fa1c1a533d0d7d03a85b67b537817f61c4b3cf85bee8439a96cd5a19b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51f77fb5441431c2ea7321bc6b37be05a914928264acc1656cfbf12de6862614",
+      "sha256": "09b5e83b4f1b35cff0920ba525be32f34946e0703f8887b2014630c3b81d3199",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12031054/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

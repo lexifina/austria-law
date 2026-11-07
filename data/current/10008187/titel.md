@@ -1,0 +1,3 @@
+Bundesgesetz über das Dienstverhältnis der Richterinnen und Richter, Staatsanwältinnen und Staatsanwälte und Richteramtsanwärterinnen und Richteramtsanwärter (Richter- und Staatsanwaltschaftsdienstgesetz – RStDG) StF: [BGBl. Nr. 305/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf>) (NR: GP IX [RV 506](<https://www.parlament.gv.at/gegenstand/IX/I/506>) [AB 522](<https://www.parlament.gv.at/gegenstand/IX/I/522>) [S. 89.](<https://www.parlament.gv.at/gegenstand/IX/NRSITZ/89>) BR: [S. 182.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/182>))
+
+Der Nationalrat hat beschlossen:

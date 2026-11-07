@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres über den Zugang zu Bildungsangeboten der Sicherheitsakademie (Sicherheitsakademie-Bildungsverordnung – SIAK-BV) StF: [BGBl. II Nr. 451/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/451>)
+
+Auf Grund des § 11 Abs. 2 und 4 des Sicherheitspolizeigesetzes – SPG, [BGBl. Nr. 566/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 43/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/43>) und die Kundmachung [BGBl. I Nr. 97/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/97>), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009527",
+  "short_title": "Rechtsstellung einer Gemeinde der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009718",
+    "valid_from": "1983-09-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009527&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:33:29.054936+00:00",
+    "response_sha256": "cf07fce3d1fea31e079cb50af46de8d7c9f5cecad29f8a09dd169a482d47dcd7",
+    "snapshot_sha256": "32e1b4bca267596f243f5aaf98870816de72a019482622a1b0c335bf12cbf80e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c9588584516ac57e325eb2ec0d0a7c2a8d25bd08a60534d2191e53072c8c6106",
+      "sha256": "62e03d0e135883985c4229bb6a9b18b3575964bf4775ed2b22130f1ce39e2846",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und Kunst vom 23. August 1983 über die Rechtsstellung einer Gemeinde der Evangelischen Kirche StF: BGBl. Nr. 480/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 480/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_480_0/1983_480_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e02a476b15a843c4e0b6322df539c7a78f3aef9855db03ac50cf113e79e0f40",
+      "sha256": "078c484d67f4f9aa61918e42d66d198d60118420f1ff07119bd011eabccfe47c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

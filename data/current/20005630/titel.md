@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend Flaggen, Wappen und Embleme des Königreichs Spanien StF: [BGBl. II Nr. 15/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/15>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 96/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/96>), wird im Einvernehmen mit der Bundesministerin für europäische und internationale Angelegenheiten kundgemacht, dass § 6 Abs. 1 des Markenschutzgesetzes 1970 auf Flaggen, Wappen und Embleme des Königreichs Spanien Anwendung findet, welche im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen.

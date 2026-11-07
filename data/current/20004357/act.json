@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004357",
+  "short_title": "Offizielles Siegel des ,,United States Copyright Office\"",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004750",
+    "valid_from": "2005-10-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004357&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:13:15.156428+00:00",
+    "response_sha256": "8988ba981f543e422ae7f07945f9ab4059fef60dfdb7365fe31abbd3f8a581b7",
+    "snapshot_sha256": "385162503382a65cc7f855ef5da4a57b38fb441e5cea0d3ef4c3f5438ed9ad2a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60a9add0e03cc45df58f7506b0bbe8f52848acf326474c1a35afa7ef56f89622",
+      "sha256": "f4fa247379cc17ee89e7925991fb7ec317fea926d024e9f70fd5a1000cf055eb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das offizielle Siegel des „United States Copyright Office“ StF: BGBl. II Nr. 343/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 343/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/343"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd629077af98a7d86250e5d133317a05b3083009cf3ee361ca526f85383fe377",
+      "sha256": "1f4d711ef74b454ae6bcee7c61df5067de417be1dee193c3343d20c8fbe8c8d5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 149/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/149"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

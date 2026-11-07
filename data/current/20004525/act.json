@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004525",
+  "short_title": "Übertragung von Bibliotheksaufgaben",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004940",
+    "valid_from": "2006-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004525&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:15:58.008664+00:00",
+    "response_sha256": "217c30666efaf32bce6bf790390a1c8e815f8af485cb3915169f7365961bbe7a",
+    "snapshot_sha256": "3520de01dc41200348bd2812b082c46199f07d62200a46b641d25323f4a0f225",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9282ace14719ed6aac336853a0c8d3bb144ac4d82e503b40a1ead072b0e0e9e",
+      "sha256": "cad50c6a83ed7397397446729246577ff3b338373ddf2ba2bd1bfcf65945373a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit und Frauen über die Übertragung von Bibliotheksaufgaben StF: BGBl. II Nr. 4/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 4/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/4"
+        },
+        {
+          "text": "BGBl. I Nr. 92/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/92"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc75cbb0267937207cda79de0a7c662a885d8f78f1b1c22debe20da587f2e117",
+      "sha256": "185ba0ad4ba04e9319045ba75654d7dc4ca58ad86ab0da72d638b60268c836a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfc010aaec70a58751d3c0a12b36780b02aa9e278eeb240a51c472f3e2455c07",
+      "sha256": "5105e3ed545537a0404a893c6f6aa2bb33805510d9d270ce9c4e2fd71de084b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Anhang II
+
+RICHTLINIEN ÜBER DEN VERBRAUCH VON BETRIEBSMITTEL IM
+
+ERZEUGUNGSVORGANG
+
+I.
+
+- 1\. Indirekte Steuerbegünstigungssysteme können die Freistellung, den Erlaß oder den Aufschub von kumulativen indirekten auf einer Vorstufe erhobenen Steuern auf Betriebsmittel erlauben, die bei der Erzeugung der ausgeführten Ware verbraucht werden (wobei normaler Schwund berücksichtigt wird). In gleicher Weise können Vergütungssysteme den Erlaß oder die Rückerstattung von Eingangsabgaben auf Betriebsmittel erlauben, die bei der Erzeugung der ausgeführten Ware verbraucht werden (wobei normaler Schwund berücksichtigt wird).
+
+- 2\. Die Beispielliste von Ausfuhrsubventionen im Anhang I dieses Übereinkommens nimmt in lit. h und i Bezug auf den Ausdruck „Betriebsmittel, die bei der Erzeugung der ausgeführten Ware verbraucht werden''. Gemäß lit. h können indirekte Steuerbegünstigungssysteme eine Ausfuhrsubvention in dem Ausmaß darstellen, wenn die bei der Freistellung, beim Erlaß oder Aufschub von kumulativen indirekten auf einer Vorstufe erhobenen Steuern über den Betrag hinausgehen, der tatsächlich von solchen Steuern auf Betriebsmittel erhoben wird, die bei der Erzeugung der ausgeführten Ware verbraucht werden. Gemäß lit. i können Vergütungssysteme eine Ausfuhrsubvention in dem Ausmaß darstellen, welches beim Erlaß oder bei der Rückerstattung von Eingangsabgaben über die tatsächlich auf Betriebsmittel erhobenen Abgaben hinausgeht, die bei der Erzeugung der ausgeführten Ware verbraucht werden. In beiden lit. ist vorgesehen, daß normaler Schwund bezüglich des Verbrauchs von Betriebsmitteln bei der Erzeugung der ausgeführten Ware berücksichtigt werden muß. Lit. i sieht auch gegebenenfalls die Möglichkeit eines Ersatzes vor.
+
+II.
+
+Bei der Prüfung, ob Betriebsmittel bei der Erzeugung der ausgeführten Ware verbraucht werden, sollen die untersuchenden Behörden im Rahmen dieses Teiles einer Ausgleichszolluntersuchung wie folgt vorgehen:
+
+- 1\. Wenn vermutet wird, daß ein indirektes Steuerrabattsystem oder ein Rückerstattungssystem eine Subvention zufolge eines Überrabattes oder einer überhöhten Rückerstattung indirekter Steuern oder Eingangsabgaben auf Betriebsmittel darstellt, die während der Erzeugung der ausgeführten Ware verbraucht werden, sollen sich die untersuchenden Behörden zuerst vergewissern, ob die Regierung eines ausführenden Mitglieds über ein System oder Verfahren verfügt und dieses anwendet, welche Betriebsmittel bei der Erzeugung der ausgeführten Ware verbraucht werden und in welchen Mengen. Wenn die Anwendung eines solchen Systems oder Verfahrens festgestellt wird, sollen sodann die untersuchenden Behörden prüfen, ob es angemessen ist, wirkungsvoll für den beabsichtigten Zweck und auf allgemein üblichen kommerziellen Praktiken im Ausfuhrland beruht. Die untersuchenden Behörden können es für notwendig halten, gewisse praktische Stichproben zur Überprüfung der Auskünfte durchzuführen oder sich selbst zu überzeugen, daß das System oder Verfahren wirkungsvoll angewendet wird.
+
+- 2\. Wenn kein solches System oder Verfahren besteht, wenn es nicht angemessen ist, oder wenn es zwar eingerichtet und als angemessen angesehen wird, aber nicht oder nicht wirkungsvoll angewendet wird, wäre eine weitere Prüfung durch das ausführende Mitglied auf der Grundlage der tatsächlich eingesetzten Betriebsmittel in diesem Zusammenhang zur Feststellung notwendig, ob eine überhöhte Zahlung stattfindet. Falls es die untersuchenden Behörden für erforderlich halten, würde eine weitere Prüfung gemäß Absatz 1 vorgenommen werden.
+
+- 3\. Die untersuchenden Behörden sollen Betriebsmittel als materiell verarbeitet behandeln, wenn solche Betriebsmittel beim Erzeugungsvorgang verwendet werden und materiell in der ausgeführten Ware enthalten sind. Die Mitglieder halten fest, daß ein Betriebsmittel im Endprodukt nicht in derselben Form, in der es in den Erzeugungsvorgang eingebracht wurde, enthalten sein muß.
+
+- 4\. Bei der Feststellung der Menge eines bestimmten Betriebsmittels, welches bei der Erzeugung der ausgeführten Ware verbraucht wird, soll ein „normaler Schwund für Abfall'' berücksichtigt werden und solch ein Abfall soll als bei der Erzeugung der ausgeführten Ware verbraucht behandelt werden. Der Ausdruck „Abfall'' bezieht sich auf jenen Teil eines bestimmten Betriebsmittels, der keiner unabhängigen Funktion beim Erzeugungsvorgang dient, bei der Herstellung der ausgeführten Ware nicht verbraucht wird (etwa wegen Wirkungslosigkeit) und nicht wiedergewonnen wird und vom selben Hersteller verwendet oder verkauft wird.
+
+- 5\. Die Feststellung der untersuchenden Behörde, ob der beanspruchte Schwund für Abfall „normal'' ist, soll auf den Herstellungsvorgang die Durchschnittserfahrung des Wirtschaftszweiges im Ausfuhrland und allenfalls auf andere technische Faktoren Bedacht nehmen. Die untersuchende Behörde soll darauf achten, daß eine wichtige Frage darin besteht, ob die Behörden des ausführenden Mitglieds die Schwundmenge richtig berechnet haben, wenn eine solche Menge in den Steuer- oder Zollnachlaß oder deren Rückerstattung einbezogen werden soll.

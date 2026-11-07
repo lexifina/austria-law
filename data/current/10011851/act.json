@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011851",
+  "short_title": "Bestimmung des Straßenverlaufes der A 3 Südost Autobahn im Bereich der Marktgemeinden Trumau und Ebreichsdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012116",
+    "valid_from": "1989-12-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011851&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:02:58.910274+00:00",
+    "response_sha256": "ecf08327868d49f89d7e8054cd622a952edbb5a123c084119ea7c03e35d7c63b",
+    "snapshot_sha256": "7283c2ce11f393d1345ac27fc5cecfbe6f0eeb7253c64f6c5e33865066298ba3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f92fba5e652753010030df100cf59209590cba66e96ba04433f79df9ead51e3",
+      "sha256": "1a9f05327dff9df4efaedb105391662cac13d35800135d5d8eb3c1a82b49036d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 11. Dezember 1989 betreffend die Bestimmung des Straßenverlaufes der A 3 Südost Autobahn im Bereich der Marktgemeinden Trumau und Ebreichsdorf StF: BGBl. Nr. 670/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 670/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_670_0/1989_670_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 63/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_63_0/1983_63_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "508fbc2be6eae98f612ec7f935e7d897c67ea0dc170e0fe9b6fc14d4ac73e67e",
+      "sha256": "d07dbd244bb0ee95de0314ef684ebc134405e4aa53ea42f2d89e63aa968ef326",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

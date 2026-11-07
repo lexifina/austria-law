@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über die Festlegung eines tierseuchenrechtlichen Werttarifes für den Verkehrswert von Wiederkäuern, Einhufern und Zuchtschweinen (TSG-Werttarif-VO) StF: [BGBl. II Nr. 322/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/322>)
+
+Auf Grund der §§ 51 Abs. 4 und 52 Abs. 5 des Tierseuchengesetzes (TSG), [RGBl. Nr. 177/1909](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=177/1909&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 120/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/120>), wird im Einvernehmen mit der Bundesministerin für Nachhaltigkeit und Tourismus verordnet:

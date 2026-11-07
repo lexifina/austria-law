@@ -1,0 +1,1 @@
+Artikel 9ter. Die Bestimmungen der Artikel 9 und 9bis über die Übertragungen berühren in keiner Weise die in den vertragschließenden Ländern geltenden Gesetze, durch welche die Übertragung einer Marke ohne gleichzeitige Übertragung des Gewerbe- oder Handelsunternehmens, dessen Erzeugnisse durch die Marke gekennzeichnet werden, verboten ist.

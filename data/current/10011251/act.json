@@ -1,0 +1,76 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011251",
+  "short_title": "Schiffsregister",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011516",
+    "valid_from": "1943-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011251&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:51:01.722400+00:00",
+    "response_sha256": "b0b04cb04d95f13e537b0705bfa810a100b356a5ba9e8190fb3a916649f0f8a0",
+    "snapshot_sha256": "602a3093bcfa3595bbf3e8f6e18e02b149cbbe932a753322c8fbb87ba35addd1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2ddbba1097598f49228be44c3c18c131a2a23d76385c55f705bd882e9f2545c",
+      "sha256": "450a7fed112a65e8bd0862bd73716d1580fe941c65b433ad7fdd740c4dc4c54d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Führung des Schiffsregisters. AV. d. RJM. v. 15. 4. 1943 (3826 – VII. a 5 703). – Deutsche Justiz S. 249 – StF: DJ S 249/1943"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09e659ebc80dacc786eb33c0cb03843d8188b4bd6879579230ab7bf3b71e971c",
+      "sha256": "ad6693a1a69b02b442388506530aebbfad726375f7371741d9bf25f2e685b3a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

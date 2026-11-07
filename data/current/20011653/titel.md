@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Kunst, Kultur, öffentlichen Dienst und Sport, mit der abweichend von § 280a Abs. 2 bis 5 BDG 1979 kürzere oder längere Fristen für Aufbewahrungspflichten vorgesehen werden (BMKÖS-Datenaufbewahrungsverordnung – BMKÖS-DAV) StF: [BGBl. II Nr. 388/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/388>)
+
+Auf Grund des § 280a Abs. 7 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 153/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/153>), wird verordnet:

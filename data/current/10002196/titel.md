@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 9. Juli 1971 betreffend die Kurzbezeichnung des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen (UPOV) StF: [BGBl. Nr. 322/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_322_0/1971_322_0.pdf>)

@@ -1,0 +1,39 @@
+Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Republik Moldau über die Zusammenarbeit im Bereich der Bekämpfung der Kriminalität StF: [BGBl. III Nr. 99/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2011/99>)
+
+Die Österreichische Bundesregierung und die Regierung der Republik Moldau,
+
+nachstehend als die Vertragsparteien bezeichnet,
+
+getragen von dem Wunsch nach der weiteren Entwicklung und Festigung der Beziehungen zwischen den beiden Staaten,
+
+besorgt über die Gefahr der Ausbreitung der internationalen Kriminalität, welche die Sicherheit oder andere wesentliche Interessen beider Staaten gefährden kann,
+
+in der Absicht, bei der Bekämpfung der grenzüberschreitenden Kriminalität verstärkt zusammenzuarbeiten,
+
+auf der Grundlage der Einzigen Suchtgiftkonvention vom 30. März 1961 in der Fassung des Protokolls<sup>1</sup> vom 25. März 1972, mit dem die Einzige Suchtgiftkonvention abgeändert wird, des Übereinkommens über psychotrope Substanzen<sup>2</sup> vom 21. Februar 1971 und des Übereinkommens der Vereinten Nationen gegen den unerlaubten Verkehr mit Suchtgiften und psychotropen Substanzen<sup>3</sup> vom 20. Dezember 1988 sowie von Resolution 45/123 der Generalversammlung der Vereinten Nationen vom 14. Dezember 1990 über Internationale Zusammenarbeit im Kampf gegen Organisierte Kriminalität und des Übereinkommens der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität<sup>4</sup> vom 15. November 2000 samt seinen drei Zusatzprotokollen<sup>5</sup> sowie des Übereinkommens der Vereinten Nationen gegen Korruption<sup>6</sup> vom 31. Oktober 2003, und
+
+unter Beachtung des Übereinkommens des Europarats vom 28. Jänner 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten<sup>7</sup>, des Zusatzprotokolls<sup>8</sup> hiezu vom 8. November 2001 sowie der Empfehlung Nr. R (87) 15 des Ministerkomitees des Europarats vom 17. September 1987 zur Regelung der Benutzung personenbezogener Daten durch die Polizei, und zwar auch insoweit als die Daten nicht automatisiert verarbeitet werden,
+
+nach Maßgabe der jeweiligen Rechtsordnung und unter Beachtung der internationalen Verpflichtungen der beiden Staaten,
+
+sind wie folgt übereingekommen:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup> Kundgemacht in [BGBl. Nr. 531/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_531_0/1978_531_0.pdf>).
+
+<sup>2</sup> Kundgemacht in [BGBl. III Nr. 148/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_148_3/1997_148_3.pdf>).
+
+<sup>3</sup> Kundgemacht in [BGBl. III Nr. 154/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_154_3/1997_154_3.pdf>).
+
+<sup>4</sup> Kundgemacht in [BGBl. III Nr. 84/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/84>).
+
+<sup>5</sup> Kundgemacht in [BGBl. III Nr. 220/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/220>) und [BGBl. III Nr. 11/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2008/11>).
+
+<sup>6</sup> Kundgemacht in [BGBl. III Nr. 47/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2006/47>).
+
+<sup>7</sup> Kundgemacht in [BGBl. Nr. 317/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_317_0/1988_317_0.pdf>).
+
+<sup>8</sup> Kundgemacht in [BGBl. III Nr. 91/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2008/91>).
+
+Die Mitteilungen gemäß Art. 18 Abs. 1 des Abkommens wurden am 12. November bzw. 7. Dezember 2010 abgegeben; das Abkommen ist gemäß seinem Art. 18 Abs. 1 mit 1. Februar 2011 in Kraft getreten.

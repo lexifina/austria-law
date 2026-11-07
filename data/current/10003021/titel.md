@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bezeichnungen, die Flagge und das Emblem mit Abkürzungen der Bezeichnungen des Weltpostvereines Amerikas, Portugals und Spaniens StF: [BGBl. Nr. 631/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_631_0/1991_631_0.pdf>)

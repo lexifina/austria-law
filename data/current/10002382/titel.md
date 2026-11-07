@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 29. November 1976 betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem der Europäischen Weltraumagentur (ESA) StF: [BGBl. Nr. 8/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_8_0/1977_8_0.pdf>)

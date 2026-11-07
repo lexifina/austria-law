@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über den Schutz der Bundesbediensteten bei der Benutzung von Arbeitsmitteln (Bundes-Arbeitsmittelverordnung – B-AM-VO) StF: [BGBl. II Nr. 392/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_392_2/2002_392_2.pdf>)
+
+Auf Grund der §§ 4, 6 Abs. 2, 12, 14, 17, 39 Abs. 1 und 2 und des § 87 Abs. 1 und 2 des Bundes-Bedienstetenschutzgesetzes – B-BSG, [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 87/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_87_1/2001_87_1.pdf>), wird verordnet:

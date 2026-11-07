@@ -1,0 +1,98 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012386",
+  "short_title": "ADR - Widerruf von zwei Vereinbarungen",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012682",
+    "valid_from": "1994-05-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012386&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:08:41.584939+00:00",
+    "response_sha256": "62fe063d37fb8f5b79760a5e1ec6c1d6ee21fbcab0de89498ca50495f75b9649",
+    "snapshot_sha256": "a20e8afffc8428dff711b0a1f32c9fcfec3410a0c66b9b43aca01b3aa630dd52",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ba516f14c96ed7a628fe72e1b49f222380342969422aa4800af043e31392cc7",
+      "sha256": "f0ece92ef6f1c0799a03bc9e4b621a28c752f420d058f8aaaf153b5fffd4148a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf von zwei Vereinbarungen zwischen dem Bundesminister für Verkehr der Bundesrepublik Deutschland und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich StF: BGBl. Nr. 337/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 337/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_337_0/1994_337_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b21471690ccc729858b6a84c068b515dd22f6045b252cdb56bb844b13dd27d7",
+      "sha256": "7827cebafb2f14ba00bd4870f13ce9f92f6467d4b6eadf1e59e47c3788323cbc",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 7/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_7_0/1987_7_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 539/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_539_0/1989_539_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 189/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_189_0/1992_189_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 164/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_164_0/1993_164_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

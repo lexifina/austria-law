@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Durchführung des Zollrechts (ZollR-DV 2004) StF: [BGBl. II Nr. 184/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/184>)
+
+Auf Grund des Zollrechts-Durchführungsgesetzes (ZollR-DG), [BGBl. Nr. 659/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_659_0/1994_659_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 26/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/26>) wird – hinsichtlich der §§ 1 und 2 im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft und des § 3 im Einvernehmen mit der Bundesministerin für Gesundheit und Frauen – verordnet:

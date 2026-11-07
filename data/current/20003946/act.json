@@ -1,0 +1,126 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20003946",
+  "short_title": "Krankenscheinvorlage - Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004289",
+    "valid_from": "2005-03-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003946&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:07:06.069619+00:00",
+    "response_sha256": "82b378b39d1872485a7c20c527906a278e42fd0423a9b9e871a1e9264fb996e6",
+    "snapshot_sha256": "596e15630e63013ccf7ab4a9941efeee7de142bea38925c326d0d84a639d1779",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "814bd4085a7babd1056819caf86ca6427e8a23a7abbad2c102939c02dfe3a31c",
+      "sha256": "3bdc88a4743d94e2fc7f9e262179f3bea34f5d36cdea348c1e8520c274be5485",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit und Frauen, mit der im Einführungszeitraum der e-card von der Vorlage des Krankenscheins abgesehen wird (Krankenscheinvorlage – Verordnung) StF: BGBl. II Nr. 63/2005"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 153/2005 BGBl. II Nr. 209/2005 BGBl. II Nr. 295/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 63/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/63"
+        },
+        {
+          "text": "BGBl. II Nr. 153/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/153"
+        },
+        {
+          "text": "BGBl. II Nr. 209/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/209"
+        },
+        {
+          "text": "BGBl. II Nr. 295/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/295"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 179/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/179"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Vorlage des Krankenscheins",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e197e9fb215f56c01208eab7872e5535fce465837dcc505b045e43d75a4d6bec",
+      "sha256": "576c48364a6d31383fe2ad37dd5d317e0f1d4c2bb9a3594476ed22fd314e2f17",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e1687674b63914362b68cc4c56f7ce79279a5bd005320c5a50694dbaffe48b6",
+      "sha256": "791f1f0dc5e864a115522b5de5f2f57daa935f2ad231088165e2ac5ddccf3f3d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

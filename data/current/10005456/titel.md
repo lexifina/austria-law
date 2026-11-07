@@ -1,0 +1,1 @@
+Notenwechsel vom 24. August 1978 über die Errichtung vorgeschobener österreichischer Grenzdienststellen am Grenzübergang Simbach-Innbrücke StF: [BGBl. Nr. 505/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_505_0/1978_505_0.pdf>) idF [BGBl. Nr. 448/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_448_0/1981_448_0.pdf>) (DFB)

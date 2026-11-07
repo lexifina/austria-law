@@ -1,0 +1,3 @@
+Bundesgesetz vom 10. Juli 1957, womit weitere Bestimmungen zur Durchführung des IV. Teiles des Staatsvertrages vom 15. Mai 1955, BGBl. Nr. 152, erlassen werden (3. Staatsvertragsdurchführungsgesetz). StF: [BGBl. Nr. 176/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_176_0/1957_176_0.pdf>) (NR: GP VIII [RV 196](<https://www.parlament.gv.at/gegenstand/VIII/I/196>) [AB 270](<https://www.parlament.gv.at/gegenstand/VIII/I/270>) [S. 34.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/34>) BR: [S. 127.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/127>))
+
+Der Nationalrat hat beschlossen:

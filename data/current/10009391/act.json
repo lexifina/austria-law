@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009391",
+  "short_title": "Anerkennung der Neuapostolischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009582",
+    "valid_from": "1975-10-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009391&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:31:17.769713+00:00",
+    "response_sha256": "2734773e502ae05170168dac79d109f26a95b342b62107ebbebe4afb07b264fe",
+    "snapshot_sha256": "6b1671bace86f7b7a95df3127cd9b8e3fde3ecbfc346698a26fcde8d5b431161",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "468d2b5da25732b7a36e6d2e0da10815812857aac0b2207071995d2a0315c9ba",
+      "sha256": "2be818c39b781deb78d8788c5ca865b2da438ea81224661cf934c7cbc3e37d13",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Unterricht und Kunst vom 25. September 1975 betreffend die Anerkennung der Anhänger der „Neuapostolischen Kirche in Österreich“ als Religionsgesellschaft StF: BGBl. Nr. 524/1975"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 524/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_524_0/1975_524_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4ed4f5fd7cd4084e327dae8e3feb627d53e95f16404e9e24c5c518895d994d9",
+      "sha256": "0e46c6884910eefc757ae4b38551191aa207664900565bea03e6b36dc3a01d17",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

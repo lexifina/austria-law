@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 25. November 1959 über weitere Beitritte und Ratifikationen zum Zollabkommen über Behälter StF: [BGBl. Nr. 261/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_261_0/1959_261_0.pdf>)

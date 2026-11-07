@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend, mit der die aliquoten administrativen und finanziellen Aufwendungen sowie die aliquoten Aufwendungen für die Ausgleichsenergie der Ökostromabwicklungsstelle für das Jahr 2012 bestimmt werden (Aliquotierungsverordnung 2012) StF: [BGBl. II Nr. 124/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/124>)
+
+Auf Grund des § 21a des Ökostromgesetzes (ÖSG), [BGBl. I Nr. 149/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_149_1/2002_149_1.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 104/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/104>), wird verordnet:

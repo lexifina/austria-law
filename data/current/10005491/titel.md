@@ -1,0 +1,1 @@
+Notenwechsel vom 4. Dezember 1980 über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Hörbranz-Autobahn/Lindau-Autobahn StF: [BGBl. Nr. 18/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_18_0/1981_18_0.pdf>)

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001013",
+  "short_title": "VfGH-Feststellung einer Verfassungswidrigkeit",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001016",
+    "valid_from": "1989-02-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001013&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:39:55.300740+00:00",
+    "response_sha256": "49b042b54f8875ebe9b0b711c3b3e2ee879b8038b21ec1c5b04cd57b501abcc8",
+    "snapshot_sha256": "882350fd61b13d54012a4950a3caf97f8296d84500bf2521f75d3dacedfbd3ce",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "602ab777b67ae8b9d1e910c3552f19f8088a3ce230f0f39e5c30e8b27c1cf9f7",
+      "sha256": "12e3b649cf88e1712c3a7d9764312613197a2a35036d219b4dc9f3fcff8b4bed",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 26. Jänner 1989 über den Ausspruch des Verfassungsgerichtshofes, daß der Erlaß des Bundesministers für Bauten und Technik Nr. 68 betreffend die Dampfkesselverordnung gesetzwidrig war StF: BGBl. Nr. 66/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 66/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_66_0/1989_66_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1ebf1b4ad0c39a4a37723386bee8803180927dfcb20bcb5c1ff602d20caa4b71",
+      "sha256": "ba92c2d6962106fcede7f4869a534026829ab4d435393abaa6a3a4b62feb9ed8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

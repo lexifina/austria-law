@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Statistik im Bereich der Binnenschifffahrt (Binnenschifffahrts-Statistikverordnung 2005) StF: [BGBl. II Nr. 129/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/129>) \[CELEX-Nr. [31980L1119](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L1119:DE:HTML>)\]
+
+Auf Grund der §§ 4 bis 6 sowie 8 und 9 sowie der Anlage I Z 13 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

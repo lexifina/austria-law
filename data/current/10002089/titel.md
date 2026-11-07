@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 12. April 1967, betreffend zwei kanadische Hoheitszeichen StF: [BGBl. Nr. 148/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_148_0/1967_148_0.pdf>)

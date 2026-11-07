@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft betreffend Informationen über den Personalaufwand und das Controlling im Bereich der land- und forstwirtschaftlichen Landeslehrer und Landeslehrerinnen (Lf-Landeslehrpersonen-ControllingV – LfLLCV) StF: [BGBl. II Nr. 338/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/338>)
+
+Auf Grund des § 4 Abs. 7 des Finanzausgleichsgesetzes 2008, [BGBl. I Nr. 103/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/103>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 82/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/82>), wird im Einvernehmen mit der Bundesministerin für Finanzen verordnet:

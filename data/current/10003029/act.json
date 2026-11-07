@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003029",
+  "short_title": "Errichtung einer vierten Notarstelle in Baden",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003054",
+    "valid_from": "1992-11-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003029&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:43.662381+00:00",
+    "response_sha256": "177ac8a0a344c86fac67149f26cf0b470466f0f8bf67f2803f9481ab79496bbd",
+    "snapshot_sha256": "7d0f140b0af627f08f37f6eddfbb5b7ea96df30734ae8dd90c90669ff91009ab",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ecbe9c58f27caad99046ce531f53dabc5d91fdc27f37b92401e7b3a31b5aa30c",
+      "sha256": "4a9ffeb10b243341cc26ca203ce1b03502b63b24e0256ba2d688299bb3376537",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Baden StF: BGBl. Nr. 684/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 684/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_684_0/1992_684_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e237e6d1d9ca6ea662bb7f9ef909bbe504630d0af82ef54263eb04b94d47e54",
+      "sha256": "e1205c36cd79981c23cab3b86d0e73439b1d1fb3431a0d428e92a64ab601c0d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

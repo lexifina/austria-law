@@ -1,0 +1,3 @@
+Bundesgesetz vom 25. April 1990 über die Berufung der Geschworenen und Schöffen (Geschworenen- und Schöffengesetz 1990 – GSchG) StF: [BGBl. Nr. 256/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_256_0/1990_256_0.pdf>) (NR: GP XVII [RV 1193](<https://www.parlament.gv.at/gegenstand/XVII/I/1193>) [AB 1261](<https://www.parlament.gv.at/gegenstand/XVII/I/1261>) [S. 139.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/139>) BR: [AB 3848](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3848>) [S. 529.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/529>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Bundesgesetz vom 3. Juli 1973 über die Verwendung der zufließenden Mittel aus dem Vertrag zwischen der Republik Österreich und der Volksrepublik Polen zur Regelung bestimmter finanzieller Fragen (Verteilungsgesetz Polen) StF: [BGBl. Nr. 75/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_75_0/1974_75_0.pdf>) (NR: GP XIII [RV 724](<https://www.parlament.gv.at/gegenstand/XIII/I/724>) [AB 821](<https://www.parlament.gv.at/gegenstand/XIII/I/821>) [S. 76.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/76>) BR: [S. 324.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/324>))
+
+Der Nationalrat hat beschlossen:

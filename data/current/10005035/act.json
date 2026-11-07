@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005035",
+  "short_title": "Zahlungs- und Warenaustauschabkommen - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005089",
+    "valid_from": "1996-07-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005035&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:37:57.538204+00:00",
+    "response_sha256": "ab10551b78a89b5c9a9d564f00c728f100147643ad38e78a976e485085708ee9",
+    "snapshot_sha256": "5d505a9674c133c2db2daf6e5a457aa107eff05f0c75eb6bf244cc2796c7fc41",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a0b984b5aaac733cb7757cd827ef64959d9decd4c86049aa4510c380d16d01ae",
+      "sha256": "5f76a6998c2aea2810b3531d283657495ea129ca1fc0c63ba38efc2a3a816c49",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Notenwechsels zwischen der österreichischen Botschaft Rio de Janeiro und dem brasilianischen Außenministerium über den Abschluß eines Zahlungs- und Warenaustauschabkommens StF: BGBl. Nr. 309/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 309/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_309_0/1996_309_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "99b9a6502a0088f0ff6daee67119e64082c5a31a6de6989b11aa48bfcd1ee408",
+      "sha256": "7d20864acf98c943965cf083c60e784ae8a55249a11a45839b97e2a39bfa343c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 101/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_101_0/1958_101_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

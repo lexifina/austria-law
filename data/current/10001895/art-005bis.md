@@ -1,0 +1,5 @@
+## Artikel 5bis.
+
+(1) Für die Zahlung der Gebühren, die für die Aufrechterhaltung der gewerblichen Schutzrechte vorgesehen sind, soll eine Nachfrist von mindestens drei Monaten gewährt werden, und zwar unter Auferlegung eines Zuschlages, falls die nationale Gesetzgebung einen solchen vorschreibt.
+
+(2) Für die Erfindungspatente verpflichten sich die Unionsländer außerdem, entweder die Nachfrist auf mindestens sechs Monate zu erstrecken, oder die Wiederherstellung des infolge Nichtzahlung von Gebühren verfallenen Patentes vorzusehen; die Bedingungen dieser Maßnahmen zu regeln, bleibt der inneren Gesetzgebung vorbehalten.

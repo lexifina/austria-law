@@ -1,0 +1,1 @@
+Bundesgesetz vom 29. Juni 1982 über die Leistung eines zusätzlichen Beitrages zum internationalen Fonds für landwirtschaftliche Entwicklung StF: [BGBl. Nr. 348/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_348_0/1982_348_0.pdf>)

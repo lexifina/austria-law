@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001327",
+  "short_title": "VfGH-Aufhebung - Bestimmungen der Dienstanweisung Betriebsprüfung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001335",
+    "valid_from": "1994-01-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001327&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:45:07.064896+00:00",
+    "response_sha256": "c631801bffd1c0394599cae0454bb2dd8f0c71a0603150c2cda99a80b9c2536c",
+    "snapshot_sha256": "7243aed49555f22dafb1f5c4f91dab2133796f0af78463e3ca92bcf11136d267",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f06e2e8b0b49e8419d0034510cea549110bf3fd9dd4b749d45196f056d3a43d2",
+      "sha256": "e80ab50304837679cea08696d57ab9eb0b0e8f1906255eb20ad622cdd6257885",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Finanzen über die Aufhebung von Bestimmungen der Dienstanweisung Betriebsprüfung (DBP) durch den Verfassungsgerichtshof StF: BGBl. Nr. 64/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 64/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_64_0/1994_64_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "328befbb1265593a4b3550aaf1b5bdb016fc1d53f63bf16f1aac53276417e9e2",
+      "sha256": "61366676ff43a9adf3b7d417c85e193b5e952a2bce220d556ee30c590e2cbdb9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

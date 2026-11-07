@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 21. März 1961 über die Ausdehnung des Geltungsbereiches des Übereinkommens zur Unterdrückung des unerlaubten Handels mit Suchtgiften. StF: [BGBl. Nr. 92/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_92_0/1961_92_0.pdf>)

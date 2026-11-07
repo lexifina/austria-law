@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005234",
+  "short_title": "Sichtvermerkzwang - Aufhebung (Türkei)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Türkei",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005318",
+    "valid_from": "1954-05-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005234&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:40:58.417463+00:00",
+    "response_sha256": "ce297bf0efab950e067eea045cdb3bd9d978368010caa365ee89271d218690a2",
+    "snapshot_sha256": "cc845f87462f593658613fd072c776a953368b1b3911ec9bfd8b202431191033",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b378f462c0c667c31392aac7ca762d46d7f80b1a9582fe6c6ae0992322b9ce68",
+      "sha256": "09bcf4edb49e7b781bbdf66c464c325f6222c91da64f02d6a69bf4b42a08fa27",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der österreichischen Gesandtschaft in der Türkei und dem türkischen Außenministerium über die Aufhebung des Sichtvermerkzwanges StF: BGBl. Nr. 194/1955"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_194_0/1955_194_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f604c0a01c78fac248b296b4a5560d7b8c97f0ff016506812b117ab8a0bcd6da",
+      "sha256": "7c7e9199f9754be452bc49385d72784059c7116fbffde87121be44a898863666",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

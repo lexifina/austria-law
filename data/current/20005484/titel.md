@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung, mit der Pauschalbeträge für die bei Amtshandlungen der Bundesbehörden außerhalb des Amtes von den Beteiligten zu entrichtenden Kommissionsgebühren festgesetzt werden (Bundes-Kommissionsgebührenverordnung 2007 – BKommGebV) StF: [BGBl. II Nr. 262/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/262>)
+
+Auf Grund des § 77 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, [BGBl. Nr. 51/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_51_0/1991_51_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 10/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10>), wird verordnet:

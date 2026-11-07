@@ -1,0 +1,99 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000289",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000290",
+    "valid_from": "1957-12-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000289&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:26:32.695877+00:00",
+    "response_sha256": "bd9d4193d1dc68b73578810d438241cc77af5d9d9d9b9b345b13815408eabfb9",
+    "snapshot_sha256": "892b36059fd3adeec8e69e2853a71e9c0f57438db93cd08e061aa600e1483206",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b24aaf3428e2dd4777025d9e178fe5024c13f87ceeeae1b1cf423838e2dc65b2",
+      "sha256": "6d9c98bd5efbebf9e87dde048fbf5dfc9c728d9c9fc408d8ac81cb3b7b593c28",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. November 1957, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung auf dem Gebiete des Volksbildungswesens. StF: BGBl. Nr. 249/1957 idF BGBl. Nr. 19/1958 (DFB)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 249/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_249_0/1957_249_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 19/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_19_0/1958_19_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e7e3bbaa1ef8aab54c8b67c8649c0794dc08a27b12585589d942a9a720d57ae",
+      "sha256": "49a6fd9566af58ce4d1ceb85478b404bc4fca552ab970241242b775c8f0df1aa",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Bei unveränderter materieller Rechtslage ist die Kompetenzgrundlage der in Frage stehenden Angelegenheiten nunmehr Art. VIII der B-VG-Novelle, BGBl. Nr. 215/1962."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 215/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_215_0/1962_215_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 393/1929",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=393/1929&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

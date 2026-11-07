@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich der Genfer Abkommen zum Schutze der Opfer des Krieges StF: [BGBl. Nr. 277/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_277_0/1994_277_0.pdf>)

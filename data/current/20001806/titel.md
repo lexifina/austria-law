@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die Durchführung des Meldegesetzes (Meldegesetz-Durchführungsverordnung – MeldeV) StF: [BGBl. II Nr. 66/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_66_2/2002_66_2.pdf>)
+
+Auf Grund des Meldegesetzes 1991 (MeldeG), [BGBl. Nr. 9/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_9_0/1992_9_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 98/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_98_1/2001_98_1.pdf>), wird – hinsichtlich der Festsetzung von Verwaltungsabgaben im Einvernehmen mit dem Bundesminister für Finanzen – verordnet:

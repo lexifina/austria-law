@@ -1,0 +1,1 @@
+Bundesgesetz über die Gewährung von Schulbeihilfen und Heimbeihilfen (Schülerbeihilfengesetz 1983) StF: [BGBl. Nr. 455/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_455_0/1983_455_0.pdf>) (WV)

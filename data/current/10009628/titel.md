@@ -1,0 +1,1 @@
+ANLAGE II FINANZIELLE BESTIMMUNGEN StF: [BGBl. Nr. 95/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_95_0/1987_95_0.pdf>) (NR: GP XVI [RV 1072](<https://www.parlament.gv.at/gegenstand/XVI/I/1072>) [AB 1093](<https://www.parlament.gv.at/gegenstand/XVI/I/1093>) [S. 159.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/159>))

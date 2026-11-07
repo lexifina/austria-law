@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003637",
+  "short_title": "Vier Staatsembleme – Estland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003666",
+    "valid_from": "1998-05-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003637&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:17:57.470947+00:00",
+    "response_sha256": "cdd2cfb321e9f602319f06b58a12e7bdbb1371384fda45b4742440f1e1ee5cc5",
+    "snapshot_sha256": "61f591159d8d0c17c6eed85be008d0307e4ad200bb4901a1b8fabaced31341e9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a580b97c789c0c8b4be88a3638c72d5ab552d2bd7d5037e79472168d3e8663d5",
+      "sha256": "508127e1f1f342ebd789379a99e26284badffc29e9fafc377a785b49e018c41d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend vier Staatsembleme der Republik Estland - das Amtssymbol des Präsidenten der Republik Estland, den Weißen Stern, das Adlerkreuz und das Kreuz von Terra Marina StF: BGBl. II Nr. 143/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 143/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_143_2/1998_143_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40992178dec8831b315a22b30fd28e60dc23136f40caf8795a1f40df1dac46eb",
+      "sha256": "8633a6c8e2c4c4a4a0893c4ca38d0a8edcb122461a8a549e88f19eb6007936ac",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

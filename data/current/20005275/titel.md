@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend über die Verdienststrukturstatistik im Produzierenden Bereich und in Teilen des Dienstleistungsbereichs (Verdienststrukturstatistik-Verordnung 2007) StF: [BGBl. II Nr. 66/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/66>) \[CELEX Nr. [32006L0111](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0111:DE:HTML>)\]
+
+Auf Grund der §§ 4 bis 10 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

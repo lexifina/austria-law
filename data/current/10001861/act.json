@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001861",
+  "short_title": "Auslieferung von Verbrechern",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001884",
+    "valid_from": "1937-07-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001861&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:37.291204+00:00",
+    "response_sha256": "1ed5b228dc26ba47f7056f6987a00a18686fd4cd60e884e7a0de2cfdf2e51434",
+    "snapshot_sha256": "dfd811dcaffd6eba578e28bfad8d79e0d0759c16668a39ded376a7999533edde",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ee5f9c593abcaa5d7e6f873721c56fc8c1d9fe0eb8becf1bb935fbc36ad1326",
+      "sha256": "a78bcf206102ff68fea8ba854821d4deafb55b69f50f22bed49764e44d8272fb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes, betreffend die Anwendung des österreichisch-britischen Auslieferungsvertrages auf Sansibar und die britischen Salomonen. StF: BGBl. Nr. 241/1937"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 241/1937",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=241/1937&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ede27c65623fabbe250e7cb26ffcd90a1cfd13ba80b0f51dfbfd4c89ced5bc8f",
+      "sha256": "ba0c6d6af64ee81e1d5bea706f416e74c57b76e70cfc2e712e57fa075fc304b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

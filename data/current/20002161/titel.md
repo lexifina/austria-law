@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz, mit der die Bundesrechenzentrum GmbH mit den Aufgaben einer Übermittlungs- und Verrechnungsstelle für elektronische Abfragen von Gebietskörperschaften aus der Grundbuchs- und Firmenbuchdatenbank betraut wird StF: [BGBl. II Nr. 317/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_317_2/2002_317_2.pdf>)
+
+Gemäß § 2 Abs. 6 des Bundesgesetzes über die Bundesrechenzentrum GmbH, [BGBl. Nr. 757/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 47/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_47_1/2001_47_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002752",
+  "short_title": "Vollstreckung gerichtlicher Entscheidungen - Ausführung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002775",
+    "valid_from": "1986-07-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002752&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:08:59.546964+00:00",
+    "response_sha256": "567fa642b0c1f1621942d5d86bd9a994fc6896b6f56743813dca8114abea7a74",
+    "snapshot_sha256": "49328b69fb5e061d292f41b33d5f47f9d3f9eb490387922be26a8ab50e45bd5b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2cebac0d8cc1572df2ecf8bf4cf66b286ea1746143f08f131269d8ccab64b630",
+      "sha256": "0dfc5794fb00a967527cbace527f87f2bfcb697dd984ea65d26ca9e7e0eee52c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 15. Juli 1986 betreffend den Geltungsbereich des Abkommens zwischen der Republik Österreich und dem Königreich der Niederlande über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und öffentlichen Urkunden auf dem Gebiet des Zivil- und Handelsrechtes StF: BGBl. Nr. 399/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 399/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_399_0/1986_399_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8505a340b56a8a9baf4bec6d3e5d75ed1e9347a543144a592c3f8ded0c510dff",
+      "sha256": "a5daad1ece8b64c2ff88848b033dd2c37db104a491688b6a64b1e074b5e1f0cd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 37/1966",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_37_0/1966_37_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

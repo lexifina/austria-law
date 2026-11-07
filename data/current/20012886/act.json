@@ -1,0 +1,111 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012886",
+  "short_title": "SFBG-Einmeldeverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40269324",
+    "valid_from": "2025-05-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012886&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:45:47.849238+00:00",
+    "response_sha256": "31ea9f4b4c0ca57fdcfa27eebbccf5320dbc7f8df0247498456a25a0da6182f6",
+    "snapshot_sha256": "a07527d57062ec3fe29d8c33b7195600fb11b994c6e4d7cfc2e9fa71f3c20113",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1f4bbbc59af86e40f042c76474d6f985047ae40a25c554ac31808dfc4d1e592",
+      "sha256": "c49771fa942358f0e20f24ff8a988965df94484f59dcba7cf3d5af54b2691f34",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz betreffend die zentrale elektronische Einmeldung von statistischen Daten im Anwendungsbereich des Straßenfahrzeug-Beschaffungsgesetzes (SFBG-Einmeldeverordnung) StF: BGBl. II Nr. 88/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 88/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/88"
+        },
+        {
+          "text": "BGBl. I Nr. 163/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/163"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Vorschreibung der zentralen elektronischen Einmeldung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf44af7ce438a4462c0c171e50ae80ce909c95c676a92eb285691d7e311036a1",
+      "sha256": "2f8fff0bd83afc33881c669bce5d28b3aa7594ce0ab1474a4e290e1791af98e8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 163/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/163"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "080e2e007dc7362d5a1899fbe4801dd035ec9c26c41678ffc4aca0b006ff593d",
+      "sha256": "08ea01643dec6e52263f5ed8f30c949d45f49e25bb6f1af8c6d180458b5601c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

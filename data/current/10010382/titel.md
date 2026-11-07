@@ -1,0 +1,3 @@
+Bundesgesetz über Hygiene in Bädern, Warmsprudelwannen (Whirlwannen), Saunaanlagen, Warmluft- und Dampfbädern sowie Kleinbadeteichen und über die Wasserqualität von Badegewässern (Bäderhygienegesetz – BHygG) StF: [BGBl. Nr. 254/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_254_0/1976_254_0.pdf>) (NR: GP XIV [RV 62](<https://www.parlament.gv.at/gegenstand/XIV/I/62>) [AB 155](<https://www.parlament.gv.at/gegenstand/XIV/I/155>) [S. 22.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/22>) BR: [AB 1508](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1508>) [S. 351.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/351>))
+
+Der Nationalrat hat beschlossen:

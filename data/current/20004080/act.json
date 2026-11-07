@@ -1,0 +1,401 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "20004080",
+  "short_title": "Binnenschifffahrts-Statistikverordnung 2005",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004432",
+    "valid_from": "2005-05-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004080&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:08:40.977753+00:00",
+    "response_sha256": "cb57aa0cd11269465b32cfa19d220549533d3d36e1e720c8ecf5bfaa6446bc30",
+    "snapshot_sha256": "1b66a182b4ac43acc94a1e76d7d8c1ea3fcb4755d16d7e2fb596b9f3e2100c8d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df8d841187b78d9492864acf59e33e91ae5f60dcb5912127ea3e84667696ca1b",
+      "sha256": "6ed5ad875865fed5b211b984660d819bcbbebf3ffc9eb62fb247a9277b15ae4c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Statistik im Bereich der Binnenschifffahrt (Binnenschifffahrts-Statistikverordnung 2005) StF: BGBl. II Nr. 129/2005 [CELEX-Nr. 31980L1119]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 443/2011 [CELEX-Nr.: 32006R1365] BGBl. II Nr. 18/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 129/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/129"
+        },
+        {
+          "text": "31980L1119",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L1119:DE:HTML"
+        },
+        {
+          "text": "BGBl. II Nr. 443/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/443"
+        },
+        {
+          "text": "32006R1365",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006R1365:DE:HTML"
+        },
+        {
+          "text": "BGBl. II Nr. 18/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/18"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 71/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Aufgabenbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0b9b657c98b4b762bf417238336086760f4f820234ea6745f4918842f45552c",
+      "sha256": "704f9216c48cf958d26501afc84f56de7f30b1f05eb7ad2d48ab66f20e8261a4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 62/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_62_1/1997_62_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Statistische Einheiten, Erhebungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd8f183366e3273caf6df8b3fc1cb9d5e15d9e28fe4bfd4f3ea981306a602e46",
+      "sha256": "8303e527d53e85412da76e117c81c274c2ff6c80f607b455d911fa44e4facc2d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93ffe42c25e0190c905fe33b696ff8de6227c229bd791cdfc0f2e60dc8f4f332",
+      "sha256": "b559d09ea8f77590dbcd3ef70eba20a27c7f4e8d3e9b0ebbb216c0cd912ca6e0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Periodizität, Kontinuität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ae3b56a8689f87e693f82cab1a335d5c5e20b91be0c919c643353a87333e249",
+      "sha256": "e884c18379c18fca89e974cca459e29e031bb82d318de183bb88d0787fda3245",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Erhebungsgegenstände und -merkmale",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e7495ee821207ec3afaa4f0fdcfa6a1231c77d4332b61fdf4eeac89e3a97387",
+      "sha256": "53a10256269043afda60f9f743658138c4c37ac285dd0f3255d43438aeaa0f23",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Erhebungsart",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "361ad410175ab9111c36f7229167db555d6f251a3b7e8044a6a6d023e3f8e2a3",
+      "sha256": "a4ee9ff864629fa44205b2412110bde654da12b7860564fae5f0d2f2a437dcea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Auskunftspflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d301f7f4910456840b379606a1e7c22491f1d3f70999aaeee044bc5eaf9af8e5",
+      "sha256": "49c1a28cdc863ecfc010cd3319cd50d6070bf8472bdf926c8fcd1408b3fdeaf6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Erhebungsunterlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9af644b33dfa469019a3852ff0cfd03aa0c8c87a76fe3c937c54f4224039dacd",
+      "sha256": "eb99420a33ec7305c5ff853016022b6b5d50f58be31475ba094bf616f2203607",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f7f01ee62734d8c04be5c9c3045f0f7566cc2a8839068edac0bbbc8561af65c8",
+      "sha256": "9e30a62df11c7c6116cd105594bb2705e568f09ffb98f6dd3e2fc009b206e6c3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 289/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/289"
+        },
+        {
+          "text": "BGBl. II Nr. 410/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/410"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Erstellung der Statistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62b2c86f2de343ca369944f5da89348e5af3a772b635a9805d029535e2d61a7c",
+      "sha256": "203366c208108c713e0e0847150ecbd41a3e581441186d5d10bac2c28804f5bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3cffa589d777c69c0fb970382ca700e486ccda5d93c57887187e0af36e7212b",
+      "sha256": "7d379c2dd0e95bccbc30b8443a3193a564a077be304a5a43befd5c29edd8f54c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Außer-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73880f593d4aecbdcb0cca95574152394c1fd8fde106ee4a4af5d25f77a938be",
+      "sha256": "22b8c43e5193bc49d1b86b3f98b30be23606e722fa56035de9cfe7bcb501819a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 147/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_147_2/2003_147_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11577857a536bea30b4e6f21a41dcdec625eb8f67b2d3d89fad36e7d9771661b",
+      "sha256": "3f89c33d3757ff7b548b1379e8d865553a59974497c8bd2438663430c565bd33",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2 Erhebungsmerkmale gemäß § 5 für den Schiffsverkehr",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5e0393aa814b376cf6bac2f019dd189e5841dc72c3477a826f7976ade65fa903",
+      "sha256": "09996da023cf7d324a6170602ffc8327f818f3dfb02ac9ac02fdce8d4247e419",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

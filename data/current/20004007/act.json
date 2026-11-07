@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004007",
+  "short_title": "Internationale Finanz-Corporation",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004352",
+    "valid_from": "1968-01-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004007&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:07:58.733898+00:00",
+    "response_sha256": "9f87eee472e2d7758c47b9604d0f870ea655b10f57f66819af111df9dfb4aff1",
+    "snapshot_sha256": "85cf7a442504595598619ed6e9fec9d7247cac50a76c9798556581e415a7d4f3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a141e2b27351610913523d4a7e63613ccf73fdaedd9ee4717b174697c2d50395",
+      "sha256": "2f9797c1e6867949b0d832cecebee65bba123768462613aca8458f8af3072c2a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 15. Dezember 1967 betreffend den Geltungsbereich des Abkommens über die Internationale Finanz-Corporation StF: BGBl. Nr. 31/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 31/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_31_0/1968_31_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7edc0854f7c44fd4d6e8b643634b0fdc625bbfe9bcc4e58faf58e5789caeba2",
+      "sha256": "157ef54603eba8ce12de2b85a202fc0a1ae9df115ca1deb62abc6b1d251d8e2b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 204/1956",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_204_0/1956_204_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 363/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_363_0/1965_363_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 21/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_21_0/1957_21_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

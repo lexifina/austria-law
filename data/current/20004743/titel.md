@@ -1,0 +1,7 @@
+Verwaltungsvereinbarung zwischen dem Bundesministerium für Inneres der Republik Österreich, und dem Ministerium des Inneren der Tschechischen Republik, über praktische Modalitäten zur Durchführung der Verordnung (EG) Nr. 343/2003 des Rates vom 18. Februar 2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaates, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist StF: [BGBl. III Nr. 84/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2006/84>)
+
+Das Bundesministerium für Inneres der Republik Österreich und das Ministerium des Inneren der Tschechischen Republik (weiter nur: Vertragsparteien), geleitet von der Bemühung, gute Beziehungen und die Zusammenarbeit im Bereich der gemeinsamen europäischen Asylpolitik im Einklang mit der Bestimmung des Artikels 23 der Verordnung des Rates (EG) Nr. 343/2003 des Rates vom 18. Februar 2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaates, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist (weiter nur: Verordnung), zu entwickeln,
+
+haben folgendes vereinbart:
+
+Die Mitteilungen gemäß Art. 10 Abs. 1 der Vereinbarung wurden am 20. Februar bzw. 24. Februar 2006 (eingelangt am 1. März 2006) abgegeben; die Vereinbarung ist gemäß derselben Bestimmung daher mit 31. März 2006 in Kraft getreten.

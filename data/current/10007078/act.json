@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007078",
+  "short_title": "Übereinkommen zwischen Österreich und Amerika über den Handel mit bestimmten Stahlerzeugnissen – Briefwechsel",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – USA",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007191",
+    "valid_from": "1990-05-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007078&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:01:07.229150+00:00",
+    "response_sha256": "9147c97ecdbc16be619ac6a38fdcb710dc5107860387941de49ad681aea4c0a4",
+    "snapshot_sha256": "ebf66530ba0385e032c4e3b1c206ef672364109ceadf0aee9659a20b3ac5fe91",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91f10711fc13f60ca8a3de77ac6a10b53fd220bb3c74f70198948af614065c16",
+      "sha256": "fa1dfb212358850bfc0bcb7dae877f519770f78f1eec0b039c183296c5ee9982",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Übereinkommen zwischen der Regierung der Republik Österreich und der Regierung der Vereinigten Staaten von Amerika über den Handel mit bestimmten Stahlerzeugnissen StF: BGBl. Nr. 242/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 242/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_242_0/1990_242_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "(Übersetzung)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "96d9c023e5b24f26dac5ef6d154ff3d5f622f482a39a92169dbad651f242788c",
+      "sha256": "59b6b49dc1f9c1516a58b6e7759ceda8f490d30cde36fa48130110d70bbdc4b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

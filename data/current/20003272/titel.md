@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen der Bank für Internationalen Zahlungsausgleich in chinesischer Sprache StF: [BGBl. II Nr. 155/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/155>)

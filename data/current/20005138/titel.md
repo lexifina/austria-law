@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über die Gute Laborpraxis 2006 StF: [BGBl. II Nr. 450/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/450>) \[CELEX-Nr.: [32004L0010](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0010:DE:HTML>), [32004L0009](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0009:DE:HTML>)\]
+
+Auf Grund des § 48 Abs. 1 und des § 62 Abs. 1 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 153/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/153>), wird verordnet:

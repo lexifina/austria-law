@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Praxiserfordernisse für Vertragsbedienstete im Pädagogischen Dienst und über den Entfall der ergänzenden Lehramtsausbildung in bestimmten Verwendungen StF: [BGBl. II Nr. 296/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/296>)
+
+Auf Grund des § 3 Abs. 6 des Land- und forstwirtschaftlichen Landesvertragslehrpersonengesetzes–LLVG, [BGBl. Nr. 244/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_244_0/1969_244_0.pdf>), zuletzt geändert [BGBl. I Nr. 64/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/64>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

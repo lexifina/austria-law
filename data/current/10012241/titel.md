@@ -1,0 +1,3 @@
+Bundesgesetz über Sicherheitsmaßnahmen, Normalisierung und Typisierung auf dem Gebiete der Elektrotechnik (Elektrotechnikgesetz 1992 – ETG 1992) StF: [BGBl. Nr. 106/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_106_0/1993_106_0.pdf>) (NR: GP XVIII [RV 806](<https://www.parlament.gv.at/gegenstand/XVIII/I/806>) [AB 896](<https://www.parlament.gv.at/gegenstand/XVIII/I/896>) [S. 100.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/100>) BR: [AB 4446](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4446>) [S. 564.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/564>))
+
+Der Nationalrat hat beschlossen:

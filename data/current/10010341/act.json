@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10010341",
+  "short_title": "Einfuhr von Pflanzen, Pflanzenteilen, Pflanzenerzeugnissen, Erde",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – BRD",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010560",
+    "valid_from": "1970-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010341&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:41:52.309710+00:00",
+    "response_sha256": "563a9766994a0cbf1fc2c2a1d0a5f11fa53b160d7dc722fd04b961884b2cf8c1",
+    "snapshot_sha256": "f39fb064b526e6b50fb2a4f8545c7fffa07360f43d5beb76a4482275d4269db3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5fc2b49af5e61ea0e6fa16c6f0c4f45e5f173e2327f112ecc215103b824ce1a3",
+      "sha256": "a127b9eb856a5ddb308adc23cadd952f4724b110314c7868011cf565e167cfa8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Verzicht auf gewisse administrative und phytosanitäre Behinderungen bei der Einfuhr von Pflanzen, Pflanzenteilen, Pflanzenerzeugnissen und Erde StF: BGBl. Nr. 340/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 340/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_340_0/1970_340_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "DER BOTSCHAFTER DER BUNDESREPUBLIK DEUTSCHLAND",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "941dd64d3fcc86563a596dd8404389e3de0b929e6adf607568f18becce2ed198",
+      "sha256": "f6b285ae1ab37cdb87cdef712daa770ebce493c9f9a7ad9a5687d6f1cc38d9c3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 339/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_339_0/1970_339_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000050",
+  "short_title": "Staatsvertrag von St. Germain (Fristen)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000050",
+    "valid_from": "1921-09-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000050&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:21:36.882218+00:00",
+    "response_sha256": "5c533e287862593c7bb11521711cf732d7ccba97290fc10e154fdb551b44d124",
+    "snapshot_sha256": "7bb921d340fae0a6ab76776bded65cfe593a2d49bebb42df5bbd23dc79cdbede",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4d5ea8a92fe93fbaae853e2d98415be1150072b2c865b0b4d524a508d768372c",
+      "sha256": "c55ac79e554e7a9ee766ac232eea9dee1ac97e01778753dc9930c2b3f762e552",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Finanzen im Einvernehmen mit den beteiligten Ministerien vom 24. August 1921 über die Fristen in Anwendung des X. Teiles des Staatsvertrages von Saint-Germain und des mit der französischen Regierung abgeschlossenen Übereinkommens im Verhältnis zu Elsaß-Lothringen. StF: BGBl. Nr. 512/1921"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 512/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=512/1921&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3e7568ec30ff53f0bc734da55fd00eb2985ad56f2f09277a965883317349bf57",
+      "sha256": "4e5d2ae25e67f8ac27e6e26d9654292ebc7d07697200df08d29ca2fb1e22c3fc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

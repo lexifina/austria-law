@@ -1,0 +1,9 @@
+Artikel 148h. (1) Die Beamten der Volksanwaltschaft ernennt auf Vorschlag und unter Gegenzeichnung des Vorsitzenden der Volksanwaltschaft der Bundespräsident; das Gleiche gilt für die Verleihung von Amtstiteln. Der Bundespräsident kann jedoch den Vorsitzenden der Volksanwaltschaft ermächtigen, Beamte bestimmter Kategorien zu ernennen. Die Hilfskräfte ernennt der Vorsitzende der Volksanwaltschaft. Der Vorsitzende der Volksanwaltschaft ist insoweit oberstes Verwaltungsorgan und übt diese Befugnisse allein aus.
+
+(2) Die Diensthoheit des Bundes gegenüber den bei der Volksanwaltschaft Bediensteten wird vom Vorsitzenden der Volksanwaltschaft ausgeübt.
+
+(3) Zur Besorgung der Aufgaben nach Art. 148a Abs. 3 hat die Volksanwaltschaft Kommissionen einzusetzen und einen Menschenrechtsbeirat zu ihrer Beratung einzurichten. Der Menschenrechtsbeirat besteht aus einem Vorsitzenden, einem stellvertretenden Vorsitzenden und sonstigen Mitgliedern und Ersatzmitgliedern, die von der Volksanwaltschaft ernannt werden. Inwieweit die Volksanwaltschaft bei der Ernennung der Mitglieder und Ersatzmitglieder des Menschenrechtsbeirats an Vorschläge anderer Stellen gebunden ist, wird bundesgesetzlich bestimmt. Der Vorsitzende, der stellvertretende Vorsitzende und die sonstigen Mitglieder des Menschenrechtsbeirats sind in Ausübung ihrer Tätigkeit an keine Weisungen gebunden.
+
+(4) Zur Besorgung der Aufgabe nach Art. 148a Abs. 6 hat die Volksanwaltschaft eine weisungsfreie Rentenkommission einzurichten. Dieser haben jedenfalls Vertreter von Opferhilfeorganisationen anzugehören.
+
+(5) Die Volksanwaltschaft beschließt eine Geschäftsordnung und eine Geschäftsverteilung, in der insbesondere zu bestimmen ist, welche Aufgaben von den Mitgliedern der Volksanwaltschaft selbständig wahrzunehmen sind. Die Beschlussfassung über die Geschäftsordnung und die Geschäftsverteilung erfordert Einstimmigkeit der Mitglieder der Volksanwaltschaft.

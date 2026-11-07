@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft und Arbeit über den Ausspruch des Verfassungsgerichtshofes, dass die Satzung der Vorsorgeeinrichtung der Kammer der Wirtschaftstreuhänder und die Beitragsordnung für die Vorsorgeeinrichtung der Kammer der Wirtschaftstreuhänder, jeweils kundgemacht im Amtsblatt der Kammer der Wirtschaftstreuhänder Nr. 2/2000, gesetzwidrig waren StF: [BGBl. II Nr. 273/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_273_2/2001_273_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, zuletzt geändert durch die Kundmachung [BGBl. I Nr. 34/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_34_1/2001_34_1.pdf>), wird kundgemacht:

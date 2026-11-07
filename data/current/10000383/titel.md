@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 25. April 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung von gesetzlichen Vorschriften zur Regelung der Herstellung und Erhaltung von Straßen sowie deren Ausstattung mit Beleuchtungsanlagen, die der Verkehrsregelung und der Verkehrssicherheit dienen. StF: [BGBl. Nr. 105/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_105_0/1963_105_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 11. Jänner 1963, K II-3/62 – dem Bundeskanzleramt am 23. April 1963 zugestellt –, zusammengefaßt hat, kundgemacht:

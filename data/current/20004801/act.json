@@ -1,0 +1,101 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004801",
+  "short_title": "Entscheidung der Europäischen Kommission zur Änderung der Entscheidung 2001/171/EG",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005247",
+    "valid_from": "2006-06-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004801&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:20:14.199452+00:00",
+    "response_sha256": "f2beea4a3d9b873019aade63fe20c6211ed2b5eaf2320c63c4b3bf40c02158c5",
+    "snapshot_sha256": "60688ad846f022b67170b599d2d775e8e314afb3a1647da1590284ed702145d2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0887d6df96a0c43d85641784f9bf66345b7e0ae68ba7c33d57ea5859bd4c97de",
+      "sha256": "7fcfa74c009b4e3b0b151287a4716424e76681b4e6a91d705261889cef40eee1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bekanntmachung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Veröffentlichung einer Entscheidung der Europäischen Kommission zur Änderung der Entscheidung 2001/171/EG StF: BGBl. II Nr. 243/2006 [CELEX-Nr.: 31994L0062, 32006D0340]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 243/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/243"
+        },
+        {
+          "text": "31994L0062",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0062:DE:HTML"
+        },
+        {
+          "text": "32006D0340",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006D0340:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/34"
+        },
+        {
+          "text": "BGBl. Nr. 648/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_648_0/1996_648_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 440/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_440_2/2001_440_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60c161d20ba452c53def5ea2f89f662e6d4ed6486021a9beb2c5cf31d224dc5e",
+      "sha256": "c2d5a11327a77ebc721ef4a0f5cc0f600039018e55d25dbe05ed9908d685014b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

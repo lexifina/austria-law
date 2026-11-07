@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Fahne der Organization of the Black Sea Economic Cooperation (BSEC) StF: [BGBl. II Nr. 30/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/30>)

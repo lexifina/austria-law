@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 25. Jänner 1954, betreffend dreizehn Hoheitszeichen des Staates Israel. StF: [BGBl. Nr. 37/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_37_0/1954_37_0.pdf>)

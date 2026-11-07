@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004765",
+  "short_title": "Handelsübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Griechenland",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005198",
+    "valid_from": "1935-07-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004765&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:32.137953+00:00",
+    "response_sha256": "1b233cac78284d489639a6538d8c43541f5f2fc96f3c41cc8244cb007b3bc8d7",
+    "snapshot_sha256": "3bf32146c605d2a2823e6f0706a717c9c80816f21d14760564b73e3c180f1bd2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0820a8c6f4bd408b3564bde0f2225ac06124f6a61877c5d27651dd0259d8967",
+      "sha256": "c04464f8932a90daf233380e3678621d052caa9a06f0644a77e20b2fe225638c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "(Übersetzung.) Notenwechsel über die Abänderung des Handelsübereinkommens zwischen Österreich und Griechenland. StF: BGBl. Nr. 334/1935"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 334/1935",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=334/1935&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "43632e1974ba93c565c92c17366d379ddcac8b56db514a59f7cb2e89ea8d3d17",
+      "sha256": "bfa01d6a458d6de228e92965984ebbc44ba60e1aa1f206b6245a2284fdfd8b13",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20003530",
+  "short_title": "Übertragung von Aufgaben gemäß § 5 Abs. 2 Z 4 des BHG",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003843",
+    "valid_from": "2004-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003530&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:01:21.671184+00:00",
+    "response_sha256": "507598f4076961935b7d5ce606957231af7730917185c9539ab588b87c5bfefa",
+    "snapshot_sha256": "75189d04454d34bfdd3844c05ae2b5d35ccb3dfed1feb59995ef6bb9d9357f9f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2abd8dbd29687a4a9f68a697907acbb484cbe9924f453cb716fc671690fd8023",
+      "sha256": "0cc3a5ed5a20c3947eeacb5eb48582143bf15a84d82cd5d120b3275c6284958f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen über die Übertragung von Aufgaben gemäß § 5 Abs. 2 Z 4 des Bundeshaushaltsgesetzes StF: BGBl. II Nr. 339/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 339/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/339"
+        },
+        {
+          "text": "BGBl. Nr. 231/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_231_0/1986_231_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 213/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_213_0/1986_213_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2fa5f24f3b6f319718a1c72f15849b170a4224b84171cf3b0287dc70eba93bcb",
+      "sha256": "c7e557ce347d6e0771746ce415fec1bddcd9301535574ce31aab0cd3fa9b0862",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a39daa3e53d57d4d9f878f229f2186afb1e949b9a2ac6f93fa8834fcdb3c582d",
+      "sha256": "f0d17947ee4c232c84b1a299b6c38a9c021abfa68b57be9e8095d9bf717fe9fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

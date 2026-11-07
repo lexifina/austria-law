@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002139",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002162",
+    "valid_from": "1969-11-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002139&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:58:35.892100+00:00",
+    "response_sha256": "a1a2829823c45be965e981742df01e420fca058552b6d6e0e031e6348b96bc6e",
+    "snapshot_sha256": "f7843bb1bb2471aafa22847e04b1183d7bb1335eb0df6501a1f97854792c0b47",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83e36a0bbfd5fe5692d4061f5846f7843600cdd0f8e133679cf5a50ee4ee2659",
+      "sha256": "346f0205400b97330f04f18a37dbe2c8721f06f307a27f439ca086300bcf3ca4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel über die Weitergeltung des österreichisch-britischen Rechtshilfeabkommens im Verhältnis zwischen der Republik Österreich und der Republik Singapur StF: BGBl. Nr. 435/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 435/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_435_0/1969_435_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3f68c0afa12e2f441ea2e970fe8c169da49c11c2c5e05893d979bb31ada7197",
+      "sha256": "1df21acac6b20d66e5e64f5817fccf7d74ef22653d168b8e5b475a660724fd80",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

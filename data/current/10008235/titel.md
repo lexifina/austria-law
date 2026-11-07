@@ -1,0 +1,3 @@
+Bundesgesetz über das Dienst- und Besoldungsrecht der Vertragslehrerinnen und Vertragslehrer der Länder für öffentliche land- und forstwirtschaftliche Berufs- und Fachschulen (Land- und forstwirtschaftliches Landesvertragslehrpersonengesetz – LLVG) StF: [BGBl. Nr. 244/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_244_0/1969_244_0.pdf>) (NR: GP XI [RV 1264](<https://www.parlament.gv.at/gegenstand/XI/I/1264>) [AB 1323](<https://www.parlament.gv.at/gegenstand/XI/I/1323>) [S. 144.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/144>) BR: [S. 279.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/279>))
+
+Der Nationalrat hat beschlossen:

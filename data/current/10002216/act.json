@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002216",
+  "short_title": "Amtliche Gewährzeichen - Niederlande",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002239",
+    "valid_from": "1972-01-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002216&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:00:16.391568+00:00",
+    "response_sha256": "59bc2a6597d2d745619090a33d06904aa1d954ae61ec9dc46b15021ac8f09cf0",
+    "snapshot_sha256": "5caea086b9f40c6e180fe3388791ea656f84ec6aaea34fc7d0d1f1c862a648a4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ba6abb516a36ad61f3d4f18e3f35b3ac44ed804225b953632d8f4392f116871",
+      "sha256": "bbcf434bfe52db364ba22aa5591552cf7945585144e5f99c58e7431da9307c27",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 16. Dezember 1971 betreffend niederländische amtliche Gewährzeichen für Käse StF: BGBl. Nr. 13/1972"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 13/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_13_0/1972_13_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "504852d15f220eb772bc783a374b680697d95532ca63835a7f9c50c6289469aa",
+      "sha256": "7ef4e2b307872e1f7cbc64b51cabc7a5a76906ece31d5beb707d7b312222c7b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

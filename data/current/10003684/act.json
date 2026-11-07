@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003684",
+  "short_title": "Errichtung einer zweiten Notarstelle in Bruck an der Mur",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003714",
+    "valid_from": "1999-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003684&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:42.110810+00:00",
+    "response_sha256": "4a31ff888526ef1f77f5c382d33c4963544c56cdd5d761d55f6444ef073f8cb6",
+    "snapshot_sha256": "61c398678b7b17e9b4f743336408829d9fe8e66a717acacf401913c5ba531b3c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7fd31a349a2c48a1a4e7cf9c51d6f361cd49448c197dc1fdf189b4f4270d2618",
+      "sha256": "251d507bf0ba33dfd8b201b21d3de9ceefaf47ca11f818507eacff02c769b1e3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Bruck an der Mur StF: BGBl. II Nr. 301/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 301/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_301_2/1999_301_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "98875aa3c6be2ecdb5816bfdfc1caa3005a4f66d489dc939dd2777c742022c9e",
+      "sha256": "6cd9fbfd34ecce05a6048c577ce0305eac6ec6092593485557efd770f2b4b9fd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

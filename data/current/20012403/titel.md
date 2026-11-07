@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Berechnungsgrundlagen zur Bemessung der Beiträge zum nationalen Abwicklungsfinanzierungsmechanismus gemäß § 126 Abs. 5 BaSAG sowie über dessen angemessene Zielausstattung (Beitragsparameterverordnung 2023 – BeiPaV 2023) StF: [BGBl. II Nr. 338/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/338>)
+
+Auf Grund des § 126 Abs. 6 des Sanierungs- und Abwicklungsgesetzes – BaSAG, [BGBl. I Nr. 98/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/98>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 237/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237>), wird verordnet:

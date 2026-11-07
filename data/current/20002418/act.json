@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20002418",
+  "short_title": "Augenoptik-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002655",
+    "valid_from": "2003-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002418&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:45:47.040890+00:00",
+    "response_sha256": "6fa4113319425f1e9e6d6f336129b3030d5046a6e383202f82be0de9901fdd54",
+    "snapshot_sha256": "a6a44e84536b0bb0271fd0f3a133cba8c946f0749143305cd6092ca91b891d7a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b60dfbbd2ff01e5ad3ad169814e51f9b391fa028cdc72e7e03577176aebebe7a",
+      "sha256": "feec084c2f7203dbe5caf4c3f87cf5bf23eec81f0ac9d3fa41e475b692aed92b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das Handwerk der Augenoptik (Augenoptik-Verordnung) StF: BGBl. II Nr. 27/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 27/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_27_2/2003_27_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_111_1/2002_111_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7374898291fb6ab1719ed1a24e9fb81d6e4eced29c9fda95e1196c8dac466fb0",
+      "sha256": "4fbe2a826253ad5d2f337cae0e7e6ed2d4fe97db06336938557b78b287b2eb44",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d460bb34ce3fb2d68b2a4c6e62b663858ec2d5a7afe583e836d3e6fa13817aa",
+      "sha256": "7b71c3d40135caf19e727a6bd0e53b18825d37e5da0c25fccca978a07b97b47c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

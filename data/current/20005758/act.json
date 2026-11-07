@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005758",
+  "short_title": "Teilungspläne der Statutarstadt Wiener Neustadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006396",
+    "valid_from": "2008-04-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005758&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:35:06.199934+00:00",
+    "response_sha256": "d560fb57753cb0241a2b6dccbddaf5971257a7a2165dbbfaf3d96ccfdaf1ae58",
+    "snapshot_sha256": "07a65d3717f5d18004f4f170d1856af3b2d02e1c6f1d43dfbe69bfdddd179cf3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cac559145c63ff4943cd42573f80f54be59451a01ffadedccb6ca4c58d90c3e6",
+      "sha256": "54e4120b437a53afdcc8771f6489de8e5de150b674823e790d110e1f069ec759",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über Teilungspläne der Statutarstadt Wiener Neustadt StF: BGBl. II Nr. 116/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 116/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/116"
+        },
+        {
+          "text": "BGBl. Nr. 3/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=3/1930&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_112_1/2003_112_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "096e448fce8136475b40441aa420fadc122b2d612490052e5046107d5dcf1499",
+      "sha256": "6989ca56c439cc8a16a81266fc26cc27718e251f2cf035aa190fbab0b6dffa08",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

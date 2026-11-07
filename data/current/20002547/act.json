@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002547",
+  "short_title": "Hilfeleistung an Hinterbliebene",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002786",
+    "valid_from": "2003-02-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002547&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:48:53.565890+00:00",
+    "response_sha256": "c9878b5a693b42bff75e27770200c3d8f06716a5bd92acd1505e40f9bd226bd9",
+    "snapshot_sha256": "8a1749707d7f6762f490f4ed38d51b0f30046923b32b8a21b4c80bb78be63bd9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a888588cce91b59635ba5608c1b6ab36ae6c1c7b51c91a3a7274d43b64312ee",
+      "sha256": "199e385306f59086f8d59d4e7b5add0fcc0f93702d4d8778ea37adbf703211c7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Inneres betreffend die Auslobung einer besonderen Hilfeleistung an Hinterbliebene nach entsendeten Personen StF: BGBl. II Nr. 118/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 118/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_118_2/2003_118_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 66/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_66_1/1999_66_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 87/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_87_1/2002_87_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50fbd3623d15add5855ff38544fd7bc951dd28eebde46205226d59a74de99249",
+      "sha256": "f6352fd6d1ae985e5c9f1610511c30a085d526a76391cd1d0127e8ba0e9605a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

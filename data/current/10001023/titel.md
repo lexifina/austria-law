@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 10. April 1989 über den Ausspruch des Verfassungsgerichtshofes, daß einige Worte in der lit. F der Verordnung des Bürgermeisters der Gemeinde Horn, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, gesetzwidrig waren StF: [BGBl. Nr. 188/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_188_0/1989_188_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

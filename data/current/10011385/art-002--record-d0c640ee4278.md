@@ -1,0 +1,13 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Fahrzeuge, deren Type oder die einzeln vor dem Inkrafttreten des Art. I Z 13 genehmigt worden sind und die zwar den bisherigen Vorschriften, nicht aber dem Art. I Z 13 entsprechen, sind von dessen Bestimmungen ausgenommen.
+
+(2) Kraftwagen, die zum Ziehen von nach Abs. 1 von Art. I Z 13 ausgenommenen Anhängern mit einer Druckluftbremsanlage bestimmt sind, müssen auch den bisherigen Vorschriften über Einleitungsdruckluftbremsanlagen entsprechen.
+
+(3) Begutachtungsformblätter, die der Anlage 4b in der Fassung der 6. Novelle, [BGBl. Nr. 356/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_356_0/1972_356_0.pdf>), entsprechen, dürfen noch bis zum 30. Juni 1981 verwendet werden.
+
+(4) Sicherheitsgurte sind von Art. I Z 10 (§ 1c Abs. 8a) ausgenommen, wenn sie entweder einer vor dem Inkrafttreten dieser Verordnung genehmigten Type angehören oder wegen ihrer Anbringung an vor dem 1. Oktober 1972 genehmigten Fahrzeugen gemäß § 5 Abs. 3 KFG 1967 nicht genehmigungspflichtig sind.
+
+(5) Das Anbringen von Sicherheitsgurten für erwachsene Personen, die nicht dem Art. I Z 10 (§ 1c, Abs. 8a) entsprechen, an Fahrzeugen, deren Type oder die einzeln nach dem Inkrafttreten dieser Verordnung genehmigt werden, ist unzulässig.

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation (EUTELSAT) StF: [BGBl. Nr. 488/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_488_0/1994_488_0.pdf>)

@@ -1,0 +1,1 @@
+Bundesgesetz über die Veräußerung von beweglichem Bundesvermögen StF: [BGBl. I Nr. 113/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_113_1/2002_113_1.pdf>) (NR: GP XXI [RV 1158](<https://www.parlament.gv.at/gegenstand/XXI/I/1158>) [AB 1206](<https://www.parlament.gv.at/gegenstand/XXI/I/1206>) [S. 110.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/110>))

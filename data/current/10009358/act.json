@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009358",
+  "short_title": "Anerkennung der Armenisch-apostolischen Kirche in Österreich",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009549",
+    "valid_from": "1973-01-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009358&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:31:06.502750+00:00",
+    "response_sha256": "353a6eadda3727aff400a92e96372c9f533ed0550adaae525a948560c1247706",
+    "snapshot_sha256": "4d5a6d452e624b197276ee47dba9f9df18db26fbe283c3eaefffb95ee5aad256",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78ed0e207ae326c9767ad5c1cc6221368609a1bd3c70566e91d74250b548af50",
+      "sha256": "37a41f464d20a554ba14b1d7209e775d0555e0f64c08f9bb07231b680bcacba6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Unterricht und Kunst vom 12. Dezember 1972 betreffend die Anerkennung der Anhänger der Armenisch-apostolischen Kirche in Österreich als Religionsgesellschaft StF: BGBl. Nr. 5/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 5/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_5_0/1973_5_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05148d63348627bec7ce10b9ecbb3b31f76be9a911ea5a9591f54ccf706c99b3",
+      "sha256": "2de3b0d402182c315be008feb480a80312a586aa654b3e3eba609856766e2623",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

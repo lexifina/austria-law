@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Embleme, Name und Abkürzungen des Internationalen Zentrums zur Beilegung von Investitionsstreitigkeiten (ICSID) StF: [BGBl. II Nr. 390/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/390>)

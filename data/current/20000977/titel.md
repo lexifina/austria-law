@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Kultur über die Verleihung der Bezeichnung „Fachhochschule“ an das „Technikum Kärnten – Verein zur Errichtung der Fachhochschule Spittal/Drau“ StF: [BGBl. II Nr. 356/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_356_2/2000_356_2.pdf>)
+
+Gemäß § 15 Abs. 1 des Bundesgesetzes über Fachhochschul-Studiengänge (Fachhochschul-Studiengesetz – FHStG), [BGBl. Nr. 340/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_340_0/1993_340_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 72/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_72_1/1998_72_1.pdf>), wird verordnet:

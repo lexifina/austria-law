@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 16. Feber 1988 betreffend den Geltungsbereich des Allgemeinen Zoll- und Handelsabkommens (GATT) StF: [BGBl. Nr. 116/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_116_0/1988_116_0.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009526",
+  "short_title": "Rechtsstellung einer Gemeinde der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009717",
+    "valid_from": "1983-02-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009526&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:33:26.944610+00:00",
+    "response_sha256": "eb7402bac0142c3d9080b2069890c5b0b9414ae0320fdcb6327311a9963ad427",
+    "snapshot_sha256": "6143d9ad88d4b45df81dfff83c786a070023b793d4186f32050b68f60b6e9f70",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77dd2dfbdcb0b6e747f021acb5c4f268c4aa4e5afb6b3e4a0b5666dda2a93b6d",
+      "sha256": "457c0dd3219b297897926188ec28e1d908622a399938e887361cabe0828ab3aa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und Kunst vom 3. Feber 1983 über die Rechtsstellung einer Gemeinde der Evangelischen Kirche StF: BGBl. Nr. 112/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 112/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_112_0/1983_112_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8073269cdecb27dcd1ec7f28983ca3c661af7cbcc2ed9136bec517a0a74dea49",
+      "sha256": "f86b20e2eb82686c4d0872ed42a8ec085e4337512e838ad259a69e6294efec4c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

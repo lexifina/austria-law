@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über die Sicherheits- und Gesundheitsschutzkennzeichnung (Kennzeichnungsverordnung - KennV) StF: [BGBl. II Nr. 101/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_101_2/1997_101_2.pdf>) \[CELEX-Nr.: [392L0058](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0058:DE:HTML>)\]
+
+Auf Grund der §§ 3 Abs. 7 und 20 Abs. 2 des Bundesgesetzes über Sicherheit und Gesundheitsschutz bei der Arbeit (ArbeitnehmerInnenschutzgesetz - ASchG), [BGBl. Nr. 450/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 9/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_9_1/1997_9_1.pdf>), wird verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz über den Aufwandersatz von gesetzlichen Interessenvertretungen und freiwilligen kollektivvertragsfähigen Berufsvereinigungen in Arbeitsrechtssachen (Aufwandersatzgesetz) StF: [BGBl. Nr. 28/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_28_0/1993_28_0.pdf>) (NR: GP XVIII [RV 802](<https://www.parlament.gv.at/gegenstand/XVIII/I/802>) [AB 916](<https://www.parlament.gv.at/gegenstand/XVIII/I/916>) [S. 99.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/99>) BR: [AB 4423](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4423>) [S. 563.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/563>))
+
+Der Nationalrat hat beschlossen:

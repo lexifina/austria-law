@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 3. Feber 1987 betreffend den Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von wissenschaftlichem Gerät StF: [BGBl. Nr. 59/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_59_0/1987_59_0.pdf>)

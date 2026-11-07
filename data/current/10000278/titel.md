@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 14. Mai 1956, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung des Betriebes von Garagen und Einstellplätzen sowie zur Regelung der behelfsmäßigen Einstellung von Kraftfahrzeugen. StF: [BGBl. Nr. 108/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_108_0/1956_108_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, werden folgende Rechtssätze kundgemacht, in denen der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 19. März 1956, K II-2/55, zusammengefaßt hat:

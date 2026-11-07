@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit, zur Bezeichnung der Rohstoffe zur direkten Erzeugung von Biokraftstoffen, die gemäß den Bestimmungen des Erdölbevorratungs- und Meldegesetzes 1982 der Vorratspflicht unterliegen und ein Umrechnungsschlüssel festgelegt wird (Biokraftstoffbevorratungs-Verordnung) StF: [BGBl. II Nr. 283/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/283>)
+
+Gemäß Art. II § 1 Abs. 1 Z 3a und Art. II § 8 Abs. 4 des Erdöl-Bevorratungs- und Meldegesetzes 1982, BGBl. Nr. 546, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 106/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/106>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

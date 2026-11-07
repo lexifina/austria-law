@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Umwelt, Jugend und Familie vom 22. April 1987 über die Abbaubarkeit bestimmter Waschmittelinhaltsstoffe und über die Bestimmung des Phosphatgehaltes StF: [BGBl. Nr. 239/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_239_0/1987_239_0.pdf>)
+
+Auf Grund des § 3 sowie des § 4 Abs. 4 des Waschmittelgesetzes, [BGBl. Nr. 300/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_300_0/1984_300_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Gesundheit und öffentlicher Dienst, dem Bundesminister für wirtschaftliche Angelegenheiten sowie dem Bundesminister für Land- und Forstwirtschaft verordnet:

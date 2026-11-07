@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 15. Juni 1979 betreffend den Namen, die Abkürzung des Namens, das Emblem und die Flagge der Europäischen Organisation für astronomische Forschung in der südlichen Hemisphäre (ESO) StF: [BGBl. Nr. 297/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_297_0/1979_297_0.pdf>)

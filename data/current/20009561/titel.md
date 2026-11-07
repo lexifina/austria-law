@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen gemäß § 6 Abs. 1 in Verbindung mit § 7 Abs. 1 des Bundesgesetzes über die Förderung von Handwerkerleistungen, [BGBl. I Nr. 31/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/31>) i.d.F. [BGBl. I Nr. 45/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/45>) StF: [BGBl. II Nr. 154/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/154>)
+
+Auf Grund des § 6 Abs. 1 in Verbindung mit § 7 Abs. 1 des Bundesgesetzes über die Förderung von Handwerkerleistungen, [BGBl. I Nr. 31/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/31>) i.d.F. [BGBl. I Nr. 45/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/45>) wird verordnet:

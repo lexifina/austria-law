@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft über das Aktionsprogramm zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen (Nitrat-Aktionsprogramm-Verordnung – NAPV) StF: [BGBl. II Nr. 495/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/495>) \[CELEX-Nr.: [31991L0676](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0676:DE:HTML>)\]
+
+Auf Grund der §§ 55p und 133 Abs. 6 Wasserrechtsgesetz 1959 (WRG 1959), BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 73/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/73>), wird verordnet:

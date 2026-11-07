@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Land- und Forstwirtschaft vom 9. Juni 1986 über die Feststellung des Verfassungsgerichtshofes, daß die Z 2 sowie die Worte „. . . und Eigentumsübertragungen . . .'' in den Absätzen 1 und 2 der Z 4 der Verordnung des geschäftsführenden Ausschusses des Milchwirtschaftsfonds vom 22. März 1983 betreffend den Übergang der Einzelrichtmenge auf einen anderen Betrieb im Falle der Verpachtung oder der Eigentumsübertragung von Futterflächen gesetzwidrig waren StF: [BGBl. Nr. 315/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_315_0/1986_315_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 wird kundgemacht:

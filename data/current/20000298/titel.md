@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales betreffend die Einbeziehung weiterer Personengruppen in den anspruchsberechtigten Personenkreis des Bundespflegegeldgesetzes (Einbeziehungsverordnung 1999) StF: [BGBl. II Nr. 466/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_466_2/1999_466_2.pdf>)
+
+Auf Grund des § 3 Abs. 3 des Bundespflegegeldgesetzes, [BGBl. Nr. 110/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_110_0/1993_110_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_111_1/1998_111_1.pdf>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

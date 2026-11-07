@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000904",
+  "short_title": "VfGH-Aufhebung Satzung Versorgungsfonds d. BK d. Tierärzte Öster.",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000907",
+    "valid_from": "1987-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000904&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:37:56.324335+00:00",
+    "response_sha256": "2360bff77796f0fce9841f989931c4a233204a6d8e1e47e55a5db1c39524a4bf",
+    "snapshot_sha256": "b4ae98efd73904eb694b48aecbe10bbd40c3f563ea3afc20d34018cebe18748e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31a4a91f44f9e3d207dedb7ec5b8d249c65663ffc85d262757ddfa38b091fc35",
+      "sha256": "58d4e065c7450faefbee7570455ad82cf907ad347fb9e937689c38bbcb4bcd4a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Gesundheit und Umweltschutz vom 6. März 1987 über die Aufhebung des § 6 Abs. 1 erster und zweiter Satz der Satzung des Versorgungsfonds der Bundeskammer der Tierärzte Österreichs sowie der Beschlüsse der Hauptversammlung der Bundeskammer der Tierärzte Österreichs vom 1. April 1978, vom 31. März 1979 und vom 29. März 1980, mit denen die Fondsumlagen für Mitglieder festgesetzt wurden, durch den Verfassungsgerichtshof StF: BGBl. Nr. 107/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 107/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_107_0/1987_107_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "010d59390d3763c175863176629060500252647ad2aa78afe7d754878b380167",
+      "sha256": "362d81adf87973bad7a7b615510e3288d02751b422af8045e42fe312f0aef7c3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

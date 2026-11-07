@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10006347",
+  "short_title": "Harmlose pyrotechnische Scherzartikel",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11006460",
+    "valid_from": "1974-08-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006347&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:56:19.289491+00:00",
+    "response_sha256": "df89a7e337b1c21f63b3d156149c4b22db5dafb5538de7d8fe5f2384f7331f9a",
+    "snapshot_sha256": "8f571e73680e962f88a4450f7a40c3837411794bdc36a993ddfcf0655ffe4c6f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2b3ed94928727a5d96fc8b21e27e6d7c12d4ebfe79ef787b224000f26e533e6",
+      "sha256": "f69fb85289c934a71f9c26c54c439b27b9a7b0f24caadc3462ff8c93969c487e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 17. Juni 1974, mit der die harmlosen pyrotechnischen Scherzartikel im Sinne des § 146 Abs. 2 der Gewerbeordnung 1973 bezeichnet werden StF: BGBl. Nr. 363/1974"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 363/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_363_0/1974_363_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 50/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_50_0/1974_50_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b80104abd2ae7ee4528a1867b6689ebf50aef32ff86b3abb45f1c60cd49207df",
+      "sha256": "9dffc5c7c09ed226fd3b67531dbb942b1f43b7f4d85a49f9e1d9296f33aef2b3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8bebd0d747157371b862c3067ef0c83665d321fa9e930da33b33dc6475fc1804",
+      "sha256": "e809a7a18642488a2364c822de7f0c8816ebda3de6df0c823cd36c8218c9dd86",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

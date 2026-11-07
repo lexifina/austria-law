@@ -1,0 +1,3 @@
+Verordnung der Regulierungskommission der E-Control, mit der die Entgelte für die Systemnutzung in der Gaswirtschaft bestimmt werden (Gas-Systemnutzungsentgelte-Verordnung 2013, GSNE-VO 2013) StF: [BGBl. II Nr. 309/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/309>)
+
+Auf Grund des § 70 Gaswirtschaftsgesetz 2011 – GWG 2011, [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>) iVm § 12 Abs. 2 Z 1 Energie-Control-Gesetz – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), wird verordnet:

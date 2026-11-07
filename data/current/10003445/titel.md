@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend moldavische Prüfungs- und Gewährzeichen für alle Waren StF: [BGBl. Nr. 599/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_599_0/1996_599_0.pdf>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 109/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf>), wird im Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten kundgemacht, daß § 6 Abs. 1 des Markenschutzgesetzes 1970 auf moldavische Prüfungs- und Gewährzeichen für alle Waren aus Moldova Anwendung findet und diese im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen.

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 6. Oktober 2021, dass die Verordnung des Landeshauptmannes von Oberösterreich, mit der zur Bekämpfung der Verbreitung von COVID-19 eine zusätzliche Maßnahme in Schigebieten festgelegt wird, LGBl. für Oberösterreich Nr. 141/2020, idF LGBl. für Oberösterreich Nr. 1/2021, gesetzwidrig war StF: [BGBl. II Nr. 505/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/505>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Landwirtschaft, Regionen und Tourismus über die Gefahrenzonenpläne nach dem Forstgesetz 1975 (ForstG-Gefahrenzonenplanverordnung – ForstG-GZPV) StF: [BGBl. II Nr. 132/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/132>)
+
+Auf Grund der §§ 8 und 11 des Forstgesetzes 1975, [BGBl. Nr. 440/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_440_0/1975_440_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 56/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/56>) und das Bundesgesetz [BGBl. I Nr. 8/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/8>), wird verordnet:

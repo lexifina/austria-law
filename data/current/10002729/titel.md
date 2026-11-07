@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 19. März 1986 betreffend das vietnamesische amtliche Zeichen zur Kennzeichnung der Qualität vietnamesischer Produkte StF: [BGBl. Nr. 288/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_288_0/1986_288_0.pdf>)

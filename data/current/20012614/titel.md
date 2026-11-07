@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend Richtlinien zur Umwidmung von Obergrenzen überschreitenden Beihilfen der COVID-19 Finanzierungsagentur des Bundes GmbH (COFAG) in einen Verlustersatz, einen Schadensausgleich oder eine De-minimis-Beihilfe (Obergrenzenrichtlinien) StF: [BGBl. II Nr. 160/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/160>)
+
+Aufgrund des § 3b Abs. 3 des ABBAG-Gesetzes, [BGBl. I Nr. 51/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/51>), zuletzt geändert durch das COVID-19-Transparenzgesetz, [BGBl. I Nr. 228/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/228>), wird im Einvernehmen mit dem Vizekanzler verordnet:

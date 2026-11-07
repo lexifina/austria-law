@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: [BGBl. Nr. 663/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_663_0/1991_663_0.pdf>)

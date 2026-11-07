@@ -1,0 +1,3 @@
+Bundesgesetz vom 12. Mai 1977 betreffend die Erleichterung der Finanzierung von Unternehmungen durch Garantien der Austria Wirtschaftsservice Gesellschaft mit beschränkter Haftung mit Haftungen des Bundes (Garantiegesetz 1977) StF: [BGBl. Nr. 296/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_296_0/1977_296_0.pdf>) (NR: GP XIV [RV 481](<https://www.parlament.gv.at/gegenstand/XIV/I/481>) [AB 520](<https://www.parlament.gv.at/gegenstand/XIV/I/520>) [S. 56.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/56>) BR: [AB 1661](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1661>) [S. 363.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/363>))
+
+Der Nationalrat hat beschlossen:

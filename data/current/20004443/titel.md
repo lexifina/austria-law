@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der A 14 Rheintal Autobahn – Bauvorhaben „Pfändertunnel, 2. Röhre mit Rampen“ im Bereich der Gemeinden Bregenz, Lochau und Kennelbach StF: [BGBl. II Nr. 405/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/405>)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), [BGBl. Nr. 286/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_286_0/1971_286_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 95/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/95>), wird verordnet:

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf der Vereinbarung zwischen dem Bundesminister für Verkehr der Bundesrepublik Deutschland und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich nach Rn. 2010 des ADR über die Beförderung von Natriumboranat (Natriumborhydrid) der Klasse 4.3, Ziff. 2 b), in Metallgefäßen (Wellblechtrommeln) StF: [BGBl. Nr. 761/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_761_0/1994_761_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

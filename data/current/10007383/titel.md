@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr, mit der gewerbepolizeiliche Regelungen für die nichtlinienmäßige Beförderung von Personen mit Fahrzeugen des Straßenverkehrs getroffen werden (Betriebsordnung für den nichtlinienmäßigen Personenverkehr – BO 1994) StF: [BGBl. Nr. 951/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_951_0/1993_951_0.pdf>)
+
+Auf Grund des § 10 Abs. 1 und 1a des Gelegenheitsverkehrs-Gesetzes, [BGBl. Nr. 85/1952](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1952_85_0/1952_85_0.pdf>), zuletzt geändert durch [BGBl. Nr. 129/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_129_0/1993_129_0.pdf>), wird verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 11. Jänner 1983 betreffend den Beschluß der Österreichisch-Tschechoslowakischen Grenzgewässerkommission StF: [BGBl. Nr. 21/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_21_0/1983_21_0.pdf>)

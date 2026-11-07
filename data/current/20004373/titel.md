@@ -1,0 +1,3 @@
+Bundesgesetz zur Überwachung von Zoonosen und Zoonoseerregern (Zoonosengesetz) StF: [BGBl. I Nr. 128/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/128>) (NR: GP XXII [RV 1085](<https://www.parlament.gv.at/gegenstand/XXII/I/1085>) [AB 1138](<https://www.parlament.gv.at/gegenstand/XXII/I/1138>) [S. 125.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/125>) BR: [AB 7407](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7407>) [S. 727.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/727>)) \[CELEX-Nr.: [32003L0099](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0099:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

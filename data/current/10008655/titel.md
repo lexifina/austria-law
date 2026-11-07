@@ -1,0 +1,3 @@
+Bundesgesetz vom 23. März 1988, mit dem die Überlassung von Arbeitskräften geregelt wird (Arbeitskräfteüberlassungsgesetz – AÜG) StF: [BGBl. Nr. 196/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_196_0/1988_196_0.pdf>) (NR: GP XVII [RV 450](<https://www.parlament.gv.at/gegenstand/XVII/I/450>) [AB 511](<https://www.parlament.gv.at/gegenstand/XVII/I/511>) [S. 56.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/56>) BR: [AB 3456](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3456>) [S. 499.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/499>))
+
+Der Nationalrat hat beschlossen:

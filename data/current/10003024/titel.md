@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung StF: [BGBl. Nr. 61/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_61_0/1992_61_0.pdf>)

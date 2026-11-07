@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Verlängerung des Nahrungsmittelhilfe-Übereinkommens von 1999 und dessen Geltungsbereich StF: [BGBl. II Nr. 78/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/78>)

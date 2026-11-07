@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend ein Emblem der Europäischen Investitionsbank StF: [BGBl. II Nr. 454/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_454_2/1999_454_2.pdf>)
+
+Auf Grund des § 4 Abs. 1 Z 1 lit. c des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_111_1/1999_111_1.pdf>), wird im Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten kundgemacht, dass ein Emblem der Europäischen Investitionsbank, welches im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt, von der Registrierung nach dem Markenschutzgesetz ausgeschlossen ist.

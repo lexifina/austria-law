@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 22. April 1988 betreffend zypriotische amtliche Prüfungs- und Gewährzeichen für zum Export bestimmte frische landwirtschaftliche Produkte StF: [BGBl. Nr. 257/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_257_0/1988_257_0.pdf>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, in der Fassung der Markenschutzgesetz-Novelle 1977, BGBl. Nr. 350, wird im Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten kundgemacht, daß § 6 Abs. 1 des Markenschutzgesetzes 1970 auf die in der Anlage angeführten zypriotischen amtlichen Prüfungs- und Gewährzeichen für zum Export bestimmte frische landwirtschaftliche Produkte Anwendung findet.

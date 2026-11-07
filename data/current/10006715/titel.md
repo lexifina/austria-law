@@ -1,0 +1,1 @@
+Internationale Energieagentur; Durchführungsübereinkommen eines Forschungs- und Entwicklungsprogramms für Fortgeschrittene Wärmepumpen samt Anhang StF: [BGBl. Nr. 410/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_410_0/1982_410_0.pdf>)

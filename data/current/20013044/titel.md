@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der der Mindestlohntarif für die Betreuung und Bedienung von Anlagen und Einrichtungen auf Liegenschaften für Salzburg festgesetzt wird StF: [BGBl. II Nr. 288/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/288>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz ist gemäß § 22 Abs. 1 Arbeitsverfassungsgesetz, [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 75/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/75>) ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft den Mindestlohntarif festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz hat mit Beschluss vom 10. Dezember 2025 nach Durchführung einer Senatsverhandlung nachstehenden Mindestlohntarif festgesetzt:

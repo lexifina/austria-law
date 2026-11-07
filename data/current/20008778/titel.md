@@ -1,0 +1,3 @@
+Bundesgesetz zur authentischen Interpretation des § 13a Abs. 2 Tabakgesetzes 1995, [BGBl. Nr. 431/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_431_0/1995_431_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 120/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/120>) [BGBl. I Nr. 12/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/12>) (NR: GP XXV [IA 112/A](<https://www.parlament.gv.at/gegenstand/XXV/A/112>) [AB 19](<https://www.parlament.gv.at/gegenstand/XXV/I/19>) [S. 9.](<https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/9>) BR: [9133](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9133>) [AB 9138](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9138>) [S. 826.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/826>))
+
+Der Nationalrat hat beschlossen:

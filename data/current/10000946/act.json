@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000946",
+  "short_title": "VfGH-Aufhebung, V des Gemeinderates der Stadt Murau",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000949",
+    "valid_from": "1988-06-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000946&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:38:39.279306+00:00",
+    "response_sha256": "a09dfbb0429c1152f0ce0e06c9d7018fc79e65306b692d9f44c50a48c892c23b",
+    "snapshot_sha256": "be03ecf85adbaeb1fd301ed04bba757b73b271b7e3aa5801e4ff9db858021949",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db80f1d5bf7128756a38b63c365fcc2c542b065491823e68c3b1460eb791fc86",
+      "sha256": "7cdd717ca4d22571abf6c45c9e718a8bd6204138e2a3aa487a1a4a97a9333a68",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 24. Mai 1988 über die Aufhebung der Verordnung des Gemeinderates der Stadt Murau, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 268/1988"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 268/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_268_0/1988_268_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78b476959c5adbb605d339f58beeab666103c823928affaa32f1c6f26c00531d",
+      "sha256": "c227cd603474cb086d75eb3acdcfa3d9e21cedcf6c17ee3433abbf593a971abd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

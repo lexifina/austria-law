@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung, mit der der Bundesminister für Land- und Forstwirtschaft zur Ausübung bestimmter Befugnisse im Zusammenhang mit der Rheinregulierung ermächtigt wird StF: [BGBl. Nr. 357/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_357_0/1991_357_0.pdf>)
+
+Auf Grund des Staatsvertrages zwischen der Republik Österreich und der Schweizerischen Eidgenossenschaft über die Regulierung des Rheines von der Illmündung bis zum Bodensee, [BGBl. Nr. 178/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_178_0/1955_178_0.pdf>), und des Artikels 2 des Verwaltungsentlastungsgesetzes, [BGBl. Nr. 277/1925](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=277/1925&amp;SkipToDocumentPage=True>), wird verordnet:

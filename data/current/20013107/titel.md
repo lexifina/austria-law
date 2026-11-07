@@ -1,0 +1,3 @@
+Bundesgesetz über die Nachhaltigkeitsberichterstattung von Drittlandunternehmen (Drittlandunternehmen-Berichterstattungsgesetz – DriBeG) StF: [BGBl. I Nr. 6/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6>) (NR: GP XXVIII [RV 300](<https://www.parlament.gv.at/gegenstand/XXVIII/I/300>) [AB 386](<https://www.parlament.gv.at/gegenstand/XXVIII/I/386>) [S. 63.](<https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63>) BR: [11762](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11762>) [AB 11764](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11764>) [S. 986.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986>)) \[CELEX-Nr.: [32022L2464](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32022L2464:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

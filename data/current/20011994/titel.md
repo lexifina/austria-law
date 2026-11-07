@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend Beginn und Durchführung des automationsunterstützten Datenverkehrs mit dem Datenverbund der Universitäten und Hochschulen StF: [BGBl. II Nr. 317/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/317>)
+
+Aufgrund § 46a Abs. 4 des Familienlastenausgleichsgesetzes 1967, zuletzt geändert durch das Bundesgesetzblatt [BGBl. I Nr. 2020/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/2020>), wird im Einvernehmen mit der Bundesministerin für Frauen, Familie, Integration und Medien nach Anhörung des Bundesministeriums für Bildung, Wissenschaft und Forschung sowie der Österreichischen Hochschülerinnen- und Hochschülerschaft verordnet:

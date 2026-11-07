@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 28. April 1989 betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem des „Oberkommandos der Alliierten Streitkräfte in Europa“ StF: [BGBl. Nr. 281/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_281_0/1989_281_0.pdf>)

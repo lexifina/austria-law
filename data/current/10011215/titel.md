@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. März 1931 über die Hinterlegung der Ratifikation Griechenlands zum Übereinkommen über die Eichung der Binnenschiffe StF: [BGBl. Nr. 85/1931](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=85/1931&amp;SkipToDocumentPage=True>)

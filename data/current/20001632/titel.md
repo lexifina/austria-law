@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Studienförderung für Studierende an in Südtirol gelegenen öffentlichen Universitäten und Fachhochschulen StF: [BGBl. II Nr. 393/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_393_2/2001_393_2.pdf>)
+
+Auf Grund des § 3 Abs. 2 und 3 in Verbindung mit § 76 Abs. 2 des Studienförderungsgesetzes 1992 – StudFG, BGBl. Nr. 305, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

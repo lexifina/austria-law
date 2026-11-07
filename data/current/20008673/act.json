@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20008673",
+  "short_title": "EZG-Ausnahmen-Verordnung Luftverkehr",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40158645",
+    "valid_from": "2013-11-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008673&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:18:57.699564+00:00",
+    "response_sha256": "6c034056372c3cf0b9ae6c2e09e19c650592c5e9a66889159cd25df93cdd3ad0",
+    "snapshot_sha256": "d5d88d35541f519057ac88371df561f173859958be8c35559fd57b7889c0aea6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a55bc0f37298da98c2f61a299184beb8f5853cdf3ac78b0ea602bc46256ee8aa",
+      "sha256": "f133e0f0cee5e3654ee0b77d4cc1681a7ec61adc258c3f4b8188d81e690d6159",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über zeitlich befristete Ausnahmen von einzelnen Bestimmungen des Emissionszertifikategesetzes 2011 (EZG-Ausnahmen-Verordnung Luftverkehr) StF: BGBl. II Nr. 380/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 380/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/380"
+        },
+        {
+          "text": "BGBl. I Nr. 118/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/118"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/98"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Internationale Luftverkehrstätigkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b872188e6afc81710a5335305093694a2461a97ad0b97f4892b2a12a9f3225fd",
+      "sha256": "2e900affc4f3f360b2b4c620bc6cf4920b920389f7cac3047cdd4aaed36b1d5b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zeitlich befristete Ausnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13a7f5df783635ec5cc3e41525d9f0748b4b8e0b4286865e493a4ecd76e7f966",
+      "sha256": "50b5a82748844d6e13843f13467052d38a3e1e7437835013190b7332d46d7ebc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

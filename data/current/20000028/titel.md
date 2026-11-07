@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung im Lehrberuf Karosseriebautechnik (Karosseriebautechnik-Ausbildungsordnung) StF: [BGBl. II Nr. 335/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_335_2/1999_335_2.pdf>)
+
+Auf Grund der §§ 8 und 24 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch die Berufsausbildungsgesetz-Novelle 1998, [BGBl. I Nr. 100/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_100_1/1998_100_1.pdf>), wird - hinsichtlich des § 13 im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales - verordnet:

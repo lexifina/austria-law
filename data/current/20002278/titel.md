@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der Organisation für Sicherheit und Zusammenarbeit in Europa StF: [BGBl. II Nr. 403/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_403_2/2002_403_2.pdf>)

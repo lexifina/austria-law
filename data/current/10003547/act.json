@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003547",
+  "short_title": "Errichtung einer zwölften Notarstelle in Wien-Innere Stadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003576",
+    "valid_from": "1997-06-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003547&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:35.437378+00:00",
+    "response_sha256": "4d2192dd04ceaa8f4e0b9fdf0e47a94294de1b5b379f7cbdf97d7fd14b7fa95e",
+    "snapshot_sha256": "8e8df118da584f2a59083d2ae5c5144ec030c987f0bb24431c273e46ca8a8d76",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3dc589e05ae63cec5bdb44c3e5926bbb7e89d16d27263a60e7f28e6d582421b",
+      "sha256": "6266d20eef3f676297b99a6f2eaf29827c6855d8d60a3fa030be8917ed6c6640",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zwölften Notarstelle in Wien-Innere Stadt StF: BGBl. II Nr. 158/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 158/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_158_2/1997_158_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca12dd213224ae2c2d72e5b6a95b971caa7c99bb6b40cf4d84068697059ba623",
+      "sha256": "772c9e792e07437af64a99c40451cdab84fdc6642b8a7eaf55ec9bbe6e3d375a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

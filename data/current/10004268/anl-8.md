@@ -1,0 +1,11 @@
+## ANHANG H
+
+## BEENDIGUNG DER TEILNAHME
+
+- 1\. Besteht nach der Aufrechnung gemäß Artikel XXIV Abschnitt 2 Buchstabe (b) eine Verpflichtung gegenüber dem ausscheidenden Teilnehmer und kommt innerhalb von sechs Monaten nach dem Zeitpunkt der Beendigung zwischen dem Fonds und diesem Teilnehmer keine Vereinbarung über den Ausgleich zustande, so erwirbt der Fonds die restlichen Sonderziehungsrechte in gleichen Halbjahresraten innerhalb von höchstens fünf Jahren nach dem Zeitpunkt der Beendigung zurück. Der Fonds erwirbt diesen Rest dadurch zurück, daß er nach eigenem Ermessen entweder (a) dem ausscheidenden Teilnehmer die Beträge zahlt, die dem Fonds von den verbleibenden Teilnehmern nach Artikel XXIV Abschnitt 5 zur Verfügung gestellt werden, oder (b) dem ausscheidenden Teilnehmer gestattet, mit seinen Sonderziehungsrechten Beträge in seiner eigenen Währung oder einer frei verwendbaren Währung von einem durch den Fonds bestimmten Teilnehmer, vom Allgemeinen Konto oder von einem beliebigen anderen Inhaber zu erwerben.
+
+- 2\. Besteht nach der Aufrechnung gemäß Artikel XXIV Abschnitt 2 Buchstabe (b) eine Verpflichtung gegenüber dem Fonds und kommt innerhalb von sechs Monaten nach dem Zeitpunkt der Beendigung keine Vereinbarung über den Ausgleich zustande, so tilgt der ausscheidende Teilnehmer diese Verpflichtung in gleichen Halbjahresraten innerhalb von drei Jahren nach dem Zeitpunkt der Beendigung oder im Lauf einer längeren Frist, die vom Fonds festgelegt werden kann. Der ausscheidende Teilnehmer hat diese Schuld in der Weise zu tilgen, daß er nach Anweisung des Fonds entweder (a) dem Fonds frei verwendbare Währung zahlt oder (b) nach Artikel XXIV Abschnitt 6 vom Allgemeinen Konto oder im Einvernehmen mit einem von Fonds bestimmten Teilnehmer oder von einem anderen Inhaber Sonderziehungsrechte erwirbt und diese Sonderziehungsrechte gegen die fällige Rate aufgerechnet werden.
+
+- 3\. Die nach Absatz 1 oder 2 zu zahlenden Raten sind sechs Monate nach dem Zeitpunkt der Beendigung und danach in Abständen von sechs Monaten fällig.
+
+- 4\. Für den Fall, daß die Sonderziehungsrechts-Abteilung nach Artikel XXV innerhalb von sechs Monaten nach dem Ausscheiden eines Teilnehmers in Liquidation tritt, ist der Ausgleich zwischen dessen Regierung und dem Fonds nach Artikel XXV und Anhang I durchzuführen.

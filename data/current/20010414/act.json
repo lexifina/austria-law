@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010414",
+  "short_title": "Errichtung einer dritten Notarstelle in Dornbirn",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209445",
+    "valid_from": "1981-10-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010414&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:28.341558+00:00",
+    "response_sha256": "bf7d390a8b682754cc6bb14a75a1628293d126daef56400ce18a52fc4702f065",
+    "snapshot_sha256": "0dd1f5d26fe1324c6fa375c7beac8200a386aad900bbfdd0927e0cafc6bd1fd0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acf1bcd5f9083f1d8170f610f351caaab1b08a8d25ec74b596800e4999366542",
+      "sha256": "53f9f2d5c302ac7393f23f20fcaf1606e49a4b157ee2dcac9bb3d214537ecd33",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 29. September 1981 betreffend die Errichtung einer dritten Notarstelle in Dornbirn StF: BGBl. Nr. 456/1981"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 456/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_456_0/1981_456_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "129668e83562a521655b5dea4a79c0bda339552864f3722b942d2d86f9db567d",
+      "sha256": "ac8eed53951cd0e2deab176f8624149cf520762eba77989a2fc7537f9d931b26",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

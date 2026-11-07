@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 30. November 1932 über die Hinterlegung der Ratifikationsurkunde Italiens zum Übereinkommen über die Eichung der Binnenschiffe StF: [BGBl. Nr. 337/1932](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=337/1932&amp;SkipToDocumentPage=True>)

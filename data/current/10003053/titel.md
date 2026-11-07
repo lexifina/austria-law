@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das als Kontrollzeichen Finnlands verwendete Nordische Umweltzeichen StF: [BGBl. Nr. 427/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_427_0/1992_427_0.pdf>)

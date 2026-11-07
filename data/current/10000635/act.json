@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000635",
+  "short_title": "Ergebnis der Volksabstimmung vom 5. 11. 1978",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000637",
+    "valid_from": "1978-12-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000635&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:33:38.954515+00:00",
+    "response_sha256": "1eb3321db67dae02016b30efdefdad25c52b630e7d9c42fcb0be2ec828d7ca9b",
+    "snapshot_sha256": "74fff7a971267d333a09edd11e3c7abff109e083816af0ac1e4e5682e2ae2faf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f50659b620f01a5421c4ca15f31c5708bcb2c963a1ba965cfefd8986e227c617",
+      "sha256": "0601a0a80d1769645bb9016ee4eb5cee6b43c550cef9afa4a914d01eae6953ae",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesregierung vom 19. Dezember 1978 über das Ergebnis der Volksabstimmung vom 5. November 1978 StF: BGBl. Nr. 628/1978"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 628/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_628_0/1978_628_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 79/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_79_0/1973_79_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2db047a27749507accfc266b665d802aa0fd3bda9516323d6aee8b8236729b0",
+      "sha256": "c9147251f506248046377b4b5775d906745aba63f73f39b16ba78ef4eb5070ce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

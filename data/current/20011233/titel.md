@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über nähere Vorgaben zur Berechnung der Höhe der Vergütung des Verdienstentgangs für selbständig erwerbstätige Personen und Unternehmungen nach dem Epidemiegesetz 1950 (EpiG-Berechnungsverordnung) StF: [BGBl. II Nr. 329/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/329>)
+
+Auf Grund des § 32 Abs. 6 des Epidemiegesetzes 1950, [BGBl. Nr. 186/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_186_0/1950_186_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 62/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/62>), wird verordnet:

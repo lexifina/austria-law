@@ -1,0 +1,98 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003734",
+  "short_title": "Weltgesundheitsorganisation - Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004052",
+    "valid_from": "1975-09-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003734&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:04:07.846901+00:00",
+    "response_sha256": "07335379d1e88ec7c484e6580dbf02376f084e078a00fc3812458d74121779e3",
+    "snapshot_sha256": "5aa389439b007581cdfb859782dd551fd85dbf5cf381ab7ef5fd33361182effa",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a77054fcd6bb90c80a880d3521c1e426fc032a58b9b3b1cfbd913c08a185f11b",
+      "sha256": "cd8d92397a142758bffe87941ec9ede9db774528d31873f6e791257a4cba91dd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 20. August 1975 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation vom 22. Juli 1946 StF: BGBl. Nr. 466/1975"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 466/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_466_0/1975_466_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3628d8101b73bf2cc6fa2680ba0c18aab7cbce2d5eda4402752fd4cf37607c2",
+      "sha256": "73b86c49fcba7a22f6d48bd8f0636bf55244b58d9aeec9711ebe808d75bb7366",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 96/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_96_0/1949_96_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 27/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_27_0/1961_27_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 198/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_198_0/1970_198_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 298/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_298_0/1970_298_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

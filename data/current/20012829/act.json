@@ -1,0 +1,1359 @@
+{
+  "sample_only": false,
+  "included_provisions": 36,
+  "source_provision_count": 36,
+  "schema_version": 1,
+  "gesetzesnummer": "20012829",
+  "short_title": "eHealth-Verordnung 2025",
+  "abbreviation": "eHealthV 2025",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40268328",
+    "valid_from": "2025-01-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012829&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:44:21.324910+00:00",
+    "response_sha256": "6e9f0f3944cbd3c4ecd172b4c65a3891d32e15771bd1839c73375fc465af780d",
+    "snapshot_sha256": "b908d46753d253c7ca826ae910d17449ac7eec534a3d766d699277d63cbf7b38",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "420d51d8a695d26695567309e39c1a4efbceb9c1050e8e7de81a190ce39e79e4",
+      "sha256": "ac6730bca322078c11c3592d0b3aa5809238d14db131afa5f8e5c0efe5e88e91",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über nähere Regelungen zur eHealth-Anwendung Elektronischer Impfpass (eHealth-Verordnung 2025 – eHealthV 2025) StF: BGBl. II Nr. 11/2025"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 276/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 11/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/11"
+        },
+        {
+          "text": "BGBl. II Nr. 276/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/276"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/111"
+        },
+        {
+          "text": "BGBl. I Nr. 105/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/105"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Abschnitt Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Standards für Inhalt, Struktur, Format und Terminologien",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Standards für Inhalt, Struktur und Format",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Standards für Terminologien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Speicherverpflichtungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Speicherverpflichtung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Voraussetzungen für die Speicherung von Antikörperbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Voraussetzungen für die Speicherung von Impfsettings",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Spezifische Zugriffsberechtigungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Unterabschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Spezifische Zugriffsberechtigungen auf das zentrale Impfregister",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze des Zugriffs auf das zentrale Impfregister",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Spezifische Zugriffsberechtigungen für den Betrieb, die Wartung und die technische Weiterentwicklung des eImpfpasses",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Spezifische Zugriffsberechtigung zur Gesundheitsvorsorge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Spezifische Zugriffsberechtigungen zur Wahrnehmung der Rechte der Bürger/innen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Spezifische Zugriffsberechtigungen zum Krisenmanagement",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige spezifische Zugriffsberechtigung (Anm.: Sonstige spezifische Zugriffsberechtigungen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Unterabschnitt",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen des für das Gesundheitswesen zuständigen Bundesministers oder der zuständigen Bundesministerin",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen der ELGA GmbH",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen der eImpf-Gesundheitsdiensteanbieter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen der Öffentlichen Apotheken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen der Landeshauptleute",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigungen der Bezirksverwaltungsbehörden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigung der Sozialversicherung und der Rechtsträger von Krankenfürsorgeeinrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der spezifischen Zugriffsberechtigung der Gesundheitsberatung 1450",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Aufteilung der Pflichten gemäß Art. 26 DSGVO",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten der gemeinsamen Verantwortlichen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle des für das Gesundheitswesen zuständiges Bundesministers oder der zuständigen Bundesministerin (Anm.: Die Rolle des für das Gesundheitswesen zuständigen Bundesministers oder der zuständigen Bundesministerin)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der ELGA GmbH",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der eImpf-Gesundheitsdiensteanbieter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der Öffentlichen Apotheken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der Landeshauptleute",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der Bezirksverwaltungsbehörden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der Sozialversicherung und der Rechtsträger von Krankenfürsorgeeinrichtungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Die Rolle der Gesundheitsberatung 1450",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Betrieb des eImpfpasses",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufnahme des Vollbetriebs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pilot- und Übergangsbetrieb",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten der ELGA GmbH",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "In- und Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm.:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "§ 34. Übergangsbestimmungen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "177ffbe2a72cad6e3293e2b839f5e15f840c787d0feb0f110739839df575d7ee",
+      "sha256": "916530e4a3bca338c3fd0a58c811183e02d288ed341af5376d974f29f8d032c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "2. Abschnitt Standards für Inhalt, Struktur, Format und Terminologien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9ac96348fbdc1c4eb11819b9c998d306ffb6a8ce7b9fbf8b09a4ea62b0ab0473",
+      "sha256": "70671d8975c55b95756112dcf48378faf1f0989c5ce606dc98975699c95cf301",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Standards für Terminologien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1c044f4bf6adfdc8c2e49f72198e5ba67f692cbca55d9f8bd896fd24a431b75",
+      "sha256": "9aa51a74b82191802501dfb935fb486e8ccbc908d5bb925a33b4abe8d6e339ce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "3. Abschnitt Speicherverpflichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab77391a43a65f835e0ce0d74e95607668a9af6f6e578822018a7ca073f4a4f5",
+      "sha256": "e08a9c54f8dbd5c82e460e7612fd582c4af9a62a302d7522f34527d5ebd54164",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Voraussetzungen für die Speicherung von Antikörperbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b3c989d48b60187ec708d17d43320a67d124050ec2f75e1d02fd7e4d5126f1d",
+      "sha256": "ab6603aeb64197c09bce4bbf445ee0f50efe1debd97975a18a50e91411c9e45e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 169/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_169_1/1998_169_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Voraussetzungen für die Speicherung von Impfsettings",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2b9861b0cea57890561b5ad4e289fdf9a3ca2b793da3f3a166bd193a588acf5",
+      "sha256": "1adbb922c16a1226f459f792a24811ad0faaf0731f8bde5fdca0668dece22c1d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "4. Abschnitt Spezifische Zugriffsberechtigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e61be6b18219908dfbb2fd138abb77c70778775f14af0e953822c7407a3ecb9a",
+      "sha256": "7ee9953ad8bf165585e72987680b4c02f5e7aea80930e797cfdc54a2c4f32906",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Spezifische Zugriffsberechtigungen für den Betrieb, die Wartung und die technische Weiterentwicklung des eImpfpasses",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "248546de8220b2115a302663d4c7018d5d57b35a5d0e1b28913730fdedf91889",
+      "sha256": "366ec26e5a85e8f1da9f1fb8ef135a81efcdf91f8f9f61912ecc21df572cd7fd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Spezifische Zugriffsberechtigung zur Gesundheitsvorsorge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e404c8c88225be9ee79997cd1a2a139b099ee134b0c6031bdfe82afbb104c1b",
+      "sha256": "e1d2fc987baf6e192a61c3c4a03d1f07960f8b8242ba9f767c3a79a2cbec6c6d",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 5/1907",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=5/1907&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Spezifische Zugriffsberechtigungen zur Wahrnehmung der Rechte der Bürger/innen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0043d549c37adfe42201b79e003dca7d15d98c8fb46339558d6c8aeca7956317",
+      "sha256": "577ae426cc1583eff3463bb3cfbd1400f514de984e4375a2523d9a96444f3d6f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Spezifische Zugriffsberechtigungen zum Krisenmanagement",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ee3b9ab90be2e7e4c1912ea83d51c8dc4d0163e4ca82b152155dc52b21b70fd",
+      "sha256": "67ae2e00bfb9917e8ab6f4fa3f9e9f55557c098b162d1e14965ff4e84dcf0004",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 185/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Sonstige spezifische Zugriffsberechtigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a366ddf57b23d7c9d31463106698e6d88a17cafba21597333df302035107aff",
+      "sha256": "e1cf2f77bcbaf7b8b04e7ea7b122cdbc194c6c33c92ef6fcc7ccf780762d267e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "2. Unterabschnitt Umfang der spezifischen Zugriffsberechtigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d16e67a50db6ea83651e1fdf42683cb1a4764d27218d85b79a2ee143e1393b3",
+      "sha256": "c97a8f8c11c89ecdb2faf7efcd2c4b26594b39bbc9474d377a2d221b881bee10",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigungen der ELGA GmbH",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d8c893ac2338f79a141e01fe4343a2f56833c5cf66938f8866b0c5e23141192",
+      "sha256": "e7b52be5b15e2fa442634fa776dadb2847017e5e5ef5187f228b4ec3aa8294f8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigungen der eImpf-Gesundheitsdiensteanbieter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d321604fb384104376a91c037f93bb252a62e54453aabab571070e0182093c0a",
+      "sha256": "91506db6283e144d0783adc483df2247dd8833ff4371120c08385ee5918ff4e3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigungen der Öffentlichen Apotheken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6a438260c92c8d65577ff88a38318eaa380c4c216e4c90b9c1530d5a17ce856",
+      "sha256": "b54e1c57c4d0c4c4400093f88de967d1ae77d3f52db1c982efb65e88f75dfd0e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigungen der Landeshauptleute",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "04e69b2818bd734e1e1a6adab284ec9cc3ff41aaa9f108713db6ee25b2e579dd",
+      "sha256": "65773ed616c910505d99a225cd358b2370ce570d00ea57b643ec57f19516e05f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigungen der Bezirksverwaltungsbehörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "418ec89d47d9d65901e24bdeeaa510b9aaccf10a2e23797327b9133ebd57ee82",
+      "sha256": "dd1e0e62339ae5a8e954937a5f9b8d498e66ed5a45bd92f20ccc374986304e0b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigung der Sozialversicherung und der Rechtsträger von Krankenfürsorgeeinrichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c166642b9b0c0ee789908b6843003283d87b1a3096f12750433beb7538a17c00",
+      "sha256": "62b55a0be76330d008c8c85ac084ac4cbf53a4beb98845442123d8d657c67972",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Umfang der spezifischen Zugriffsberechtigung der Gesundheitsberatung 1450",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c501ba45103e5814338b519c818acec331e2f4e9e9a16acb1eb47fa4686e4a4c",
+      "sha256": "2400c99bed878aabf6d70a4e01e071590782c56f6cce366ead18dd8a8c3d7486",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "5. Abschnitt Aufteilung der Pflichten gemäß Art. 26 DSGVO",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d583131838696b7a9bd7c545fb10583ed44b549bb9ff46bb911b3c52dd43d1b",
+      "sha256": "a871670d8daedf1465bee7fa37d76d0fb2045c5a58d517dbcdf8eea7df025c9b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Die Rolle des für das Gesundheitswesen zuständigen Bundesministers oder der zuständigen Bundesministerin",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21dced129f5ada13518173ffa0f0ed1b36938359ece8460134b665d9e24875c9",
+      "sha256": "2c914a21c575a199c6ec2df3c4d685de91827f22088e6cc0ae89154921304712",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Die Rolle der ELGA GmbH",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f077ec8f298c82b6f9bf2677ae4cf325f0b93c2c784866935997035b4ebd764f",
+      "sha256": "9bda234e5b3b57e9e22ac0d5bcf9ed996789515dc587e4493433520e98094e9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Die Rolle der eImpf-Gesundheitsdiensteanbieter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3aa7341223b731316a691a8b3507fc55d80c4bc90186f97dcc7b1d16f7193c7b",
+      "sha256": "41796b721b963f9b410fe4931d6d6f84705fa2a51c26dabf765e545e33d7fd49",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Die Rolle der Öffentlichen Apotheken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12d67b770c3bf8c604a3599d106eb9f6aba58595ef511fedc831c58867a1653d",
+      "sha256": "0a55db4d8c512c182872288d582adeb8ca99b2d4688788151692142d5eb6d5a8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Die Rolle der Landeshauptleute",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "637884bcea1d4d7deeb258786fa4c60245df5f65af6787c4f39f39e63c4c63cf",
+      "sha256": "42a5b43f206616066193190a758688d5ac667572077534a7374061a8c9a39304",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Die Rolle der Bezirksverwaltungsbehörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bd081d0ad8ebf7cf4da5865f586e8f4e71e2a0822b6e7578f815bc7139ac312",
+      "sha256": "8959cacc30539e592f772acc760c8585f6beeb2d3bbe1fd9a90bdb0794370817",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Die Rolle der Sozialversicherung und der Rechtsträger von Krankenfürsorgeeinrichtungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66ff9b8e84cc2394601e236a9905f5959140886e4a998eb6d5305e6b3c1869d4",
+      "sha256": "9b0a94a4198baa5759269a1f0d29277e52593205b9c49623a2874d346ccc6c86",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Die Rolle der Gesundheitsberatung 1450",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fbeb1016ab910bfa9f3919080d276e3511adfa37a1900de4a515b72f3f2c3272",
+      "sha256": "fc7ba9128e34c874d25567d77b1c4d8d95cdcc5804bd1ca0483c309704e27440",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "6. Abschnitt Betrieb des eImpfpasses",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aab91f751021312a921ccbe805dfff45daf571d0b66ed6296a468066e407b4c2",
+      "sha256": "077028b74eb2d05a2440f5a0fbaaada6fd2ffcc3051c831c171c9a7d9b0b15c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Pilot- und Übergangsbetrieb",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92ebbbc1e82aed0538d104b54f5d34c113626ef568bb94262727fe0a7512540e",
+      "sha256": "7413f2e9bf7d2a6c784f0a5adfcb988200bdc693be4ef7e1a3c9f6c40d686173",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Pflichten der ELGA GmbH",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07f60782ce4188328caeb71838a474f449751292ef62f9c465fd4ef407f92cf9",
+      "sha256": "54be772b8f020aeeeded1a6a77de15b309231e9a85d59b083cde2ef233e9f899",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "7. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e57d9c5d04dbc98da39711220ad1a61faf37858ec9a4d9d13c2b9f0e350a6488",
+      "sha256": "fc3a2100a351bedc54eff6d51dc8898ee7d06419b155ea2d0aa157c29ee7e1d6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 449/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/449"
+        },
+        {
+          "text": "BGBl. II Nr. 300/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/300"
+        },
+        {
+          "text": "BGBl. II Nr. 276/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/276"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d3937e4eb87739cc948c263512870a0d298e0419da03656c85fbc85a4b4dde9",
+      "sha256": "553ca0e675a99742a72fd33381e52f6c8e5f28b7825871377086a785c38d0701",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e18764c78f39a28bd78926d944759057c0e549416e67f2600a892c8478036538",
+      "sha256": "abfcea843487d63405434372afc6eaa201754732977495322c1edd9be97d8d88",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40268327/II_11_2025_Anlage.pdf",
+              "title": "PDF-Dokument: Anlage",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40268327/II_11_2025_Anlage.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

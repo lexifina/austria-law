@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000385",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000386",
+    "valid_from": "1963-07-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000385&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:28:48.687046+00:00",
+    "response_sha256": "5bdeef78ab9dcf5cdc8b78d0378094d1b41d37aa55d4ceca85fe57ed9332b627",
+    "snapshot_sha256": "4904e642e3e4c819c2a4b1f73b23053fe95df1750e91b6ea0e97b484f03f8186",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c914865e4028cd85b419c1413e304275e249817e4841d8828a617d3af50e2f3c",
+      "sha256": "0fdc4a73695900e79a28950afbb6b1e29eef8b690938d9ac92050af28f4e8fd1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 8. Juli 1963, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung hinsichtlich von Maßnahmen zum Schutze des Waldes gegen Wildschäden. StF: BGBl. Nr. 161/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 161/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_161_0/1963_161_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e0b73648767fb8aef866c4f797bfc8d9738a86e4d82f12f18527f235d87bc22",
+      "sha256": "7231c4f8a5993fcea624b2920e8279e8a1d2dce79e3842f490f85e30118729c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

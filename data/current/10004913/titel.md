@@ -1,0 +1,3 @@
+Bundesgesetz betreffend ergänzende Regelungen zur Durchführung des Zollrechts der Europäischen Gemeinschaften (Zollrechts-Durchführungsgesetz – ZollR-DG) StF: [BGBl. Nr. 659/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_659_0/1994_659_0.pdf>) (NR: GP XVIII [RV 1699](<https://www.parlament.gv.at/gegenstand/XVIII/I/1699>) [AB 1815](<https://www.parlament.gv.at/gegenstand/XVIII/I/1815>) [S. 172.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/172>) BR: [AB 4853](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4853>) [S. 589.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/589>))
+
+Der Nationalrat hat beschlossen:

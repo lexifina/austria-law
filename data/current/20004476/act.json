@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004476",
+  "short_title": "Bestimmung des Trassenverlaufes des Teilabschnittes St. Andrä-Aich im Zuge der Koralmbahn Graz-Klagenfurt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004890",
+    "valid_from": "2005-12-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004476&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:15:11.268493+00:00",
+    "response_sha256": "a80d72c13062859334c9b1dbbd9886a74251089f8a8298c88265c969cef4d2ab",
+    "snapshot_sha256": "140403d8116fe17489448545074a35b3ff6cba804e03c6f1d1df6e8c2a35f424",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "43ec425e0c773cb7cedfff3b0bdf38495e2f6a84417f6b5d483aae002b936666",
+      "sha256": "f8991116f22f256f7fdb4e8ead167cbcd6f6cb84c48a17900740986240146d96",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Trassenverlaufes des Teilabschnittes St. Andrä-Aich im Zuge der Koralmbahn Graz-Klagenfurt StF: BGBl. II Nr. 444/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 444/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/444"
+        },
+        {
+          "text": "BGBl. Nr. 135/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aeca286dbc1625865b982ad61ead75797492d6db6c6d35f0b84d857c134b1ad8",
+      "sha256": "33c83451553acf8ab28adcf76a3daa95c2982f977a1b15be0b829f697edbd947",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

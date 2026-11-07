@@ -1,0 +1,3 @@
+ABKOMMEN ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER REGIERUNG DER REPUBLIK SINGAPUR üBER DIE AUFHEBUNG DER SICHTVERMERKSPFLICHT StF: [BGBl. Nr. 155/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_155_0/1983_155_0.pdf>)
+
+Das Abkommen ist gemäß seinem Artikel 5 Absatz 1 am 1. März 1983 in Kraft getreten.

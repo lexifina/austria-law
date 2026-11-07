@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers betreffend die zwischen der Republik Österreich und der Bundesrepublik Jugoslawien geltenden bilateralen Verträge StF: [BGBl. III Nr. 156/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_156_3/1997_156_3.pdf>)
+
+Gemäß § 2 Abs. 5 Z 5 des Bundesgesetzes über das Bundesgesetzblatt 1996 (BGBlG), BGBl. Nr. 660, wird kundgemacht:

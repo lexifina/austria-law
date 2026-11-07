@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10010281",
+  "short_title": "Übereinkommen zwischen Österreich und Italien, betreffend eine gleichartige Behandlung pharmazeutischer Spezialitäten",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Italien",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010500",
+    "valid_from": "1956-11-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010281&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:40:31.314260+00:00",
+    "response_sha256": "181944c7f45ac4c5e5b5912627ff78565540506822b8b6c302d126dc400dd0ac",
+    "snapshot_sha256": "500ca829b6bf53d3a2a402a4ada83cb6fd86f747b920072b80c27241d446134a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5965ab2b3767b3cade73f293c3e8ebf8ceee17fb7b73b062580eee320ce2a69f",
+      "sha256": "e9bc8dd599e73bfe9c7bd325e0f0d2ae41032f381b35d396e75d41352d667eba",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Übereinkommen zwischen Österreich und Italien, betreffend eine gleichartige Behandlung pharmazeutischer Spezialitäten bei Erteilung der Vertriebsbewilligung StF: BGBl. Nr. 43/1957"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 43/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_43_0/1957_43_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bdddf41cca55b89cf55fdf53668227d4d25e8ddb58f2ac8bcc4edbddd843a9c9",
+      "sha256": "3dc94c6e086f60d7f0a46ba361ee533d4f0d44dcfe20c3d4e303f853d846c10f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

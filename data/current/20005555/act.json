@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005555",
+  "short_title": "Festsetzung des Anpassungsfaktors für das Jahr 2008",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006128",
+    "valid_from": "2007-12-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005555&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:32:22.118373+00:00",
+    "response_sha256": "2a1205396d8c8f7647316a1a8674f60d13fd4bc01bff644e9aee734aa4a8e89e",
+    "snapshot_sha256": "da6c090c7202cca9461e920ad543274a77eb7f044397d3404aeb9010c5524b58",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7387dfb51291570ad3554bba518dd7274db48c1ce2c15f8677128d67bf01799a",
+      "sha256": "9a475ad6c5b0c654eb289a00d145b87d0449608d6fa675658e74aedf449441e2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales und Konsumentenschutz, mit der der Anpassungsfaktor für das Jahr 2008 festgesetzt wird StF: BGBl. II Nr. 337/2007"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 337/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/337"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 76/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/76"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ece71484d3037c34d963907a8b000346c4f4dca298f56fb714f38a0335fec402",
+      "sha256": "7da8ac3996870ba77873240ee81700322b456e43d6a2a9fe912106efafa46e1c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

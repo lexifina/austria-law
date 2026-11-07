@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 29. Feber 1960, über den Geltungsbereich des Allgemeinen Abkommens über die Privilegien und Immunitäten des Europarates samt Zusatzprotokoll und des Zweiten Protokolls zum Abkommen über die Privilegien und Immunitäten des Europarates. StF: [BGBl. Nr. 64/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_64_0/1960_64_0.pdf>)

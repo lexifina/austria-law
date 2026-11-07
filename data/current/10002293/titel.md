@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 4. Juni 1974 betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 durch Spanien StF: [BGBl. Nr. 339/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_339_0/1974_339_0.pdf>)

@@ -1,0 +1,1 @@
+Notenwechsel über die Aufhebung des Sichtvermerkzwanges für Inhaber gewöhnlicher Reisepässe zwischen Österreich und Uruguay StF: [BGBl. Nr. 223/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_223_0/1963_223_0.pdf>)

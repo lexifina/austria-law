@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Kultur über die Verleihung der Bezeichnung „Fachhochschule“ an den Verein „Fachhochschul-Studiengänge Technikum Wien“ StF: [BGBl. II Nr. 363/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_363_2/2000_363_2.pdf>)
+
+Gemäß § 15 Abs. 1 des Bundesgesetzes über Fachhochschul-Studiengänge (Fachhochschul-Studiengesetz – FHStG), [BGBl. Nr. 340/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_340_0/1993_340_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 72/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_72_1/1998_72_1.pdf>), wird verordnet:

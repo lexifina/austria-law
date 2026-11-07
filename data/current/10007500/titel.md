@@ -1,0 +1,1 @@
+(Übersetzung) Memorandum of Understanding zwischen der österreichischen Bundesregierung und der Regierung der Republik Indien über den Export von bestimmten Textilprodukten aus Baumwolle und aus Chemiefasern aus Indien zum Import nach Österreich StF: [BGBl. Nr. 37/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_37_0/1994_37_0.pdf>)

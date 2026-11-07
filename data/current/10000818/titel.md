@@ -1,0 +1,3 @@
+Bundesgesetz vom 9. Mai 1985 über die Errichtung des Bezirksgerichtes Donaustadt sowie die Organisation der Bezirksgerichte in Wien (Bezirksgerichts-Organisationsgesetz für Wien) StF: [BGBl. Nr. 203/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_203_0/1985_203_0.pdf>) (NR: GP XVI [RV 317](<https://www.parlament.gv.at/gegenstand/XVI/I/317>) [AB 608](<https://www.parlament.gv.at/gegenstand/XVI/I/608>) [S. 90.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/90>) BR: [AB 2983](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2983>) [S. 461.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/461>))
+
+Der Nationalrat hat beschlossen:

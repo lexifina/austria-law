@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über registerforschungstaugliche Register im Wirkungsbereich des Bundesministeriums für Bildung, Wissenschaft und Forschung (Registerforschungsverordnung BMBWF – RFV BMBWF) StF: [BGBl. II Nr. 400/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/400>)
+
+Auf Grund des § 38b des Forschungsorganisationsgesetzes, [BGBl. Nr. 341/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_341_0/1981_341_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 205/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/205>), wird verordnet:

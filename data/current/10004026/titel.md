@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 1. September 1967, betreffend den derzeitigen Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von Berufsausrüstung StF: [BGBl. Nr. 316/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_316_0/1967_316_0.pdf>)

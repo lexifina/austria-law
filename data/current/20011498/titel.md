@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, mit der der Kollektivvertrag Corona-Tests für die Arbeitnehmerinnen und Arbeitnehmer der privaten Bildungseinrichtungen zur Satzung erklärt wird StF: [BGBl. II Nr. 117/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/117>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz, [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 170/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/170>) ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit hat mit Beschluss vom 17. März 2021 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:

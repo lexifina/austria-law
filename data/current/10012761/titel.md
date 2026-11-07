@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wissenschaft und Verkehr betreffend Widerruf der Vereinbarung zwischen der zuständigen Behörde für das ADR des Vereinigten Königreichs, der Schweiz, Polens, Schwedens, Norwegens, Portugals sowie Luxemburgs und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich gemäß Rn. 2010 und 10 602 ADR betreffend Beförderung von Difluormethan StF: [BGBl. III Nr. 65/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_65_3/1997_65_3.pdf>)
+
+Gemäß § 2 Abs. 5 Z 5 des Bundesgesetzes über das Bundesgesetzblatt 1996 (BGBlG), BGBl. Nr. 660, wird kundgemacht:

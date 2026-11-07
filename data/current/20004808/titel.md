@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Vergütung der Mitglieder und Schriftführer des Urheberrechtssenates, die Entlohnung der von dem/der Vorsitzenden des Urheberrechtssenates bestellten Mitglieder des Schlichtungsausschusses und die Gebühren für die Inanspruchnahme des Urheberrechtssenates (Urheberrechtssenatsgebührenverordnung – UrhRSGV) StF: [BGBl. II Nr. 247/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/247>)
+
+Auf Grund des § 32 Abs. 1 und 2 sowie des § 36 Abs. 4 Verwertungsgesellschaftengesetz 2006 (VerwGesG 2006), [BGBl. I Nr. 9/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/9>), wird verordnet:

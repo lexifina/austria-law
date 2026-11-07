@@ -1,0 +1,3 @@
+Bundesgesetz vom 20. Oktober 1988 über die Rechtspflege bei Straftaten Jugendlicher und junger Erwachsener (Jugendgerichtsgesetz 1988 – JGG) StF: [BGBl. Nr. 599/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_599_0/1988_599_0.pdf>) (NR: GP XVII [RV 486](<https://www.parlament.gv.at/gegenstand/XVII/I/486>) [AB 738](<https://www.parlament.gv.at/gegenstand/XVII/I/738>) [S. 76.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/76>) BR: [AB 3573](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3573>) [S. 507.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/507>))
+
+Der Nationalrat hat beschlossen:

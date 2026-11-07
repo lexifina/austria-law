@@ -1,0 +1,3 @@
+Bundesgesetz über eine Fachstelle zur Wahrnehmung der Interessen von Verbraucherinnen und Verbrauchern sowie von Menschen mit Behinderungen in der Normung (Fachstelle-Normungsbeteiligung-Gesetz – FNBG) StF: [BGBl. I Nr. 218/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/218>) (NR: GP XXVII [RV 1752](<https://www.parlament.gv.at/gegenstand/XXVII/I/1752>) [AB 1870](<https://www.parlament.gv.at/gegenstand/XXVII/I/1870>) S. 189. BR: [AB 11143](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11143>) S. [948](<https://www.parlament.gv.at/gegenstand/BR/I-BR/948>).)
+
+Der Nationalrat hat beschlossen:

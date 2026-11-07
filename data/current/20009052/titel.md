@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Landesverteidigung und Sport über die Grenzmengen verbotener Wirkstoffe nach dem Anti-Doping-Bundesgesetz 2007 (Anti-Doping-Grenzmengenverordnung 2015 – ADGMV 2015) StF: [BGBl. II Nr. 384/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/384>)
+
+Auf Grund des § 22a Abs. 7 des Anti-Doping-Bundesgesetzes 2007, [BGBl. I Nr. 30/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/30>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 93/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/93>), wird im Einvernehmen mit der Bundesministerin für Gesundheit und dem Bundesminister für Justiz verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der S 18 Bodensee Schnellstraße und der A 14 Rheintal Autobahn - Anschlußstelle Wolfurt/Lauterach im Bereich der Gemeinden Wolfurt, Lauterach, Dornbirn, Lustenau, Fußach und Höchst StF: [BGBl. II Nr. 96/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_96_2/1997_96_2.pdf>)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 297/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_297_0/1995_297_0.pdf>) (BStG 1971), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010388",
+  "short_title": "Verlegung des Amtssitzes der Notarstelle Aflenz nach Kapfenberg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209383",
+    "valid_from": "1963-03-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010388&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:35.433194+00:00",
+    "response_sha256": "6fee3dfbb448799ffefcf2dcc1d30e0e30bc7e9c41816ee8f4b39f2a6acbd4f8",
+    "snapshot_sha256": "5e013043f5897b4f734e5d7c90123101e02baaf14a8849850200ee2afc4ae1e0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4868fab39f5116e51d4696243def59eaf43d50c016556b4c40b7b8f3879dee77",
+      "sha256": "82bfef6a029c95c278f50d0d04c9f16b541c6e17521efefb03e040f6c7a891de",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Justiz vom 11. Feber 1963, betreffend Verlegung des Amtssitzes der Notarstelle Aflenz nach Kapfenberg. StF: BGBl. Nr. 39/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 39/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_39_0/1963_39_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de0595741d471667478f050ca2a5c4030ddf6f39d3ceaa868add2c2225aed28d",
+      "sha256": "cb32b3f957ac8ce76952b458c442df56e6d1509aa21f16104e3c2dbc9ba6b682",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

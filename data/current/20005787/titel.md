@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Gesundheit, Familie und Jugend über Einrichtungen und Vereinigungen mit Betreuungsangebot für Personen im Hinblick auf Suchtgiftmissbrauch StF: [BGBl. II Nr. 132/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/132>)
+
+Auf Grund des § 15 Abs. 1 des Suchtmittelgesetzes (SMG), [BGBl. I Nr. 112/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_112_1/1997_112_1.pdf>), werden unter Berücksichtigung regionaler Erfordernisse nachstehende Einrichtungen und Vereinigungen für die Durchführung gesundheitsbezogener Maßnahmen im Hinblick auf Suchtgiftmissbrauch gemäß den §§ 11, 12, 35, 37 und 39 Suchtmittelgesetz kundgemacht:

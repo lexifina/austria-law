@@ -1,0 +1,1 @@
+Notenwechsel vom 6. Juni 1973 und 5. Dezember 1973 über die Weitergeltung des Österreichisch-britischen Rechtshilfeabkommens vom 31. März 1931 im Verhältnis zwischen Österreich und Tonga StF: [BGBl. Nr. 57/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_57_0/1974_57_0.pdf>)

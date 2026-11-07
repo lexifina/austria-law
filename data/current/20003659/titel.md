@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauen und öffentlichen Dienst, mit der die Geschäftsordnung für die Senate I – III der Gleichbehandlungskommission erlassen wird (Gleichbehandlungskommissions-Geschäftsordnung) StF: [BGBl. II Nr. 396/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/396>)
+
+Auf Grund des § 9 des Bundesgesetzes über die Gleichbehandlungskommission und die Gleichbehandlungsanwaltschaft (GBK/GAW-Gesetz), [BGBl. Nr. 108/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_108_0/1979_108_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 66/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/66>), wird verordnet:

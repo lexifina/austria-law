@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 827 (1993) verabschiedet auf der 3217. Sitzung des Sicherheitsrats am 25. Mai 1993 StF: [BGBl. Nr. 37/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_37_0/1995_37_0.pdf>)

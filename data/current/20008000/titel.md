@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres, mit der die Verordnung der Bundesministerin für Inneres über die Verwendung von Erlösen veräußerter Ehrengeschenke erlassen und die Verordnung der Bundesministerin für Inneres über das Führen von Dienstgraden im Exekutivdienst geändert wird StF: [BGBl. II Nr. 315/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/315>)
+
+Auf Grund des § 59 Abs. 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, und des § 5 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, jeweils zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 55/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/55>), wird verordnet:

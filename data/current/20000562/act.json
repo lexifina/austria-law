@@ -1,0 +1,131 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "20000562",
+  "short_title": "Studienpläne der Lehrveranstaltung Evangelische Religionspädagogik",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000599",
+    "valid_from": "2000-04-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000562&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:20:22.890292+00:00",
+    "response_sha256": "3cd366fa06b74d72d57311d28c7a1d25be0051d22e6ba3a2292261f59343d8a0",
+    "snapshot_sha256": "425e42624c6116cc1c73611e4ffb21f33b7f38205cdc9a56ffbed3fe146a81d2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c476c2036cdf58570620504310c6bb31f4bb2843c1db3c2204862fb9c999c0a7",
+      "sha256": "162aafc5bb8eb3f951447ba45d9f81d4e375a042369edd03493ec32cf5e2d443",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bekanntmachung des Bundesministers für Bildung, Wissenschaft und Kultur betreffend die Studienpläne der Lehrveranstaltung Evangelische Religionspädagogik und der zusätzlichen Lehrveranstaltung Evangelische Religionspädagogik an Pädagogischen Akademien StF: BGBl. II Nr. 116/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 116/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_116_2/2000_116_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 190/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_190_0/1949_190_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 256/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_256_0/1993_256_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "64b82ec2a1fedd0b7961dc586f24da2e754dab3e6f042ca7c2b0c9881a8b6c5f",
+      "sha256": "39ee9f8a98828d4c472193940992632865e6a93cce7cd02b0f936888ce88333c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage A",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5315e520ede265e3eba05c17b086d7c9bb193a086e4d81a6a039803ecb7292c8",
+      "sha256": "f2c9ad79c113c8df6431b54ea4c96b948c7157e858d7e086e6edb5d60ab45830",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage B",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7160be402b5891ebd87548c1317ed5c7e811da391ee85831cc81bfaf87ccb510",
+      "sha256": "4964343d112488dce92b73c5ed0b2743cb4afb30770ec884fc5c2c0963c9798b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

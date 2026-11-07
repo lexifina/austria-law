@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 12. Dezember 1967, betreffend die Ausdehnung des Geltungsbereiches der Übereinkommen und Erklärungen der Ersten und Zweiten Haager Friedenskonferenz von 1899 und 1907 (RGBl. Nr. 173, 174, 175, 177, 180, 181 und 182/1913) StF: [BGBl. Nr. 29/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_29_0/1968_29_0.pdf>)

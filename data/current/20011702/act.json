@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011702",
+  "short_title": "Festsetzung des Anpassungsfaktors für das Jahr 2022",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40239063",
+    "valid_from": "2021-11-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011702&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:19:29.878556+00:00",
+    "response_sha256": "a6fb998a10e0074aae0044bffea39b0ed4ff4ba3826aaf95ecbfdd2a6afb2183",
+    "snapshot_sha256": "5d5318c03f9995ddc6e630ab73beac907c09df7294163117c1f28eeaaa52e0db",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80c6d23e55cce3aafb6a5299486bb11ae78daabffc013ca83fdfa8690a27268b",
+      "sha256": "ff9f3ffae498c27c29adf70b520ce631397105e3063c424a0e3ee519265a82d5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der der Anpassungsfaktor für das Jahr 2022 festgesetzt wird StF: BGBl. II Nr. 485/2021"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 485/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/485"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 179/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/179"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "71fe7961139d9df9a5669f7bb75774d49c13ff4e39c95240f91a665eca37cb46",
+      "sha256": "49450923adbe22525d800da8c537f2130fac98a048496d2610dc58072cd32d4b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

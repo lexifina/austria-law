@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000311",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000312",
+    "valid_from": "1958-06-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000311&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:12.812060+00:00",
+    "response_sha256": "7e8456a1bd44931771830a3c0e607338ad27226aeb8eb31528883a6a66fb0613",
+    "snapshot_sha256": "df12b15cf60b0b78048b50ca4f2a1d074736d2f1fafd53162cf7da3b99165f65",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14f0a21dc5f7ae25a30cd195002942c01ce497985dba418289384401739ed7d4",
+      "sha256": "1f2602d14a38bf1052f223fd49b3c8ab2c3608c0e285f9ebad9c9126561edca6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 8. Mai 1958, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Zugehörigkeit zu einer nationalen Minderheit. StF: BGBl. Nr. 112/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 112/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_112_0/1958_112_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6506fe84e34e5067b85c684b3a6e38af75a1c78e1e1c358dc286ae5c746a9ef9",
+      "sha256": "d3b42f4cc67b3a6e6363a1aa359b08bd34c6ce405a872b43541126d35ee244f8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

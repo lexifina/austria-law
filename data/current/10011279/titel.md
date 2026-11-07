@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Juli 1953, betreffend den Beitritt von Honduras zum Abkommen über die internationale Zivilluftfahrt StF: [BGBl. Nr. 126/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_126_0/1953_126_0.pdf>)

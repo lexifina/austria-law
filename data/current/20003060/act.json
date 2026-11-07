@@ -1,0 +1,621 @@
+{
+  "sample_only": false,
+  "included_provisions": 18,
+  "source_provision_count": 18,
+  "schema_version": 1,
+  "gesetzesnummer": "20003060",
+  "short_title": "Finanzsicherheiten-Gesetz",
+  "abbreviation": "FinSG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003333",
+    "valid_from": "2003-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003060&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:55:48.634393+00:00",
+    "response_sha256": "9c307f42996e834150ce0b66043d02fb2d1b151174983d161f64e098f8c27e4d",
+    "snapshot_sha256": "0d35621adbf6befb50bd9125c3ba8c34244679dc5676c025bcf71ade356891c9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "128acd25dbed596a662f9b76fa43be0f2fa89c143259ea0a89e8f8574f32d9d8",
+      "sha256": "5be59d73b61ba71af8dfc87b103cbfefb2b6166bd98a023df60f66750aeedb8f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Sicherheiten auf den Finanzmärkten (Finanzsicherheiten-Gesetz - FinSG) StF: BGBl. I Nr. 117/2003 (NR: GP XXII RV 251 AB 272 S. 38. BR: AB 6901 S. 703.) [CELEX-Nr.: 32002L0047]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 90/2010 (NR: GP XXIV RV 873 AB 929 S. 80. BR: AB 8397 S. 789.) [CELEX-Nr.: 32009L0044] BGBl. I Nr. 77/2011 (NR: GP XXIV RV 1254 AB 1326 S. 114. BR: AB 8561 S. 799.) [CELEX-Nr.: 32009L0065, 32010L0043, 32010L0044, 32010L0078] BGBl. I Nr. 184/2013 (NR: GP XXIV RV 2438 AB 2514 S. 216. BR: 9050 AB 9087 S. 823.) [CELEX-Nr.: 32013L0036, 32011L0089] BGBl. I Nr. 34/2015 (NR: GP XXV RV 354 AB 436 S. 55. BR: 9274) [CELEX-Nr.: 32009L0138, 32014L0051]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 117/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_117_1/2003_117_1.pdf"
+        },
+        {
+          "text": "RV 251",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/251"
+        },
+        {
+          "text": "AB 272",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/272"
+        },
+        {
+          "text": "S. 38.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/38"
+        },
+        {
+          "text": "AB 6901",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6901"
+        },
+        {
+          "text": "S. 703.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/703"
+        },
+        {
+          "text": "32002L0047",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0047:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 90/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/90"
+        },
+        {
+          "text": "RV 873",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/873"
+        },
+        {
+          "text": "AB 929",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/929"
+        },
+        {
+          "text": "S. 80.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/80"
+        },
+        {
+          "text": "AB 8397",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8397"
+        },
+        {
+          "text": "S. 789.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/789"
+        },
+        {
+          "text": "32009L0044",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0044:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/77"
+        },
+        {
+          "text": "RV 1254",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1254"
+        },
+        {
+          "text": "AB 1326",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1326"
+        },
+        {
+          "text": "S. 114.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/114"
+        },
+        {
+          "text": "AB 8561",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8561"
+        },
+        {
+          "text": "S. 799.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/799"
+        },
+        {
+          "text": "32009L0065",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0065:DE:HTML"
+        },
+        {
+          "text": "32010L0043",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0043:DE:HTML"
+        },
+        {
+          "text": "32010L0044",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0044:DE:HTML"
+        },
+        {
+          "text": "32010L0078",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0078:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        },
+        {
+          "text": "RV 2438",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2438"
+        },
+        {
+          "text": "AB 2514",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2514"
+        },
+        {
+          "text": "S. 216.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/216"
+        },
+        {
+          "text": "9050",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9050"
+        },
+        {
+          "text": "AB 9087",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9087"
+        },
+        {
+          "text": "S. 823.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/823"
+        },
+        {
+          "text": "32013L0036",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0036:DE:HTML"
+        },
+        {
+          "text": "32011L0089",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011L0089:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "RV 354",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/354"
+        },
+        {
+          "text": "AB 436",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/436"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/55"
+        },
+        {
+          "text": "9274",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9274"
+        },
+        {
+          "text": "32009L0138",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0138:DE:HTML"
+        },
+        {
+          "text": "32014L0051",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0051:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f82547a3d9194b38f9f86cb027746b1718f69c74dc0b38808489c4bb1637e28e",
+      "sha256": "0b53c30507fc6e2be1c9f27a111997e1c0fe14962a426b9f87ba51a25106dfd1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0148eab62e4f7ed82718393545fb6ffbb684a7e2770acd7a3941f2e959a5542e",
+      "sha256": "0c9fcc64bce186b3e042338b219bec5b9393f7ed7e315a694d16455fc1487781",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0728c790be61c8eb8e2e9757fe6aa9b597656164d1f432e29d4fc48d0c83d41",
+      "sha256": "200f198a11a985fdd2ead0abde839ca266e533c6966edcdfebe263c294ee2db9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Schriftlicher Nachweis und Übertragungsart",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "274d00014bea56b40f01b5f97dc923323ab13d982119c5e6483268c32198a6f8",
+      "sha256": "38edfca13886545eeca0c353c56057882211d36b411e6459f26b25414b0c7167",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Verwertung der Sicherheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a083111a57326d449dc1dc38e5a801775cbd63eea1158f41827514fd2130df1c",
+      "sha256": "96c044286ee42ff50c038ecf8cef63674eb7d835ab424b5562a42f655a488ead",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§ 6.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1405d7bc704a94065ab5031620a2020e541aaa29ec15b4eacf45f9a4b02dd07c",
+      "sha256": "87fe4fce3d027f2398c0335fbad05718e1b49ba8c83adadc543d519c1b0c6473",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Verfügungsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2e16f459cd88e0cb78c035719d862ed0b13367159e66fc8ad4c6f13593896b7",
+      "sha256": "3028cef2f5e1056ef12a55cd4ef969309b5f24822d568e579b394098617f0bb1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Anerkennung der Vollrechtsübertragung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1e5116bdabbf100a81d1cc1ab6010545f907d77927cada5dbeb5d5e7b64d852",
+      "sha256": "03ad734773b2d464b235737f66b7da369117f3614f6470e5d8db3326eacb54a6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Aufrechnung infolge Beendigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0dc140deb727c312c7dfea4a694b35906c16101cba571562ca12369a1293b836",
+      "sha256": "bd8f45caf3a20590bbd0762b4c749f0b322487a90269bc267b9e11c21db71923",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Be- und Verwertungsgrundsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7d24acdc0c8d044a9f515e977f3c2e54aa9e508f1a81bd3110d1635a843072d",
+      "sha256": "084c804226eeb8085b7672de77ee56e4cad4c8b55f48cbcbc8a2e015f7851b58",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Verhältnis zu anderen Vorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b867b1c6d5cc7efb054487e9da8d3817425fd93b229ae785bbd0ca56d24288d5",
+      "sha256": "3a0f6b09735e0d701c3e46e7aa009fa9ee79b57861bf97b8ec2d64930a9f6a1e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "570956fdf891f933fac44d167f52664e2d0254c0712320bd510dd45be6f6c895",
+      "sha256": "4aa305dcca071f1293f1adfcd7f9252e9943f956b320d8b441d827bd3d9ec7b6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 90/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/90"
+        },
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "§ 13.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec4cb80c34e6b2d3e20edffe8474c0df1dd598445ea1b6b02c9f35636aee0517",
+      "sha256": "71b315e39a3f2211b5d38139e8fa8e86db6e8760bc10f5099e7b6d8d92928c02",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "§ 14.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38cddd606225696a02dd5a29a36e19e5f091d3eb70e914825a10fbfa732bb20a",
+      "sha256": "a93fdadfd7277282cb5bdf2a03e80dacc3fde718d70f5578c14c4ff01744790d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2011-77.md",
+      "source_context": "BGBl. I Nr. 77/2011",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34205321bb6d349130d3be8df61539d1c7f10043cf1206fad8b73cc7f61b9c41",
+      "sha256": "05f62dceb385b3100e1661f46597efad301b84891db58011dee0f19bd6d119d6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 77/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/77"
+        },
+        {
+          "text": "BGBl. I Nr. 117/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_117_1/2003_117_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 69/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/69"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2013-184.md",
+      "source_context": "BGBl. I Nr. 184/2013",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d9a6f84814e03fb8713e40a80f8b225fbfa0e079b9ffefc770517be6924129c",
+      "sha256": "9f76ab6e75f0e914a726ce62a7fb20a3add03565f347609b23251a0114c11a3b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        },
+        {
+          "text": "BGBl. I Nr. 184/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/184"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1 Umsetzung von Richtlinien der Europäischen Union",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "art-001--bgbl-i-2015-34.md",
+      "source_context": "BGBl. I Nr. 34/2015",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a03fa393ad89dc5524ccea792c824c767f1ceafb05b181b7f0d08409600b4c3e",
+      "sha256": "0b0c46c2b2aaf9a1b743098930d4a217c24a53be5f92387da8e674a6db75f152",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 117/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_117_1/2003_117_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

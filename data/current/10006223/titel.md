@@ -1,0 +1,3 @@
+Bundesgesetz betreffend die Gewährung eines Bundeszuschusses zur Förderung von Prämienzahlungen für Versicherungen gegen Schäden an landwirtschaftlichen Kulturen und an landwirtschaftlichen Nutztieren (Hagelversicherungs-Förderungsgesetz) StF: [BGBl. Nr. 64/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_64_0/1955_64_0.pdf>) (NR: GP VII [RV 463](<https://www.parlament.gv.at/gegenstand/VII/I/463>) [AB 479](<https://www.parlament.gv.at/gegenstand/VII/I/479>) [S. 64.](<https://www.parlament.gv.at/gegenstand/VII/NRSITZ/64>) BR: [S. 101.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/101>))
+
+Der Nationalrat hat beschlossen:

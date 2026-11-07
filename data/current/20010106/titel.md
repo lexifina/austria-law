@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Wissenschaft, Forschung und Wirtschaft über die Festsetzung der Einspeisetarife für die Abnahme elektrischer Energie aus Ökostromanlagen für die Jahre 2018 und 2019 (Ökostrom-Einspeisetarifverordnung 2018 – ÖSET-VO 2018) StF: [BGBl. II Nr. 408/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/408>)
+
+Aufgrund der §§ 19 und 20 des Ökostromgesetzes 2012 (ÖSG 2012), [BGBl. I Nr. 75/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/75>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 108/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108>), wird im Einvernehmen mit der Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft und der Bundesministerin für Arbeit, Soziales und Konsumentenschutz verordnet:

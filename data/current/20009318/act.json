@@ -1,0 +1,455 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "20009318",
+  "short_title": "Schwankungsrückstellungs-Verordnung",
+  "abbreviation": "SWRV 2016",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40187588",
+    "valid_from": "2016-11-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009318&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:30:45.365722+00:00",
+    "response_sha256": "9b444c4dbea4caa1c459993df71f941aa07d0ae83a67dc157ca721fa132f5446",
+    "snapshot_sha256": "817a636f628f71956b9ce2759e3b568e09fddf6a4c970fcee5f1390c223471fc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af9d55cc3fd6938370260fe8e00a38d5a0d15529179683d14d0b7b01138a18e5",
+      "sha256": "fe1d76b44aa530426a2411d0d6dd56dd5efe2ff2d63aafa6fd466449b59d37d1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Bildung einer Schwankungsrückstellung in der Schaden- und Unfallversicherung von Versicherungs- und Rückversicherungsunternehmen (Schwankungsrückstellungs-Verordnung – SWRV 2016) StF: BGBl. II Nr. 315/2015"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 324/2016"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 315/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/315"
+        },
+        {
+          "text": "BGBl. II Nr. 324/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/324"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f3700d5a1e69c7e7b7eb1b07743db17b66cfb6abc66d5cf1b96c0c416d9b40f",
+      "sha256": "68f2ebebb499cb1cf15fc5b3d847c103191e3693be805cfd0cc56ced0c0dff09",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1a",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0001a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0121d7345747f59cb4c561562741713d5a8428c860ddb4b7877c4d92e5f6f000",
+      "sha256": "8700e80d257a8f864e2bf5e0eba02a9864ec716f08bc7d3d4abd3fc10c3a1fca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Beobachtungszeitraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "828aa167b6097b1799bae79fa739e4d86d6ea3fd41003e702e42090e3fad6649",
+      "sha256": "9f086ab342e37323ae397f19e47185356a120a8f8d8664343dc6923f1e100274",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Schadensatz, durchschnittlicher Schadensatz, Abweichung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c980ef280728877e5751364fe367e0177494eae21f0a986f63e9f30da8ee308",
+      "sha256": "f8e7e2907e9b1eed881805c6450961690ca2eaa747e225263cb73d6ea16a1e7a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Kostensatz, durchschnittlicher Kostensatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c7d687f02020492c52f72aeeb8247587b05d53a91b84739fb81c3c6b7d924ff5",
+      "sha256": "0b3d39690e23a9f0dd045bd1a29d76edbad4701cc6a101f97fca05fc9511a6e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Grenzschadensatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a54c18bd2bb3645e11f8e2c02e559eebf2ffdabbeabcad1717a10b6a3a9b3a9a",
+      "sha256": "e90b0dc18abf0600fcc97ee4cee8fdd2a90c13fb3074d5430834debf2ebc2396",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Varianz, Standardabweichung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bdaca9a7d4fba4b564ae1a238946d3ff431eda32a323a73d09286a490cac4d6",
+      "sha256": "a024f140504c878e95728a1e84b812f900c10b053a0fd7bb1414b9957cef0774",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Unterschadenbetrag, Überschadenbetrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f62b2104023af6b5e84541bf7d3fb0ab9a2fffde0bb48ef39058785fe94ad539",
+      "sha256": "88247fb6961fc8c596085e0f6e897c44255dd7ad34251f74c42e23a19c7f6740",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "2. Abschnitt Vorgangsweise beim indirekten Geschäft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cff1fe1fac2bc64630fa7d40bc93fa5460c5ea99b8c7b671a5524f2d62578720",
+      "sha256": "2a81ee13ed2de7b849ff032e4a17e7df314642627076257e0a5154fa015f4eef",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "3. Abschnitt Bildung und Auflösung einer Schwankungsrückstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e37f6bff194e87644d63a0ad572e586269e8f25362033ca8c2a73d46d478be4",
+      "sha256": "1fa26d7d16ab812c4964b49a6087905382048f8e1e91089e409e0ed6817fa530",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Sollbetrag",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92d0fbecf7742f632e05f581e32e95799fc837d235f15fcbd026b4d824cdba32",
+      "sha256": "2c71079f7be1ea25512c44cd559c6d674a74b8b187672be4363475b62da66e52",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Schadenunabhängige Zuführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2b1141b0302421028afec1422a4a51665165f57ad4d2e6119acb3bce9ccb1db",
+      "sha256": "f203c945df6f4036e47f534e0802ecd60db9fb28bf9e818956ad77ba56f0f59d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Schadenabhängige Zuführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8cafc64ac2526c4bb0aa79331a7ff41324c55d3ba42310a3798cd4257e8a4c6f",
+      "sha256": "ab509cb9f1083225c5d49e78adb1fe25d777bddd4f3f342dd1b2a00efd030198",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Schadenabhängige Entnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2af7b2cf0fa420f7a3fc9167e19a128dfda7599e40384b557fc926f256bcf3ab",
+      "sha256": "9b73dcb0814183151ad5ed6d5f5fbd27bb9bd975143d3f0e3a604498386606e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Auflösung der Schwankungsrückstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07d9e8098dbdb0f10cee2d9c04076ca1d4e3b38e428664abc45860818071c9b0",
+      "sha256": "36d46fec81b2c55376b9d0d927028f910615581b31e8b41302119b90de7dbe88",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "4. Abschnitt Neuaufnahme von Versicherungszweigen und Geschäftsbereichen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa2ce634ea2eef471e26111d408c2883e953e8d24485965e0a6c544a36b43a95",
+      "sha256": "05ba9a38ffccf61a2a6548720963649056817d9da876763baeea2072e038f2cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "5. Abschnitt Inkrafttreten und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "74fb3489b47a0b40ac409000e00c91eb74259ec8dba5ee3b2544834229b14463",
+      "sha256": "8b5b3a958858871845ddd7de70e7916cdacf7998ff729a10e188b936113f937d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 324/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/324"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69d158b4836ccaf86f58b02f00c9eaaa85ae24f580154b3afb7f7fc173727c8f",
+      "sha256": "3be565cbefbdc329ca677aaf5aac6e27065677e2863d603caed3b942581653a0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

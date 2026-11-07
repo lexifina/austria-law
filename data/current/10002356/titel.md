@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 9. November 1976 betreffend staatliche Hoheitszeichen der Vereinigten Staaten von Amerika StF: [BGBl. Nr. 644/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_644_0/1976_644_0.pdf>)

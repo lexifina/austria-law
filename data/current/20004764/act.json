@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004764",
+  "short_title": "Handels- und Schiffahrtsvertrag",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005197",
+    "valid_from": "1937-05-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004764&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:30.020517+00:00",
+    "response_sha256": "a2632a064040bf24f2fd8aa90d8ecc5d083c269bd3e8b4edfdeac874be2f85cc",
+    "snapshot_sha256": "57c3fcf73a2b90475c7aea805ddacd59b1cf5fea72721265e647899afe8750b9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e224c2c6d61f05ae1964a1f7917d082721106a062c714c5f2f5a533bf330106",
+      "sha256": "8356e81f3166f310a54f05e52f52cc772b267af563ac7758e93cba2c21a0bc1b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes, betreffend die Anwendung des österreichisch-britischen Handels- und Schiffahrtsvertrages auf Kenia und Uganda. StF: BGBl. Nr. 152/1937"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 152/1937",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=152/1937&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b409d7d8ecf73d0f5d25523f64ce638385d21728ca99edd60717b1d7fbded087",
+      "sha256": "95e2cf943ecaa1ca197d24ec7a10ae4465ad386623b240132726b9df4d688375",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Bundesgesetz über die Förderung des Wasserbaues aus Bundesmitteln (Wasserbautenförderungsgesetz 1985 - WBFG) StF: [BGBl. Nr. 148/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_148_0/1985_148_0.pdf>) (WV)

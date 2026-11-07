@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das offizielle Prüfungs- und Gewährzeichen „ANZAC“ von Australien und Neuseeland StF: [BGBl. II Nr. 345/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/345>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 149/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/149>), wird im Einvernehmen mit der Bundesministerin für auswärtige Angelegenheiten kundgemacht, dass § 6 Abs. 1 des Markenschutzgesetzes 1970 auf das offizielle Prüfungs- und Gewährzeichen „ANZAC“ von Australien und Neuseeland Anwendung findet, welches im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt.

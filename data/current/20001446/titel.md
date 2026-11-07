@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Einrichtung von Bakkalaureats-, Magister-, Diplom- und Doktoratsstudien an der Technischen Universität Wien (Studienstandortverordnung Technische Universität Wien) StF: [BGBl. II Nr. 268/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_268_2/2001_268_2.pdf>)
+
+Auf Grund der §§ 11 Abs. 5, 11a Abs. 6 und 18 Abs. 4 des UniStG, [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird verordnet:

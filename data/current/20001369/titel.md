@@ -1,0 +1,3 @@
+Bundesgesetz über den Aufenthalt ausländischer Truppen auf österreichischem Hoheitsgebiet (Truppenaufenthaltsgesetz – TrAufG) StF: [BGBl. I Nr. 57/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_57_1/2001_57_1.pdf>) (NR: GP XXI [RV 428](<https://www.parlament.gv.at/gegenstand/XXI/I/428>) [AB 555](<https://www.parlament.gv.at/gegenstand/XXI/I/555>) [S. 69.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/69>) BR: [6353](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6353>) [AB 6357](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6357>) [S. 677.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/677>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes, betreffend die Anwendung des österreichisch-britischen Auslieferungsvertrages im Verhältnis zu den malaiischen Staaten. StF: [BGBl. Nr. 53/1935](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=53/1935&amp;SkipToDocumentPage=True>)

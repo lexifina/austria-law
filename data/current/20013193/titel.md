@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Energie und Tourismus über Anforderungen und Kriterien für die Herstellung von erneuerbarem Wasserstoff nicht biogenen Ursprungs (Wasserstoffverordnung – WstV) StF: [BGBl. II Nr. 139/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/139>)
+
+Aufgrund des § 6 Abs. 4 des Erneuerbaren-Ausbau-Gesetzes (EAG), [BGBl. I Nr. 150/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 69/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/69>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft verordnet:

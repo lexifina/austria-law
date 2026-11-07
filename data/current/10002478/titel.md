@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 25. August 1980 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen und das Emblem des Internationalen Fonds für landwirtschaftliche Entwicklung StF: [BGBl. Nr. 412/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_412_0/1980_412_0.pdf>)

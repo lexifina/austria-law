@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr über die Aufhebung der Verordnung des Landeshauptmannes von Wien vom 22. August 1990, LGBl. Nr. 51/1990, betreffend die Verhältnis und Höchstzahl der für das mit Kraftfahrzeugen betriebene Platzfuhrwerks-Gewerbe zuzulassenden Kraftfahrzeuge in Wien (Wiener Taxi-Kraftfahrzeug Verhältnis und Höchstzahlverordnung) durch den Verfassungsgerichtshof StF: [BGBl. Nr. 249/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_249_0/1992_249_0.pdf>) idF [BGBl. Nr. 662/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_662_0/1992_662_0.pdf>) (DFB)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshof-Gesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

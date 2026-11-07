@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000461",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000463",
+    "valid_from": "1969-03-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000461&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:29.160575+00:00",
+    "response_sha256": "7abbca5af446bbe3dcb471be88deca6a9dad158c9e2ddf112e899c440bb89e7c",
+    "snapshot_sha256": "a88f5817aadc1302514f9c58e3f7cdf700e2b17e20180e56de8d8b54f786f5b2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54c53a5330e70f5f082c2fa6dc5dadd35728530b3d4988d3c9914e047a6597ca",
+      "sha256": "94e8f49a99f33ffacc8eae40754ee3538ea564ee7c8cb00849d5f5c2940ad315",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 18. Feber 1969 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Besteuerung des Haltens oder Parkens von Fahrzeugen auf Verkehrsflächen, die nicht Bundesstraßen sind StF: BGBl. Nr. 76/1969"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 76/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_76_0/1969_76_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81c8b456f681c7606f288da632fb301c38d532699bad3bc68cff4d9b6b2bcfae",
+      "sha256": "9eedb598bc2ecd386a01e555cd85e4351be1dbd3cdc2e3a2383bb27946ce2ae0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 26. Juni 1930, betreffend die Hinterlegung der Ratifikationsurkunde des Königreiches Jugoslawien zum Übereinkommen über die Eichung der Binnenschiffe StF: [BGBl. Nr. 196/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=196/1930&amp;SkipToDocumentPage=True>)

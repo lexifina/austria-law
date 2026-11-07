@@ -1,0 +1,3 @@
+Bundesgesetz über die Pensionsversorgung der Beamten der Österreichischen Bundesbahnen – (Bundesbahn-Pensionsgesetz – BB-PG) StF: [BGBl. I Nr. 86/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_86_1/2001_86_1.pdf>) (NR: GP XXI [IA 438/A](<https://www.parlament.gv.at/gegenstand/XXI/A/438>) [AB 699](<https://www.parlament.gv.at/gegenstand/XXI/I/699>) [S. 74.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/74>) BR: [6372](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6372>) [AB 6406](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6406>) [S. 679.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/679>))
+
+Der Nationalrat hat beschlossen:

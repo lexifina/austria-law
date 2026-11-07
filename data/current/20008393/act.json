@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008393",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Wien, Raasdorf und Groß-Enzersdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40149916",
+    "valid_from": "2013-04-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008393&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:14:31.024361+00:00",
+    "response_sha256": "b7bcbb93ddd4b47518f84f5d2895ded4ee4d2ed3fa869c5a48209844417515d1",
+    "snapshot_sha256": "4ac0a498506c22f679933fafc9ede6ce5478d5576f006a2e82db31b07afee763",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e3a37eaf81d39ec40b72a9124b544c1bfa1293aadf79af19180907faf49e52d",
+      "sha256": "e806f1c9d7371ad80d70aada1ea873d184a49b7d466bf278cdc78b8265bed70e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Wien, Raasdorf und Groß-Enzersdorf StF: BGBl. II Nr. 111/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 111/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/111"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/34"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "194f4f3ff7494307ad3a17fb476f69918eb6340423ae1979954a680043c6ca5f",
+      "sha256": "ba3cde27012816102e059d88fcd3827c22beb8395f31cf33380225ff6bbf205d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

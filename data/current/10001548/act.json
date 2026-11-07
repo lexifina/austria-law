@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001548",
+  "short_title": "VfGH-Aufhebung - §§ 1 u. 2 Abs. 1 der Handfesseldienstanweisung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001570",
+    "valid_from": "1998-05-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001548&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:48:42.693120+00:00",
+    "response_sha256": "e55a934e10a0a62d453c6b6fef6befe48370b13c093faed0833830871b2d54f4",
+    "snapshot_sha256": "4d5c816450485e09138c94bff764dd2bb2724fcc91053b8521682346f725f356",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df129dc3a3bfe4a29b221988e5c6aa6a12d1cea7264d6717202455b8e7273a85",
+      "sha256": "943b95604b07619d30e69ea546dcddea0b95fb8a54df99d7bfc5d95d39d8d7af",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Inneres über die Aufhebung der §§ 1 und 2 Abs. 1 der Handfesseldienstanweisung durch den Verfassungsgerichtshof StF: BGBl. II Nr. 140/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 140/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_140_2/1998_140_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b56fac90deba77ecbac2fc32181e036330f173b166aa7dff9d5d0d502003df1",
+      "sha256": "b4967513bef62e854213d4d1507bf094ea53f48534e14298d5a9b1b06b6294b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

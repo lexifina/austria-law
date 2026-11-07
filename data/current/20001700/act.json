@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001700",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2000",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001845",
+    "valid_from": "2001-12-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001700&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:35:59.861483+00:00",
+    "response_sha256": "b8de88f2b0364934556ec5f9e145a312b894605374cee05a70131cd3ef1d2982",
+    "snapshot_sha256": "2a97380e5d971333e7f6b49357328ce43410b3730e360db12914ee74bb1eadef",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0fe213faad9a84c70e78417f505a39e9685b6153ba168a8f7c6f07f5d90d3810",
+      "sha256": "21e7d0d576d14b6338df5ca57a0a6504eaad09744ca8e87e3729c8e546c08569",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2000 StF: BGBl. I Nr. 141/2001 (NR: GP XXI AB 864 S. 84.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 141/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_141_1/2001_141_1.pdf"
+        },
+        {
+          "text": "AB 864",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/864"
+        },
+        {
+          "text": "S. 84.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/84"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69990531bd5d4b493aedd7c4fcb69eae734553690f7ca328bb90272e0b794406",
+      "sha256": "0f02c4951b23e78d5d83f1133282c57cb0e8fc86f54a49d1949a769d48f0f9cc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

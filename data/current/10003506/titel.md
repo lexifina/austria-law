@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen und das Emblem des Internationalen Wissenschafts- und Technologie-Zentrums StF: [BGBl. II Nr. 411/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_411_2/1997_411_2.pdf>)

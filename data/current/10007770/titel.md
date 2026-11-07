@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Vereinfachung der Förmlichkeiten im Warenverkehr StF: [BGBl. Nr. 365/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_365_0/1996_365_0.pdf>)

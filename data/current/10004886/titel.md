@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten und des Bundesministers für Finanzen betreffend die Kündigung des Abkommens zwischen dem Bundesminister für Handel, Gewerbe und Industrie und dem Bundesminister für Finanzen der Republik Österreich einerseits und dem Wirtschaftsminister Tunesiens andererseits über die Anerkennung von Zeugnissen über den Ursprung und die handwerkliche Herstellung von Waren zum Zwecke der zollfreien oder zollermäßigten Einfuhr nach Österreich in der Fassung des ergänzenden Briefwechsels StF: [BGBl. Nr. 882/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_882_0/1994_882_0.pdf>)
+
+Auf Grund des § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985 BGBl. Nr. 200, wird kundgemacht:

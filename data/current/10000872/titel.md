@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Justiz vom 16. Juni 1986 zur Durchführung des Staatsanwaltschaftsgesetzes (DV-StAG) StF: [BGBl. Nr. 338/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_338_0/1986_338_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über Nahrungsergänzungsmittel (Nahrungsergänzungsmittelverordnung – NEMV) StF: [BGBl. II Nr. 88/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/88>) \[CELEX-NR.: [32002L0046](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0046:DE:HTML>)\]
+
+Aufgrund der §§ 3, 10 Abs. 1, 18 und 19 Abs. 1 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 69/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_69_1/2003_69_1.pdf>), wird – hinsichtlich der §§ 3 und 5 im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit – verordnet:

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008034",
+  "short_title": "Informationspflicht hinsichtlich der Wählerevidenz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40143036",
+    "valid_from": "2012-10-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008034&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:09:41.690910+00:00",
+    "response_sha256": "fcd9a9fc72ec06d168a249b0a4d78f7dff5165ac17be1d8ca6747c0965e67036",
+    "snapshot_sha256": "dba0f5ac39b250268bb851a91f4c0891ac0144929810cc66bb6033a4b8bca447",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad811eedfc7991962d20352cb27561b4ce082048d29fed6bc0148bb7e55136d5",
+      "sha256": "069554677fca0d133f267ccf3c7e63d34fa43f65ee34760383920a56b867a11c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Inneres über die Informationspflicht hinsichtlich der Wählerevidenz StF: BGBl. II Nr. 353/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 353/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/353"
+        },
+        {
+          "text": "BGBl. I Nr. 12/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/12"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9002463393e893db4df02fe07326f0662778eb16e408cc50c6aa2b22a6162119",
+      "sha256": "2e3c19b9235ff8385628e4411d7c73e612b03052e65608808ca5e549c61c3cf2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

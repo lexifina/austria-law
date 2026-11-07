@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der jene Arten von Betriebsanlagen bezeichnet werden, die keinesfalls dem vereinfachten Genehmigungsverfahren zu unterziehen sind StF: [BGBl. II Nr. 265/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_265_2/1998_265_2.pdf>)
+
+Auf Grund des § 359b Abs. 7 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 30/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf>), wird vom Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit dem Bundesminister für Umwelt, Jugend und Familie und dem Bundesminister für Arbeit, Gesundheit und Soziales verordnet:

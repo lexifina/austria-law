@@ -1,0 +1,3 @@
+Bundesgesetz zur Verbesserung der Sozialbetrugsbekämpfung (Sozialbetrugsbekämpfungsgesetz – SBBG) StF: [BGBl. I Nr. 113/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/113>) (NR: GP XXV [RV 692](<https://www.parlament.gv.at/gegenstand/XXV/I/692>) [AB 770](<https://www.parlament.gv.at/gegenstand/XXV/I/770>) [S. 85.](<https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/85>) BR: [9406](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9406>) [AB 9410](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9410>) [S. 844.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/844>))
+
+Der Nationalrat hat beschlossen:

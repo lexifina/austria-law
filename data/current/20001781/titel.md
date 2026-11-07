@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: [BGBl. III Nr. 5/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_5_3/2002_5_3.pdf>)

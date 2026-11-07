@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002061",
+  "short_title": "Errichtung einer vierten Notarstelle in Wels",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002247",
+    "valid_from": "2002-06-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002061&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:40:36.597454+00:00",
+    "response_sha256": "99fcc289f42f3d52d1b5ecbb6f1adc0c949a61ce16441992906a75c8ba02b7c9",
+    "snapshot_sha256": "aa305ae355cbdd6ad1e24ec28a30ab886c5f4560de88a853e58b3c89314b926e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4f38ba587cb9c959d2a9dd426e8c781aacda2920ee0bc6d959db7629f5569b3",
+      "sha256": "952621b69ccf52e247aa227ce593254e3e72ec9ce3d480d13b55423168a60d03",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Wels StF: BGBl. II Nr. 242/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 242/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_242_2/2002_242_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97fdc77d48fd0593cbfbd83a70209c229dc1bb32cc977ba98ed5995d76633bde",
+      "sha256": "e3a0df1ed000a514ea7e50df901ee3d53338f65579dbca91548efdb84fd21f95",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

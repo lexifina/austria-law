@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft- Umwelt und Wasserwirtschaft über die Praxiserfordernisse für Vertragsbedienstete im Pädagogischen Dienst und über den Entfall der ergänzenden Lehramtsausbildung in bestimmten Verwendungen StF: [BGBl. II Nr. 86/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/86>)
+
+Auf Grund des § 38 Abs. 6 des Vertragsbedienstetengesetzes 1948 – VBG, [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), in der Fassung [BGBl. I Nr. 119/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/119>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

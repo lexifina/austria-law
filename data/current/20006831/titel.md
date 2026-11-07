@@ -1,0 +1,3 @@
+Bundesgesetz über Sicherheitsmaßnahmen bei ausländischen Luftfahrzeugen und Luftfahrtunternehmen (NR: GP XXIV [RV 684](<https://www.parlament.gv.at/gegenstand/XXIV/I/684>) [AB 746](<https://www.parlament.gv.at/gegenstand/XXIV/I/746>) [S. 69.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/69>) BR: [AB 8336](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8336>) [S. 786.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/786>)) \[CELEX-Nr.: [32008L0049](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0049:DE:HTML>)\] StF: [BGBl. I Nr. 55/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/55>)
+
+Der Nationalrat hat beschlossen:

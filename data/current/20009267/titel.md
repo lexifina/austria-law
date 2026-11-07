@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über Erleichterungen bei der Führung von Büchern und Aufzeichnungen, bei der Registrierkassenpflicht und bei der Belegerteilungspflicht (Barumsatzverordnung 2015 – BarUV 2015) StF: [BGBl. II Nr. 247/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/247>)
+
+Aufgrund der §§ 131 Abs. 4 und 131b Abs. 5 Z 2 der Bundesabgabenordnung – BAO, [BGBl. Nr. 194/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 118/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/118>), wird verordnet:

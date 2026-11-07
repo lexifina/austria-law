@@ -1,0 +1,13 @@
+Anhang
+
+Wortlaut des Artikel 7 der Richtlinie 77/799/EWG
+
+„Geheimhaltungsklausel
+
+- 1\. Alle Auskünfte, die ein Mitgliedstaat nach dieser Richtlinie erhält, sind in diesem Staat in gleicher Weise geheim zu halten wie die nach seinen innerstaatlichen Rechtsvorschriften erhaltenen Auskünfte. In jedem Fall dürfen diese Auskünfte – nur solchen Personen zugänglich gemacht werden, die mit der Steuerfestsetzung oder mit der verwaltungsmäßigen Überprüfung der Steuerfestsetzung unmittelbar befasst sind; – nur in einem gerichtlichen Verfahren, einem Strafverfahren oder einem Verfahren zur Verhängung von Verwaltungssanktionen, wenn diese Verfahren im Zusammenhang mit der Steuerfestsetzung oder der Überprüfung der Steuerfestsetzung stehen, bekannt gemacht werden, und zwar nur den unmittelbar an diesen Verfahren Beteiligten; diese Auskünfte können jedoch in öffentlichen Gerichtsverhandlungen oder in Gerichtsurteilen erwähnt werden, wenn die zuständige Behörde des Auskunft gebenden Mitgliedstaats bei der erstmaligen Übermittlung der Auskünfte keine Einwände geltend macht; – unter keinen Umständen für andere als für steuerliche Zwecke oder für die Zwecke eines gerichtlichen Verfahrens, eines Strafverfahrens oder eines Verfahrens zur Verhängung von Verwaltungssanktionen verwendet werden, wenn diese Verfahren im Zusammenhang mit der Steuerfestsetzung oder der Überprüfung der Steuerfestsetzung stehen. Darüber hinaus können die Mitgliedstaaten vorsehen, dass die in Unterabsatz 1 genannten Auskünfte zur Festsetzung anderer Steuern, Abgaben und Gebühren, die unter Artikel 2 der Richtlinie 76/308/ EWG fallen, verwendet werden.
+
+- 2\. Ein Mitgliedstaat, dessen innerstaatliche Rechtsvorschriften oder Verwaltungspraxis für die eigenen Besteuerungszwecke engere Grenzen als Absatz 1 vorsehen, ist auf Grund des genannten Absatzes nicht verpflichtet, Auskünfte zu erteilen, wenn sich der interessierte Staat nicht verpflichtet, diese engeren Grenzen zu beachten.“
+
+- 3\. Die zuständige Behörde des auskunftsgebenden Mitgliedstaats kann gestatten, dass Auskünfte abweichend von Absatz 1 in dem um Auskunft ersuchenden Mitgliedstaat für andere Zwecke verwendet werden, wenn die Auskünfte nach den Rechtsvorschriften des auskunftsgebenden Staates dort unter den gleichen Umständen für derartige Zwecke verwendet werden können.
+
+- 4\. Ist die zuständige Behörde eines Mitgliedstaats der Auffassung, dass die Auskünfte, die sie von der zuständigen Behörde eines anderen Mitgliedstaats erhalten hat, für die zuständige Behörde eines dritten Mitgliedstaats von Interesse sein könnten, so kann sie dieser die Auskünfte mit Zustimmung der zuständigen Behörde des auskunftsgebenden Staates übermitteln.“

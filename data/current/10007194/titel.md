@@ -1,0 +1,3 @@
+Bundesgesetz betreffend die Sicherung einer ungestörten Produktion und der Versorgung der Bevölkerung und sonstiger Bedarfsträger mit wichtigen Wirtschafts- und Bedarfsgütern (Versorgungssicherungsgesetz – VerssG 1992) StF: [BGBl. Nr. 380/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_380_0/1992_380_0.pdf>) (NR: GP XVIII [RV 487](<https://www.parlament.gv.at/gegenstand/XVIII/I/487>) [AB 564](<https://www.parlament.gv.at/gegenstand/XVIII/I/564>) [S. 73.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/73>) BR: [AB 4286](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4286>) [S. 555.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/555>))
+
+Der Nationalrat hat beschlossen:

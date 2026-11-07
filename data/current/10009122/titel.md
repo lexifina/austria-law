@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über die Vorbereitung und Durchführung der Wahl zu den Personalvertretungsorganen sowie den Organen der Jugend- und Behindertenvertretung nach dem Post-Betriebsverfassungsgesetz (Post-Betriebsverfassungs-Wahlordnung – PBVWO) StF: [BGBl. II Nr. 147/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_147_2/1998_147_2.pdf>)
+
+Gemäß §§ 17 bis 22, 24 bis 32, 51, 53, 54, 56, 57 und 82 Abs. 1 Z 1 und 2 des Post-Betriebsverfassungsgesetzes (PBVG), [BGBl. Nr. 326/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_326_0/1996_326_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 30/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf>), wird verordnet:

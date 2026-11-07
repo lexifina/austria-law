@@ -1,0 +1,1 @@
+Übereinkommen zwischen der Österreichischen Bundesregierung und der Regierung des Großherzogtums Luxemburg über die Ergänzung des Luftverkehrsabkommens zwischen Österreich und Luxemburg, [BGBl. Nr. 154/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_154_0/1953_154_0.pdf>) StF: [BGBl. Nr. 94/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_94_0/1956_94_0.pdf>)

@@ -1,0 +1,1 @@
+Patentgesetz 1970 StF: [BGBl. Nr. 259/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_259_0/1970_259_0.pdf>) (WV) idF [BGBl. Nr. 137/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_137_0/1971_137_0.pdf>) (DFB)

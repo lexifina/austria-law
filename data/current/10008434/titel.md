@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Verkehr vom 16. Mai 1978 über die Verwendung der Disziplinarstrafen Geldbuße und Geldstrafe StF: [BGBl. Nr. 251/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_251_0/1978_251_0.pdf>)

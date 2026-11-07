@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011360",
+  "short_title": "Errichtung einer weiteren Notarstelle in Landeck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40227678",
+    "valid_from": "2020-11-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011360&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:13:25.923328+00:00",
+    "response_sha256": "93af98192424c78a7c63f3d48795078dcfde41687095850a4d5977457d99ef67",
+    "snapshot_sha256": "baf1e1acdf09922d3f33707b26e35d13c5296ddbd7e490a6d5facd5b53fe3e37",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbbcf3d39b7f0b886c6d4e1e53f758a914fa6f5d5bf53faf033378866c4ce82d",
+      "sha256": "c6180adfbc9e09fc0502847b9bacd1f6e13f99c61b31c57d79dd25c6d5dec0eb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Landeck StF: BGBl. II Nr. 520/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 520/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/520"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0702b459cef8fe78f1ac42733133ef1df34aa97ea3400f6ba3165a106d477316",
+      "sha256": "829f8ad38a50c8540c1c78d56916c6f6e47abc4024bc7679353d758756274834",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

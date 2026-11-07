@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003431",
+  "short_title": "Errichtung einer zweiten Notarstelle in St. Veit an der Glan",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003458",
+    "valid_from": "1996-08-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003431&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:15:32.493805+00:00",
+    "response_sha256": "babcd1f1ee7e075ad422c35489d912c213b8edae2e87aed91a07777d7f376e02",
+    "snapshot_sha256": "a39990d90ec316d955598e3e1725b722f420c3acae37d29d53edf27e5dcb4e84",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4a04200a6f429987e79428692cc9445f6c8560c7d224b84aa929bb2ca874b9b1",
+      "sha256": "bdf85eb99ade59816f215c905fe2de134822a6c2bebf52944945d62c4af48f3f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in St. Veit an der Glan StF: BGBl. Nr. 459/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 459/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_459_0/1996_459_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fc0663a7b9f78c9bbca3103d0b5d7506a6c09f8f1c498fc95f3427eab2e31959",
+      "sha256": "e4b696ed1ac787f1309ae74942fb86e0143038f1e19e1d14255555cb80129ab9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

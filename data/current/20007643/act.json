@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20007643",
+  "short_title": "5. Hochleistungsstrecken-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40135525",
+    "valid_from": "2012-01-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007643&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:03:21.910052+00:00",
+    "response_sha256": "778d9ddcbca9ef5c3d291bed39de62b2808b9f54e85c9fb4396a0e1a07627c04",
+    "snapshot_sha256": "4eaa2144d4df182f042156c6a8e416dda376d40d800b4c5ad826ef123da50997",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65dd8b938232f94174e96e0aa1d903a51917a5b4ae84f53d3a77082fa526d92e",
+      "sha256": "dbfd450dfe79d4e0cc6ed3d04cbb0accdb14c62983a411d84a558471dbbcef7f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung über die Erklärung weiterer Eisenbahnen zu Hochleistungsstrecken (5. Hochleistungsstrecken-Verordnung) StF: BGBl. II Nr. 11/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 11/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/11"
+        },
+        {
+          "text": "BGBl. Nr. 135/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 154/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/154"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f63ff9a5f7d0ed28beb485c31751c736b8e25d00fe91f7ebf6e94b42893b3ef3",
+      "sha256": "885ef19df214db1e85935485066fd37ee6c071afb5224b831396203e6bcd8575",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

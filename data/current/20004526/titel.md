@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über die Kennzeichnung von Erzeugnissen, die aus gentechnisch veränderten Organismen bestehen oder solche enthalten (Gentechnik-Kennzeichnungsverordnung) StF: [BGBl. II Nr. 5/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/5>)
+
+Auf Grund des § 62 Abs. 2 des Gentechnikgesetzes (GTG), [BGBl. Nr. 510/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_510_0/1994_510_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 126/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/126>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft und dem Bundesminister für Wirtschaft und Arbeit verordnet:

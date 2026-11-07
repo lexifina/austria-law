@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 11. Jänner 1961 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation. StF: [BGBl. Nr. 25/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_25_0/1961_25_0.pdf>)

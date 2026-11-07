@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008881",
+  "short_title": "Arbeitslosenversicherungsbeitrag",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009036",
+    "valid_from": "1993-11-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008881&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:24:10.461771+00:00",
+    "response_sha256": "73cd2daf7ecd7bbdc69a7defb95a206a62b1bdd2ec2e1971b94f91641b8fd56a",
+    "snapshot_sha256": "136d89639e632f5ab26a0f483e3f22a658eb3ffbaf40469399f1d010b16da34b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3317a1d09ff30ab8cc7d0e3fc6e5d3b877595e14ff434de36089ca83bb931bfb",
+      "sha256": "34d6f86949937cf50185cec18399d2db2bf92811f5a2428d98e679816438888b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit und Soziales über den Arbeitslosenversicherungsbeitrag StF: BGBl. Nr. 792/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 792/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_792_0/1993_792_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 502/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_502_0/1993_502_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1830eac54b97dde0d2d3f9bd42a02126dcdb970756e52b01a971688acafe3486",
+      "sha256": "29fea52a0c42faa47ea45881aeadb888b4b602882cfd24e73e317fb70d770109",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

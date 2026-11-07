@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 31. Mai 1967 über den Geltungsbereich des Protokolls vom 11. Dezember 1946 sowie der durch dieses Protokoll abgeänderten Abkommen, Übereinkommen und Protokolle betreffend die Suchtgifte StF: [BGBl. Nr. 188/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_188_0/1967_188_0.pdf>)

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000834",
+  "short_title": "VfGH-Feststellung einer Verfassungswidrigkeit",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000836",
+    "valid_from": "1986-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000834&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:36:42.761827+00:00",
+    "response_sha256": "70de452f0252ca1448035535e88f6f1c32f08990ffbf4cf6f524ad759399c5fc",
+    "snapshot_sha256": "b68f0ec54feccd69ad275e8799537056a0382b6a29ed720db62909ca6ca3377a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3cead5d9b8d370c9cde86688951b28917213030a9074361a4eed134ac3df5ae2",
+      "sha256": "f74ff085da8f95c5928e5e721e7265c9649a871084c13bd7d83ab6230e7d73b9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 18. November 1986 über den Ausspruch des Verfassungsgerichtshofes, daß § 112 Abs. 2 des Beamten-Dienstrechtsgesetzes 1979 verfassungswidrig war StF: BGBl. Nr. 628/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 628/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_628_0/1986_628_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3f3202414e46d286af9512e1ccb398f2d3dfeec00571ce519f88284bb7404ef",
+      "sha256": "a1bdcab3ba2ced43406a0623eabaddc259f00d488230da6db4f78bb8efbecae2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 333/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

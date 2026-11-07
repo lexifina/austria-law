@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 1. Oktober 1957 über den gemäß Abschnitt 17 des Übereinkommens über die Privilegien und Immunitäten der Vereinten Nationen begünstigten Personenkreis. StF: [BGBl. Nr. 217/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_217_0/1957_217_0.pdf>)

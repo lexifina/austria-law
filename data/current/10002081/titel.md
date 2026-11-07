@@ -1,0 +1,1 @@
+Notenwechsel betreffend den Abschluß eines Abkommens zwischen der Österreichischen Bundesregierung und der Brasilianischen Regierung über die Verlängerung der Schutzfrist für Werke der Literatur und der Kunst StF: [BGBl. Nr. 82/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_82_0/1966_82_0.pdf>)

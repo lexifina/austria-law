@@ -1,0 +1,93 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20011902",
+  "short_title": "Zivildienstleistenden – durchschnittlich aufgewendeter Betrag 1999",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40244159",
+    "valid_from": "2002-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011902&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:23:03.208241+00:00",
+    "response_sha256": "c383d607207367783b7a4f69b58adbbba22c9267fbcde0ef7d095ab2c3fb17a0",
+    "snapshot_sha256": "7700e35ee09d9d6ca45d8b4129ad7d9abed4efd4e37d2e64f587a26c655de9a1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d8212c86e49916c53c035c0a4bbd5af8f91c1f736928cba49a700b155567a638",
+      "sha256": "af888d89a67c0a7597da43499d5a68aba2aafeeebdb067135218246b29c42906",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Inneres betreffend die Höhe des im Jahre 1999 vom Bund für einen Zivildienstleistenden durchschnittlich aufgewendeten Betrages StF: BGBl. II Nr. 84/2000"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 402/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 84/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_84_2/2000_84_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 402/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_402_2/2001_402_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 29/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_29_1/1998_29_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b416dfaf03be7d41eb6bd4e55d1239057b28ae2aad644743bff69ae804d24ab3",
+      "sha256": "0e085fb575a3a15f628f56a67f6b1e259ed45fa8cb2bd9861ef640803b3a7154",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

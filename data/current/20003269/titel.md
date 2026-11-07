@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Emblem der „GALILEO satellites and services for positioning and radio – navigation“ StF: [BGBl. II Nr. 152/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/152>)

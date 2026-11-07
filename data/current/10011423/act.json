@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011423",
+  "short_title": "Betrieb von Amateurfunkstellen (Frankreich)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Frankreich",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011688",
+    "valid_from": "1971-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011423&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:56:03.453342+00:00",
+    "response_sha256": "f65b3ceee33d716e044224001c52abc01f31b086623bdb0f3aa08c5bcaee40f6",
+    "snapshot_sha256": "ec49e097e29299be242fd9b0a26f90c2f0553bc5d307d4eea1faebffb1fe749f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1bc8bb73bb7a5a7945c8b0e44a99eb4ede758e10aa2e1bd590fbca54b7f4d284",
+      "sha256": "1a357f2ac05d9546bcc4c4c6e282d686e184e54824e6aa5ab782a73a1d846e09",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Abkommen zwischen der Österreichischen Bundesregierung und der Französischen Regierung über den Betrieb von Amateurfunkstellen StF: BGBl. Nr. 325/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 325/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_325_0/1971_325_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "(Übersetzung)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebd420e65772d981cf89e5ebeb2720ee453de23a3ca8b47103d3ded579f9aa29",
+      "sha256": "caff8648bdb3bafe4a263b95d1a439a069214355231248034328abe7146d48b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

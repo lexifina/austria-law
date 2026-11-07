@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Wappen, die Fahne und das Siegel der Republik Moldova StF: [BGBl. II Nr. 142/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_142_2/1998_142_2.pdf>)

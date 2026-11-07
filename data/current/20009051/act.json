@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009051",
+  "short_title": "Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche sowie Namens- und Anschriftsänderungen derselben",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40167434",
+    "valid_from": "2014-12-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009051&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:25:08.249381+00:00",
+    "response_sha256": "54ce5a872c9dfa3644e8f1b85d9bb17f6c1797ed2f196bd78968cd0e90d6cafd",
+    "snapshot_sha256": "177b08b8c59083b1175b59bc0343648c6eb280d3bc0ff0f87542afdc6655f5d9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "53503c9405f9c768c1cf6822ed229838fce0ba2fd7295fdf27457a1ecf3d1d2b",
+      "sha256": "3fab66cb60be11e9aa5f16a8d51dbfd2dbccd53e5601385de51df5f6f2ca50ac",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Kunst und Kultur, Verfassung und Medien über die Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche sowie Namens- und Anschriftsänderungen derselben StF: BGBl. II Nr. 375/2014"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 228/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 375/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/375"
+        },
+        {
+          "text": "BGBl. II Nr. 228/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/228"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0aa859fecefe7a268647006db99b96d4470797da7dbea885921a7f6e889938d6",
+      "sha256": "5bdfc7c15a380640080ce0be1f4c073b8df90c9d4d2753aa6aa1274c07911731",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

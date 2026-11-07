@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004085",
+  "short_title": "Zollbehandlung von Paletten",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004121",
+    "valid_from": "1970-07-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004085&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:24:41.075162+00:00",
+    "response_sha256": "dc3f90791f2a6e3b6ea458353dee645b61eecdc75417284a49bb15a9efd36d1a",
+    "snapshot_sha256": "45ab6b984b4edd3c637c2b10b03e53f3a7e7157ba92b4cf5f2dbf63fb775b09c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ebb0c10fb678953338530ef0372d63a0ed4d19a3bea33f4445432e30b32e7e2",
+      "sha256": "a428bc4020396a3a60362b42a4c19e61624d76dd4b2543038e18c7ffde2e7eb8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 2. Juli 1970 betreffend den Geltungsbereich des Europäischen Abkommens vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: BGBl. Nr. 217/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 217/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_217_0/1970_217_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "799ee24bd5291e80487ff30822cb01d738ee9dc73a2a3e39a50bb09fbd2d2056",
+      "sha256": "aef762171bd0ecfe6f24ff072c51f1d546ed355fe8a983c2b5f2ce73ea59d52f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 20/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_20_0/1964_20_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 233/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_233_0/1967_233_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

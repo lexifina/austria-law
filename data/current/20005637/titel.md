@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Regelung der Zuständigkeiten in Dienstrechtsangelegenheiten der Beamten und Vertragsbediensteten des Bundesministeriums für Wirtschaft und Arbeit (Dienstrechtsverfahrens- und Personalstellenverordnung – BMWA 2008 – DVPV-BMWA 2008) StF: [BGBl. II Nr. 22/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/22>)
+
+Auf Grund des § 2 des Dienstrechtsverfahrensgesetzes 1984 (DVG), BGBl. Nr. 29, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 165/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/165>), sowie des § 2e des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 96/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/96>), wird verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003755",
+  "short_title": "Zollbehandlung von niederländischen Käsespezialitäten (Niederlande)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Niederlande",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003789",
+    "valid_from": "1926-08-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003755&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:19:14.525425+00:00",
+    "response_sha256": "0125b8d9ecbbe41fae1c759509011c5bc9b09efb29614cfd972d2ad089119dce",
+    "snapshot_sha256": "66bd1db56b5aa5d3e5896db45060b94d46d6d40f99c0f0c078fbf2ccfc9cdc29",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "847528a96c578aa3686c9b9aa49e39bb4520ef35d6e8b39f413fb4143f7dd11e",
+      "sha256": "e41b6f6e1f0f6dcc4891c365fa1f522b124e22acd025e3b115fdc05b16d0fcd0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel mit den Niederlanden vom 3. Juni 1926, betreffend die Zollbehandlung von niederländischen Käsespezialitäten. StF: BGBl. Nr. 273/1926 (NR: GP II 597 AB 604 S. 153.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 273/1926",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=273/1926&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "I. (Übersetzung.)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "374706cc655391a4777c44ab7505ae7a49a0fff80dd5943d44739d2988e1b97c",
+      "sha256": "2ba1e50978913a684516e6afeb54b70fa5de01b6a7faa18b3caa0fdb8dd123ed",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

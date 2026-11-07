@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Emblem des Europäischen Patentamtes (EPA) StF: [BGBl. II Nr. 330/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/330>)
+
+Auf Grund des § 4 Abs. 1 Z 1 lit. c des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 81/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/81>), wird im Einvernehmen mit der Bundesministerin für europäische und internationale Angelegenheiten kundgemacht, dass das Emblem des Europäischen Patentamtes (EPA), welches im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt, von der Registrierung nach dem Markenschutzgesetz ausgeschlossen ist.

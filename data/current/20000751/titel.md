@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 9. März 1957 über die Mitgliedschaft weiterer Staaten zur Ernährungs- und Landwirtschafts- Organisation der Vereinten Nationen StF: [BGBl. Nr. 89/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_89_0/1957_89_0.pdf>)

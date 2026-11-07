@@ -1,0 +1,3 @@
+Bundesgesetz über die Umweltkontrolle und die Einrichtung einer Umweltbundesamt Gesellschaft mit beschränkter Haftung (Umweltkontrollgesetz) StF: [BGBl. I Nr. 152/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_152_1/1998_152_1.pdf>) idF [BGBl. I Nr. 164/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_164_1/1998_164_1.pdf>) (DFB) (NR: GP XX [RV 1206](<https://www.parlament.gv.at/gegenstand/XX/I/1206>) [AB 1328](<https://www.parlament.gv.at/gegenstand/XX/I/1328>) [S. 134.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/134>) BR: [AB 5766](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5766>) [S. 643.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/643>))
+
+Der Nationalrat hat beschlossen:

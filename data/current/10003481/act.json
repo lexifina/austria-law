@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003481",
+  "short_title": "Flagge, Namen, Abkürzung - Internationale Fernmeldeunion",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003509",
+    "valid_from": "1997-08-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003481&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:01.002307+00:00",
+    "response_sha256": "766eaa3daec083f45b5a4cde73c7cc9ad1247c24a3bf3521bff4583112b94b75",
+    "snapshot_sha256": "81e5ab334c0cec8dea2c3c5bb447cc97212c1c2c31a6b59fb2d8f24288f53300",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50e4102db86696b827e6d49c349af66d728609514f0fb77e0cf16561c1ad7658",
+      "sha256": "63a1fd67137b6567496a2a65957151a368628835018b3abfd81792080d040b36",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Flagge, den Namen und die Abkürzung der Internationalen Fernmeldeunion (in Englisch, Französisch und Spanisch) sowie die Namen und Abkürzungen dreier eigenständiger Organisationseinheiten im Rahmen dieser Union (in Englisch, Französisch und Spanisch) StF: BGBl. II Nr. 226/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 226/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_226_2/1997_226_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d5a879ef1ec0698a6134f84c831d8aa2092eaa86823cb71d923ca487149cef1",
+      "sha256": "b944bff6357fcba2c2fed962ab159ec777209240d74d79a572eba217b86df8cb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

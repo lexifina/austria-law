@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung betreffend die Geschäftsordnung der Interministeriellen Arbeitsgruppe für Gleichbehandlungsfragen gemäß dem Bundes-Gleichbehandlungsgesetz StF: [BGBl. II Nr. 91/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_91_2/1999_91_2.pdf>)
+
+Auf Grund des § 34 Abs. 2 in Verbindung mit § 24 Abs. 6 des Bundes-Gleichbehandlungsgesetzes, [BGBl. Nr. 100/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_100_0/1993_100_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 30/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf>) wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Grundausbildung für die Verwendungsgruppe E2b im Bereich der Justizanstalten StF: [BGBl. II Nr. 124/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/124>)
+
+Auf Grund der §§ 25 bis 31, 144 und 281 des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 165/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/165>), und des § 67 des Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 165/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/165>), wird verordnet:

@@ -1,0 +1,1 @@
+Allgemeine Bekanntmachung der Bundesministerin für Landesverteidigung betreffend die Entlassung bestimmter Wehrpflichtiger aus dem Einsatzpräsenzdienst StF: [BGBl. II Nr. 259/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/259>)

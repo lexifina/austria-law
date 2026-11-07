@@ -1,0 +1,1 @@
+Verordnung des Ministers des Innern vom 20. Jänner 1875, betreffend die Abbrechung, Fortsetzung und Wiederholung der Prüfung der Aerzte zur Erlangung einer bleibenden Anstellung im öffentlichen Sanitätsdienste bei den politischen Behörden StF: [RGBl. Nr. 8/1875](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=8/1875&amp;SkipToDocumentPage=True>)

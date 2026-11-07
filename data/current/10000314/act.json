@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000314",
+  "short_title": "Schutz der Opfer des Krieges",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000315",
+    "valid_from": "1958-06-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000314&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:19.206615+00:00",
+    "response_sha256": "116415a1ca851c3c7b5ac87eb0818df01e99db4eac26f6f1222f925dc37fb29a",
+    "snapshot_sha256": "374bc76fd0eff0b3d8d46a0205b45f10c1f22ec767dde7cfea44d22dd9b9abe8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b388fb6ea86b7eab66fd28e6664edda21b424ccc538896acb11f13db3b08b22",
+      "sha256": "79ddd5d1b5bdecd77b207d3b5afacebd80921eea3d6408a33ffe0cc7502e9891",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. Mai 1958 über die Ratifikation beziehungsweise den Beitritt weiterer Staaten zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: BGBl. Nr. 115/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 115/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_115_0/1958_115_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b14697eca8f0c0fb534d6bf919b2d08a374a437cccd908cc598eb16b46857178",
+      "sha256": "535d374222c25f02cc5b855cd7b8d9445df320106dc5b71953a48b9ad6e2b4a7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

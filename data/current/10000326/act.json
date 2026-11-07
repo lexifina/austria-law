@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000326",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000327",
+    "valid_from": "1959-03-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000326&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:38.597073+00:00",
+    "response_sha256": "809a71e3d8e94dc25065161683d1ce70d639bee7e4fbb62f503588bd01ccc153",
+    "snapshot_sha256": "f87475ff56889cc69259a7bf8e254f30d199b606f8933d45c212f585121a5e9f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a95b758e4556fba4b4213c46335898af07f77c85a9341b6fb65c43515109392",
+      "sha256": "b80d6bb0781d8b84afbaf4b44ddb8844c05ea70544f33cd040e7ced222e72f6c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 2. März 1959, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung in Angelegenheiten der Wohnraumbewirtschaftung. StF: BGBl. Nr. 60/1959"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 60/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_60_0/1959_60_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe24a6f9b8e1870b0660738d2edbe292a50ede818799ea902e4a3df8235b455a",
+      "sha256": "1a3b76a86a1c12ff6eb7fa2aa96b448a586dc5e166ad17163a7773f15607fcff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

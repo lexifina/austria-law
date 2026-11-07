@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009174",
+  "short_title": "Anerkennung der Altkatholiken",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009365",
+    "valid_from": "1877-11-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009174&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:28:00.516374+00:00",
+    "response_sha256": "af6fc35019433cfce05b6e1bffeda53c99dc1cbb95107c00be19ad1599fb32b9",
+    "snapshot_sha256": "e116cf3e6f2cc8480dd4d7dc0c45b3b902387e90e8ebde0d81912ec0804385a1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39368e697d77532ab69c68e56c9867723c439bdf7b7473b1ea58e44f0a5d5678",
+      "sha256": "b5cd81fa345e949d8e92981076a19581654b4534fec095ed9c63d885f3d80d38",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Ministers für Cultus und Unterricht vom 18. October 1877, womit die Anerkennung der altkatholischen Religionsgesellschaft ausgesprochen wird. StF: RGBl. Nr. 99/1877"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 99/1877",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=99/1877&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ddb36b4f2f67ac184caa752a4be271e8a3bd405844deb7c3ea486e8fe9391992",
+      "sha256": "dfed703af14653a27f733efffb157fc3286e1faca800b1764218c24339472670",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

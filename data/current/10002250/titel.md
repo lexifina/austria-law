@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 26. Feber 1973 betreffend das Kennzeichen des algerischen Institutes für Weinbau und Wein StF: [BGBl. Nr. 134/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_134_0/1973_134_0.pdf>)

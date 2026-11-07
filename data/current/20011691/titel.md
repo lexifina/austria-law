@@ -1,0 +1,3 @@
+5\. C-RisikostufenVO für Zentrallehranstalten und höhere land- und forstwirtschaftliche Lehranstalten sowie die Forstfachschule des Bundes StF: [BGBl. II Nr. 462/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/462>)
+
+Aufgrund der §§ 13, 18 und 25 der Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung zur Bewältigung der COVID-19 Folgen im Schulwesen für das Schuljahr 2021/22 – COVID-19-Schulverordnung 2021/22, [BGBl. II Nr. 374/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/374>), zuletzt geändert durch die Verordnung [BGBl. II Nr. 434/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/434>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin bzw. des Bundesministers für Finanzen betreffend die von Unternehmen nach dem Poststrukturgesetz an die Bundesministerin bzw. den Bundesminister für Finanzen zu übermittelnden Daten (PT-Personalverrechnungs- und Pensionsdatenübermittlungsverordnung – PT-PVPDÜV) StF: [BGBl. II Nr. 63/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/63>)
+
+Auf Grund des § 17 Abs. 7b Z 3 des Poststrukturgesetzes, [BGBl. I Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_1/1996_201_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 52/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/52>), wird verordnet:

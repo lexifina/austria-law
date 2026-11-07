@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen und die Abkürzung (in Englisch, Französisch und Spanisch) sowie das Emblem der Internationalen Organisation für Migration StF: [BGBl. II Nr. 77/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_77_2/1998_77_2.pdf>)

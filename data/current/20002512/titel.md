@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem der vorbereitenden Kommission für die Organisation des Vertrages über das umfassende Verbot von Nuklearversuchen StF: [BGBl. II Nr. 104/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_104_2/2003_104_2.pdf>)

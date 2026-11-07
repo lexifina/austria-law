@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres, mit der bestimmte Behörden zur Vornahme des Verfahrens gemäß § 31a Abs. 9 Z 2 ASVG ermächtigt werden (e-card FotoregistrierungsstellenV) StF: [BGBl. II Nr. 227/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/227>)
+
+Auf Grund des § 31a Abs. 9a des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 110/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/110>), wird im Einvernehmen mit dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz vom 27. November 1984 über die Gerichts- und Justizverwaltungsgebühren (Gerichtsgebührengesetz – GGG) StF: [BGBl. Nr. 501/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_501_0/1984_501_0.pdf>) (NR: GP XVI [RV 366](<https://www.parlament.gv.at/gegenstand/XVI/I/366>) [AB 454](<https://www.parlament.gv.at/gegenstand/XVI/I/454>) [S. 66.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/66>) BR: [2897](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2897>) [AB 2900](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2900>) [S. 454.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/454>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Gliederung der Bilanz und der Gewinn- und Verlustrechnung gemeinnütziger Bauvereinigungen (Bilanzgliederungsverordnung – BGVO) StF: [BGBl. II Nr. 437/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/437>)
+
+Auf Grund des § 23 Abs. 4 des Wohnungsgemeinnützigkeitsgesetzes, [BGBl. Nr. 139/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_139_0/1979_139_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 157/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/157>), wird im Einvernehmen mit dem Bundesminister für Justiz verordnet:

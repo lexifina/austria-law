@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Verwaltung vom 28. November 1969 über die Durchführung der Krankenversicherung für die gemäß § 9 ASVG. in die Krankenversicherung einbezogenen Personen StF: [BGBl. Nr. 420/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_420_0/1969_420_0.pdf>)
+
+Auf Grund der §§ 9, 10 Abs. 5, 12 Abs. 4, 36 Abs. 1 Z 4 und § 75 des Allgemeinen Sozialversicherungsgesetzes, [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), wird, hinsichtlich der Bestimmungen der §§ 1, 2 und 4 mit Zustimmung des Hauptausschusses des Nationalrates, verordnet:

@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20013012",
+  "short_title": "Errichtung einer weiteren Notarstelle in Innsbruck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40272881",
+    "valid_from": "2025-11-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013012&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:48:42.956548+00:00",
+    "response_sha256": "abcd6f9c60869c6b07d79fc02fe859afc1a47440f9c88b6278b0fb676ac30da4",
+    "snapshot_sha256": "665d48c959d874e9367fe871c07adaf016f5194eab427611863892221a2cf4b7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7771ff7b0bed8e4fb760c1e0bfeeb3caf3eb0f9626570523cb27b4e89a15fdec",
+      "sha256": "253308593397418d52b5f16f08b747e244f71dede799217217a7bb9aed7764b4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Innsbruck StF: BGBl. II Nr. 250/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 250/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/250"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e59c8f4f21945025ffedecb708e4a7aa790eed0736da053bb072b3ba61e07343",
+      "sha256": "c4c6f672b5c70b97efc664392ec10254bf39e58bbc786c7f8b0fb96be7b4bf33",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

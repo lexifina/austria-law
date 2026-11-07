@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000385",
+  "short_title": "VfGH-Ausspruch, dass das Rundschreiben des Bundeskanzleramtes vom 11. September 1995, GZ 920.075/7-II/A/6/95, gesetzwidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000417",
+    "valid_from": "2000-02-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000385&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:18:17.030546+00:00",
+    "response_sha256": "4e8ccf9a83442f14208b1534f4f513559062c61b0245bbe6de4a9d6b65678535",
+    "snapshot_sha256": "3097e8fcbde0f0eb3aec11eb4fbe198bb2828223ef2a7a661c308ce2c3d1f88b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "622d57978d2d4e1581356b19b73a23288db2e9c743517093b8aebadf5e50407a",
+      "sha256": "0a0a9097904a695677e9fdb37c8ebc70545892d43ca15c903152c16bcb74f60c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Finanzen über den Ausspruch des Verfassungsgerichtshofes, dass das Rundschreiben des Bundeskanzleramtes vom 11. September 1995, GZ 920.075/7-II/A/6/95, gesetzwidrig war StF: BGBl. II Nr. 50/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 50/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_50_2/2000_50_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "403f69d9bbe6b5e196a5fd3a1ea4179178621347cd76846c9dce74523f41d681",
+      "sha256": "8959b2a8c19096a77645f2d7d51ff615988449603588a86a18b3652a3a83fe6e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

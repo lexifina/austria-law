@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Inneres betreffend die Auslobung einer besonderen Hilfeleistung an Hinterbliebene nach entsendeten Personen StF: [BGBl. II Nr. 118/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_118_2/2003_118_2.pdf>)
+
+Gemäß § 16 Abs. 1 des Bundesgesetzes über Auslandszulagen und besondere Hilfeleistungen bei Entsendungen auf Grund des Bundesverfassungsgesetzes über Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland (Auslandszulagen- und -hilfeleistungsgesetz - AZHG), [BGBl. I Nr. 66/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_66_1/1999_66_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 87/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_87_1/2002_87_1.pdf>), wird kundgemacht:

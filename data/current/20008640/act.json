@@ -1,0 +1,386 @@
+{
+  "sample_only": false,
+  "included_provisions": 14,
+  "source_provision_count": 14,
+  "schema_version": 1,
+  "gesetzesnummer": "20008640",
+  "short_title": "Gebarungsstatistik-VO 2014",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40158315",
+    "valid_from": "2014-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008640&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:18:29.898804+00:00",
+    "response_sha256": "e90cd8df6293e5d0b5978ffde3c94d4f8fe1d41796e522fec50baa32b5964c20",
+    "snapshot_sha256": "0849f0eb0d3e770b53146a33869b01577ac335cb4c15b77a86c4c5953eeff307",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f31bbcf54cd771c3902e1054ea9d4efbdb5ad415934492725437cfac48c31984",
+      "sha256": "c808238b7db476c5bfc54e27c9067fe04a99689cf2ad55ccefaea98ea638d948",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Finanzen über die Statistik der Gebarung im öffentlichen Sektor 2014 (Gebarungsstatistik-VO 2014) StF: BGBl. II Nr. 345/2013"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 31/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 345/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/345"
+        },
+        {
+          "text": "BGBl. II Nr. 31/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/31"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anordnung zur Erstellung der Statistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81107d29491d865ddb82d9ef2c4bbb1b8b2b2d7b4418acf9a439d1d07d471084",
+      "sha256": "2757a8b4c30f30cdc5370402280ebf089fd06b4e15a392d58b52eaaafb9ce112",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dca693fa91262c243be70e5e01af02e7bd427c917ba860120a40b3903a9dffab",
+      "sha256": "14693e72ced0b26a60ff8a7a072302cbf1f8dde18e906af86c3d1a4878d9e273",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Erhebungseinheiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25caf1fd73a916933177c9cc40e98d3ceb975bd0aa7fb7a154bc5df40fc2d7df",
+      "sha256": "cc0fde257cabef956f2c998ff3efc94a6001799a5531f8e6f0214ef5fe06e5d7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Erhebungsmerkmale, Periodizität der Erhebung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9ff58bc8613ec8d74c6e4f440f046acfc903e13203d26447d9f6b4776701843",
+      "sha256": "e3761266d7d45c6bf2dc3be8a8977e6ed1152d128e410513a6508f2f65588279",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Durchführung der Erhebung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa7f26ce4461d87f05d8fb227cecafdb5d90f3ae17264bfe62689a54ad782e42",
+      "sha256": "954049b48fcbcc24eaf324cca4c11338fbadf53b7f5ee1fe0e6a555a2e0ee0d0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 313/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/313"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Weiterleitung von Daten an die Oesterreichische Nationalbank",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e133d05c6d34ca7f80d21919c3d0bda28fac6355d6df564f654694afdd5b6ed",
+      "sha256": "1b4f31d54c76ed5c00272dcfba5a6b8460bfcb7cbf43838f9d612bf21c15fea3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 123/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_123_1/2003_123_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6a",
+      "source_heading": "Veröffentlichung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0006a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac570fe4c19ce97b41f3e704b4470fada79748c3881fed410c62dcb7ae527b6f",
+      "sha256": "2cd51707d740a1a40816095f80d35f596d1dd02d456919404238d4775c0f2602",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Beratungsgremium",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45dbaa9dd42514f28a28d1127a44617eb20f648933dd38281177267096512b6b",
+      "sha256": "236e66a475278411c39f51401a6eed87cb44eabc90f7b3f6c73fe1dd82536e0c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. 76/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Auskunftspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90253e910cb24f222064372cc6022249a57fbb2d99f4413557bbaaf6feafbb42",
+      "sha256": "024ed203a6ddb0898bb6f971e426cd68e5d7053ab1dd864db13153bb6513f293",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Sonstige Mitwirkungspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "01333fe79b290cd8c8019d454015d97fc9da309fbab73c8bef306aeec3492dfd",
+      "sha256": "7971b4bce90bfff78c50441cf96a3b32196705fef602ee9a6e0adbd862342699",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Information über Auskunfts- und Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3718e7f7e0be5c6d33402cb5a933c96d0ea8a645059d2d2a4960ff6d1f3ff34",
+      "sha256": "2128919babe2b528b3558674806eade2805d5b99d0a9d220c95e3d7314c24105",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e10fd6d7e7f865b18dcf422ead6c98fc32aeda29214c52225e63d1938d4fa7b8",
+      "sha256": "06ea0e0c7ab290898b5a280f79fa8005f2668cf8a620cfdaf4959524a6ca5c22",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 31/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/31"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Außerkraft- und Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "44a3edbb9812ec98d0123cd6b3ab8e38cc079162b279f88217d0ea7c27f20b1f",
+      "sha256": "3e656c88d954761ffb36ae4a6c26f1f722c9dd56e616b867ed23d91001352417",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 361/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_361_2/2002_361_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 465/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/465"
+        },
+        {
+          "text": "BGBl. II Nr. 31/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/31"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

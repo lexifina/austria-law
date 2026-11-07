@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie, mit welcher der Zeitpunkt des Ablaufs der Gültigkeit der im Schifffahrtsgesetz und in den aufgrund des Schifffahrtsgesetzes erlassenen Verordnungen geregelten Dokumente, Urkunden, Nachweise und dergleichen mit zeitlich begrenzter Gültigkeit verschoben wird (1. COVID-19-Verordnung – Schifffahrt) StF: [BGBl. II Nr. 265/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/265>)
+
+Auf Grund des § 152b. Abs. 2 des Schifffahrtsgesetzes – SchFG, [BGBl. I Nr. 62/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_62_1/1997_62_1.pdf>), zuletzt geändert mit Bundesgesetz [BGBl. I Nr. 24/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24>), wird verordnet:

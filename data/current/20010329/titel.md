@@ -1,0 +1,1 @@
+Patentschutz-Überleitungsgesetz 1950 – Patent-ÜG. 1950. StF: [BGBl. Nr. 128/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_128_0/1950_128_0.pdf>) idF [BGBl. Nr. 239/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_239_0/1954_239_0.pdf>) (DFB) (WV)

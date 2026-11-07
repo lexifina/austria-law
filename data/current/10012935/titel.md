@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr über Freisprecheinrichtungen für Kraftfahrzeuge (FreisprecheinrichtungsV) StF: [BGBl. II Nr. 152/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_152_2/1999_152_2.pdf>)
+
+Auf Grund des § 102 Abs. 3 KFG 1967, BGBl. Nr. 267, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 146/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_146_1/1998_146_1.pdf>), sowie des § 8 des Produktsicherheitsgesetzes 1994, [BGBl. Nr. 63/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_63_0/1995_63_0.pdf>), wird – hinsichtlich des § 2 im Einvernehmen mit der Bundesministerin für Frauenangelegenheiten und Verbraucherschutz – verordnet:

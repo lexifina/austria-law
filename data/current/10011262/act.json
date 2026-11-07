@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011262",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011527",
+    "valid_from": "1949-12-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011262&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:51:16.979690+00:00",
+    "response_sha256": "16c7c6636e5dd92b8eaa227a740628756998a7dbf3a9b34150ca32af1121dc69",
+    "snapshot_sha256": "8a36631b272f0446d875f338a3129540f713e89c7052331dcf7f05ba4812525d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18c57383f70e6d53b2f7c4217bff9ac7df1f55eb572623c87bce94adf43922a3",
+      "sha256": "c697ea258c6e98bbab4ccc286d20c36bd668b8aa869da4f6e2bde1a7efae7378",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 26. Oktober 1949, betreffend die Ratifikation des Abkommens über die internationale Zivilluftfahrt durch Cuba StF: BGBl. Nr. 269/1949"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 269/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_269_0/1949_269_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35a16a5d83ccf67e580fe3a8be579d30753cd01e5934af02e8c879f55e00a4a5",
+      "sha256": "03d08ea76ba6aa38a8f9e95aaa7780bf7736dce4851c19c5f7287911941b63bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

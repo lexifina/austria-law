@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003779",
+  "short_title": "Zahlungsregulierung - österreichisch-französischer Warenverkehr (Frankreich)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Frankreich",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003813",
+    "valid_from": "1933-06-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003779&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:19:29.724582+00:00",
+    "response_sha256": "8a19d6fdf4c26402a5df47d1b4699ea5c67e7dece4074d2846c13a88d4b24f1b",
+    "snapshot_sha256": "6bd69a7e3bfe765c5902c1f519bfa70e38ad0f6deb91aaeeec79123e315091ba",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f16f9a257948945d19342f2d323f74934fadfe89304be9c547694f6bf5c7d6ce",
+      "sha256": "d289ae3d50d88a964e8d7a5cacefabb0d8284b60cca0c1ec6085ac5ceabf8ff7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen Österreich und Frankreich betreffend die Zahlungsregulierung aus dem österreichisch-französischen Warenverkehr. StF: BGBl. Nr. 301/1933"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 301/1933",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=301/1933&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "(Übersetzung.)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "116fb7586f4d3eaa281ad1a524fc818e8c323442d763db3bd15d9c75ea46749b",
+      "sha256": "e36c43d56ec2496f9169ffc71b489b1505d37db1285402e4620a546569748529",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

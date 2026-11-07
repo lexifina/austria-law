@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Geschäftsordnung des nach dem Steuerabkommen Liechtenstein zu konstituierenden Prüfungsausschusses StF: [BGBl. II Nr. 199/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/199>)
+
+Auf Grund einer am 14. Jänner 2015 gemäß Art. 48 des Abkommens zwischen der Republik Österreich und dem Fürstentum Liechtenstein über die Zusammenarbeit im Bereich der Steuern samt Schlussakte einschließlich der dieser beigefügten Erklärungen, [BGBl. III Nr. 301/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2013/301>), abgeschlossenen Konsultationsvereinbarung zur Konstituierung eines Prüfungsausschusses gemäß Art. 44 dieses Abkommens wird verordnet:

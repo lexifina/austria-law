@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001166",
+  "short_title": "VfGH-Ausspruch, dass die Verordnung über die Festsetzung des Hundertsatzes der Verzugszinsen für den Zeitraum von 1986 bis 1989 gesetzwidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001171",
+    "valid_from": "1992-03-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001166&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:42:25.454827+00:00",
+    "response_sha256": "9553045c2ea5dbe23e7c3115902595343e771362a02baecb4245eb2911e0aacc",
+    "snapshot_sha256": "85c05d5f8a2cf78c4835f33e0d9713eea11eea1031d8e9820b85e98599ed9810",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce8e9a104c280881483234dd16c95030fbe047ca7729821e5ee893b9cab6fbef",
+      "sha256": "30b52d09efec5c49880899063d79f7eac2c92222bfc32eb9f7abd1a713cb9f1a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Arbeit und Soziales über den Ausspruch der Gesetzwidrigkeit der Verordnung über die Festsetzung des Hundertsatzes der Verzugszinsen, BGBl. Nr. 612/1982, für den Zeitraum von 1986 bis 1989 StF: BGBl. Nr. 130/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 612/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_612_0/1982_612_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 130/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_130_0/1992_130_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d00dd86a9635ba86880e4527cb39aefc33898d0f3af2e8840b2d663077cc4957",
+      "sha256": "029f5f525a95e4b69a3728d8af0ae1ddd80b9737d64ca5cc06e4c1a33144c2d1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 612/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_612_0/1982_612_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

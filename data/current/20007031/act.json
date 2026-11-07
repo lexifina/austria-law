@@ -1,0 +1,102 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20007031",
+  "short_title": "Section Control-Messstreckenverordnung Amras",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40123499",
+    "valid_from": "2010-12-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007031&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:54:36.285676+00:00",
+    "response_sha256": "2649548155f90ffbbbc2ec0c17bea836644be275adc7cd37503ebc11ed75dfb2",
+    "snapshot_sha256": "58450fdcec6a98071718a772ddad21d734ce93fe314fc80c430e43726ee2c1bf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d3ae68b53f48ce1f51a6eaea7ce424f87e65a05a0e8881533a7ec26b998b3dd",
+      "sha256": "00e000eab990b994926388a63d6db4ecb788276cd30feee77c6c290cb9319069",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung auf einem Abschnitt der A 12 Inntal Autobahn (Section Control-Messstreckenverordnung Amras) StF: BGBl. II Nr. 421/2010"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 421/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/421"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cdcdc1e16c9c28769b71c5e236d289ab21e09e8b6586f917a136cffc83d557ee",
+      "sha256": "1bce9df1f1c1940ff0e1b65d592182df3b31032015c9ca601ef7261d32b70908",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95d44b11c71de0b7d087c5f01c12691b27eeb4e17b3807d6e581ca875d53ea50",
+      "sha256": "6a3eea9fe92f7cecb8c6e627f98202fe64064bf2e17d25d9f4747d04e5fb119a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

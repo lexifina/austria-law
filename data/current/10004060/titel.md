@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 3. Juli 1969 betreffend den Beitritt der Vereinigten Staaten von Amerika und Malawis zum Zollabkommen vom 18. Mai 1956 über Behälter StF: [BGBl. Nr. 253/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_253_0/1969_253_0.pdf>)

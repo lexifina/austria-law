@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und die Embleme des Basler Übereinkommens über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung StF: [BGBl. II Nr. 340/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/340>)

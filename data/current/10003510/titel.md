@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend zwei amtliche Prüfungs- und Gewährzeichen der Republik Kasachstan StF: [BGBl. II Nr. 415/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_415_2/1997_415_2.pdf>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 109/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf>), wird im Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten kundgemacht, daß § 6 Abs. 1 des Markenschutzgesetzes 1970 auf die amtlichen Prüfungs- und Gewährzeichen der Republik Kasachstan Anwendung findet, welche im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen.

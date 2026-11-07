@@ -1,0 +1,3 @@
+Bundesgesetz zur Arbeitsmarktintegration von arbeitsfähigen Asylberechtigten und subsidiär Schutzberechtigten sowie AsylwerberInnen, bei denen die Zuerkennung des internationalen Schutzes wahrscheinlich ist, im Rahmen eines Integrationsjahres (Integrationsjahrgesetz – IJG) StF: [BGBl. I Nr. 75/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/75>) (NR: GP XXV [RV 1585](<https://www.parlament.gv.at/gegenstand/XXV/I/1585>) [AB 1597](<https://www.parlament.gv.at/gegenstand/XXV/I/1597>) S. 179. BR: [AB 9798](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9798>) S. [868](<https://www.parlament.gv.at/gegenstand/BR/I-BR/868>).)
+
+Der Nationalrat hat beschlossen:

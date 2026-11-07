@@ -1,0 +1,1 @@
+Bundesgesetz über die Ordnung von Unterricht und Erziehung in den im Schulorganisationsgesetz geregelten Schulen (Schulunterrichtsgesetz – SchUG) StF: [BGBl. Nr. 472/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_472_0/1986_472_0.pdf>) (WV)

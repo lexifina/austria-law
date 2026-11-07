@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001150",
+  "short_title": "VfGH-Aufhebung V. d. Bürgermeisters der Gemeinde Trebesing",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001155",
+    "valid_from": "1992-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001150&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:42:04.032804+00:00",
+    "response_sha256": "f4a33e03f84c92634ffa109aac4a237af8b5361bac214fc8b728a0422bc331cd",
+    "snapshot_sha256": "b5b16c9e69f256e6c8bb6cd9bbe45d833a38b0c609072af0d34662d15e8a1788",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "745dcb330aa65c4ff09b51ac22a76f86734001c09e3f60a4a3a456eaa23736d1",
+      "sha256": "3b1e0e279c8d414422007e6ffe55065204048b45f94d0a2046edfaba3c0ba9a6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten über die Aufhebung von Bestimmungen der Verordnung des Bürgermeisters der Gemeinde Trebesing, mit der die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 535/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 535/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_535_0/1992_535_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 329/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_329_0/1990_329_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f723ff365641538719a2a5264fd92847f92798f3e0fbf4adf1af1fd36c9b2df",
+      "sha256": "ae1360f55737b723642c010ece46a03b404f0e7ce05ca7c440b022e66ee4f65a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

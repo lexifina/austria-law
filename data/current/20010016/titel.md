@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Beschäftigungsquoten älterer Personen zum 30. Juni 2017 StF: [BGBl. II Nr. 278/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/278>)

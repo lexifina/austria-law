@@ -1,0 +1,3 @@
+Bundesgesetz über die Neuorganisation der Bundestheater (Bundestheaterorganisationsgesetz – BThOG) StF: [BGBl. I Nr. 108/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_108_1/1998_108_1.pdf>) (NR: GP XX [RV 1207](<https://www.parlament.gv.at/gegenstand/XX/I/1207>) [AB 1330](<https://www.parlament.gv.at/gegenstand/XX/I/1330>) [S. 134.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/134>) BR: [5726](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5726>) [AB 5730](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5730>) [S. 643.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/643>))
+
+Der Nationalrat hat beschlossen:

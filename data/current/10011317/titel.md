@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für Verkehr und Elektrizitätswirtschaft vom 1. Oktober 1958, betreffend das zivile Luftfahrtpersonal und die Zivilfluglehrer (Zivilluftfahrt-Personalverordnung – ZLPV.) StF: [BGBl. Nr. 219/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_219_0/1958_219_0.pdf>)
+
+Auf Grund der §§ 28, 29, 31, 32, 35, 37, 38, 47, 49, 50, 51 und 52 des Luftfahrtgesetzes, [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), wird, hinsichtlich der §§ 8 bis 10, 27 Abs. 5 und 166 dieser Verordnung sowie des Anhanges I im Einvernehmen mit dem Bundesministerium für soziale Verwaltung, verordnet:

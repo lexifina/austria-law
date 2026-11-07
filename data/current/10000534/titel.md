@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 12. August 1973 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur gesetzlichen Regelung der in die Kategorie der häuslichen Nebenbeschäftigung fallenden Privatzimmervermietung StF: [BGBl. Nr. 426/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_426_0/1973_426_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 25. Juni 1973, K II-2/72, – dem Bundeskanzleramt zugestellt am 27. Juli 1973 – zusammengefaßt hat:

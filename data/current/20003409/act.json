@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20003409",
+  "short_title": "Akademischer Grad „Master of Science“, Universitätslehrgang „Pharmazeutische Medizin“ (MSc) der Donau-Universität Krems",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003714",
+    "valid_from": "2004-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003409&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:00:03.507535+00:00",
+    "response_sha256": "fd02b239519b27a4f7caa6be677bb12b3a086b10bf3d90f01adf7853984b2139",
+    "snapshot_sha256": "144b23ecd3bc7ecd8d496db25ebfff01bf916d317fc657214579d61d9107e95d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7eb02ee5a256a2af3781211216404b91013274bf62c756c78e05767a8f974392",
+      "sha256": "3b734cf2b9fb39b39ba822017ec861b5fa1044b501b7227781d502678eb6e9d5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Science“, Universitätslehrgang „Pharmazeutische Medizin“ (MSc) der Donau-Universität Krems StF: BGBl. II Nr. 259/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 259/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/259"
+        },
+        {
+          "text": "BGBl. Nr. 269/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_269_0/1994_269_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 128/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_128_1/1998_128_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcb98722fe2e15c21c159db27c7cb83a1b47353dc94bdac66793c74c2518d69f",
+      "sha256": "b335123c09d2901337aefdb95fa343be8535ab4fc45a9d15172e63162f264f55",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d19f6cf1e9395966190077982dc143bdaf68a5a788d93e85dae91f982e078360",
+      "sha256": "833980e9064af0cc668b9a27dcc74e6b5a3222e412d5d2d87d5e880b13b7c8d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

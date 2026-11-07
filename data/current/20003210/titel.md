@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2002 StF: [BGBl. I Nr. 4/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/4>) (NR: GP XXII [AB 332](<https://www.parlament.gv.at/gegenstand/XXII/I/332>) [S. 45.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/45>))

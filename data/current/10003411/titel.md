@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen der Kirgisischen Republik StF: [BGBl. Nr. 243/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_243_0/1996_243_0.pdf>)

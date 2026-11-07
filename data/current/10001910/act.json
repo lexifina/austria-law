@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001910",
+  "short_title": "Pariser Verbandsübereinkunft (Londoner Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001933",
+    "valid_from": "1952-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001910&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:54:19.585520+00:00",
+    "response_sha256": "b700a274f171a2177efda446216092ad6e98ea75f1512b94f03f50b367895d4b",
+    "snapshot_sha256": "959b106b4f0a2123717548a66784e4c527762aab463ddbd9957b72070d14d5ed",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66aa0811e696bd1e063f84e4843ec13ee3b979caf2682af5580eefbb5ba2f9d2",
+      "sha256": "49780303ebb4d467839453b550652dbff6570c06f0eb64c12a2f3f8f2d7f0f47",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 14. März 1952, betreffend den Beitritt der Dominikanischen Republik zum Pariser Unionsvertrag zum Schutz des gewerblichen Eigentums in der Haager Fassung 1925, den Beitritt Aegyptens und Canadas zum Pariser Unionsvertrag zum Schutz des gewerblichen Eigentums in der Londoner Fassung 1934, sowie den Beitritt Aegyptens zum Madrider Abkommen, betreffend die internationale Registrierung von Fabriks- oder Handelsmarken in der Londoner Fassung 1934. StF: BGBl. Nr. 74/1952"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 74/1952",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1952_74_0/1952_74_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3daa75677ac6cdbc109936d910e6ea31960c19d5d71076d98de335a8db9226d7",
+      "sha256": "8083ec6c6e3db04af5aa31fbbd581701def96aaf395e48f7c16183f26e7b2b1e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 7/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_7_0/1948_7_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 8/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_8_0/1948_8_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

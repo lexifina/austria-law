@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 31. Oktober 1985 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen, die Vignette und das Emblem des Conseil Oléicole International StF: [BGBl. Nr. 506/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_506_0/1985_506_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control, mit der die Anforderungen an die Datenübermittlung von Netzbetreiber zu Lieferant und die Verbrauchsinformationen an die Endkunden festgelegt werden (Datenformat- und VerbrauchsinformationsdarstellungsVO 2012 – DAVID-VO 2012) StF: [BGBl. II Nr. 313/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/313>)
+
+Auf Grund § 84 Abs. 4 Elektrizitätswirtschafts- und -organisationsgesetz 2010 (ElWOG 2010), [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) iVm § 7 Abs. 1 Energie-Control-Gesetz (E-ControlG), [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), wird verordnet:

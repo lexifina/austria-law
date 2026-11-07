@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das amtliche Gewährzeichen der Republik Tunesien zur Bestätigung der Übereinstimmung tunesischer Produkte mit tunesischen Standards StF: [BGBl. Nr. 649/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_649_0/1992_649_0.pdf>)

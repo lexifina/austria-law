@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001025",
+  "short_title": "Schutz der Opfer des Krieges",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001028",
+    "valid_from": "1989-04-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001025&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:40:13.270284+00:00",
+    "response_sha256": "2afe9136f0c536366fb1bc5028444d784f631d51e4309428bbebed164fa97256",
+    "snapshot_sha256": "a6b445a37d2350274c51600d5fd7f26c106df6ad6338f9a5f0aaa95ac1171785",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e17bd79197c40d833cf389763b234465682f1042dafd515e300c9013489b9daa",
+      "sha256": "e3b632f55e7f062633cb2ab0f8a11046771857a0c4e80512d9afbbcb5d0bb18a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 4. April 1989 betreffend den Geltungsbereich der Genfer Abkommen zum Schutze der Opfer des Krieges StF: BGBl. Nr. 195/1989"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 195/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_195_0/1989_195_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "467cb0974ed18c6e6fdedebe4aba0913a175ade49ed8d9f1d02b9cb3394c5132",
+      "sha256": "677986f9abfb932250f9b3cd9673f2543872435d78f0f52b2bd9388218ea1150",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 580/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_580_0/1986_580_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

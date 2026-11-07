@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Oktober 1956 über den Beitritt Griechenlands, Libyens und Marokkos zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949, [BGBl. Nr. 155/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf>). StF: [BGBl. Nr. 200/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_200_0/1956_200_0.pdf>)

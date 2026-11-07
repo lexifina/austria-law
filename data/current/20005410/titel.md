@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Wappen und die Siegel von Papst Benedikt XVI. StF: [BGBl. II Nr. 186/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/186>)

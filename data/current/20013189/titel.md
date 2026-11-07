@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Durchführung der Ausbildungen und Prüfungen zum Facharbeiter und zum Meister in den land- und forstwirtschaftlichen Ausbildungsgebieten (Land- und forstwirtschaftliche Ausbildungs- und Prüfungsordnung – LFBAG-APO) StF: [BGBl. II Nr. 135/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/135>)
+
+Auf Grund der §§ 47 bis 49 des Land- und forstwirtschaftlichen Berufsausbildungsgesetzes 2024 – LFBAG 2024, [BGBl. I Nr. 42/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/42>), wird verordnet:

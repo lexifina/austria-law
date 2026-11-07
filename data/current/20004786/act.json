@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004786",
+  "short_title": "VfGH-Aufhebung von Teilen der als Erlass bezeichneten Verordnung der BMin für Gesundheit und Frauen",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005227",
+    "valid_from": "2006-06-02",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004786&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:59.187062+00:00",
+    "response_sha256": "f3e69bd74c5b16cff5d80e77cda8d9b71b38ad2cb09576a303f44128f2a2de97",
+    "snapshot_sha256": "e97ba27c8b7b29e9860bfb86698bebab3a47e0be80d547ce1d7eef54e098ceae",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b333f526ebd39d0ca3a9293add7ba284a2ef666788db95f7b3ba2f2c39e7941",
+      "sha256": "01eef2f7bd22652a038c38a28959e8316f0f271d312bf6b315564770381b555e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Gesundheit und Frauen über die Aufhebung von Teilen der als Erlass bezeichneten Verordnung der Bundesministerin für Gesundheit und Frauen vom 9. März 2005, GZ BMGF- 92266/0049-I/B/6/2004, durch den Verfassungsgerichtshof StF: BGBl. II Nr. 213/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 213/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/213"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89ba705bd3b5fdd5dc90fa1c628be963fbb73288c92c6a7bb4a4abe74bd83fb4",
+      "sha256": "f934c8e768f438272a63232347dd24ca6508d6a7237dd147cd0b7a7c6c51f48d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

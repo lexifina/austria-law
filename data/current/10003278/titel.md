@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Kennzeichnung von Spielzeug (Spielzeugkennzeichnungsverordnung) StF: [BGBl. Nr. 1029/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_1029_0/1994_1029_0.pdf>) \[CELEX-Nr.: [388L0378](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0378:DE:HTML>) und [393L0068](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0068:DE:HTML>)\]
+
+Auf Grund des § 32 des Bundesgesetzes gegen den unlauteren Wettbewerb 1984, BGBl. Nr. 448, zuletzt geändert durch die UWG-Novelle 1993, BGBl. Nr. 227, und die Kundmachung [BGBl. Nr. 422/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_422_0/1994_422_0.pdf>) wird verordnet:

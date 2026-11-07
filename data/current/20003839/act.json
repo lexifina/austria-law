@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20003839",
+  "short_title": "Akademischer Grad „Master of Arts (Bildwissenschaft)“,  Universitätslehrgang „Bildwissenschaft (MA)“ der Donau-Universität Krems",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004171",
+    "valid_from": "2005-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003839&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:05:43.352374+00:00",
+    "response_sha256": "56887e3c112401bc966ffb801e5d78529f4e9268b3c5f16cdc66b78e8ca1d3ae",
+    "snapshot_sha256": "05bf425b2377c72d05828542936b9a7fdfc70b01499e9b0ac7b72b052c1a05c9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e1bee545c3124b7c9cf57e7a350931d6e7726258d7da44d482bda1e019ec920",
+      "sha256": "86f33d28035f8f1cd0b40af20b24dae2cf389c24461d1616f789642287232c85",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Arts (Bildwissenschaft)“, Universitätslehrgang „Bildwissenschaft (MA)“ der Donau-Universität Krems StF: BGBl. II Nr. 508/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 508/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/508"
+        },
+        {
+          "text": "BGBl. Nr. 269/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_269_0/1994_269_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 128/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_128_1/1998_128_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "037f03384299c220cebbcbd8e083028041b9003295bb84a28a2247e16c9e5212",
+      "sha256": "83b48fca7c6a8514056018ad0b878f8918d22396a86734f2177a44145d2aebaf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb28f3a962fb66b3ee7365c5f42dc2de0a9746916d2ca5ad71238620758f4a93",
+      "sha256": "d58a55a39e436aba325f5c445cf1491f1f4ce30ae2ba40a00770177a7a29645f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Abkommen in Form eines Notenwechsels zur Änderung des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Ungarischen Volksrepublik über die Schaffung eines Straßenüberganges an der gemeinsamen Staatsgrenze StF: [BGBl. Nr. 364/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_364_0/1984_364_0.pdf>)

@@ -1,0 +1,688 @@
+{
+  "sample_only": false,
+  "included_provisions": 21,
+  "source_provision_count": 21,
+  "schema_version": 1,
+  "gesetzesnummer": "10002491",
+  "short_title": "Genossenschaftsverschmelzungsgesetz",
+  "abbreviation": "GenVG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002514",
+    "valid_from": "1980-06-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002491&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:04:56.942042+00:00",
+    "response_sha256": "adaba2f27f6f31e8f6e11b0b9e11d557bdaef8c26657bd796786740d867c9e94",
+    "snapshot_sha256": "b0b0f4a8c257ee2aa1c772c140a3b9a4bdb637a7084e5a32c6b23f0519c38e02",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c326a21f2fac809c5146621190f9ba9bb51d36fc97ce0bd538b9d277f9af8700",
+      "sha256": "e65e95d5d42f53e9fc4958cbf87f8f13def19898bcedd5129428359cc11cb59f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz vom 7. Mai 1980 über die Verschmelzung von Genossenschaften und über die Änderung der Gewerbeordnung 1973 (Genossenschaftsverschmelzungsgesetz – GenVG) StF: BGBl. Nr. 223/1980 idF BGBl. Nr. 131/1981 (DFB) (NR: GP XV RV 245 AB 350 S. 34. BR: AB 2149 S. 397.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 10/1991 (NR: GP XVIII IA 9/A AB 23 S. 5. BR: AB 4004 S. 535.) BGBl. Nr. 458/1993 (NR: GP XVIII IA 352/A AB 1016 S. 126. BR: 4557 AB 4570 S. 572.) BGBl. Nr. 304/1996 idF BGBl. Nr. 680/1996 (DFB) (NR: GP XX RV 32 AB 133 S. 25. BR: AB 5177 S. 614.) [CELEX-Nr.: 368L0151, 377L0091, 392L0101, 378L0855, 378L0660, 390L0605, 390L0604, 394L0008, 382L0891, 383L0349, 384L0253, 389L0666, 389L0667] BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 223/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_223_0/1980_223_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 131/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_131_0/1981_131_0.pdf"
+        },
+        {
+          "text": "RV 245",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/245"
+        },
+        {
+          "text": "AB 350",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/350"
+        },
+        {
+          "text": "S. 34.",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/NRSITZ/34"
+        },
+        {
+          "text": "AB 2149",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/2149"
+        },
+        {
+          "text": "S. 397.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/397"
+        },
+        {
+          "text": "BGBl. Nr. 10/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_10_0/1991_10_0.pdf"
+        },
+        {
+          "text": "IA 9/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/A/9"
+        },
+        {
+          "text": "AB 23",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/23"
+        },
+        {
+          "text": "S. 5.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/5"
+        },
+        {
+          "text": "AB 4004",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4004"
+        },
+        {
+          "text": "S. 535.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/535"
+        },
+        {
+          "text": "BGBl. Nr. 458/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_458_0/1993_458_0.pdf"
+        },
+        {
+          "text": "IA 352/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/A/352"
+        },
+        {
+          "text": "AB 1016",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/1016"
+        },
+        {
+          "text": "S. 126.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/126"
+        },
+        {
+          "text": "4557",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4557"
+        },
+        {
+          "text": "AB 4570",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4570"
+        },
+        {
+          "text": "S. 572.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/572"
+        },
+        {
+          "text": "BGBl. Nr. 304/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_304_0/1996_304_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 680/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_680_0/1996_680_0.pdf"
+        },
+        {
+          "text": "RV 32",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/I/32"
+        },
+        {
+          "text": "AB 133",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/I/133"
+        },
+        {
+          "text": "S. 25.",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/NRSITZ/25"
+        },
+        {
+          "text": "AB 5177",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/5177"
+        },
+        {
+          "text": "S. 614.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/614"
+        },
+        {
+          "text": "368L0151",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31968L0151:DE:HTML"
+        },
+        {
+          "text": "377L0091",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31977L0091:DE:HTML"
+        },
+        {
+          "text": "392L0101",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0101:DE:HTML"
+        },
+        {
+          "text": "378L0855",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0855:DE:HTML"
+        },
+        {
+          "text": "378L0660",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0660:DE:HTML"
+        },
+        {
+          "text": "390L0605",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0605:DE:HTML"
+        },
+        {
+          "text": "390L0604",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0604:DE:HTML"
+        },
+        {
+          "text": "394L0008",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0008:DE:HTML"
+        },
+        {
+          "text": "382L0891",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982L0891:DE:HTML"
+        },
+        {
+          "text": "383L0349",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0349:DE:HTML"
+        },
+        {
+          "text": "384L0253",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984L0253:DE:HTML"
+        },
+        {
+          "text": "389L0666",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0666:DE:HTML"
+        },
+        {
+          "text": "389L0667",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0667:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 133/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/133"
+        },
+        {
+          "text": "IA 4123/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/4123"
+        },
+        {
+          "text": "AB 2622",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2622"
+        },
+        {
+          "text": "S. 274.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/274"
+        },
+        {
+          "text": "AB 11571",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11571"
+        },
+        {
+          "text": "S. 970.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/970"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "I. ABSCHNITT Verschmelzung von Genossenschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db385a31dc6fc086733f8659f6bc27073164793f687e49956fdb4de799425b46",
+      "sha256": "7c667521bc5b0063fbaa0bce4aa8120f1ff9b8893ba3481af1420e4611f0348f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Verschmelzung durch Aufnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b3103ecf933ff110b5efa1a88c0f87c5a3ebebefa080a12f8d277ca1499030b",
+      "sha256": "33942347265f78b60dcffacb90a0e214cb9be75a045a39daafc2b889a3580b4c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72497c5a3e98a7b1185c1f88bc683641ff42ac41e798e984881031eba326aa16",
+      "sha256": "e5486e812904bcf3e56e4ae69d103c6a1e1f545b522e76a01e2c866d5208ddbe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46241655cdaed58143a411198d0148a56ce0ccd312b99d874e841386084bde4b",
+      "sha256": "86d3ea2d084d73012d6655d5ee8ebb5967ee76d381341e4bfecac7148ba8cb86",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "§ 5.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd4730bcf5fc2d938cdfaee1c77e8fbd02a26baa25e3aa28fbd2c6aef7969430",
+      "sha256": "126a2f2f0e6486000a6ff39899591286406ccdf99bbe1ecc8ee085f6ce6ea547",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§ 6.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "037e2b76956deabc993686cc39c1139c8d30042945a4bead46e1b597f11b0d82",
+      "sha256": "d2ff0383b13f3db81dcb1e2fb0147ca7fbc95d270a6365568f37d3e7eaedc71c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§ 7.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d023683b8190dfbfed5a9a21b4c1b943592784a31eca2cbc70925fe40df26c5",
+      "sha256": "f55fc549052ffe5a5bbf8b8005319f60acdc2a469f6d438a11e7c73d6e772355",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§ 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0a84fd0eb3cf7b4e1ea7fce32f7363d39b1df666a7301804ee0e5fb22cca6b7",
+      "sha256": "866f922c76fc73303f6c8e20de91a98da06f4840bbdbc3135be08c9a7d2714a2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "§ 9.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8bf5f14e1c0637db481f2ef927ce98a5f452bd85b1aeadf25d9b59720e2f716",
+      "sha256": "2c16c7392294fa0d4ef5cc4cadd4984e348fa2a860a526ae09ce115ed3979b62",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§ 10.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d3e3bfc0250357bdd159a05cd8947dea53a66ab25686e729afc5eb7981f1fb1",
+      "sha256": "2ace4ba03f2886b114920847bef606b5cbd1cfc68439d4f0adb9b420d9148e3f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "§ 11.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "960b4ed37acb562f6ac6d926267c50be1e8986a77ce14065e11fd4e7ed83c85c",
+      "sha256": "2279c894677e7619609d845d6cd0d39f3754072f6f4655e0e3e08f3504fd5af9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§ 12.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37fde9eea12202c55110b3d6b5ab111e9710a851ad6ce378ec2c4174843ba306",
+      "sha256": "fdb56b30f7e0d23f8d24266c2f51716edef92023f3a8267b20d11bc8d5d9e45e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Verschmelzung durch Neubildung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a23522e6155733793c048c668b3b5e14a77baae6c1c652abc0fab91f6d763dfc",
+      "sha256": "bf9719ea2c6a0e9e9de8591ba82fe095f88a29cff04048643c65d0251a0be492",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 91/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_91_0/1976_91_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "II. ABSCHNITT Änderung der Gewerbeordnung 1973",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8a75c433550eaf4a0ed9d3912df0ff0c58719e1b0c9ac9c47e0dbd9f3911b00",
+      "sha256": "886d043c439c1f97346744bdf8dedc57a4777c49355a1cb43a2685082f602abd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 50/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_50_0/1974_50_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "III. ABSCHNITT Übergangs- und Schlußbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "136b6947717b7c3082e41f7ed5949c458879837a79f3c4622f255769e27433de",
+      "sha256": "a012a2baaf474e69770e482d795461d2496b80697272f06fcc569719f0db0629",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c12b40e919e5e7ca3b07c04661e16ba190a50ccb9164de81a68bf013ea8dd2b",
+      "sha256": "d86837f3ee839be8ec5bffde05000ab70482a764a23d0f9e7c62d89871efac99",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 69/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_69_0/1969_69_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 314/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_314_0/1979_314_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "§ 17.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aadb3fd11a79bd567042c2969fb5e4e4c23d3ce58ba383b7b475a5c58ebb5f60",
+      "sha256": "f2f7ef48e0048b210f71ec8919d4693f4665fb786804ec5056758fb930d9d885",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "§ 18.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "deb3b5ce476ec35542336621194ffa34e145e7afecf4ed5d7c70b44d63ca6064",
+      "sha256": "79e2cf15a38a0eca384ffec254b7d5f49eaac72ac22ab204a1e58111d2582170",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18a",
+      "source_heading": "§ 18a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0018a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bcca446d0de4c4bb6410a3a9e85850c4bf8b5b6827d51f24960f384008d5ba21",
+      "sha256": "c59dccd165a9aa91cf508383df29f0ee292793a686f9d64b2a8ad2ecdf8e923d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 133/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/133"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "§ 19.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a16c4ceeb7a77a8d16ba3e2ccace87091da5a9c3da46eb71f8083e441348b283",
+      "sha256": "82ba8605b9131bcda23f41cb6e9864ff0c359c10dd564755478644ef65b64b1a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

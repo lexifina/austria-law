@@ -1,0 +1,1 @@
+Vereinbarung zwischen dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation und dem Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie der Republik Österreich StF: [BGBl. III Nr. 1/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2023/1>)

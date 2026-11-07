@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003534",
+  "short_title": "Errichtung einer zweiten Notarstelle in Gleisdorf",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003563",
+    "valid_from": "1997-04-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003534&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:16:22.757561+00:00",
+    "response_sha256": "9b484fd87118e44c5d69245f7b44a08f5fac697f2e09cfe49c5164740e981d06",
+    "snapshot_sha256": "60afc381122b53cf164b40097c7ba4a097ff3aa3297e9f74088838dc3f830647",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab49889e8723cbeb4d2d72d69a4fbc651b15f1a22a5fc54424ad268df0dc9a1f",
+      "sha256": "9d33f99be58e27e3e913cab3b4b08f628287c85767a0d41639e661d7d06a7de1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Gleisdorf StF: BGBl. II Nr. 103/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 103/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_103_2/1997_103_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e28679157275510db7c6277f6a63beede32b71c789ca34f56a0c215d0d076d4c",
+      "sha256": "ee3a4536f8221d585e293f8637c017b865299290e027f4afef8caacd6bda0b75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

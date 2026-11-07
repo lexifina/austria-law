@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001319",
+  "short_title": "Errichtung einer dritten Notarstelle in Schwechat",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001416",
+    "valid_from": "2001-05-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001319&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:30:13.155378+00:00",
+    "response_sha256": "3888a0a66da6bddc1f2959bc35cf7c3b046fd772d95b1bd8b9a7e79a0845ff0b",
+    "snapshot_sha256": "3da442456233b17420bfecca4bcd536e6a6315dbdb0b081e2f3905edc70c9e41",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3d8f5e97204ac099764db1ab7561b068b79ff299cb54f18325d6cf1ba485d508",
+      "sha256": "e674cc70bec6a8399a20eb904f153d4461b0beea8307e25cd010567eea159a90",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Schwechat StF: BGBl. II Nr. 191/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 191/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_191_2/2001_191_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "926d70846fd7ae3c3cc1b101ff38f7cdb827a9f7597cb170bbadfccf866de538",
+      "sha256": "c162e4a008cacb93489c559330f71e7f55aa3f7ce0bd6624bea301d9e2644b56",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. Feber 1961, betreffend die Ratifikation des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt durch Thailand, den Sudan und Costa Rica StF: [BGBl. Nr. 61/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_61_0/1961_61_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Unterricht und kulturelle Angelegenheiten betreffend den Unterricht in Kurzschrift StF: [BGBl. Nr. 171/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_171_0/1969_171_0.pdf>)
+
+Auf Grund des Schulorganisationsgesetzes, [BGBl. Nr. 242/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_242_0/1962_242_0.pdf>), in der Fassung der Bundesgesetze [BGBl. Nr. 243/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_243_0/1965_243_0.pdf>) und [BGBl. Nr. 173/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_173_0/1966_173_0.pdf>), insbesondere dessen § 6, wird verordnet:

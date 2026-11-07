@@ -1,0 +1,3 @@
+Bundesgesetz über Privatstiftungen (Privatstiftungsgesetz-PSG) StF: [BGBl. Nr. 694/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_694_0/1993_694_0.pdf>) (NR: GP XVIII [RV 1132](<https://www.parlament.gv.at/gegenstand/XVIII/I/1132>) [AB 1203](<https://www.parlament.gv.at/gegenstand/XVIII/I/1203>) [S. 131.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/131>) BR: [4636](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4636>) [AB 4627](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4627>) [S. 574.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/574>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie betreffend das Verfahren für die elektronische Übermittlung von Daten im Rahmen der Abwicklung des regionalen Klimabonus StF: [BGBl. II Nr. 251/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/251>)
+
+Auf Grund des § 5 Abs. 3 des Bundesgesetzes über den regionalen Klimabonus (KliBG), [BGBl. I Nr. 11/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/11>) wird im Einvernehmen mit dem Bundesminister für Inneres, dem Bundesminister für Finanzen sowie dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz verordnet:

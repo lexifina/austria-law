@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über Durchführungsbestimmungen zum Digitale Plattformen-Meldepflichtgesetz (DPMG-Durchführungsverordnung) StF: [BGBl. II Nr. 490/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/490>)
+
+Auf Grund der §§ 4 Abs. 3, 7 Abs. 5, 14 Abs. 3 und 16 Abs. 3 des Digitale Plattformen-Meldepflichtgesetzes – DPMG, [BGBl. I Nr. 108/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/108>), und der §§ 86a sowie 97 Abs. 3 der Bundesabgabenordnung – BAO, [BGBl. Nr. 194/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_194_0/1961_194_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 108/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/108>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über den akademischen Grad „Master of Advanced Studies (Community Health developing country)“, Universitätslehrgang „Community Health (MAS)“ der Medizinischen Fakultät der Universität Innsbruck StF: [BGBl. II Nr. 277/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_277_2/2001_277_2.pdf>)
+
+Gemäß § 26 Abs. 1 UniStG, [BGBl. I Nr. 48/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_48_1/1997_48_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 142/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf>), wird verordnet:

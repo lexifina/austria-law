@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 4. Juni 1970 betreffend den Geltungsbereich der Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949 StF: [BGBl. Nr. 164/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_164_0/1970_164_0.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002095",
+  "short_title": "Errichtung einer Notarstelle in St. Valentin",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002289",
+    "valid_from": "2002-07-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002095&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:41:09.653194+00:00",
+    "response_sha256": "63d93ac17ca9f1797429c8e55fda8b1e9840750a7eab533fa3b40a263fa0679c",
+    "snapshot_sha256": "c7a1b9bea888ee612422a4635f3398db2c2e55ae75a803c8f83296884f13bea0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5da1d41d3866c2be70f18930d81c690e892d23a66b538db7ac25bfca676e3ae",
+      "sha256": "9724bfc769fddebdecb1a07e434371c0d1e49789c1287045f416de5563ffb369",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer Notarstelle in St. Valentin StF: BGBl. II Nr. 277/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 277/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_277_2/2002_277_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5d66df5523817b93b957ad23585b2d2feb959139d9274372f2a79a4ced33111",
+      "sha256": "1ef4e460dcf13695392919e6fbadb9a7399ebc791db20c980472a6c2f9e9b79d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 15. Feber 1954 über den Geltungsbereich der Internationalen Pflanzenschutzkonvention StF: [BGBl. Nr. 44/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_44_0/1954_44_0.pdf>)

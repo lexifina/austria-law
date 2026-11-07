@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für EU und Verfassung über die Beantwortung der in [BGBl. I Nr. 55/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/55>) kundgemachten Rechtsfragen gemäß § 38a des Verwaltungsgerichtshofgesetzes 1985 StF: [BGBl. II Nr. 105/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/105>)
+
+Gemäß § 38a Abs. 4 des Verwaltungsgerichtshofgesetzes 1985 – VwGG, [BGBl. Nr. 10/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_10_0/1985_10_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 109/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/109>), wird kundgemacht:

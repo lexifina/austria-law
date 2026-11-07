@@ -1,0 +1,1 @@
+Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung der Schweizerischen Eidgenossenschaft über Kooperation auf dem Gebiet der Technischen Zusammenarbeit mit Entwicklungsländern StF: [BGBl. Nr. 333/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_333_0/1967_333_0.pdf>)

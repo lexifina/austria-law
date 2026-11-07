@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Vermarktungsnormen für Geflügelfleisch StF: [BGBl. II Nr. 70/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/70>)
+
+Auf Grund des § 4 Abs. 1 Z 1, § 5 Abs. 1, § 14 Abs. 2, § 16, § 21 Abs. 2 und § 28 Abs. 2 des Vermarktungsnormengesetzes – VNG, [BGBl. I Nr. 68/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/68>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>), wird – hinsichtlich des § 4 Abs. 1 Z 1, § 5 Abs. 1, § 14 Abs. 2 und § 16 im Einvernehmen mit dem Bundesminister für Gesundheit und dem Bundesminister für Wirtschaft, Familie und Jugend – verordnet:

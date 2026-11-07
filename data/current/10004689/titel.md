@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Finanzen betreffend die Kündigung der Vereinbarung zwischen dem Bundesminister für Finanzen der Republik Österreich und dem Bundessekretariat für Außenhandel der Sozialistischen Föderativen Republik Jugoslawien über die Anerkennung von Bescheinigungen der Wirtschaftskammern Jugoslawiens in Ursprungszeugnissen, die für die Anwendung der Vorzugszölle nach dem österreichischen Präferenzzollgesetz erforderlich sind StF: [BGBl. Nr. 386/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_386_0/1991_386_0.pdf>)
+
+Auf Grund des § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

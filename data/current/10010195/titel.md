@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 16. Jänner 1925, betreffend die Geltung gewisser internationaler Kollektivverträge im Verhältnis zum Deutschen Reiche. StF: [BGBl. Nr. 34/1925](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=34/1925&amp;SkipToDocumentPage=True>)

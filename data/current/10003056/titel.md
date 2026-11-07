@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen und das Emblem der Organisation ,,EUREKA'' StF: [BGBl. Nr. 430/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_430_0/1992_430_0.pdf>)

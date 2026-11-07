@@ -1,0 +1,3 @@
+Bundesgesetz vom 14. Dezember 1961 über die Anmeldung von Sachschäden, die durch Umsiedlung oder Vertreibung entstanden sind (Anmeldegesetz). StF: [BGBl. Nr. 12/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_12_0/1962_12_0.pdf>) idF [BGBl. Nr. 137/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_137_0/1962_137_0.pdf>) (DFB) (NR: GP IX [IA 157/A](<https://www.parlament.gv.at/gegenstand/IX/A/157>) [AB 520](<https://www.parlament.gv.at/gegenstand/IX/I/520>) [S. 89.](<https://www.parlament.gv.at/gegenstand/IX/NRSITZ/89>) BR: [S. 182.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/182>))
+
+Der Nationalrat hat beschlossen:

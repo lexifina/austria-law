@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003050",
+  "short_title": "VfGH-Ausspruch, dass das Statut der Wohlfahrtseinrichtungen der Bundeskammer der Architekten- und Ingenieurkonsulenten gesetzwidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003322",
+    "valid_from": "2003-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003050&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:55:33.520838+00:00",
+    "response_sha256": "bdf99d85532e998e291dff2a654a5c943485f52230ae18fa679375a9c577ae82",
+    "snapshot_sha256": "130711fc637f0931acbd2f6d96528a80f5ba6788bd465ad309e3c446f36de6e0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d275f915ad6bb5e867be2e37bf5870633936934ba7ddbf93f568146cf1d75a71",
+      "sha256": "73dcaacb1ac9dd2350f5830a1cbd490e59f415ea8a0bc1c2c2b23b2d800b0538",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wirtschaft und Arbeit über den Ausspruch des Verfassungsgerichtshofes, dass das Statut der Wohlfahrtseinrichtungen (115. Verordnung) der Bundeskammer der Architekten- und Ingenieurkonsulenten gesetzwidrig war StF: BGBl. II Nr. 544/2003"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 544/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_544_2/2003_544_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_34_1/2001_34_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e0ac5cf57733896f149e8dd26ac206502c044389ff87b951dd424e946010005",
+      "sha256": "29c33c36a22400b2e4dd1247b97c09fee666d5236f07797bbaf504c2ccea287a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

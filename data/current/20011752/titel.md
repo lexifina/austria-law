@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA), mit der begleitende Maßnahmen zur Verordnung (EU) Nr. 575/2013 hinsichtlich der Ausübung von Behördenwahlrechten getroffen werden (CRR-Begleitverordnung 2021 – CRR-BV 2021) StF: [BGBl. II Nr. 542/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/542>)
+
+Auf Grund des § 21b Abs. 1 und 2 des Bankwesengesetzes – BWG, [BGBl. Nr. 532/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 98/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/98>), wird – betreffend die §§ 12 und 13 Abs. 2 dieser Verordnung mit Zustimmung des Bundesministers für Finanzen – verordnet:

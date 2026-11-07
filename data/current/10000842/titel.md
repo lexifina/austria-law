@@ -1,0 +1,3 @@
+Bundesgesetz vom 5. März 1986 über die staatsanwaltschaftlichen Behörden (Staatsanwaltschaftsgesetz – StAG) StF: [BGBl. Nr. 164/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_164_0/1986_164_0.pdf>) (NR: GP XVI [IA 70/A](<https://www.parlament.gv.at/gegenstand/XVI/A/70>) und [96/A](<https://www.parlament.gv.at/gegenstand/XVI/A/96>) [AB 894](<https://www.parlament.gv.at/gegenstand/XVI/I/894>) [S. 131.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/131>) BR: [AB 3096](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3096>) [S. 473.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/473>))
+
+Der Nationalrat hat beschlossen:

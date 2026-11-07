@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Inneres über den Ausspruch des Verfassungsgerichtshofes vom 9. März 2021, dass die auf § 37 Sicherheitspolizeigesetz (SPG) gestützte Verordnung der Landespolizeidirektion Wien vom 10. Dezember 2019, kundgemacht durch Verlesen im Festsaal der Technischen Universität Wien von 21.38 Uhr bis 21.39 Uhr und am Gang beim Festsaal der Technischen Universität Wien von 21.43 Uhr bis 21.44 Uhr, gesetzwidrig war StF [BGBl. II Nr. 148/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/148>)
+
+Gemäß Art. 139 Abs. 5 zweiter Satz B-VG iVm § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

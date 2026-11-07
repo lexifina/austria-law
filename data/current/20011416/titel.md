@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die Richtlinien für die Gewährung von Finanzmitteln aus dem COVID-19-Krisenbewältigungsfonds ab 2021 (COVID-19-Krisenbewältigungsfonds-Auszahlungsverordnung – COVID-19-Fonds-V-2021) StF: [BGBl. II Nr. 611/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/611>)
+
+Aufgrund des § 3 Abs. 2 des Bundesgesetzes über die Errichtung des COVID-19-Krisenbewältigungsfonds (COVID-19-FondsG), [BGBl. I Nr. 12/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/12>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 135/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/135>), wird verordnet:

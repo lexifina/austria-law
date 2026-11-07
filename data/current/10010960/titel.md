@@ -1,0 +1,3 @@
+Bundesgesetz über die Gründung der landwirtschaftlichen Bundesversuchswirtschaften Gesellschaft m. b. H. (BVWG-Gesetz) StF: [BGBl. Nr. 794/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_794_0/1996_794_0.pdf>) (NR: GP XX [RV 425](<https://www.parlament.gv.at/gegenstand/XX/I/425>) [AB 511](<https://www.parlament.gv.at/gegenstand/XX/I/511>) [S. 52.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/52>) BR: [AB 5352](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5352>) [S. 620.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/620>)) \[CELEX-Nr.: [377L0187](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31977L0187:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

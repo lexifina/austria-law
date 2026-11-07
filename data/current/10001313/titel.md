@@ -1,0 +1,1 @@
+Übereinkommen zwischen der Regierung Österreichs und den Vereinten Nationen betreffend das von der ECE in Wien vom 13. bis 17. Juni 1994 abzuhaltende Seminar über umfassende Politik für Erneuerung und Modernisierung menschlicher Ansiedlungen StF: [BGBl. Nr. 679/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_679_0/1994_679_0.pdf>)

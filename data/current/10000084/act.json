@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000084",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000084",
+    "valid_from": "1926-04-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000084&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:22:22.310906+00:00",
+    "response_sha256": "cead6056c6cf1c09c65c91f9d2a5e318a10221f815d02fba93c7a92dcd79ea8c",
+    "snapshot_sha256": "2c661fc14dabaa950f8d59912e0f88f54ae9aa018cd1b83df350918ef4d3b061",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a562777e38dc751789a35edf6bdfd17bba057f232345dbf7d3295632bacfd508",
+      "sha256": "0aec8cbc8ff4fc85ccd3a23864b3b5c124865845978219c1fecafffe7f20e3cb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 3. April 1926, betreffend die Feststellung des Verfassungsgerichtshofes zur Frage der verfassungsgesetzlichen Zuständigkeit in den Angelegenheiten des landwirtschaftlichen Pächterwesens. StF: BGBl. Nr. 86/1926"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 86/1926",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=86/1926&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b27d6a4d4218e4134cd76683aeb18d0fdd3b23bf7cdebd8bbedc7273d844f744",
+      "sha256": "fda85779ea2ba25d217cb777688969361ba23735036b45e752c003fde5905208",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

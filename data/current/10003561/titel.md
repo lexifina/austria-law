@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Unterschutzstellung der Namen, der Abkürzungen, des Emblems und der Fahne des International Office of Epizootics StF: [BGBl. II Nr. 98/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_98_2/1998_98_2.pdf>)

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerien für Vermögenssicherung und Wirtschaftsplanung und für Justiz im Einvernehmen mit dem Bundesministerium für Finanzen vom 30. Oktober 1947 über die Entschädigung der Beisitzer der Rückstellungs- und Rückgabekommissionen. StF: [BGBl. Nr. 264/1947](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_264_0/1947_264_0.pdf>)
+
+Auf Grund des § 19, Abs. (1), des Bundesgesetzes vom 6. Februar 1947, B. G. Bl. Nr. 54, über die Nichtigkeit von Vermögensentziehungen (Drittes Rückstellungsgesetz) und des § 6, Abs. (1), des Bundesgesetzes vom 6. Februar 1947, B. G. Bl. Nr. 55, über die Rückgabe des Vermögens aufgelöster oder verbotener demokratischer Organisationen (Rückgabegesetz) wird verordnet:

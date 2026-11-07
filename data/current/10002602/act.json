@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002602",
+  "short_title": "Hoheitszeichen - Monaco",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002625",
+    "valid_from": "1983-04-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002602&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:06:46.454648+00:00",
+    "response_sha256": "e8f5b299ecd06dc25f60d773125736032ec9b23f2fc0d4bc81890dff8877e16a",
+    "snapshot_sha256": "22034c793e2d3d7f2f726df80452551fab6f81a195b128cd168b1a24886dd2d5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2825fc311695ea04966a38fb799160a4a62339bcd4fc88a9efb18476aa80b83e",
+      "sha256": "f0ec2a562e22493bf755bbee6a2ebc72bf94531cb4758ed2cfde0f876490b874",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 25. März 1983 betreffend Hoheitszeichen des Fürstentums Monaco StF: BGBl. Nr. 237/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 237/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_237_0/1983_237_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "325e627218ab640e5a1389251bd5881d5fabd95e17dba1ea73023a289fdde4f4",
+      "sha256": "89f687c095d95660f26fd49cfeb99fb2ab1185f3565888d9acdc05d77c412a9d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

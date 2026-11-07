@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Kategorien von Mitarbeitern, die bei Kreditinstituten mit dem Anbieten und Abschließen von Hypothekar- und Immobilienkreditverträgen befasst sind, sowie über die Art, Umfang und Periodizität des Nachweises ihrer Kenntnisse und Fähigkeiten (Mitarbeiterkategorien- und Nachweis-Verordnung – MiKaNa-V) StF: [BGBl. II Nr. 151/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/151>)
+
+Auf Grund des § 33 Abs. 2 des Bankwesengesetzes – BWG, [BGBl. Nr. 532/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 43/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/43>), wird verordnet:

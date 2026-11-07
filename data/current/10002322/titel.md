@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 10. April 1975 betreffend das Zeichen des Sekretariats des Commonwealth StF: [BGBl. Nr. 255/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_255_0/1975_255_0.pdf>)

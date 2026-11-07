@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, mit der Vergütungen gemäß § 61b Abs. 3 des Gehaltsgesetzes 1956 festgelegt werden StF: [BGBl. II Nr. 284/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_284_2/2002_284_2.pdf>)
+
+Auf Grund des § 61b Abs. 3 des Gehaltsgesetzes 1956, [BGBl. Nr. 54/1956](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_54_0/1956_54_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 87/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_87_1/2002_87_1.pdf>), wird im Einvernehmen mit der Bundesministerin für öffentliche Leistung und Sport verordnet:

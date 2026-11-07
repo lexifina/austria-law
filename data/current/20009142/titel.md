@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres, mit der Gruppen- und Abteilungsleiterfunktionen, denen eine besonders wichtige Aufgabenstellung zukommt, festgelegt werden StF: [BGBl. II Nr. 92/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/92>)
+
+Auf Grund des § 9 Abs. 3 des Bundesgesetzes über die Zahl, den Wirkungsbereich und die Einrichtung der Bundesministerien (Bundesministeriengesetz 1986 – BMG), [BGBl. Nr. 76/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 11/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/11>), wird verordnet:

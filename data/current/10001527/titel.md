@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens der Ersten und der Zweiten Haager Friedenskonferenz von 1899 und 1907 StF: [BGBl. III Nr. 51/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_51_3/1998_51_3.pdf>)

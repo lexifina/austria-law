@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000262",
+  "short_title": "Schutz der Opfer des Krieges",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000263",
+    "valid_from": "1954-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000262&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:25:48.291730+00:00",
+    "response_sha256": "99b612f3c53df33acc5caecb40681621efe531b4dc7cf460978a11a52f4b9aeb",
+    "snapshot_sha256": "9d9ea2443847843dffc04244b969d94ac1f1344d276ec500e2f1b8844cde71e9",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8011d72001f8f8d55d22da4a9b6df6742dc7fb0d8a62c529847411068de15964",
+      "sha256": "5151b8e6b8e24ed02a7b1aab7ab89462e44fc09c13a2976b939140352e1b6628",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 2. April 1954 über die Genfer Abkommen zum Schutze der Opfer des Krieges. StF: BGBl. Nr. 85/1954"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 85/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_85_0/1954_85_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "876327eb85bb54325fb02a64f6471b23b90cb7847a8c64bd988ac4fecd6a3ec7",
+      "sha256": "5d1003fbdf6cc715cd34acec1f452bce63a08da7d4021fb9a4b3eabcae730dc7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

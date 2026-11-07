@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Namen und Abkürzungen (in Englisch, Französisch und Spanisch) sowie das Emblem des Gemeinsamen Programmes der Vereinten Nationen betreffend HIV/AIDS (UNAIDS) StF: [BGBl. II Nr. 413/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_413_2/1997_413_2.pdf>)

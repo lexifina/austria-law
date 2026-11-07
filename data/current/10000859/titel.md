@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 21. Oktober 1986 betreffend den Geltungsbereich der Genfer Abkommen zum Schutze der Opfer des Krieges StF: [BGBl. Nr. 580/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_580_0/1986_580_0.pdf>)

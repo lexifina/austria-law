@@ -1,0 +1,137 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "20001013",
+  "short_title": "Identitätsausweis-Verordnung",
+  "abbreviation": "IdentAV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001083",
+    "valid_from": "2000-12-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001013&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:25:42.610029+00:00",
+    "response_sha256": "3e94c00df44197b54260e6ad0f5a76b7c7887c5410afc0c3c1c8a4a6046b6515",
+    "snapshot_sha256": "4e387040d1f1ca619e62e4442edb0b4e6250d4660b03e06853fb43b64befca77",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1017b1616dab74bd11416135f8b6a4b24eed60d8c93327692bf3cc22a037f6c1",
+      "sha256": "d3bd9aa3200f24de8d7c73cf66ce17e88b6bb7c8daa937bd9ba7c6b39f956cd8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Inneres, mit der die Identitätsausweis-Verordnung erlassen wird (IdentAV) StF: BGBl. II Nr. 379/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 379/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_379_2/2000_379_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 566/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 85/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_85_1/2000_85_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe7ce0c4d8728ca28337e8dbff75a2de49ca04c284e2f221101920798ee139ef",
+      "sha256": "b6e324d85761c1eaaaa5b0251081232cba92973249539dbbf219d3e6732558fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50c178b44c69cfb2fe62c50c76d00405199f12bfc4a7fe92cb998d2a551171c0",
+      "sha256": "a20c0dc45758d95ecd3f3857c7121c7f78cda21e9a11f35abd74758f7d66a566",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a796fa041384ebbfb21f6849af5b7eef6b9c1bc4aecbd7b235d3812e4c34729a",
+      "sha256": "cac7ca15475f9f0a550426387d4d33f9a0d310c19ff302488472777b22d1d411",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40012844/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

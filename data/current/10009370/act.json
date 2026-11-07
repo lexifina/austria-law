@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009370",
+  "short_title": "Evangelische Kirche – Gemeinden",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009561",
+    "valid_from": "1974-11-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009370&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:31:08.629043+00:00",
+    "response_sha256": "f50075028769c7892a966a8adb2202ceb00ff8f98381f8f1cd7028382edf0908",
+    "snapshot_sha256": "37234c037c562ee98c8e05cdab13998ac7fd48eaecd9306dfce69c60e5fab450",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fbc305bcaeb99fafc7115c819e61cef8cf597085019dd8e1ddfc4703b2621fbe",
+      "sha256": "b6059241fd2f6975ae374734a618303ee64687871457e69af1f0a62ab36bf424",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und Kunst vom 2. November 1974 über die Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche StF: BGBl. Nr. 695/1974"
+        },
+        {
+          "kind": "Änderung",
+          "text": "–"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 695/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_695_0/1974_695_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4b3bd1e15ba7b6b69352b1950b43f8655166e00c9c2297cdcfc4a1cfb7fac661",
+      "sha256": "a3ad20762f523b58cdf0f72be1ae9b9ba548ada92cc0e964311d5d48c92e75ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

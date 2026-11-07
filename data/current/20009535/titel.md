@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Übereinkommen zwischen dem Bund und dem Land Oberösterreich betreffend die Übernahme eines Teiles (Neumarkter Tunnel) der Landesstraße B 310 Mühlviertler Straße als Bundesstraße S10 Mühlviertler Schnellstraße im Bereich der Marktgemeinde Neumarkt im Mühlkreis StF: [BGBl. II Nr. 118/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/118>)
+
+Aufgrund des § 1 Abs. 3 Bundesstraßengesetz 1971 (BStG 1971), BGBl. Nr. 286 in der Fassung des [BGBl. I Nr. 96/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/96>), wird kundgemacht:

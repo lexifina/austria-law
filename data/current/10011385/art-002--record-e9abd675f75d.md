@@ -1,0 +1,17 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Von Art. I Z 1 sind Fahrzeuge ausgenommen, die vor dem 1. Oktober 1993 bereits einmal in Österreich zugelassen waren; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(2) Von Art. I Z 2 sind Fahrzeuge ausgenommen, die vor dem 1. Oktober 1995 bereits einmal in Österreich zugelassen waren; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(3) Von Art. I Z 4 sind Fahrzeuge ausgenommen, die vor dem 1. Oktober 1991 bereits einmal in Österreich zugelassen waren; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(4) Von Art. I Z 4 sind Fahrzeuge ausgenommen, die vor dem 1. Oktober 1991 in Österreich hergestellt oder nach Österreich eingebracht worden sind; sie müssen jedoch den bisherigen Vorschriften entsprechen. Diese Fahrzeuge dürfen nach dem 1. Jänner 1993 in Österreich nicht mehr erstmals zum Verkehr zugelassen werden.
+
+(5) Fahrzeuge, die nach dem 1. Oktober 1991 in Österreich hergestellt oder nach Österreich eingebracht worden sind, müssen bei ihrer Genehmigung den Werten des Art. I Z 4 mit der Maßgabe entsprechen, daß, unabhängig von ihrer Motorleistung, für die Partikelemission ein einheitlicher Grenzwert von 0,7 g/kWh gilt.
+
+(6) Fahrzeuge, die nach dem 1. Jänner 1993 in Österreich erstmals zum Verkehr zugelassen werden, müssen den Werten des Art. I Z 4 entsprechen.
+
+(7) Von Art. I Z 7 sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem 1. Jänner 1992 genehmigt worden sind; sie müssen jedoch den bisherigen Vorschriften entsprechen.

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Zusatzprotokolls vom 26. März 1998 zum Übereinkommen über die Regelung der Schiffahrt auf der Donau vom 18. August 1948 StF: [BGBl. III Nr. 10/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_10_3/2000_10_3.pdf>)

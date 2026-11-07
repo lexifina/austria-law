@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Justiz über den Ausspruch des Verfassungsgerichtshofs, dass die Wortfolge „der Antragstellung und“ im Satzteil „und die Eintragung in die Liste der Rechtsanwälte einer Rechtsanwaltskammer oder eine Liste der niedergelassenen europäischen Rechtsanwälte im Zeitpunkt der Antragstellung und des Eintritts der Berufsunfähigkeit“ in § 7 Abs. 1 lit. a der Satzung der Versorgungseinrichtung Teil A der Rechtsanwaltskammer für Kärnten in der Fassung des Beschlusses der Plenarversammlung vom 6. November 2008, in Kraft getreten mit 1. Jänner 2009, gesetzwidrig war StF: [BGBl. II Nr. 227/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/227>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

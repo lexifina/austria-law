@@ -1,0 +1,3 @@
+Bundesgesetz zur Festlegung einheitlicher Standards beim Infrastrukturaufbau für alternative Kraftstoffe StF: [BGBl. I Nr. 38/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/38>) (NR: GP XXVI [RV 137](<https://www.parlament.gv.at/gegenstand/XXVI/I/137>) [AB 180](<https://www.parlament.gv.at/gegenstand/XXVI/I/180>) S. 28. BR: [AB 9978](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9978>) S. [881](<https://www.parlament.gv.at/gegenstand/BR/I-BR/881>).) \[CELEX-Nr.: [32014L0094](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0094:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 14. März 1969, betreffend ein französisches amtliches Prüfungs- und Gewährzeichen StF: [BGBl. Nr. 108/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_108_0/1969_108_0.pdf>)
+
+Auf Grund des § 4a Abs. 2 des Markenschutzgesetzes 1953, BGBl. Nr. 38, wird im Einvernehmen mit dem Bundesministerium für Auswärtige Angelegenheiten kundgemacht, daß § 4a Abs. 1 des Markenschutzgesetzes 1953 auf das amtliche Prüfungs- und Gewährzeichen des Pariser Münzamtes Anwendung findet, dessen Darstellung im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegt.

@@ -1,0 +1,779 @@
+{
+  "sample_only": false,
+  "included_provisions": 28,
+  "source_provision_count": 28,
+  "schema_version": 1,
+  "gesetzesnummer": "20012559",
+  "short_title": "Datenmodellverordnung 2024",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40261120",
+    "valid_from": "2024-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012559&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:37:57.456617+00:00",
+    "response_sha256": "74a25bc50adb3097a70d3cd0eaed93eb2201fc29502122dec9a08b69679bfc3a",
+    "snapshot_sha256": "3d83848017b05864082e1c73e757ca21a9a720b64e675b1f4b80d525ced2b8ce",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49f438b704434ae1d73876c045dd1f67cf1e509a4edfbd0044b204fb3783caf4",
+      "sha256": "7f3a7b21d3b53ae531080ab796b8c397b49f3838a8f34964b8f87085f365a5b9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Oesterreichischen Nationalbank betreffend die Übermittlung von Meldedaten an die Oesterreichische Nationalbank unter Anwendung eines Datenmodells (Datenmodellverordnung 2024) StF: BGBl. II Nr. 88/2024"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 304/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 88/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/88"
+        },
+        {
+          "text": "BGBl. II Nr. 304/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/304"
+        },
+        {
+          "text": "BGBl. Nr. 50/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_50_0/1984_50_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/61"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Abschnitt 1 Datenmodell",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c08cc2dd2a75ae236a2ebfb7c0e86689f8052c376d24664eebcce5b4ff906c4",
+      "sha256": "d193af1c10f0269284b35e31e4a47597e6d50ba5d3e4fc9c9475717f75301b14",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Abschnitt 2 Meldungen zu Krediten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1ded009ddace140d74b08af5793560731b7ccb661dcbda9d89aac3259f147df",
+      "sha256": "5fdb01d23c078707ebb1d82b9e7c94ecbf33161c8743f45b9637fe2ecbffc666",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 87/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/87"
+        },
+        {
+          "text": "BGBl. II Nr. 573/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/573"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3 Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13eb0835e73c11d571a9cdf10236068de5f0fcf6b1bd0a771c02d24a16bda0c0",
+      "sha256": "0337974a54705b7a501ef1d3bda1b03c6646b09aac4077dea7491638225445c3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4 Gliederung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6f4db1d4a124b3ae31f8f09046b805911308b7fc17aa3eada29b5bd6dd3b3726",
+      "sha256": "ee49d25803e1e471853a79c57a01a07c8cfb2c0f03d273f56e5dbe4b3a41234d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Abschnitt 3 Meldung zu Einlagen und Sachkonten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "929f31cf075c7671f034777ca69b7d2a91189a58e24bfc6eab20d92533711ad0",
+      "sha256": "e6f2048206a2b8030c9784e48dd04874ac955b15bfbfd4d9063e84c488490985",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§ 6 Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "74c81f6346aad1513ce3e33c1b96c65fb7c9ec13560473534ca1dc0821128270",
+      "sha256": "d1bcfb2d4fa928d9469e4dbdc6a66d18ad1b890d1e111d559d6639aa84c672ad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§ 7 Gliederung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66262c691051dd75898af788eb11b1b413f470f057d3ff36c1833013766f6262",
+      "sha256": "168415074fa757f9463c86cd82df5182d08c08d35c734468e7b219eab930f553",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Abschnitt 4 Wertpapiermeldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a5848d079f83d2c70c74d4845387d33a063c3b9c0158b23e7463b4b8951ce41",
+      "sha256": "a126f07bbeffa6cd04e8d3447e15181567266fb0011a4b030615b7bbef06c837",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "§ 9 Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1d16251e105e0c1f15ae0f51f405c5b9b72152976952f1af9e0bdd379218420",
+      "sha256": "27110e9423fe4120c62394a71e7b6500effc5325d71924e4a995e300c496aa31",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§ 10 Gliederung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd3906b72805ecde1d52e70b8c4a96d90f167656015172931f3b89644c64a555",
+      "sha256": "b06eb038b0e7fd19f8e1999ae86dd8dca03ad70f900df1fa629bb48800473024",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Abschnitt 5 Meldungen zur Zahlungsverkehrsstatistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad555dbfc900dd18769b63e7f26ef4496f8c675d4087b99429d1ac4f86ab9bb8",
+      "sha256": "50d8062573b8f283bc00d657771d55b4042b98b86dc5fc1fa25418931086a062",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 510/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/510"
+        },
+        {
+          "text": "BGBl. Nr. 50/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_50_0/1984_50_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 612/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_612_1/1986_612_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§ 12 Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b3a86ac781e20053ce4d85dc83d50fdcb21dc3adea96f2fee524ff2ed5b9302a",
+      "sha256": "da5b33eff61ba6d0d791643700a8f85e7be79e33acf835b5264ccd0cb9954167",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "§ 13 Gliederung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "451be761539cb931be94065d0c8166cd100f978cc3fc63ae7e723b2e3a7819f0",
+      "sha256": "1fa8d2442fe62c9a874b3bfe2f92a92391393e5bf468d466152a034a3b8ab129",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Abschnitt 6 Granulare Kreditdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f61996340b188adb34e2939b3fb5a0be6a5615dcc680c521d94f9c8bec160718",
+      "sha256": "a507b92aa73037e233fcc2e622ae0bd3bef8beb7beda8a95d73cb3c32776e9e0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 170/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/170"
+        },
+        {
+          "text": "BGBl. II Nr. 349/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/349"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "§ 15 Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cc92dc1210ba2fb357ffdc1d62d6f130855ebd888afb0a82d1d999ebbe77469",
+      "sha256": "b9a70faddddd5cbd4643eae746b23dfb80c9bcf8fb23388cf34486be283d9979",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16 Gliederung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f06b8a0a4030e2acf7e3cf006b2055882cb2441eabfc6b4875d8712cdffca4ad",
+      "sha256": "dce46dfd1e71395c956c68ab1f929cd57675b32a05afd68297bcbb11692a9b75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Abschnitt 7 SHSG und Verbriefungsmeldung konsolidiert",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa06fa8b9d6f965349d5480d7c84383e63586041b52e84c6dd103c1e94cd22db",
+      "sha256": "2ecebe404ca3be74d0587e3cadcf157ed608b0c65a322522ccb711d6662f6179",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "§ 18 Meldepflichtige",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6b3facbf31a7409b9860d180d3976a6242725148ba49b4420f283b8b1f8ea9b",
+      "sha256": "4d0f80a4beb35c823c814094534f7591189280b6f9a7a21e709ba2e6beba86a1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "§ 19 Gliederung der Meldungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73eedf1304fdc007886d5442feaa294537859325f8fc3679da1ee13eee89a703",
+      "sha256": "e826c5fdb3442eee6858cde5f3c5990c5f616c9465374e0da78f234851fee27e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Abschnitt 8 Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9162779e208f2d9afae7f89f0d26732753e9fc1d1ca750168d503eb049c678e1",
+      "sha256": "1b2adffe6aee165befd076ee754d218d312dd7e05c615a80ba201b120865556c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20a",
+      "source_heading": "20a Meldeperioden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0020a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f869cb3f2cfd19183321e726dcca4790b34780e51fdc881a9baaa1cbab22043",
+      "sha256": "e7cb86a0bcf13f415af312cf55b304dd2921e6c1fcfd74ff05673066a2dd2290",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "§ 21 Meldefristen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07dba7a2286ca3b10a8ae7cc40ec6af98c6191a026942592a79f515b0398f2de",
+      "sha256": "0c0ae44361ccb368a45708295448178a9ea3b91665871985dd66a4a8a457e795",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "§ 22 Code-Ausprägungen zu den Abschnitten 2 bis 4",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69dae95f71d121864deffd208c08668ad8acb6c2e6873153f6a645a9ef2bad69",
+      "sha256": "72e976e5525620f1e47f743aeafea41f12a2af06437a3bfeaacaa0854cadbc82",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "§ 23 Technische Spezifikationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "153b4852edaa49e4683b3fc4be1ff8fc8be89378c5a35480a05a35548561be08",
+      "sha256": "1c4207e7e8c023cb8ad6aa53645e9275429afe468245dc5398a6349568b0f838",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "§ 24 Verweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef10f63873bccbc3741456fc45f81bdd4fdd70f154fe2916ee986cadbd8aeb69",
+      "sha256": "30267be34b8855106211f7371ae5167fb7e3a057fb2baf7e146aebfb39687fc4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 87/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/87"
+        },
+        {
+          "text": "BGBl. II Nr. 573/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/573"
+        },
+        {
+          "text": "BGBl. II Nr. 510/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/510"
+        },
+        {
+          "text": "BGBl. I Nr. 17/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/17"
+        },
+        {
+          "text": "BGBl. II Nr. 170/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/170"
+        },
+        {
+          "text": "BGBl. II Nr. 349/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/349"
+        },
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "§ 25 Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a71e840d6aa58ec02c4d442c12bbd20d4bb52462b82395dff59e2bf8b865e53",
+      "sha256": "116a56116dd5afacdd87a500ff96ee51399d55a15ba71abca21a8fc11bd64444",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 182/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/182"
+        },
+        {
+          "text": "BGBl. II Nr. 304/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/304"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Beilagen zur Datenmodellverordnung 2024",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f91ba1e51216b3bf249d084044650b4651819d37485df99e09234b8e554af9e5",
+      "sha256": "92fc65f278d9ce63c89ee940a2feb2ffb2949cd16a0cef5a3c51f9e2a202be58",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Beilagen zur Datenmodellverordnung 2024 1. Änderung der Beilage Aa7 1. Änderung der Beilage Ad 1. Änderung der Beilage B5 1. Änderung der Beilage C5",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/00_II_88_2024_Beilagen_zur_Datenmodellverordnung_2024.pdf",
+              "title": "PDF-Dokument: Beilagen zur Datenmodellverordnung 2024",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/01_II_304_2024_Beilage_Aa7.pdf",
+              "title": "PDF-Dokument: 1. Änderung der Beilage Aa7",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/02_II_304_2024_Beilage_Ad.pdf",
+              "title": "PDF-Dokument: 1. Änderung der Beilage Ad",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/03_II_304_2024_Beilage_B5.pdf",
+              "title": "PDF-Dokument: 1. Änderung der Beilage B5",
+              "status": "linked_only"
+            },
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/04_II_304_2024_Beilage_C5.pdf",
+              "title": "PDF-Dokument: 1. Änderung der Beilage C5",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 304/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/304"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/00_II_88_2024_Beilagen_zur_Datenmodellverordnung_2024.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/01_II_304_2024_Beilage_Aa7.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/02_II_304_2024_Beilage_Ad.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/03_II_304_2024_Beilage_B5.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40266239/04_II_304_2024_Beilage_C5.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

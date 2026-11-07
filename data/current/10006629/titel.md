@@ -1,0 +1,3 @@
+Bundesgesetz vom 8. November 1978, mit dem die Rechtsstellung des Dorotheums geregelt und die Gewerbeordnung 1973 geändert wird (Dorotheumsgesetz) StF: [BGBl. Nr. 66/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_66_0/1979_66_0.pdf>) (NR: GP XIV [RV 1026](<https://www.parlament.gv.at/gegenstand/XIV/I/1026>) [AB 1068](<https://www.parlament.gv.at/gegenstand/XIV/I/1068>) [S. 106.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/106>) BR: [AB 1903](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1903>) [S. 380.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/380>))
+
+Der Nationalrat hat beschlossen:

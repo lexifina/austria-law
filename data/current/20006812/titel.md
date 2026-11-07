@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die modulare Grundausbildung für die Bediensteten der Entlohnungsgruppe v2 in der Justizverwaltung (Modulare Justizverwaltungsgrundausbildungs-Verordnung – MJvG-V) StF: [BGBl. II Nr. 199/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/199>)
+
+Auf Grund des § 67 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz BGMJvG-V)Bl. I Nr. 6/2010, in Verbindung mit den §§ 23 bis 31 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 153/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/153>), wird verordnet:

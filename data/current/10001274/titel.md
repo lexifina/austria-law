@@ -1,0 +1,3 @@
+Bundesgesetz über den Verlauf der Staatsgrenze zwischen der Republik Österreich und der Bundesrepublik Deutschland in der Sektion III des Grenzabschnittes „Scheibelberg-Bodensee“ sowie in einem Teil des Grenzabschnittes „Dreieckmark-Dandlbachmündung“ und des Grenzabschnittes „Saalach-Scheibelberg“ StF: [BGBl. Nr. 634/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_634_0/1993_634_0.pdf>) (NR: GP XVII [RV 1106](<https://www.parlament.gv.at/gegenstand/XVII/I/1106>) [AB 1186](<https://www.parlament.gv.at/gegenstand/XVII/I/1186>) [S. 129.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/129>) BR: [AB 3807](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3807>) [S. 525.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/525>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 16. Juli 1959, betreffend die Ratifikation des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt durch die Bundesrepublik Deutschland StF: [BGBl. Nr. 183/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_183_0/1959_183_0.pdf>)

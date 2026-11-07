@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Arbeit und Soziales über die Aufhebung des § 1 Abs. 2 Z 2 der Richtlinien der Allgemeinen Unfallversicherungsanstalt über die Leistung einer Integritätsabgeltung gemäß § 213a ASVG durch den Verfassungsgerichtshof StF: [BGBl. Nr. 504/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_504_0/1996_504_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 392/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_392_0/1996_392_0.pdf>), wird kundgemacht:

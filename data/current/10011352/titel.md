@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 17. Feber 1961, betreffend den Beitritt weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 57/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_57_0/1961_57_0.pdf>)

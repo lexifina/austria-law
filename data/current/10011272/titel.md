@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 19. Februar 1951 über den Beitritt der Republik Österreich zur „Technischen Einheit im Eisenbahnwesen, Fassung 1938“. StF: [BGBl. Nr. 56/1951](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_56_0/1951_56_0.pdf>)

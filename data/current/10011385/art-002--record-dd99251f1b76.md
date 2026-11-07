@@ -1,0 +1,9 @@
+## Artikel II
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Vor dem 1. Jänner 1989 genehmigte Fahrschulen müssen ab dem 1. Juli 1989 dem § 64 a Abs. 3 sowohl am Standort als auch bei Fahrschulkursen außerhalb des Standortes, und ab 1. Jänner 1990 dem § 64 a Abs. 1, 2 und 4 entsprechen.
+
+(2) Fahrschulkurse, die vor dem 1. Jänner 1989 begonnen wurden, sind von § 64 b ausgenommen.
+
+(3) Vor dem 1. Juli 1989 erteilte Fahrschullehrer- und Fahrlehrerberechtigungen bleiben unberührt.

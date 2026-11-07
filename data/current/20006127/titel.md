@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über den Ersatz der Aufwendungen für Mitglieder des Hochschulrates an der Hochschule für Agrar- und Umweltpädagogik Wien StF: [BGBl. II Nr. 457/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/457>)
+
+Auf Grund des § 12 Abs. 11 des Hochschulgesetzes 2005, [BGBl. I Nr. 30/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/30>), in der Fassung der Bundesgesetze [BGBl. I Nr. 71/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/71>) und [BGBl. I Nr. 134/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/134>), wird verordnet:

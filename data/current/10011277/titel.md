@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 5. März 1953, betreffend den Beitritt Koreas zum Abkommen über die internationale Zivilluftfahrt StF: [BGBl. Nr. 37/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_37_0/1953_37_0.pdf>)

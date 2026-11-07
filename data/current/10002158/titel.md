@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 28. November 1969 betreffend das Inkrafttreten und den Geltungsbereich des Abkommens von Nizza über die internationale Klassifikation von Waren und Dienstleistungen für Fabrik- oder Handelsmarken vom 15. Juni 1957 StF: [BGBl. Nr. 404/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_404_0/1969_404_0.pdf>)

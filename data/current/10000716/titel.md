@@ -1,0 +1,3 @@
+Bundesgesetz vom 19. März 1981 über eine weitere Änderung der Landesgrenze zwischen dem Land Oberösterreich und dem Land Salzburg im Bereich der Moosache StF: [BGBl. Nr. 193/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_193_0/1981_193_0.pdf>) (NR: GP XV [RV 597](<https://www.parlament.gv.at/gegenstand/XV/I/597>) [AB 650](<https://www.parlament.gv.at/gegenstand/XV/I/650>) [S. 67.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/67>) BR: [AB 2301](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2301>) [S. 408.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/408>))
+
+Der Nationalrat hat beschlossen:

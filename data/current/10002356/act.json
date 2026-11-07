@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002356",
+  "short_title": "Hoheitszeichen - USA",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002379",
+    "valid_from": "1976-12-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002356&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:02:58.330950+00:00",
+    "response_sha256": "d7abe6f2fe3ba484bcdad6160401fa6575aa3c8319350bcc42bd4dc21d6ee147",
+    "snapshot_sha256": "ce6dd26c85a12fef18c6f757b01d8c5c013014e8cefc98027e82f71c88e39f03",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f5bb686cf20464a318d6951ebc3a14fa75bb25fbe0482505fca8ef62a67ea2b",
+      "sha256": "e256744c3502bca5f7332b883d00aed80917ada9bee570f9e842a5b326d70b82",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 9. November 1976 betreffend staatliche Hoheitszeichen der Vereinigten Staaten von Amerika StF: BGBl. Nr. 644/1976"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 644/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_644_0/1976_644_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b0bd156ab2b65a43be1aa083057fd0be28684109b8a11fd1b520ab4828f8f87",
+      "sha256": "d5ad4eb76d208477a5da5e1901ba9779db6aa722ec5f42b9005157ee6fd9f40c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

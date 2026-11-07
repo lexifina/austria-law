@@ -1,0 +1,3 @@
+Bundesgesetz über die Restrukturierung von Unternehmen (Restrukturierungsordnung – ReO) StF: [BGBl. I Nr. 147/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/147>) (NR: GP XXVII [RV 950](<https://www.parlament.gv.at/gegenstand/XXVII/I/950>) [AB 981](<https://www.parlament.gv.at/gegenstand/XXVII/I/981>) [S. 115.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/115>) BR: [AB 10705](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10705>) [S. 929.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/929>)) \[CELEX-Nr.: [32019L1023](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1023:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

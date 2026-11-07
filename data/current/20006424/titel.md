@@ -1,0 +1,3 @@
+Verordnung des Bundeskanzlers über die Anbietungs- und Ablieferungspflicht von Druckwerken, sonstigen Medienwerken und periodischen elektronischen Medien nach dem Mediengesetz (Pflichtablieferungsverordnung – PflAV) StF: [BGBl. II Nr. 271/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/271>)
+
+Auf Grund der §§ 43, 43a und 43b des Mediengesetzes, [BGBl. Nr. 314/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_314_0/1981_314_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 8/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/8>), wird – hinsichtlich der §§ 6 bis 14 im Einvernehmen mit der Bundesministerin für Unterricht, Kunst und Kultur und hinsichtlich § 15 nach Anhörung der Bundesministerin für Unterricht, Kunst und Kultur – verordnet:

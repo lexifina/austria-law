@@ -1,0 +1,1 @@
+Notenwechsel vom 5. November 1980 über die Errichtung vorgeschobener österreichischer Grenzdienststellen am Grenzübergang Bayrischzell StF: [BGBl. Nr. 572/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_572_0/1980_572_0.pdf>)

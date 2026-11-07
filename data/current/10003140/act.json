@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003140",
+  "short_title": "Errichtung einer vierten Notarstelle in Dornbirn",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003166",
+    "valid_from": "1993-07-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003140&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:52.726589+00:00",
+    "response_sha256": "6bd8c908fedc47d254828ec5471dc1c070878b024e886fda085c9bf5702f13a1",
+    "snapshot_sha256": "6d9acc46dbfd6cd4ac3472e4fc47fc653b1b95fc43daef6d5875454ed19e6e15",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69e99b3a96784db0955b17b47226282718125da156f8e1b033f69f1f204046e5",
+      "sha256": "e22fd7b9421a41fea8fed3d0fb6fb570c5dffcaba807337efabfdb25503bc5fc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Dornbirn StF: BGBl. Nr. 470/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 470/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_470_0/1993_470_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46a9e58187a8cb92df3a6e68d448c6bf94c704e40fd45e68dcdba91f07b54114",
+      "sha256": "e4d6f192e47e7c1e776396b14ab09f0135354756379ed73fd3974a19c4162469",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

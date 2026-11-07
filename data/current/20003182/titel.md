@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen und das Emblem des Übereinkommens zum Schutz des Kultur- und Naturerbes der Welt StF: [BGBl. II Nr. 33/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/33>)

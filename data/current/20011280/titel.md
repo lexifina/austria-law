@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres, mit der die Verordnung des Bundesministers für Inneres über die Themenbereiche, die Gegenstand der Vertrauenswürdigkeitsprüfung sind (Vertrauenswürdigkeitsprüfungs-Verordnung – VWP-V) erlassen, die Sicherheitsakademie-Bildungsverordnung geändert und die Ausbildungsverordnung Verfassungsschutz und Terrorismusbekämpfung aufgehoben wird StF: [BGBl. II Nr. 402/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/402>)
+
+Auf Grund des § 2a Abs. 4 des Polizeilichen Staatsschutzgesetzes, [BGBl. I Nr. 5/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/5>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 102/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/102>), wird verordnet:

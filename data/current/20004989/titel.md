@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie zur Übertragung der Durchführung von Förderungsmaßnahmen im Bereich des Hochwasserschutzes an den Landeshauptmann (Übertragungsverordnung Hochwasserschutz – ÜV-HWS) StF: [BGBl. II Nr. 351/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/351>)
+
+Auf Grund des Art. 104 Abs. 2 des Bundes-Verfassungsgesetzes, [BGBl. Nr. 1/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=1/1930&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 121/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/121>), wird verordnet:

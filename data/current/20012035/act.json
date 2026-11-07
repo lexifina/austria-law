@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012035",
+  "short_title": "75. Nachtrag zum Arzneibuch",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40247444",
+    "valid_from": "2022-10-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012035&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:26:04.610558+00:00",
+    "response_sha256": "c56c3d5a0df9677b91a2b13437d054a6def96d51eaf31a3228e8b3873860a536",
+    "snapshot_sha256": "e05b3a618e2c73cc55ee346ea3a1dc6eef33b18fc0d9aa0b53dfcec22b078423",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c38c8a66e9e83aac90ba2f75ee08c9b51449dce45a6e8fc66f022891fd601ca",
+      "sha256": "27e1d1b22ce18b94d0dc25fd999c0d98cfd1308eec841efd51d6368b930728c1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den 75. Nachtrag zum Arzneibuch StF: BGBl. II Nr. 373/2022"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 373/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/373"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/44"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f310921f6498076a777f4b165682a34a90b1025bffea8018196af9394ce400bc",
+      "sha256": "4f7ae68420a402c2511191b608eb0f7ef0b67cc437f886eb4a53cd77576ec5e8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dce2c537dc1327cef7f3674604f3ed08a9f6f6dba12e16c6f37e7f7fc8f85d07",
+      "sha256": "a3c612109417158fe5c638c04f72b0e94054be0d6fcc53b0205a7d9572bc27a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

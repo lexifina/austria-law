@@ -1,0 +1,677 @@
+## Anlage <sup>1</sup>)
+
+## Muster und Grundrisse von Vereinbarungen, Satzungen und Verträgen im Bereich der grenzüberschreitenden Zusammenarbeit (zwischen Gebietskörperschaften)
+
+Dieses abgestufte System von Mustervereinbarungen unterscheidet je nach der Ebene des Abschlusses der Vereinbarung zwei Hauptgruppen:
+
+- – Muster zwischenstaatlicher Vereinbarungen über die grenzüberschreitende Zusammenarbeit auf regionaler und örtlicher Ebene;
+
+- – Grundrisse von Vereinbarungen, Verträgen und Satzungen, die als Grundlage für die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften dienen können.
+
+Wie die nachstehende Tabelle zeigt, fallen nur die beiden Muster zwischenstaatlicher Vereinbarungen über die Förderung der grenzüberschreitenden Zusammenarbeit und über die regionale grenzüberschreitende Abstimmung ausschließlich in die Zuständigkeit der Staaten. Die anderen zwischenstaatlichen Vereinbarungen stecken nur den rechtlichen Rahmen für den Abschluß von Vereinbarungen oder Verträgen zwischen Gebietskörperschaften ab, deren Grundrisse in die zweite Gruppe eingestuft worden sind.
+
+- 1\. MUSTER ZWISCHENSTAATLICHER VEREINBARUNGEN
+
+  Allgemeine Klauseln für zwischenstaatliche Vereinbarungen
+
+- 1.1 Muster einer zwischenstaatlichen Vereinbarung über die Förderung der grenzüberschreitenden Zusammenarbeit
+
+- 1.2 Muster einer zwischenstaatlichen Vereinbarung über die regionale grenzüberschreitende Abstimmung
+
+- 1.3 Muster einer zwischenstaatlichen Vereinbarung über die örtliche grenzüberschreitende Abstimmung
+
+- 1.4 Muster einer zwischenstaatlichen Vereinbarung über die vertragliche grenzüberschreitende Zusammenarbeit zwischen örtlichen Behörden
+
+- 1.5 Muster einer zwischenstaatlichen Vereinbarung über die Organe der grenzüberschreitenden Zusammenarbeit zwischen örtlichen Behörden
+
+- 2\. GRUNDRISSE VON VEREINBARUNGEN, SATZUNGEN UND VERTRÄGEN, DIE ZWISCHEN DEN ÖRTLICHEN BEHÖRDEN GESCHLOSSEN WERDEN
+
+- 2.1 Grundriß einer Vereinbarung zur Schaffung einer Gruppe für die Abstimmung zwischen örtlichen Behörden
+
+- 2.2 Grundriß einer Vereinbarung zur Koordinierung bei der Abwicklung der grenzüberschreitenden örtlichen öffentlichen Angelegenheiten
+
+- 2.3 Grundriß einer Vereinbarung zur Schaffung von grenzüberschreitenden privatrechtlichen Vereinigungen
+
+- 2.4 Grundriß eines („privatrechtlichen“) Vertrags über die Bereitstellung von Lieferungen oder Leistungen zwischen örtlichen Körperschaften in Grenzgebieten
+
+- 2.5 Grundriß eines („öffentlich-rechtlichen“) Vertrags über die Bereitstellung von Lieferungen oder Leistungen zwischen örtlichen Körperschaften in Grenzgebieten
+
+- 2.6 Grundriß einer Vereinbarung zur Schaffung von Organen für die grenzüberschreitende interkommunale Zusammenarbeit
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(1) Wie bereits in Artikel 3 Absatz 1 (Unterabsatz 2) gesagt, dienen diese Muster und Grundrisse von Vereinbarungen, Satzungen und Verträgen lediglich als Anhaltspunkt und haben keinen Vertragscharakter.
+
+- 1\. MUSTER ZWISCHENSTAATLICHER VEREINBARUNGEN
+
+Einleitende Bemerkung: Das System der zwischenstaatlichen Vereinbarungen hat insbesondere zum Ziel, den Rahmen, die Form und die Grenzen genau festzulegen, welche die Staaten den Gebietskörperschaften setzen möchten, sowie die rechtlichen Unsicherheiten zu beseitigen, die Probleme aufwerfen können (Bestimmung des anzuwendenden Rechts, gerichtliche Zuständigkeit, mögliche Rechtsbehelfe usw.).
+
+Im übrigen hätte der Abschluß internationaler Vereinbarungen zwischen den beteiligten Staaten zur Entwicklung der grenzüberschreitenden Zusammenarbeit zwischen örtlichen Behörden zweifellos positive Auswirkungen in folgenden Bereichen:
+
+- – amtliche Anerkennung der Rechtmäßigkeit dieser Zusammenarbeitsverfahren und Ermutigung der örtlichen Behörden, sie anzuwenden;
+
+- – Rolle der Kontroll-, Aufsichts- und Überwachungsbehörden und Voraussetzungen für ihr Eingreifen;
+
+- – gegenseitige Unterrichtung der Staaten;
+
+- – mögliche Verbindungen zwischen diesen Formen der Zusammenarbeit und anderen Verfahren für ein abgestimmtes Vorgehen in Grenzgebieten;
+
+- – Änderung bestimmter Rechtsvorschriften oder ihrer Auslegung, welche die grenzüberschreitende Zusammenarbeit behindern usw.
+
+Das oben beschriebene System von Mustervereinbarungen mit verschiedenen Wahlmöglichkeiten ermöglicht es den Regierungen, der grenzüberschreitenden Zusammenarbeit den ihnen am besten zusagenden Rahmen zu geben, ausgehend von der Vereinbarung über die Förderung der grenzüberschreitenden Zusammenarbeit (1.1) als Grundlage, die nach Bedarf durch die anderen Muster ergänzt wird (Mustervereinbarungen 1.2 bis 1.5). Die Staaten können von einer oder von mehreren oder sogar von allen Möglichkeiten Gebrauch machen, entweder gleichzeitig oder nacheinander. Im Falle von Vereinbarungen zwischen Staaten mit ähnlichen Rechtssystemen, beispielsweise den skandinavischen Staaten, dürften derart spezielle Vereinbarungen nicht erforderlich sein.
+
+## Allgemeine Klauseln für die Mustervereinbarungen 1.1 bis 1.5
+
+## Artikel a
+
+(1) Als örtliche Behörden im Sinne dieser Vereinbarung gelten die Behörden, Körperschaften oder Organe, die örtliche Aufgaben nach dem innerstaatlichen Recht jedes Staates wahrnehmen.
+
+(2) Als regionale Behörden im Sinne dieser Vereinbarung gelten die Behörden, Körperschaften oder Organe, die regionale Aufgaben nach dem innerstaatlichen Recht jedes Staates wahrnehmen <sup>1</sup>).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Absatz 2 entfällt in den Mustervereinbarungen 1.3, 1.4 und 1.5.
+
+## Artikel b
+
+Diese Vereinbarung läßt die verschiedenen bestehenden Arten der grenzüberschreitenden Zusammenarbeit zwischen den Vertragsstaaten unberührt, insbesondere diejenigen, die auf einer internationalen Übereinkunft beruhen.
+
+## Artikel c
+
+Die Vertragsparteien unterrichten die regionalen und örtlichen Behörden über die Handlungsmöglichkeiten, die ihnen zur Verfügung stehen, und ermutigen sie, davon Gebrauch zu machen.
+
+## Artikel d
+
+Der Ausdruck „übergeordnete Behörden“ in dieser Vereinbarung bezieht sich auf die staatlichen Kontroll-, Aufsichts- und Überwachungsbehörden, die von jeder Vertragspartei bestimmt sind.
+
+## Artikel e
+
+Diese Vereinbarung läßt Umfang und Art der Befugnisse der örtlichen Behörden unberührt, wie sie im innerstaatlichen Recht der Vertragsstaaten bestimmt sind.
+
+## Artikel f
+
+Jeder Staat kann jederzeit die Teile seines Hoheitsgebiets, die Gegenstände und die Formen der Zusammenarbeit bezeichnen, die von der Anwendung dieser Vereinbarung ausgeschlossen sind.
+
+Diese Bezeichnung darf jedoch die im Rahmen der bereits durchgeführten Zusammenarbeit erworbenen Rechte nicht beeinträchtigen.
+
+## Artikel g
+
+Die Vertragsparteien halten den Generalsekretär des Europarats über die Tätigkeit der Kommissionen, Aussschüsse und anderen Gremien, die eine Aufgabe nach dieser Vereinbarung erfüllen, auf dem laufenden.
+
+## Artikel h
+
+Die Vertragsparteien können an dieser Vereinbarung durch einfachen Notenwechsel geringfügige Änderungen vornehmen, wenn sich diese nach ihrer Erfahrung als zweckmäßig erweisen.
+
+## Artikel i
+
+(1) Jede Vertragspartei notifiziert der anderen den Abschluß der nach ihrem innerstaatlichen Recht erforderlichen Verfahren zur Inkraftsetzung dieser Vereinbarung; diese tritt mit dem Tag der letzten Notifikation in Kraft.
+
+(2) Diese Vereinbarung wird für die Dauer von fünf Jahren nach ihrem Inkrafttreten geschlossen. Wird sie nicht sechs Monate vor ihrem Außerkrafttreten gekündigt, so verlängert sie sich stillschweigend zu denselben Bedingungen um weitere Zeitabschnitte von jeweils fünf Jahren.
+
+(3) Die Vertragspartei, die ihre Kündigung notifiziert, kann deren Geltung auf bestimmte ausdrücklich bezeichnete Artikel, auf bestimmte geographische Regionen oder auf bestimmte Tätigkeitsbereiche begrenzen. In diesem Fall bleibt die Vereinbarung in bezug auf den übrigen Inhalt in Kraft, sofern sie nicht von der oder den anderen Vertragsparteien innerhalb von vier Monaten nach Eingang der Teilkündigung gekündigt wird.
+
+(4) Die Vertragsparteien können jederzeit vereinbaren, die Anwendung dieser Vereinbarung für eine bestimmte Zeit auszusetzen. Sie können ebenso vereinbaren, daß die Tätigkeit einer bestimmten Kommission oder eines bestimmten Ausschusses ausgesetzt oder beendet wird.
+
+- 1.1 Muster einer zwischenstaatlichen Vereinbarung über die Förderung der grenzüberschreitenden Zusammenarbeit
+
+Einleitende Bemerkung: Es handelt sich um ein Muster einer zwischenstaatlichen Vereinbarung, die allgemeine Grundbestimmungen enthält und die entweder ausschließlich oder zusammen mit einer oder mehreren der nachstehend aufgeführten zwischenstaatlichen Mustervereinbarungen geschlossen werden kann.
+
+Die Regierungen (von) .....................................................................................................................
+
+.................................................................................................................................................... und
+
+(von) ................................................................................................................................................–
+
+im Bewußtsein der aus der grenzüberschreitenden Zusammenarbeit erwachsenden Vorteile, wie sie in dem Europäischen Rahmenübereinkommen über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften aufgezeigt sind – haben folgendes vereinbart:
+
+## Artikel 1
+
+Die Vertragsparteien verpflichten sich, die Möglichkeiten der grenzüberschreitenden Zusammenarbeit auf regionaler und örtlicher Ebene zu erforschen und zu fördern.
+
+Unter grenzüberschreitender Zusammenarbeit verstehen sie alle abgestimmten Maßnahmen administrativer, technischer, wirtschaftlicher, sozialer oder kultureller Art zur Festigung und Entwicklung der nachbarschaftlichen Beziehungen zwischen Gebieten auf beiden Seiten der Grenze sowie den Abschluß geeigneter Vereinbarungen zur Lösung der in diesem Bereich auftretenden Probleme.
+
+Diese Maßnahmen könnten insbesondere auf die Verbesserung der Voraussetzungen für die Regional- und Stadtentwicklung, den Schutz der Naturschätze, die gegenseitige Hilfe im Unglücks- und Katastrophenfall und die Verbesserung der öffentlichen Dienstleistungen gerichtet sein.
+
+## Artikel 2
+
+Die Vertragsparteien bemühen sich in gegenseitiger Abstimmung, den regionalen Behörden in ihrem Zuständigkeitsbereich die erforderlichen Mittel zur Verfügung zu stellen, damit sie die Zusammenarbeit untereinander begründen können.
+
+## Artikel 3
+
+Sie bemühen sich ferner, Maßnahmen der örtlichen Behörden zur Herstellung und zum Ausbau der grenzüberschreitenden Zusammenarbeit zu fördern.
+
+## Artikel 4
+
+Die an einer grenzüberschreitenden Zusammenarbeit im Rahmen dieser Vereinbarung teilnehmenden örtlichen und regionalen Behörden genießen dieselben Erleichterungen und denselben Schutz wie im Fall einer innerstaatlichen Zusammenarbeit.
+
+Die zuständigen Behörden jeder Vertragspartei sorgen dafür, daß die erforderlichen Mittel zur Deckung der Kosten der Arbeit der Organe bereitgestellt werden, die mit der Förderung der grenzüberschreitenden Zusammenarbeit im Rahmen dieser Vereinbarung beauftragt sind.
+
+## Artikel 5
+
+Jede Vertragspartei beauftragt die von ihr bezeichneten Organe, Kommissionen oder Einrichtungen, die geltenden innerstaatlichen Gesetze und sonstigen Vorschriften zu prüfen, um eine Änderung der Bestimmungen vorzuschlagen, welche den Ausbau der örtlichen grenzüberschreitenden Zusammenarbeit behindern könnten. Diese Organe untersuchen insbesondere die Verbesserung der Steuer- und Zollvorschriften, der Regeln auf dem Gebiet der Devisen und des Kapitaltransfers sowie der Regelungen für das Eingreifen der übergeordneten Behörden, insbesondere im Bereich der Kontrolle, Aufsicht und Überwachung.
+
+Vor Anwendung der in Absatz 1 bezeichneten Maßnahmen stimmen sich die beteiligten Vertragsparteien soweit wie nötig ab und teilen einander die erforderlichen Informationen mit.
+
+## Artikel 6
+
+Die Vertragsparteien bemühen sich, durch ein Schiedsverfahren oder auf andere Weise die Lösung strittiger Fragen von örtlicher Bedeutung herbeizuführen, deren Beilegung Voraussetzung für den Erfolg der Maßnahmen der grenzüberschreitenden Zusammenarbeit ist.
+
+- 1.2 Muster einer zwischenstaatlichen Vereinbarung über die regionale grenzüberschreitende Abstimmung
+
+Einleitende Bemerkung: Diese Vereinbarung kann entweder einzeln oder in Verbindung mit einer oder mehreren der zwischenstaatlichen Mustervereinbarungen geschlossen werden (Muster 1.1 bis 1.5).
+
+## Artikel 1
+
+Zur Förderung der grenzüberschreitenden Abstimmung in der in der Anlage zu dieser Vereinbarung bezeichneten Region setzen die Vertragsparteien eine gemischte Kommission (im folgenden als „Kommission“ bezeichnet) und gegebenenfalls einen oder mehrere regionale Ausschüsse (im folgenden als „Ausschüsse“ bezeichnet) ein, die beauftragt sind, Fragen bezüglich der grenzüberschreitenden Abstimmung zu behandeln.
+
+## Artikel 2
+
+(1) Die Kommission und die Ausschüsse werden aus Delegationen gebildet, deren Mitglieder von jeder der Vertragsparteien bestimmt werden.
+
+(2) Die Delegationen der Kommission bestehen aus höchstens acht Mitgliedern, von denen mindestens drei die regionalen Behörden vertreten. Die Vorsitzenden der Delegationen in den Ausschüssen oder ihre Vertreter nehmen mit beratender Stimme an den Arbeiten der Kommission teil. <sup>1</sup>)
+
+(3) Die Ausschüsse, die sich aus ... Delegationen mit ... Mitgliedern zusammensetzen, werden auf Anregung der Kommission und im Einvernehmen mit den regionalen und örtlichen Behörden der in dieser Vereinbarung genannten Grenzgebiete eingesetzt. Die Delegationen in den Ausschüssen bestehen aus Vertretern dieser Behörden oder regionaler oder örtlicher Organe. Außerdem wird ein Delegierter von den Zentralbehörden bestimmt. Dieser wird gegebenenfalls aus dem Kreis der Organe gewählt, welche die Zentralbehörden in den Grenzgebieten vertreten, für die diese Ausschüsse zuständig sind.
+
+(4) Die Kommission tritt mindestens einmal jährlich zusammen. Die Ausschüsse treten nach Bedarf zusammen, mindestens jedoch zweimal jährlich.
+
+(5) Die Kommission und die Ausschüsse geben sich eine Geschäftsordnung.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Die Angaben für die Anzahl der Mitglieder der Kommission sind nur als Anregung gedacht und müssen der jeweiligen Lage angepaßt werden, wie übrigens alle Bestimmungen dieser Mustervereinbarung. Durch diese Angaben wollten die Verfasser der Mustervereinbarungen die Notwendigkeit unterstreichen, Kommissionen zu schaffen, die aus einer begrenzten Anzahl von Mitgliedern bestehen und in der Lage sind, wirksam zu arbeiten. Außerdem wollten sie einen Hinweis auf das Verhältnis zwischen den Vertretern der Zentralbehörden einerseits und den Vertretern der regionalen Behörden andererseits geben.
+
+## Artikel 3
+
+Jede Vertragspartei übernimmt die Kosten für ihre Delegation in der Kommission.
+
+Die Kosten für die Delegationen in den Ausschüssen werden von den Behörden übernommen, die diese Delegationen eingesetzt haben.
+
+## Artikel 4
+
+Um die Koordinierung und die Kontinuität der Arbeiten der Kommission und der Ausschüsse zu gewährleisten, schaffen die Vertragsparteien nach Bedarf ein Sekretariat, dessen Zusammensetzung, Sitz, Arbeitsmodalitäten und Finanzierung durch eine Ad-hoc-Vereinbarung zwischen den Vertragsparteien auf Vorschlag der Kommission oder andernfalls durch die Kommission selbst festgesetzt werden.
+
+## Artikel 5
+
+Die Grenzgebiete, für die diese Vereinbarung gilt, werden in einer Anlage zu der Vereinbarung festgelegt, deren Inhalt durch einfachen Notenwechsel geändert werden kann.
+
+## Artikel 6
+
+(1) Gegenstand der grenzüberschreitenden Abstimmung sind Fragen aus folgenden Bereichen <sup>1</sup>): – Stadt- und Regionalentwicklung – Verkehrs- und Nachrichtenwesen (öffentliche Verkehrsmittel, Straßen und Autobahnen, gemeinsame Flughäfen, Wasserstraßen, Seehäfen usw.) – Energie (Kraftwerke, Versorgung mit Gas, Elektrizität, Wasser usw.) – Naturschutz (schutzbedürftige Stätten, Erholungsgebiete, Naturparks usw.) – Gewässerschutz (Bekämpfung der Verschmutzung, Bau von Kläranlagen usw.) – Immissionsschutz (Luftverschmutzung, Lärmbekämpfung, lärmfreie Zonen usw.) – Unterrichtswesen, Berufsbildung und Forschung – öffentliches Gesundheitswesen (zB Benutzung eines Krankenhauses, das in einem der Gebiete liegt, durch die Einwohner des anderen Gebiets) – Kultur, Freizeit und Sport (Theater, Orchester, Sportzentren, Feriendörfer, Jugendhäuser usw.) – gegenseitige Hilfe im Unglücks- und Katastrophenfall (Brand, Überschwemmungen, Epidemien, Flugzeugunfälle, Erdbeben, Bergunfälle usw.) – Fremdenverkehr (gemeinsame Unternehmungen zur Förderung des Fremdenverkehrs) – Probleme, die sich durch Grenzgänger stellen (Verkehrsmittel, Unterbringung, soziale Sicherheit, Steuerfragen, Arbeitsplatzprobleme und Arbeitslosigkeit usw.) – wirtschaftliche Vorhaben (Industrieansiedlung usw.) – verschiedene Vorhaben (Müllbeseitigungsanlagen, Bau von Abwasserleitungen usw.) – Verbesserung der Agrarstruktur – soziale Infrastruktur
+
+(2) Die Vertragsparteien können durch einfachen Notenwechsel vereinbaren, diese Aufstellung zu ändern.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Diese Aufstellung soll nur als Anhaltspunkt dienen und muß an jeden Fall der Zusammenarbeit angepaßt werden. Sie darf nicht so ausgelegt werden, als ändere sie die Zuständigkeiten der verschiedenen Gebietskörperschaften nach dem innerstaatlichen Recht. In der Kommission sind schließlich sowohl die Zentralbehörden als auch die regionalen Behörden vertreten.
+
+## Artikel 7
+
+(1) Vorbehaltlich von Sonderbestimmungen hat die Kommission die Aufgabe, allgemeine Fragen und Grundsatzfragen, wie die Ausarbeitung von Programmen für die Ausschüsse, Koordinierung und Kontakte mit den beteiligten Zentralverwaltungen sowie mit den vor Inkrafttreten dieser Vereinbarung geschaffenen gemischten Kommissionen zu behandeln.
+
+(2) Die Kommission hat insbesondere die Aufgabe, gegebenenfalls den jeweiligen Regierungen ihre Empfehlungen und die Empfehlungen ihrer Ausschüsse sowie etwaige Entwürfe internationaler Übereinkünfte vorzulegen.
+
+(3) Die Kommission kann Sachverständige zur Untersuchung besonderer Fragen heranziehen.
+
+## Artikel 8
+
+(1) Die Ausschüsse haben vor allem die Aufgabe, die Probleme zu untersuchen, die in den in Artikel 6 genannten Bereichen auftreten, und entsprechende Vorschläge und Empfehlungen abzugeben. Solche Probleme können ihnen durch die Kommission, durch die zentralen, regionalen oder örtlichen Behörden der Vertragsparteien sowie durch Institutionen, Verbände oder andere Organe des öffentlichen oder privaten Rechts vorgelegt werden. Sie können sie auch von sich aus aufgreifen.
+
+(2) Die Ausschüsse können zur Untersuchung dieser Probleme Arbeitsgruppen einsetzen. Sie können auch Sachverständige heranziehen und Rechtsgutachten oder Fachberichte anfordern. Die Ausschüsse müssen darauf hinwirken, daß eine möglichst umfassende Konsultation zu Ergebnissen führt, die den Interessen der betroffenen Bevölkerungsgruppen entsprechen.
+
+## Artikel 9
+
+(1) Die Ausschüsse unterrichten die Kommission über die ihnen zur Prüfung vorgelegten Fragen sowie über ihre Schlußfolgerungen.
+
+(2) Erfordern die Schlußfolgerungen Entscheidungen der Kommission oder der jeweiligen Regierungen, so legen die Ausschüsse der Kommission Empfehlungen vor.
+
+## Artikel 10
+
+(1) Sowohl die Kommission als auch die Ausschüsse sind befugt, mit Zustimmung ihrer Mitglieder Fragen von gemeinsamem Interesse zu regeln, soweit ihre Mitglieder nach den jeweiligen Rechtsvorschrfiten der Vertragsparteien dafür zuständig sind.
+
+(2) Die Kommission und die Ausschüsse unterrichten einander über die entsprechenden Beschlüsse.
+
+## Artikel 11
+
+(1) Die Delegationen innerhalb der Kommission oder der Ausschüsse unterrichten einander über die Maßnahmen, die von den zuständigen Behörden auf Grund der nach Artikel 7 Absatz 2 und Artikel 9 Absatz 2 abgegebenen Empfehlungen oder ausgearbeiteten Entwürfe von Übereinkünften getroffen wurden.
+
+(2) Die Kommission und die Ausschüsse prüfen, welche Schritte auf Grund von Maßnahmen der in Absatz 1 genannten zuständigen Behörden unternommen werden sollen.
+
+- 1.3 Muster einer zwischenstaatlichen Vereinbarung über die örtliche grenzüberschreitende Abstimmung
+
+Einleitende Bemerkung: Diese Vereinbarung kann entweder einzeln oder in Verbindung mit einer oder mehreren der zwischenstaatlichen Mustervereinbarungen geschlossen werden (Muster 1.1 bis 1.5).
+
+## Artikel 1
+
+Im Hinblick auf eine bessere gegenseitige Unterrichtung und den Ausbau der Abstimmung zwischen den örtlichen Behörden diesseits und jenseits der Grenze fordern die Vertragsparteien diese Behörden auf, alle örtlichen Probleme von gemeinsamem Interesse im Rahmen von Abstimmungsgruppen zu untersuchen.
+
+## Artikel 2
+
+Die Regeln für die Arbeitsweise dieser Gruppen werden einvernehmlich von ihren Mitgliedern festgelegt. Die übergeordneten Behörden werden an ihren Arbeiten beteiligt oder darüber auf dem laufenden gehalten.
+
+Die Abstimmungsgruppen werden an den Arbeiten der regionalen Kommissionen für die grenzüberschreitende Abstimmung unter von den Kommissionen festgelegten Voraussetzungen beteiligt, wenn solche Kommissionen in der betreffenden Region geschaffen worden sind. Andererseits helfen diese Kommissionen den Gruppen bei ihrer Arbeit.
+
+Sie können auch als Beratungsgruppen bei der Anwendung zwischenstaatlicher Vereinbarungen über einen besonderen Gegenstand tätig werden, die im Rahmen der grenzüberschreitenden Zusammenarbeit geschlossen wurden.
+
+## Artikel 3
+
+Es ist Aufgabe der Abstimmungsgruppen, den Informationsaustausch, die gegenseitige Konsultation, die Prüfung der Fragen von gemeinsamem Interesse sowie die Festlegung gemeinsamer Ziele zu gewährleisten.
+
+Ihre Tätigkeit wird unter Achtung der Verantwortlichkeiten ihrer Mitglieder durchgeführt und bringt keinerlei Zuständigkeitsübertragung mit sich.
+
+Im Rahmen der Vereinbarungen über Zusammenarbeit können die Mitglieder dieser Gruppen jedoch gemeinsam Maßnahmen oder Beschränkungen, die als Richtschnur für ihre jeweilige Tätigkeit dienen sollen, oder vorherige Konsultationsverfahren, die sie einhalten wollen, festlegen.
+
+## Artikel 4 (Alternative)
+
+Zur Erleichterung der Tätigkeit dieser Abstimmungsgruppen können die beteiligten örtlichen Behörden im Rahmen der ihnen nach dem innerstaatlichen Recht zustehenden Befugnisse Vereinigungen gründen, die eine Rechtsgrundlage für ihre Zusammenarbeit liefern sollen.
+
+Diese Vereinigungen werden auf der Grundlage des bürgerlichen Rechts der Vereine oder des Handelsrechts eines der betroffenen Staaten gegründet. Zur Anwendung des gewählten Rechtssystems wird gegebenenfalls von den Bedingungen, Förmlichkeiten oder besonderen Genehmigungen abgesehen, die mit der Staatsangehörigkeit der Mitglieder dieser Verbände zusammenhängen.
+
+Die den übergeordneten Behörden nach Artikel 2 zur Verfügung gestellten Informationen umfassen jede Auskunft über die Tätigkeit der im vorliegenden Artikel genannten Vereinigungen.
+
+- 1.4. Muster einer zwischenstaatlichen Vereinbarung über die vertragliche grenzüberschreitende Zusammenarbeit zwischen örtlichen Behörden
+
+Einleitende Bemerkung: Diese Vereinbarung kann entweder einzeln oder in Verbindung mit einer oder mehreren der zwischenstaatlichen Mustervereinbarungen geschlossen werden (Muster 1.1 bis 1.5).
+
+## Artikel 1
+
+Die grenzüberschreitende Zusammenarbeit zwischen örtlichen Behörden wird insbesondere durch Verträge mit administrativem, wirtschaftlichem oder technischem Charakter durchgeführt.
+
+## Artikel 2
+
+Die Verträge über die grenzüberschreitende Zusammenarbeit werden von den örtlichen Behörden im Rahmen der ihnen nach dem innerstaatlichen Recht zustehenden Befugnisse geschlossen.
+
+Sie betreffen insbesondere die Bereitstellung von Lieferungen oder Leistungen, die Durchführung gemeinsamer Unternehmungen, die Gründung von Vereinigungen, die auf der Grundlage des bürgerlichen Rechts oder des Handelsrechts eines der Vertragsstaaten gebildet werden, oder die Beteiligung an derartigen Vereinigungen. <sup>1</sup>)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Der Zusammenhang der Vereinbarung wäre auch gewährleistet, wenn dieser Absatz nicht eingefügt würde.
+
+## Artikel 3
+
+Die Vertragspartner bestimmen das auf die genannten Verträge anzuwendende Recht unter Bezugnahme auf das Recht der Verträge (öffentlich und privat) eines der Vertragsstaaten dieser Vereinbarung.
+
+Sie bestimmen ebenfalls nach Bedarf die zulässigen Abweichungen von den nicht zwingenden Bestimmungen dieses Rechts.
+
+Wenn der Vertrag nichts vorsieht, ist das Recht des Staates anzuwenden, dem die örtliche Behörde angehört, die auf Grund der Vereinbarung mit der Durchführung der umfangreichsten Sachleistung beauftragt ist, oder andernfalls des Staates, dem die örtliche Behörde angehört, deren finanzielle Verpflichtung am größten ist.
+
+Unter allen Umständen behalten die Personen, deren örtliche Behörden den Vertrag geschlossen haben, gegen diese jedes Klage- und Beschwerderecht, das ihnen gegenüber diesen Behörden zustände, wenn diese weiterhin verpflichtet wären, die Lieferungen oder Leistungen vorzunehmen. Den örtlichen Behörden, gegen die eine solche Klage erhoben oder eine solche Beschwerde eingelegt worden ist, steht ein Rückgriffsanspruch gegenüber den örtlichen Behörden zu, welche die Lieferungen oder Leistungen übernommen haben.
+
+## Artikel 4
+
+Die Vorschläge zum Abschluß oder zur Änderung von Verträgen unterliegen gleichzeitig in jedem Staat den üblichen Vorschriften für das Eingreifen der übergeordneten Behörden. Es ist jedoch keine Genehmigung seitens der Behörden erforderlich, die Vertragspartner sind. Jeder Beschluß einer übergeordneten Behörde, der den Abschluß oder die Anwendung eines Vertrages über die grenzüberschreitende Zusammenarbeit verhindern oder seine Aufhebung bewirken soll, bedarf einer vorherigen Abstimmung mit den entsprechenden übergeordneten Behörden der anderen beteiligten Staaten.
+
+## Artikel 5
+
+Im Fall einer Streitigkeit bestimmt das anzuwendende Recht das zuständige Gericht. Die Verträge über die grenzüberschreitende Zusammenarbeit können jedoch Schiedsklauseln vorsehen. Benutzer und Dritte behalten die vorhandenen Rechtsmittel gegen die örtlichen Behörden des Staates, dem sie angehören, wobei es Sache dieser Behörden ist, gegen den säumigen Vertragspartner vorzugehen.
+
+Die übergeordneten Behörden treffen alle in ihrer Macht stehenden Maßnahmen, um die sofortige Ausführung der gerichtlichen Entscheidungen zu gewährleisten, ungeachtet dessen, in welchem Staat sich das Gericht befindet, das diese Entscheidungen gefällt hat.
+
+## Artikel 6
+
+Die im Rahmen dieser Vereinbarung geschlossenen Verträge bestehen nach Kündigung der Vereinbarung weiter. Die Verträge enthalten jedoch eine Klausel, welche die Parteien ermächtigt, sie unter Einhaltung einer Kündigungsfrist von mindestens fünf Jahren aufzuheben, wenn diese Vereinbarung selbst gekündigt wurde. Die Vertragsstaaten haben die Möglichkeit, zur Anwendung dieser Klausel aufzufordern.
+
+- 1.5 Muster einer zwischenstaatlichen Vereinbarung über die Organe der grenzüberschreitenden Zusammenarbeit zwischen örtlichen Behörden
+
+Einleitende Bemerkung: Diese Vereinbarung kann einzeln oder in Verbindung mit einer oder mehreren der zwischenstaatlichen Mustervereinbarungen geschlossen werden (Muster 1.1 bis 1.5).
+
+## Artikel 1
+
+Für die Zwecke, die auf Grund des innerstaatlichen Rechts im Rahmen einer Vereinigung oder eines Verbands verwirklicht werden dürfen, können die örtlichen Körperschaften und andere Personen des öffentlichen Rechts an den Gemeindevereinigungen oder -verbänden teilnehmen, die im Hoheitsgebiet einer anderen Vertragspartei nach deren innerstaatlichem Recht gegründet werden.
+
+## Artikel 2
+
+Innerhalb der Grenzen der Zuständigkeiten ihrer Mitglieder sind die in Artikel 1 genannten Vereinigungen oder Verbände berechtigt, ihre Tätigkeit im Zusammenhang mit ihrem Gesellschaftszweck im Hoheitsgebiet jeder der beteiligten Vertragsparteien auszuüben. Dabei unterliegen sie den von diesem Staat erlassenen Vorschriften, sofern er nicht eine Abweichung zuläßt.
+
+## Artikel 3
+
+(1) Die Gründungsakte der Vereinigung oder des Verbands und die Einzelsatzungen sowie die Änderungen dieser Urkunden werden den übergeordneten Behörden aller beteiligten örtlichen Körperschaften zur Genehmigung vorgelegt. Dasselbe gilt für den Eintritt in eine schon bestehende Vereinigung oder in einen schon bestehenden Verband.
+
+(2) Diese Urkunden und die entsprechenden Genehmigungen werden allen beteiligten Bevölkerungsgruppen nach den in jedem Staat üblichen Bekanntmachungsverfahren zur Kenntnis gebracht. Dasselbe gilt für jede Änderung des Geschäftssitzes sowie für alle Beschlüsse über die Personen, die für die Vereinigung oder den Verband handeln können, und die Grenzen ihrer Befugnisse.
+
+(3) Die vorstehend genannten Urkunden werden in den Amtssprachen der Staaten ausgefertigt, in denen sie wirksam werden sollen. Die verschiedenen Fassungen sind gleichermaßen verbindlich.
+
+## Artikel 4
+
+(1) Die Satzung regelt die Rechtsbeziehungen der Vereinigung oder des Verbands. Sie enthält die von den für sie maßgeblichen Rechtsvorschriften verlangten Gegenstände nach Artikel 1. In jedem Fall bezeichnet sie die Mitglieder, den Namen und den Sitz. Sie bestimmt den Auftrag der Vereinigung oder des Verbands und möglicherweise die Aufgaben und den Standort der Einrichtungen, die sie durchführen sollen. Sie regelt die Voraussetzungen, unter denen die Führungs- und Verwaltungsorgane eingesetzt werden, den Umfang der Verpflichtungen der Mitglieder und ihren Beitrag zu den gemeinsamen Ausgaben. Die Führungsorgane müssen mindestens einen Vertreter der beteiligten örtlichen Körperschaften jedes Staates umfassen. Sie legt die Zusammensetzung und die Beratungsweise der Generalversammlung, die Form der Sitzungsprotokolle, die Modalitäten für die Auflösung und die Liquidierung sowie die in Haushaltsfragen und im Rechnungswesen anzuwendenden Regeln fest.
+
+(2) Die Satzung muß außerdem eine Bestimmung enthalten, wonach die Mitglieder auf Grund einer Kündigung, deren Frist in der Satzung festgesetzt wird, aus der Vereinigung austreten können, und zwar nach Begleichung aller der Vereinigung etwa geschuldeten Beträge und nach Bezahlung einer von Sachverständigen veranschlagten Entschädigung an die Vereinigung für die von dieser zugunsten oder im Namen der betreffenden Mitglieder durchgeführten Investitionen oder bestrittenen Ausgaben. Die Satzung legt ferner die Voraussetzungen für die Entlassung oder den Ausschluß von Mitgliedern bei Nichterfüllung der von ihnen übernommenen Verpflichtungen fest.
+
+## Artikel 5
+
+Die Vertragsparteien verpflichten sich, die Genehmigungen zu erteilen, die zur Erfüllung des Auftrags der Vereinigung oder des Verbands in ihrem Hoheitsgebiet erforderlich sind, vorbehaltlich der Erfordernisse der öffentlichen Ordnung und Sicherheit.
+
+## Artikel 6
+
+Kann die Vereinigung oder der Verband durch die Anwendung des innerstaatlichen Rechts im Hoheitsgebiet eines Staates nicht über bestimmte Befugnisse, Rechte oder Vorteile verfügen, die zur wirksamen Erfüllung ihres bzw. seines Auftrags zugunsten der diesem Staat angehörenden beteiligten örtlichen Körperschaften erforderlich sind, so haben diese das Recht und die Pflicht, an Stelle der Vereinigung oder des Verbands zu handeln, um diese Befugnisse, Rechte oder Vorteile auszuüben oder zu erhalten.
+
+## Artikel 7
+
+(1) Die Befugnisse der Kontrolle, Aufsicht oder Überwachung in bezug auf die Vereinigung oder den Verband werden gemäß dem innerstaatlichen Recht von den zuständigen Behörden des Staates ausgeübt, in dem sich der Sitz befindet. Die Behörden sorgen auch für die Wahrung der Interessen der örtlichen Körperschaften, die anderen Staaten angehören.
+
+(2) Die zuständigen Behörden der anderen Staaten haben ein Recht auf Unterrichtung über die Tätigkeit und die Beschlüsse der Vereinigung oder des Verbands und über die in Ausübung der Kontrolle, Aufsicht oder Überwachung getroffenen Maßnahmen. Sie erhalten auf Antrag insbesondere die verabschiedeten Texte und Protokolle der Sitzungen der Organe der Vereinigung oder des Verbands, die Jahresabrechnungen sowie den Haushaltsvoranschlag, wenn es einen solchen gibt, sofern das innerstaatliche Recht ihre Mitteilung an die Kontroll-, Aufsichts- oder Überwachungsbehörden vorschreibt. Sie können unmittelbar mit den Organen der Vereinigung oder des Verbands sowie mit den Kontroll-, Aufsichts- oder Überwachungsbehörden in Verbindung treten, Stellungnahmen an sie richten und darum ersuchen, in bestimmten Fällen und Fragen unmittelbar konsultiert zu werden.
+
+(3) Die zuständigen Behörden der anderen Staaten haben ebenfalls das Recht, der Vereinigung oder dem Verband zu notifizieren, daß sie dagegen sind, daß die örtlichen Körperschaften in ihrem Zuständigkeitsbereich weiterhin an der Vereinigung oder dem Verband beteiligt sind. Diese gebührend begründete Notifikation wird als Ausschlußgrund betrachtet und als solcher in der Satzung aufgeführt. Die in den Absätzen 1 und 2 genannten Behörden haben auch das Recht, sich durch einen Delegierten bei den Führungsorganen der Vereinigung oder des Verbands vertreten zu lassen, wobei dieser Delegierte die Möglichkeit hat, an allen Sitzungen der genannten Organe teilzunehmen und ihre Tagesordnungen und Protokolle zu erhalten.
+
+## Artikel 8
+
+Die Lieferungen oder Leistungen, mit denen die Vereinigung oder der Verband nach der Satzung im Hoheitsgebiet ihrer bzw. seiner Mitglieder beauftragt ist, werden unter ihrer bzw. seiner Verantwortung und bei völliger Entlastung der Mitglieder durchgeführt. DIe Vereinigung oder der Verband ist dafür auch gegenüber Benutzern und Dritten verantwortlich. Diese behalten jedoch gegenüber den örtlichen Behörden, zu deren Gunsten und in deren Namen die Lieferungen oder Leistungen durchgeführt werden, alle Klage- und Beschwerderechte, die ihnen gegenüber den genannten Behörden zustünden, wenn diese weiterhin verpflichtet wären, die Lieferungen oder Leistungen vorzunehmen. Den Behörden, gegen die eine solche Klage erhoben oder eine solche Beschwerde eingelegt worden ist, steht ein Rückgriffsanspruch gegenüber der Vereinigung oder dem Verband zu.
+
+## Artikel 9
+
+(1) Kommt es nicht zu einem Vergleich, so werden die Streitigkeiten zwischen der Vereinigung oder dem Verband und den Mitgliedern oder zwischen zwei oder mehr Mitgliedern untereinander über die Arbeitsweise der Vereinigung oder des Verbands vor die Verwaltungsbehörden und Gerichte des Staates gebracht, in dem sich der Sitz der Vereinigung oder des Verbands befindet.
+
+(2) Alle anderen Streitigkeiten werden vor die Verwaltungsbehörden und Gerichte gebracht, die nach den üblichen im Hoheitsgebiet der Vertragsstaaten geltenden Vorschriften zuständig sind, sofern nicht die Beteiligten vereinbaren, die Lösung der Streitigkeit einer von ihnen bezeichneten Schiedsstelle zu übertragen.
+
+(3) Die Vertragsstaaten treffen die erforderlichen Maßnahmen, um in ihrem Hoheitsgebiet die Durchführung der Entscheidungen und Urteile zu gewährleisten, die sich aus den vorstehenden Bestimmungen ergeben.
+
+## Artikel 10.
+
+Die Verbände und Vereinigungen, die nach dieser Vereinbarung gebildet werden, bestehen nach Kündigung der Vereinbarung weiter, jedoch unbeschadet des Artikels 7 Absatz 3.
+
+- 2\. GRUNDRISSE VON VEREINBARUNGEN, SATZUNGEN UND VERTRÄGEN, DIE ZWISCHEN DEN ÖRTLICHEN BEHÖRDEN GESCHLOSSEN WERDEN
+
+## Einleitende Bemerkung:
+
+### Grundrisse von Vereinbarungen, Verträgen und Satzungen für örtliche Behörden
+
+Wie den Staaten werden den örtlichen Körperschaften eine Reihe von Vereinbarungen und Verträgen zur Auswahl angeboten. Eine solche Auswahl besteht bereits in einer Anzahl von Staaten, wie sich aus dem erheblichen Umfang der bereits zusammengestellten Dokumentation über geschlossene Vereinbarungen ergibt.
+
+Das vorgeschlagene System umfaßt sechs Grundrisse von Vereinbarungen, Verträgen und Satzungen, die verschiedenen Graden und Möglichkeiten der örtlichen grenzüberschreitenden Zusammenarbeit entsprechen. Je nach dem Zweck und dem Stand der innerstaatlichen Rechtsvorschriften können diese Grundrisse entweder unmittelbar angewendet werden oder bedürfen einer zwischenstaatlichen Vereinbarung über ihre Anwendung.
+
+Allgemein könnte der Abschluß zwischenstaatlicher Vereinbarungen auch dort, wo er nicht unbedingt erforderlich scheint, dazu beitragen, die Bedingungen zu klären, unter denen diese Vereinbarungen von den örtlichen Körperschaften verwendet werden können. Der Abschluß zwischenstaatlicher Vereinbarungen erscheint in jedem Fall erforderlich, wenn die unter Ziffer 2.6 bezeichnete Vereinbarung (Organe für die grenzüberschreitende Zusammenarbeit) angewendet werden soll.
+
+Das System dieser Grundrisse von Vereinbarungen, die für örtliche Körperschaften bestimmt sind, entspricht den zwischenstaatlichen Mustervereinbarungen. Ein Hinweis auf die zwischenstaatlichen Vereinbarungen findet sich in den einleitenden Bemerkungen vor jedem Grundriß.
+
+Auf diese Weise kann man die auf örtlicher Ebene geschaffene Vereinbarungen und Organe und die Formen der grenzüberschreitenden Abstimmung, die auf regionaler oder nationaler Ebene gewählt werden, einbeziehen. So ließen sich beispielsweise die örtlichen Abstimmungsgruppen (siehe Grundriß 2.1) in den Aufbau der in der zwischenstaatlichen Mustervereinbarung über die regionale grenzüberschreitende Abstimmung (siehe 1.2) vorgesehenen Kommissionen, Ausschüsse und Arbeitsgruppen einbeziehen.
+
+Es ist auch darauf hinzuweisen, daß diese Muster schematisch aufgebaut sind, denn es ist nicht möglich, sich alle Probleme vorzustellen, die sich im Einzelfall ergeben können. Diese Grundrisse stellen eine wertvolle Richtschnur dar, können jedoch je nach den Bedürfnissen der örtlichen Körperschaften, die sie verwenden, verändert werden.
+
+Die örtlichen Körperschaften müssen ferner entscheiden, in welcher Weise die Bürger an der grenzüberschreitenden Abstimmung, insbesondere im sozio-kulturellen Bereich, beteiligt werden sollen. Eine solche Beteiligung trüge zweifellos dazu bei, bestimmte Hindernisse für die grenzüberschreitende Zusammenarbeit aus dem Weg zu räumen. Die auf die Interessen der Bürger gegründete Zusammenarbeit hätte so eine solide Grundlage. Ein Weg zur Ermutigung der Beteiligung durch die Allgemeinheit wäre die Schaffung einer Vereinigung. Daher betrifft einer der Vereinbarungsgrundrisse (siehe 2.3) die Schaffung einer privatrechtlichen Vereinigung.
+
+- 2.1 Grundriß einer Vereinbarung zur Schaffung einer Gruppe für die Abstimmung zwischen örtlichen Behörden
+
+Einleitende Bemerkung: Normalerweise ist die Schaffung dieser Art von Gruppe ohne zwischenstaatliche Vereinbarung möglich. Zahlreiche Beispiele beweisen dies. Wenn es jedoch noch rechtliche oder sonstige Ungewißheiten gibt, ist es zweckmäßig, die Bedingungen für den Einsatz dieser Abstimmungsart in einer zwischenstaatlichen Vereinbarung festzulegen (siehe Muster 1.3).
+
+## Ziel der Abstimmungsgruppe und Sitz
+
+## Artikel 1
+
+Die örtlichen Behörden (Vertragsparteien) verpflichten sich, sich auf folgenden in ihren Zuständigkeitsbereich fallenden Gebieten abzustimmen: (Aufführung des oder der Zuständigkeitsbereiche oder möglicherweise Bezugnahme auf „örtliche Nachbarschaftsprobleme“).
+
+Zu diesem Zweck bilden sie eine Abstimmungsgruppe, im folgenden als „Gruppe“ bezeichnet, deren Sitz sich in ... befindet.
+
+Der Auftrag der Gruppe besteht darin, den Informationsaustausch, die Abstimmung und die Konsultation zwischen ihren Mitgliedern in den in Absatz 1 aufgeführten Bereichen zu gewährleisten. Die Mitgliedsbehörden verpflichten sich, ihr alle zur Erfüllung ihres Auftrags erforderlichen Informationen zu übermitteln und sich innerhalb der Gruppe zu konsultieren, bevor Entscheidungen oder Maßnahmen getroffen werden, welche die vorstehend genannten Bereiche betreffen.
+
+## Mitglieder der Gruppe
+
+## Artikel 2
+
+Jede teilnehmende örtliche Behörde wird in der Gruppe durch eine Delegation von ... Mitgliedern vertreten, die von ihr beauftragt werden. Jede Delegation kann sich im Einvernehmen mit der Gruppe von Vertretern privater sozio-ökonomischer Organe und von Sachverständigen begleiten lassen (diese Alternative schließt die Teilnahme anderer Gremien als örtlicher Behörden in der Eigenschaft als Mitglied aus, was diese Möglichkeit von der privatrechtlichen Vereinigung nach 2.3 unterscheidet).
+
+Mögliche Alternative: Die Anzahl der Mitglieder jeder Delegation kann unterschiedlich sein. Mitglieder der Gruppe können die örtlichen und regionalen Behörden, die sozio-ökonomischen Gruppen und die natürlichen Personen werden, die diese Vereinbarung unterschreiben. Die Gruppe beschließt über die Aufnahme neuer Mitglieder. Jede Delegation kann sich im Einvernehmen mit der Gruppe von Vertretern privater Organe oder von Sachverständigen begleiten lassen.
+
+## Aufgaben der Gruppe
+
+## Artikel 3
+
+Die Gruppe kann über alle in Artikel 1 genannten Fragen beraten. Das Protokoll verzeichnet alle Fragen, in denen Übereinstimmung erzielt wurde, sowie die Empfehlungen, deren Übermittlung an die betreffenden Behörden oder Gruppen vereinbart wurde.
+
+Die Gruppe ist befugt, Untersuchungen und Ermittlungen über Fragen ihres Zuständigkeitsbereichs durchführen zu lassen.
+
+## Artikel 4
+
+Die Mitglieder der Gruppe können vereinbaren, der Gruppe die Durchführung bestimmter genau abgegrenzter Aufgaben praktischer Art zu übertragen. Die Gruppe kann außerdem alle Aufträge erfüllen, die ihr von anderen Institutionen übertragen werden.
+
+## Arbeitsweise der Gruppe
+
+## Artikel 5
+
+Die Gruppe gibt sich eine Geschäftsordnung.
+
+## Artikel 6
+
+Die Gruppe wird in der Regel zweimal im Jahr oder auf Antrag eines Drittels der Mitglieder, die einen Punkt für die Tagesordnung vorschlagen, einberufen.
+
+Die Einberufung und die Zusendung der Tagesordnung muß mindestens 14 Tage im voraus erfolgen, um die Vorbereitung der Beratungen innerhalb jeder vertretenen Institution zu ermöglichen.
+
+## Artikel 7
+
+Die Gruppe ernennt aus ihren Reihen einen ständigen Vorstand, dessen Befugnisse und Zusammensetzung sie festlegt.
+
+Der Vorsitz wird entsprechend der Geschäftsordnung oder, wenn dort nichts vorgesehen ist, durch das älteste Mitglied ausgeübt.
+
+## Beziehungen zu Dritten und zu den übergeordneten Behörden
+
+## Artikel 8
+
+In ihren Beziehungen zu Dritten wird die Gruppe durch ihren Vorsitzenden vertreten, sofern nicht die Geschäftsordnung besondere Bestimmungen enthält. Die übergeordneten Behörden, denen die Mitglieder der Gruppe unterstehen, können von ihr auf Antrag alle Informationen über die Arbeit der Gruppe erhalten und sind befugt, einen Beobachter zu ihren Sitzungen zu entsenden.
+
+## Sekretariat und Finanzierung
+
+## Artikel 9
+
+Das Sekretariat wird von einer der Mitgliedsinstitutionen übernommen (mit oder ohne jährliche Ablösung).
+
+Jede Körperschaft hat zu den Sekretariatsunkosten nach den nachstehend festgelegten Modalitäten beizutragen:
+
+..........
+
+Grundsätzlich werden die Informationen und die Dokumentation in der Sprache des Staates versandt, aus dem sie kommen.
+
+## Beitritt und Austritt
+
+## Artikel 10
+
+Mitglieder der Gruppe können die örtlichen und regionalen Behörden werden, die diese Vereinbarung unterschreiben. Die Gruppe entscheidet über die Aufnahme neuer Mitglieder.
+
+## Artikel 11
+
+Jedes Mitglied kann aus der Gruppe durch einfache Notifikation seines Beschlusses an den Vorsitzenden austreten. Der Austritt eines Mitglieds berührt die Arbeitsweise der Gruppe nicht, sofern nicht die Gruppe etwas anderes beschließt.
+
+## Artikel 12
+
+Die Vertragsparteien unterrichten den Generalsekretär des Europarats über den Abschluß dieser Vereinbarung und übermitteln ihm den Wortlaut.
+
+- 2.2 Grundriß einer Vereinbarung zur Koordinierung bei der Abwicklung der grenzübrschreitenden örtlichen öffentlichen Angelegenheiten
+
+Einleitende Bemerkung: In mehreren Staaten ist diese Art von Vereinbarung zur grenzüberschreitenden Koordinierung schon jetzt möglich. Sollte dies nicht der Fall sein, so müßten die Bedingungen für die Anwendung dieser Vereinbarungsart im Rahmen einer vorausgehenden zwischenstaatlichen Vereinbarung festgelegt werden (siehe Muster 1.3).
+
+## Ziel der Vereinbarung
+
+## Artikel 1
+
+Artikel 1 bezeichnet das Ziel und den Gegenstand der Vereinbarung (zB das Streben nach einer einheitlicheren Entwicklung der Grenzregion) und die betroffenen Bereiche.
+
+## Geltungsbereich der Vereinbarung
+
+## Artikel 2
+
+In Artikel 2 ist auf die Hoheitsgebiete hinzuweisen, für welche die Vereinbarung auf zwei (oder drei) Seiten der Grenze gilt.
+
+## Verpflichtungen
+
+## Artikel 3
+
+Dieser Artikel legt die Bedingungen fest, welche die Verwirklichung der Ziele der Vereinbarung (Artikel 1) ermöglichen. Je nach dem materiellen Gegenstand der Vereinbarung können folgende Verpflichtungen vorgesehen werden:
+
+- – Die Vertragsparteien verpflichten sich, sich einem Konsultationsverfahren zu unterziehen, bevor Beschlüsse für verschiedene Maßnahmen gefaßt werden, die sie im Rahmen ihrer Zuständigkeiten und in dem Hoheitsgebiet, das sie verwalten, treffen müssen;
+
+- – die Vertragsparteien verpflichten sich, in ihrem Hoheitsgebiet und im Rahmen ihrer Zuständigkeiten die Maßnahmen zu treffen, die zur Verwirklichung der Ziele dieser Vereinbarung erforderlich sind;
+
+- – die Vertragsparteien verpflichten sich, alles zu unterlassen, was den Zielen dieser Vereinbarung zuwiderlaufen könnte.
+
+## Koordinierung
+
+## Artikel 4
+
+In Artikel 4 werden je nach den Umständen und Erfordernissen jeder Vereinbarung die Bedingungen festgelegt, unter denen die Koordinierung durchgeführt wird:
+
+- – entweder durch Bezeichnung der im Vereinbarungsgrundriß 2.1 angeführten Gruppe mit allgemeiner Zuständigkeit als Abstimmungsgruppe
+
+- – oder durch Schaffung einer besonderen Konsultationsgruppe für den in dieser Vereinbarung genannten Gegenstand
+
+- – oder aber auf dem Weg über einfache unmittelbare zweiseitige Kontakte auf der Ebene der betreffenden Behörden.
+
+## Vergleich
+
+## Artikel 5
+
+Jedes Mitglied der Abstimmungsgruppe (jede Vertragspartei, wenn es keine Gruppe gibt) kann sich an die Gruppe (an die andere Vertragspartei, wenn es keine Gruppe gibt) wenden, wenn sie der Auffassung ist, daß die Vereinbarung nicht angewendet wurde,
+
+- – entweder weil die vorherige Konsultation nicht durchgeführt wurde
+
+- – oder weil die getroffenen Maßnahmen der Vereinbarung nicht entsprechen
+
+- – oder weil die zur Verwirklichung des Zieles der Vereinbarung erforderlichen Maßnahmen nicht getroffen wurden.
+
+Gelangen die Vertragsparteien nicht zu einer Einigung, so können sie sich an eine Vergleichskommission wenden, die beauftragt ist, die Einhaltung der Verpflichtungen zu überwachen.
+
+## Überwachungsinstanz
+
+## Artikel 6
+
+Die Vertragsparteien können die Schaffung einer besonderen Instanz vereinbaren, welche die Einhaltung der Verpflichtungen überwacht; sie besteht aus einer gleichen Anzahl von Sachverständigen, die von den beiden Vertragsparteien ernannt werden, und aus einem neutralen Sachverständigen, dessen Ernennung oder Ernennungsverfahren im voraus vorgesehen ist.
+
+Die Überwachungsinstanz gibt ein Gutachten über die Einhaltung oder Nichteinhaltung der Vereinbarung ab. Sie ist befugt, ihr Gutachten zu veröffentlichen.
+
+## Artikel 7
+
+Die Vertragsparteien unterrichten den Generalsekretär des Europarats über den Abschluß dieser Vereinbarung und übermitteln ihm den Wortlaut.
+
+- 2.3 Grundriß einer Vereinbarung zur Schaffung von grenzüberschreitenden privatrechtlichen Vereinigungen
+
+Einleitende Bemerkung: Es wird davon ausgegangen, daß die Beteiligung einer örtlichen Körperschaft eines Staates an einer privatrechtlichen Vereinigung eines anderen Staates nach denselben Regeln und unter denselben Bedingungen möglich ist, die für die Beteiligung der genannten örtlichen Körperschaft an einer privatrechtlichen Vereinigung ihres eigenen Staates gelten. Wenn dies gegenwärtig nicht der Fall ist, sollte diese Möglichkeit ausdrücklich im Rahmen einer internationalen Vereinbarung zwischen den betreffenden Staaten vorgesehen werden (siehe zwischenstaatliche Mustervereinbarungen 1.3 und 1.4).
+
+Normalerweise müssen sich die privatrechtlichen Vereinigungen den Regeln unterwerfen, die im Recht des Staates vorgesehen sind, in dem die Vereinigung ihren Sitz hat. Nachstehend werden die Bestimmungen aufgeführt, die ihre Satzung festlegen müßte, soweit das anzuwendende Recht sie nicht vorsieht. Außerdem können die Bestimmungen über die Abstimmungsgruppe (siehe Grundriß 2.1) sinngemäß auch für diese Art von Vereinigungen gelten.
+
+Die Satzung bestimmt unter anderem
+
+- 1\. die Gründungsmitglieder der Vereinigung und die Beitrittsbedingungen für neue Mitglieder;
+
+- 2\. den Namen, den Sitz und die Rechtsform der Vereinigung (unter Bezugnahme auf das innerstaatliche Recht);
+
+- 3\. das Ziel der Vereinigung, die Bedingungen für die Erreichung dieser Ziele und die Mittel, die ihr zur Verfügung stehen;
+
+- 4\. die Organe der Vereinigung und insbesondere die Aufgaben und die Arbeitsweise der Generalversammlung (Vertretung und Abstimmung);
+
+- 5\. die Bezeichnung der Verwalter oder Geschäftsführer und ihre Befugnisse;
+
+- 6\. den Umfang der Verpflichtungen der Mitglieder gegenüber Dritten;
+
+- 7\. die Voraussetzungen für die Satzungsänderung und die Auflösung der Vereinigung;
+
+- 8\. die Verpflichtung der Vertragsparteien, den Generalsekretär des Europarats über die Schaffung einer grenzüberschreitenden Vereinigung zu unterrichten und ihm die Satzung zu übermitteln.
+
+- 2.4 Grundriß eines („privatrechtlichen“) Vertrags über die Bereitstellung von Lieferungen oder Leistungen zwischen örtlichen Körperschaften in Grenzgebieten
+
+Einleitende Bemerkung: Es wird davon ausgegangen, daß die örtlichen Körperschaften befugt sind, derartige Verträge mit den örtlichen Behörden anderer Staaten abzuschließen. Wenn dies nicht der Fall ist, sollte diese Möglichkeit im Rahmen einer zwischenstaatlichen Vereinbarung vorgesehen werden (siehe Muster 1.4).
+
+Es handelt sich um einen Vertragstyp, dessen sich die örtlichen Körperschaften beim Verkauf, der Vermietung, auf dem Arbeitsmarkt, bei der Lieferung von Gütern oder Leistungen, bei der Abtretung von Nutzungsrechten usw. bedienen können. Die Verwendung „privatrechtlicher“ Verträge durch die örtlichen Körperschaften wird je nach den innerstaatlichen Rechtsvorschriften und Praktiken in mehr oder weniger großem Umfang zugestanden, und die Grenze zwischen „privatrechtlichen“ Verträgen und „öffentlich-rechtlichen“ Verträgen ist schwer zu ziehen. Trotzdem wird zugestanden, daß dieser Vertragstyp verwendet werden kann, wenn es sich nach der vorherrschenden Auslegung in jedem Staat um ein eher kommerzielles oder wirtschaftliches Geschäft handelt, das auch eine natürliche oder juristische Person des privaten Rechts hätte abschließen können. Für jede Maßnahme, an der örtliche Körperschaften beteiligt sein müssen, die Befugnisse ausüben, die nur Sache des Staates sein können, müssen außer den nachstehend angeführten Bestimmungen die Zusatzvorschriften berücksichtigt werden, die im „öffentlich-rechtlichen“ Mustervertrag (siehe 2.5) enthalten sind.
+
+## Vertragsparteien
+
+Artikel 1 bezeichnet die Vertragsparteien (und führt aus, ob die Vereinbarung anderen örtlichen Körperschaften offensteht oder nicht).
+
+Artikel 2 führt die mit der allgemeinen Befugnis zum Vertragsabschluß verbundenen Probleme und insbesondere die Begünstigten und die Bedingungen auf. Gegebenenfalls enthält er auch die erforderlichen Vorbehalte in bezug auf die Genehmigung durch übergeordnete Behörden, soweit diese Vorbehalte die Anwendbarkeit des Vertrags berühren.
+
+## Gegenstand des Vertrags
+
+Artikel 3 bestimmt den Gegenstand des Vertrags unter Bezugnahme auf
+
+- – bestimmte Angelegenheiten
+
+- – geographische Gebiete
+
+- – Betroffene (Gemeinden, nationale Gremien mit örtlicher Zuständigkeit usw.)
+
+- – bestimmte Rechtsformen.
+
+Artikel 4 bestimmt die Vertragsdauer, die Bedingungen für eine Verlängerung und mögliche Fristen für die Durchführung.
+
+## Rechtliche und wirtschaftliche Ausgestaltung des Vertrags
+
+Artikel 5 gibt den Ort der Unterzeichnung und der Ausführung des Vertrags an und weist auf das Rechtssystem des Vertrags (internationales Privatrecht) und das geltende Recht hin.
+
+Artikel 6 behandelt gegebenenfalls finanzielle Fragen (Währung, in der die Zahlung geleistet werden muß, sowie die Methode der Preisanpassung bei langfristigen Leistungen) und Versicherungsprobleme.
+
+## Schiedsverfahren
+
+Artikel 7 sieht erforderlichenfalls ein Vergleichsverfahren vor und bestimmt ein Schiedsverfahren.
+
+Im letzteren Fall setzt sich die Schiedskommission wie folgt zusammen:
+
+- – Jede Partei mit entgegengesetztem Interesse benennt (Alternative: Die Präsidenten der für jede der Parteien zuständigen Verwaltungsgerichte benennen) ein Mitglied der Schiedskommission, und die Parteien benennen gemeinsam ein oder zwei unabhängige Mitglieder, so daß eine ungerade Mitgliederzahl erreicht wird;
+
+- – im Fall einer Schiedskommission mit gerader Mitgliederzahl und bei Stimmengleichheit gibt die Stimme des unabhängigen Mitglieds den Ausschlag.
+
+## Änderung und Auflösung des Vertrags
+
+Artikel 8 bestimmt die Vorschriften, die für den Fall der Änderung oder Auflösung des Vertrags gelten.
+
+Artikel 9
+
+Die Vertragsparteien unterrichten den Generalsekretär des Europarats über den Abschluß dieses Vertrags und übermitteln ihm den Wortlaut.
+
+- 2.5 Grundriß eines („öffentlich-rechtlichen“) Vertrags über die Bereitstellung von Lieferungen oder Leistungen zwischen örtlichen Körperschaften in Grenzgebieten
+
+Einleitende Bemerkung: Diese Vertragsform ähnelt der unter 2.4 vorgesehenen (Verträge mit einem bestimmten Zweck). Diese Form befaßt sich insbesondere mit Konzessionen oder Verträgen für öffentliche Leistungen oder öffentliche Arbeiten (oder Leistungen oder Arbeiten, die jedenfalls von einem der betreffenden Staaten als „öffentlich“ betrachtet werden) und der Bereitstellung finanzieller Hilfe <sup>1</sup>) durch eine Gemeinde für eine andere Gemeinde oder ein anderes Organ auf der anderen Seite der Grenze. Die Gewährung derartiger Leistungen öffentlicher Art bringt generell besondere Haftungen und Risiken mit sich und erfordert daher die Aufnahme von Zusatzbestimmungen in den Vertrag, die über die für den privatrechtlichen Vertrag vorgesehenen hinausgehen.
+
+„Grenzüberschreitende“ Verträge dieser Art sind nicht zwangsläufig in allen Staaten vorgesehen, und daher müssen eine derartige Möglichkeit und die Festlegung der Bedingungen für ihre Anwendung oft zunächst in einer zwischenstaatlichen Vereinbarung geregelt werden (siehe Mustervereinbarung 1.4).
+
+Die Verwendung eines derartigen Vertrags, dessen Konzeption und Durchführung letztlich einfach ist, könnte in bestimmten Fällen die Schaffung eines gemeinsamen Organs von der Art eines „interkommunalen grenzüberschreitenden Verbands“ (siehe 2.6) überflüssig machen, der andere juristische Probleme aufwirft.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Diese Möglichkeit könnte für die Körperschaften in Grenzgebieten insbesondere auf dem Gebiet der Umweltverschmutzung von Nutzen sein: Eine Körperschaft könnte einer anderen finanzielle Hilfe anbieten, damit die letztere bestimmte Arbeiten durchführt, die in ihre Zuständigkeit fallen, aber für die erstere von Interesse sind.
+
+## Vorzusehende vertragliche Bestimmungen
+
+Wenn der Vertrag die Errichtung oder Verwaltung des öffentlichen Vermögens, einer öffentlichen Einrichtung oder einer öffentlichen Anlage einer örtlichen Körperschaft in mindestens einem der Staaten berührt, müssen nach Maßgabe der in dem oder den betreffenden Staaten geltenden Vorschriften vertragliche Garantien vorgesehen werden.
+
+Außerdem wird in dem Vertrag, soweit notwendig, auf folgende besonderen Bedingungen Bezug genommen:
+
+- 1\. die Vorschriften, welche die Bedingungen für die Errichtung oder den Betrieb der betreffenden Anlage oder Einrichtung festlegen (zB Zeitplan, Tarife, Benutzungsbedingungen usw.),
+
+- 2\. die besonderen Voraussetzungen für die Inbetriebnahme des Unternehmens oder des Betriebs, beispielsweise erforderliche Zulassungen und Genehmigungen, Verfahren usw.,
+
+- 3\. die Ausschreibungsbedingungen des Unternehmens oder des Betriebs,
+
+- 4\. die Verfahren zur Anpassung des Vertrags während der Ausführung an die Erfordernisse des öffentlichen Interesses und den sich daraus ergebenden finanziellen Ausgleich,
+
+- 5\. die Modalitäten der sich aus dem betreffenden Unternehmen oder Betrieb ergebenden Beziehungen zwischen den Benutzern der Anlage oder Einrichtung einerseits und dem Unternehmer andererseits (beispielsweise Zugangsbedingungen, Abgaben usw.),
+
+- 6\. die Modalitäten der Rücknahme, des Rückkaufs oder der Kündigung des Vertrags.
+
+Außerhalb dieser besonderen Bedingungen gelten die Bestimmungen, die für den Grundriß des privatrechtlichen Vertrags unter 2.4 angeführt wurden.
+
+- 2.6 Grundriß einer Vereinbarung zur Schaffung von Organen für die grenzüberschreitende interkommunale Zusammenarbeit
+
+Einleitende Bemerkung: Es wird davon ausgegangen, daß mehrere örtliche Behörden gemeinsam ein mit Rechtspersönlichkeit ausgestattetes Organ zur Errichtung und zum Betrieb einer öffentlichen Anlage oder einer öffentlichen Einrichtung schaffen dürfen.
+
+Die Gründung und die Arbeitsweise dieser Vereinigung oder dieses Verbands hängen im wesentlichen von den anzuwendenden Rechtsvorschriften und von den etwaigen Richtlinien in einer vorherigen zwischenstaatlichen Vereinbarung zur Genehmigung dieser Form der Zusammenarbeit (siehe Muster 1.5) ab.
+
+Nachstehend sind die Bestimmungen aufgeführt, die in der Satzung festgelegt werden sollten, soweit das geltende Recht sie nicht vorsieht.
+
+Die Satzung bestimmt insbesondere
+
+- 1\. die Gründungsmitglieder der Vereinigung und die Bedingungen für den Beitritt neuer Mitglieder,
+
+- 2\. den Namen, den Sitz, die Dauer und die Rechtsform der Vereinigung (mit Bezugnahme auf das Gesetz, das ihr Rechtspersönlichkeit verleiht),
+
+- 3\. den Gegenstand der Vereinigung, die Bedingungen für seine Verwirklichung und die dafür verfügbaren Mittel,
+
+- 4\. die Art und Weise, in der das Grundkapital gebildet wird,
+
+- 5\. den Umfang und die Grenzen der Verpflichtungen der Mitglieder,
+
+- 6\. die Methode der Ernennung und der Abberufung der Verwalter oder Geschäftsführer der Vereinigung sowie ihre Befugnisse,
+
+- 7\. die Beziehungen der Vereinigung zu ihren Mitgliedern, Dritten und den übergeordneten Behörden, insbesondere in bezug auf die Mitteilung der Haushalte, Bilanzen und Abrechnungen,
+
+- 8\. die Personen, die mit der Durchführung der fachlichen und finanziellen Kontrolle der Tätigkeit der Vereinigung beauftragt sind, und die Mitteilungen, zu denen ihre Prüfungen Anlaß geben,
+
+- 9\. die Bedingungen für die Satzungsänderung und die Auflösung der Vereinigung,
+
+- 10\. die Vorschriften für das Personalwesen,
+
+- 11\. die Vorschriften in bezug auf die Sprache.

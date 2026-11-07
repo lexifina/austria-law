@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation "EUTELSAT" StF: [BGBl. III Nr. 48/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_48_3/2000_48_3.pdf>)

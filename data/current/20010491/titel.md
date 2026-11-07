@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zur Datenübermittlung gemäß § 107 Abs. 8 EStG 1988 betreffend den Steuerabzug bei Einkünften im Zusammenhang mit der Einräumung von Leitungsrechten und Maßnahmen zur Abwehr von Hochwasserschäden (Leitungsrechte-Hochwasserschutz-Datenübermittlungsverordnung – Leitungsrechte-Hochwasserschutz-DÜV) StF: [BGBl. II Nr. 321/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/321>)
+
+Auf Grund des § 107 Abs. 8 des Einkommensteuergesetzes 1988 – EStG 1988, [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 83/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/83>) wird verordnet.

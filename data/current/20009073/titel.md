@@ -1,0 +1,3 @@
+Zweite Verordnung des Bundesministers für Arbeit und Wirtschaft zur Durchführung des Außenwirtschaftsgesetzes 2011 (Zweite Außenwirtschaftsverordnung 2019 – 2. AußWV 2019) StF: [BGBl. II Nr. 6/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/6>)
+
+Auf Grund der §§ 1 Abs. 2, 25 sowie 77 Abs. 2 und 3 des Außenwirtschaftsgesetzes 2011 (AußWG 2011), [BGBl. I Nr. 26/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/26>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 37/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/37>), wird hinsichtlich der §§ 2 und 3 sowie der Anlagen 1 und 2 im Einvernehmen mit dem Bundesminister für Europa, Integration und Äußeres und dem Bundesminister für Finanzen verordnet:

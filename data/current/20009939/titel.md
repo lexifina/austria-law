@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Inneres über Anpassungen der in § 12 Abs. 1 des Wählerevidenzgesetzes 1973 in § 15 Abs. 1 des Europa-Wählerevidenzgesetzes und in § 23 Abs. 1 des Volksbegehrengesetzes 1973 festgesetzten Pauschalentschädigungen an die Gemeinden StF: [BGBl. II Nr. 103/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/103>)

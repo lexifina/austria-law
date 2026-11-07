@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Festlegung von Anteilen zur Abgrenzung von Haushaltsverpackungen und gewerblichen Verpackungen (Verpackungsabgrenzungsverordnung) StF: [BGBl. II Nr. 18/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/18>) \[CELEX-Nr.: [31994L0062](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0062:DE:HTML>)\]
+
+Aufgrund des § 13h Abs. 2 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), [BGBl. I Nr. 102/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 84/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/84>), wird verordnet:

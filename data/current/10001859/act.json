@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001859",
+  "short_title": "Berner Übereinkunft (Römische Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001882",
+    "valid_from": "1936-08-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001859&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:53:35.179495+00:00",
+    "response_sha256": "096d864509e024d9c4d94db8fba5dc4a72eb6bafa52b7f5ce90f82da067bb61f",
+    "snapshot_sha256": "22ba9a5965429b6d4df8e86053c734d6e22902ca5430bba59777bbcfedcd1449",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6c8cf4da53f9df1b19564a16c374902cfce7341ad895f95ef35d3c121fdcb423",
+      "sha256": "0c9b31edb2f0bc648a455a8a6f89e96c8e33fb865f6385aff198c37f17976903",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Justiz über den Beitritt Rumäniens zu dem Berner Übereinkommen zum Schutze von Werken der Literatur und der Kunst in der in Rom am 2. Juni 1928 geänderten Fassung StF: BGBl. Nr. 282/1936"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 282/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=282/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "45b9dd850378c408c5283283c1714c1a064fdb30865287a89d33bd325323595b",
+      "sha256": "dd8ade4caebf16c976ed766826cc942a8b56fbb1da066d4c15d2a52f4f565c27",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

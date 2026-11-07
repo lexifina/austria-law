@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. März 1970, betreffend Zeichen der Europäischen Organisation zur Schaffung von Satellitenträgern StF: [BGBl. Nr. 118/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_118_0/1970_118_0.pdf>)

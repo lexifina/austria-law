@@ -1,0 +1,3 @@
+Bundesgesetz über die Neuordnung der Aufgaben der COVID-19-Finanzierungsagentur des Bundes (COFAG-Neuordnungs- und Abwicklungsgesetz – COFAG-NoAG) StF: [BGBl. I Nr. 86/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/86>) (NR: GP XXVII [IA 4070/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/4070>) [AB 2679](<https://www.parlament.gv.at/gegenstand/XXVII/I/2679>) [S. 270.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/270>) BR: [11521](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11521>) [AB 11545](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11545>) [S. 969.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/969>))
+
+Der Nationalrat hat beschlossen:

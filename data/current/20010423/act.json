@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010423",
+  "short_title": "Errichtung einer Notarstelle in Hopfgarten im Brixental",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209463",
+    "valid_from": "1986-12-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010423&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:47.337974+00:00",
+    "response_sha256": "a257130d83892671925f68c2ab5e9252a05ac01f996f3b2bffb59beb854e5a70",
+    "snapshot_sha256": "8c16d90dcab857dffabaae030a96c9e9623e9daf1db3a6e2d56c05cdd3dc2bfe",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "926d16c86817f4fc225e18733b24d5707e6471040ed60bb97b9d1eeaeb1d218d",
+      "sha256": "d274b9e52596df34609de851e57f055198b91d1388a15f7446a140d5f9125ab2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 24. November 1986 betreffend die Errichtung einer Notarstelle in Hopfgarten im Brixental StF: BGBl. Nr. 644/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 644/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_644_0/1986_644_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "111542c511b66e0b9921269f93462b71d96ffb215ce7a82472ec78d014cd8147",
+      "sha256": "dfe0304f8e054e153e79ed478edc5fa753b7b712e1e4482e035bdbfa45f7a89a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

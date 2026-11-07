@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Justiz vom 17. August 1931 über den Beitritt Siams zu dem Revidierten Berner Übereinkommen zum Schutze von Werken der Literatur und Kunst. StF: [BGBl. Nr. 262/1931](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=262/1931&amp;SkipToDocumentPage=True>)

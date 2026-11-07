@@ -1,0 +1,1 @@
+Bundesgesetz über die Förderung politischer Bildungsarbeit und Publizistik 1984 (Publizistikförderungsgesetz 1984 – PubFG) StF: [BGBl. Nr. 369/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_369_0/1984_369_0.pdf>) (WV)

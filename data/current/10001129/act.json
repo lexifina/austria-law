@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001129",
+  "short_title": "VfGH-Ausspruch, dass § 754 Abs. 2 letzter Halbsatz des ABGB verfassungswidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001133",
+    "valid_from": "1991-06-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001129&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:44.952463+00:00",
+    "response_sha256": "4b97e46eb8bb6d4bc0898da0a13e011ad643622fd97b8ce21eb38945878184ac",
+    "snapshot_sha256": "6c28f48e837970208473e498729b76372ef20b2c8759d555071fd18ea2a5e9bc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3230a4677b7c6f402ebdf5f42d6a28e25292f34f446346c318aaf6c0d7e129f1",
+      "sha256": "1238851bb028fa3608517c516368f28b63174e079c9e039a42f59b86d47d6382",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, daß § 754 Abs. 2 letzter Halbsatz des allgemeinen bürgerlichen Gesetzbuches verfassungswidrig war StF: BGBl. Nr. 287/1991 (VfGH)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 287/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_287_0/1991_287_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2376799c2e15f27ff1a830a8d2fda09a7404d6564b82a594fef88cbd549bfd1",
+      "sha256": "893141d4ffad1aed9654e0c55f34560e10c3155cf457932b926557f0f9d820d2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 342/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_342_0/1970_342_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

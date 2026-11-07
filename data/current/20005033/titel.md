@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen betreffend Betriebe, die Fütterungsarzneimittel herstellen, kontrollieren oder in Verkehr bringen (Fütterungsarzneimittelbetriebsordnung 2006 – FAMBO 2006) StF: [BGBl. II Nr. 394/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/394>) \[CELEX-Nr. [31990L0167](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0167:DE:HTML>)\]
+
+Auf Grund des § 62 Abs. 1 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 153/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/153>), wird verordnet:

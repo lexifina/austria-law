@@ -1,0 +1,1 @@
+Verordnung des Ministers des Innern vom 27. August 1873, betreffend den Umfang der Prüfungsgegenstände bei der Prüfung der Aerzte zur Erlangung einer bleibenden Anstellung im öffentlichen Sanitätsdienste bei den politischen Behörden StF: [RGBl. Nr. 139/1873](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=139/1873&amp;SkipToDocumentPage=True>)

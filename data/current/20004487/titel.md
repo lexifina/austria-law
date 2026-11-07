@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit, mit der Förderbeiträge zur Abgeltung von Mehraufwendungen der Ökobilanzgruppenverantwortlichen für das Jahr 2006 bestimmt werden StF: [BGBl. II Nr. 470/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/470>)
+
+Auf Grund des § 22 iVm § 11 Ökostromgesetz, [BGBl. I Nr. 149/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_149_1/2002_149_1.pdf>), wird im Einvernehmen mit der Bundesministerin für Justiz, dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft und der Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 2. August 1949, betreffend den Beitritt Finnlands zum Abkommen über die internationale Zivilluftfahrt StF: [BGBl. Nr. 209/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_209_0/1949_209_0.pdf>)

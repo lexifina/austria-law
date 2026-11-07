@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10005064",
+  "short_title": "Beginn der Führung des Finanzstrafregisters",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11005125",
+    "valid_from": "1997-11-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005064&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:38:14.827491+00:00",
+    "response_sha256": "bb8d8bda74008dcf6d649dac97a62846d744392a564c49bf4e652e54e7035207",
+    "snapshot_sha256": "f242b7c0fdfbc3385b16232b1634c6ac20a5ac92d2d2c284fd73a0f04bc3905f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2be4a1720640ff6974998072752403823d3e8e70788101bc862611875520529",
+      "sha256": "6558b2c44d2e59a953e9d57e4de0fd19aaf48f9b248de15443a6ca1ea9cac362",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen über den Beginn der Führung des Finanzstrafregisters StF: BGBl. II Nr. 351/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 351/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_351_2/1997_351_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 129/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_129_0/1958_129_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 757/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba16c7a87a2ac4a1519e86c8dfe877d097c7669cda4eb31debdb39701f7b191a",
+      "sha256": "e0755cfca6c62dd6b2e93d9234b66f4258d4de666b3d2ec445b8acb364122d3b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

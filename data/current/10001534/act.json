@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001534",
+  "short_title": "VfGH-Aufhebung von Wortfolgen im Beschluß des Mühlenkuratoriums",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001554",
+    "valid_from": "1998-09-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001534&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:48:27.640962+00:00",
+    "response_sha256": "a0fb0b27bbe54ef1a7351f78932dff40be12a0b2ca40556ec4339f5b7ae376b2",
+    "snapshot_sha256": "a7d752f8b59de1b9b5ffe3d6862adc3af5d6950506f3099cbeecaac04b8a6851",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "354ae65cbead7de1fe207a1f8e23c4a3f15a97cf58337ec91c6962c215a0bb5b",
+      "sha256": "cc692a8a66153ec417f8ec6c2f4b359487a758e469b0b6b01e888868942c6e7b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten über die Aufhebung von Wortfolgen im Beschluß des Mühlenkuratoriums vom 30. Juni 1993 und im Beschluß des Fachausschusses für Mühlen vom 25. August 1994 durch den Verfassungsgerichtshof StF: BGBl. II Nr. 299/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 299/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_299_2/1998_299_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf53debe9c79cdbda100c7ca1dd8d76405485393b30c2cd282edb7ae8485733e",
+      "sha256": "8011a399401971f90924e77f7c61c91efe9b3d16f79d33d34230bb935d73f289",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

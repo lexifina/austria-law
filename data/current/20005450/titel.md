@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung zum Schutz der Sicherheit und der Gesundheit der Dienstnehmer/innen des Bundes vor Gefahren durch den elektrischen Strom (Bundes-Elektroschutzverordnung – B-ESV) StF: [BGBl. II Nr. 228/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/228>)
+
+Auf Grund der §§ 8, 17 Abs. 1 und 2, 20 Abs. 2 und 3, 25 Abs. 7, 34 Abs. 3 und 4 sowie 60 Abs. 1 des Bundes-Bedienstetenschutzgesetzes (B-BSG), [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 53/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/53>), wird verordnet:

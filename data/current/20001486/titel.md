@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Qualitätsanforderungen an Komposte aus Abfällen (Kompostverordnung) StF: [BGBl. II Nr. 292/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_292_2/2001_292_2.pdf>)
+
+Auf Grund der §§ 2 Abs. 3a und 7 Abs. 12 des Abfallwirtschaftsgesetzes, [BGBl. Nr. 325/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_325_0/1990_325_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 99/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_99_1/2000_99_1.pdf>), wird vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

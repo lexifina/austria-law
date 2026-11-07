@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009220",
+  "short_title": "Anerkennung der Methodisten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009411",
+    "valid_from": "1951-04-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009220&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:28:42.759169+00:00",
+    "response_sha256": "399beefde412d75f59ac2c7911f366d6ad4baebeeff8154d935adf020e7471d8",
+    "snapshot_sha256": "48b0beed72a493b871d9ffd9b66693ec7ccc1eb4b01ea2bbecfff850837b1b6c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca61155b14b8f108227a5ad3e6a3fc99e423243f2815a5eb1738fd342d718ea3",
+      "sha256": "a9375884a347c730d17490dcd2edba638f15821123dbf3c7626ea1ee50ecb7df",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Unterricht vom 24. Februar 1951, betreffend die Anerkennung der Anhänger des Methodistischen Religionsbekenntnisses als Religionsgesellschaft. StF: BGBl. Nr. 74/1951"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 190/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 74/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_74_0/1951_74_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 190/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/190"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "68ab60e6837c7b71de351a59233897d525a8eb7f12f04772908173d39ca8865a",
+      "sha256": "c33581ba03659c45dad8ebac8f4e58a83567adb64246cfe52d93ebbccd9c49a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 29. November 1962, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit auf dem Gebiete des Ersatzes für Schäden aus atomaren Ereignissen und der Sicherung der Ersatzleistung. StF: [BGBl. Nr. 315/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_315_0/1962_315_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 14. Juni 1962, K II-1/61, – dem Bundeskanzleramt am 19. November 1962 zugestellt – zusammengefaßt hat:

@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 26. August 1986 über den Ausspruch des Verfassungsgerichtshofes, daß die Verordnungen des Landeshauptmannes von Vorarlberg vom 24. Jänner 1983 und vom 16. März 1983 über die Festsetzung von Betriebszeiten für Schifflistickmaschinen gesetzwidrig waren StF: [BGBl. Nr. 485/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_485_0/1986_485_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

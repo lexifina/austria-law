@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Justiz vom 8. Juni 1928 über den Beitritt Australiens, Britisch-Indiens, Canadas und Neuseelands zum Revidierten Berner Übereinkommen zum Schutze von Werken der Literatur und Kunst. StF: [BGBl. Nr. 148/1928](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=148/1928&amp;SkipToDocumentPage=True>)

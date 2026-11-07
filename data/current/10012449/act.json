@@ -1,0 +1,145 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012449",
+  "short_title": "Luftverkehrsabkommen - Flugverkehr - Änderung (Malaysia)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Malaysia",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012747",
+    "valid_from": "1994-11-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012449&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:09:18.458447+00:00",
+    "response_sha256": "ff34f9fce4595a39927d22e6c7d7027a20091dea4e9fd0d94af38ab1b6d10e8c",
+    "snapshot_sha256": "01feb8a75fe716455c8bcf079e176a8cfb92fb9b676f845460fc3045f8ad73cb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd87979b39080ca09359ca20e7baa8fee038d51399ab116af737df2faca3e0e1",
+      "sha256": "d29a2d192403d1167e823290ee3cb51e78db6511a826b62f61c2226dded51ab3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel betreffend Abänderung des Flugstreckenplanes zum Abkommen zwischen der Österreichischen Bundesregierung und der Regierung von Malaysia über den Flugverkehr zwischen ihren Hoheitsgebieten und über ihre Hoheitsgebiete hinaus StF: BGBl. Nr. 833/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 833/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_833_0/1994_833_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "VERBALNOTE",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cdb3e8bdf200033bf0e80d4cacdc245c2b78fdc1e603dd42ec84c23f38500608",
+      "sha256": "92dbe6d5ab4034717a272f03fa024f6ccf627cafd04b8dfe298b180003a4089b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 224/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_224_0/1977_224_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Abgangspunkte:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ankunftspunkte:",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Punkte in Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Punkte in Malaysia",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Abgangspunkte:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ankunftspunkte:",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Punkte in Malaysia",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Punkte in Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

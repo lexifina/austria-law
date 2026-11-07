@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. Mai 1961 über den Geltungsbereich der Internationalen Pflanzenschutzkonvention StF: [BGBl. Nr. 195/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_195_0/1961_195_0.pdf>)

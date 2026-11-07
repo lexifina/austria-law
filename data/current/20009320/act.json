@@ -1,0 +1,880 @@
+{
+  "sample_only": false,
+  "included_provisions": 36,
+  "source_provision_count": 36,
+  "schema_version": 1,
+  "gesetzesnummer": "20009320",
+  "short_title": "Versicherungsunternehmen-Rechnungslegungsverordnung",
+  "abbreviation": "VU-RLV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40231288",
+    "valid_from": "2021-02-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009320&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:30:50.333107+00:00",
+    "response_sha256": "767460e1a09cbf54782c3f9503bbcc4ecb997b932ad44f1d8d1af09b532a7a0a",
+    "snapshot_sha256": "2c90a3844c1894bcb6b88839324545dc66a86750c54a70a3780de876e70d4a69",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9f6c48e4c8e92cc088e832070168e6090bf23fd14f69b13002f0eaad5e14aad",
+      "sha256": "5a846189161bb46afe0490533fa4ea179438b5e57c50d2d6ad067fb9784e6e32",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Rechnungslegung von Versicherungs- und Rückversicherungsunternehmen (Versicherungsunternehmen-Rechnungslegungsverordnung – VU-RLV) StF: BGBl. II Nr. 316/2015"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 323/2016 BGBl. II Nr. 65/2021 BGBl. II Nr. 353/2021"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 316/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/316"
+        },
+        {
+          "text": "BGBl. II Nr. 323/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/323"
+        },
+        {
+          "text": "BGBl. II Nr. 65/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/65"
+        },
+        {
+          "text": "BGBl. II Nr. 353/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/353"
+        },
+        {
+          "text": "BGBl. I Nr. 112/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Anwendungsbereich und allgemeine Vorschriften zum Ausweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d802551ff626898b9ee39b6fa6f662f3240b5e0b9c228ca04393327c669bd4d7",
+      "sha256": "addc3f0a140210abba89ae6bdc01247e39294e4a293758bf7d8b1d712b78f90e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Ausweis bestimmter Versicherungsverhältnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1414631a4d7d544479d63015d132183cc631dfc9d1880172cf2e9c053984ddb7",
+      "sha256": "98b5ccf0fb71edf0642c08fe073a9f3fbf08c799d53d39f12833006681d18d43",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Vorschriften zum Aktivposten „Kapitalanlagen“ gemäß § 144 Abs. 2 B. VAG 2016",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "755ee6462db16c6dae0e421c47ab9167c0b038da8271714b447e98b29f50667f",
+      "sha256": "e40de9def0be17e9bbf2f5a7203ec9bfb734ca080e6502f6a28bd7f0fd8f3187",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 22/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/22"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Anwendung des Prinzips der Bewertungsstetigkeit bei der Bewertung von Wertpapieren durch Versicherungs- oder Rückversicherungsunternehmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03fee12f0afe272526616a196f8faf66d785c3e99b8bfbe347fe8866407fa165",
+      "sha256": "bba4b0c4bb5e4152588546cadb10400997820df54bac5e77dee9590d2915fda7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Hypothekenforderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e42a0f8a7cfaa66a773acea9063b08d61d62b8b92b6502b9a3c3985e6e5f3370",
+      "sha256": "271df987eb60f5e7d48bb4c3daca2c62ba97b9d32f51edfcc4d755816995806f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Depotforderungen und Depotverbindlichkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "673ab775346e43154fe3f3af5610975257e03864654e9b3f67fd3bfb79aad330",
+      "sha256": "b77e9779f866e9da66e7fe2f74fdf384a6754e5fb49f8ca9a426a8e0f9a65e3c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "3. Abschnitt Vorschriften zum Passivposten „Versicherungstechnische Rückstellungen im Eigenbehalt“ gemäß § 144 Abs. 3 D. VAG 2016",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03e5acfd1d12ddb4c9eb16b9b85ba2b9d013e07f9b759c2376b3dfaf08c0b7e8",
+      "sha256": "0b2a00cfd71a8e47433e27b5ea898bae53c2843d10e28839f79881f3fce65a9d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Kursänderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e213e8480d79d8a9d9c6b447dcefb9f1384611bb2c80d9549b674787dfd27bf8",
+      "sha256": "7d134281b12fad2172c604b7b05341eb04ba2ec1838bced7c6d2cd24a62431c8",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 33 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Portefeuilleveränderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc681429578e186682fc888dd6c16e736f7639e9a08b144f229ca5a8ad07d8f4",
+      "sha256": "f682979da47d7f93b48365045660124458a978b14d2d2acc06af928d8bb17a6a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Prämienüberträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4e17c8ed07fa66dd73ecbba2715345b9ac8a5a9693b3a56d5f19246618e351f",
+      "sha256": "d98028387d66533e363b43ef316e734963eb232887c53320ec335c8a6510b2c0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Deckungsrückstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cfa30c9e55ae040fa2485d31a7bd5d840d3c8d53e867aad99897f9b6fedbb0b",
+      "sha256": "0f2983abc719201a78e1895dff29a78a45b1d32be8f9c224ad6d27e7307c304e",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Abs. 5 und 6 sind erstmalig auf Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2020 enden (vgl. § 33 Abs. 4)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 299/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/299"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Rückstellung für noch nicht abgewickelte Versicherungsfälle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa73d09b4fbeeec6b163f27318fbb495313fb87227305c6cbd3e8b6b8cbd165a",
+      "sha256": "77037d6532143eb3a540f036856cd0ebb1fe4e02d27cbaa0300650df22f11220",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Rückstellung für erfolgsabhängige Prämienrückerstattung bzw. Gewinnbeteiligung der Versicherungsnehmer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "066a0f7b830075da7e70f102e3effabcd89b2590d0d437eff38f617efc177079",
+      "sha256": "41b80071e287692320281577bd2cbb0b5cbd488f49f0ff245466ef5557679db0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 292/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/292"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Rückstellung für erfolgsunabhängige Prämienrückerstattung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ffc936e3a0441d6c62d9529200eeb7bef22ba5a1cf1ec32e9be7426fb08a97d",
+      "sha256": "722581f15796eddad43851bf4ef6b80ce74b3fe05a144d7edb3b6a1649d6a58f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Sonstige versicherungstechnische Rückstellungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1ea39b7d62d5b3bb3e79715fecba9fc705e3195dd5a7b9679a6d88a4d4555b8c",
+      "sha256": "851849f01e1f05d91c362468f2ad7df35d9d35c468c4c03d2b178f8c9f7e8db1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "4. Abschnitt Vorschriften zu einzelnen Bilanzposten gemäß § 144 Abs. 2 und Abs. 3 VAG 2016 mit Ausnahme der Kapitalanlagen und der versicherungstechnischen Rückstellungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cbc627c7e16e03f2304187f784e22f7092919bf66327d4c69b93ecc3c645f92b",
+      "sha256": "a58124f988ae32396c73b9344d7f654526a62429b38a0f322924ec6badad343b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Sonstige Forderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c0cd5d25a45d46466f8a5882340481acf7eadd74f79ccc2d4934b75db0aed3c",
+      "sha256": "462f5567e069b4eda23590aac75021ae524e4bc59d284ec28417862ba1c5b875",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Versicherungsvertraglich gestundete Prämien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d26c67f37e332faed24a2f1d92c8a62583cbd491af228e55a7a130aec829ba6",
+      "sha256": "4124a1760d02e5b9f2bea55e93e69a57c32058e769aac4bbc3a37527aeadb65f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Dotationskapital, Verrechnungsposten mit der Zentrale",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb5102a549e2be9472d5a64e4faed5cfccc49eca1bf50cdfdc7fac4ca1e4fc4d",
+      "sha256": "50cee8fc3eff72ca0738665e767f0221a48df0cf388ac1c26c4d4bf70e03544c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Anteilige Zinsen und Mieten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78eec90eb5174ae6f0e078a561fc38cb025d2522de7163c1c5b4ac78e6cc2f90",
+      "sha256": "1360594294412d1e2807dbc0429bbfc3bc797a3785b948c9466b0a9bb320ed71",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Andere Vermögensgegenstände",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aefc733de21b2492252c7bb71908695a4650c471694c78d6c7546ece96c1bd4d",
+      "sha256": "819dc511e82499c5322d71158d74624eadc56e7f9e4325be717285e9c5978d60",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Risikorücklage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35965db3ec5eefa1be2497d7146088b3a1b6562255c52e8e2a4277c4ad63ee6d",
+      "sha256": "2d3d4637515da5e2634196be7f16329d1f0fa1e498e4f01e29af136ece262183",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Sonstige Rückstellungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "01043f642e26ef23d3fcb1820945c2fd3d9f956e99dbe9c3c61ee601853bdf4a",
+      "sha256": "19a69cd36ff760b4c19d4ab5da117887ea82ebd4d263d42918a5931745bc0fd7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Andere Verbindlichkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ecb39ad2f00494da97964f4cfc965d543f142b2568d0eea7dda3c75baac71d15",
+      "sha256": "62213ae7f511f78a8645068b31dfcc80f2159913a397e06df416cd6a3661e56e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "5. Abschnitt Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "041d1692a036b971ae0bc18e3802e73062f28802a776e37393a54a575ce2813e",
+      "sha256": "b875788649e7b8dd307b78269612a170bc90de07e0c52e5349e24f7b40a7c406",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25a",
+      "source_heading": "Latente Steuern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0025a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ecfeb397e32788e074b9e8be3f1e2af98612fdaea566dea4485e1131b828f816",
+      "sha256": "f4fcf20e14246bac7a1872c66fd51673c4ad1550101ef9a232cc55b8e130aa73",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Aufwendungen für Versicherungsfälle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d65ca6d2a780c5937a2ac1dc4a05999d4bb5a5b3a7250f4f66a0df61558895e",
+      "sha256": "ca6ef178bb5f5d81d1391dd53de1a606d15962e90e41c6cb56eff7aab05aacc3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Abgegrenzte Prämien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c9d3c3ceb264663ad7ac567b264e8c55dda1ab7f69776fd38ec795d4bd3c3345",
+      "sha256": "ae6c363b1e693f19803644ecbbdd91b19b23572e81e0662bc931ee0a0d98807f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Aufwendungen für den Versicherungsbetrieb",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f976c9242fbb0541e190cc136aafd6e1bf6a731399987310532113f787727edf",
+      "sha256": "c9100577a93d9fed66fd71fc1ba89892dbcf07eccd90c87130025044c072960b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Sonstige versicherungstechnische Aufwendungen und Erträge",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d03e1ca4de464e0818f6cff44c9af4638efa232245f87a8045c72061b2621ff1",
+      "sha256": "8411961a9eeb262f721a4d843b7cf499911f94bc07a917bdff2b4ad83bb4b1b9",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 33 Abs. 3"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 65/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/65"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29a",
+      "source_heading": "Wechselkursdifferenzen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0029a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20313dd514a99296523e2d1cadfa5fa073d3c7a51fb349199d2d068cccd6a9b7",
+      "sha256": "ea37eaedc3d631e0b60e18b309e8dce506fe63d81d1afed3c2feb9c6acee429d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 33 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Kapitalerträge des technischen Geschäfts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eacd5ce357fd15c3e2062d6874aac727074aa490adf887b3ba49f6c8f5561d46",
+      "sha256": "90ace5c0f061ced62c8c3d579c6c806995fd1d298b30e1cedec46931cf72523b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "6. Abschnitt Bericht an die FMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "568d2ba595d3b309259562a5e380170e5cc333694a3ec5084e8afe5e369912f3",
+      "sha256": "48060bcbf1803fe70c90086ff7faa5ae3382caae8b71bcb2cc4c878b5121984f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Nähere Bestimmungen über den Bericht an die FMA gemäß § 248 VAG 2016",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31d8c3ff6bb2d3eaa2703ffb4469808470c6334ab99d5ccc4e745ca0956e6476",
+      "sha256": "8d5f93eb1292b5a1605f028fc68a202675f75c0b43c16fd3664c33c2c0e66aa5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "7. Abschnitt Schlussbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "17eb12ca0b448c5de025eb8e27e60b705d05190fbef53e4918e08bed6f07d0a8",
+      "sha256": "61fe4675351036e258340880fa34b9ea408d5019da4bf83847e54b0ca5a28e06",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 323/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/323"
+        },
+        {
+          "text": "BGBl. II Nr. 65/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/65"
+        },
+        {
+          "text": "BGBl. II Nr. 323/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/323"
+        },
+        {
+          "text": "BGBl. II Nr. 65/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/65"
+        },
+        {
+          "text": "BGBl. II Nr. 323/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/323"
+        },
+        {
+          "text": "BGBl. II Nr. 353/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/353"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

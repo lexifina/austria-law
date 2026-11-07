@@ -1,0 +1,25 @@
+## Artikel IV
+
+### (Anm.: Zu [BGBl. Nr. 399/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_399_0/1967_399_0.pdf>))
+
+(1) Bis zum Inkrafttreten des Art. I Z 1 und 3 hinsichtlich des § 1 d Abs. 1 Z 3 unterliegen die dort angeführten Fahrzeuge den Werten des § 1 d Abs. 1 Z 3 in der Fassung der 18. Novelle zur KDV 1967, [BGBl. Nr. 395/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_395_0/1985_395_0.pdf>), und der 21. Novelle zur KDV 1967, [BGBl. Nr. 711/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_711_0/1986_711_0.pdf>), sofern nicht bei der Genehmigung festgestellt wurde, daß sie bereits den erstgenannten Vorschriften entsprechen; in diesem Fall braucht nicht auch der Nachweis der Erfüllung der Anforderungen des § 1 d Abs. 1 Z 3 in der bisherigen Fassung erbracht zu werden.
+
+(2) Kraftwagen, die vor dem 1. Jänner 1989 bereits einmal in Österreich zugelassen waren, sind von Art. I Z 1 und 3 hinsichtlich § 1 d Abs. 1 Z 3 Kategorie B ausgenommen; sie müssen jedoch den bisherigen Vorschriften über Auspuffgase (Abs. 1) entsprechen.
+
+(3) Kraftwagen in geländegängiger Bauweise, die vor dem Inkrafttreten des Art. I Z 4 (§ 1 d Abs. 2) gemäß Art. V Abs. 1 unter Anwendung des § 1 d Abs. 2 KDV 1967 in der Fassung der 18. Novelle zur KDV 1967, [BGBl. Nr. 395/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_395_0/1985_395_0.pdf>), genehmigt wurden, sind von Art. I Z 1 (§ 1 d Abs. 1 Z 3) ausgenommen; sie müssen jedoch den bisherigen Vorschriften über Auspuffgase (Abs. 1) entsprechen. Fahrzeuge, die unter diese Ausnahme fallen, dürfen jedoch nach dem 31. Dezember 1988 nicht erstmals zugelassen werden.
+
+(4) Bis zum Inkrafttreten des Art. I Z 1 hinsichtlich des § 1 d Abs. 1 Z 3 Kategorie B (Art. V Abs. 2 lit. a) ist zur Bestimmung des Merkmales der geländegängigen Bauweise im Sinne des § 1 d Abs. 1 Z 3.1.2 KDV 1967 in der Fassung der 18. Novelle zur KDV 1967, [BGBl. Nr. 395/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_395_0/1985_395_0.pdf>), und der 20. Novelle zur KDV 1967, [BGBl. Nr. 279/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_279_0/1986_279_0.pdf>), § 1 d Abs. 2 in der Fassung des Art. I Abs. 4 anzuwenden.
+
+(4a) Von Art. I Z 1 (§ 1 d Abs. 1 Z 3) sind Kraftwagen der Kategorie B ausgenommen, wenn sie vor dem 1. Jänner 1989 in das Bundesgebiet eingebracht oder im Zollgebiet aus Bestandteilen hergestellt wurden, die vor dem 1. Jänner 1989 in das Bundesgebiet eingebracht worden sind. Solche Fahrzeuge dürfen, wenn für sie eine besondere Ausnahmebewilligung des Bundesministers für öffentliche Wirtschaft und Verkehr vorliegt, noch bis 30. Juni 1989 zugelassen werden; dies gilt jedoch nicht für Fahrzeuge, die vor diesem Zeitpunkt bereits einmal in Österreich zugelassen waren. Eine derartige Ausnahmebewilligung wird nur erteilt, wenn das Fahrzeug noch nicht im Ausland zugelassen war und wenn glaubhaft gemacht wird, daß die Erfüllung der Erfordernisse des § 1 d Abs. 1 Z 3 Kategorie B KDV 1967 mit einer beträchtlichen wirtschaftlichen Belastung verbunden wäre.
+
+(5) Von Art. I Z 6 (§ 3 Abs. 2) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(6) Von Art. I Z 7 (§ 3 g Abs. 3) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind; sie müssen jedoch den bisherigen Vorschriften entsprechen.
+
+(7) Von Art. I Z 8 (§ 3 h Abs. 4) und Z 9 (§ 3 i Abs. 5) sind Fahrzeuge ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(8) Von Art. I Z 10 (§ 3 j) sind Sattelanhänger ausgenommen, deren Type oder die einzeln vor dem Inkrafttreten dieser Verordnung genehmigt worden sind.
+
+(9) Reifen, die dem Art. I Z 14 (§ 4 Abs. 4 c) nicht entsprechen, dürfen nach dem 31. Dezember 1987 nicht mehr feilgeboten und nach dem 31. Dezember 1992 nicht mehr verwendet werden.
+
+(10) Formblätter für die Abmeldung (Anlage 4 a), die nicht dem Art. I Z 29 entsprechen, können aufgebraucht werden.

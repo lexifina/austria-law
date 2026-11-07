@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 15. Dezember 2021, dass die Verordnung des Landeshauptmannes der Steiermark vom 14. Jänner 2021, mit der zur Bekämpfung der Verbreitung von COVID-19 eine zusätzliche Maßnahme festgelegt wird, LGBl. Nr. 3/2021, gesetzwidrig war StF: [BGBl. II Nr. 22/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/22>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

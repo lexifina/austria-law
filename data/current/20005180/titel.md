@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Übereinkommen zwischen dem Bund und dem Land Kärnten betreffend die Übernahme eines Teiles der Landesstraße B 317 als Bundesstraße S 37 Klagenfurter Schnellstraße im Bereich der Gemeinden Klagenfurt, Maria Saal, St.Georgen am Längsee, St.Veit an der Glan und Frauenstein StF: [BGBl. II Nr. 504/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/504>)
+
+Aufgrund des § 1 Abs. 3 Bundesstraßengesetz 1971 (BStG 1971), BGBl. Nr. 286 in der Fassung des [BGBl. I Nr. 58/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/58>), wird kundgemacht:

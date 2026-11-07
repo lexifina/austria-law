@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control, mit der das Clearingentgelt für die Erfüllung der Aufgaben eines Bilanzgruppenkoordinators im Erdgasbereich festgesetzt wird (Erdgas-Clearingentgelt-Verordnung 2023) StF: [BGBl. II Nr. 275/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/275>)
+
+Auf Grund des § 89 des Gaswirtschaftsgesetzes 2011 – GWG 2011, [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>) idF [BGBl. I Nr. 23/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/23>) in Verbindung mit § 7 Abs. 1 und § 21 Abs. 1 Z 3 des Energie-Control-Gesetzes – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>) idF [BGBl. I Nr. 7/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/7>), wird verordnet:

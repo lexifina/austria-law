@@ -1,0 +1,3 @@
+Verordnung zur Durchführung und Ergänzung des Gesetzes zur Vereinheitlichung des Rechts der Eheschließung und der Ehescheidung im Lande Österreich und im übrigen Reichsgebiet (Ehegesetz). Vom 27. Juli 1938. StF: [dRGBl. I S 923/1938](<http://alex.onb.ac.at/cgi-content/alex?aid=dra&amp;datum=19380004&amp;seite=00000923>) ([GBlÖ Nr. 302/1938](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=302/1938&amp;SkipToDocumentPage=True>))
+
+Auf Grund des § 131 des Gesetzes zur Vereinheitlichung des Rechts der Eheschließung und der Ehescheidung im Lande Österreich und im übrigen Reichsgebiet vom 6. Juli 1938 (Reichsgesetzbl. I S. 807) verordne ich:

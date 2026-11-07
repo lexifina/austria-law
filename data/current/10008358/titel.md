@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Inneres vom 11. Dezember 1974 über die Festsetzung der Pauschalvergütung für den verlängerten Dienstplan und einer pauschalierten Aufwandsentschädigung für die Beamten des rechtskundigen Dienstes bei den Bundespolizeibehörden StF: [BGBl. Nr. 46/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_46_0/1975_46_0.pdf>)

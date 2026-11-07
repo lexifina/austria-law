@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit betreffend das Verbot des Bereitstellens auf den Markt von Tierarzneimitteln oder Arzneimitteln, die bestimmte Stoffe mit hormonaler oder thyreostatischer Wirkung oder ß-Agonisten enthalten StF: [BGBl. II Nr. 229/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/229>) \[CELEX-Nr.: [32008L0097](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0097:DE:HTML>)\]
+
+Auf Grund des § 5 Abs. 1 des Arzneimittelgesetzes, [BGBl. Nr. 185/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_185_0/1983_185_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 115/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/115>) und die Bundesministeriengesetz-Novelle 2009, BGBl. I Nr. 3, wird verordnet:

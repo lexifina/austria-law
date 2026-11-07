@@ -1,0 +1,2322 @@
+{
+  "sample_only": false,
+  "included_provisions": 59,
+  "source_provision_count": 59,
+  "schema_version": 1,
+  "gesetzesnummer": "20012143",
+  "short_title": "Wertpapierfirmengesetz",
+  "abbreviation": "WPFG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40270436",
+    "valid_from": "2025-07-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012143&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:27:56.826581+00:00",
+    "response_sha256": "e3f37f9a1d619cc79f6fd21ff0f7228c959e3b90bec7753242b5338134e4cf8c",
+    "snapshot_sha256": "6fe8a50647dcbbebb7ec7d83c3748a19577ef4db6ef275764b64fd104e8fed36",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": "Inhaltsverzeichnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5215a055ac4cecde44b46af40224f6fe09b38d04ce6728218e61a79fc1292eb0",
+      "sha256": "a4406aba385658ec053191478bee4c1ff9aecf7d70fb1a6706e84b705501a069",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Beaufsichtigung von Wertpapierfirmen (Wertpapierfirmengesetz – WPFG) StF: BGBl. I Nr. 237/2022 (NR: GP XXVII RV 1757 AB 1815 S. 187. BR: 11125 AB 11133 S. 949.) [CELEX-Nr. 32019L2034]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 49/2025 (NR: GP XXVIII RV 132 AB 139 S. 35. BR: AB 11680 S. 980.) [CELEX-Nr.: 32024L2994, 32019L2034, 32013L0036, 32009L0065] BGBl. I Nr. 5/2026 (NR: GP XXVIII RV 366 AB 380 S. 63. BR: 11763 AB 11768 S. 986.) [CELEX-Nr.: 32023L2864, 32024R0886, 32015L2366, 31998L0026] BGBl. I Nr. 93/2026 (NR: GP XXVIII RV 621 AB 634 S. 101. BR: AB 11885 S. 997.) [CELEX-Nr.: 32024L1619, 32024L2994, 32026L0374]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 237/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237"
+        },
+        {
+          "text": "RV 1757",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1757"
+        },
+        {
+          "text": "AB 1815",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1815"
+        },
+        {
+          "text": "S. 187.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/187"
+        },
+        {
+          "text": "11125",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11125"
+        },
+        {
+          "text": "AB 11133",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11133"
+        },
+        {
+          "text": "S. 949.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/949"
+        },
+        {
+          "text": "32019L2034",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L2034:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 49/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/49"
+        },
+        {
+          "text": "RV 132",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/132"
+        },
+        {
+          "text": "AB 139",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/139"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "AB 11680",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11680"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        },
+        {
+          "text": "32024L2994",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024L2994:DE:HTML"
+        },
+        {
+          "text": "32019L2034",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L2034:DE:HTML"
+        },
+        {
+          "text": "32013L0036",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32013L0036:DE:HTML"
+        },
+        {
+          "text": "32009L0065",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0065:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "RV 366",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/366"
+        },
+        {
+          "text": "AB 380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/380"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11763",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11763"
+        },
+        {
+          "text": "AB 11768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11768"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32023L2864",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2864:DE:HTML"
+        },
+        {
+          "text": "32024R0886",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024R0886:DE:HTML"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "31998L0026",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0026:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 93/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/93"
+        },
+        {
+          "text": "RV 621",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/621"
+        },
+        {
+          "text": "AB 634",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/634"
+        },
+        {
+          "text": "S. 101.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/101"
+        },
+        {
+          "text": "AB 11885",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11885"
+        },
+        {
+          "text": "S. 997.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997"
+        },
+        {
+          "text": "32024L1619",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024L1619:DE:HTML"
+        },
+        {
+          "text": "32024L2994",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024L2994:DE:HTML"
+        },
+        {
+          "text": "32026L0374",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32026L0374:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Abschnitt Anwendungsbereich und Begriffe",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "Art / Paragraf",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Grundsätze der Beaufsichtigung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständige Behörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ermessensspielraum der FMA bei der Anwendung der Verordnung (EU) Nr. 575/2013 auf bestimmte Wertpapierfirmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit im Rahmen des Europäischen Finanzaufsichtssystems",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit zuständigen Behörden anderer Mitgliedstaaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vor-Ort-Prüfungen inländischer Zweigstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geheimhaltung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kooperationsvereinbarungen mit Drittländern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Pflichten der Abschlussprüfer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunfts- und Informationseinholungsbefugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung von Verstößen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Anfangskapital, Angemessenheit des internen Kapitals und interne Risikobewertung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anfangskapital",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Internes Kapital und liquide Aktiva",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Interne Unternehmensführung, Transparenz, Behandlung von Risiken und Vergütung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich des 4. Abschnitts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Interne Unternehmensführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Länderspezifische Offenlegungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Funktion der Geschäftsleitung im Rahmen des Risikomanagements",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Funktion des Aufsichtsrats im Rahmen des Risikomanagements (Anm.: Funktion des Aufsichtsrats oder des sonst nach Gesetz oder Satzung zuständigen Aufsichtsorgans im Rahmen des Risikomanagements)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behandlung von Risiken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vergütungspolitik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wertpapierfirmen mit außerordentlicher finanzieller Unterstützung aus öffentlichen Mitteln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vergütungsausschuss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung der Vergütungspolitik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Aufsichtliches Überprüfungs- und Bewertungsverfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtliche Überprüfung und Bewertung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Laufende Überprüfung der Erlaubnis zur Verwendung interner Modelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Aufsichtliche Maßnahmen und Befugnisse",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsbefugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusätzliche Eigenmittelanforderung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Empfehlung zu zusätzlichen Eigenmitteln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusätzliche Liquiditätsanforderung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahme bestimmter kleiner und nicht-verflochtener Wertpapierfirmen von den Liquiditätsanforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit der Abwicklungsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unterrichtung der EBA",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Beaufsichtigung von Wertpapierfirmengruppen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendung des Gruppenkapitaltests gemäß Art. 8 der Verordnung (EU) 2019/2033 (Anm.: Anwendungsbereich des Gruppenkapitaltests gemäß Art. 8 der Verordnung (EU) 2019/2033)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahme von der Beaufsichtigung auf Einzelbasis gemäß Art. 6 der Verordnung (EU) 2019/2033",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständigkeit der FMA als konsolidierende Aufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationspflichten in Krisensituationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtskollegien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit der FMA mit anderen zuständigen Behörden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachprüfung von Informationen über Unternehmen in anderen Mitgliedstaaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einbeziehung von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eignung der Geschäftsleiter und der Mitglieder des Aufsichtsrats einer Holdinggesellschaft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gemischte Holdinggesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewertung der Aufsicht in Drittländern und andere Aufsichtstechniken",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Abschnitt Meldungen von Wertpapierfirmen und Veröffentlichungspflicht der FMA",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldungen von Wertpapierfirmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Offenlegung der Anlagestrategie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungspflicht der FMA",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Abschnitt Strafbestimmungen, Veröffentlichung von Maßnahmen und Sanktionen, Meldung an die EBA",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung von Maßnahmen und Sanktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung an die EBA",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10. Abschnitt Übergangs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise und Verordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzungshinweis",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "(Anm. Anlage zu § 21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grundsätze der Vergütungspolitik und -praktiken)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Anwendungsbereich und Begriffe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb9a5b79730746c897a5ea6650625e7a94b6746e90cd82c89ac43a896c7723a5",
+      "sha256": "07d955252c82cf88887b77af261b34a0e0020c7ea9e1401dfcac346d530123ce",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        },
+        {
+          "text": "BGBl. Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_0/1993_532_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14fe29580c5ee258d017791c76da83730d36d0e761aa2771de65e1fa000a3195",
+      "sha256": "24ce51249912399b6227e497ba89d216404d1d6fc8c718d240709b996cb1c5aa",
+      "notes": [],
+      "links": [
+        {
+          "text": "dRGBl. S 219/1897",
+          "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de"
+        },
+        {
+          "text": "BGBl. I Nr. 70/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/70"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Abschnitt Grundsätze der Beaufsichtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df3b0ff286d41a6820811506e8938b23afc865924cf413fb53264cd0aa99432f",
+      "sha256": "f421e3df55c5b683817dfac158e221b5c7d4c0be91f10c312d98e0032f454ad3",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 56 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Ermessensspielraum der FMA bei der Anwendung der Verordnung (EU) Nr. 575/2013 auf bestimmte Wertpapierfirmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c22b45c6b8101bd0c126b72dca02d979724e6114e6ba6c26f380985c07ae280",
+      "sha256": "8e2cdc928852aae7a7854eb8f34d9a6981dccd68ea8c4954ac547bdf895652cb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Zusammenarbeit im Rahmen des Europäischen Finanzaufsichtssystems",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a1d6c6e56b75a7092b0015086041c7e805e2b7fb8b60f4cb133b29b010c2a83",
+      "sha256": "e9ab6986e74b1c72820ab6507c0a55f8236cd045da5aeda23709c83fd4d827be",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Zusammenarbeit mit zuständigen Behörden anderer Mitgliedstaaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a0fc42ecd8dc8740adbe30f2fb5956dced5edba0322ad1fcc3ce437a143b693",
+      "sha256": "880b01affe11e894bc178ab1978daca07bd08b16706bee27d9770d9300db27a1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Vor-Ort-Prüfungen inländischer Zweigstellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69c5b0cc2488797b8b3936cb532d38877769845a1e2f999d9b07743ec5b21708",
+      "sha256": "902c6e07aa194df890a2251108160fda31b5d0ca75f549f342da7b205bb0d167",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Geheimhaltung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3c23fdb4179ea38e572af220717bc6a6968a352410c0d55b8d9d70a6fa34b1e",
+      "sha256": "4aab7305a0672f3c63860fccbc1db241eb9f8f96f18041751634c2618f4d6533",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 97/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_97_1/2001_97_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/98"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Kooperationsvereinbarungen mit Drittländern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66a5d1d402f819355d9a4f86fc3a7500119362f03cd1e644b9043a61e4c95d5d",
+      "sha256": "8debd7c8f6cc23a9e8fdfcaa1548034b50df205c57a086beacb93f32cb53ac5d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Pflichten der Abschlussprüfer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad97ba3ea03e0673c21cb1d346ff504743cd4963ebb778c49e87c74a6bc74b53",
+      "sha256": "43d0c35967b8b670717cbac8ae9830bb351906b1edf24c7b57859e11e6f562a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Auskunfts- und Informationseinholungsbefugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebfb3330617140048cf5fc2c7407036e0ac732b6d84eac6a01d56629eb811db0",
+      "sha256": "71f65697294cd443654271a0c0fd4150fdb68d8e6d2f65ef54c44c7840d81616",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Meldung von Verstößen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce4870dea9e0f083d93df8627a023216112771509a5400630d3d87a58a5d496a",
+      "sha256": "b1c7db67d3eb226de6de065be578ece9348ae19863dce792be1cf2e14cf6dc7d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "3. Abschnitt Anfangskapital, Angemessenheit des internen Kapitals und interne Risikobewertung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5282961d1f4ab20ed22a3dca80458c432f62872942522e0a9315c10b67501612",
+      "sha256": "a0910d17717a65f9c223f049d56c2a8d77001302be18ec2b293a093defbe0eb9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Internes Kapital und liquide Aktiva",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed0d6834b5a241197280e38eede67dac6f241efa1a24ed4569c1c30c5a4c9a4c",
+      "sha256": "06d788b99d286efa73932c85311880564eb9c68a094bb03258b03ce5418543c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "4. Abschnitt Interne Unternehmensführung, Transparenz, Behandlung von Risiken und Vergütung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fcf437b7f2b709d3e5e9958d2bb751c6dec78aa6db5306e14a9f1ad4472fdf2",
+      "sha256": "baabb8321bdf4ed8fc2cc2d80223bfe53b934152a3514f7f4f63c315a68185b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Interne Unternehmensführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2247a7e2bf09b417b9e0c7e15323536efe6a861523c6152297c8a6dd793ef41f",
+      "sha256": "35534612bb795184e5fe028adbf941bc538c77301fb8b39a41f7a4c0b83ad0c0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Länderspezifische Offenlegungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "588dd4864c5cf433362f10d13cec65367d89981205c17ac956d2a3645ddc2cb6",
+      "sha256": "cb6fe7c02dba215b8f48fda28f8affc496efd1a4789a3e70818e923311673e5d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Funktion der Geschäftsleitung im Rahmen des Risikomanagements",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f8f5c3afb6e9756efa1dbc69e4c291aaae5ffdeb227c66cf07cb34738e6b954",
+      "sha256": "32c942561b24d3e57fb4bfe98274f6b83804ae2ef48f4135ad1c4be815a65428",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Funktion des Aufsichtsrats oder des sonst nach Gesetz oder Satzung zuständigen Aufsichtsorgans im Rahmen des Risikomanagements",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0191946cde79df0d48b8f4388c62a84fb39c035fa93728813dc890cc4059959",
+      "sha256": "bf6a9d32dd7e610b64f2884ef72ef808942d6fb47ed564a311fcfe94eb685786",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Behandlung von Risiken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1114ea9310e8ede777ac3cae7b385ae96b0113053ed3a66be9ed7eed9a7f78c1",
+      "sha256": "6235703c5251506cfaa5de273ad909b53774469b92fd7a3d6bd099b538e32912",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Vergütungspolitik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b654baa1634ebfe1bf4bd4aefd80cf86f07b6e44fea821702f6b85c05ba0074",
+      "sha256": "75472edf75977c6491938c2f33df953c2734b1903a7f9957b413c89332a289ae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Wertpapierfirmen mit außerordentlicher finanzieller Unterstützung aus öffentlichen Mitteln",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5e8b8ea53859530bea106f60beb36b01c79f260cec43a738c21838a49535845",
+      "sha256": "2f9072d363bd285ae795317d17e2932d8309f3945135ef2ab4053bc7bbede5f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Vergütungsausschuss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cbe408e0040f5a291c67723e91ad658298dff7285b3ac3ccaff5dcf54e773978",
+      "sha256": "8abba0926226b133c6402d8560dc4afbc35c79be81aae488d8efdbbbc27012b0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 22/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Überwachung der Vergütungspolitik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ccb68e6e4cda6773a8a4613f980b12a4c0d86f549f4a420ef00a46f3365e3713",
+      "sha256": "b6d8b44ee7bc444ddd351275d991fae7e4bb92d578c181f81c203e06f7fc2612",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "5. Abschnitt Aufsichtliches Überprüfungs- und Bewertungsverfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b8dc0c91967694b91760560c2f6fea27365e4848f9b7a62de5121debf268b660",
+      "sha256": "5fd91ed5af9353adf7c7eeb267b342bcc6cafeb48c11e846eae53e7bd55ee090",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Laufende Überprüfung der Erlaubnis zur Verwendung interner Modelle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9558192d130e099f4f63dd7d7b889f2c65a6ac3af25f27be7c4582114aded3b8",
+      "sha256": "a272fc9c14bd95237cea886b4c023acbf5d1b5586cd2f066cba7c83445d7b2a3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 50/1984",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_50_0/1984_50_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "6. Abschnitt Aufsichtliche Maßnahmen und Befugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e470ad738f95049e6357329942159021801335277508a5da9186e9c57e6545a",
+      "sha256": "d81df6982f05eee358f95e1ec5379ad526f64e6ae7e64e0d8c2c9f60a436ad31",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Aufsichtsbefugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4274b6374e4f294c59fa9d1fe953c88d1829c680a164c3082f8316b4de087357",
+      "sha256": "fa916d2a7703eb88c675f1546261d71fc93495fe70470006c77788234733ae74",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Zusätzliche Eigenmittelanforderung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "508f3f175f55e2796310335f0e9d693df91ef835b77366986990b5d561cc2dac",
+      "sha256": "0ba866c2153a53918a24ae6056a949ab701ced1fdfee01174e4ecb153a408194",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Empfehlung zu zusätzlichen Eigenmitteln",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7d56003ef28a1d8834f440aa86b93988a9aa107dcdca5d974af1d14bf0636b36",
+      "sha256": "e0ed63003abfa4f4d542149596f0a113b41f5a49d6a28c80ff8ff62381a33838",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Zusätzliche Liquiditätsanforderung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b34cd4d42ae08d123bc9dd60ba0aec62c73bbff14518567ea918dd4684955305",
+      "sha256": "29e1c6ffe92b4bac1618ef7df048fc21fdcd576256bc0cfa5594d975317e6225",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Ausnahme bestimmter kleiner und nicht-verflochtener Wertpapierfirmen von den Liquiditätsanforderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a8a0133c10fc594aeb240055185b217c2f80a37f4e77dd27a14c32c9e5b0cbc",
+      "sha256": "87f11af6801aad27b2362b9b9b466634b69b452cb8831bfd4781af6706311770",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Zusammenarbeit mit der Abwicklungsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20ce9844633f5bd9c0d1c3f2b777c123c088289c268fe6d585a1b8122e2acf90",
+      "sha256": "7bb94d6c41a0d9318da07cd054fdb94bcb5f16d2d5675cd8bb57fb96fd4dacc8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Veröffentlichungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da396e96bfa78a9c7582ed75c2610c09f013586be6d72521c72cabd1d1de6400",
+      "sha256": "2c2a182035fdc5f820678970d0e10472f8531ada4ab64b89250a83e5f58d1bac",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 56 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Unterrichtung der EBA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "510caaacf3e9a0eca004e59fc93bbbf0ad9942c0af552ea83d8919856a0f8a93",
+      "sha256": "654c70449fb3bcb47fd2e17bb11dac1215e80d1b584f4d6a18c9aa846abd2b27",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "7. Abschnitt Beaufsichtigung von Wertpapierfirmengruppen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d28d82a23c166007325cd6e1a415effd10fc9d80d16dce74a51cb96e7b86eea8",
+      "sha256": "d29ed74d6e03c94167f30bff623e1b0d8e38c5b75d9ecbd78ae99f3b324767f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Ausnahme von der Beaufsichtigung auf Einzelbasis gemäß Art. 6 der Verordnung (EU) 2019/2033",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6f2364d52a9f5194fa8e20c3a81e071501141ebb12a8837becb29d14cce089b8",
+      "sha256": "b53ec55ba30585179d42f1a49979b75e9a74c7801cba934102ba1ff4031995f3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Zuständigkeit der FMA als konsolidierende Aufsichtsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c0e74ff82deee364f0ea519719b34a30ed6f20af152ae32a0cc5827aa58cd77",
+      "sha256": "2b891c4bc9d1b58542a28de12a22b5b96a0dbaf543940b1b4e85f8e64c546459",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Informationspflichten in Krisensituationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c809d4cbe2258f62fd52861dfce4e477987c17b449b5cc722b94dd6b055cde65",
+      "sha256": "414c4c6a019119df8840433bdb2234e0cfcf3563e52ba8f7ffec5705cb9bdb00",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Aufsichtskollegien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3178f9f95af2f635c1e4e691712242d0b9e4775d5456546476834b120079184d",
+      "sha256": "1b72ab505a39376f7c9b48e695c8d6e0635e8187006692835ed96b24e5e8a9f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Zusammenarbeit der FMA mit anderen zuständigen Behörden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "185e01bb8282347918d6aa290d5a6c4ce346c44f93ecbb7f9a4e0724fc505535",
+      "sha256": "352455353a250b9c565e8eb5a38dfb3bf20035530a95d3a3914688d1eef6c6d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Nachprüfung von Informationen über Unternehmen in anderen Mitgliedstaaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6a58cf94da5e962f9170ebf02d08f4c9032ccc020733aac5e768ac2f5dd8a83",
+      "sha256": "83fed7af83614ae77de147ef9fbbcc313321ec92040c38543990686d68ebe729",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Einbeziehung von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c98335c9be3c0bc995a3d2a0d5614e2f5957ca24c36b08b6f291d0575ca04e38",
+      "sha256": "77b33e5152d726c41845d9fd5318ce39eb992dbbe9c49de44e2bd0eecdb68289",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Eignung der Geschäftsleiter und der Mitglieder des Aufsichtsrats einer Holdinggesellschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6252853bb81935f73b16ad636895cc5ca31b59ce4403860d6ab44825478a105b",
+      "sha256": "ce183362a1d9cb05a56c4389f9049b3231ce0bb30c337764ca741e872e3f42b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Gemischte Holdinggesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "96ddaf7b72ffc1a8bc088d43c5ab96517c5fb6cb86e0eca50becd037fd5efda7",
+      "sha256": "b80c066a59d3c23060cac744e9b960c3aff3373018a7a69a22c5807e0a12fb1e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Bewertung der Aufsicht in Drittländern und andere Aufsichtstechniken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bca2d19c297024e2a5f4a21d96e67675e4d62700c0b10765f6fc3315a6f038c1",
+      "sha256": "6cdcbe4a6a4512ec85931b26dae265a3226d780d88ebfa8433856f03cb643392",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "8. Abschnitt Meldungen von Wertpapierfirmen und Veröffentlichungspflicht der FMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "526d1f128ebe12d57aa72c033de41fd895c3ad2dc531701675e462f801f4f9b3",
+      "sha256": "a8ad2033700511206f08e78d4c46c755a4d24c620e53432344742ddcfb65d1d3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47a",
+      "source_heading": "Offenlegung der Anlagestrategie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0047a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3439a5208f81eb6ded6a2723fa12c971ffe1397d680a8e59420e6e2b0f351524",
+      "sha256": "b6f932db7719cc60f282594fe7557e4ae23fa0fc6eb7b5637960627e1ec17c41",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Veröffentlichungspflicht der FMA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba974819c0ab1269baa08f368d96a370b6f4777f41b34351a4ef9ec33b5ccc23",
+      "sha256": "f6f82c68402096337add62a5521c2b3eb6c16e3c52b56f289747c505aa5edf58",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "9. Abschnitt Strafbestimmungen, Veröffentlichung von Maßnahmen und Sanktionen, Meldung an die EBA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "151b6dae486f1ebf8ca7298d7a5be2cad064eda036ce9487c435b71f1f143129",
+      "sha256": "82edcd88e2f3f8f37976593af6d12679e09fb5f00d7eca798b3143311bcf337d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Veröffentlichung von Maßnahmen und Sanktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49556a1b655d3c22d357a72172836a015c1c42d55e24c31a4e276ca4b9cb1d38",
+      "sha256": "ac0203dde84e0997df40aca5985dc6050acb833ac959df27417c7db241814014",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 56 Abs. 3"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Meldung an die EBA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6eadc72430e13115abbbf37f62a42f918bb73bca674eb22b6e4e8f39d053737c",
+      "sha256": "e50d5dc8a94d94cdeed9ec8917ce480752a469e2d2aff099616cededd4c51918",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "10. Abschnitt Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9cc7500f21e74bc60523ab05b31c39ae96244c09607d634610c62bafec75c362",
+      "sha256": "3956e6f19e1af894a21da7f0e21f3d0ff0f09bdab80b03849507c6f92630b403",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 237/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237"
+        },
+        {
+          "text": "BGBl. I Nr. 237/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237"
+        },
+        {
+          "text": "BGBl. I Nr. 237/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237"
+        },
+        {
+          "text": "BGBl. I Nr. 237/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Verweise und Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aae84e315afa6020b0ca2fcf98804302b1559b9e4ea7be251c99b64ce6e1503e",
+      "sha256": "47d5c91947c18488325624d844249e11ed1c0fd4795ba4d988d5099c239f0c9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0140bdc0b819584519449d0c4c2bbb06d763be5dc7974ba765ab598e6d961b56",
+      "sha256": "f78b1ef7a7b05afeb3307f86b218ec7c35c69e46c90b47cb3160884fdd350985",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 237/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/237"
+        },
+        {
+          "text": "BGBl. I Nr. 49/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/49"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "BGBl. I Nr. 93/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/93"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d70cb9e50af043c7945ee909a1389f8e3f17c801cc9a1c71f24999a01a820f55",
+      "sha256": "a3235136f113022d3b19068c3674c29f775fefa9bd78ef648220b0501a5c1222",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9dae0aa7da89c39d4ed7aa7736289b0b45c24f2c296fef4ea925f3c88e487fb",
+      "sha256": "731091fc92e2f34cdf45a6ac97753f729730a8274636c8c8b1103fef489bef0a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 49/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/49"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "BGBl. I Nr. 93/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/93"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage zu § 21",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "44e76b2f403f049e56c9663a7693c1aec6cdd69cd7edf6890a2594119ea057b6",
+      "sha256": "22204c6b23f57d2915de036436ef69243b72aa43c765deac9b2cf04891704b65",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

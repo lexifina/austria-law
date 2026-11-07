@@ -1,0 +1,953 @@
+{
+  "sample_only": false,
+  "included_provisions": 23,
+  "source_provision_count": 23,
+  "schema_version": 1,
+  "gesetzesnummer": "20004722",
+  "short_title": "Straßentunnel-Sicherheitsgesetz",
+  "abbreviation": "STSG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40151202",
+    "valid_from": "2014-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004722&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:18:57.399451+00:00",
+    "response_sha256": "e3edf4714e9b765999b5fc2c029654b09e0c0b2cf7ccbfcc001a95d227eaa872",
+    "snapshot_sha256": "1368c4caa744bab50fe3fd8a335a2055e02ca86de9d6603eb9803daf24109806",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": "Inhaltsverzeichnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9000053d61b3606245d5acf7cab2910b532b48011e5233dc6f9711614d27c76",
+      "sha256": "36ffe9f2b878661515a277dbaa5f8cea2ebfa92ac11310dd17715659e4092896",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Sicherheit von Straßentunneln (Straßentunnel-Sicherheitsgesetz – STSG) StF: BGBl. I Nr. 54/2006 (NR: GP XXII RV 1328 AB 1378 S. 142. BR: AB 7505 S. 733.) [CELEX-Nr. 32004L0054]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.) [CELEX-Nr.: 32010L0012] BGBl. I Nr. 96/2013 (NR: GP XXIV RV 2194 AB 2352 S. 203. BR: 8972 AB 8987 S. 821.) BGBl. I Nr. 123/2022 (NR: GP XXVII RV 1531 AB 1543 S. 167. BR: AB 11058 S. 944.) [CELEX-Nr.: 32019L1936]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 54/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/54"
+        },
+        {
+          "text": "RV 1328",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1328"
+        },
+        {
+          "text": "AB 1378",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1378"
+        },
+        {
+          "text": "S. 142.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/142"
+        },
+        {
+          "text": "AB 7505",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7505"
+        },
+        {
+          "text": "S. 733.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/733"
+        },
+        {
+          "text": "32004L0054",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0054:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "RV 981",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/981"
+        },
+        {
+          "text": "AB 1026",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1026"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/90"
+        },
+        {
+          "text": "8437",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8437"
+        },
+        {
+          "text": "AB 8439",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8439"
+        },
+        {
+          "text": "S. 792.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/792"
+        },
+        {
+          "text": "32010L0012",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0012:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 96/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/96"
+        },
+        {
+          "text": "RV 2194",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2194"
+        },
+        {
+          "text": "AB 2352",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2352"
+        },
+        {
+          "text": "S. 203.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/203"
+        },
+        {
+          "text": "8972",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8972"
+        },
+        {
+          "text": "AB 8987",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8987"
+        },
+        {
+          "text": "S. 821.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/821"
+        },
+        {
+          "text": "BGBl. I Nr. 123/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/123"
+        },
+        {
+          "text": "RV 1531",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1531"
+        },
+        {
+          "text": "AB 1543",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1543"
+        },
+        {
+          "text": "S. 167.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/167"
+        },
+        {
+          "text": "AB 11058",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11058"
+        },
+        {
+          "text": "S. 944.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/944"
+        },
+        {
+          "text": "32019L1936",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1936:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "§ 1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geltungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben der Tunnel-Verwaltungsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben des Tunnel-Managers",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben des Tunnel-Sicherheitsbeauftragten, Anforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Periodische Übungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Genehmigung des Tunnel-Vorentwurfs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderungen vor Inbetriebnahme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inbetriebnahme von Tunneln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erstbewertung und Anpassung der Konformität von Tunneln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Änderungen an in Betrieb genommenen Tunneln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tunnel-Sicherheitsdokumentation",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tunnel-Risikoanalysen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebühren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behördenzuständigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13a",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Örtliche Zuständigkeit der Landesverwaltungsgerichte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13b",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufschiebende Wirkung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollzugsklausel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezugnahme auf Richtlinien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten, Außerkrafttreten, Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anlage",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sicherheitsmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7150b5e8fe9cbb005835fa3d5a7bbb65101a8fb8504f0274f04493f5607f40be",
+      "sha256": "9dade4ccba19121780bfc5cefa51117070395d6ba098ae8ad57ea116ec06065d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9175f680966cc156e27be27103f5b1c52ef8b4ee1248b4dcb6a4dabff6deeab",
+      "sha256": "7cca75767e0eedb1e377a35985926b74e5d1a9c81e18966ff0d26aef61a26169",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Aufgaben der Tunnel-Verwaltungsbehörde",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3862b2209818b7363630c2c0d35b1835ea59bac38cf63fb8d425f727f8d09796",
+      "sha256": "df3b52eb74a699f830c89910325927b4e14bd3363361d2f0d0e22a5db4feb011",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 286/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_286_0/1971_286_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 51/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_51_0/1991_51_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Aufgaben des Tunnel-Managers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5027bf0a6d25b244baf22ac5c246057c1a6c86330e65e36153ade1867530a76",
+      "sha256": "e6d63150142d688304a1cd6df2146e1ced82db18a787d538beb9fa02daffeb48",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Aufgaben des Tunnel-Sicherheitsbeauftragten, Anforderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2283d148336186775a4d893eb8917ee6412d805a6ca0ae9beea466250d659c6f",
+      "sha256": "e51e8e2204fa590977c74b29efca8591558b3d7c8c6b4fa1cc6a62fa68c76840",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Periodische Übungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "849707028064c8e67d4a723f61cb729e01b5edbf598e5e627ff725c6c3a2fd56",
+      "sha256": "513f11299684d52050909b9d7b0acd5860d21e48a1be301c4c5b7de5e5686ed5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Genehmigung des Tunnel-Vorentwurfs",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d2a73baf0fc3bdd1a0589373a13e0000aaa561ba9c5c6f70bbc363ee06a7512",
+      "sha256": "332a83af681bf99b10aded29c3065f2ff18c788b295059aad8abdaedaa4688ac",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7a",
+      "source_heading": "Änderungen vor Inbetriebnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0007a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "99d1c666c4bc9fe876fe60a2aab731b4ebda133580a0e31c9d312a8ddb041855",
+      "sha256": "1bbc2cc682c84349923847df7106d0687287575c3bf50a28f3700c0129871c7b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Inbetriebnahme von Tunneln",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e76f31437542ab90878c4b36540b4c76a6123aa391c7caafb508628395a8c950",
+      "sha256": "5c9e948c1d9b55183a91e9da50bcd49177d175462552137891768c043d7d140d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Erstbewertung und Anpassung der Konformität von Tunneln",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6442c6765bf2abcb2e5ccee30a38ef95944fa9568ccb5ac87fff8ca615bb3ea9",
+      "sha256": "f4d6ef7c5d8b37885fbb7c2b98593b08facf344549bfaeba10875e7595539257",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Änderungen an in Betrieb genommenen Tunneln",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd835034b8f6b61437e173a79dbfc58a72fc585c706b93a1ef4e0e01ebad8daf",
+      "sha256": "42715e9e0f1d1a35c17ac2a42cc258df7cd2ae2e1eac79415a83ef40e5c2aab9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Tunnel-Sicherheitsdokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b786dce941d438f6e44d37f0c1619e7e4852b7745be5d91c3a87e5792de16624",
+      "sha256": "c33d4e5354340b62a8ae8c77c2acde6cc5c3c24ece012bc44819f8c03c030e63",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Tunnel-Risikoanalysen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7327ca65315f0b90aaf23cb879f85b902247ed57515d3af60bb89674157a9839",
+      "sha256": "29915694f64f085c9b2ef0ca8376d93a8ef2973c8eac73f105ef44924a1df6c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12a",
+      "source_heading": "Gebühren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0012a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73d828fff492b7d06697eb8b422ab23c8b06f4e9043b4c94a71e7f2ba6db2637",
+      "sha256": "fa9a5ab49202ba743fad4df90bb6322545dce7da8fce344a52e7be57121ccea0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Behördenzuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36e3d166a6d8f9fdbb327343c36e16469124895eb658ef7733d5027ed5c24f21",
+      "sha256": "5e5d987a9c4f61358b332702b87ecaec607ffcb25ccc8b73446dd319a44b6618",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13a",
+      "source_heading": "Örtliche Zuständigkeit der Landesverwaltungsgerichte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0013a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acd70e174885dcddb9a6320dfaf852073c7e4f7f258335a17fefb5a99f40cc64",
+      "sha256": "f7a9e255124e71c73fe38907646f3627287431c431066defbb0d2144ce19e1bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13b",
+      "source_heading": "Aufschiebende Wirkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0013b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e1cae714c70478fd55cee5918f44f5ceebae50e4b9eccd6d8fa5224f37cfe87",
+      "sha256": "af3ad7c2f743d258ed153ea3979a27a04f4e06fb1087e5297d017d17e92a000e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 33/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/33"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3dfbeeda16af270ec0640ad07e123e64b269af5b66ed2a3364073f172abfc5e3",
+      "sha256": "44e7d5daf80761f88a5d1c3568501cb2ce37b7320d043f98561bd13b3b061d71",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Vollzugsklausel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3e5023bcae14607d9f6deaab0fd31d0389fe9b0d056d2ef592cacce7611d4d9",
+      "sha256": "61a20fbef3c7c8716711b506cfd8c020f1be7429d2e2fe397859bcc282ac2da2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Bezugnahme auf Richtlinien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "44092e160b8c482d035dd552900b5f466013888385fe802facce34d0e0742b80",
+      "sha256": "b3fe18aaeb01921d977b111dd9b26e2e5b83170b50018d6c495b9bef2d9d8bce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Inkrafttreten, Außerkrafttreten, Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1e2b273c1745e9e1506494e2b20a835e47085a774dbc879356dbaab9cd96de2",
+      "sha256": "8282854a068a6e14bc12ccddaf46c510d464894559ea42b578583cbe461a4216",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 96/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/96"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "970f28a8d44c6122a8719f26729bf7bd8db750d5843ffc5c6d004fabec62d6fc",
+      "sha256": "b860d25b141d15d051fa07b1af390f1adae1e5305da2aedfb7dd264c54c95882",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40125585/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40125585/image002.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40125585/image003.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40125585/image004.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

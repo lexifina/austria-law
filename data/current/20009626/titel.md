@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz über die Beurteilung des Pflegebedarfs von Kindern und Jugendlichen nach dem Bundespflegegeldgesetz (Kinder-Einstufungsverordnung zum Bundespflegegeldgesetz – Kinder-EinstV) StF: [BGBl. II Nr. 236/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/236>)
+
+Auf Grund des § 4 des Bundespflegegeldgesetzes (BPGG), [BGBl. Nr. 110/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_110_0/1993_110_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 12/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/12>), wird verordnet:

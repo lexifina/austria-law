@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers über den Abschluss eines Übereinkommens mit den Dachverbänden der österreichischen Kreditinstitute StF: [BGBl. II Nr. 189/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/189>)

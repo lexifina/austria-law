@@ -1,0 +1,1 @@
+Abkommen zwischen der Österreichischen Bundesregierung und Japan zur Abänderung des Abkommens zwischen der Republik Österreich und Japan über den Luftverkehr StF: [BGBl. Nr. 452/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_452_0/1993_452_0.pdf>)

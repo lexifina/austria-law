@@ -1,0 +1,3 @@
+Verordnung des Vorstandsvorsitzenden der Telekom Austria Aktiengesellschaft, mit der die Verordnung vom 17. März 2005 über eine Ausgleichszahlung nach § 9 Bundes-Bediensteten-Sozialplangesetz (BB-SozPG) für gemäß § 17 Abs. 1 und 1a Poststrukturgesetz (PTSG) der Telekom Austria Aktiengesellschaft oder einem diesen Gesetzesbestimmungen unterliegenden Tochterunternehmen zur Dienstleistung zugewiesene Beamte aufgehoben wird StF: [BGBl. II Nr. 260/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/260>)
+
+Gemäß § 17a Abs. 3 Z 2 Poststrukturgesetz (PTSG), [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 96/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/96>), wird verordnet:

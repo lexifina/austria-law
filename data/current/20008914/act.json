@@ -1,0 +1,2611 @@
+{
+  "sample_only": false,
+  "included_provisions": 59,
+  "source_provision_count": 59,
+  "schema_version": 1,
+  "gesetzesnummer": "20008914",
+  "short_title": "Bundes-Energieeffizienzgesetz",
+  "abbreviation": "EEffG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40261155",
+    "valid_from": "2024-04-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008914&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:22:59.687091+00:00",
+    "response_sha256": "513966e3d2fdbf159f073dc4d0ac452f7f950587aca11212bee47ccc516fe7f3",
+    "snapshot_sha256": "37f5625f4b7b79712c61ca3e2b9b95f463b0cc716ca3036fd7fdde7c4e6bba01",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5324ac7817654bbb8ba5280b0bf21959c395b8914be6ed70b0803c34cd027ea",
+      "sha256": "65be94fa6ab32ec3e97b3af33b763e7bbd74c041826aa0bced9ace9227de01b8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Verbesserung der Energieeffizienz bei Haushalten, Unternehmen und dem Bund sowie Energieverbrauchserfassung und Monitoring (Bundes-Energieeffizienzgesetz – EEffG) StF: BGBl. I Nr. 72/2014 (NR: GP XXV RV 182 AB 205 S. 36. BR: 9204 AB 9222 S. 832.) [CELEX-Nr.: 32009L0028, 32009L0072, 32012L0027]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 68/2020 (NR: GP XXVII RV 68 AB 281 S. 45. BR: AB 10382 S. 911.) [CELEX-Nr.: 32012L0027] BGBl. I Nr. 59/2023 (NR: GP XXVII IA 3426/A AB 2050 S. 217. BR: AB 11237 S. 954.) [CELEX-Nr.: 32018L2002] BGBl. I Nr. 29/2024 (NR: GP XXVII IA 3951/A AB 2469 S. 257. BR: AB 11467 S. 965.) [CELEX-Nr.: 32023L1791]"
+        },
+        {
+          "kind": "Umsetzungshinweis für folgende Bestimmung",
+          "text": "CELEX-Nr.: 32023L1791"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        },
+        {
+          "text": "RV 182",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/182"
+        },
+        {
+          "text": "AB 205",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/205"
+        },
+        {
+          "text": "S. 36.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/36"
+        },
+        {
+          "text": "9204",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9204"
+        },
+        {
+          "text": "AB 9222",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9222"
+        },
+        {
+          "text": "S. 832.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/832"
+        },
+        {
+          "text": "32009L0028",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0028:DE:HTML"
+        },
+        {
+          "text": "32009L0072",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0072:DE:HTML"
+        },
+        {
+          "text": "32012L0027",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0027:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "RV 68",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/68"
+        },
+        {
+          "text": "AB 281",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/281"
+        },
+        {
+          "text": "S. 45.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/45"
+        },
+        {
+          "text": "AB 10382",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10382"
+        },
+        {
+          "text": "S. 911.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/911"
+        },
+        {
+          "text": "32012L0027",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0027:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/59"
+        },
+        {
+          "text": "IA 3426/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3426"
+        },
+        {
+          "text": "AB 2050",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2050"
+        },
+        {
+          "text": "S. 217.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/217"
+        },
+        {
+          "text": "AB 11237",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11237"
+        },
+        {
+          "text": "S. 954.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/954"
+        },
+        {
+          "text": "32018L2002",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L2002:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 29/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/29"
+        },
+        {
+          "text": "IA 3951/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3951"
+        },
+        {
+          "text": "AB 2469",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2469"
+        },
+        {
+          "text": "S. 257.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/257"
+        },
+        {
+          "text": "AB 11467",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11467"
+        },
+        {
+          "text": "S. 965.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/965"
+        },
+        {
+          "text": "32023L1791",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L1791:DE:HTML"
+        },
+        {
+          "text": "32023L1791",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L1791:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis 1. Teil Kompetenzdeckung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfassungsbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Teil Bestimmungen bis Ende 2020",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nationaler Energieeffizienz-Aktionsplan und Energieeffizienz-Aktionsplan des Bundes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überprüfung und Planung der Klima- und Energieziele",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energiemanagement bei Unternehmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energieeffizienz bei Energielieferanten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwaltungsstrafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten einfachgesetzlicher Bestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Teil Bestimmungen ab 2023 1. Abschnitt Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zielbestimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzung von Unionsrecht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamtstaatliche Energieeffizienzziele",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Energieeinsparungen bei Haushalten und begünstigten Haushalten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beratungsstellen für Haushalte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unterstützung von Haushalten und Koordinierungsstelle zur Bekämpfung von Energiearmut",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Energieaudits, Managementsysteme und Energiedienstleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energieaudits und Managementsysteme bei Unternehmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Standardisiertes Berichtswesen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Qualitätsstandards",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektronische Liste",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Energieeffizienzverpflichtungen des Bundes",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorbildfunktion des Bundes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energieexpertinnen und Energieexperten des Bundes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energieberaterinnen und Energieberater des Bundes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erwerb und Miete des Bundes von unbeweglichem Vermögen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energieeinsparungen des Bundes und der BIG",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Energieeffizienzverpflichtungen des Bundes und der BIG",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nutzung von Registern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Einzelverbrauchserfassung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Voraussetzungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Individuelle Verbrauchszähler und Heizkostenverteiler",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fernableseanforderungen und Datenschutz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Behörde und Verfahren",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Behörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 57.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben und Befugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 58.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sachverständige und Verfahrenskosten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 59.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Elektronische Meldeplattform",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 60.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 61.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überprüfungen vor Ort",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 62.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewertung und Anrechenbarkeit von Energieeffizienzmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 63.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mess-, Kontroll- und Prüfsystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 64.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dokumentation von Energieeffizienzmaßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 65.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren zur Prüfung von Energieaudits und Managementsystemen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 66.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verfahren zur Eintragung in die elektronische Liste",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 67.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Vorschriften für begünstigte Haushalte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 68.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwaltungsstrafen und Zuständigkeiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 69.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Finanzierung und Kostenvorschreibungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 70.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichts- und Informationspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 71.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Energieeffizienzinformationen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 72.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Marktinformationen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 72a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rechenzentren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 73.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Energieeffizienzstatistik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Abschnitt Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 74.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 75.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen für die Kalenderjahre 2021, 2022 und 2023",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 76.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen für Energiedienstleisterinnen und Energiedienstleister",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Abschnitt Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 77.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 78.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 79.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "In- und Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 80.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlassung von Verordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 81.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anhang 1 zu § 42",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mindestvorgaben für Energieaudits und Managementsysteme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anhang 2 zu § 70",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Richtwerte der Länder zu Endenergieeinsparungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Teil Kompetenzdeckung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa5d6e4232fb0fb45c7fc35a8e4b1e632f9b896b266c78000a2804c689566303",
+      "sha256": "0d81532fd34d4e539ffe07f3b348538684667c9bf017d470e2808dffda128abb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "2. Teil",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "16987ef903f4ff9c73fa44a570afb0c5b5af1f58d6c63cfd506f450e657958b3",
+      "sha256": "aaf55563ffe9009a7127f4e24769133ff4f9bf60786041c63ede505597294352",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Überprüfung und Planung der Klima- und Energieziele",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1f5393d8634b03ade93ae2085a8028318eb2cf7085c438a20192b80b3ff05289",
+      "sha256": "16a9dd52c17a229fa849fc1b322fd2ad399f9a461dc40fa883a5d4da498a89f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Energiemanagement bei Unternehmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cf3e587e4724bf3ef1dda7ebcf6454350ae42af752f3582f1a0279bac904fa6a",
+      "sha256": "54ded832281ac108e0e406425cc88b0134e31b2295239742069c6e17e3355090",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Energieeffizienz bei Energielieferanten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81bdc2b97c0f5a8ab379df7e685ac9b5d32e71cd1cd63ba2adca2bbc748f1f73",
+      "sha256": "bc209ee4ec52d89066dc5d721015670477c82854d2ef906d0fb07fe70556d87d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Verwaltungsstrafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac32840a7f8385f0bcdec9d9da9f69f5f49fc034f1ded7dd1a2152fb71a98de8",
+      "sha256": "cf689193364892e03a75a65d652e472d55f63a39819233352cfe09bd0bdf3cb3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef987b3715d3ab5223bd4a382c01eebbe0f36cc769f245c2474f6aada3fca12f",
+      "sha256": "27db0033b0c677a790f4315ce2a6ae9ae657b4eb062a201cd210158c134d54d7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Inkrafttreten einfachgesetzlicher Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4cb00d83116277f62b7060ebbc5510669c8ed6d3483bcabb291e2f66a81c83d",
+      "sha256": "e74af013d62aaef7079c9c02eabf0fd1316b487022eb9a6b6588c92df7cc8b37",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "3. Teil Bestimmungen ab 2023",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ba173383ec514c52054ba05f8046e6fef69c8facb0226ec4d7d47a0a7be620f",
+      "sha256": "69b8baf47d02b8501cdcc07e52b02d276ccf76cd3b86bfb7eadd936a31f46d69",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Umsetzung von Unionsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c872ab2200c018a5244f92439b5bb3d73942f9d5927ac3ede2e2472e83e9d65b",
+      "sha256": "c77b0d79932b5491a0a2c98d268ded0c180b45fb989bf19a8617a0b6739d788c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89f3331c6cedf0f5b4c7ebbdfcba27ae7e0df16d0b4881aabf3601973a30cfa3",
+      "sha256": "329321f462eb0fff9568b97f6a70cc9ae67a47434fd28662d309f094d7c0c6ea",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 170/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_170_0/1970_170_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 185/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_185_0/1993_185_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 337/1914",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=337/1914&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 33/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/33"
+        },
+        {
+          "text": "BGBl. Nr. 152/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 31/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/31"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Gesamtstaatliche Energieeffizienzziele",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b87d185199c445eaca7889d378461d97570ac51d5c81f4059a442b1b588f066a",
+      "sha256": "9159aefe9da16cb69bcde24d99a7b0e840d5675189c6b74e75d39bfac930940b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. 185/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_185_0/1993_185_0.pdf"
+        },
+        {
+          "text": "BGBl. 185/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_185_0/1993_185_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "2. Abschnitt Energieeinsparungen bei Haushalten und begünstigten Haushalten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c26ecd70ed1f6887ba0fbe42f39360487a441ad50ecea2290aef8c88d9b427da",
+      "sha256": "99512042267e2a981a0da60afc9dbf54dcdea8ded544a8618bb9754e782c0393",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Unterstützung von Haushalten und Koordinierungsstelle zur Bekämpfung von Energiearmut",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c682dfbaee7f54607bcf008314fd7df710e1e620d9f126c48efafc5ddadcfa6d",
+      "sha256": "ba93911d67bab964fcea21fe21e7f31ae966b4a5ca4aa30ab1829d545a41f3c0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 76/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "3. Abschnitt Energieaudits, Managementsysteme und Energiedienstleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62bd2c0bae4c9ffef3f4e109cd9a503862df10799bc7cfd2b86a39e4fad1de0e",
+      "sha256": "b00a2014cd0c2c55dc9eb0225b2363e5556ce2794354075e0fe7220e56ccdbb8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Energieaudits und Managementsysteme bei Unternehmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57f861cd89f39b0cba94eabcd63685b2468b2a5c59d3316863a4cbd978367a69",
+      "sha256": "1a4429c2cc387bf8b437e9d5edcc1d77388f0d1ae068e0cd4e308eff4a0d4cf7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Standardisiertes Berichtswesen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c0d761577ae4cbaf78e4b1855d5e83e7978c8e9be53d7f06e1e5d34af92e7f9",
+      "sha256": "5b92d90ca8cf7bbbf16db273ef4936c23e983b788530b40899be8bb8eac1667f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Qualitätsstandards",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "888cede258bad6a216f2957daf03c5f1c31457e41b2a58a6c81eb255f644b0f9",
+      "sha256": "bc667431e4a022c9167e2dcb0b13607a3145c5bb850e39dfd53db8cc04095bc4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Elektronische Liste",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eefdbb75ea2dd6c0478fea86e30e300bc98084b4cedf2cae67736ed51ad82e9c",
+      "sha256": "c814c9ee554242971cd4f21274b5a6ee2ba2c3d171e61c3d8ea7f3f929c2f3a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "4. Abschnitt Energieeffizienzverpflichtungen des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b48baaf71a2499dafcd18bfe88c85182a570e0405a61a73dabcea0d66d6209a9",
+      "sha256": "ac94d740197666ae789aeb814350584c383e12cb398c95179493e4e066cb362d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "Energieexpertinnen und Energieexperten des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f17929d110289d0fe7b015b7f9ce139cea6c207202410e538e917afb98a24b8",
+      "sha256": "df4f0c9cdd613082d6d1cea63e288cdb4a7256cb832d150ce6ccc4f6ca426c47",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 251/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/251"
+        },
+        {
+          "text": "BGBl. II Nr. 213/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/213"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Energieberaterinnen und Energieberater des Bundes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20127e6b1da90140e1afba22e8e465deacd432a6fad658c56c9d903dbea3bd5c",
+      "sha256": "2da18fba7eda2d78b882f0b3e446796662f3de1386936b3ad40fd66a62713f11",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Erwerb und Miete des Bundes von unbeweglichem Vermögen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "377113667cc2f9402dd6531a86bc4dfaa61a98459da1a9eba54b4e31bac93c9d",
+      "sha256": "2c12312f071edd6fee0c41a0e3ddd1315b3dd73a9cc4d9bd81fe4a044ab43a7d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Energieeinsparungen des Bundes und der BIG",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40933f4a1a1a7c15a20053e55b01c3a7c37653f9cc9674e27a4e5b8e4656e81b",
+      "sha256": "05df3b216dbb23e825f94fc4e8b90a186b5bd93e0effe57ab2d77ed695b9633a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "Sonstige Energieeffizienzverpflichtungen des Bundes und der BIG",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc6b8fb4e1abdf93984ea15efd50e31d5a34bf45e66eb66f620a1f373932d266",
+      "sha256": "0f0e724817241e7467c619da19dc1e346c4415608f41e9f2c1c5042b46fd4bae",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 27/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/27"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "Nutzung von Registern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a92bc6a03cd3933b6f4c1a35620d9530260e4cca4cb8c881985692797d6383c",
+      "sha256": "63c9919df2279b1e9eca1e24785dbb8eb033be47fa1b98a294521da5c9fdc5e3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 9/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/9"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "5. Abschnitt Einzelverbrauchserfassung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "28c45b714472966e4581b4b7beef681795ea85663e5a467ae95edbec8040d8a6",
+      "sha256": "e14a0682e0eb8f42f6b1910f0232f5e4e81a8cf6fbd63132e0be957b06c502e6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "Individuelle Verbrauchszähler und Heizkostenverteiler",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a5df2012866f956ac3e9b19e78ed10abc31aa13e9e77bb3589eef9cd96b0c96a",
+      "sha256": "99e397e73c2ab4b66b8e63e54b9f0c3ad865502d3ac23f6224d887c546347911",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "Fernableseanforderungen und Datenschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ddc5ed69f4b1012f560dd6b3c30998a1586c65d61eff6df4e25660c89486935",
+      "sha256": "296f57d60a382feecf7ef26bd5b0567ece4e1120ea4491e79b4d170763394daa",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 278/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/278"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "6. Abschnitt Behörde und Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6bc3636f34e9822f05806ab6a5437166169339a8b0dc48e9497f34da71bc2205",
+      "sha256": "2a865cb17fa5bf869bf90d2f2562c448724832a7a801ba16cba448c58fcb0754",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "Aufgaben und Befugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f06b48a0689b083052fa84ec2b4f401e05639149a918f836c4626a839bb36164",
+      "sha256": "f26555463502e06489243a62d52ce54c40eb695f39a5e3f4db2afcdcc53ff8eb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "Sachverständige und Verfahrenskosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d34a20cff3642d9b027e40ac1b3d63fda79c4c6830645d419641ed12aab3f255",
+      "sha256": "4903f46e5f9501a15369b1e5c6f1272b1c7b3e16d1f233bab1d7407ea51c8fcd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 51/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_51_0/1991_51_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "Elektronische Meldeplattform",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b487c612d91d1b0e470e6bf11b3743afd0695da771c6154ed5bf1519ce96d1c7",
+      "sha256": "8ab3b41f7930796bf65070811d4fc53ab3278c066d1942db72fa7ff7549f3b16",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 60",
+      "source_heading": "Meldepflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f4c47a270ecb73e68b025fcf23e191921d19c40d40e602028fb3f20c4a069c59",
+      "sha256": "b197796775c25c631bcd6ff00acea2200835ac76ef20a1e793e69bc8cc8848a5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 61",
+      "source_heading": "Überprüfungen vor Ort",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec616cccc991faf52214706fae76cf89cc214b88d05a42593635e6d7b8b376a9",
+      "sha256": "d192845200a3d6927238326c16f90b48bda0a51baecace3af30c5c1a96bce70c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 62",
+      "source_heading": "Bewertung und Anrechenbarkeit von Energieeffizienzmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ccd8755bf5c1abc7cd85a9baa27a28a3167d688eafa3cbf7f1d7f716c9db55d6",
+      "sha256": "20379f9bb70b10bfccb405fb6acbc7b68a0a32608a98c17c0764b4927294b7f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 63",
+      "source_heading": "Mess-, Kontroll- und Prüfsystem",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4853638e2afce144c7e3b2cbaeaefa678d3d3b3c8fc27810c8f4ba616fa86097",
+      "sha256": "603bb842f20caf00acf6138d54b55e99a81adafa1b9a263c71644974b30dc132",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 64",
+      "source_heading": "Dokumentation von Energieeffizienzmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3387842d59159b9488dfc4aaa01d1173439994f045a717cb3a9f24a3ffaba18e",
+      "sha256": "9a86c22974c934c0cdf1dac7037fa8d378c5e2f638efc1881500b16f5406e527",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 65",
+      "source_heading": "Verfahren zur Prüfung von Energieaudits und Managementsystemen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fdc3e10bba0fb5539f5c0028db333c9fb553e4fb3aff4d7c79155c41c321f3f5",
+      "sha256": "90b6c785875f424df13b36b424b3aec4bc1dd74f237d412c3274562ac06fa6a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 66",
+      "source_heading": "Verfahren zur Eintragung in die elektronische Liste",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52fd1568a3821cfd7c0ef601a418f869c729bc580e7f5db8a1135a5e46a29280",
+      "sha256": "d7a697f5063857d46747e2f6811485bb0f7924670860ad06f1a9feb82b42a7bd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 67",
+      "source_heading": "Besondere Vorschriften für begünstigte Haushalte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12974cecd6cd72d001d4822806869c793abfe0828067cc13fac9c9248273ed0c",
+      "sha256": "458d6f721c16ffdcb8d52703e64e2cff79a6f09281b56afb99a2570729c2f2f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 68",
+      "source_heading": "Verwaltungsstrafen und Zuständigkeiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc9f4d8a0a2e10ea8ae8f77936a99d922d138fceab40afff50aa97d4c09a89a3",
+      "sha256": "66bf58eb30e5e73f510e672cbe0cdd9001fe63675d2ea7fa0743f384d5890293",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 69",
+      "source_heading": "Finanzierung und Kostenvorschreibungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad811b351450c4d020bb8f91ad21f0237cae9a437e1b583473d10bd2f8132f55",
+      "sha256": "e4bf4ffc7516af06be177af82bf6f3c9a1128ef73defb653568a6e9a51754939",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 70",
+      "source_heading": "Berichts- und Informationspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8469f6eab29c920bd578ac515abec65feecb2956cd389ea27fe12de2473f8a0a",
+      "sha256": "51238f82c201387ecad05e79220068c51c3b1987a73b14474dca497529bf0dc5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 71",
+      "source_heading": "Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dbd485117b13ca90c05638569793f678137a0917aca690c2a1ae8a9c8413be22",
+      "sha256": "d89d0ab8b1f95a68662b64448e067f055067045c2c4f1ee7d5c0d63638a6dc21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72",
+      "source_heading": "7. Abschnitt Energieeffizienzinformationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56e6f2f15bda5c3241d5356cb8ecf587c3abacedd7b3689331574f4ffb7e988c",
+      "sha256": "3e3be08480b82f93e983b1519e9be1b30362ae00644467d0a1afef9924c4e7c3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72a",
+      "source_heading": "Rechenzentren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0072a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0ccf11e4e1c4c0eeca899565ea105720328c3c3241db9d16e8ca7a012305b9df",
+      "sha256": "045736179fce65b0c595b5c24bd03d7d040d443fa3e9d6c54d4fdeeb987e85ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 73",
+      "source_heading": "Energieeffizienzstatistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0073.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5edbf103828cefc2d5bffd1c91d50f362c9ece3220181221fb50bacb248cc0c2",
+      "sha256": "1611d4873b09f89861ab2442b8266575e93d8b2d16c11862a33afa19ff758079",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 74",
+      "source_heading": "8. Abschnitt Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0074.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18f830c7ff168d188118b6ab52504f801dec4510c3a0e7892e9498b298eb753f",
+      "sha256": "c8709fd70eb5136e79db070ea3764a2b1f1c8171ca113dadaab00720df1a3d4c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/59"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/59"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 75",
+      "source_heading": "Übergangsbestimmungen für die Kalenderjahre 2021, 2022 und 2023",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0075.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f8e0b6f087aa45a0a35c4cac7e4b41c1f3089e380c5bf3a29b8ce3a6a019d1e",
+      "sha256": "3b9ab482dcc64c0958f644c412aa4494a3033ba223652839095a0dfd4538d023",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 76",
+      "source_heading": "Übergangsbestimmungen für Energiedienstleisterinnen und Energiedienstleister",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0076.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "795c61379c072f7ee1301f14833a4ed35cae1dab6067eaedd6336b58ff5cea42",
+      "sha256": "1b5b164b85dee7ae0edf5dcf585929e560ffb14f30405322d9fe2ecb95df9dc7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 77",
+      "source_heading": "9. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0077.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc91563f5388ce238dcdbfe941dda4c920ce8f2456852a78c5b30e261cf5040d",
+      "sha256": "a72684f0f101ce76e727d6b210cb4581bbf5f9895e2af9a1753250630f23f5bd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 51/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_51_0/1991_51_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 170/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_170_0/1970_170_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 76/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 9/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/9"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 1/1930",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1930&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 65/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/65"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/27"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 150/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/150"
+        },
+        {
+          "text": "BGBl. I Nr. 142/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_142_1/2000_142_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107"
+        },
+        {
+          "text": "RGBl. Nr. 337/1914",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=337/1914&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 152/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 33/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/33"
+        },
+        {
+          "text": "BGBl. Nr. 185/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_185_0/1993_185_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 78",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0078.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4f097b504cfb88965eb308505fd85215b8b8380bef248e2a85e35cd1f3539e4c",
+      "sha256": "bc2f0600d0dcafc266cde896f568a17af0bef5af14a8e1a44cdc986ab583be6d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 79",
+      "source_heading": "In- und Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0079.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "928ee9830ad14b3869bce0562afabd4f5f37d1e77767fbfd1523b3001d3261b5",
+      "sha256": "791c239d5bdb6d5bc35aa6f7fa2dbe62dae59a63330d93f9523d404793d876f5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 59/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/59"
+        },
+        {
+          "text": "BGBl. II Nr. 394/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/394"
+        },
+        {
+          "text": "BGBl. II Nr. 172/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/172"
+        },
+        {
+          "text": "BGBl. II Nr. 83/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/83"
+        },
+        {
+          "text": "BGBl. I Nr. 29/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/29"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 80",
+      "source_heading": "Erlassung von Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0080.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b23bbe07d9a63e235330dc81c53935bd54ee0b12b9c2ea51e990e3f64cd36ea",
+      "sha256": "939063ca620581af800b49f5540c4bab73f3d9db9bac4e9509c32c85b0a91f42",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 81",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0081.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab00f465e36080046427c2c916e7f809653ffc8f16269907934e52d35315841e",
+      "sha256": "f18b5b065b4228966ba9d45e3e0299f6f763e67cdfd4e9ccf7866237225bbe7c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang 1 zu § 42",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "16edaa9f1e192c5d3ef28b4f40a6075eb9d3744b5877079629c2964c74e310a8",
+      "sha256": "189ff963bbee2d77251e871b8afe82a159f93f12424308088f0968f05d2e1320",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anhang 2 zu § 70",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8ce610d16de4ba3ddfbe7c7366fd8b42204747381f5b62e7bf94326be9d6122d",
+      "sha256": "93623f0b23af9f69e1eb0f3bcd219e0f4bae2f7d284003582e95a7fd88e89f01",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Bundesland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kalenderjahr 2020 (Startwert in Terajoule)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beitrag zu Gesamtein-sparungen (in %)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Burgenland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "35 158",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kärnten",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "86 612",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Niederösterreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "256 161",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "24",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Oberösterreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "238 589",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "22",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Salzburg",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "66 311",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Steiermark",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "188 235",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "17",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Tirol",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "87 670",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorarlberg",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "41 963",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Wien",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "134 640",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Vermarktung von Speisekartoffeln StF: [BGBl. II Nr. 244/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/244>)
+
+Auf Grund der § 4 Abs. 1 Z 2, § 5 Abs. 1, § 14 Abs. 2, § 16 und § 21 Abs. 2 des Vermarktungsnormengesetzes – VNG, [BGBl. I Nr. 68/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/68>), zuletzt geändert durch das Bundesgesetz, [BGBl. I Nr. 189/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/189>), wird – hinsichtlich der § 4 Abs. 1 Z 2, § 5 Abs. 1 und § 16 im Einvernehmen mit dem Bundesminister für Gesundheit und dem Bundesminister für Wissenschaft, Forschung und Wirtschaft – verordnet:

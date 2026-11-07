@@ -1,0 +1,3 @@
+Bundesgesetz über die Rechtsstellung der Volksgruppen in Österreich (Volksgruppengesetz – VoGrG) StF: [BGBl. Nr. 396/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_396_0/1976_396_0.pdf>) idF [BGBl. Nr. 575/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_575_0/1976_575_0.pdf>) (DFB) und [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB) (NR: GP XIV [RV 217](<https://www.parlament.gv.at/gegenstand/XIV/I/217>) [AB 299](<https://www.parlament.gv.at/gegenstand/XIV/I/299>) [S. 30.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/30>) BR: [AB 1557](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1557>) [S. 354.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/354>))
+
+Der Nationalrat hat beschlossen:

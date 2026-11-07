@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. April 1980 betreffend die Abkürzung der Bezeichnung der Organisation für gewerbliches Eigentum des englischsprachigen Afrika StF: [BGBl. Nr. 210/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_210_0/1980_210_0.pdf>)

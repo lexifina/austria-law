@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 12. Dezember 1986 über die Aufhebung der Verordnung des Bundesministers für Verkehr vom 17. August 1976, Zl. 69.164/3-IV/5-1976, über die Durchführung von Instandsetzungs-, Erhaltungs- oder Nebenarbeiten im Bereich von Autobahnen im Land Oberösterreich durch den Verfassungsgerichtshof StF: [BGBl. Nr. 714/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_714_0/1986_714_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

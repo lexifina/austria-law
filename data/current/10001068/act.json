@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001068",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 678 (1990)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001072",
+    "valid_from": "1990-12-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001068&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:40:51.882654+00:00",
+    "response_sha256": "7eea4e4681ca10e82f22c32e5b417bf5801ace72c6c53e41d371fbe54ecf192f",
+    "snapshot_sha256": "080398c058b199d2168e6c3ea578a522c6a71d20568405a6a6e93eef6862997e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d43a6d70919f881e4d777f6d1deb6f2a556d3da2314e9de6792755391bb144ce",
+      "sha256": "f91172362ccca72efe8861395b8f75e47b66a0707385cc1447aa714ae35b79dc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 678 (1990), verabschiedet auf der 2963. Sitzung des Sicherheitsrates am 29. November 1990 StF: BGBl. Nr. 766/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 766/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_766_0/1990_766_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 678 (1990) verabschiedet auf der 2963. Sitzung des Sicherheitsrats am 29. November 1990",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1dfe7e4087a31265b89aefbe64f70444809f9bd5a15c50d6797c0ec10e177e7d",
+      "sha256": "b9e33e6423664577735a642a2382807fe5553a5fd1bf42a13b3669b22bd3ff7a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

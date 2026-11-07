@@ -1,0 +1,1 @@
+Verwaltungsstrafgesetz 1991 – VStG StF: [BGBl. Nr. 52/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf>) (WV) idF [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB)

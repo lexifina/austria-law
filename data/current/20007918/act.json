@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20007918",
+  "short_title": "Bundesstraßenplanungsgebiet im Bereich der Gemeinden Wien, Aderklaa, Groß-Enzersdorf, Raasdorf und Schwechat",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40140913",
+    "valid_from": "2012-07-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007918&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:07:43.097753+00:00",
+    "response_sha256": "dd7fa907cae3364a539d6b0ac5210edbc5636b75ec1ed848eacafefe5edeabfb",
+    "snapshot_sha256": "23c9d004edbfe764286161867f51dc7633c3590e118e2806ac3e977261a85cf1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "629f8ee6b73d52e5eb38ef8cab92954f3fe3070c7724f7a8a35a6299436c4462",
+      "sha256": "0e9dffbdf9a787bc717de427c303a23eba1d69d19595d3928d40f933e9a10601",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Wien, Aderklaa, Groß-Enzersdorf, Raasdorf und Schwechat StF: BGBl. II Nr. 245/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 245/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/245"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/62"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "66f87a08b097d2a53c57adc6e2e766457d0993f8d6546fa2e2916a1134a30da5",
+      "sha256": "0d3cb8cfe2ed29932537ea9d33c39ab16adc355cc1206da6e1f9b1bad3b9c03d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

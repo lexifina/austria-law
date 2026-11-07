@@ -1,0 +1,1 @@
+Notenwechsel betreffend Derogation des Staatsvertrages zwischen der Republik Österreich und der Republik Polen über den wechselseitigen rechtlichen Verkehr StF: [BGBl. Nr. 189/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_189_0/1991_189_0.pdf>)

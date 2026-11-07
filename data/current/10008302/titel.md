@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Inneres vom 19. März 1973 über die Festsetzung einer pauschalierten Aufwandsentschädigung StF: [BGBl. Nr. 209/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_209_0/1973_209_0.pdf>)

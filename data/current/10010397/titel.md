@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 13. Juni 1978 betreffend den Beschluß der Österreichisch-Tschechoslowakischen Grenzgewässerkommission StF: [BGBl. Nr. 310/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_310_0/1978_310_0.pdf>)

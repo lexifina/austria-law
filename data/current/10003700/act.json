@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003700",
+  "short_title": "Errichtung einer zweiten Notarstelle in Scheibbs",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003733",
+    "valid_from": "1999-05-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003700&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:50.747122+00:00",
+    "response_sha256": "a41cd9d07992e3d164afa707d22611dab3674ba702198f789450c94ebfe90ebd",
+    "snapshot_sha256": "eb48559f01c471a1b66fc05731d4ac51edaa9775776d341ae7d0289b9d3b763b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f1475f1a36bf87186be0d1738c7bfd72c5ca0fb32c373357304e3ed0e07f1e8",
+      "sha256": "c18d9a49e68a1470f5d92b8f222ebf11c8ec59db6fac9bba4d6e80ceaa4d8828",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Scheibbs StF: BGBl. II Nr. 154/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 154/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_154_2/1999_154_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f088b6ada8d813ecb383bd2c9622dc541a218a36578fddc13eb4dfeeccb13a85",
+      "sha256": "8806980c9a679cd534dbd352451d141d111b7e3b9069ed2670fd1318f99289b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

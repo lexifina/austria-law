@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010749",
+  "short_title": "Errichtung einer weiteren Notarstelle in Wiener Neustadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40217167",
+    "valid_from": "2019-08-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010749&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:02:28.751821+00:00",
+    "response_sha256": "5f143282917f232d4779e2bbae8dab85420c6e38b11d545bd9c20402f63b2c89",
+    "snapshot_sha256": "9eb5179069a2c7b06d3ad61d033e315fb95c5e08084c434d2b12ebc4683f421e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1de9f3e579bdd1b29b215030f940b18a4b7f75401eac88a4f989774b5992852f",
+      "sha256": "82153b2451c2ed0f50d97c1a629327a2d98c1fbf5d576bccb68fde1d97c4e28e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz über die Errichtung einer weiteren Notarstelle in Wiener Neustadt StF: BGBl. II Nr. 252/2019"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 252/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/252"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/61"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a94cf876d593f5f27383ccf4e48d420f76a1abf656344644a09638f443a1c065",
+      "sha256": "779585d25d79232ca010c4c6989336beb60e10ca6c4aba0219fed3823b6be8d6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

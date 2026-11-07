@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003449",
+  "short_title": "Errichtung einer dritten Notarstelle in Tulln",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003476",
+    "valid_from": "1997-11-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003449&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:15:41.009604+00:00",
+    "response_sha256": "99b29a95b7507540f32feeb98faa265a4be843114edf4872449414a92fe74c05",
+    "snapshot_sha256": "db0c61cfec173208012f4d5bc5044d7262e6aaa029304106f1ebde717d0a5e4c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35009fbd2897f7429fe42fe7aef26d8d86c52e89c34a73d34abd75c065f03661",
+      "sha256": "f2c9da624fea9536a66c32a8faf3311201172c98bfeddc3c92fb46e502a02910",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Tulln StF: BGBl. II Nr. 318/1997"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 318/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_318_2/1997_318_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "942713fd79bc3473c9f2c8eb2f712590f1a595d59a9e0930fb93810c9bd3a53c",
+      "sha256": "87f60726bd2ef0f5ed8947eee64a40ab771f4eed0cd65ddef6f061b9f550ed7f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

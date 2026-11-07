@@ -1,0 +1,111 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10003091",
+  "short_title": "Umstellung des Firmenbuchs auf ADV gemäß § 28 Firmenbuchgesetz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003116",
+    "valid_from": "1993-04-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003091&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:26.997428+00:00",
+    "response_sha256": "41b6fd7860b67ee2fd233e64384ff878817661fc1a511c8e10da3ab86b623461",
+    "snapshot_sha256": "f857fcb74d3d83f8a5cffc4b728e1044256721589e8e77991e5731eeb2331ab0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9f5edc1e425b1dc898501c3b69a4da9ad77c8ae7525534f8f51e8dc2654de62f",
+      "sha256": "e95283d5584a7c0c7bcb64741cd1f67bb796a16ef120d027753cf20fef0a20d3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz gemäß § 28 Firmenbuchgesetz über die Umstellung des Firmenbuchs auf ADV StF: BGBl. Nr. 236/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 236/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_236_0/1993_236_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 10/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_10_0/1991_10_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fffaa8fc1dbb0fbd7575ff00cb584a632afe7f22d75c77741668ed6a9c831359",
+      "sha256": "a7659a0066561b2c1c9a69330c71feb8a50a94e6cad3f372c867d759897ee7d5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6aaacc47dc1fbbc08d6824e78a8e3b60b32476a0244142889221395914e4376",
+      "sha256": "cdcc018f7b5b1a70782fe87c3e4ed06b01d6d5d15e5a2dd74fd8f146afca340d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 10/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_10_0/1991_10_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

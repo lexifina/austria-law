@@ -1,0 +1,3 @@
+Entschließung des Bundespräsidenten vom 31. Dezember 1920, womit die Bundesregierung und die zuständigen Mitglieder der Bundesregierung zum Abschluß bestimmter Kategorien von Staatsverträgen ermächtigt werden. StF: [BGBl. Nr. 49/1921](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=49/1921&amp;SkipToDocumentPage=True>)
+
+Auf Grund des Artikels 66, Absatz 2, des Gesetzes vom 1. Oktober 1920, B. G. Bl. Nr. 1 (Bundes-Verfassungsgesetz), ermächtige ich zum Abschluß von Staatsverträgen, die nicht gemäß Artikel 50 des Bundes-Verfassungsgesetzes der Genehmigung des Nationalrates bedürfen, insofern solche Verträge nicht die ausdrückliche Bezeichnung als Staatsverträge führen oder der Vertragsabschluß nicht durch Austausch von Ratifikationsurkunden erfolgt:

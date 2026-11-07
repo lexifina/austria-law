@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. Juni 1967, betreffend die Ausdehnung des Geltungsbereiches des Europäischen Abkommens vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: [BGBl. Nr. 233/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_233_0/1967_233_0.pdf>)

@@ -1,0 +1,122 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012385",
+  "short_title": "Filmerbeverwahrungsverordnung",
+  "abbreviation": "FilmerbeverwahrungsVO",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40256542",
+    "valid_from": "2023-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012385&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:33:52.298314+00:00",
+    "response_sha256": "97607467b4d7da90875f4f62c61a512c624c3df6b63799bb24548bbe48701a89",
+    "snapshot_sha256": "2755913ca18bf53fc97df5dc3de894d093a728c2afe3cb95d864e663daebab16",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3a2b9182491821ce18eef49966b2a7f8c8bfdaf8f9c95a4dc31928f76c418dd",
+      "sha256": "e7d4cb95fdd4cac76267574057318881ff722d360aa94392786a88521db1c2c9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Kunst, Kultur, öffentlichen Dienst und Sport über die Bestimmung von Einrichtungen zur Verwahrung des filmkulturellen Erbes (Filmerbeverwahrungsverordnung – FilmerbeverwahrungsVO) StF: BGBl. II Nr. 314/2023"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 426/2023 BGBl. II Nr. 365/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 314/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/314"
+        },
+        {
+          "text": "BGBl. II Nr. 426/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/426"
+        },
+        {
+          "text": "BGBl. II Nr. 365/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/365"
+        },
+        {
+          "text": "BGBl. Nr. 557/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_557_0/1980_557_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 219/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/219"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Verwahrung und Eignung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e372b32a043cf9e441b9ffaa920f34f5aa957efdd16f0947734befe4214b8381",
+      "sha256": "f619256b4d8e9db71c83e4437c41f85d31534aadad64500af7d7ceb495cc5952",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "58a15af97adc22d2402d7aa049c51bb79e87f100257b62a24f57123eeb3d004e",
+      "sha256": "1ea3aad5d8c612045a485eb2da4f22a2c75e869a77c23132356a4ba91264ee5e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

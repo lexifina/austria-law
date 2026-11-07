@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 30. Juni 1959 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation. StF: [BGBl. Nr. 157/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_157_0/1959_157_0.pdf>)

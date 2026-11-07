@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft und Arbeit über den Ausspruch des Verfassungsgerichtshofes, dass eine Wortfolge in § 2 Abs. 1 Z 2 der Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der für Auftraggeber im Bereich der Bauleistungen des Bundesministeriums für wirtschaftliche Angelegenheiten der Anwendungsbereich des 4. Teiles des Bundesvergabegesetzes 1997 erweitert wird - Erstreckungsverordnung 2000, BGBl. II Nr. 35, gesetzwidrig war StF: [BGBl. II Nr. 494/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_494_2/2002_494_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

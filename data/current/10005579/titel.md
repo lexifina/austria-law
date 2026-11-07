@@ -1,0 +1,1 @@
+Bundesgesetz über die österreichische Staatsbürgerschaft (Staatsbürgerschaftsgesetz 1985 – StbG) StF: [BGBl. Nr. 311/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_311_0/1985_311_0.pdf>) (WV)

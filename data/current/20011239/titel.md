@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Beförderung gefährlicher Güter mit land- oder forstwirtschaftlichen Zugmaschinen (Gefahrgutbeförderungsverordnung land- oder forstwirtschaftliche Zugmaschinen – GGBV-lof) StF: [BGBl. II Nr. 337/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/337>)
+
+Auf Grund des § 10 des Gefahrgutbeförderungsgesetzes (GGBG), [BGBl. I Nr. 145/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_145_1/1998_145_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird verordnet:

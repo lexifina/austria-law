@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der A 9 Pyhrn Autobahn im Bereich der Gemeinden Micheldorf in Oberösterreich und Klaus an der Pyhrnbahn StF: [BGBl. Nr. 698/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_698_0/1996_698_0.pdf>) idF [BGBl. II Nr. 199/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_199_2/1997_199_2.pdf>) (DFB)
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, zuletzt geändert durch [BGBl. Nr. 297/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_297_0/1995_297_0.pdf>), wird verordnet:

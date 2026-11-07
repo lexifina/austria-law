@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Umwelt, Jugend und Familie über das Inkrafttreten von gesonderten Bestimmungen zur Ausstufung gefährlicher Abfälle StF: [BGBl. II Nr. 357/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_357_2/1998_357_2.pdf>)

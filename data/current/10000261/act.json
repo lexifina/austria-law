@@ -1,0 +1,91 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000261",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000262",
+    "valid_from": "1954-12-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000261&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:25:46.175700+00:00",
+    "response_sha256": "977975b060b5ca87650963c8ecfada7e7c944c2fc5747b4c4240358f1a386fbd",
+    "snapshot_sha256": "1beb3c3fb407325f977176134536eaa3120bfe099ea2826aa8bdd22d8fde81c6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6aa6a654fdbc31c0b1686cec367ddf096ec13fc6af72f518a8ec21f38c012fb3",
+      "sha256": "cb2da143c051ccfc91ec8a8f3c7546c03b7039d27f34f042110407a7005a6e35",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 29. Oktober 1954, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung auf dem Gebiete des Rundfunkwesens. StF: BGBl. Nr. 257/1954"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 257/1954",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_257_0/1954_257_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46f425276591ba8e4cda043fc394586b13c65d82e317e4560c405c374ce30860",
+      "sha256": "d105bfff1020d6d89813e42f254379f41380f5655685cb829c2f9d0902e6e868",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Hinsichtlich der Zuständigkeit zur Gesetzgebung vgl. nunmehr Art. I Abs. 2 des Bundesverfassungsgesetzes über die Sicherung der Unabhängigkeit des Rundfunks, BGBl. Nr. 396/1974."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 396/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_396_0/1974_396_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Artikel 10ter. Die vertragschließenden Länder verpflichten sich, den Angehörigen der anderen Unionsländer geeignete Rechtsbehelfe zu gewähren, um alle in den Artikeln 9, 10 und 10bis bezeichneten Handlungen wirksam zu unterdrücken.
+
+Sie verpflichten sich weiter, Maßnahmen zu treffen, die es den Verbänden und Vereinigungen, welche die beteiligten Gewerbe- und Handelskreise vertreten und deren Bestehen den Gesetzen ihres Landes nicht zuwiderläuft, gestatten, die Unterdrückung der in den Artikeln 9, 10 und 10bis bezeichneten Handlungen vor den Gerichten oder Verwaltungsbehörden in dem Maße zu betreiben, wie es das Gesetz des Landes, in dem der Schutz beansprucht wird, den Verbänden und Vereinigungen dieses Landes gestattet.

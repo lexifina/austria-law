@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Arbeit und Soziales über die Feststellung der Gesetzwidrigkeit der Wortfolge „der Elektro-, Radio- und Fernsehtechniker'' in Spalte 2 Kontingent K 9 der Anlage zur Verordnung des Bundesministers für Arbeit und Soziales vom 20. Dezember 1988, BGBl. Nr. 730, über die Festsetzung von Kontingenten für die Beschäftigung von Ausländern durch den Verfassungsgerichtshof StF: [BGBl. Nr. 37/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_37_0/1991_37_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 des Bundes-Verfassungsgesetzes und gemäß § 60 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

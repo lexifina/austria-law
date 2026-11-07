@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, mit der der Generalkollektivvertrag zu Corona-Maßnahmen zur Satzung erklärt wird StF: [BGBl. II Nr. 451/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/451>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz (ArbVG), [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 61/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/61>), ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit hat mit Beschluss vom 27. Oktober 2021 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:

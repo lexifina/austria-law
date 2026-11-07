@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Durchführung des Praktikantenabkommens zwischen der Regierung der Republik Österreich und der Regierung der Tschechischen Republik StF: [BGBl. III Nr. 31/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2006/31>)
+
+Gemäß Art. 1 Abs. 3 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Tschechischen Republik über den Austausch von Arbeitnehmern zur Erweiterung der beruflichen und sprachlichen Kenntnisse (Praktikantenabkommen), [BGBl. III Nr. 71/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/71>), wird verordnet:

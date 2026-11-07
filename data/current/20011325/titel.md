@@ -1,0 +1,3 @@
+Bundesgesetz über die Kennzeichnung von Schusswaffen und wesentlichen Bestandteilen von Schusswaffen (Schusswaffenkennzeichnungsgesetz – SchKG) StF: [BGBl. I Nr. 117/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/117>) (NR: GP XXVII [RV 360](<https://www.parlament.gv.at/gegenstand/XXVII/I/360>) [AB 383](<https://www.parlament.gv.at/gegenstand/XXVII/I/383>) S. 55. BR: [AB 10432](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10432>) S. [914](<https://www.parlament.gv.at/gegenstand/BR/I-BR/914>).) \[CELEX-Nr.: [32017L0853](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L0853:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

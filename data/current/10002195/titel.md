@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 6. September 1971 betreffend sechs iranische Hoheitszeichen StF: [BGBl. Nr. 381/1971](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_381_0/1971_381_0.pdf>)

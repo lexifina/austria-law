@@ -1,0 +1,1 @@
+Bundesgesetz über die gewerbsmäßige Beförderung von Gütern mit Kraftfahrzeugen (Güterbeförderungsgesetz 1995 – GütbefG) StF: [BGBl. Nr. 593/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_593_0/1995_593_0.pdf>) (WV)

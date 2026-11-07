@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012846",
+  "short_title": "85. Nachtrag zum Arzneibuch",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40268649",
+    "valid_from": "2025-03-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012846&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:44:47.430313+00:00",
+    "response_sha256": "20a9223f9c8f61fe9ea86e82b8d8e55306356294b19280a03ba4bf3d348fcd0a",
+    "snapshot_sha256": "8cbe709dd5fa69430d0d772a23af6787b4747856e22b072957f30f03242e6983",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2e2358ced49eb6589bab4a5d2f3732c0425bcd05420ba89fac09b9abee8e21f1",
+      "sha256": "8ddd245c63e44972c63bea9a5c69544064fc205af841e385f08fc13eb89eff44",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den 85. Nachtrag zum Arzneibuch StF: BGBl. II Nr. 40/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 40/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/40"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/44"
+        },
+        {
+          "text": "BGBl. I Nr. 186/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/186"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e481394913bd3c624492f69227285c052528739932579df2861a873e6c9b13a6",
+      "sha256": "280be7ffd51661a92698cfa7f09ee1f13dc5b6cc30ca0c172e7e954ea0f6d4b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2181dc3a36ea362962d3bdcae870306ed3a51b243bc82f11310288c8ce6e9861",
+      "sha256": "605f9f5e1679c9fe3507ee57e3e1cad6767982f0a235f6696b3e6d7158e1f32a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

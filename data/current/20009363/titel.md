@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über die Informationspflichten für die Krankenversicherung nach Art der Lebensversicherung (Krankenversicherung Informationspflichtenverordnung – KV-InfoV) StF: [BGBl. II Nr. 374/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/374>)
+
+Auf Grund des § 255 Abs. 4 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, [BGBl. I Nr. 34/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/112>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

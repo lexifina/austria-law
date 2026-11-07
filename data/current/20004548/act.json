@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004548",
+  "short_title": "Allgemeine Umstellung der Urkundensammlung des Grundbuchs",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004965",
+    "valid_from": "2006-01-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004548&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:16:20.636087+00:00",
+    "response_sha256": "bf27d69414d7585e52bde934d7ad85fdd60006b333d5af88c4577b53f41b49bf",
+    "snapshot_sha256": "04dd750a0362144c831d2cca06edd1673ec17c1f50e26e89320ddbf5de853443",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c712289618ab3d44639d1967949957efbdf0cc8e417453dc9abff7fe5e5eb548",
+      "sha256": "e59fefe18d643da4644de4c3ead12f5bed5fdfb5a5394bcf294d21947384ab36",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die allgemeine Umstellung der Urkundensammlung des Grundbuchs StF: BGBl. II Nr. 23/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 23/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/23"
+        },
+        {
+          "text": "BGBl. Nr. 550/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_550_0/1980_550_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 128/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/128"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3c86c236c0ab473e1e51fccaa244ca4783c9cd0998d4813a0e83e2b58db5aa4",
+      "sha256": "db16101c1fa2fff644578e4f236147cbecc060b7cb7da093f6cef3770cfd9a5a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "192915070d187891294e8f8d5fce3bcbc6c1a70074b48d2b8b62eaf60ae1a723",
+      "sha256": "57ba44dd911decd4e050a71d5b9c3ad6f49cf7bd9d37091d4cc085284c6ffb8a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

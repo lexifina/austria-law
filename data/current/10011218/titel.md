@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 11. Juni 1934, betreffend den Abschluß eines Übereinkommens mit Griechenland über die meistbegünstigte Behandlung der beiderseitigen Schiffahrt. StF: [BGBl. II Nr. 58/1934](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=58/1934&amp;SkipToDocumentPage=True>)

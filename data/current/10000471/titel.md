@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 17. Juli 1970 betreffend den Beitritt Island zum Protokoll über Rechtsfähigkeit, Privilegien und Immunitäten der Europäischen Freihandelsassoziation StF: [BGBl. Nr. 236/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_236_0/1970_236_0.pdf>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 19. März 1980 betreffend die Bezeichnungen und die Abkürzungen der Bezeichnungen der Europäischen Gemeinschaft für Kohle und Stahl StF: [BGBl. Nr. 157/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_157_0/1980_157_0.pdf>)

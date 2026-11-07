@@ -1,0 +1,1 @@
+Verordnung der Bundesregierung vom 6. Juli 1976 über die Anzahl der vom Dienst freigestellten Personalvertreter StF: [BGBl. Nr. 379/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_379_0/1976_379_0.pdf>)

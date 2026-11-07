@@ -1,0 +1,286 @@
+{
+  "sample_only": false,
+  "included_provisions": 10,
+  "source_provision_count": 10,
+  "schema_version": 1,
+  "gesetzesnummer": "20012015",
+  "short_title": "Kapazitätsberechnungsmethoden-Verordnung 2022",
+  "abbreviation": "KMB-V 2022",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40247123",
+    "valid_from": "2022-09-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012015&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:25:26.058543+00:00",
+    "response_sha256": "fad9d43276852bebc33b9df75bac29b8e752c1bf635115495af1ca9ced24db00",
+    "snapshot_sha256": "2277758c3e3fdc00d09605543e54a43be0f32727c39e4a395a54ffa77ad63378",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4a58caafe8b228c4c13ea210a9728e445787c4c750f24a4316c82c446198c485",
+      "sha256": "cee5aab59028d0cc2e6eb6fbc37c919c810993a4a5d51fc5ce42b3b525feb15c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Vorstands der E-Control, mit der die Methode der verfügbaren Einspeisekapazität gemäß § 20 ElWOG 2010 festgesetzt wird (Kapazitätsberechnungsmethoden-Verordnung 2022 – KBM-V 2022) StF: BGBl. II Nr. 350/2022"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 350/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/350"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 7/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/7"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110"
+        },
+        {
+          "text": "BGBl. I Nr. 7/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/7"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Regelungsgegenstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c3e7e8257a3b16bfc0d91a5c0e9b12abeeab7eeb97b0fb019452e1738a08528",
+      "sha256": "5dddb37491e149a9ffaa2996ba5a6d4f283c80edfa7895c3284d40395b9b46fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b07bf580b93e94ba1a1200d11f82859aaef06844502e3345d9d6dac101cbec17",
+      "sha256": "d5f9fb6593a61c8f1ba9b91627a126c78b9d8b0f7233f9eaaf6ec572fd90b94e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 7/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/7"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "773c160719a19230321ad843188579748924661d38457c637c42bde635ae5c4b",
+      "sha256": "729479554d9f2dbc9d10794e0fa901e0c0760d2d0c5497ccf3c94d1a2e147e94",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 7/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/7"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Berechnungsmethode verfügbare Kapazität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50b6c560dfa2fa28e246dfc606bad5733deea69bacecc745a85538b71a0eb8d0",
+      "sha256": "a70c5214facad9283f83f48c3c46ea8d1efde4bb7b0f552292c71b505e3bcca9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Bestimmung der zulässigen Kapazität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d3b97984b80134622bcbfe1a48eb5b6ab6dbef4b3a64b65c9555da1f291412c5",
+      "sha256": "043b8427f7b370996b5d8a9958de7f5da342c7546ba8b1e7eb6a53280611e872",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40247118/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Bestimmung der genutzten Kapazität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b70cdbdca32550c388c7e1ad1a3dbc222e83d1e3b9200eb342402f58dbd09859",
+      "sha256": "ad100da6a025f9da426226e46b3e60d1b5bb46285af84859798c10aa65781302",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Bestimmung der gebuchten Kapazität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c88f6e2ec09792b6581adec8aab50cfea4cb6ce0ec29ec1c52da0e42ff3a6e5f",
+      "sha256": "2943df047d1cdaa38cf61c63604b33e2fddbadae601964c13ef3bf8ab32afee7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 7/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/7"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Veröffentlichung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a476e4870089bcfe2f814f299b5e6b7d902b3468f21fe7210eaeef8a4871758e",
+      "sha256": "2cdd3ea402f6d2721c177c9ebc494d729f97ab5f94ab63b4f6a37af17b738f5f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "810677f99bd590c34b893181014f90d6f5b150487387192ffed0855700639d29",
+      "sha256": "d3a636de7cba3b0762bed7f673affb9cb222aa17f5b0bd8cd1497d90b850f32a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

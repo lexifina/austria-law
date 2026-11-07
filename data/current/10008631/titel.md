@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit und Soziales vom 30. Juli 1987, mit der die Errichtung und Geschäftsführung der Schlichtungsstellen geregelt wird (Schlichtungsstellen-Geschäftsordnung - SchliSt-Geo.) StF: [BGBl. Nr. 444/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_444_0/1987_444_0.pdf>)
+
+Auf Grund des § 161 Abs. 1 Z 7 des Arbeitsverfassungsgesetzes (ArbVG), [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), zuletzt geändert durch Artikel IV des Bundesverfassungsgesetzes [BGBl. Nr. 321/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_321_0/1987_321_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Justiz verordnet:

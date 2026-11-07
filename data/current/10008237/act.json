@@ -1,0 +1,792 @@
+{
+  "sample_only": false,
+  "included_provisions": 28,
+  "source_provision_count": 28,
+  "schema_version": 1,
+  "gesetzesnummer": "10008237",
+  "short_title": "Kälteanlagenverordnung",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008387",
+    "valid_from": "1973-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "§§ 1, 3, 4, § 5 Abs. 1, §§ 6 bis 24, § 26 Abs. 3 und 4, § 28 und § 29 Abs. 2 bleiben bis zum Inkrafttreten einer Verordnung, die den Betrieb von Kälteanlagen regelt, nach Maßgabe von § 122 Abs. 3 Z 2 und 3 in Geltung (vgl. § 122 Abs. 3 Z 1, BGBl. Nr. 450/1994)."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008237&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:17:22.616655+00:00",
+    "response_sha256": "32f14b8a7fc70b0403c8ea5e62e867c576d82130b48ff26ee97602b58c1b478f",
+    "snapshot_sha256": "bbdadaba2b04b298ab72f709c21efc75c875318558d21050a467807d94c300b2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "05f57468db133ee767bfeda8cb30669882752042d1ebd158444396a7ce854dd6",
+      "sha256": "944b6e6c187ad3912d8300639cd45cd2f84b7fe61f2422b10131b6a40d7f095a",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "§§ 1, 3, 4, § 5 Abs. 1, §§ 6 bis 24, § 26 Abs. 3 und 4, § 28 und § 29 Abs. 2 bleiben bis zum Inkrafttreten einer Verordnung, die den Betrieb von Kälteanlagen regelt, nach Maßgabe von § 122 Abs. 3 Z 2 und 3 in Geltung (vgl. § 122 Abs. 3 Z 1, BGBl. Nr. 450/1994)."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesminister für soziale Verwaltung und für Handel, Gewerbe und Industrie vom 21. Juli 1969 über den Schutz der Dienstnehmer und der Nachbarschaft beim Betrieb von Kälteanlagen (Kälteanlagenverordnung) StF: BGBl. Nr. 305/1969"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 234/1972 (BG) (NR: GP XIII RV 3 AB 332 S. 31. BR: S. 311.) BGBl. Nr. 450/1994 (NR: GP XVIII RV 1590 AB 1671 S. 166. BR: AB 4794 S. 587.) [CELEX-Nr.: 378L0610, 380L1107, 388L0642, 391L0322, 382L0605, 383L0477, 391L0382, 386L0188, 388L0364, 389L0391, 389L0654, 389L0655, 389L0656, 390L0269, 390L0270, 390L0394, 390L0679, 391L0383, 392L0057, 392L0058 und 392L0104]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 305/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_305_0/1969_305_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 234/1972",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_234_0/1972_234_0.pdf"
+        },
+        {
+          "text": "RV 3",
+          "url": "https://www.parlament.gv.at/gegenstand/XIII/I/3"
+        },
+        {
+          "text": "AB 332",
+          "url": "https://www.parlament.gv.at/gegenstand/XIII/I/332"
+        },
+        {
+          "text": "S. 31.",
+          "url": "https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/31"
+        },
+        {
+          "text": "S. 311.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/311"
+        },
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        },
+        {
+          "text": "RV 1590",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/1590"
+        },
+        {
+          "text": "AB 1671",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/1671"
+        },
+        {
+          "text": "S. 166.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/166"
+        },
+        {
+          "text": "AB 4794",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4794"
+        },
+        {
+          "text": "S. 587.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/587"
+        },
+        {
+          "text": "378L0610",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0610:DE:HTML"
+        },
+        {
+          "text": "380L1107",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L1107:DE:HTML"
+        },
+        {
+          "text": "388L0642",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0642:DE:HTML"
+        },
+        {
+          "text": "391L0322",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0322:DE:HTML"
+        },
+        {
+          "text": "382L0605",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982L0605:DE:HTML"
+        },
+        {
+          "text": "383L0477",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0477:DE:HTML"
+        },
+        {
+          "text": "391L0382",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0382:DE:HTML"
+        },
+        {
+          "text": "386L0188",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986L0188:DE:HTML"
+        },
+        {
+          "text": "388L0364",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0364:DE:HTML"
+        },
+        {
+          "text": "389L0391",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0391:DE:HTML"
+        },
+        {
+          "text": "389L0654",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0654:DE:HTML"
+        },
+        {
+          "text": "389L0655",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0655:DE:HTML"
+        },
+        {
+          "text": "389L0656",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0656:DE:HTML"
+        },
+        {
+          "text": "390L0269",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0269:DE:HTML"
+        },
+        {
+          "text": "390L0270",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0270:DE:HTML"
+        },
+        {
+          "text": "390L0394",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0394:DE:HTML"
+        },
+        {
+          "text": "390L0679",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0679:DE:HTML"
+        },
+        {
+          "text": "391L0383",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0383:DE:HTML"
+        },
+        {
+          "text": "392L0057",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0057:DE:HTML"
+        },
+        {
+          "text": "392L0058",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0058:DE:HTML"
+        },
+        {
+          "text": "392L0104",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0104:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "ABSCHNITT 1 Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b0b6fbafc7d37d33fe741a50a6e5620f5e6f54bd41c9f51f27a13fe200c875c8",
+      "sha256": "5bb788bca00fedd9c96163a2c4e77bf72064cec903661b1c54c3fcd2e375d467",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 100/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_100_0/1988_100_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b7a5a88ec07d996188c07a9d3fbbb07dd04eaa925c83ffc180c6bf326ac69a6",
+      "sha256": "8472370d2e863ab612258dfc34b57161f6634e7861823d2f6c7b5e150eaa688d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Einteilung der Kältemittel",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad43add2681d44b1b38049af154434cfc8019705f0f9cdf6c3163f50acefac9e",
+      "sha256": "d8b89f51e46bb019d425bf193e82d89190afc3b2b002778c9b13372f5c6aed61",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "ABSCHNITT 2 Anforderungen an Kälteanlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2c46ce6d7b987931e203e7ce5b653d7ad805e691d21e5636d27f6dae9af8ee31",
+      "sha256": "4933eb14132668df52c53b00b90570538415523b761820a84835f80d8b54ddb6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Kompressions-Kältemaschinen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41a5fbeb73ae001ec7bf7ada1c6bb663c6ded00894ff30ad4449c257566d437e",
+      "sha256": "5ea95f449738fd631b47c4b5381e1899cb43d4a0953fcda6b5751908f1c0aaf2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Absorptions-Kältemaschinen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fbaa00efde2d82af7e90549902d6c40eb1a4f18c3db00f51b9a5a543f76e2956",
+      "sha256": "dde39f8a2bc181c81d98c36385f14f85cffe3b7fd7409dd48061bda84e8544c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Kältemittelsammler und Verdampfer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dfb514945f437348b0b0c291b94090738a5e158c6ff84ec881875b116dd12dce",
+      "sha256": "53c06fb105983a1f358f31cc58c538cd970c9a70ea05a1cee7a6de05a8ed8d3a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Druckprobe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba49f1d2f091ff0c57e00930a9535157ae2ec4d19854f4863bdb8f7348ecff56",
+      "sha256": "a497198277d5ef0a2631aa0d774052c26592c32f7273938c1dc57e465935d6b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Kennzeichnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9bdb4adf0b92e7b0752929a9fe61ff32791855f86868dc70b558698e1fc0cdf",
+      "sha256": "ea42116e3f8426f6e3015d794b25d6f5c3816451e8a60b99fb83d3f0265d9789",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "ABSCHNITT 3 Aufstellung von Kälteanlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c392976f102e9f25e66681269ba7899e15172c09c636ff617d741d6519fbaaef",
+      "sha256": "fac8bdf57f978773a667b21558be4aac46cc019904c9955b7a709b15bd511d7c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Kälteanlagen für direkte Kühlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5abf56b03f8aff82e109dab3481d3715e17bc5700afc0b2e826cc7ebc10837cb",
+      "sha256": "ba2517ce3d4abeba15537abe824f5323d1a370d04633e33286262e9f3343a461",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Lüftung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dbb14f06d794018a810af7d10b503feb72f88c44179da0f967d62142a41ae31a",
+      "sha256": "f69b8eebbc93026f232a49811feb025ec437f66a8690b3ebe4ff0340224d2fae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Elektrische Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "17f93241cce117f1b21af52a494589a2b000346706c854864b621d468e669635",
+      "sha256": "d9d0377ff0b2a3650fae28d426f054241987e1252e30dd5f74cfee5a056e97d0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Kühlräume",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6dc2b9e541eaf39e153943d9f6b1690ea7a687723f9793b8dcff284c1845383e",
+      "sha256": "33cb1d2cee1f3242e628995d36034296594714cd2230bb7e73ca34b79acf0b57",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Probe vor Inbetriebnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac310614b0656bbd077e778f4fdc280508ec7888d78dca0e1cfcffca34d036ef",
+      "sha256": "69d7f98d227ec5ba1a1e0d00768983abff85f54281d05a32a588e1719f30b63c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "ABSCHNITT 4 Betrieb von Kälteanlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03aaab889064255ffab2071cdbf970eeb294721b50aef6896c9dc657fae3fa6c",
+      "sha256": "3e7df1112be24f707443c26cf55d49d1e5eee967a08420037be606282495d32e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Bedienung und Wartung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c064864d01e93dd28bed8122de1db2c675b91f574b7a842c368a2d19191ebeb",
+      "sha256": "8f8f37a364c0f715aa3e769fb535628f334a3ed78881d01eb6d3f9e62a43cbea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Arbeiten an Kälteanlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4f3af2f4334b80763ccfd96343b07bbde250f322fcaabd4e8a9e5fe3312e307",
+      "sha256": "a31ab0e9ad0058ba3a0ba24f32ec09e61f76f5fe4771e4e6885ff4c282e73e77",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Schutzausrüstung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e79ffd8d594cd84e8e603e7a35502d5fed2906e98219c8f98a0cccd2fa369ea",
+      "sha256": "c88aa3693ef2ab7668735be7ceb05390cc0980575fe869ce2746513fb9aabc75",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Bedienungsanweisung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4fadd00781939ba475b3cce515d088b3d6ed72c69bbc2b7542e42082c34bcfe3",
+      "sha256": "e4566edfe774d57ace1f3b2963043aa1a87afd9158c65a3f96fbbed870249c08",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Überprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7476383157bf15236797d9797653ff2c0e67ec00aeaaa9c5319db45759bc10c8",
+      "sha256": "7dcfa3abf45363684c65edf592fea011b0da956eb3af53592b904d2709f5d6bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Prüfbuch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57d80bedb5053a9981ae857aee4123785bef5b33d1e7c4eb5d5f64cefc2f7b81",
+      "sha256": "387699f1aa6f5ced931b991ad308ea2731a313eeac8eb9b7ded90f3db46ff3b4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Kältemittelvorräte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0aa99358508c69fd3e797017d7f48aaea9727f4bac2862456d0f658f9fa01c47",
+      "sha256": "6a8a0250a3617b168403a26500ba44e6e1caa67178eb9dbd62828eaaf04019c2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "ABSCHNITT 5 Schluß- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "689348d6f2cc97ca833920e2ff8fa6cf574a3734bbf08ae4f5ca51ebcfc502c1",
+      "sha256": "35e40bd16fb9052364925b08b939ab1ad76c58ecf99d8c9edf8430a7515f2e9f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Weitergehende Schutzmaßnahmen und Ausnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c6fc042c9b03c3e13c48a603a69cf6c433d27a1ec82fa0476698ee2f5fc5218",
+      "sha256": "3706467de58799cae38637ea3395302bea3d5cd9dde31279ef1d1d88f74ca8e9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e506e9ba1321da67cb3420e22654c8899eaad81ce55fb09f236c095ade0dcb57",
+      "sha256": "e71ed6d73caed975cc065df37bb0e5cefc06ee42208c7705b5708ab782bc9b21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4daa4e49cc9a0806116f64bdf63427bbc29accec2c3822bc07bc2d820b4a94a5",
+      "sha256": "c4e082a78a5891445b08272b3e4ea9873c5181a4c3a3dc3bd2f038db77627d56",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 450/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_450_0/1994_450_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

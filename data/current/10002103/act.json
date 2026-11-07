@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002103",
+  "short_title": "Berner Übereinkunft (Brüsseler Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002126",
+    "valid_from": "1967-07-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002103&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:57:53.399853+00:00",
+    "response_sha256": "ba708d6a18561b2f9ef7d25d2418b1d3b22b8258c703143da61a44fe0a981004",
+    "snapshot_sha256": "bac069b6289941ef92fe8a86c1889b4fdb82f8b9ee4007213ef204259fd10486",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f9ff65ee8baea4f18df7354e2375d0a40b65c0f35f6273a5bb52fcf67db44feb",
+      "sha256": "195e22a5694d45269e2543faeba19471f750998dc8607e7d1502c8dc392958a0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 20. Juni 1967, betreffend die Ausdehnung des Geltungsbereiches der Berner Übereinkunft zum Schutze von Werken der Literatur und der Kunst vom 9. September 1886 StF: BGBl. Nr. 232/1967"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 232/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_232_0/1967_232_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57de0bf5af452721c358cf48edaa74fee83fe87c73e16e664db76c6a049f1369",
+      "sha256": "04c03267ec4859e6e98bacb3bf4382d30dd4e666fc7371e61b26d769027cbb16",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 183/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_183_0/1953_183_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 210/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_210_0/1961_210_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

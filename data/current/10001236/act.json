@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001236",
+  "short_title": "VfGH-Aufhebung zwischen Hoheitsverwaltung und Wirtschaftsverwaltung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001243",
+    "valid_from": "1993-07-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001236&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:43:54.046922+00:00",
+    "response_sha256": "bc085529510d08ca96850f335ccae928b7334f6681b4bb06350034bcb4a1c5e5",
+    "snapshot_sha256": "0e0a68779c65cee1ccd89546ce5472cce8639db2cb36f7b892f636d091605a1c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "faa0578434089359bea8b4b4c086ca7cbbee751557d1d2655e4d00d107aa88fb",
+      "sha256": "b0a24012891e4d1ab4e10e9be52176806ff6e88e926fae4c089aa4f431919c4a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Finanzen über die Aufhebung des Erlasses des Bundesministers für Finanzen zur Abgrenzung zwischen Hoheitsverwaltung und Wirtschaftsverwaltung bei Bezügen aus öffentlichen Kassen nach Art. 19 des österreichisch-liechtensteinischen Doppelbesteuerungsabkommens, AÖFV Nr. 281/1989, durch den Verfassungsgerichtshof StF: BGBl. Nr. 486/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 486/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_486_0/1993_486_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4130d8f99d58c553d7f905c3f7906cfbf81dfa41d42e1d150591643185bacfa1",
+      "sha256": "6dcba0379144b3e171b98b4bb14a237ae7c35e995086e1317533f7be89879fc2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

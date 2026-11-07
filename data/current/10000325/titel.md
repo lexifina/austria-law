@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 25. Feber 1959, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung und Vollziehung einer Vorschrift, derzufolge österreichische Staatsbürger ausländische Orden und Ehrenzeichen nur mit behördlicher Bewilligung annehmen und tragen dürfen. StF: [BGBl. Nr. 59/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_59_0/1959_59_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 15. Dezember 1958, K II-1/1958, zusammengefaßt hat:

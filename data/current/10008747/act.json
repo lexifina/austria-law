@@ -1,0 +1,797 @@
+{
+  "sample_only": false,
+  "included_provisions": 20,
+  "source_provision_count": 20,
+  "schema_version": 1,
+  "gesetzesnummer": "10008747",
+  "short_title": "Eignungsprüfungsverordnung 1991",
+  "abbreviation": "EPV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008898",
+    "valid_from": "1991-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008747&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:23:13.971556+00:00",
+    "response_sha256": "71d6d5144dfe5dc968869a3d1d6902f7e1fa275aaf26a822e76892df0ba3fa2a",
+    "snapshot_sha256": "45801e373b4d79a769d69ed0524c9fafc930c8a64f37022813c1b4cc3ae6f903",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89d6d6f2456801771c8abe788005ac29e3d981a87de2e5d43d00c8952a70316b",
+      "sha256": "e1b07d3d0db0f860272e51164633b4952aa4595aadd606b62af8a1cfbc4ef1ab",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung über die Durchführung der Eignungsprüfungen bei der Besetzung von Planstellen (Eignungsprüfungsverordnung 1991 – EPV) StF: BGBl. Nr. 468/1991"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 485/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 468/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_468_0/1991_468_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 485/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_485_0/1993_485_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 366/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_366_0/1991_366_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Zulassung zur Eignungsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4a1ab1af9b78e2be8a239f9675fcda7ed117aa183509bc3fa9d9eb46a6c5cb20",
+      "sha256": "b09416760a99d2ea8635251aea2e19fcad410a51939f8f7baa92863092f42921",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anberaumung der Eignungsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9d93c0b902f8f16347694fc35be34d8ed688bb5796e640601d2c46a786f7901",
+      "sha256": "4dafe98ca1310a807a7ffc1940293d9bde2cd575a78dd37e4034a9d6b8b9dc88",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Verständigung der Bewerber und Bewerberinnen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7b3205a295790f028b50fe13c72f178622b015974ea8ef5b1bc54391c4de8ec",
+      "sha256": "7dacfee93eb146960d973a4bb87984da46c76c7eefbca846ea54b2d28898fa1e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Arten der Tests",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a5f8e3d9d6f05f5f53b97699c186f8b670fe05884498bb5afd9628161d59268d",
+      "sha256": "a1f51d54b39e2596da9717db43fd9d435eb019c796a042350f873efd5c069f3d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Erstellung der Tests",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e11360e49eef62fc054b5819cffef675e12dcd1e85fbb8e86ef62beef1011a54",
+      "sha256": "8ce9c39b15d82a52c0f09c57bef4ecccdf1264d2628bd8dfea16567d9533fbea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Testgruppen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25028db8263a3ec4d9fa8ed3143de0b912e1e910f1b44dfa642fa2855df2466e",
+      "sha256": "d360bdcfd85b24c92dbcbe5da6ad05ddbec887e9fb09ad8bbe2638f81acc09c2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Punktesystem",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a62e85bf3deaace48c43ab8d0b5af8958a10c554d7d5fdbe0a0501ce4d4a223e",
+      "sha256": "11808e1616fc8b3e9910081d1b442232ea918dee626c5b6071077991fbc9a774",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Schulung des Testpersonals",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57d19f43287a7e37112f3944d0e30c09c256ac3dbbe5209205775f54af18df68",
+      "sha256": "a79e580737cc71917334d5e4a1e822bb1080ba31c7685a6850b97de64abf2b3e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Durchführung der Eignungsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a3bb43b1cd5a493c8ffec489b5d3bd8268b0817248cf7124d6056bc4990d3e88",
+      "sha256": "00c12f7fbf1f5fb5c5557be69efc550112ad3ed86b849dca9e7fb938f4ccc89f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Abwesenheit und Rücktritt von Bewerbern und Bewerberinnen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7229c7ce419923039d8e161ea8002132326d8d386ba0106f57779e6d3d46c3a",
+      "sha256": "50a4176a9e49849b2cb1564f317bb267b6f83962affa36cd586fdf36c7e46804",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Auswertung der Tests",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d4ddcb515cdddaeb96a552cc72451c2f38a232e07f54ce0c9ac06466dbae4ae",
+      "sha256": "3dba2c28b6eb67c143ea47a379d8b670a470c21c3a307e8237a5cf615e3fa64b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Dokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da0f77be1bfc3900ea69e852d8b3fd9a2fd23f2237e50ccf5980ce9d97953a46",
+      "sha256": "6bb1b5cb2181f9c492d1f81b43231c6a42b62d8f94490b856a1d7cc83290e119",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Verständigung vom Prüfungsergebnis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f60464fc58a68054b81cc801a58218b7bb6db45adf0d75643dfcc6297761c5b4",
+      "sha256": "c304d6052c3226091b8e37d82f7b82bbc2613f2deae96068bf30f159aeb91bdd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Geltungsbereich des Prüfungsergebnisses",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "532b1c77e57cbb26d9a07132dc44061027e998857a2df4250d80199d8a2f1f90",
+      "sha256": "ce803cbd5a51f8827535c01e0fd8efb681998a6f600e603f154abf378a25dc4e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Datenmaterial für die Entwicklung von Tests und die Erstellung von Normwerten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcddca8e288b32ec80342cc88013cd7e7ab9f42bcc89b538754765e27faffb1f",
+      "sha256": "75146fedb00231ef28f3bab1f56ab145f55a441e96d2ab07b706e7f6536f9dd8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Automationsunterstützte Datenverarbeitung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2cd470e292fc624357c2c0bcd4fe7d31614a6bb26da04b4ab95e28819f5d8abc",
+      "sha256": "97088ba0b09e7567ccfb05563e10223b349203c75468106d8ac190030ea64688",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Teilnahme von Organen der Personalvertretung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e4e0fecca4416af6f78baf18d63b55cac7f611bdf7b270a1cc9249783aea5edd",
+      "sha256": "5113d3a37a951352ba1aac0ba5aa0dd0cff05f414b86d48a126a5514c6e7bba9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73337230fafc02b5b52f70f5cd3dd7836f0c2e91d121c57a1570cec0a71c84ff",
+      "sha256": "2dec680605f4f0f4e656b28cec040a3ccaf6d0b61c3fd5ea3cfe4336bb9c03f7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 485/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_485_0/1993_485_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6be7befa2d3271b7eb3f933738545652e3e4fdd83b9149e31fee0485cea401e8",
+      "sha256": "01ff5b1009c325cf066281740ae947b2db0dec8e207b9d34a120e9f170e79af0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geschlecht (Zutreffendes ankreuzen)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "w",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "m",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Alter (Jahre) ……………………………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wohnort",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bundesland: ……………………………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezirk (oder Statutarstadt): ……………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bildungsweg",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Höchster Schultyp, den Sie besucht haben:",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "……………………………………………………………………………………………………",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Höchster Schultyp, den Sie abgeschlossen haben:",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "……………………………………………………………………………………………………",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Muttersprache ……………………………………………………………………………………",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nicht vom Bewerber auszufüllen!",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufnehmende Dienststelle ……………………………………………………………………….",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Test durchführende Dienstelle ……………………………………………………………………",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Testdatum ………………………………………………………………………………………….",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Uhrzeit des Testbeginns ……………………………………………………………………………",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl der Bewerber im Testraum ………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzahl der Testleiter im Testraum ………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Ereignisse während der Testdurchführung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "……………………………………………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "……………………………………………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "……………………………………………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "……………………………………………………………………………………………………..",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dieser Fragebogen ist den dazugehörenden anonymisierten Testdaten anzuheften.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

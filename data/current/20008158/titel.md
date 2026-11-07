@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Finanzen über die Mitbefassung bei der Abschätzung der finanziellen Auswirkungen von Entwürfen unionsrechtlicher Vorschriften auf den Bundeshaushalt im Rahmen der wirkungsorientierten Folgenabschätzung (WFA-EU-Mitbefassungs-Verordnung – WFA-EU-MV) StF: [BGBl. II Nr. 499/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/499>)
+
+Auf Grund des § 16 Abs. 3 und des § 17 Abs. 5 des Bundeshaushaltsgesetzes (BHG 2013), [BGBl. I Nr. 139/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 62/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/62>) wird verordnet:

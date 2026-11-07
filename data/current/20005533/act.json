@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005533",
+  "short_title": "Errichtung einer dritten Notarstelle in Judenburg",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006102",
+    "valid_from": "2007-11-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005533&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:31:51.208797+00:00",
+    "response_sha256": "6a6b6d23ab698873a82354415f32c05885e5bd4ef823ac800538f8ee85426c2e",
+    "snapshot_sha256": "b19dd73413ef7a878ead195f6f5bdf1e0ad814473e3be0599664be58f3d3c78b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "783b4203e4e35b8f3d49fd0112564614fcf1b6525b1673f34d444891c4061bab",
+      "sha256": "8c73fc8596eb479f284782fdaf167290d5125102b571e65157bae6a9c69b27b6",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer dritten Notarstelle in Judenburg StF: BGBl. II Nr. 320/2007"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 320/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/320"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 92/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/92"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d64460315db4c2207f54825664dda3662c0bbf58c3a451cfb98d2e96dbfa7d4",
+      "sha256": "ff4fd4011c2674d957c7e05fca5c3361eb3e291fc6acf18a67f4322bd84479d2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

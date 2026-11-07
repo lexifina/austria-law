@@ -1,0 +1,3 @@
+Verordnung des Bundeskanzlers betreffend die Kundmachung der Anlage des Abkommens zwischen der Österreichischen Bundesregierung und der Vorbereitenden Kommission der Organisation des Vertrages über das umfassende Verbot von Nuklearversuchen über die vorläufige Anwendung einzelner Bestimmungen des Abkommens zwischen der Republik Österreich und der Vorbereitenden Kommission der Organisation des Vertrages über das umfassende Verbot von Nuklearversuchen über den Amtssitz der Kommission StF: [BGBl. III Nr. 71/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_71_3/1997_71_3.pdf>)
+
+Gemäß § 2 Abs. 6 des Bundesgesetzes über das Bundesgesetzblatt 1996 (BGBlG), BGBl. Nr. 660, wird verordnet:

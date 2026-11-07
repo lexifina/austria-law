@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000251",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000252",
+    "valid_from": "1953-08-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000251&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:25:22.126623+00:00",
+    "response_sha256": "90b6cbb83b636405bce4fe0e85ac92845a55d150f2fec6c777fd50ebc767bf8e",
+    "snapshot_sha256": "bbe5333872b7060e37d3fc387cf9ea152c428d9cc4c057aa5bd9a5fb76b19d43",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c08191a670a5fa3a01ea38a5c642fcc922c6b6239a8ec4f35b5033d5b87e18af",
+      "sha256": "39578e92d7417f8496ea0fb65b0adbef97835eac9b6c46d342a8e56e716bf666",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 7. Juli 1953, betreffend Feststellung des Verfassungsgerichtshofes über die Erlassung und Vollziehung ordnungspolizeilicher Maßnahmen, die sich auf Werbebilder für Kinovorführungen beziehen. StF: BGBl. Nr. 127/1953"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 127/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_127_0/1953_127_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fbc5ba4c63add2701fb1db0a034176b5dd3f47cfa7ecac7db02491cd4ced3510",
+      "sha256": "6145eaca78a0e3c04fcfb4400934cff30214f4ecbcd1915e4f2c8c7d49f59264",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

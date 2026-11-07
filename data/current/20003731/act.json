@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003731",
+  "short_title": "Weltgesundheitsorganisation - Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004049",
+    "valid_from": "1963-02-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003731&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:04:01.486998+00:00",
+    "response_sha256": "1a5ff3838e3026787dd19b0dc2f86d4268e8b8d35d063416acc784d66f288470",
+    "snapshot_sha256": "793b130e91c624d74c14e93879065d37eba2a91278705ca922bd366bf1b84cfa",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "247fa16a36b9c83faf751dd195eb4e41606e671d13dfc396a73b3bc3b4fd53eb",
+      "sha256": "07adf6a3b526021058f46e8fc797d2b6ea1f169c60e38c48ad7c2396e24711b9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 25. Jänner 1963 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation. StF: BGBl. Nr. 18/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 18/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_18_0/1963_18_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb8adcfc694b30a645007ed9d7d39a668f8b560097f6659f9d84a5db11e711c3",
+      "sha256": "d847e8aae2a4cc449c78775a1dfc5e222622c2161a74fcb74e4d8706ca61afa7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 96/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_96_0/1949_96_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

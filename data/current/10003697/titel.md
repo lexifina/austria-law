@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die neue Bezeichnung, die neue Abkürzung der Bezeichnung und das neue Emblem der International Mobile Satellite Organization StF: [BGBl. II Nr. 132/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_132_2/1999_132_2.pdf>)

@@ -1,0 +1,3 @@
+Bundesgesetz über Änderungen des Verlaufes der Staatsgrenze zwischen der Republik Österreich und der Tschechischen Republik StF: [BGBl. I Nr. 117/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/117>) idF [BGBl. I Nr. 119/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/119>) (VFB) (NR: GP XXII [RV 6](<https://www.parlament.gv.at/gegenstand/XXII/I/6>) [AB 361](<https://www.parlament.gv.at/gegenstand/XXII/I/361>) [S. 45](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/45>) BR: [AB 6976](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6976>) [S. 705.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/705>))
+
+Der Nationalrat hat beschlossen:

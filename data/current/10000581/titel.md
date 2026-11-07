@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 26. Mai 1975 betreffend die Nichtweiteranwendung des Art. 2 des zwischen der Republik Österreich und der Schweizerischen Eidgenossenschaft geltenden Vertrages zur Regelung der Niederlassungsverhältnisse, Befreiung vom Militärdienste und den Militärsteuern, gleichmäßige Besteuerung der beiderseitigen Staatsangehörigen, gegenseitige unentgeltliche Verpflegung in Krankheits- und Unglücksfällen und gegenseitige kostenfreie Mitteilung von amtlichen Auszügen aus den Geburts-, Trauungs- und Sterberegistern vom 7. Dezember 1875 StF: [BGBl. Nr. 298/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_298_0/1975_298_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1972, BGBl. Nr. 293, wird kundgemacht:

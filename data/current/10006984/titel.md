@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 30. November 1988, mit der Ausbildungsvorschriften für den Lehrberuf Friedhofs- und Ziergärtner erlassen werden StF: [BGBl. Nr. 102/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_102_0/1989_102_0.pdf>)
+
+Auf Grund des § 8 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), in der Fassung der Berufsausbildungsgesetz-Novelle 1978, BGBl. Nr. 232, und des Bundesgesetzes [BGBl. Nr. 381/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_381_0/1986_381_0.pdf>) wird - bezüglich der Verhältniszahlen im Einvernehmen mit dem Bundesminister für Arbeit und Soziales - verordnet:

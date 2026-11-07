@@ -1,0 +1,3 @@
+Bundesgesetz über den Verlauf der Staatsgrenze zwischen der Republik Österreich und der Bundesrepublik Deutschland im Grenzabschnitt „Salzach“, in den Sektionen I und II des Grenzabschnitts „Scheibelberg-Bodensee“ sowie in Teilen des Grenzabschnitts „Innwinkel“ StF: [BGBl. I Nr. 120/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/120>) (NR: GP XXII [RV 5](<https://www.parlament.gv.at/gegenstand/XXII/I/5>) [AB 358](<https://www.parlament.gv.at/gegenstand/XXII/I/358>) [S. 45.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/45>) BR: [AB 6973](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6973>) [S. 705.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/705>))
+
+Der Nationalrat hat beschlossen:

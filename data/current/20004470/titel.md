@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres zur Durchführung des Niederlassungs- und Aufenthaltsgesetzes (Niederlassungs- und Aufenthaltsgesetz-Durchführungsverordnung – NAG-DV) StF: [BGBl. II Nr. 451/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/451>)
+
+Auf Grund der §§ 8 Abs. 2, 9 Abs. 3, 19 Abs. 3, 21a Abs. 6, 24 Abs. 1, 43b, 50a Abs. 3, 62 und 81 Abs. 2 des Niederlassungs- und Aufenthaltsgesetzes (NAG), [BGBl. I Nr. 100/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/100>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 87/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/87>), wird verordnet:

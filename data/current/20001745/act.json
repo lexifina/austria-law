@@ -1,0 +1,580 @@
+{
+  "sample_only": false,
+  "included_provisions": 14,
+  "source_provision_count": 14,
+  "schema_version": 1,
+  "gesetzesnummer": "20001745",
+  "short_title": "Bundeskriminalamt-Gesetz",
+  "abbreviation": "BKA-G",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001898",
+    "valid_from": "2002-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001745&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:36:54.376979+00:00",
+    "response_sha256": "189e249091c4fa29c4e9fdfc0e8c21c5c0e2f6b4aaf9c754e8284004efda63ae",
+    "snapshot_sha256": "6b575dd059a525f24f4a51d9e9670c7d5627bca52f5aa214b7218797ebbb0ace",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55b952590e964aa32370641b3e2a158d660bd7ddafbad4bdceb23521994c1442",
+      "sha256": "01fc14b757c9e9b43302cabc06e7f3de6d85a01dd9696370b666b4ae1176b952",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Einrichtung und Organisation des Bundeskriminalamtes (Bundeskriminalamt-Gesetz – BKA-G) StF: BGBl. I Nr. 22/2002 (NR: GP XXI RV 806 AB 908 S. 87. BR: AB 6542 S. 683.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 37/2010 (NR: GP XXIV RV 661 AB 740 S. 67. BR: 8312 AB 8316 S. 785.) BGBl. I Nr. 35/2012 (NR: GP XXIV RV 1685 AB 1708 S. 148. BR: 8686 AB 8688 S. 806.) BGBl. I Nr. 14/2015 (NR: GP XXV RV 371 AB 410 S. 53. BR: AB 9290 S. 837.) BGBl. I Nr. 118/2016 (NR: GP XXV RV 1335 AB 1391 S. 158. BR: 9671 AB 9690 S. 863.) [CELEX-Nr.: 32015L0849] BGBl. I Nr. 140/2020 (NR: GP XXVII RV 467 AB 504 S. 69. BR: AB 10526 S. 916.) [CELEX-Nr.:32008L0098, 32018L0851] BGBl. I Nr. 123/2021 (NR: GP XXVII RV 860 AB 875 S. 113. BR: AB 10658 S. 927.)"
+        },
+        {
+          "kind": "Umsetzungshinweis für folgende Bestimmung",
+          "text": "CELEX-Nr.: 32019L1153, 32023L0977"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 22/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_22_1/2002_22_1.pdf"
+        },
+        {
+          "text": "RV 806",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/806"
+        },
+        {
+          "text": "AB 908",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/908"
+        },
+        {
+          "text": "S. 87.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/87"
+        },
+        {
+          "text": "AB 6542",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6542"
+        },
+        {
+          "text": "S. 683.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/683"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/37"
+        },
+        {
+          "text": "RV 661",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/661"
+        },
+        {
+          "text": "AB 740",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/740"
+        },
+        {
+          "text": "S. 67.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/67"
+        },
+        {
+          "text": "8312",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8312"
+        },
+        {
+          "text": "AB 8316",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8316"
+        },
+        {
+          "text": "S. 785.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/785"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35"
+        },
+        {
+          "text": "RV 1685",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1685"
+        },
+        {
+          "text": "AB 1708",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1708"
+        },
+        {
+          "text": "S. 148.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/148"
+        },
+        {
+          "text": "8686",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8686"
+        },
+        {
+          "text": "AB 8688",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8688"
+        },
+        {
+          "text": "S. 806.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/806"
+        },
+        {
+          "text": "BGBl. I Nr. 14/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/14"
+        },
+        {
+          "text": "RV 371",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/371"
+        },
+        {
+          "text": "AB 410",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/410"
+        },
+        {
+          "text": "S. 53.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/53"
+        },
+        {
+          "text": "AB 9290",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9290"
+        },
+        {
+          "text": "S. 837.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/837"
+        },
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "RV 1335",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1335"
+        },
+        {
+          "text": "AB 1391",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1391"
+        },
+        {
+          "text": "S. 158.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/158"
+        },
+        {
+          "text": "9671",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9671"
+        },
+        {
+          "text": "AB 9690",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9690"
+        },
+        {
+          "text": "S. 863.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/863"
+        },
+        {
+          "text": "32015L0849",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L0849:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 140/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/140"
+        },
+        {
+          "text": "RV 467",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/467"
+        },
+        {
+          "text": "AB 504",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/504"
+        },
+        {
+          "text": "S. 69.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/69"
+        },
+        {
+          "text": "AB 10526",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10526"
+        },
+        {
+          "text": "S. 916.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/916"
+        },
+        {
+          "text": "32008L0098",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0098:DE:HTML"
+        },
+        {
+          "text": "32018L0851",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L0851:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 123/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/123"
+        },
+        {
+          "text": "RV 860",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/860"
+        },
+        {
+          "text": "AB 875",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/875"
+        },
+        {
+          "text": "S. 113.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/113"
+        },
+        {
+          "text": "AB 10658",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10658"
+        },
+        {
+          "text": "S. 927.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/927"
+        },
+        {
+          "text": "32019L1153",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1153:DE:HTML"
+        },
+        {
+          "text": "32023L0977",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L0977:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Einrichtung des Bundeskriminalamtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cfc212d8ee399982031a06c1990125ed89b8c437e6a8bcd6e6998fd47b9d711e",
+      "sha256": "d9d245c613918d424008cf44dc8f38467af8ce8a1ad55f83ae33a58175f3e834",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Organisation des Bundeskriminalamtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "610750bbe3a1e677e7973d8fb8cb32e03a609c8baac1dcad7d8bd55c7203f626",
+      "sha256": "dfb6a47b2f5bdcc6feaf0c9cbd7ff4c318f72e7627fe8f9bb082d3b96a7b5870",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Geschäftsordnung des Bundeskriminalamtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19d6f25d5bdff5480ec49654f1f193bf6576016ee037aaa62e6424610a0b2410",
+      "sha256": "1b22ec20d1c69a065a4b7e6cbd40e32754d482185c2cc2cd297b735161e277a2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Zentralstellenaufgaben des Bundeskriminalamtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0feeb3811f5bb2128d4d7da16ec59f310390e615fb6e03ee8c22a62e51fa507b",
+      "sha256": "795b6f4e00d479b75bc64185a74d5fd94eb4b29858410af65cfe816ac77cbf22",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 104/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_104_1/1997_104_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 112/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_112_1/1997_112_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Vorbehalt der Erfüllung kriminalpolizeilicher Aufgaben",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "15cd249bdf17d8d9d6150c25422b70c263530e1b8a1683508215c53f043a841e",
+      "sha256": "66e1fcfe4d033a3f2232ee488de36e7f88707bd6582ca8e24572d123ea8a1862",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Anhörungsrecht des Bundeskriminalamtes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "01ef348e896ea4ada303b2e91ca76443c8f2a0d191e4b34f2531ceb9e09a2d4c",
+      "sha256": "25de5c80bcfd27f5a1bc47cd6e31381657b470fe893a59348d552f2854d94a92",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3cd2b97c9874c0c1449938da045ba5533bc071fad8e4b65a9d72b3dad979f668",
+      "sha256": "31413b558720bf65463740f978b17319d36df2e1ee0e386f61b8f62ec6edf2b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c93ab9e777e78687fe4a7acced1b3cd7251b9ba70a58ab3451110bcea6a9013c",
+      "sha256": "0dc9eeb64de8ee94477a9e8727829dd9a8765c53b545d37b153ad73564f96bbd",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 37/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/37"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/35"
+        },
+        {
+          "text": "BGBl. I Nr. 14/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/14"
+        },
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "BGBl. I Nr. 140/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/140"
+        },
+        {
+          "text": "BGBl. I Nr. 123/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/123"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "874e9a64095e326ab0e634af30a17249dffaadbaf08f540a975b41f6436e2917",
+      "sha256": "348a40ec089d681eeb756d8198b64af73d4691a3bda4f7ea42603e8cc18f87a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ebb0b832fbe52d9e6b3ff8619a06c74dbf5f77f4e0c5cba07fb54111cba17bde",
+      "sha256": "5c95ab8cee6a9e12a4d7040d9eee7ac1782e31b443b1f1d27f83d2c20d967938",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9494c839372f33477c032e706c03625c9303abe88cee73fed7fd2749c987d4b",
+      "sha256": "3ffc545d0d7d78d9574a0a6f1035c9375c701df165b445cc20d455478a26ad8a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "490fa40b0a4e479be4c1be70b1a0b97e2dfbff257a067b8788957bd089c24b72",
+      "sha256": "c6cfaa3bd03c0236fe99eac668f5ac166c925f466ef11485282da95e041f75d3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Artikel 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": "BGBl. I Nr. 118/2016",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "617bb43aef97c8079647ba5549ccb7105fdcde66a91c2916b09bcf77afa557dd",
+      "sha256": "4b32b75878a7bca1277ee3ef856c8a4bb22ef324fa7433701adc1731e05a36c1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 118/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/118"
+        },
+        {
+          "text": "BGBl. I Nr. 22/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_22_1/2002_22_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

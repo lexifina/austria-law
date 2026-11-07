@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 28. April 1949, betreffend die Verlängerung von Prioritätsfristen zugunsten der Staatsangehörigen des Königreiches Griechenland. StF: [BGBl. Nr. 127/1949](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_127_0/1949_127_0.pdf>)
+
+Auf Grund des § 13, Abs. (4), des Patentschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 123, und des § 10, Abs. (4), des Markenschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 125, wird festgestellt, daß die Prioritätsfristen des § 13, Abs. (1), des Patent-ÜG. und des § 10, Abs. (1), des Marken-ÜG. zugunsten der Staatsangehörigen des Königreiches Griechenland verlängert sind.

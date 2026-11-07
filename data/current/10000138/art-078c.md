@@ -1,0 +1,1 @@
+Artikel 78c. Inwieweit für das Gebiet einer Gemeinde die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, wird durch Bundesgesetz geregelt. Für Wien ist die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz.

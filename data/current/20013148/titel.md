@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die Festsetzung eines Pauschalbetrags als Ersatz für die Durchführung von Zuverlässigkeitsüberprüfungen nach dem Resilienz kritischer Einrichtungen-Gesetz (Zuverlässigkeitsüberprüfungen-Verordnung – ZÜPV) StF: [BGBl. II Nr. 90/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/90>) \[CELEX-Nr.: [32022L2557](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32022L2557:DE:HTML>)\]
+
+Aufgrund des § 16 Abs. 7 des Resilienz kritischer Einrichtungen-Gesetzes (RKEG), [BGBl. I Nr. 60/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/60>), wird verordnet:

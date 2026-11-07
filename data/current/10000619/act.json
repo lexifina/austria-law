@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000619",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000621",
+    "valid_from": "1977-06-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000619&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:33:20.913208+00:00",
+    "response_sha256": "2740cb69fa157ce4458904c720c517ed1fd108e32bd0953eca9b2665d8c17894",
+    "snapshot_sha256": "a164bf8e638db870d3180f49e15ee7ece246deed44b7a53589a4d6a67777a6dc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "53024237ec4293a8f6d51693938e05db0d8d3fbb1993818b1e9cf505c7d288eb",
+      "sha256": "454e242bc0c2dcda4caa1f5902315674cdf4f0243abbac77b4d88caa42d9d881",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 31. Mai 1977 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zu Regelungen im Zusammenhang mit der Beförderung gefährlicher Güter und von Lebensmitteln durch Kraftfahrzeuge StF: BGBl. Nr. 316/1977"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 316/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_316_0/1977_316_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60197b2b2110ab22ddf2fb2985e4b2e8ba822b47c0e450beacfac41edaff535f",
+      "sha256": "76936ae1b8be5ad5ac912a779ba4022ee6a0452874c12f90b9b94d979f6aa01d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

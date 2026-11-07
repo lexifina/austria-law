@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Juni 1962 über die Ratifikation, den Beitritt beziehungsweise die Kontinuitätserklärungen weiterer Staaten zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: [BGBl. Nr. 160/1962](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_160_0/1962_160_0.pdf>)

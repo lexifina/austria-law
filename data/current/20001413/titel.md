@@ -1,0 +1,3 @@
+Bundesgesetz über die Ausübung exklusiver Fernsehübertragungsrechte (Fernseh-Exklusivrechtegesetz - FERG) StF: [BGBl. I Nr. 85/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_85_1/2001_85_1.pdf>) (NR: GP XXI [RV 285](<https://www.parlament.gv.at/gegenstand/XXI/I/285>) [AB 722](<https://www.parlament.gv.at/gegenstand/XXI/I/722>) [S. 75.](<https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/75>) BR: [AB 6422](<https://www.parlament.gv.at/gegenstand/BR/I-BR/6422>) [S. 679.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/679>)) \[CELEX-Nr.: [397L0036](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0036:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

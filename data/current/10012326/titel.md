@@ -1,0 +1,1 @@
+Vereinbarung über die Änderung des Luftverkehrsabkommens zwischen der Österreichischen Bundesregierung und der Regierung des Staates Katar StF: [BGBl. Nr. 710/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_710_0/1994_710_0.pdf>)

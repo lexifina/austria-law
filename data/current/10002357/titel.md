@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 30. März 1976 betreffend die Bezeichnung und das Emblem des Internationalen Kinderhilfswerkes der Vereinten Nationen (UNICEF) StF: [BGBl. Nr. 186/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_186_0/1976_186_0.pdf>)

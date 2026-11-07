@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000495",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000497",
+    "valid_from": "1971-05-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000495&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:31:06.222413+00:00",
+    "response_sha256": "d58e0eea8bac8ab68f246f718857058c43494725b67cc20982c22974d7b09dca",
+    "snapshot_sha256": "ea585ecc1b1fc77553951a1705009048fcc2ad9ff5c9df60b1679d9d57428d09",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7bd80b77ecc53d105dd64c063868a43e0d7c62a88448f00a7eab9e471bdc0b00",
+      "sha256": "d0c8ca2253abe2b9b12c755e8bbeb7262531627877ccec694beb20169a971edd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 6. Mai 1971 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung der Heranbildung von Sportlehrern und Leibeserziehern StF: BGBl. Nr. 170/1971"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 170/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_170_0/1971_170_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81c2428b5fcb78ac6ec4ed9602bd0e4e5a32ada0893ad557a7073e36016cd83d",
+      "sha256": "7a2b2be358a6be2926d8b4dfd5f046440c3d4e76be58befa15580b00ca7afe59",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

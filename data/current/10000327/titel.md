@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für Finanzen vom 1. September 1959, mit der die Geschäftsordnung der Bundesentschädigungskommission erlassen wird. StF: [BGBl. Nr. 202/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_202_0/1959_202_0.pdf>)
+
+Auf Grund des § 25 Abs. 2 des Besatzungsschädengesetzes, [BGBl. Nr. 126/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_126_0/1958_126_0.pdf>), und des § 17 Abs. 2 des Kriegs- und Verfolgungssachschädengesetzes, [BGBl. Nr. 127/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_127_0/1958_127_0.pdf>), in der Fassung der Novelle [BGBl. Nr. 99/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_99_0/1959_99_0.pdf>), wird im Einvernehmen mit dem Bundesministerium für Justiz verordnet:

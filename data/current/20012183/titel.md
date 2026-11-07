@@ -1,0 +1,3 @@
+Einrichtung und Führung des Binnenschiffsregisters in der (Anm.: gegenstandslos) Sudetenland. AV. d. RJM. v. 18. 12. 1939 (3821 – V.a12 1129). StF: DJ S 1902/1939
+
+Die Vorschriften der Schiffsregisterverfügung (AV. d. RJM. v. 5. 5. 1939 – Dt. Just. S. 846 –) sind, soweit sie sich auf das Binnenschiffsregister beziehen, in der (Anm.: gegenstandslos) Sudetenland nach Maßgabe der folgenden Bestimmungen anzuwenden, die zur Anpassung an das in der (Anm.: gegenstandslos) und im (Anm.: gegenstandslos) Sudetenland geltende Recht getroffen werden. Diese Bestimmungen werden unwirksam, sobald ihr Grund durch die fortschreitende Vereinheitlichung des Rechts wegfällt.

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 29. Oktober 1981 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen, das Emblem und die Flagge der Internationalen Kriminalpolizeilichen Organisation (INTERPOL) StF: [BGBl. Nr. 509/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_509_0/1981_509_0.pdf>)

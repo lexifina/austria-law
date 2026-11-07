@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über die authentische dreisprachige Fassung des Abkommens über die Internationale Zivilluftfahrt (Chikago, 1944) StF: [BGBl. III Nr. 42/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_42_3/1999_42_3.pdf>)

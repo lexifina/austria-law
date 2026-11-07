@@ -1,0 +1,1 @@
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2001 StF: [BGBl. I Nr. 14/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_14_1/2003_14_1.pdf>) (NR: GP XXII [AB 20.](<https://www.parlament.gv.at/gegenstand/XXII/I/20>) [S. 10.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/10>))

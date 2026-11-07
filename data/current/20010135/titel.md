@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über den Inhalt und die Form der Veröffentlichungen im Zusammenhang mit dem Rückerwerb und/oder der Veräußerung eigener Aktien sowie der Einräumung von Aktienoptionen (Veröffentlichungsverordnung 2018 – VeröffentlichungsV 2018) StF: [BGBl. II Nr. 13/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/13>)
+
+Auf Grund des § 119 Abs. 9 des Börsegesetzes 2018 – BörseG 2018, [BGBl. I Nr. 107/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 149/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/149>), wird im Einvernehmen mit dem Bundesminister für Verfassung, Reformen, Deregulierung und Justiz verordnet:

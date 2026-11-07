@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002110",
+  "short_title": "Hoheitszeichen - Malawi",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002133",
+    "valid_from": "1968-11-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002110&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:57:55.514274+00:00",
+    "response_sha256": "2303c87b9b9bb1550026e46d77b9a1bebecba509a61a6a78793a3379324cd874",
+    "snapshot_sha256": "646681352fa50c90c48ebbc9754ae918eb78b6b79c1b7e1b537b06ddaf3dc88e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41f876c3b30dfe9fc70cf42956248a31ff0ad23700eed3142235270fe9b20327",
+      "sha256": "d56545cec23fa3580647552f1ac5b138dc788353f88f3d5f9af38fc4b95d84f7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 21. Oktober 1968, betreffend Hoheitszeichen der Republik Malawi StF: BGBl. Nr. 387/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 387/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_387_0/1968_387_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "14efd56feda38d2e67edff5e3340c4b190f971d4577ed26b580a377a82aa6ee1",
+      "sha256": "5fcb91829cfd930fe597025f09b7ab90cfdf47178ff2bf4fea55a5cb3fe59a0f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

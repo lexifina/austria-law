@@ -1,0 +1,111 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20005082",
+  "short_title": "Sortenschutz-Artenliste",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005549",
+    "valid_from": "2006-11-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005082&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:25:03.808527+00:00",
+    "response_sha256": "80c73cffdbc735c74fe4b56d873640b6085a87a211406c6fc0cd9d557900de46",
+    "snapshot_sha256": "94d1dea116bca9cbfbc99f7f2d37cf194b7ce9cea513578fe34b532057270cd8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7eb0c61521335e96729ec3498de026136b4561bccd257838f5b1c2def7d8fbfd",
+      "sha256": "71e48cff572c5bd9aa2cdfd724ef8ef015c2e029b2881c09de689dfcf0a290ed",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über eine Sortenschutz-Artenliste StF: BGBl. II Nr. 412/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 412/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/412"
+        },
+        {
+          "text": "BGBl. I Nr. 42/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/42"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f6e4e60550a2d0c6e170dfcf5dc66f5dd2929f902a8a837221776e168116bca2",
+      "sha256": "0b504e4b18ab908c57ed2c8df9d28433a18ecebb959692cc209e506297685e89",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36ccc7f7d47213c4ea1f2367e37e202c7461e3bd4c3e40b3ec37fcb98c7c8dc2",
+      "sha256": "e10918ee8520301f86859ffc234fbe300c89a027bccf3d15358e5520531d6b48",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 315/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_315_2/2001_315_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

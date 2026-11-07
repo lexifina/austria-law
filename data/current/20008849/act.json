@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20008849",
+  "short_title": "Errichtung einer weiteren Notarstelle in Neusiedl am See",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40162385",
+    "valid_from": "2014-05-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008849&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:21:48.714293+00:00",
+    "response_sha256": "f6feef766d4a83d33a70ecfbb41fa7e41347ca1aa7b65ffeec8fe134f8283bc4",
+    "snapshot_sha256": "92e159239d332fcf60c353ca3cd9e243197aea1f951fee1f00d82e06df6f3c01",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8970f6a46d45ef960d9b2f49952922566729497e75109f54de67db1300199f3b",
+      "sha256": "7b9c0ec3471f6baaae8efc81be5672229bf38675dc0840c13c268d3fe8cb7709",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz über die Errichtung einer weiteren Notarstelle in Neusiedl am See StF: BGBl. II Nr. 115/2014"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 115/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/115"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 190/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/190"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "49d2361ecfe580b2797d0bd556f6de7221fbe33775bda23112bb2218e476b9a4",
+      "sha256": "874e24f76c95e745140e4a04cb854c9983fd3e99c410d43ea97e7eb810f120af",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

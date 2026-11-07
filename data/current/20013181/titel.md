@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über Fahrverbote auf der A 12 Inntal Autobahn, A 13 Brenner Autobahn und A 14 Rheintal/Walgau Autobahn am 30. Mai 2026 (A 13 Fahrverbotsverordnung 30. Mai 2026) StF: [BGBl. II Nr. 125/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/125>)
+
+Auf Grund § 43 Abs. 1 lit. b und Abs. 3 lit. a Straßenverkehrsordnung 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 17/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/17>), wird wegen der Abhaltung einer nicht untersagten Versammlung aus Gründen der Sicherheit des Verkehrs und von Personen (Teilnehmer an einer Versammlung) verordnet:

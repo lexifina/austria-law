@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen betreffend den Bezug und die Verbringung von Tabak zum Erhitzen (Tabak zum Erhitzen – Beförderungsverordnung 2019) StF: [BGBl. II Nr. 206/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/206>)
+
+Auf Grund der §§ 16a Abs. 3 Z 2 und 28b des Bundesgesetzes, mit dem die Tabaksteuer an das Gemeinschaftsrecht angepasst wird (Tabaksteuergesetz 1995), [BGBl. Nr. 704/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_704_0/1994_704_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/6>), wird verordnet:

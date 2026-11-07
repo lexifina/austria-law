@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000338",
+  "short_title": "Abkommen über internationale Ausstellungen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000339",
+    "valid_from": "1959-10-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000338&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:49.344012+00:00",
+    "response_sha256": "05ef5ecba0b70f63251bfd2c32d1c639a88dbefeb240ddfd1d106063ac6409ff",
+    "snapshot_sha256": "05b7420d5d4fa95dc11cfc3130b8b6ac486daf081882f6b97b1c40244281b693",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78529a2fc0f3f118f692baf97710e3f87d597c32f4742d9cbb073ccfe3b7e9fc",
+      "sha256": "09711a5ade418cad0ce58e933c96562f8711d5f47ee2c252828e00e2ef5b304a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 4. September 1959, betreffend weitere Beitritte zum Abkommen über internationale Ausstellungen vom 22. November 1928 in der Fassung des Abänderungsprotokolls vom 10. Mai 1948. StF: BGBl. Nr. 218/1959"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 218/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_218_0/1959_218_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "47ea43e87207ab88c883a51226af0c91db3ad824a1b92f33d09c2824843e10b9",
+      "sha256": "3b22cf1b6edafc13fc63e0f393de94725063b395fdf9ca5e622f8771852ba680",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 65/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_65_0/1957_65_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 66/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_66_0/1957_66_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

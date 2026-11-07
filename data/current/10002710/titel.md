@@ -1,0 +1,1 @@
+Bundesgesetz über die Gewährung von Vorschüssen auf den Unterhalt von Kindern (Unterhaltsvorschußgesetz 1985 – UVG) StF: [BGBl. Nr. 451/1985](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_451_0/1985_451_0.pdf>) (WV)

@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control betreffend die Meldung von Daten zur Vorbereitung der Lenkungsmaßnahmen zur Sicherstellung der Elektrizitätsversorgung und zur Durchführung eines Monitoring der Versorgungssicherheit im Elektrizitätsbereich (Elektrizitäts-Energielenkungsdaten-Verordnung 2017, E-EnLD-VO 2017) StF: [BGBl. II Nr. 415/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/415>)
+
+Aufgrund § 15 Abs. 3 Energielenkungsgesetz 2012 (EnLG 2012), [BGBl. I Nr. 41/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/41>), iVm § 7 Abs. 1 Energie-Control-Gesetz – E-ControlG, [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>), zuletzt geändert durch [BGBl. I Nr. 174/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/174>), wird verordnet:

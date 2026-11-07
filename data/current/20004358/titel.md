@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem des ecuadorianischen Instituts für geistiges Eigentum (IEPI) StF: [BGBl. II Nr. 344/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/344>)

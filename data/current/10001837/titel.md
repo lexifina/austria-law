@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes, betreffend die Ausdehnung des Geltungsbereiches des Österreichisch-britischen Rechtshilfeabkommens auf Kanada. StF: [BGBl. Nr. 347/1935](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=347/1935&amp;SkipToDocumentPage=True>)

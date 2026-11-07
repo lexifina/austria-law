@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 4. September 1959, betreffend weitere Beitritte zum Abkommen über internationale Ausstellungen vom 22. November 1928 in der Fassung des Abänderungsprotokolls vom 10. Mai 1948. StF: [BGBl. Nr. 218/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_218_0/1959_218_0.pdf>)

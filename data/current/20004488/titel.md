@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit und Frauen über die Ausnahme der Mitglieder von Kammern der freien Berufe von der Pflichtversicherung in der Krankenversicherung nach dem Gewerblichen Sozialversicherungsgesetz StF: [BGBl. II Nr. 471/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/471>)
+
+Auf Grund des § 5 Abs. 1 und 3 des Gewerblichen Sozialversicherungsgesetzes (GSVG), [BGBl. Nr. 560/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_560_0/1978_560_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 132/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/132>), wird verordnet:

@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz vom 10. Juli 1974, mit dem das Bundes-Verfassungsgesetz in der Fassung von 1929 geändert wird (Bundes-Verfassungsgesetznovelle 1974) StF: [BGBl. Nr. 444/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_444_0/1974_444_0.pdf>) idF [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB) (NR: GP XIII [RV 182](<https://www.parlament.gv.at/gegenstand/XIII/I/182>) [AB 1189](<https://www.parlament.gv.at/gegenstand/XIII/I/1189>) [S. 111.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/111>) BR: [S. 334.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/334>))
+
+Der Nationalrat hat beschlossen:

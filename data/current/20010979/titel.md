@@ -1,0 +1,3 @@
+Verordnung der Steiermärkischen Landesregierung vom 31. Jänner 1977 über die Geschäftsordnung der Einigungskommissionen, der Obereinigungskommission, die Geschäftsführung der Land und forstwirtschaftlichen Schlichtungsstelle, die Zuerkennung der Kollektivvertragsfähigkeit, die Einsichtnahme in die Kollektivverträge und in die Satzungen, die Einigungsverhandlung bei Gesamtstreitigkeiten und die Aufsicht über die Einigungskommissionen StF: LGBlStmk. Nr. 9/1977
+
+Auf Grund der §§ 40, 44, 49, 209 bis 216 und 224 der Steiermärkischen Landarbeitsordnung 1972, LGBl. Nr. 34/1973, in der Fassung der Gesetze LGBl. Nr. 41/1974, Nr. 178/1975, Nr. 33/1976 und Nr. 2/1977, wird verordnet:

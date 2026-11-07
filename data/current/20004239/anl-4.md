@@ -1,0 +1,19 @@
+## ANHANG IV
+
+(Artikel 89 Absatz 2)
+
+### ABKOMMEN
+
+### ÜBER GESUNDHEITSPOLIZEILICHE UND PFLANZENSCHUTZRECHTLICHE
+
+### MASSNAHMEN IM HANDEL MIT TIEREN, TIERISCHEN ERZEUGNISSEN, PFLANZEN,
+
+### PFLANZLICHEN ERZEUGNISSEN UND SONSTIGEN WAREN
+
+### SOWIE ÜBER DEN TIERSCHUTZ
+
+(Anm.: Anhang IV als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: Anhang IV](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40067681/III_132_2005_Anhang_IV.pdf>)

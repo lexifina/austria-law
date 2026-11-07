@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung in der Bekleidungsfertigung (Bekleidungsfertiger-Ausbildungsordnung) StF: [BGBl. II Nr. 264/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_264_2/1997_264_2.pdf>)
+
+Auf Grund der §§ 8 und 24 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch die Berufsausbildungsgesetz-Novelle 1997, [BGBl. I Nr. 67/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_67_1/1997_67_1.pdf>), wird - hinsichtlich des § 13 im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales - verordnet:

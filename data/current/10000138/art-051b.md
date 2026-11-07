@@ -1,0 +1,5 @@
+Artikel 51b. (1) Der Bundesminister für Finanzen hat dafür zu sorgen, dass bei der Haushaltsführung zuerst die fälligen Verpflichtungen abgedeckt und sodann die übrigen Mittelverwendungen getätigt werden, diese jedoch nur nach Maßgabe der Bedeckbarkeit und unter Beachtung der Grundsätze gemäß Art. 51 Abs. 8.
+
+(2) Wenn es die Entwicklung des Bundeshaushaltes erfordert oder sich im Verlauf des Finanzjahres eine wesentliche Änderung der gesamtwirtschaftlichen Entwicklung abzeichnet, kann der Bundesminister für Finanzen zur Steuerung des Bundeshaushaltes mit Zustimmung der Bundesregierung oder auf Grund bundesfinanzgesetzlicher Ermächtigung einen bestimmten Anteil der im Bundesfinanzgesetz vorgesehenen Mittelverwendung binden, sofern dadurch die Erfüllung fälliger Verpflichtungen des Bundes nicht berührt wird. Er hat innerhalb von einem Monat nach Verfügung der Bindung dem mit der Vorberatung von Bundesfinanzgesetzen betrauten Ausschuss des Nationalrates zu berichten.
+
+(3) Der Bundesminister für Finanzen hat die Mitglieder der Bundesregierung und die übrigen haushaltsleitenden Organe regelmäßig über den Budgetvollzug zu informieren.

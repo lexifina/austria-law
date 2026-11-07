@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit zur Durchführung des Außenhandelsgesetzes 2005 (Außenhandelsverordnung 2005 – AußHV 2005) StF: [BGBl. II Nr. 121/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/121>)
+
+Auf Grund der §§ 4 Abs. 2, 8, 9 Abs. 2, 9 Abs. 10, 15 Abs. 5, 16 Abs. 2, 20 und 30 des Außenhandelsgesetzes 2005 – AußHG 2005, BGBl. I Nr. 50, wird hinsichtlich des § 1 dieser Verordnung im Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten, hinsichtlich der §§ 1, 7, 8 Abs. 1 und 9 Abs. 2 dieser Verordnung im Einvernehmen mit dem Bundesminister für Finanzen und hinsichtlich des § 1 dieser Verordnung mit Zustimmung des Hauptausschusses des Nationalrates verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zu den Beihilfen- und Ausgleichsprozentsätzen, die im Rahmen des Gesundheits- und Sozialbereich-Beihilfengesetzes anzuwenden sind StF: [BGBl. II Nr. 56/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_56_2/1997_56_2.pdf>)
+
+Auf Grund des § 3 Abs. 3 des Gesundheits- und Sozialbereich-Beihilfengesetzes, [BGBl. Nr. 746/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_746_0/1996_746_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird im Einvernehmen mit dem Bundesminister für Soziales, Gesundheit Pflege und Konsumentenschutz verordnet:

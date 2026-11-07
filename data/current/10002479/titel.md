@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 7. Jänner 1980 betreffend das Zeichen und das Emblem des Europarates StF: [BGBl. Nr. 95/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_95_0/1980_95_0.pdf>)

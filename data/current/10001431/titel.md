@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 1021 (1995) verabschiedet auf der 3595. Sitzung des Sicherheitsrats am 22. November 1995 StF: [BGBl. Nr. 75/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_75_0/1996_75_0.pdf>)

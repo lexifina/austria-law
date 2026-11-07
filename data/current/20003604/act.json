@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20003604",
+  "short_title": "FWF-Stimmgewichtungsverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003920",
+    "valid_from": "2004-10-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003604&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:02:18.682134+00:00",
+    "response_sha256": "62e785d9b3d7d8740cd746fbae9f5c65482245dcc7883b3846f49e2943459bb7",
+    "snapshot_sha256": "79fd3fe2befcde2c077eda6218cba22f1451003277343592617b8efac20d0435",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4a0c47e08156c4423dd8af08dc4d74eb0f26c8764f4edd97b30067edd0b19d9",
+      "sha256": "07d3e5fab173f5e5f2238577c5a30a2f67a23b4f54afdcf1632124e89698e00a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Stimmgewichtung in der Delegiertenversammlung des Fonds zur Förderung der wissenschaftlichen Forschung (FWF-Stimmgewichtungsverordnung) StF: BGBl. II Nr. 370/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 370/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/370"
+        },
+        {
+          "text": "BGBl. Nr. 434/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_434_0/1982_434_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 73/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/73"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b982a95eb0c32bf6ef71b9acc9ef35c3259888cf3aa3c921e2e34feeb3796d43",
+      "sha256": "41e21f140e3dd059d61dd939855da5b4662f23d8adfca67b73749d18b6a9ee6d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "198ff45e2a57d9057a267a7d0090551fc479e2c8073a16c8876a98f24092b86b",
+      "sha256": "3f07eb300949350a5c6914c5e7af4f2078255b0a424cf7b4b4e369f5a10e5d9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

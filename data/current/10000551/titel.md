@@ -1,0 +1,3 @@
+Bundesgesetz vom 30. November 1973 zur Durchführung zwischenstaatlicher Vereinbarungen über die Vermessung und Vermarkung der Staatsgrenze und zur Regelung bestimmter Angelegenheiten der Staatsgrenze (Staatsgrenzgesetz) StF: [BGBl. Nr. 9/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_9_0/1974_9_0.pdf>) (NR: GP XIII [RV 853](<https://www.parlament.gv.at/gegenstand/XIII/I/853>) [AB 939](<https://www.parlament.gv.at/gegenstand/XIII/I/939>) [S. 85.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/85>) BR: [S. 326.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/326>))
+
+Der Nationalrat hat beschlossen.

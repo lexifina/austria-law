@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 1. Dezember 1986 über die Aufhebung der Verordnung des Bürgermeisters der Gemeinde Hittisau, durch welche die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird,durch den Verfassungsgerichtshof StF: [BGBl. Nr. 659/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_659_0/1986_659_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

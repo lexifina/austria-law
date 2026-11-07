@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend den Namen und das Emblem der Europäischen Fischereiaufsichtsagentur StF: [BGBl. II Nr. 393/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/393>)
+
+Auf Grund des § 4 Abs. 1 Z 1 lit.c des Markenschutzgesetzes 1970, BGBl. Nr. 260, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 81/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/81>), wird im Einvernehmen mit dem Bundesminister für europäische und internationale Angelegenheiten kundgemacht, dass der Name und das Emblem der Europäischen Fischereiaufsichtsagentur, welche im Markenregister des Österreichischen Patentamtes für jedermann zur Einsicht aufliegen, von der Registrierung nach dem Markenschutzgesetz ausgeschlossen sind.

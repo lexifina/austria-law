@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung im Lehrberuf EDV-Kaufmann (EDV-Kaufmann-Ausbildungsordnung) StF: [BGBl. II Nr. 155/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_155_2/1998_155_2.pdf>)
+
+Auf Grund der §§ 8, 24 und 27 Abs. 2 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch die Berufsausbildungsgesetz-Novelle 1997, BGBl. I Nr. 67, wird - hinsichtlich des § 14 im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales - verordnet:

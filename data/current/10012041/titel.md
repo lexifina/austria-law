@@ -1,0 +1,1 @@
+Vereinbarung zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Neufassung des im Abkommen zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Luftverkehr vorgesehenen Fluglinienplanes StF: [BGBl. Nr. 536/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_536_0/1991_536_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Präsidenten des Verfassungsgerichtshofes über die Grundausbildung der Bediensteten des Verfassungsgerichtshofes (VfGH-Grundausbildungsverordnung) StF: [BGBl. II Nr. 172/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/172>)
+
+Auf Grund der §§ 25 bis 31 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 143/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/143>) und des § 67 des Vertragsbedienstetengesetzes 1948 (VBG), [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), in der Fassung des Bundesgesetzes BGBl. Nr. 155/2024 wird verordnet:

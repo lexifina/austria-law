@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz, mit der für Lenkerinnen und Lenker bestimmter Kraftfahrzeuge Abweichungen von den Verordnungen (EU) Nr. 165/2014 und (EG) Nr. 561/2006 sowie vom Arbeitszeitgesetz festgelegt werden (Lenker/innen-Ausnahmeverordnung – L-AVO) StF: [BGBl. II Nr. 10/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/10>)
+
+Auf Grund des § 15e Abs. 1 des Arbeitszeitgesetzes (AZG), [BGBl. Nr. 461/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_461_0/1969_461_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 149/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/149>), wird verordnet:

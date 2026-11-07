@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 31. Juli 1989 über Methoden und Toleranzen bei der Untersuchung von Wein und Obstwein (Methodenverordnung) StF: [BGBl. Nr. 495/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_495_0/1989_495_0.pdf>)
+
+Auf Grund des § 47 Abs. 11 des Weingesetzes 1985, BGBl. Nr. 444, in der Fassung des Bundesgesetzes [BGBl. Nr. 298/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_298_0/1988_298_0.pdf>) wird im Einvernehmen mit dem Bundesminister für Gesundheit und öffentlicher Dienst und dem Bundesminister für wirtschaftliche Angelegenheiten verordnet:

@@ -1,0 +1,743 @@
+{
+  "sample_only": false,
+  "included_provisions": 23,
+  "source_provision_count": 23,
+  "schema_version": 1,
+  "gesetzesnummer": "10001732",
+  "short_title": "Baurechtsgesetz",
+  "abbreviation": "BauRG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002968",
+    "valid_from": "1990-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001732&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:51:38.319619+00:00",
+    "response_sha256": "6a124cb61d067dc4dbffbf8884c50a55d27b0f0eaa7e6a36ff6ada9023eb4218",
+    "snapshot_sha256": "a335f8a7877f7ab8b94615e721f6812f679a2a041f9604bf9f4351109a4a0a18",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fc9e53ea638c95978c01c871136913e1ae87ab075121709758bb2de8dfe4fd50",
+      "sha256": "c06061a0e9ceea37d829cdb5f3db9a7b6fb8b520476d72ccd82e0d7432bbd1a9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Gesetz vom 26. April 1912, betreffend das Baurecht (Baurechtsgesetz – BauRG). StF: RGBl. Nr. 86/1912"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 403/1977 (NR: GP XIV RV 60 und 73 AB 587 S. 62. BR: AB 1695 S. 366.) BGBl. Nr. 258/1990 (NR: GP XVII IA 356/A AB 1264 S. 139. BR: AB 3849 S. 529.) BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.) [CELEX-Nr.: 32010L0012] BGBl. I Nr. 30/2012 (NR: GP XXIV RV 1675 AB 1698 S. 150. BR: AB 8708 S. 807.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 86/1912",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=86/1912&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 403/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_403_0/1977_403_0.pdf"
+        },
+        {
+          "text": "RV 60",
+          "url": "https://www.parlament.gv.at/gegenstand/XIV/I/60"
+        },
+        {
+          "text": "AB 587",
+          "url": "https://www.parlament.gv.at/gegenstand/XIV/I/587"
+        },
+        {
+          "text": "S. 62.",
+          "url": "https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/62"
+        },
+        {
+          "text": "AB 1695",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/1695"
+        },
+        {
+          "text": "S. 366.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/366"
+        },
+        {
+          "text": "BGBl. Nr. 258/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_258_0/1990_258_0.pdf"
+        },
+        {
+          "text": "IA 356/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XVII/A/356"
+        },
+        {
+          "text": "AB 1264",
+          "url": "https://www.parlament.gv.at/gegenstand/XVII/I/1264"
+        },
+        {
+          "text": "S. 139.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/139"
+        },
+        {
+          "text": "AB 3849",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/3849"
+        },
+        {
+          "text": "S. 529.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/529"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "RV 981",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/981"
+        },
+        {
+          "text": "AB 1026",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1026"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/90"
+        },
+        {
+          "text": "8437",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8437"
+        },
+        {
+          "text": "AB 8439",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8439"
+        },
+        {
+          "text": "S. 792.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/792"
+        },
+        {
+          "text": "32010L0012",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0012:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/30"
+        },
+        {
+          "text": "RV 1675",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1675"
+        },
+        {
+          "text": "AB 1698",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1698"
+        },
+        {
+          "text": "S. 150.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/150"
+        },
+        {
+          "text": "AB 8708",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8708"
+        },
+        {
+          "text": "S. 807.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/807"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "I. Privatrechtliche Bestimmungen.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce7cb62319ca28d32022ffcde81e62bb308ceb2c86a4ad760e20a9d63a0984e5",
+      "sha256": "7252cd5b75ef3de99daac4d75c29ecc2c85091012683230addae6a4cc60e5ded",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "431250586ef931304fa1a88240c07acbad5dd7148e454a58ed300711adc8a329",
+      "sha256": "2344a67ac1de3e732218d892d7a1d4ef43229dffd2bd437eafa5239aac0a06b9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b9eff938c5d0c2d09156e33735b376c5703de603cebe53d337e8a9e457ffcc41",
+      "sha256": "06929fb0df1d86ebacf9fecd4dfb853554199b69dd1af9b48e9fa427494cb06d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "§ 5.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd906ccf4ed2291ce4b60a6bc14954d71a781f0ac6a995eda6da0ba921605bbf",
+      "sha256": "60e662b07569091a05fb10798ed5b9937b8931f093be009173045506193df42e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§ 6.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85c5ed36a08d5f64b84cf51f85d5d87c9e4f12cac67fc77e6f4a1f64603d48da",
+      "sha256": "f982a8de1406445e8bb6ee4d02b1ca935e4717e3c5b023f29df1b47a97043531",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6a",
+      "source_heading": "§ 6a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f69c18d78a704d82328c059c92df0d77b0bee92004cdf774761ff77ce30dc43c",
+      "sha256": "fd4bdc59a7ea96d567d4e48f940b4ff52a835a08b4639a3439b5707bc51d094d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§ 7.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbff8bee602ffbc9312606495e562239a41d4a6252a4682741a28c8b601889cb",
+      "sha256": "942d72d8f2be1c193633085a00249e4657b8b4d9b6d373860d3105248fa0b599",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§ 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a76c2ca02185dc98d8a581ec7ac9c4e567b1e39b160e00a4c3ad4f5a278fec1e",
+      "sha256": "223557d12770ca44c737e397c643abcf28231af90ce16cdae753deb8901258f0",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "§ 9.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da8aa4e3890ed4adccaec5d861f23f13760cd4722f4b3bf8315918489b144f08",
+      "sha256": "d3c4f89c1dda05c10ec321237f65c5bb18c62847f7cfe010c3eda7c88e05c939",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§ 10.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41c1ec8f365aaa39ce395531c3d927687fb0a9b44ce2768231b91ee7885ceb50",
+      "sha256": "52a061f4c752cc9398a67f8e715632f95a6adce3ab4b2b7412ca8acd84692e45",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "§ 11.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "59eb62f06fe381026a50db516c9a1dd7905cd8f46692140569f4ce46e830f0a5",
+      "sha256": "50926a34c3c2c1e91792664e8cdc24dfafedf6e7139df14b756a309cfb6294c4",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§ 12.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "475e7b1e2547a23b17d3832555e5dfec2022004c121344196d572d8cafc24b20",
+      "sha256": "48b65084b45a9d8d8ea0807768b13a0d6d1fd2a31d009f5373bb2a5f94949c54",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "II. Verfahren.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9eea7a3d46aa404006d2551b1703860e4090956365ee84462902eba02fd6f186",
+      "sha256": "8aea2778d8a422cec01e3271077856c75170e8f4a16c048fbd3ef9a6cd8604a4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "III. Gebührenrechtliche Bestimmungen.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4fefd8ee8c101471d7c27ec2c6ca4ca6991b64451c918197e14abf95487f03f",
+      "sha256": "61445c1a2074bf9b5b830ec2d97bb54df5788ee643ad18d9d5eafba4526f109d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "76eec2f25a68ad3d9dfa95210f90b19909c438ae581f6aa568fb51655a0268d2",
+      "sha256": "9dfa33851543d51095a9fea27bf508b8adb1d95429958b8a8ec9dcdeffabd4cb",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "§ 17.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7af4cdaee05d265b6cb69a8ce3718c537a355e2bfc27b7f1dd867fd367255a88",
+      "sha256": "81f3f3a46fe2988c8fbf2bb84d6a90a1e4648d2a0ab9d2cb8618c9cb884be4e1",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "§ 18.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be1bfcc243ce257cc2267ec5a32217c7a153a7b0159951d5109d147a40d64553",
+      "sha256": "203af579fb3928d93970b6ed1042726db939bd7fa54cfd67b2ef3d2cd3c417d7",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "§ 19.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f0bd0908c93cdaf971a85ffd28d55e713419c366e07802599e0fec1243331ea8",
+      "sha256": "4d980df947fd6bcfed883cd7ddfaa59b1dd8268d4d0074c9552de5ba27d80603",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869."
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 113/1869",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=113/1869&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "IV. Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd754aa7dad464d593254cf0afb86a6f09f56a7c5d133ea277ef607cfe5e1a62",
+      "sha256": "a2e4e6e047ca0288dd75f8ac81f95b13271340eaaaed1b89fe5eef15c287f2c4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "§ 21.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e0162d3173d8905144c807a7d98896793a21a6a5dec6e50b821201d21c642595",
+      "sha256": "c3e3916be436b76c43bfd114249f012d6c7db36b60be036eaec0345c989e36aa",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 30/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/30"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 3",
+      "source_heading": "Artikel III",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "art-003.md",
+      "source_context": "BGBl. Nr. 258/1990",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b1b951e9c05c4023a882be254cba32dfe27e1ff9a3ca14a26ef3dbd1120a948d",
+      "sha256": "32e2ac6bb84af7acb61c988f223d9a9560a170a542ed5d73307bf6a383ef5364",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 258/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_258_0/1990_258_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 86/1912",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=86/1912&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 39",
+      "source_heading": "Artikel 39 Inkrafttreten, Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "art-039.md",
+      "source_context": "BGBl. I Nr. 111/2010",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd87fa59df6ecccb93f43c403cc5fe386b91bc2d8bdb8c7c9f031b7f4e547f08",
+      "sha256": "5240de3860fc0427a3a98714c246fbe7fb5aec53be8584d8d6e0d3f1dcd75289",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. Nr. 86/1912",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=86/1912&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

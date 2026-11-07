@@ -1,0 +1,3 @@
+Bundesgesetz über die Bundesrechenzentrum GmbH (BRZ GmbH) StF: [BGBl. Nr. 757/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_757_0/1996_757_0.pdf>) idF [BGBl. I Nr. 82/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_82_1/1997_82_1.pdf>) (DFB) (NR: GP XX [RV 397](<https://www.parlament.gv.at/gegenstand/XX/I/397>) [AB 477](<https://www.parlament.gv.at/gegenstand/XX/I/477>) [S. 47.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/47>) BR: [AB 5314](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5314>) [S. 619.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/619>))
+
+Der Nationalrat hat beschlossen:

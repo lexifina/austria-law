@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001774",
+  "short_title": "Berner Übereinkunft (Berliner Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001796",
+    "valid_from": "1928-06-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001774&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:52:28.343441+00:00",
+    "response_sha256": "23ffbddf9f6c966e25dcfb97ff69876c00d5bf3f94f46fc7a99744d441de789c",
+    "snapshot_sha256": "44d25601d74a59c82112cd2ddd35d3367f380a5a15a9b30687af1a61b7392eaa",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b9354f99a8dd795d774852a8f74ee190ef078f884da86925b14cf700f6f60b1",
+      "sha256": "b10de9d8ec44c19303f59b8e5baf92ec5d94bd5d7063d518ee800ae964669bd3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Justiz vom 8. Juni 1928 über den Beitritt Australiens, Britisch-Indiens, Canadas und Neuseelands zum Revidierten Berner Übereinkommen zum Schutze von Werken der Literatur und Kunst. StF: BGBl. Nr. 148/1928"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 148/1928",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=148/1928&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "045ea9848c69c4fcebeb018f7669b75c3e2a900a1e93c6950fa9d6b933533fd2",
+      "sha256": "52c0d4b213f1e3d8f3eb63dda7fe5baf3d8ac20b0e64d05ed7296577bcb8728c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

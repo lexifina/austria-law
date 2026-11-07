@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004611",
+  "short_title": "Durchführung des Grenzgängerabkommens",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005036",
+    "valid_from": "2006-02-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004611&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:17:00.083103+00:00",
+    "response_sha256": "aeab0d3c34243067b68b60c30449990b324d1d5b419697617300d49caf16a6b2",
+    "snapshot_sha256": "a3b5926bdaf9ce4c9d01b3ffb2b29d9190b79bc7acc77c602972911d2e9820eb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25de235f847202d961589cc26987e5fcacf9f869afd3a9868fb066a28b1980cb",
+      "sha256": "c8fbd65916c09ab18307151f42b2afb13381cf1d684c08a02eedf301f98755c5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Durchführung des Grenzgängerabkommens zwischen der Regierung der Republik Österreich und der Regierung der Tschechischen Republik StF: BGBl. III Nr. 30/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 30/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2006/30"
+        },
+        {
+          "text": "BGBl. III Nr. 83/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2005/83"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "670db2603d9fea2391cb397eced3163c624f03ce6f84d8add7285060567ce50c",
+      "sha256": "6ced78cd69d5656637ff7e801e63ab6c44e648b0dae79ead0bd2075fac118e42",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aea76d420d2e4f7e8a27cb1e480983eb421b620e1a293519aa0204a483ff39bf",
+      "sha256": "b179f5921518806c36b0ea38711a0b30a124d0c38d6a926e2bb1815e437ff2e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

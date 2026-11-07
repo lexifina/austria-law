@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales, mit der ein Pauschalbetrag für die anteiligen Verwaltungsaufwendungen der Versicherungsanstalt des österreichischen Bergbaues für die Vollziehung der Sonderunterstützung nach dem Sonderunterstützungsgesetz festgesetzt wird (SUG-Pauschalbetragsverordnung) StF: [BGBl. II Nr. 46/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_46_2/1998_46_2.pdf>)
+
+Auf Grund des § 12 Abs. 1 des Sonderunterstützungsgesetzes (SUG), [BGBl. Nr. 642/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_642_0/1973_642_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

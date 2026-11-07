@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007838",
+  "short_title": "Handelsabkommen zwischen Österreich und Uruguay - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007978",
+    "valid_from": "1996-11-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007838&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:10:42.548962+00:00",
+    "response_sha256": "09bd185ff1033961b49011d72271f65008b5f3da3181dd87b7108ca27fe03e61",
+    "snapshot_sha256": "f67f2f021e395f24daa4008079f64b49385f3ab87eee55522994ae010676afd3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d64ac0f917f84a4fbc9dcbce19a2c76070cc1a1be5311a395bfb2f9624d7068a",
+      "sha256": "cb141d65e6c06c2a201e990f81c28bf15593a1f48ab9c2402472e8210414aa83",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Handelsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Republik Uruguay StF: BGBl. Nr. 582/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 582/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_582_0/1996_582_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5aeead2da3a63801fb15b5d84e081396c604aece645c33dc721d4ef739627f1e",
+      "sha256": "885a05da2882cddbeeaf17c7d5f1cabeacfc78aee50d193d8fe8cf51c11964aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

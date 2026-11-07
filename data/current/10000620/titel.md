@@ -1,0 +1,3 @@
+Bundesgesetz vom 29. Juni 1977 über die Änderung der Landesgrenze zwischen dem Land Burgenland (Gemeinde Leithaprodersdorf) und dem Land Niederösterreich (Marktgemeinde Au am Leithaberge) StF: [BGBl. Nr. 389/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_389_0/1977_389_0.pdf>) (NR: GP XIV [RV 505](<https://www.parlament.gv.at/gegenstand/XIV/I/505>) [AB 596](<https://www.parlament.gv.at/gegenstand/XIV/I/596>) [S. 61.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/61>) BR: [AB 1694](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1694>) [S. 366.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/366>))
+
+Der Nationalrat hat beschlossen:

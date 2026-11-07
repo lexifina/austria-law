@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001678",
+  "short_title": "Errichtung einer dritten Notarstelle in Feldbach",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001823",
+    "valid_from": "2001-12-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001678&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:35:47.067211+00:00",
+    "response_sha256": "42a3a5506e70026bc60805fffdcfbae6664b634de3538d591a5a118b0a216c3c",
+    "snapshot_sha256": "6222f742fd4fb6c2b8533127a29a04d4c68e3255eb3bc2710fd851275b004ba4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c0582f6c622a296141edb29fe846b6ed641025ee3eaf90e6f580d3eafe1922a",
+      "sha256": "2ad48f50a08017ca8c0333cf9fd58c29fbea488b1dc2a513ccb0c2d941341d42",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Feldbach StF: BGBl. II Nr. 444/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 444/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_444_2/2001_444_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e1fe5ef2e4e6a1d3ef1f216062fc4533164125c181d6de3eb651cf587f6a1051",
+      "sha256": "d9f178b5c48801292cef32751c3474bca50f8b0575610b0ee18561b368930908",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

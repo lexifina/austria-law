@@ -1,0 +1,3 @@
+Bundesgesetz betreffend die Ermittlung der Umlaufgewichteten Durchschnittsrendite für Bundesanleihen (UDRBG) StF: [BGBl. I Nr. 4/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/4>) (NR: GP XXV [RV 350](<https://www.parlament.gv.at/gegenstand/XXV/I/350>) [AB 435](<https://www.parlament.gv.at/gegenstand/XXV/I/435>) [S. 55.](<https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/55>) BR: [9273](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9273>) [AB 9286](<https://www.parlament.gv.at/gegenstand/BR/I-BR/9286>) [S. 837.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/837>))
+
+Der Nationalrat hat beschlossen:

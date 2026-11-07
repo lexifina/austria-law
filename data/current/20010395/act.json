@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010395",
+  "short_title": "Errichtung je einer zweiten Notarstelle in Gänserndorf und in Gmunden",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209403",
+    "valid_from": "1973-02-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010395&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:48.162041+00:00",
+    "response_sha256": "19ae63e5e554b47a57497d9a2ab2e60c5a3928b2eca0cb648fd19725d4c09b0e",
+    "snapshot_sha256": "17e6ea2f9c3ecdc8b76a6560b7e5f310b8cc9ebeab3e839f4330e1334e122f32",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3222f58ca858656f256bdf8e0142568d6332d488c6a60436fb72d62dc37155c4",
+      "sha256": "ea33ed3e8de602e962b013d3162e6fcc270fcee0f82221365ba02e565077efd3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 24. Jänner 1973 betreffend die Errichtung je einer zweiten Notarstelle in Gänserndorf und in Gmunden StF: BGBl. Nr. 57/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 57/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_57_0/1973_57_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69f520b15417556801a143fa37050499fbd1906694f207b3d25336f00fa8dbb7",
+      "sha256": "c784e8cc06f32e971f93a64dcf8eda0c9493dc18fa3bab641a0ae23ac97556a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

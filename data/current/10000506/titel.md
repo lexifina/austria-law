@@ -1,0 +1,3 @@
+Bundesgesetz vom 26. April 1972 über Änderungen der Staatsgrenze zwischen der Republik Österreich und der Schweizerischen Eidgenossenschaft und über die österreichische Delegation in der Österreichisch-Schweizerischen Grenzkommission StF: [BGBl. Nr. 332/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_332_0/1972_332_0.pdf>) (NR: GP XIII [RV 147](<https://www.parlament.gv.at/gegenstand/XIII/I/147>) [AB 216](<https://www.parlament.gv.at/gegenstand/XIII/I/216>) [S. 27.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/27>) BR: [S. 310.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/310>))
+
+Der Nationalrat hat beschlossen:

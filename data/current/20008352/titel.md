@@ -1,0 +1,3 @@
+Verordnung des Präsidenten des Verfassungsgerichtshofes über die elektronische Einbringung bzw. Übermittlung von Schriftsätzen, von Beilagen zu Schriftsätzen, von Ausfertigungen von Erledigungen des Verfassungsgerichtshofes und von Kopien von Schriftsätzen und Beilagen (VfGH-elektronischer Verkehr-Verordnung – VfGH-EVV) StF: [BGBl. II Nr. 82/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/82>)
+
+Auf Grund des § 14a Abs. 2 und 3 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), zuletzt geändert durch das Verwaltungsgerichtsbarkeits-Ausführungsgesetz 2013, [BGBl. I Nr. 33/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/33>), wird verordnet:

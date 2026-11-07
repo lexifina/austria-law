@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die Festsetzung von Gebühren und Kostenersätzen für Leistungen der Sicherheitsexekutive nach dem Sicherheitspolizeigesetz (Sicherheitsgebühren-Verordnung – SGV) StF: [BGBl. Nr. 389/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_389_0/1996_389_0.pdf>)
+
+Auf Grund der §§ 5a Abs. 3 Z 1, 55b Abs. 5 und 92a des Sicherheitspolizeigesetzes (SPG), [BGBl. Nr. 566/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 32/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32>), wird verordnet:

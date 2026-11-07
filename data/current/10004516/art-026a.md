@@ -1,0 +1,33 @@
+## ARTIKEL 26A
+
+### Amtshilfe bei der Vollstreckung von Steuern
+
+(1) Die Vertragsstaaten leisten sich gegenseitige Amtshilfe bei der Vollstreckung von Abgabenansprüchen. Diese Amtshilfe ist durch Artikel 1 und 2 nicht eingeschränkt. Die zuständigen Behörden der Vertragsstaaten können in gegenseitigem Einvernehmen regeln, wie dieser Artikel durchzuführen ist.
+
+(2) Der in diesem Artikel verwendete Ausdruck „Abgabenanspruch“ bedeutet einen Betrag, der auf Grund von Steuern jeder Art und Bezeichnung, die für Rechnung der Vertragsstaaten oder einer ihrer Gebietskörperschaften erhoben werden, geschuldet wird, soweit die Besteuerung diesem Abkommen oder anderen völkerrechtlichen Übereinkünften, denen die Vertragsstaaten beigetreten sind, nicht widerspricht, sowie mit diesem Betrag zusammenhängende Zinsen, verwaltungsbehördliche Geldstrafen und Kosten der Vollstreckung oder Sicherung.
+
+(3) Ist der Abgabenanspruch eines Vertragsstaats nach dem Recht dieses Staates vollstreckbar und wird er von einer Person geschuldet, die zu diesem Zeitpunkt nach dem Recht dieses Staates die Vollstreckung nicht verhindern kann, wird dieser Abgabenanspruch auf Ersuchen der zuständigen Behörde dieses Staates für die Zwecke der Vollstreckung von der zuständigen Behörde des anderen Vertragsstaates anerkannt. Der Abgabenanspruch wird vom anderen Staat nach dessen Rechtsvorschriften über die Einbringung und Vollstreckung seiner eigenen Steuern vollstreckt, als handele es sich bei dem Abgabenanspruch um einen Abgabenanspruch des anderen Staates.
+
+(4) Handelt es sich bei dem Abgabenanspruch eines Vertragsstaats um einen Anspruch, bei dem dieser Staat nach seinem Recht Maßnahmen zur Sicherung der Vollstreckung einleiten kann, wird dieser Abgabenanspruch auf Ersuchen der zuständigen Behörde dieses Staates zum Zwecke der Einleitung von Sicherungsmaßnahmen von der zuständigen Behörde des anderen Vertragsstaats anerkannt. Der andere Staat leitet nach seinen Rechtsvorschriften Sicherungsmaßnahmen in Bezug auf diesen Abgabenanspruch ein, als wäre der Abgabenanspruch ein Abgabenanspruch dieses anderen Staates, selbst wenn der Abgabenanspruch im Zeitpunkt der Einleitung dieser Maßnahmen im erstgenannten Staat nicht vollstreckbar ist oder von einer Person geschuldet wird, die berechtigt ist, die Vollstreckung zu verhindern.
+
+(5) Ungeachtet der Absätze 3 und 4 unterliegt ein von einem Vertragsstaat für Zwecke der Absätze 3 oder 4 anerkannter Abgabenanspruch als solcher in diesem Staat nicht den Verjährungsfristen oder den Vorschriften über die vorrangige Behandlung eines Abgabenanspruchs nach dem Recht dieses Staates. Ferner hat ein Abgabenanspruch, der von einem Vertragsstaat für Zwecke der Absätze 3 oder 4 anerkannt wurde, in diesem Staat nicht den Vorrang, den dieser Abgabenanspruch nach dem Recht des anderen Vertragsstaats hat.
+
+(6) Verfahren im Zusammenhang mit dem Bestehen, der Gültigkeit oder der Höhe des Abgabenanspruchs eines Vertragsstaats können nicht bei den Gerichten oder Verwaltungsbehörden des anderen Vertragsstaats eingeleitet werden.
+
+(7) Verliert der betreffende Abgabenanspruch, nachdem das Ersuchen eines Vertragsstaates nach den Absätzen 3 oder 4 gestellt wurde und bevor der andere Vertragsstaat den betreffenden Abgabenanspruch vollstreckt und an den erstgenannten Staat ausgezahlt hat,
+
+- a) im Falle eines Ersuchens nach Absatz 3 seine Eigenschaft als Abgabenanspruch des erstgenannten Staates, der nach dem Recht dieses Staates vollstreckbar ist und von einer Person geschuldet wird, die zu diesem Zeitpunkt nach dem Recht dieses Staates die Vollstreckung nicht verhindern kann, oder
+
+- b) im Falle eines Ersuchens nach Absatz 4 seine Eigenschaft als Abgabenanspruch des erstgenannten Staates, für den dieser Staat nach seinem Recht Maßnahmen zur Sicherung der Vollstreckung einleiten kann,
+
+teilt die zuständige Behörde des erstgenannten Staates dies der zuständigen Behörde des anderen Staates unverzüglich mit und nach Wahl des anderen Staates setzt der erstgenannte Staat das Ersuchen entweder aus oder nimmt es zurück.
+
+(8) Dieser Artikel ist nicht so auszulegen, als verpflichte er einen Vertragsstaat
+
+- a) Verwaltungsmaßnahmen durchzuführen, die von den Gesetzen und der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen;
+
+- b) Maßnahmen durchzuführen, die dem Ordre public widersprächen;
+
+- c) Amtshilfe zu leisten, wenn der andere Vertragsstaat nicht alle angemessenen Maßnahmen zur Vollstreckung oder Sicherung, die nach seinen Gesetzen oder seiner Verwaltungspraxis möglich sind, ausgeschöpft hat;
+
+- d) Amtshilfe in Fällen zu leisten, in denen der Verwaltungsaufwand für diesen Staat in einem eindeutigen Missverhältnis zu dem Nutzen steht, den der andere Vertragsstaat dadurch erlangt.

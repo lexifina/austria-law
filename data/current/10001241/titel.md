@@ -1,0 +1,1 @@
+Abkommen zwischen den Vereinten Nationen und der Österreichischen Bundesregierung betreffend die Bereitstellung von Einrichtungen für das Symposium über regionale Schritte zu Vertrauens- und Sicherheitsbildenden Maßnahmen StF: [BGBl. Nr. 628/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_628_0/1993_628_0.pdf>)

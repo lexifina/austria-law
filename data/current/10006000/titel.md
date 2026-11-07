@@ -1,0 +1,1 @@
+Beschluß des Exekutivausschusses zur Inkraftsetzung des Schengener Durchführungsübereinkommens in Österreich StF: [BGBl. III Nr. 204/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_204_3/1997_204_3.pdf>)

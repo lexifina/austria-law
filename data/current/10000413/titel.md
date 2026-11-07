@@ -1,0 +1,9 @@
+Vereinbarung zwischen der Republik Österreich und der Internationalen Atomenergie-Organisation über die Ausdehnung des Amtssitzabkommens auf Beamte anderer Internationaler Organisationen, die der Internationalen Atomenergie-Organisation auf Zeit zugeteilt sind StF: [BGBl. Nr. 40/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_40_0/1965_40_0.pdf>) (NR: GP X [RV 595](<https://www.parlament.gv.at/gegenstand/X/I/595>) [AB 615](<https://www.parlament.gv.at/gegenstand/X/I/615>) [S. 74.](<https://www.parlament.gv.at/gegenstand/X/NRSITZ/74>) BR: [S. 224.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/224>))
+
+Die vorliegende Vereinbarung ist am 1. März 1965 in Kraft getreten.
+
+Nachdem die sich aus den nachstehenden Noten ergebende Vereinbarung zwischen der Republik Österreich und der Internationalen Atomenergie-Organisation über die Ausdehnung des Amtssitzabkommens auf Beamte anderer Internationaler Organisationen, die der Internationalen Atomenergie-Organisation auf Zeit zugeteilt sind, die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der Bundespräsident diese Vereinbarung für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der in dieser Vereinbarung enthaltenen Bestimmungen:
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde vom Bundespräsidenten unterzeichnet, vom Bundeskanzler, vom Bundesminister für Inneres, vom Bundesminister für Justiz, vom Bundesminister für Unterricht, vom Bundesminister für soziale Verwaltung, vom Bundesminister für Finanzen, vom Bundesminister für Land- und Forstwirtschaft, vom Bundesminister für Handel und Wiederaufbau, vom Bundesminister für Verkehr und Elektrizitätswirtschaft und vom Bundesminister für Auswärtige Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, am 25. Feber 1965.

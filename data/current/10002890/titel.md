@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz vom 4. Dezember 1989 über die Abbuchung und Einziehung der Gerichtsgebühren (Abbuchungs- und Einziehungs-Verordnung – AEV) StF: [BGBl. Nr. 599/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_599_0/1989_599_0.pdf>) idF [BGBl. Nr. 558/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_558_0/1990_558_0.pdf>) (DFB)
+
+Auf Grund des § 4 Abs. 6 des Gerichtsgebührengesetzes (GGG), [BGBl. Nr. 501/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_501_0/1984_501_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 343/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_343_0/1989_343_0.pdf>), wird verordnet:

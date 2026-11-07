@@ -1,0 +1,11 @@
+Protokoll, betreffend die Abänderung des in Genf am 30. September 1921 abgeschlossenen Übereinkommens zur Unterdrückung des Frauen- und Kinderhandels und des in Genf am 11. Oktober 1933 abgeschlossenen Abkommens zur Unterdrückung des Handels mit volljährigen Frauen. StF: [BGBl. Nr. 204/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_204_0/1950_204_0.pdf>) (P)
+
+In der Erwägung, daß der Völkerbund gemäß dem am 30. September 1921 in Genf abgeschlossenen Übereinkommen zur Unterdrückung des Frauen- und Kinderhandels und gemäß dem am 11. Oktober 1933 in Genf abgeschlossenen Abkommen zur Unterdrückung des Handels mit volljährigen Frauen mit gewissen Funktionen und Befugnissen ausgestattet war, zu deren weiteren Ausübung es erforderlich ist, infolge der Auflösung des Völkerbundes Vorsorge zu treffen, und in der Erwägung, daß es zweckmäßig ist, daß diese Funktionen und Befugnisse von nun an von den Vereinten Nationen ausgeübt werden, kommen die Vertragspartner des vorliegenden Protokolls hiemit über folgendes überein:
+
+Vorstehendes Protokoll wurde gemäß seinem Artikel IV (a) am 7. Juni 1950 vom österreichischen Beobachter bei den Vereinten Nationen vorbehaltlos unterzeichnet und trat für Österreich sofort in Kraft.
+
+Folgende Staaten haben bis zum 7. Juni 1950 das Protokoll vom 12. November 1947, welches das Übereinkommen zur Unterdrückung des Frauen- und Kinderhandels vom 30. September 1921 ([BGBl. Nr. 740/1922](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=740/1922&amp;SkipToDocumentPage=True>)) und das Abkommen zur Unterdrückung des Handels mit volljährigen Frauen vom 11. Oktober 1933 ([BGBl. Nr. 317/1936](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=317/1936&amp;SkipToDocumentPage=True>)) abändert, entweder vorbehaltlos unterzeichnet oder angenommen:
+
+Ägypten, Afghanistan, Albanien, Australien, Belgien, Brasilien, Burma, Canada, China, Dänemark, Finnland, Indien, Italien, Jugoslawien, Libanon, Mexico, Nicaragua, Norwegen, Pakistan, Niederlande, Schweden, Südafrikanische Union, Syrien, Tschechoslowakei, Türkei, Ungarn, Union der sozialistischen Sowjetrepubliken.
+
+Die im Artikel V, 2. Absatz, erwähnten Abänderungen des Übereinkommens vom 30. September 1921 und des Abkommens vom 11. Oktober 1933 sind am 24. April 1950 in Kraft getreten.

@@ -1,0 +1,3 @@
+Verordnung der Präsidentin des Rechnungshofes über die Verwendung von Erlösen aus der Verwertung von Ehrengeschenken StF: [BGBl. II Nr. 36/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/36>)
+
+Auf Grund des § 59 Abs. 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/112>), und des § 5 Abs. 1 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/112>), wird verordnet:

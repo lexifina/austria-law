@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002089",
+  "short_title": "Hoheitszeichen - Kanada",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002112",
+    "valid_from": "1967-05-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002089&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:57:33.068382+00:00",
+    "response_sha256": "c278192619666017ed76d95929569992310ddf701be2b2ed40ec0de6be5b608d",
+    "snapshot_sha256": "4790939ab95279f5e6172acf67ce0a9c026a8825a6fc9d988c0e742764e27bc1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "718f95f541b0b4f3a228d2c805a5bd4c0757b570e53ec1a33fc477cbc09cc7ad",
+      "sha256": "9791fcd943b3baabc17b8e0c1352c7fc7a8b23ee3679fa1d5dc4285bce52755d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 12. April 1967, betreffend zwei kanadische Hoheitszeichen StF: BGBl. Nr. 148/1967"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 148/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_148_0/1967_148_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8e00e3254fcc755d14a4fc308e0069e55786e69ec96058f6636b56604e1d8e6",
+      "sha256": "a9ab3cefb456d7ef00c52776c4faa6884ee11bd220e0c5b3e860457410a34e9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

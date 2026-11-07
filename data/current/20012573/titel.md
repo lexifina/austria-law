@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über ergänzende, strengere nationale Maßnahmen beim Handel mit Exemplaren von wild lebenden Tier- und Pflanzenarten (Artenhandelsergänzungsverordnung – ArtHEV) StF: [BGBl. II Nr. 107/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/107>)
+
+Aufgrund des § 2 Abs. 1 Z 2 des Artenhandelsgesetzes 2009, [BGBl. I Nr. 16/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/16>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird verordnet:

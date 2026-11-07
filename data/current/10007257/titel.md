@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation StF: [BGBl. Nr. 632/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_632_0/1992_632_0.pdf>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das neue Emblem No 1 der Europäischen Freihandelsassoziation (EFTA) StF: [BGBl. Nr. 491/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_491_0/1995_491_0.pdf>)

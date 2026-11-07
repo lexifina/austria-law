@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die Sondereinheiten der Generaldirektion für die öffentliche Sicherheit (Sondereinheiten-Verordnung) StF: [BGBl. II Nr. 207/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_207_2/1998_207_2.pdf>)
+
+Auf Grund der §§ 6, 14 und 15 des Sicherheitspolizeigesetzes (SPG), [BGBl. Nr. 566/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 112/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_112_1/1997_112_1.pdf>), wird – hinsichtlich der §§ 1 bis 6 im Einvernehmen mit dem Hauptausschuß des Nationalrates – verordnet:

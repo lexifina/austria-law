@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003050",
+  "short_title": "Auslandsunterhaltsgesetz - Australien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003075",
+    "valid_from": "1992-07-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003050&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:58.779404+00:00",
+    "response_sha256": "25b880c2a7406cbac2afbbc5204547504b0bced016074d1acf4669472a8a9704",
+    "snapshot_sha256": "8780be95731fa7c5776c13ae4d9387a8f42eb6a195a65c58af2f7407e34c051f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91d68caf3403b44dd593db3b36a7da30a7c497734dbfb7be2deb5d2a69e4bbab",
+      "sha256": "63419921fbb3de9bad018943d9d6f8edd7371b85076168d87cfcea6f5d6fb141",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz nach § 1 Abs. 3 Auslandsunterhaltsgesetz StF: BGBl. Nr. 399/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 399/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_399_0/1992_399_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef6292e8df216677f3a977b4b0bbd8b4bdb2bb98a231041f7b7e440452d3a6da",
+      "sha256": "e8ef55b38667643327bdc1140d58f7f8ab0ddaea78b4e5e8cf3bca28d56c6219",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

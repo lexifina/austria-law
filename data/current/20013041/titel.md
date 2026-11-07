@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über den Aufwandersatz von gesetzlichen Interessenvertretungen und kollektivvertragsfähigen freiwilligen Berufsvereinigungen in Arbeitsrechtssachen (Aufwandersatzverordnung) StF: [BGBl. II Nr. 283/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/283>)
+
+Auf Grund der §§ 1 und 2 des Bundesgesetzes über den Aufwandersatz von gesetzlichen Interessenvertretungen und freiwilligen kollektivvertragsfähigen Berufsvereinigungen in Arbeitsrechtssachen – Aufwandersatzgesetz, [BGBl. Nr. 28/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_28_0/1993_28_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 98/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_98_1/2001_98_1.pdf>), wird verordnet:

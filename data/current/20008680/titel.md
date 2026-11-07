@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Emblem, Fahne, Name und Abkürzung der Internationalen Organisation der Frankophonie (IOF) und Name, Abkürzung und Emblem des Instituts für Energie und Umwelt der Frankophonie (IEPF) StF: [BGBl. II Nr. 391/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/391>)

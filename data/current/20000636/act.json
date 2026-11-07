@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000636",
+  "short_title": "Schutz der Unterseekabel",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000675",
+    "valid_from": "1937-02-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000636&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:20:44.256744+00:00",
+    "response_sha256": "50b4378d9f00b7ce839342532a622d75d65bd25f111dfdca84ad990d6b94e913",
+    "snapshot_sha256": "05b953362b20a9e3ef641c5a58ee1c3fb4e3fd74c63cdd291ecb475687286575",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "295a2de2bfd033ffa556e59920a97e7f46c0d9694ec2ed5f8343218b5f7bb77a",
+      "sha256": "288b4ebeae56a8e36c81c9e5c85b79c9fb6f0eaf1adfdddb8d9abd054ac38e9b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung, womit das Verzeichnis der dem Übereinkommen zum Schutze der Unterseekabel beigetretenen Staaten ergänzt wird. StF: BGBl. Nr. 34/1937"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 34/1937",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=34/1937&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "505689916fb77c349e1b0725792eb7ee4bcb1e6c595aec910657b08573bab5b8",
+      "sha256": "47fdf732eb4b9cea6896445f4ac5f57e3eadfb1ff6228ed80ff1547249122dc1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

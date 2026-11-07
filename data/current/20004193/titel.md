@@ -1,0 +1,1 @@
+Bundesgesetz über die Übertragung und Veräußerung von unbeweglichem Bundesvermögen StF: [BGBl. I Nr. 76/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/76>) (NR: GP XXII [RV 983](<https://www.parlament.gv.at/gegenstand/XXII/I/983>) [AB 1034](<https://www.parlament.gv.at/gegenstand/XXII/I/1034>) [S. 116.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/116>))

@@ -1,0 +1,3 @@
+Bundesgesetz vom 30. Juni 1977 zur Durchführung des Übereinkommens vom 8. September 1967 über die Anerkennung von Entscheidungen in Ehesachen StF: [BGBl. Nr. 44/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_44_0/1978_44_0.pdf>) (NR: GP XIV [RV 446](<https://www.parlament.gv.at/gegenstand/XIV/I/446>) [AB 545](<https://www.parlament.gv.at/gegenstand/XIV/I/545>) [S. 62.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/62>) BR: [AB 1703](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1703>) [S. 366.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/366>))
+
+Der Nationalrat hat beschlossen:

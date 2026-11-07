@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20006073",
+  "short_title": "Errichtung einer elften Notarstelle in Innsbruck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006760",
+    "valid_from": "2008-11-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006073&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:40:19.523715+00:00",
+    "response_sha256": "ad7c44585fbc1f3be49ef1787851457a9f666532731836b9e6d3228f5834be1d",
+    "snapshot_sha256": "6398642f64394e2ea025c7688b208a09a91b79ee7048538607a4c22f4a3d0243",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "33daf2a5be7e9f0bdf43ea3eed7b242f2a093c31f9d252ad3c16be6202a37259",
+      "sha256": "4af17641275b6afddeb177309f9035b3e848bf27d0b2b20e2088c5e5ccf85af7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer elften Notarstelle in Innsbruck StF: BGBl. II Nr. 392/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 392/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/392"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca7d413e4d463b81c94f07f4f8ff6a9a6aba3ece105b3de8b8b7b7a73c532dbc",
+      "sha256": "bbd31ed94530a5a0b77dc430ee9bd66b2ee8bd9311ee1e856ebadb508a83f294",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

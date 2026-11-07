@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzleramtes vom 8. April 1954, betreffend Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Gesetzgebung und Vollziehung auf dem Gebiete des Grundverkehrsrechtes und über die Zuständigkeit der Länder auf dem Gebiete des Zivil- und Strafrechtes sowie über die Zuständigkeit der Länder, die Gerichte mit der Vollziehung eines Landesgesetzes zu betrauen. StF: [BGBl. Nr. 92/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_92_0/1954_92_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 24. März 1954, K II-1/54/20, zusammengefaßt hat:

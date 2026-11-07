@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über die Zertifizierung von Flughäfen (Flughafen-Zertifizierungsverordnung - FZV) StF: [BGBl. II Nr. 315/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/315>)
+
+Auf Grund der §§ 62, 66, 74, 140c und 141 des Luftfahrtgesetzes, [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), zuletzt geändert durch das Bundesgesetz BGBl. I. Nr. 83/2008 und die Bundesministeriengesetz-Novelle 2009, BGBl. I Nr. 3, wird, hinsichtlich § 12 im Einvernehmen mit dem Bundesminister für Finanzen, verordnet:

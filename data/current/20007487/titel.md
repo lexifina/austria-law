@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Verwendung von Bleischrotmunition bei der Jagd auf Wasservögel StF: [BGBl. II Nr. 331/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/331>)
+
+Auf Grund des § 17 Abs. 1 des Chemikaliengesetzes (ChemG 1996), [BGBl. I Nr. 53/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_53_1/1997_53_1.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 88/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/88>), wird im Einvernehmen mit dem Bundesminister für Wirtschaft, Jugend und Familie und dem Bundesminister für Arbeit, Soziales und Konsumentenschutz verordnet:

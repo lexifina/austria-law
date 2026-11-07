@@ -1,0 +1,3 @@
+Bundesgesetz vom 13. März 1957 über die Schaffung von Auffangorganisationen gemäß Artikel 26 § 2 des Staatsvertrages, [BGBl. Nr. 152/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_152_0/1955_152_0.pdf>) (Auffangorganisationengesetz). StF: [BGBl. Nr. 73/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_73_0/1957_73_0.pdf>) (NR: GP VIII [RV 187](<https://www.parlament.gv.at/gegenstand/VIII/I/187>) [AB 202](<https://www.parlament.gv.at/gegenstand/VIII/I/202>) [S. 27.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/27>) BR: [S. 124.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/124>))
+
+Der Nationalrat hat beschlossen:

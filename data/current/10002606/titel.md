@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 16. September 1983 betreffend Hoheitszeichen der Republik Korea StF: [BGBl. Nr. 500/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_500_0/1983_500_0.pdf>)

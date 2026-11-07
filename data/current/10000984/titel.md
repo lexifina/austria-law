@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Land- und Forstwirtschaft vom 29. August 1988 über die Feststellung des Verfassungsgerichtshofes, daß die Z 4 der Verordnung des geschäftsführenden Ausschusses des Milchwirtschaftsfonds vom 22. März 1983 betreffend den Übergang der Einzelrichtmenge auf einen anderen Betrieb im Falle der Verpachtung oder Eigentumsübertragung von Futterflächen, mit Ausnahme der Worte „und Eigentumsübertragungen'' im ersten und zweiten Absatz der Z 4, gesetzwidrig war StF: [BGBl. Nr. 517/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_517_0/1988_517_0.pdf>) (VfGH)
+
+Gemäß Art. 139 Abs. 5 B-VG und §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

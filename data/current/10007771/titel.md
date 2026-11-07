@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Bestimmung der Geräuschemissionen von Haushaltsgeräten StF: [BGBl. Nr. 621/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_621_0/1996_621_0.pdf>) \[CELEX-Nr.: [386L0594](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986L0594:DE:HTML>)\]
+
+Auf Grund des § 72 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Umwelt, Jugend und Familie und dem Bundesminister für Arbeit und Soziales verordnet:

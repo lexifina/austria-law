@@ -1,0 +1,3459 @@
+{
+  "sample_only": false,
+  "included_provisions": 88,
+  "source_provision_count": 88,
+  "schema_version": 1,
+  "gesetzesnummer": "20009615",
+  "short_title": "Abschlussprüfer-Aufsichtsgesetz",
+  "abbreviation": "APAG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40275895",
+    "valid_from": "2026-02-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009615&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:36:56.863866+00:00",
+    "response_sha256": "cb2b2046675424c590301609c473c7ecd90c0f6010a80ce03a0b82e22ad3e562",
+    "snapshot_sha256": "fadc6d2489680b6cc780f5ea6b865ef0a6ae1a46ef3f39b1db7aab486f07740d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e7803a1efb9966ba260d30715c2c2e3b3d44f0e1b070a650640a20fa8b91463",
+      "sha256": "f8afdacec5c12aef2785ecd7df890bc46fb6dba936c7d7cc058e803016691f53",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Aufsicht über Abschlussprüfer und Prüfungsgesellschaften (Abschlussprüfer-Aufsichtsgesetz – APAG) StF: BGBl. I Nr. 83/2016 (NR: GP XXV RV 1012 AB 1018 S. 126. BR: 9559 AB 9577 S. 853.) [CELEX-Nr.: 32014L0056]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 107/2017 (NR: GP XXV RV 1661 AB 1728 S. 190. BR: 9823 AB 9846 S. 870.) [CELEX-Nr.: 32014L0065, 32017L0593] BGBl. I Nr. 30/2018 (NR: GP XXVI RV 59 AB 91 S. 19. BR: 9946 AB 9950 S. 879.) BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.) BGBl. I Nr. 5/2026 (NR: GP XXVIII RV 366 AB 380 S. 63. BR: 11763 AB 11768 S. 986.) [CELEX-Nr.:32023L2864, 32024R0886, 32015L2366, 31998L0026] BGBl. I Nr. 6/2026 (NR: GP XXVIII RV 300 AB 386 S. 63. BR: 11762 AB 11764 S. 986.) [CELEX-Nr.: 32022L2464]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 83/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83"
+        },
+        {
+          "text": "RV 1012",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1012"
+        },
+        {
+          "text": "AB 1018",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1018"
+        },
+        {
+          "text": "S. 126.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/126"
+        },
+        {
+          "text": "9559",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9559"
+        },
+        {
+          "text": "AB 9577",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9577"
+        },
+        {
+          "text": "S. 853.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/853"
+        },
+        {
+          "text": "32014L0056",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0056:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        },
+        {
+          "text": "RV 1661",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1661"
+        },
+        {
+          "text": "AB 1728",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1728"
+        },
+        {
+          "text": "S. 190.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/190"
+        },
+        {
+          "text": "9823",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9823"
+        },
+        {
+          "text": "AB 9846",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9846"
+        },
+        {
+          "text": "S. 870.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/870"
+        },
+        {
+          "text": "32014L0065",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0065:DE:HTML"
+        },
+        {
+          "text": "32017L0593",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L0593:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/30"
+        },
+        {
+          "text": "RV 59",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/59"
+        },
+        {
+          "text": "AB 91",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/91"
+        },
+        {
+          "text": "S. 19.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/19"
+        },
+        {
+          "text": "9946",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9946"
+        },
+        {
+          "text": "AB 9950",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9950"
+        },
+        {
+          "text": "S. 879.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/879"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "RV 366",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/366"
+        },
+        {
+          "text": "AB 380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/380"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11763",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11763"
+        },
+        {
+          "text": "AB 11768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11768"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32023L2864",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2864:DE:HTML"
+        },
+        {
+          "text": "32024R0886",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024R0886:DE:HTML"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "31998L0026",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0026:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6"
+        },
+        {
+          "text": "RV 300",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/300"
+        },
+        {
+          "text": "AB 386",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/386"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11762",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11762"
+        },
+        {
+          "text": "AB 11764",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11764"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32022L2464",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32022L2464:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1. Teil Allgemeines",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand und Zweck",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Teil Organisation",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Errichtung der Abschlussprüferaufsichtsbehörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben und Befugnisse der APAB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Organe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorstand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben des Vorstandes",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ende der Funktion als Vorstand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsichtsrat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sitzungen und Beschlussfähigkeit des Aufsichtsrates",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben des Aufsichtsrates",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Qualitätsprüfungskommission",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anhörungsrechte der Qualitätsprüfungskommission",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsicht über die APAB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personal",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Haftung für die Tätigkeit der APAB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geheimhaltungspflicht und Schutz personenbezogener Daten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Budget",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Jahresabschluss",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kosten der Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Finanzierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Rücklage für unvorhergesehene Belastungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Teil Aufgaben und Befugnisse",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Hauptstück Öffentliche Aufsicht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Interne Qualitätssicherung (Anm.: Qualitätssicherung)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelungen für die interne Qualitätssicherung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Qualitätssicherungsprüfungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand von Qualitätssicherungsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Intervalle der Qualitätssicherungsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Qualitätssicherungsprüfer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfungsgesellschaften als Qualitätssicherungsprüfer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Qualifizierte Assistenten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestellung des Qualitätssicherungsprüfers",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unabhängigkeit des Qualitätssicherungsprüfers",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Honorierung der Qualitätssicherungsprüfung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorzeitige Beendigung der Qualitätssicherungsprüfung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitwirkungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Prüfbericht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorläufige Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bescheinigung bei Wiederaufnahme",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anordnung von Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Versagung der Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Widerruf der Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Entzug der Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöschen der Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Inspektionen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand von Inspektionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Intervalle von Inspektionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 45.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anzeigepflichten von Abschlussprüfern und Prüfungsgesellschaften von Unternehmen von öffentlichem Interesse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 46.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bestellung von Inspektoren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 47.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umfang der Inspektion",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 48.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationsrecht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 49.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 50.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inspektionsbericht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Konzernabschlussprüfungen und Prüfungen der konsolidierten Nachhaltigkeitsberichterstattung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 51.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationspflichten bei Konzernabschlussprüfungen und Prüfungen der konsolidierten Nachhaltigkeitsberichterstattung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Registrierung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 52.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Öffentliches Register",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 53.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Registrierung von Abschlussprüfern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 54.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Registrierung von Prüfungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Transparenzbericht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 55.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Jährlicher Transparenzbericht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Fortbildung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 56.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kontinuierliche Fortbildung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8. Abschnitt Standardsetzung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 57.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berufsgrundsätze und Prüfungsstandards",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "9. Abschnitt Meldepflichten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 58.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflicht bei Abberufung und Rücktritt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 59.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflichten für Marktüberwachung und Finanzierung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 60.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldepflichten von Interessenvertretungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "10. Abschnitt Untersuchungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 61.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Untersuchungsbefugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "11. Abschnitt Sanktionen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 62.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sanktionsbefugnisse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 63.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bemessung von Sanktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 64.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bekanntmachung von Sanktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 65.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geldstrafen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 66.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung von Verstößen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 67.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Europäischer Informationsaustausch von Sanktionen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "12. Abschnitt Marktüberwachung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 68.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überwachung der Qualität und des Wettbewerbs auf dem Markt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Europäische und internationale Zusammenarbeit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt EU-Abschlussprüfer und EU-Prüfungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 69.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zulassung von EU-Abschlussprüfern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 70.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anerkennung von EU-Prüfungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Europäische Kooperation",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 71.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung zum Wegfall der Bescheinigung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 72.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit den anderen zuständigen Stellen der Europäischen Union und den zuständigen Stellen der anderen EWR-Vertragsstaaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 73.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenseitige Anerkennung der mitgliedstaatlichen oder EWR-vertragsstaatlichen Regelungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Drittstaaten-Abschlussprüfer und Drittstaaten-Prüfungsgesellschaften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 74.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zulassung von Drittstaaten-Abschlussprüfern",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 75.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Drittstaaten-Abschlussprüfer von in Österreich börsenotierten Unternehmen aus einem Drittstaat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 76.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Drittstaaten-Prüfungsgesellschaften von in Österreich börsenotierten Unternehmen aus einem Drittstaat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 77.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausnahmen bei Gleichwertigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Kooperation mit Drittstaaten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 78.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammenarbeit mit den zuständigen Stellen der Drittstaaten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Teil Schluss- und Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 79.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Mitteilungen an die Europäische Kommission",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 80.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wechselseitige Hilfeleistungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 81.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 82.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verhältnis zu anderen Bundesgesetzen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 83.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebühren- und Abgabenbefreiung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 84.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 85.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 86.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 87.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Teil Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dff42d1a78f6ce101b706c2c2d7490ccd0ab423a5dab1be1404146907485f6aa",
+      "sha256": "0694320fe10ddb8181706ea7a07f4a87c9c9172866d8309d50c55907dddcd4e9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 98/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_98_0/1965_98_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 58/1906",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=58/1906&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 67/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/67"
+        },
+        {
+          "text": "RGBl. Nr. 70/1873",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=70/1873&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08871529a97cd292a9048703155907c4551d48b50008979272c714383e8e7864",
+      "sha256": "6f2e92179c91446580fb9464dc4681ea468bdf53a959472467006c9f57100df6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 66/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_66_1/2002_66_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 694/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_694_0/1993_694_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 160/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/160"
+        },
+        {
+          "text": "BGBl. I Nr. 34/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/34"
+        },
+        {
+          "text": "BGBl. I Nr. 137/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/137"
+        },
+        {
+          "text": "BGBl. I Nr. 127/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_127_1/1997_127_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        },
+        {
+          "text": "BGBl. Nr. 64/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_64_0/1979_64_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "2. Teil Organisation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cee9545b9b56e6fdaa37548b3a8bd7f169728495b55a8bcb364505bfecb6ab4e",
+      "sha256": "9336f9f6e5122406c94fa5ff3d98b388dd542b94c5866f591457fd30032b416b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 194/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Aufgaben und Befugnisse der APAB",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32bd7e4193c7ca21ec7223889edcb643c1ab2c864adc61687ca8dbc0ca11a6d9",
+      "sha256": "6fbbe0c0772e02377db4187532aaba2c30f47dde6fe40c7161661b0e98a0d4ac",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 85 Abs. 4"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Organe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b455114d01731be8b52a61693e87c324510e67ca253511401dbd00ef24fbd24b",
+      "sha256": "7b1979c5b01864fa0b9c9e89fc79f4ee8b0c70e3f27db9d22f88823f87cedf6c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Vorstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f36042cf264cc05bd8752450a6d0c14ff5987fa1e34950d54fe3ef69e82794e8",
+      "sha256": "2b3f42becdb702f1e09aee4031c9d1ffc83d2c4fbadb240936e62d98f1ef7ca1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 26/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_26_1/1998_26_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 194/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Aufgaben des Vorstandes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f64314bd32ddc8e3642d1ed386cca363019c3162185e99fc339218651f5201b7",
+      "sha256": "961942cd64fa3e50388f4379164fc10b932af98da093d51911427e700aec226d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Ende der Funktion als Vorstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d468250844a8cbceb67df29b844519493e8993c3e1cc21a26f522c6522e9e49c",
+      "sha256": "aec824951e6597d309c7e240fb7240167defde37903a78f822594fc6e6a79dfa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Aufsichtsrat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a451d81be175363b2c1c18ff144f050d4cafa0224b3ba11b78d1669b3ad1afa7",
+      "sha256": "c0261a5138a868e71f23d994c9d69588c1477dffeba1f6976d9e246031aacedb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Sitzungen und Beschlussfähigkeit des Aufsichtsrates",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "09db6837eef2fab0287d197e9aa2b2b1ddd4ef813956f02d24fdf2d602202cfd",
+      "sha256": "82a6bc28058c72ef9741eaf0f0e333515cd6cd17725305ee7ee9eb470d15285a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Aufgaben des Aufsichtsrates",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5b883a14c2a15d1603b9739fc799a8564b9ea8f6a942ef40c15f45439539a34",
+      "sha256": "9763bcf5b6c0b6e2a5303a59a25e6e8d57bff09acd224a9e58f88576d2395eb7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Qualitätsprüfungskommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "450e7fb0835d2456b603b3d57d042284e48b9ff57db4ea3171eb803aaf660f76",
+      "sha256": "d79f6db3892aada1bbcfb0d182c4d70dae3a4bf1494c771d97a08d13867cf53a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Anhörungsrechte der Qualitätsprüfungskommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5a4a6920c942d1ff2e8c67068cac25a9e0f1f8bb5ed8a94c8d66b323f8679d2d",
+      "sha256": "877f2e84f59511f40de3f6582762b4cc3b04fd8a2658ea4d434635c4952065af",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Aufsicht über die APAB",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "583307372605199888e3cb5804245a209c5a8dd9ce639dc6176f01e30f180539",
+      "sha256": "2a8907a5ba634432ca72cf559260841da382004cd24f6e568b160a03ad512364",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 139/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Personal",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67ef919e4ef57ff00a47b5661d56159b86b4d636b174191be0165e1103e6a730",
+      "sha256": "6d82fad32a033df83a765e4651ef6cea23a04f19e706cc27cf2a5eeb7a273299",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 292/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=292/1921&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 100/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_100_0/1993_100_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Haftung für die Tätigkeit der APAB",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a256c9830707513c0a548d45493a64b74fc4433469ea4d98e90fa4d5dd099851",
+      "sha256": "e2f03329ef21332f2380ac53500b7829c8109e9a71aada5c14277d811ef5682f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 20/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_20_0/1949_20_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Geheimhaltungspflicht und Schutz personenbezogener Daten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cccd2d22735cb7773a41d4e1471fe3f0dc119e4a3d76aeea590515933fc78b41",
+      "sha256": "b02fdfd40e684568164c50280fd2cbf9b3abc83e801c0e9bfefc0feaa8dda2c4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 333/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Budget",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b54ed5dc9a83c553786975fb8cd6d86382ccf0f87cf8c9b51099bb47caea8762",
+      "sha256": "7e441c4bc2797b5f20ab864d83d8b47f1eeb807422834456cf1e08dacf604fd6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Jahresabschluss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6fb600c84a3f115ae3317bf6250ebfd36d9f0e8ce0519f8a9e7eb74464d3993c",
+      "sha256": "ca1206c867d05310ee311b0100b256cf1cb238a531510f0dd487fca07a555791",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Kosten der Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3871fce2d545a348e420c7eb913f3433f1a12b2cbf9cdf743b39d2f8122aff6e",
+      "sha256": "df9d38d5dad0fbd785b1e1223bc29035240df3bbf8de0d6abcda52a558d530ef",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Finanzierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3dc73149abd170005593daff37f9c8a9312ec5d7c68f9c3e23e592f471800d55",
+      "sha256": "a4ce1e154110e03f92d8b112988e1223353d28794fb2c8e7ba9485bd75213d21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Rücklage für unvorhergesehene Belastungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ab6f2446374c6009c5df172311a1929be7c7d67ce567caa4184b080153b0e52",
+      "sha256": "ab2b23e7eb448528fbe7680b480e078d228e616ff5ccc666402f02a478467208",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "3. Teil Aufgaben und Befugnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "41e9d74e24a053d288e3f005777931f17e74d427a5da5b26920967fe45a2fe27",
+      "sha256": "7029c6e57732f7db83e6e6b14e6c3a659b0b9532862eb83b8bf481528f74fb42",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "2. Abschnitt Qualitätssicherungsprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37024c9f3e8fa8b343e2c83863184a29a2d78d972d54a702d7acc6c7f6a98d0e",
+      "sha256": "e9d3e24630bc5a60f3b01de0606543e87c864b6dd2bbe26eedb2c947d8319be9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Intervalle der Qualitätssicherungsprüfungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b033a823c45bac38158b66dff4abf5b5b6246159d0bdfb489ff79a5a1df7ebd",
+      "sha256": "4715d6520ecb3b7ba9bb786beb4cc0a5e80812a9c02bf13759baa5ea4a4298ff",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Qualitätssicherungsprüfer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6982882d447b1a4cff97106f7079b15c6fc38c2a5602d5a3caa903b76740e97b",
+      "sha256": "fbbefb57b233a9e3bd530d5d1cddad3aaaa0089e81edcab8f366584cabecd70d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Prüfungsgesellschaften als Qualitätssicherungsprüfer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a84794713c6347c5bc7919e4995a9954bb6b7810c527dfc2709845015f26345a",
+      "sha256": "21794bd93744eea9c536249bd9ec0dd437e5ae4416446e73e2a0e78c98f140e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Qualifizierte Assistenten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ccfb297e17a938ded201eb34d341fccfe27b983f271323a4cc337b4c35508a62",
+      "sha256": "0c89668092698eb11f7e888e30e76214cb8ab223b3bcd920fb1b35fde9f60289",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Bestellung des Qualitätssicherungsprüfers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36baf826304549d208df6f81bee7f65c177511026fe24661eab54ccc9b80b2a6",
+      "sha256": "a42199cc4d629fc8030dadcc89d7d28a675e1a905da75e5365fd35de665b84c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Unabhängigkeit des Qualitätssicherungsprüfers",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f6b524716e58c6b72d705fff2e0f7dfe48e502e18836f54cbbb6f613d57cf07",
+      "sha256": "bcb7549f2f7581f3731eca51c29ac4159ad40f240ae20eea914baae53d523322",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Honorierung der Qualitätssicherungsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5ea7c8932af28e6bf2e85807367fef574121f06325967b473ba450270bc00470",
+      "sha256": "fefd96cef4e119236a2615ec9985204047b3880dc05f189f1fd0b3ab54d410f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Vorzeitige Beendigung der Qualitätssicherungsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cfc0edcaed3533a8239e957c9afd554e5499b4ec7110df0ca0f5b306ebaae8c6",
+      "sha256": "7eb753bfb1e0b4a6840c94626683ac254fecffabbd4b3382d6575ef055d9f59e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7804ee0e286098870052c69da4aa873742bf7dc31edc95f2085a49878a9491aa",
+      "sha256": "8469d70c364b9292bd29f9b632802fd6764d9b97d39d0a771da975b12fbfc204",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Prüfbericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db21feee89a52e515b607292dbdca9c21cbff3764283c3dd8fe855f9ffd54e22",
+      "sha256": "7d559f5e72b374bad098855a39b6822f137482acc9fb9d0f58b2cf93d37eb30b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Bescheinigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7bb82786ab81edb3f5035e510002552a7aea0710c7ee8b5b3784fa38dc78cb19",
+      "sha256": "2ac68455818762e135922af31d72563605aa7e7ee78d22edb8325632fc643690",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Vorläufige Bescheinigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b24234eb16f311cd12f8681c0a98600144aeeb223caa48541f42422c5ae10304",
+      "sha256": "ded8530809278a6525616cb42ba22fc16d09094007d0f07903a02f1aa16ee02b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Bescheinigung bei Wiederaufnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94e5562778cc5415c700803730611da99d2a9b880aa137c3615f0518645bb2a7",
+      "sha256": "48161a1d0edb5be9a9872d31e87c64d857cee17c1088fdcbb472f5133bb9a066",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Anordnung von Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "414db33f4b53a88c12cb5eac75caa4d33a0117e3e65d12164ee15d7c5e903591",
+      "sha256": "42ebdbc477a245ac24e98995e725fb3f11bc954e3ae004d6ddc51cb55426849f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Versagung der Bescheinigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5aeec3e7256011fbd16c15d496eabb7758c6a35ae91da9573412a54f10211c4",
+      "sha256": "d9500ab6162f5d524a4b9ea20e55e0eae99222a963b54bf8aca6e3d521502eda",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Widerruf der Bescheinigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dea95e9110f154434c2285887eebd3019789efb4e93b05e1768e3bafcd4dc41e",
+      "sha256": "aea7c057d3d1efe1a37d97b09d333e7ffb38b4b19deaf2477ef1162dd7ab7d1b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Entzug der Bescheinigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0f84672ba8d722d7cbed54a22393ca45b6f7ceb4f3f2615201757199dac8b05c",
+      "sha256": "498718fd97862068b77a6fa7565dbb8c2a8904bd6e1dd2bdeb789d8630e0bf05",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Erlöschen der Bescheinigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8208697cfd3a8b2ac1a2c8bc818e91669bed81ca4edfcb8c27b9c27c8a95a93e",
+      "sha256": "af7bd8cdadd7ad02aed6f93c77cb10f7e62b73baf34405d97e7e0822aecf76fe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "3. Abschnitt Inspektionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fc4855486e0d98aec837d2b0752b1b8e4b61fa6abba8fd9e08b40eec3268c39",
+      "sha256": "f0f9b7c3b6e4a9d2807afac7e76b9be6e3dead45b3819c6ae642a9238cb04a18",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Intervalle von Inspektionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18dee65cd2bdd5569c1f516dc0bbf12ec5b14bfc569032c731b8c804616ffa9b",
+      "sha256": "1d595df5c2adaf405f9140f41a5f859261b5bdc203b45ba8bcd1909b1264a4c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 45",
+      "source_heading": "Anzeigepflichten von Abschlussprüfern und Prüfungsgesellschaften von Unternehmen von öffentlichem Interesse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0045.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "137c0ed2b471c7f15ae5bfb0606af3b74ecb4b8ebddd8bbb8fd4386880f4018d",
+      "sha256": "1bf032e0e4418087ff2136103b3e14c0df11b71a4a80e009ebbb3ebdb3e7144e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 46",
+      "source_heading": "Bestellung von Inspektoren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 46,
+        "stable_identity": false
+      },
+      "file": "par-0046.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec49e1c66036b6645df3558d4ab5e0c09dab0fffcc3551ed67d37b889c374568",
+      "sha256": "dddaa92323cdb65d66c2173337158411aa6f50e45729c2486c3b5b64e3439ccf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 47",
+      "source_heading": "Umfang der Inspektion",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 47,
+        "stable_identity": false
+      },
+      "file": "par-0047.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "deac3027dc71e0f537f05b9bf1aef64ca8f504c98b74a5df181902b0964bb0a7",
+      "sha256": "ee512fcb32e598c2da2310c25863d5e706b8edeec72090e534392164da0af2a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 48",
+      "source_heading": "Informationsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 48,
+        "stable_identity": false
+      },
+      "file": "par-0048.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af00ee629acf9fbfc690dc0f6d9094e426fe60765223d4176430021b9f359043",
+      "sha256": "5538cb812868be3f2291c01d2ce7cf8d4095f3b31ec2ad019fed238d57070b6f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 49",
+      "source_heading": "Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 49,
+        "stable_identity": false
+      },
+      "file": "par-0049.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a61eddbf7b2a7082f1fe55beb7afd385fdbc2010940d7f25c5178330e7c7b29d",
+      "sha256": "6a2edb28075fd0ebd5582218392c645516bc1bf7c9f501f458c7926095cdc0c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 50",
+      "source_heading": "Inspektionsbericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 50,
+        "stable_identity": false
+      },
+      "file": "par-0050.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2b98dc9bb423efb6b9cfb5693bf4124f3626faa8f2ab644d709c72e24402815",
+      "sha256": "4e0dbd8318e6f12cc9ce95567a763e3de4ce02d11ebda80d387b02db0601a11f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 51",
+      "source_heading": "4. Abschnitt Konzernabschlussprüfungen und Prüfungen der konsolidierten Nachhaltigkeitsberichterstattung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 51,
+        "stable_identity": false
+      },
+      "file": "par-0051.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6cfee22c8b947225d8400be7e920406108835b422ecb49c6588ab4b62535cd05",
+      "sha256": "f687f062e90a9b40fafca489af5156883dbf18802d9656efb8a32ba76726f81b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 52",
+      "source_heading": "5. Abschnitt Registrierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 52,
+        "stable_identity": false
+      },
+      "file": "par-0052.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82ddc24cb1aa1b4a469c27d49a2a1828d40512cba244ac07a9c09a139aeabeeb",
+      "sha256": "0a6ea1854b1dca9845521f4435dce157adb71d25c5f6d6f91c3b9cc89d95f146",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 85 Abs. 4"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 53",
+      "source_heading": "Registrierung von Abschlussprüfern",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 53,
+        "stable_identity": false
+      },
+      "file": "par-0053.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8262dc41a6b9a99bf9bd9f350fdc7071add47c07d3926558ec06864423f5dc75",
+      "sha256": "8ac406379e5df3e4f79dd02f34f289b9486d81b2d500912c55caf93da699591d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 54",
+      "source_heading": "Registrierung von Prüfungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 54,
+        "stable_identity": false
+      },
+      "file": "par-0054.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e20aa003f61e54d6a36c5b7e6f803917332e5f91ac2aac0c368308b129d6ff01",
+      "sha256": "af8001d9b2e783f6032f76fa6dbd99854452c40e8c91d9d902776e35ce027e3a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 55",
+      "source_heading": "6. Abschnitt Transparenzbericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 55,
+        "stable_identity": false
+      },
+      "file": "par-0055.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39ef1e1b791aa3dc3632f695e022de3ff0c26caaaad9057ae2b94b8167195e24",
+      "sha256": "9e9de8cb2b0e3c7230573b249be87754395f37ce3242da66c35a7ddcb4143a3c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 56",
+      "source_heading": "7. Abschnitt Fortbildung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 56,
+        "stable_identity": false
+      },
+      "file": "par-0056.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "154048f4133f1a5cba6263a90c6ac6249607a3039f884db07d2975ce032a746d",
+      "sha256": "ecb31618f4c347cdf63fc99e3c8da7ad3c9b96b7cea85e27ddd1976330394d84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 57",
+      "source_heading": "8. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 57,
+        "stable_identity": false
+      },
+      "file": "par-0057.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ad6c19a5e41e21019361716f1eff9eeee30ef2112b49030b7fc0871f89096668",
+      "sha256": "5064445cc554c30e2e005d5f233daee5ec3315a8435ef42148b8e04d35c4da3d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 58",
+      "source_heading": "9. Abschnitt Meldepflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 58,
+        "stable_identity": false
+      },
+      "file": "par-0058.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "696706adfcb36bc6bbe92c68fb67f2b951476ff44b23af4f789295ca6f42b35d",
+      "sha256": "fb011d513e5cc8bf3ccfb7f03ad43548c7b4157637ce7601a9ce3420bbd4bbdb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 59",
+      "source_heading": "Meldepflichten für Marktüberwachung und Finanzierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 59,
+        "stable_identity": false
+      },
+      "file": "par-0059.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0180816dca0c566e8fc348925b53fe96bfb0d5ccf17d975575b149b9c416ea4f",
+      "sha256": "ed6ed03321ce6262306c0b0db9e9ae9971676bafb1a9606edd86e6bfa6fceccb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 60",
+      "source_heading": "Meldepflichten von Interessenvertretungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 60,
+        "stable_identity": false
+      },
+      "file": "par-0060.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "42994cc60aa21b6c7c61c311704615d1bf8bf3b9a8fe555d29f3184cebd9c9bc",
+      "sha256": "056d9ab36b79beab2a8090887a6a936c262ef27b235e1a87b22dc8d7f0f16f04",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 61",
+      "source_heading": "10. Abschnitt Untersuchungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 61,
+        "stable_identity": false
+      },
+      "file": "par-0061.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0694443440501f73fffd7b52230e2463bece93ba9769d1ea84a3b2b135362f54",
+      "sha256": "9576f2f3ce708d43ce8250f2dd6ceda573e03585bc7b1a288d4a5b2b4ba52294",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 62",
+      "source_heading": "11. Abschnitt Sanktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 62,
+        "stable_identity": false
+      },
+      "file": "par-0062.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4a2b6895b5635bf8629b1320bacf77532d116da22acc42148b3c4541c0d1617",
+      "sha256": "d6890df61ab3f0d5e9e3430d5154ec6d2662263d2ef7eb280c5574d621fd1207",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 63",
+      "source_heading": "Bemessung von Sanktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 63,
+        "stable_identity": false
+      },
+      "file": "par-0063.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a78ed9d2e49e26d3e864c2ce045934a795e6a6925238cac26a55abe340650b1",
+      "sha256": "69f4fe99d034cf5212541e4b1fac57b0e12c475522ff4d05285cc7e97cd64e73",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 64",
+      "source_heading": "Bekanntmachung von Sanktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 64,
+        "stable_identity": false
+      },
+      "file": "par-0064.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bcf8aa30334bf463563a4aa7bd5ebd4675543eb62415b04d8c2f227af2e70f37",
+      "sha256": "fec205e2977480b04a67f9f829e6fbfbdfecc38dcde6550b0971ac47168d8767",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 85 Abs. 4"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 65",
+      "source_heading": "Geldstrafen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 65,
+        "stable_identity": false
+      },
+      "file": "par-0065.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83d4be4406c4ee65eb474b8fac92cfdc953d7ba6a10d83b7a44ea42187c58838",
+      "sha256": "fdf4d9e83ff4e6061b81496c0031cc7b8c50bbc2a3d2bb00dc7b3dbe72760940",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 66",
+      "source_heading": "Meldung von Verstößen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 66,
+        "stable_identity": false
+      },
+      "file": "par-0066.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37be8b98bb50924b1bc1233d3acdf5aca9d53fac32db3a986e70c26b4aa28faa",
+      "sha256": "9aac4910e0b2fb31be02ca16434c6d64100e648e936c0b318fe52708569de8d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 67",
+      "source_heading": "Europäischer Informationsaustausch von Sanktionen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 67,
+        "stable_identity": false
+      },
+      "file": "par-0067.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fcde167d037161bb4a74fb57a786877d2f73af02802bfada8dc014b151a6a2b2",
+      "sha256": "09dc9f6d54d6211e2befb7d945431965b020e56841b0dff5f24efe3c4dcec85f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 68",
+      "source_heading": "12. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 68,
+        "stable_identity": false
+      },
+      "file": "par-0068.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6601cd4cb73b722a0e94ce584d95ac2512346ba7891eec0b55a72ea4747b3992",
+      "sha256": "429c88fca61eb89648ab917ec44d59bc1333039ce311d785c1b7ddfe8da952b3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 69",
+      "source_heading": "2. Hauptstück Europäische und internationale Zusammenarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 69,
+        "stable_identity": false
+      },
+      "file": "par-0069.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c7738903bcff898e96c3fb333bef3eeee7e0133a93a6ffa584a9471002ba6e36",
+      "sha256": "ee8ebcbf2d10a8806aa0186e70b76bb9e5467a3e0e20d393ec4fdafafbe77c5e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 70",
+      "source_heading": "Anerkennung von EU-Prüfungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 70,
+        "stable_identity": false
+      },
+      "file": "par-0070.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2392a875c758b8725f77fd85c3385da7117368670e845c79f048fd5333e8404a",
+      "sha256": "9dce1a094bc2ccf12268f1dfd2e64d8e0e93368464e67071b47d578d7d3f9a06",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 71",
+      "source_heading": "2. Abschnitt Europäische Kooperation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 71,
+        "stable_identity": false
+      },
+      "file": "par-0071.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f1cb03b4fef7d38851860dbdbf7849b65e644f3c72094a2242ee0768659eae7",
+      "sha256": "496b5300c45784ed9ff70a4fc4136f99353a7261f29c11fdd7beb31a37f21865",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 72",
+      "source_heading": "Zusammenarbeit mit den anderen zuständigen Stellen der Europäischen Union und den zuständigen Stellen der anderen EWR-Vertragsstaaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 72,
+        "stable_identity": false
+      },
+      "file": "par-0072.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b051d8b5baef1d6916b9735d14896a45614163aaa3f035f1fb0720f058096562",
+      "sha256": "897b2bbbc013fb1589117416eae24feb2267ee93f70b2d53fadd68e315dd3561",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 73",
+      "source_heading": "Gegenseitige Anerkennung der mitgliedstaatlichen oder EWR-vertragsstaatlichen Regelungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 73,
+        "stable_identity": false
+      },
+      "file": "par-0073.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb6e05d7a45e837253b3d16c46bbebd708944702022a7d193a6e58621c6e0c9d",
+      "sha256": "e38ea43f02a7213709a39fb5ee35d3da9985768aba03dd37d1133a44199e2c8a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 74",
+      "source_heading": "3. Abschnitt Drittstaaten-Abschlussprüfer und Drittstaaten-Prüfungsgesellschaften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 74,
+        "stable_identity": false
+      },
+      "file": "par-0074.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90a32d14f56eb34459fbeb462d6e72ebda9664d5631b39092e879c8ecf4b2614",
+      "sha256": "b8cbf2ccfab30f37391d0be7b696e299172dc3cfc15ac7f27bf169454023e300",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 75",
+      "source_heading": "Drittstaaten-Abschlussprüfer von in Österreich börsenotierten Unternehmen aus einem Drittstaat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 75,
+        "stable_identity": false
+      },
+      "file": "par-0075.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2a29a57ad7b0c46c6cb501a79a614fd1888572e77d5ac21b3d0e909f8fb5ab20",
+      "sha256": "b83dac2f83dd5b2a16a83316b30ae9d204c0a6228202288d1a82f89a888fbe7a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 76",
+      "source_heading": "Drittstaaten-Prüfungsgesellschaften von in Österreich börsenotierten Unternehmen aus einem Drittstaat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 76,
+        "stable_identity": false
+      },
+      "file": "par-0076.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2b732c6c80755f54789767288903aafc53fc2e8c0ff1a5fc164dfe3818510d62",
+      "sha256": "765886aaf310eb34d390d72e0c2b4d1756ec1511f4ccb0c246897503fc631cf2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 77",
+      "source_heading": "Ausnahmen bei Gleichwertigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 77,
+        "stable_identity": false
+      },
+      "file": "par-0077.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2027e52ecc8b16ffe770ba2f13eda99750ae0812a0dcc477fd9ad1c0e3b91ab0",
+      "sha256": "7910f204f61999fef72419c9bc49b3938842257ebf96c0c63f440e1c8cd67e47",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 78",
+      "source_heading": "4. Abschnitt Kooperation mit Drittstaaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 78,
+        "stable_identity": false
+      },
+      "file": "par-0078.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd699a1d83bb935f9d715461fbb6121ee2951536a96aef924c4ea153e6805ecb",
+      "sha256": "ebf9e02cae4fe18fe364799fc95bb860293377d7a2bdf86b1545918de35df30a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 79",
+      "source_heading": "4. Teil Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 79,
+        "stable_identity": false
+      },
+      "file": "par-0079.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab4e599e872ed39c05ce3f69b84dcf02ae5d46acbf08f2b0f6413712a2be3f47",
+      "sha256": "34360769de855e248baaeebaf6f0c534e6f8984ff5a9c824c1f70943654185f5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 6/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 80",
+      "source_heading": "Wechselseitige Hilfeleistungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 80,
+        "stable_identity": false
+      },
+      "file": "par-0080.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e463142d9d575e6bb6f9b4c86d74accfecf86c02fd342b05c0e57bc74a344745",
+      "sha256": "cf91890d65991fdffc4394620492c0ba115360768ab503bf7cdcc7a5e245ffc9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 81",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 81,
+        "stable_identity": false
+      },
+      "file": "par-0081.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4eb9b39c360fd7adf41229865e6ebfbc6abee4a4c0f8c37efe362d84c4d51a0",
+      "sha256": "a4b196b91024d133424b85926fc1e8eb003486b0fbc2a216cde8fb64122de4db",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 82",
+      "source_heading": "Verhältnis zu anderen Bundesgesetzen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 82,
+        "stable_identity": false
+      },
+      "file": "par-0082.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e252810d3ad01b0150a4d7466a2daa3343bd0fc2a5729c148415e7a41a40ece",
+      "sha256": "07be6f4a43845be0c79dc5c0b04d94df58c5b049cae46e9856299a1ecb3039e8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 83",
+      "source_heading": "Gebühren- und Abgabenbefreiung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 83,
+        "stable_identity": false
+      },
+      "file": "par-0083.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ac3454ece19b14ae90ae6b4b82f08c200eb2bfc70916936a54600cfcafb5ad05",
+      "sha256": "b6294fe13242f12ad5ccffb1d69e0887a1e705f2caebdbe9b304aacab591e4aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 84",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 84,
+        "stable_identity": false
+      },
+      "file": "par-0084.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fc1979ead83884532fd5f4f611db9e54bc38c7b789ed06806b91cc9870f6d921",
+      "sha256": "679d56580b4afc26a0bbeeaafe5335e4a7f7020024350eb60443b13025adc1e3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 83/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83"
+        },
+        {
+          "text": "BGBl. I Nr. 30/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/30"
+        },
+        {
+          "text": "BGBl. I Nr. 83/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6"
+        },
+        {
+          "text": "BGBl. I Nr. 83/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83"
+        },
+        {
+          "text": "BGBl. I Nr. 83/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83"
+        },
+        {
+          "text": "BGBl. I Nr. 83/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/83"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 85",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 85,
+        "stable_identity": false
+      },
+      "file": "par-0085.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65e1e50dc2b52d47349a3812ec45df518e340351ccd45895bffb2e13a14373cf",
+      "sha256": "55dd89786a2d6a4ddb4c8791712933b777f27e2c626ceba3ef126da2b2a6e6c8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 107/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 86",
+      "source_heading": "Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 86,
+        "stable_identity": false
+      },
+      "file": "par-0086.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd183e4c3f7a8157cf09a2239a0cb5db91807ceb0e7712fbb0db8fb591a80a0e",
+      "sha256": "7ad407acee810428f621a2793a8babb3db62afa64966cf9ad3221aa1a1dbfe3f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 251/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/251"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 87",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 87,
+        "stable_identity": false
+      },
+      "file": "par-0087.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "299f677d17e18d606a17684d7746c0843d8d98536bce2d0398d2e26564e3ee58",
+      "sha256": "a24b4f5431508bc0ad5fef8e69043754f9297ae2f708362cbef495efbc968b43",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000744",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000746",
+    "valid_from": "1982-04-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000744&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:35:11.736364+00:00",
+    "response_sha256": "ffd47fb8ba4ebcabe2d715e2014aeb36b793c2eff7a3f388675a475dfe572e8a",
+    "snapshot_sha256": "5760a42512eee205cbd5a432226375adb6888e8b9ad7c87f0e04e58bb7c74b50",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ff9cca5cca8660dc76032fb9f986831b1b98aa748809f73e6d3c326d1d42e264",
+      "sha256": "9847f8c6eb522bfb56eac86fda53d79867f81b503063522127fdd0280d305770",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 14. April 1982 über die Feststellung von Zuständigkeiten auf dem Gebiet des Sammlungswesens durch den Verfassungsgerichtshof StF: BGBl. Nr. 187/1982"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 187/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_187_0/1982_187_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d6c133436d5074c69fd5ecc44c918b5509e46bbd919ea2e3c2be7a370453409",
+      "sha256": "fec1642ed3288df2a9c96d02906c664072cf0d6847b8c4786a144278129b670e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

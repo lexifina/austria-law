@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Inneres betreffend das Inkraftsetzen des Schengener Durchführungsübereinkommens StF: [BGBl. III Nr. 247/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_247_3/1999_247_3.pdf>)

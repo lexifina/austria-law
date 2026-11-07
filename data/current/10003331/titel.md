@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen des Königreichs Norwegen StF: [BGBl. Nr. 344/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_344_0/1995_344_0.pdf>)

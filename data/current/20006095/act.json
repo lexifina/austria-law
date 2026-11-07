@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20006095",
+  "short_title": "Urprodukteverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006791",
+    "valid_from": "2009-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006095&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:40:38.388179+00:00",
+    "response_sha256": "cabd0b9f3cbb630a4d4af3ce77c3c38be9ae28d69f1b667a6c28a903abd5e64f",
+    "snapshot_sha256": "e30882759552d38f7bb6da627ff157e0526c05791c86596ce2f51b260d94723c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6c9ec7c66d6a205342d8fd69f281c3b08eff335c230bc4cc4a249612a69bdba",
+      "sha256": "dccbfa7e5c80f0645bcb0059d4c0c2c78209378d7d4f3bfbbd8d5a8b7a9dd442",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugehörigkeit der von Land- und Forstwirten hergestellten Produkte zur land- und forstwirtschaftlichen Urproduktion (Urprodukteverordnung) StF: BGBl. II Nr. 410/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 410/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/410"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Land- und forstwirtschaftliche Urprodukte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4649bebc07c837abccc832b730067fc63838ca3c9f7e83d30fd56147d87f8f32",
+      "sha256": "3fe275ba4e850dae99e80f9d299482aca242e77b0749a6b665c4cd36f8e68380",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92553c246af345edcad56872814e5e90d0024284ed597e3a418115f7c487552d",
+      "sha256": "feb321cc24109f7dba81493dba2d5f8d40bd85eecb51121498a9870a041a9820",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

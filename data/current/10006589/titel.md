@@ -1,0 +1,1 @@
+Notenwechsel zwischen dem Bundesministeriums für Handel, Gewerbe und Industrie und der Pakistanischen Botschaft Wien über den Import von Baumwolltextilien von Pakistan nach Österreich StF: [BGBl. Nr. 365/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_365_0/1978_365_0.pdf>)

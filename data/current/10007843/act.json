@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007843",
+  "short_title": "Handelsabkommen zwischen Österreich und Algerien - Kündigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007983",
+    "valid_from": "1996-11-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007843&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:10:53.141317+00:00",
+    "response_sha256": "071c931726dc192af01f26f8fb2bb9db119a63b479b61c07705f26150d944ccc",
+    "snapshot_sha256": "286a88975a554879f324863d8370e8209cf88ae373e6ca798e41839b1835b038",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "47682e7745d386a4184016ded34622f37c12277e47851e571a9f2a112eb3b472",
+      "sha256": "a1a6cf2c5f7f6e7c69eedfdb312cf6f9c051178487d44b7de7950245af81a2bd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend die Kündigung des Handelsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Demokratischen Volksrepublik Algerien StF: BGBl. Nr. 587/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 587/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_587_0/1996_587_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73c4cd64502b13c4c26500c3a122294f6da723958e873e316ee5c9bfd6189097",
+      "sha256": "53cda604950589a51de2c12f04ee5622b8f8d5483a57cd3d03335e98c3543d33",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

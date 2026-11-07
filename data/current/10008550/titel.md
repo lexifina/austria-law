@@ -1,0 +1,1 @@
+Bundesgesetz über das Verwaltungsverfahren in Dienstrechtsangelegenheiten (Dienstrechtsverfahrensgesetz 1984 – DVG) StF: [BGBl. Nr. 29/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_29_0/1984_29_0.pdf>) (WV)

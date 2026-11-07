@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Gewährung von Studienbeihilfe an Kandidatinnen und Kandidaten der Zusatzprüfungen für die Zulassung zu einem Fachhochschul-Bachelorstudiengang StF: [BGBl. II Nr. 247/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/247>)
+
+Gemäß § 5 Abs. 2 des Studienförderungsgesetzes 1992 (StudFG), [BGBl. Nr. 305/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_305_0/1992_305_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl I Nr. 40/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/40>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 24. November 1930 über die Ratifikation der internationalen Vereinbarungen vom 11. Juni 1928, betreffend die Ausfuhr von Häuten und Fellen und betreffend die Ausfuhr von Knochen, durch Norwegen StF: [BGBl. Nr. 332/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=332/1930&amp;SkipToDocumentPage=True>)

@@ -1,0 +1,101 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000973",
+  "short_title": "Bestimmung des Straßenverlaufes der B 301 Wiener Südrand Straße im Bereich der Gemeinden Vösendorf, Hennersdorf, Lanzendorf, Leopoldsdorf, Schwechat und Wien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001042",
+    "valid_from": "2000-11-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000973&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:24:50.287857+00:00",
+    "response_sha256": "9c0489f49232c5560e964e7398ebad6cccf9e1ead4d79e4bf8ba42ea08a2a859",
+    "snapshot_sha256": "6cd6e011131986d3b83b53943f690c2ecf6c4af157658c382c0665c27adac64f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0eec18e25cf1832413e7af22bdde31aac9d0c528bc214034d79d0e5a9cece11",
+      "sha256": "8dc5573e56c859722bc29c6290098dc017d6d8ae5e78d540af5c5859605301fa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der B 301 Wiener Südrand Straße im Bereich der Gemeinden Vösendorf, Hennersdorf, Lanzendorf, Leopoldsdorf, Schwechat und Wien StF: BGBl. II Nr. 352/2000"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 134/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 352/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_352_2/2000_352_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 134/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_134_2/2002_134_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 182/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_182_1/1999_182_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 89/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_89_1/2000_89_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dce045651c3a4ebdfb075a4f275cc54e796c97e3e7d36edd125db4f8cf04f2fd",
+      "sha256": "2a8b6224ea24add93054a7f0e84fda489e7748b1a06e646ddf8fcebc7f782ea3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ANHANG 1B
+
+ALLGEMEINES ABKOMMEN ÜBER DEN HANDEL MIT DIENSTLEISTUNGEN
+
+(Anm.: wird als eigener Vertrag dokumentiert)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009570",
+  "short_title": "Rechtsstellung einer Gemeinde der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009761",
+    "valid_from": "1985-08-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009570&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:33:55.409161+00:00",
+    "response_sha256": "c68d2cc3ae19ea87bc2ae1958f93f40157a0d7adff005a0c6c6a93a6f336b9bc",
+    "snapshot_sha256": "0089a744dec8b43ca338b4f996cce3734410ac042485823f758e34dcd4b04d5b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e170522c4187ec1382475c4f4f03e69f357d5ce5f616e42b0f1e058e664a2e67",
+      "sha256": "fa0e1a29ccd2ea6a783f3d4c1c6add407392572ed27e35fca2d326d5c5927415",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht, Kunst und Sport vom 10. Juli 1985 über die Rechtsstellung einer Gemeinde der Evangelischen Kirche StF: BGBl. Nr. 314/1985"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 314/1985",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1985_314_0/1985_314_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d35689f25d89c0c15baddcf911951182a270379cfa281dfe122157cec032236a",
+      "sha256": "cae57cd40e4bb638098f1d7c3eae9812be99bfceba910e00f4f9befcc9fae88b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

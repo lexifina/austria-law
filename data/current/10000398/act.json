@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000398",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000399",
+    "valid_from": "1964-06-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000398&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:29:10.241125+00:00",
+    "response_sha256": "af128621e5718298d37bd88f93d256496aec1c39978ac4128c31c32d0a52199b",
+    "snapshot_sha256": "5d0bf23e7b49e3d4699e652ff075151b0fd52b520f8283a8c5df59a5295ac1e8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "138f07019655251f0b2f9082c7e880937870bd308fa03eaa6ef3521f881c03d0",
+      "sha256": "3e297439f91a5b4b80879456f1df93d20a3dee287d702a81130a2119ff0694e2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 11. Mai 1964, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Erlassung und zur Vollziehung von gesetzlichen Bestimmungen auf dem Gebiete des Zivilrechtes, die zur Regelung von Straßenangelegenheiten im Sinne des Art. 15 Abs. 9 des B.-VG. erforderlich sind. StF: BGBl. Nr. 118/1964"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 118/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_118_0/1964_118_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "782a4ff59c048d234e4c7e1a20b776b44d9b6188c86f46ad998499247a9a83d7",
+      "sha256": "1d8a96c829b9681c418632fa5c6d51826de06a6d77f7c3d7e544097104d425b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

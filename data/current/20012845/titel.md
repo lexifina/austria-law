@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Einrichtung und Führung der Tierärzteliste und der Liste hausapothekenführender Tierärztinnen und Tierärzte sowie über die Form und den Inhalt des Tierärzteausweises (Tierärzteliste und -ausweisV) StF: [BGBl. II Nr. 37/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/37>)
+
+Auf Grund der § 8 Abs. 7, § 9 Abs. 2, § 10 Abs. 2 und 3, § 24 Abs. 4 sowie § 43 Abs. 1 des Tierärztegesetzes, [BGBl. I Nr. 171/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/171>), zuletzt geändert durch [BGBl. I Nr. 53/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/53>), wird verordnet:

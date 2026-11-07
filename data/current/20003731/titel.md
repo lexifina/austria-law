@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 25. Jänner 1963 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation. StF: [BGBl. Nr. 18/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_18_0/1963_18_0.pdf>)

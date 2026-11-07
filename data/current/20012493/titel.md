@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz zur Übertragung der Durchführung von Maßnahmen gemäß dem Bundesgesetz über einen Ausgleich inflationsbedingt hoher Lebenshaltungs- und Wohnkosten (Lebenshaltungs- und Wohnkosten-Ausgleichs-Gesetz – LWA-G, [BGBl. I Nr. 93/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/93>) idF [BGBl. I Nr. 119/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/119>)) an den Landeshauptmann (Übertragungsverordnung LWA-G – Sachzuwendungen Schulbedarf) StF: [BGBl. II Nr. 434/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/434>)
+
+Gemäß Art. 104 Abs. 2 des Bundes-Verfassungsgesetzes (B-VG) wird verordnet:

@@ -1,0 +1,3 @@
+Bundesgesetz über besondere Bestimmungen betreffend das Minderheitenschulwesen im Burgenland (Minderheiten-Schulgesetz für das Burgenland) StF: [BGBl. Nr. 641/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_641_0/1994_641_0.pdf>) (NR: GP XVIII [RV 1637](<https://www.parlament.gv.at/gegenstand/XVIII/I/1637>) [AB 1783](<https://www.parlament.gv.at/gegenstand/XVIII/I/1783>) [S. 172.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/172>) BR: [AB 4908](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4908>) [S. 589.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/589>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Gegenseitigkeit bei der Einräumung von Prioritätsrechten für Patent-, Gebrauchsmuster- und Markenanmeldungen zwischen dem Österreichischen Patentamt und dem Intellectual Property Office in Taipeh StF: [BGBl. II Nr. 127/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_127_2/2000_127_2.pdf>)

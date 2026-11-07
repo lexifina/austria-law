@@ -1,0 +1,3 @@
+Bundesverfassungsgesetz über die Regelung der finanziellen Beziehungen zwischen dem Bund und den übrigen Gebietskörperschaften (Finanz-Verfassungsgesetz 1948 – F-VG 1948) StF: [BGBl. Nr. 45/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_45_0/1948_45_0.pdf>) idF [BGBl. I Nr. 194/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_194_1/1999_194_1.pdf>) (DFB) (NR: GP V [RV 510](<https://www.parlament.gv.at/gegenstand/V/I/510>) [AB 531](<https://www.parlament.gv.at/gegenstand/V/I/531>) [S. 74.](<https://www.parlament.gv.at/gegenstand/V/NRSITZ/74>) BR: [S. 27.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/27>))
+
+Der Nationalrat hat beschlossen:

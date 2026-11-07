@@ -1,0 +1,1782 @@
+{
+  "sample_only": false,
+  "included_provisions": 25,
+  "source_provision_count": 25,
+  "schema_version": 1,
+  "gesetzesnummer": "20006509",
+  "short_title": "Badegewässerverordnung",
+  "abbreviation": "BGewV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40111315",
+    "valid_from": "2009-10-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006509&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:47:02.442369+00:00",
+    "response_sha256": "ea17f6214b238bb435e0bf9881d5844f44e7e1fa395fc4227a79fc492189fdc8",
+    "snapshot_sha256": "262ac2a72c816edf7f74ab77463fed98cb3f7f64f0e42751aca4e52b09c2ec9c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf2a76af221f4a4c4aa4b23e155fd14592317764c88d8f8d015ca27a3a885d78",
+      "sha256": "8b55eaf188679d6798e319fecdfaec4b4c58c90f8541541546cc251233f028e0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Gesundheit über die Qualität der Badegewässer und deren Bewirtschaftung (Badegewässerverordnung – BGewV) StF: BGBl. II Nr. 349/2009 [CELEX-Nr.: 32006L0007]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 202/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 349/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/349"
+        },
+        {
+          "text": "32006L0007",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0007:DE:HTML"
+        },
+        {
+          "text": "BGBl. II Nr. 202/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/202"
+        },
+        {
+          "text": "BGBl. Nr. 254/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_254_0/1976_254_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 64/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/64"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87a27dc2f6b6d1009af005ff4925ed93c198f5ddef64abefcce2124fa1bc0092",
+      "sha256": "cde06f83e2ace85510bb0f2d41c97671239456e65c084d3dc006b31b4389f5c6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zielbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2d3763ea813e547c2c41e9a3a53f210cd6e16ff086ed95727c4793f481ad699",
+      "sha256": "eba2d5f780fbd974ef7f94f1061460e3be51ff443ce5a3c84630788d9ee38b8d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "df7fba50012247a5545354eb7b2ec9c15e4aa7fec1714f2c1d38859e0cf6bfc1",
+      "sha256": "3b32396b8c160b886f726d88bf806b4dfe5fabc62548dff2b0d84fbc4ba01e21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9b48f96a91d2283985adecdb18be4155b23c2a2bfd47354b0ac8161cb6e7a5a",
+      "sha256": "1cddc4317f0292ff495a7c37039f88691b1107954430f23be3651a9f88b4733c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "2. Abschnitt Qualität und Bewirtschaftung der Badegewässer",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9cf0ecaa0dafc195b38d1ffa5c24692f4d5f4c6f480ad151f346dca2b218b92c",
+      "sha256": "3a83cc9ed318cbd46d56aa5f2aec52c52b01050a05097e078787eb48e0cdf36d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Zum Bezugszeitraum vgl. § 14."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Überwachungszeitplan",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f12aada7fae0f37c00fab045434cf9f3e339a99e4dbffea0e90315028b0a4514",
+      "sha256": "2fbeb8268e175f675981f3bdd0f03c305d4c9de3226e52a7542d6175aad680d6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Analysemethoden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa240e0ae74b774aff51337ee4cc21ed195c3385afacc6fef5f1a389234a7918",
+      "sha256": "9e2be4531450321ed90cfac62aad1dd841b219c602c8258f28c6a6e127d56c33",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Bewertung und Einstufung der Badegewässerqualität im Übergangszeitraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1468b9d4ac76ee8b1f180257a4d763dbdf7f764be9964d8209a1a9a410a1ff23",
+      "sha256": "fa94eb9911b395e1bca006c10f542c325429566285ee048a0938cf7b3ad0c1b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Bewertung der Badegewässerqualität ab der Badesaison 2013",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a773ccc79e963a102a6dab5aee47e83efc944088d2f0efc768447fb91fe036bd",
+      "sha256": "d20c436011e986e82a4e5b3af0c4213fc6f166e29cc337df3b750c7d3d23e15d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Einstufung der Badegewässerqualität ab der Badesaison 2013",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b385d9f2fb0eacbe123395a3293ca699c93347a1f1a28a1eb6375c667814063f",
+      "sha256": "e8f6412ccf92f19880d6556a9a360aac0d8485fe9decf2d37bed71edcd61f8f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Badegewässerprofile",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "148072a4f7b8526756f4f3851c4970800aa14f712029a27118107b1fbb2502b7",
+      "sha256": "03040d1c9ee9a213ce8cc290a6d823d3e23c9295dfedb2d356536367fe2e8568",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "3. Abschnitt Informationsaustausch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0a6236a9faa7381a1c8b03186229b3af7c155cbab54a4dfe16c87f76928b2741",
+      "sha256": "5ad1c4d63ccb7daf4803bd01b9b97bf7809b3b315cb31fdd693f3e3240ada443",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Information der Öffentlichkeit durch den Landeshauptmann",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "445d20a67fc5b842a90c670893e9957f697e2f1d8813bc478da7f099ef2a4e0f",
+      "sha256": "821ff6081dc6f574f97b28ccc9de39ef6c739095a0d12b3dfb0082b01974dd9e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "4. Abschnitt Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12663b4df8c87c120a97b6bd49d3d9d4ed27d1520d5f72c4a6a2d155dc28ff63",
+      "sha256": "463e569bb51831924b4b43f8f2b963db48a527e929813c4cc366d6a25b14d8b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e14abc3ea7f9bf9ebc64a866943047d5f88e66fadf46ffa156749de00ceb2b07",
+      "sha256": "6b919b5ef1bbcc3d844d796862e63862ffb2070eefe7ee1f79460d9804c9999f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1 (zu den §§ 5 Abs. 1 und 2, 7 und 9 Abs. 1)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bcab28099642effa1c87cb13cc5cc128195a286cff9eeec70211833ddaa87ca4",
+      "sha256": "b788cb00b394cec3d41c9dd574f0f5853e8019068954eefe8f926116caecffb3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "A",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "B",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "C",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "D",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "E",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Parameter",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausgezeichnete Qualität",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gute Qualität",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausreichende Qualität",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Referenzanalyse-methoden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Intestinale Enterokokken (KBE/100 ml)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200 *",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "400 *",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "330**",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ISO 7899-1 oder ISO 7899-2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Escherichia coli (KBE/100 ml)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "500 *",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1000 *",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "900**",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ISO 9308-3 oder ISO 9308-1",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3 (zu § 5 Abs. 2)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1448094df28ddfb86867c4cbba8bf3cf8197db552945c1aa191cc7961cd42138",
+      "sha256": "9dd8e5b2b31d7b684066b92e9d4afde13e8ec1f0a5dc0f0e3ffe8f92393bff96",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage 4 (zu § 5 Abs. 3)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d7566c5abbe3c306b4385ef3d6d4d11dd19304c029e7804d8ecee463973472a",
+      "sha256": "fd17d9a62c3ed4a7673019bb9db4fc369f7545ef6f47b0496a5282474c6c45a3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 5",
+      "source_heading": "Anlage 5 (zu § 5 Abs. 3)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "anl-5.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f895dd319319a96a8ddcf66890a8b4caede8ad827c0493a65d2497675fbdd20e",
+      "sha256": "9ce6c2dbf287e0df6f1d355e541a7a36ac0548e88b81694d9005afa2e557536f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 6",
+      "source_heading": "Anlage 6 (zu § 5 Abs. 5)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "anl-6.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc923445bc3fea52609255415e21e02acad427bb39eec76c2ec8b6f2d0992d1c",
+      "sha256": "09db5acb5ecbcd6600beeeafcd4355b54440b210f89458567797434205f9e18e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "A",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "B",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "C",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "D",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Parameter",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Richtwerte",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Grenzwerte",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Referenzanalysemethoden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Intestinale Enterokokken (KBE/100 ml)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "400",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ISO 7899-1 oder ISO 7899-2",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Escherichia coli (KBE/100 ml)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1000",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ISO 9308-3 oder ISO 9308-1",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sichttiefe (m)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "> 2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Secchi-Scheibe",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "pH-Wert",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6 – 9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ÖNORM M 6244",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gelöster Sauerstoff/ % Sättigung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "> 80",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Winkler-Methode oder elektrometrische Methode",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Phytoplankton (wenn das Badegewässerprofil auf eine Tendenz zur Massenvermehrung hindeutet)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Cyanobakterien (wenn das Badegewässerprofil auf ein Potential für eine Massenvermehrung hindeutet)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verschmutzungen (wie teerhaltige Rückstände, Glas, Plastik, Gummi oder andere Abfälle)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sichtkontrolle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 7",
+      "source_heading": "Anlage 7 (zu § 5 Abs. 8)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "anl-7.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d025e27b07831a46d9b7ccf5315e9f951ff5b626b2412e684b65a0706c30d1c5",
+      "sha256": "74bacb9fcdef13cb3237120edccd7ade1a5e43a51cd3a1cbcefc2bd458c7e7fc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Badegewässer-ID *1)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Jahr *2)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datum *3)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Parameter- nummer *4)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wert *5)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Länge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Format",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inhalt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*1) 18stellig",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "ATnnnnnnnngggggsss",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "laut dem für das Berichtsjahr geltenden Verzeichnis der Badegewässer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*2) 4stellig",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "jjjj",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichtsjahr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*3) 8stellig",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "jjjjmmtt",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Probenahmedatum",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*4) 1stellig",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "n",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1 oder 2 laut Anlage 1 oder Anlage 2 zur Verordnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "*5) 8stellig",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "numerisch oder Text",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Messwert (numerisches Ergebnis oder Text)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 8",
+      "source_heading": "Anlage 8 (zu den §§ 2 Abs. 2, 9 Abs. 1 und 2, 10 Abs. 1 und 2)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "anl-8.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2684d31f517fe867a7e7073e549d4a79de250ea07f179e37f498b1fa41810e0",
+      "sha256": "02d75c9d6f7eed7eddf1c79626b4f84184bdda3965d7da6f2c6ff81601aaffa9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 9",
+      "source_heading": "Anlage 9 (zu den §§ 9 Abs. 4, 11 Abs. 1 und 13 Abs. 1)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "anl-9.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e880000d93ea28e3f29cc2b46c2ff88b48b079e8775014ac3454a5317a37fe1c",
+      "sha256": "f4800559d71802185e6dabe058ca61c35950612e3ecb00e2db204c9efd570330",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Einstufung des Badegewässers",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "„Gut“",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "„Ausreichend“",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "„Mangelhaft“",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Überprüfung mindestens alle",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2 Jahre",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Zu überprüfende Aspekte (lit. der Ziffer 1)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a bis f",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a bis f",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a bis f",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 10",
+      "source_heading": "Anlage 10 (zu § 13 Abs. 3 Z 1)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "anl-10.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "17a17f948edfcf626dc6af1a17817af886bc2b75a0a5d9de73edec89c5a56784",
+      "sha256": "04138a639f6f75cde711d54c608b0ababf9ff83512b9b5be6d1570426b67f7b4",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40153292/image001.jpg",
+          "alt": "ausgezeichnet",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40153292/image002.jpg",
+          "alt": "gute",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40153292/image003.jpg",
+          "alt": "ausreichend",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40153292/image004.jpg",
+          "alt": "mangelhaft",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40153292/image005.png",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR40153292/image006.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

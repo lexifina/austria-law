@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend über die Ausstattung von Tankstellen mit Benzindampf-Rückgewinnungssystemen beim Betanken von Kraftfahrzeugen (Benzindampf-Rückgewinnungs-Verordnung – BDRV) StF: [BGBl. II Nr. 67/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/67>) \[CELEX-Nr.: [32009L0126](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0126:DE:HTML>)\]
+
+Auf Grund des § 82 Abs. 1 der Gewerbeordnung 1994 – GewO 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 85/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/85>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

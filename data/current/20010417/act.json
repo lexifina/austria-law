@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010417",
+  "short_title": "Errichtung einer elften Notarstelle in Graz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209451",
+    "valid_from": "1982-10-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010417&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:34.662622+00:00",
+    "response_sha256": "cd42ae236eb6e34e1797b50b3093753dc0713c439df6b78b5ad5f2ade5203ce1",
+    "snapshot_sha256": "0ea8687965791ce8462a55f23b4655c6d282ed31fed2f321992a1798787f9c39",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "649c14944360fcc1a81bcab6791cd29ba3cc41de76aad3e80b90311a939ff39e",
+      "sha256": "696b590db9e04327e611442a7c68ace40e96e91530ded82a94a7d2835a8b8fd4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 27. September 1982 betreffend die Errichtung einer elften Notarstelle in Graz StF: BGBl. Nr. 504/1982"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 504/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_504_0/1982_504_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da6c93467719df45534144ee5808d79da4cb6899d56120bb6b2a602d29a15717",
+      "sha256": "14cfe9133ef4ff233305f6341dc392d1ce6df0e51577fdd04fe0f563ca5b90dc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

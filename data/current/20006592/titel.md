@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die Anerkennung und den Betrieb von Tiergesundheitsdiensten (Tiergesundheitsdienst-Verordnung 2009 – TGD-VO 2009) StF: [BGBl. II Nr. 434/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/434>)
+
+Auf Grund des § 7 Abs. 2 bis 3 des Tierarzneimittelkontrollgesetzes (TAKG), [BGBl. I Nr. 28/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_28_1/2002_28_1.pdf>) zuletzt geändert durch Bundesgesetz [BGBl. I Nr. 36/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/36>) und das Bundesgesetz [BGBl. I Nr. 3/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/3>), wird verordnet:

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000452",
+  "short_title": "Übereinkommen der Haager Friedenskonferenzen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000454",
+    "valid_from": "1968-01-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000452&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:16.058569+00:00",
+    "response_sha256": "c2ea9b4df7f4dedee674df3a60e81c13c3b82c6b135bc2ef3b7bb56c05d60624",
+    "snapshot_sha256": "d932b5a0190939c83cba35b5d127b647e8cf00bf7904cbecf0a6c1b5b29aa54e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6098ed6a13a57deff75b6e6a9de4e3d0f633d887e0f7f6b52f3620e8cb2b691d",
+      "sha256": "bf18d7a890f22fad53c3a8054afbe5446356c2cbe0ad46b3178b1acfd33e1404",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 12. Dezember 1967, betreffend die Ausdehnung des Geltungsbereiches der Übereinkommen und Erklärungen der Ersten und Zweiten Haager Friedenskonferenz von 1899 und 1907 (RGBl. Nr. 173, 174, 175, 177, 180, 181 und 182/1913) StF: BGBl. Nr. 29/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 29/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_29_0/1968_29_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3145bb3756e71a2989fa221425885d9607de6a999656cd273c49621d5981d49b",
+      "sha256": "7420cd9c3197b0e3677d73557560eec349742b1ae5897a59508012df3eb0d010",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 50/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_50_0/1957_50_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

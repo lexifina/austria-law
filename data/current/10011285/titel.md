@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 29. Oktober 1954, betreffend die Ratifikation des Abkommens über die Internationale Zivilluftfahrt durch Ecuador StF: [BGBl. Nr. 248/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_248_0/1954_248_0.pdf>)

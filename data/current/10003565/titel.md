@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen, die Abkürzung sowie das Emblem in Spanisch und Portugiesisch des Southern Common Market (MERCOSUR) StF: [BGBl. II Nr. 194/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_194_2/1998_194_2.pdf>)

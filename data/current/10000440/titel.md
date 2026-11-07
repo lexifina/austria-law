@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 23. März 1967 über die Ausdehnung des Geltungsbereiches der Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: [BGBl. Nr. 126/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_126_0/1967_126_0.pdf>)

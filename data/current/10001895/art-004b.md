@@ -1,0 +1,3 @@
+## (Anm.: Artikel 4.)
+
+B. - Demgemäß soll die nachher in einem der übrigen Unionsländer vor Ablauf dieser Fristen bewirkte Hinterlegung durch inzwischen eingetretene Tatsachen, wie namentlich durch eine andere Hinterlegung, durch die Veröffentlichung der Erfindung oder deren Ausübung, durch das Feilbieten von Exemplaren des Musters oder Modells, durch die Anwendung der Marke nicht unwirksam gemacht werden können; diese Tatsachen können weder ein Recht Dritter noch ein persönliches Besitzrecht begründen. Die Rechte, die von Dritten vor der ersten Anmeldung, die die Grundlage des Prioritätsrechtes bildet, erworben worden sind, bleiben nach Maßgabe der inneren Gesetzgebung jedes Unionslandes gewahrt.

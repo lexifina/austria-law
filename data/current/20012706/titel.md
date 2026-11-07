@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Inneres über den Ausspruch des Verfassungsgerichtshofes vom 16. September 2024, dass die Punkte 6.12.1 bis 6.12.3 und 6.14.1 bis 6.14.4 der Polizeidiensthundevorschrift 2015 (PDHV 2015), Erlass des Bundesministers für Inneres, Zl. BMI-EE2200/0057-II/2/b/2025 idF Zl. BMI-EE22/0063-II/2/b/2017, kundgemacht in der Datenbank „Informationen und Verwaltungsvoschriften“ des Bundesministeriums für Inneres, als gesetzwidrig aufgehoben werden StF: [BGBl. II Nr. 275/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/275>)
+
+Gemäß Art. 139 Abs. 5 erster Satz B-VG und § 59 Abs. 2 VfGG iVm § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

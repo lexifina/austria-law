@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers vom 14. Mai 1970 betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Einrichtung eines Fonds zur Besorgung von Aufgaben der Privatwirtschaftsverwaltung, dessen Zweck nicht über den Interessenbereich eines Landes hinausgeht StF: [BGBl. Nr. 153/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_153_0/1970_153_0.pdf>)
+
+Gemäß § 56 Abs. 4 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird folgender Rechtssatz kundgemacht, in dem der Verfassungsgerichtshof die Feststellung seines Erkenntnisses vom 2. Dezember 1969, K II-1/69 – dem Bundeskanzleramt zugestellt am 8. Mai 1970 – zusammengefaßt hat:

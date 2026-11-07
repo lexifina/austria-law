@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit und Wirtschaft, der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie und des Bundesministers für Finanzen über die Leistungs- und Strukturstatistik in den Produktions- und Dienstleistungsbereichen (Leistungs- und Strukturstatistik-Verordnung 2022) StF: [BGBl. II Nr. 305/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/305>)
+
+Auf Grund der §§ 4 bis 10, 19 und 30 des Bundesstatistikgesetzes 2000, [BGBl. I Nr. 163/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 205/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/205>), wird im Einvernehmen mit dem Bundeskanzler verordnet:

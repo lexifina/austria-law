@@ -1,0 +1,3 @@
+## Artikel 11B
+
+Dieses Übereinkommen ist nicht so auszulegen, als enthalte es eine Verpflichtung zur Auslieferung oder Rechtshilfe, wenn der ersuchte Vertragsstaat ernstliche Gründe für die Annahme hat, dass das Auslieferungsersuchen wegen in Artikel 7 genannter Straftaten oder das Ersuchen um Rechtshilfe in Bezug auf solche Straftaten gestellt worden ist, um eine Person wegen ihrer Rasse, ihrer Religion, ihrer Staatsangehörigkeit, ihrer ethnischen Herkunft oder ihrer politischen Anschauungen zu verfolgen oder zu bestrafen, oder dass die Lage dieser Person aus einem dieser Gründe erschwert werden könnte, wenn dem Ersuchen stattgegeben würde.

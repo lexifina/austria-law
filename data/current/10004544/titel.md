@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 30. Juni 1987 betreffend den Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von Berufsausrüstung StF: [BGBl. Nr. 331/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_331_0/1987_331_0.pdf>)

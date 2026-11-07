@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über ein elektronisches Register zur Erfassung aller wesentlichen Belastungen von Oberflächenwasserkörpern durch Emissionen von Stoffen aus Punktquellen 2017 (Emissionsregisterverordnung 2017 – EmRegV-OW 2017) StF: [BGBl. II Nr. 207/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/207>)
+
+Auf Grund des § 59a Abs. 2 und 4 des Wasserrechtsgesetzes 1959 – WRG 1959, BGBl. Nr. 215, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 58/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/58>), wird – hinsichtlich des § 59a Abs. 2 zweiter Satz WRG 1959 im Einvernehmen mit dem Bundesminister für Wissenschaft, Forschung und Wirtschaft – verordnet:

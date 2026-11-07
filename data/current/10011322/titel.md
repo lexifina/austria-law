@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 30. Oktober 1958, betreffend die Ratifikation des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt durch Kanada StF: [BGBl. Nr. 247/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_247_0/1958_247_0.pdf>)

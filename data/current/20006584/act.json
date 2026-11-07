@@ -1,0 +1,364 @@
+{
+  "sample_only": false,
+  "included_provisions": 11,
+  "source_provision_count": 11,
+  "schema_version": 1,
+  "gesetzesnummer": "20006584",
+  "short_title": "Militärische Geoinformationen (USA)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – USA",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40112649",
+    "valid_from": "2010-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006584&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:48:10.937900+00:00",
+    "response_sha256": "1d7445a9b13866c4504385e7a75c2602f7c085c04fe58dd0d405f15375c3fb65",
+    "snapshot_sha256": "fcee779b1154ed512472bba43b9ef7b5b8c116d40ea476e8c6259b3dc3520b6c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "545359fefb3fb5de6bbf758b04d037e8e5a50b19cbc0d14c5b6f0bfadc4c8e37",
+      "sha256": "5f2b4447d6bc5458c510a545bedbb30b57f610dd0e31668f2c2ab655cc6acffc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Grundlagenvereinbarung über Austausch und Kooperation zwischen dem Bundesminister für Landesverteidigung und Sport der Republik Österreich und dem Verteidigungsministerium der Vereinigten Staaten von Amerika betreffend militärische Geoinformationen StF: BGBl. III Nr. 129/2009"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 129/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/III/2009/129"
+        },
+        {
+          "text": "BGBl. III Nr. 136/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_136_3/1998_136_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "ARTIKEL I",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a0aa37b93b619b00a0841d69056dbb46d4c941774a1a54a9388be2941ad594c",
+      "sha256": "058e17a4ffae2e88accf87fa667f8b9c2b26a37c8b13c8a7855c6b3e4c256c9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Kontrollierte Nichtklassifizierte Informationen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nichtklassifizierte Informationen, für die Zugangs- oder Verteilungsbeschränkungen gemäß anwendbarer nationaler Gesetze oder sonstiger Vorschriften gelten. Die Informationen, die gemäß dieser Vereinbarung ausgetauscht oder gemeinsam erzeugt werden, sind zu kennzeichnen, um die „Vertraulichkeit“ ihrer Natur auszuweisen. Die Kennzeichnung für Kontrollierte Nichtklassifizierte Informationen kann umfassen, ist aber nicht beschränkt auf: „Limited Distribution“ (LIMDIS) oder „For Official Use Only (FOUO)“; für die österreichische Partei „Eingeschränkt“,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Urheberrecht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eine gesetzlich verankerte Art des Schutzes, die dem Autor von Originalwerken, welche Datenbanken, Landkarten und See-/Flugnavigationskarten umfassen können, zukommt.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "“Geospatial Intelligence“ (GEOINT) Information",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informationen jeglicher Art oder jeglichen Formats, die aus der Sammlung, Umwandlung, Erzeugung, Darstellung, Verteilung und Speicherung von geodätischen, geomagnetischen, aeronautischen, topographischen, hydrographischen, das Luft- und Satellitenbildwesen betreffenden, kartographischen, kulturellen, bathymetrischen und toponymischen Daten resultieren. Dies schließt auch Informationen ein, die aus der Beurteilung von topographischen, hydrographischen oder aeronautischen Merkmalen hinsichtlich ihrer Auswirkung auf militärische Einsätze oder nachrichtendienstliche Tätigkeit hervorgehen. GEOINT-Information kann umfassen, ist aber nicht beschränkt auf, Darstellungen in Form von topographischen, planimetrischen, Relief- oder thematischen Landkarten und Graphiken; nautischen und aeronautischen Navigationskarten und Publikationen; und in simulierten, photographischen, digitalen oder computerisierten Formaten.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Drittpartei",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Eine Person oder ein anderes Rechtssubjekt, das nicht Beamter, Angestellter, Vertreter oder Vertragspartner der Vereinigten Staaten von Amerika oder der Republik Österreich ist.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Art. 2",
+      "source_heading": "ARTIKEL II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "art-002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eac247747e1866bfb77bd6251e58873776ff89df01c6db1beffc6534a2063f7b",
+      "sha256": "ddeb411f3ba6ab8602f9889e80b8e626debc70d84028fb0280234f81a59d8534",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 3",
+      "source_heading": "ARTIKEL III",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "art-003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6dd77cf50dc69f4efc2016a1374de419f02e54021e2d2d062ba0f28426d7bd00",
+      "sha256": "9b62ef62f2eb32124f69c857fc1483aca06a9eb2ef2273bdf43acd2e3d5a1ed2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 4",
+      "source_heading": "ARTIKEL IV",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "art-004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "365c202e96c5e754784b972637f7f16718a6b1018a43f5b0df044b2e754cdda2",
+      "sha256": "872d23923f028a22b175a7757364ffcac5a6a3e265d5c207769573e6e68845f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 5",
+      "source_heading": "ARTIKEL V",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "art-005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ca631316207d8d7897d5d5a23f830da2081ade6e9a09746bac38477931cd755",
+      "sha256": "ce25270236c11a4333594a1fbd42766de977b5d2e9ef69bf11a75ae868ddbb42",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 6",
+      "source_heading": "ARTIKEL VI",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "art-006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcf071d5e6e443a1a58e55b08446fd46ac065ea7e6206968b3b0a423380af857",
+      "sha256": "7b5082d9bf81922e6f5ed79424b7bf55072c1e158cac17c26dc48ef103f33c46",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 7",
+      "source_heading": "ARTIKEL VII",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "art-007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "954f1039ef5d0e66be00d16689bd35168da420fd7e2c185181fbfe652d49528d",
+      "sha256": "5e980c5991b080e046e8ef94bc9ed1524a621899ff80b59bb1264751ef45d09d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 8",
+      "source_heading": "ARTIKEL VIII",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "art-008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83d3f733c89764c59ae07c68210ddf80bec0798d9a2d9fb37692a0d5a53128ea",
+      "sha256": "9899f23a75a9cde842d93ea0a3064e61827fd50422c109a448cea15ef21f41ef",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 9",
+      "source_heading": "ARTIKEL IX",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "art-009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "744fb295a716ee41babb00dd8079c7ee883458d9c198343f4dd894a41103e01c",
+      "sha256": "e19d7bc6032ea8cd288ae6043d0b9d9c832a2d6c01fce662fe40d072030c22f1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 10",
+      "source_heading": "ARTIKEL X",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "art-010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c372069dd1fa66a8b5e2476d09c4f89dfd51a4243f0e70430e34d43f5a9880f",
+      "sha256": "26a3808a6d69a80193a5b73fa700e13f6fc9f4e35b46a83b37839289501bf3e2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

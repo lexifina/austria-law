@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000829",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters von Etsdorf - Haitzendorf",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000831",
+    "valid_from": "1986-01-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000829&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:36:32.229888+00:00",
+    "response_sha256": "ac3369a7cf7989d911f9f33e3530a5c108f4a53c4dc33cbe5e067814363cbdee",
+    "snapshot_sha256": "ea6ed28cccea0765c6aef6709555e9b005bde3aa96f1349c3afe9976ed0be75a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc7bb6c8482f1a03000f9e528db45ae0f05bcd9b343c398a78b319b8e08f8158",
+      "sha256": "1880317d232a8c86cca716de0745663da11f8aa5b7dba5cece4eb5d1252733ac",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. Dezember 1985 über die Aufhebung von Bestimmungen der Verordnung des Bürgermeisters der Marktgemeinde Etsdorf-Haitzendorf, durch welche die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 9/1986"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 9/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_9_0/1986_9_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2152f410cfa4edfe2379b2d52b7763257c3ccf12eaca92e3723c14ab4f226a76",
+      "sha256": "d92d8e843cdcb7e5eb74c323526562a4787296839ab001d31b69eeb3a1a0abab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

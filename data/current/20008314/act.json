@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20008314",
+  "short_title": "Transparenzdatenbank-Leistungsverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40148691",
+    "valid_from": "2013-03-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008314&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:13:53.071158+00:00",
+    "response_sha256": "8799aa78694c90700093e5a19024e15e7dd62f1df9f4203bb9641567cb022d44",
+    "snapshot_sha256": "4d90b87f7a2d205c5dd19f88e88a669026ce514304896545e16efa7f1a78974e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5639d6c7d2fcd109c462c608d0327edd1d3f5e6fdf93d66bdca846d2ee158081",
+      "sha256": "613b93f466259878c3031c851943bb2ebe6e131b2fbabd21126c9debf1748c63",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Finanzen über Leistungen nach dem Transparenzdatenbankgesetz (Transparenzdatenbank-Leistungsverordnung) StF: BGBl. II Nr. 71/2013"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 71/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/71"
+        },
+        {
+          "text": "BGBl. I Nr. 99/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/99"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c65428576e6352a924fc00f1e86fc4304c9016964b0e0ced1f2151e68342bb93",
+      "sha256": "1ba04ce5c9f6eddca24d8499c1088ef56858b1f37488a5cd3af919d11a1c9e57",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc43efb314db4cfcb7f7fffd087e1f3c84183538c890d8fca29378b1494c90b2",
+      "sha256": "52c608b2c63ad8ed16a533e50bb0f90319fe912ee000a928f167834eddd063ac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

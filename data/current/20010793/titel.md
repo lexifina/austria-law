@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen, mit der Aufzeichnungs- und Sorgfaltspflichten im Bereich des E-Commerce und des Versandhandels bestimmt werden (Sorgfaltspflichten-Umsatzsteuerverordnung – Sorgfaltspflichten-UStV) StF: [BGBl. II Nr. 315/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/315>)
+
+Aufgrund des § 18 Abs. 11 und des § 27 Abs. 1 des Umsatzsteuergesetzes 1994, [BGBl. I Nr. 663/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_1/1994_663_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird verordnet:

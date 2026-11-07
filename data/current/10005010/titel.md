@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über die steuerliche Einstufung von Fahrzeugen als Personenkraftwagen und Kombinationskraftwagen StF: [BGBl. Nr. 273/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_273_0/1996_273_0.pdf>)
+
+Zu § 12 Abs. 2 Z 2 lit. b UStG 1994, [BGBl. Nr. 663/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_0/1994_663_0.pdf>), in der Fassung [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>) und zu § 8 Abs. 6 Z 1 und § 10 Abs. 4 EStG 1988, [BGBl. Nr. 400/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf>), in der Fassung [BGBl. Nr. 201/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_201_0/1996_201_0.pdf>) wird verordnet:

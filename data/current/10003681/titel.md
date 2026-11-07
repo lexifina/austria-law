@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Basissymbol für Zertifizierung der Republik Kuba StF: [BGBl. II Nr. 239/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_239_2/1999_239_2.pdf>)

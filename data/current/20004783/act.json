@@ -1,0 +1,995 @@
+{
+  "sample_only": false,
+  "included_provisions": 36,
+  "source_provision_count": 36,
+  "schema_version": 1,
+  "gesetzesnummer": "20004783",
+  "short_title": "SCE-Gesetz",
+  "abbreviation": "SCEG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005222",
+    "valid_from": "2006-08-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004783&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:54.845986+00:00",
+    "response_sha256": "4599a3babb4b017a4ca678a6797ba7526564ded09bf6cba87f973837a7c0f5d1",
+    "snapshot_sha256": "d073ab9057739a40ef0fbec7185f7b3c561d71bef35f18d286c802317c3bbb6c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f18417db0bab2a43bcfeb8a4521473564ea471e83fe5288e37be7876411ee246",
+      "sha256": "2c04739e18e404e1783d537694671ba566a01e675d1530db1013277eb56b2817",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Gesetz über das Statut der Europäischen Genossenschaft (Societas Cooperativa Europaea – SCE) – (SCE-Gesetz – SCEG) StF: BGBl. I Nr. 104/2006 (NR: GP XXII RV 1421 AB 1522 S.153. BR: AB 7572 S. 735.) [CELEX-Nr.: 32003L0072]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 43/2016 (NR: GP XXV RV 1109 AB 1123 S. 130. BR: 9586 AB 9593 S. 854.) [CELEX-Nr.: 32014L0056] BGBl. I Nr. 69/2018 (NR: GP XXVI RV 254 AB 264 S. 39. BR: AB 10027 S. 884.) BGBl. I Nr. 178/2023 (NR: GP XXVII RV 2228 AB 2341 S. 247. BR: AB 11396 S. 961.) [CELEX-Nr.: 32017L1132, 32019L1151] BGBl. I Nr. 6/2026 (NR: GP XXVIII RV 300 AB 386 S. 63. BR: 11762 AB 11764 S. 986.) [CELEX-Nr.: 32022L2464]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 104/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/104"
+        },
+        {
+          "text": "RV 1421",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1421"
+        },
+        {
+          "text": "AB 1522",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1522"
+        },
+        {
+          "text": "S.153.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/153"
+        },
+        {
+          "text": "AB 7572",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7572"
+        },
+        {
+          "text": "S. 735.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/735"
+        },
+        {
+          "text": "32003L0072",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0072:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 43/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/43"
+        },
+        {
+          "text": "RV 1109",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1109"
+        },
+        {
+          "text": "AB 1123",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1123"
+        },
+        {
+          "text": "S. 130.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/130"
+        },
+        {
+          "text": "9586",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9586"
+        },
+        {
+          "text": "AB 9593",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9593"
+        },
+        {
+          "text": "S. 854.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/854"
+        },
+        {
+          "text": "32014L0056",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0056:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 69/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/69"
+        },
+        {
+          "text": "RV 254",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/254"
+        },
+        {
+          "text": "AB 264",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/264"
+        },
+        {
+          "text": "S. 39.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/39"
+        },
+        {
+          "text": "AB 10027",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10027"
+        },
+        {
+          "text": "S. 884.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/884"
+        },
+        {
+          "text": "BGBl. I Nr. 178/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/178"
+        },
+        {
+          "text": "RV 2228",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2228"
+        },
+        {
+          "text": "AB 2341",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2341"
+        },
+        {
+          "text": "S. 247.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/247"
+        },
+        {
+          "text": "AB 11396",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11396"
+        },
+        {
+          "text": "S. 961.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/961"
+        },
+        {
+          "text": "32017L1132",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L1132:DE:HTML"
+        },
+        {
+          "text": "32019L1151",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L1151:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6"
+        },
+        {
+          "text": "RV 300",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/300"
+        },
+        {
+          "text": "AB 386",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/386"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11762",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11762"
+        },
+        {
+          "text": "AB 11764",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11764"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32022L2464",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32022L2464:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Allgemeine Vorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b76419a5f5482591f3fc52296b5be3e8ffe3af5802a9c7cb736033f5ba877344",
+      "sha256": "65e48b3e00fd1f5ed3a32b396849b8d70d5f09f9458a251678ee2ed10930995d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "394e10170faba8b61c830482b4be020fbd0a305b3dab92130a4086ea56d091e9",
+      "sha256": "41b327b01329194292eade8b8891a57323e81f221037763300ef3612d551a32e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a518a335683e33d2871a871e5191bf96289524ac09020d65bf98fa5cb8dcc321",
+      "sha256": "dad899b2e016287ec0e7b5abed7eb08335adf9296466a262eb48f5dc070196eb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Gericht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "464f4dea55a212265350e370a70a76de4fbc38dba4f2e1b23a7dfc62749df979",
+      "sha256": "26449c488e5904d10edfca7f515afb117c2591f2cf5540b8fd2fe5463f92b323",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Sitz der Europäischen Genossenschaft (SCE)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b3c917978934e92ea4a61d229cbfba3c56fbb833ba01632f47bb76e41e970b0e",
+      "sha256": "ae1db5820e23dc2f7db47a864a0efcbc558038612159c971b4dd6175c9fe9bbf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "2. Hauptstück Verlegung des Sitzes einer Europäischen Genossenschaft (SCE) nach Maßgabe des Art. 7 der Verordnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a580bfb2e14d52b22c7b732595837e096e547d0f22d56d021c4fe3d2347a9da",
+      "sha256": "9fbf4dab55d212faa1894630707ad0968678da4d22e9c29a4c7f49c6055cbaa4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 127/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_127_1/1999_127_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Offenlegung des Verlegungsplans",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7a041baff26435ba5c04956ddd29a65c75bfc379718261a72b2f7bceaa744c61",
+      "sha256": "4d310d3f42bec6d67b415116e5307dabd41c312ae6d89c56a03b817eaf9aab57",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 98/1965",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_98_0/1965_98_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Gläubigerschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "968106b9b6fba25588ebcc0d501adbcd09a580e158f7d8462938b1ba722a72fd",
+      "sha256": "be029d97d4ee925656af90d71aa15608c72789e041d050a4eb5ad32c6eb7d697",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Anmeldung der Verlegung des Sitzes in einen anderen Mitgliedstaat, Bescheinigung gemäß Art. 7 Abs. 8 der Verordnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "01db2e9814a2ea9bf8dcab3416f72309e55509925ad75325bbcc71564da5090b",
+      "sha256": "fb20887d9fad03fdc01eb9b91574091b428f2118c590f37f53707d72d386638d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Anmeldung der Verlegung des Sitzes aus einem anderen Mitgliedstaat nach Österreich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26976572fe6ddaa34a344408710350158b34d601d1a767ac9f4c2ae070b8cc02",
+      "sha256": "487c51194cbb4c8ce892bedc0b3ca5dfaeee9e8afe3d4f686fd9c0663de220d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "3. Hauptstück Gründung einer Europäischen Genossenschaft (SCE)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acebc13aa780516cd4edc13778aac84edfa41da5b0b7e7dd0394c0c0024cf5af",
+      "sha256": "04ebd816dea55a057039b8b8d5c2118b8332d95a779c19fdaa76523fcfe9ff1b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 127/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_127_1/1999_127_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Offenlegung des Verschmelzungsplans",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "664ca4ce74943d80995a36d35473a1ea1c2c55d0c28f9601de1e0c95f5c0caad",
+      "sha256": "6f5a08388f5f08ab6848156f1fda6037a64ae59b5bc08b6f05da392b13979b89",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Kündigungsrecht überstimmter Mitglieder",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4adf1b1be47e9fc2e6edd45f805a3b361f6e2334464c286cc093a7beaef37ee0",
+      "sha256": "346fc2499ae29385b3b42fe8bebbe6a10d0d64da25864ca7d8c6980fb533aeb5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 223/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_223_0/1980_223_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Gläubigerschutz und Schutz sonstiger schuldrechtlich Beteiligter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0d703d5575f3b11ddfdf084db5a98e323b1bb7ffc9010bc19f5edfdd18764fc",
+      "sha256": "52331faa8333904dc69e28a751e5f9817cac5616e50da7a1f250458d48a30b14",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Anmeldung der beabsichtigten Verschmelzung durch Übertragung des Vermögens einer Genossenschaft mit Sitz in Österreich auf eine Europäische Genossenschaft (SCE) mit Sitz in einem anderen Mitgliedstaat, Bescheinigung gemäß Art. 29 Abs. 2 der Verordnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "443a7607b15cfacd254793c475dd1bda796b51a72f017a85b8a20e4d253fd084",
+      "sha256": "201f12d1e1a4f821d51b3bd45d0ee620c932c8cfa1e41259cddb7d6ae6ee92a5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Anmeldung der Gründung einer Europäischen Genossenschaft (SCE) mit Sitz in Österreich durch Verschmelzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a0947e4c63bf46510f1649e7e6583d69d645f7e1c38d82fdf6b734644c56e365",
+      "sha256": "2eead05fad9d5e43a45bc2bebcc98feec3fb0c3792b5f5286c368d04c6d7a498",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "2. Abschnitt Gründung einer Europäischen Genossenschaft (SCE) durch Umwandlung einer Genossenschaft und Umwandlung einer Europäischen Genossenschaft (SCE) in eine Genossenschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc4007c03aa6b2a7de0105a11dd10ad69ed616dbb2c59eb4e6e0c3abdaa08e99",
+      "sha256": "ba40f1ab3aedcfe73ec14be392c221245598f1707a9cf662da701fba5dcc2216",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Umwandlungsprüfung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "20bcfaeea93c8a479bdf42d30d7e3caa49f79cbf9ddf19f37f32c2e525415689",
+      "sha256": "6fe7bccf6f211ca6e1ad931a865d14c88f2ce6bbc26967e93e8157726618aa21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Offenlegung des Umwandlungsplans",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "602cfa0cbc061e5f1354600bc1e720ee2e6592f350b3fbed672350de9c30fb2c",
+      "sha256": "656ff3ce101ff4075bba9506164498e607e7856850873701cd795bbfaece4c12",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Anmeldung der Umwandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5d827f93c86e58739e34e080bf45a874d1b0191d367354b80ac7e573df08ccdb",
+      "sha256": "99627131aae9eaefe33580baef1387cf477f7a1a17af4dddfd62dd5ec8583a5a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Umwandlung einer Europäischen Genossenschaft (SCE) in eine Genossenschaft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c64601d99f6d92fb810c99579f70d39a979083d16376a365be1dce9b49e5df86",
+      "sha256": "d0a0ff7519091637ee255382055de590af53befa485d81ff89bd3f3e9b08261c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "4. Hauptstück Aufbau der Europäischen Genossenschaft (SCE)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65d8c901d04784699685adca24d6247b196f08f81bade628dce2d277c4176c52",
+      "sha256": "b0ae3c487413448c8cc89df10802a2d57bbee6828286936afca330fc2fbbfe29",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Informationsverlangen einzelner Mitglieder des Aufsichtsrats",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fd14a33cdd017573d6aefcfb36308b147a57a9b8ca5fce6aa7b45c799ba3dbcb",
+      "sha256": "0102181de70b432a0c2071d39d4151ce71b9531e71b36c3d0cf9b8d233ea08f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "2. Abschnitt Besondere Bestimmungen für das monistische System",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcd4d9ef448571740c5b7dcb819e036a224002b34434e98ebf37492f10f9f315",
+      "sha256": "0f1bf6a937bb549c7a6628b42f40095156cfab290b5341540e1ecddcc5253fc3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Geschäftsführende Direktoren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36c636768f81481e7d5d39fc8d95217ae0f8592ea60bb6b8e464bc3d95e9af8a",
+      "sha256": "07ef3dff5b6264253c67e7e2b70a6a126add63b535811ee2f4ab680d902b7ca5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "3. Abschnitt Gemeinsame Bestimmungen für das monistische und das dualistische System",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cea46051dd9cfce4d42248ef77db9ddf885b602e88c7e59afa1a7ae1c6c3a219",
+      "sha256": "0c9386ce906f5da31fe0b59a38681ddd33f4e28e0777fe3cb7dbb5738c0d9793",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Vertretungsbefugnis von Vorstand und Verwaltungsrat",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a6889e36fef38308b0f86e079b941e937c6ba8ee1e69746a59506e32ba0a1d0a",
+      "sha256": "43db638f51f4547f2d690291be7fe21d4153253f24def414b5a8b01ebb434f9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "4. Abschnitt Generalversammlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8445ef5ed9fe3912a59ec4ce9aeaac66b41a5a40d29bad77b4c870b410807011",
+      "sha256": "bc0cb2311e19e18ce40dd40976b35ee6847ac3a1c9e0d06353791894f87131f5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Sektor- und Sektionsversammlungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e17ca03e1bf19121eb4ef3d82adc4e30512fa1ec1168d65393fc01cda2377fbc",
+      "sha256": "767dbc9dfa30a396830bac9b7fb4f5bf08105c19498498b2ffa21dcb9876ba8d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "5. Hauptstück Jahresabschluss und konsolidierter Abschluss",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc1313f9eb4fe5fd3396a491b5083846f34cc8509263c23ef10541fe37ba4ffc",
+      "sha256": "5bcd149fb822deaa60dda63efc9bd8a415edaf0437b5b746bd203d9b521625c9",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 70/1873",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=70/1873&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "6. Hauptstück Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46f1e0578838eb56ecb266d225f8074f5796e2f2026a4ff35bde48a505426f81",
+      "sha256": "300ad560830dfa380dfdd887cf8daaa0fc54e45cffcfbd4721c9aa306346c72e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "825829f3a4e0c85f71771802ae392bfc50aabc662e0eb37397ccfcfbe7e22697",
+      "sha256": "c164d54c53ea9aae1378010077a4d3735907bddeb63903fbfb13b59241ff19a2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 43/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/43"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/6"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c252c236e1aa03d9d3d0a4a89da06ebd9116d2e597040c2e356a3d043dac1763",
+      "sha256": "e2f8f5ee8445ee002b5603752c7bcc9f423d3a7b694fda19eb65f04f74e880ba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 7",
+      "source_heading": "Artikel 7 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "art-007.md",
+      "source_context": "BGBl. I Nr. 178/2023",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e8590976324d2fe8b60b884e740b2b3fe744b08dec5850d512f8a26babfa4e9",
+      "sha256": "8561e8c430e5b3534da287a2b806d8f7c786db10f44e1db18668a495b237eaf1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 178/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/178"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 15",
+      "source_heading": "Artikel 15 Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "art-015.md",
+      "source_context": "BGBl. I Nr. 43/2016",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de622eac96839235c953019aa97f5bebefac4ff87d6f2a04a116f32b398a1b1e",
+      "sha256": "a7fbd6a2d3d6f6d6430913dfdcb1979109aa986832f7621a1f1761229d387d46",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 43/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/43"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/104"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009295",
+  "short_title": "Rechtspersönlichkeit des Evangelischen Vereins für Innere Mission in Kärnten",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009486",
+    "valid_from": "1968-01-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009295&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:30:18.564225+00:00",
+    "response_sha256": "0667b70d7e8d6eca06ee331f9cabc4c0676d507f6451680ceabf4d862b5e1dd2",
+    "snapshot_sha256": "e5a8ff6f1b5f68be525d49112c8ed95d7475eb60cd05a1d443a8ad0895a28ae1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3523a4cd46cb3303ec26fe8c57c811deee8b4e9c8446792356be50e6d4fec77f",
+      "sha256": "7bcc771b6c1cbed8aabc7635ddd2d79113bf1228fd8b0552b139e1ef8a166603",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministeriums für Unterricht vom 1. Dezember 1967 über die Rechtspersönlichkeit des Evangelischen Vereins für Innere Mission in Kärnten StF: BGBl. Nr. 4/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 4/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_4_0/1968_4_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4fede2a1e80076b2e76b432527533230385ce7ab904f7a9e849ad5117405280",
+      "sha256": "60a895a817f6bbc0dfa75861cd87d44bb949218dca40cdfa7c18de9d2a6709f8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

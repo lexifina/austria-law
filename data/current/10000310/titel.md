@@ -1,0 +1,3 @@
+Bundesgesetz vom 22. Jänner 1958, mit dem weitere Bestimmungen zur Durchführung des IV. Teiles des Staatsvertrages vom 15. Mai 1955, BGBl. Nr. 152, erlassen werden (5. Staatsvertragsdurchführungsgesetz). StF: [BGBl. Nr. 16/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_16_0/1958_16_0.pdf>) (NR: GP VIII [RV 374](<https://www.parlament.gv.at/gegenstand/VIII/I/374>) [AB 381](<https://www.parlament.gv.at/gegenstand/VIII/I/381>) [S. 51.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/51>) BR: [S. 130.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/130>))
+
+Der Nationalrat hat beschlossen:

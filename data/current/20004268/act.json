@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004268",
+  "short_title": "VfGH-Aufhebung V d. Landeshauptmannes von Steiermark",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004652",
+    "valid_from": "2005-08-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004268&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:11:44.227255+00:00",
+    "response_sha256": "35325c41f83b1599a00812f3c75b4c70ae221f9b30ded889dce7b6af07462f66",
+    "snapshot_sha256": "d66b070aa9901032d1a41750720eae063c5cb51743990a535f1e57caf659f9cf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d5c6b1c8c65dab093e4dfd9051340173d93183d54b1bbc158176e502e063fcf4",
+      "sha256": "a730459a4de1ebb6150c9e08f3e9dfcba3497c87d4295c4822308cefe58aa593",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wirtschaft und Arbeit über die Aufhebung der Verordnung des Landeshauptmannes von Steiermark vom 5. Juni 2003 über die Gewerbeausübung in Gastgärten durch den Verfassungsgerichtshof StF: BGBl. II Nr. 263/2005"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 263/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/263"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5b0eb40c8f28506cde41e4e889e9fe6b05c9d41683f437e4273a3352d154e5d2",
+      "sha256": "3f5e0276bc91351b5901159a97a209aea02fe8a8e0f85c1f91948b03f2c0c3f4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

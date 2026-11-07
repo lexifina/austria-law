@@ -1,0 +1,7 @@
+Anhang 3
+
+HANDELSPOLITISCHER PRÜFUNGSMECHANISMUS
+
+(VERFAHREN ZUR ÜBERPRÜFUNG DER HANDELSPOLITIK)
+
+(Anm.: wird als eigener Vertrag dokumentiert)

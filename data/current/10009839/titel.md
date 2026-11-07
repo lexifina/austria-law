@@ -1,0 +1,3 @@
+Notenwechsel zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland zur Ergänzung der Anlage zu Artikel 5 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen StF: [BGBl. Nr. 547/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_547_0/1992_547_0.pdf>)
+
+Die österreichische Note ist am 31. Juli 1992 im Auswärtigen Amt eingegangen; der Notenwechsel tritt daher mit 15. August 1992 in Kraft.

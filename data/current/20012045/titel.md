@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Finanzen über das Vorliegen der technischen und organisatorischen Voraussetzungen für den Echtbetrieb des digitalen Dokumentennachweises im Führerscheinregister StF: [BGBl. II Nr. 383/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/383>)
+
+Gemäß § 43 Abs. 29 Führerscheingesetz – FSG, [BGBl. I Nr. 120/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_120_1/1997_120_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 121/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/121>), wird das Vorliegen der technischen und organisatorischen Voraussetzungen für den Echtbetrieb des digitalen Dokumentennachweises im Führerscheinregister kundgemacht.

@@ -1,0 +1,503 @@
+{
+  "sample_only": false,
+  "included_provisions": 17,
+  "source_provision_count": 17,
+  "schema_version": 1,
+  "gesetzesnummer": "20002684",
+  "short_title": "Konjunkturstatistik im Dienstleistungsbereich",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40259453",
+    "valid_from": "2024-01-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002684&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:50:52.543073+00:00",
+    "response_sha256": "58a189d9062daa9332d2c89912972a0f06d2473201fbe71751f1fc1286c39d9c",
+    "snapshot_sha256": "656a47c4c901ea1afe1ecdee493b367f8557fbcec4a8bb0f4a288d24631efb3a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d503f4cbe31e6cd11c5212c7b18114c89bf9510b53543960bd710e9c2814b09c",
+      "sha256": "2d507f261c34bf8d4954a87642e210e2a48557add67f9d901c2df654f5d9abf5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit und Wirtschaft über die Konjunkturstatistik im Dienstleistungsbereich StF: BGBl. II Nr. 233/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 49/2005 BGBl. II Nr. 30/2009 BGBl. II Nr. 259/2013 BGBl. II Nr. 10/2024"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 233/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_233_2/2003_233_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 49/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/49"
+        },
+        {
+          "text": "BGBl. II Nr. 30/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/30"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/259"
+        },
+        {
+          "text": "BGBl. II Nr. 10/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/10"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_136_1/2001_136_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anordnung zur Erstellung der Statistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6b93738ba2f5c32a285b4fe365a8968a822516d4e3e7be742ef555d7a77cef0b",
+      "sha256": "1631ac2dbbeef54f6512b95c59ef8a24f40be12ec6d6126e7f2936d02a9a5580",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Statistische Einheiten, Erhebungsmasse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79c5ed5fffd0d35aeeffb720a8e3f31f1d7d2f64a5cfad3dffccbafa0297db59",
+      "sha256": "337db69cb5979ad9b9dacc4cb694abb02225804dda93e60e39b27ae39c06e930",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Periodizität, Kontinuität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ddf65240112c57f45890ab82016bab3c586d0fcdc3ce84b2173f9350ab5f244b",
+      "sha256": "c49106fe84e38d99b941c5438353bdc72f03df7f26412711c3041b3a70935c4a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Erhebungsmerkmale",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a01ee96195009e4abcfe5977121e2cb98613fa6083af398844142cff1187a006",
+      "sha256": "bc14bc5fae07a7de8a53451b95a5a1ffe4d6cd985fc92ad74cf9e8fd1713ffbe",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Erhebungsart",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0d07bb678296f916da59c9749861ff5eee54b436e6cbef8d253593546148c95f",
+      "sha256": "79b23cdec6a1ec9604e976932c3e2b02ac5553dcd14f441d3795cc9ac66c52a9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Auskunftspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d15a28d191fd93880a3e2c0c498916f70b5719e702410149140146b79300c527",
+      "sha256": "64b4ce812d2688625aa00d3273b425f453867701b24c2ac26f3a7deb443bbc18",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Erhebungsunterlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d956cf152af0d5fe8f7da055d07bac6ba1b8007cd8dc62f0db054dd946463fe5",
+      "sha256": "5de098363bf9670dee9e18dbed923bbe9609bc191df359db1f37ea1ac5fad015",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Mitwirkungspflicht der Auskunftspflichtigen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c1170061db5e252781e43dc3acb7df5577f83ac1737c7ea9763cdb56a0c6dbd4",
+      "sha256": "fa311cd63c9f50d30ae5d43e3fbc9be56e9868e6ded68c6e8fe6cce82fc6f37e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Pflichten der Inhaber von Verwaltungsdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5467e5a0fa92af97d586da7927503231ac51c755a862850b4560a6e714700985",
+      "sha256": "f181b75b9cac0721198e1dff4566da76d4fbc0214f4a4e17a43b9256fea2f1bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Information über Auskunfts- und Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3d286fbecee071551e89595ead3b5fa4d1aa077db10b5ec0d50d4d8c36043013",
+      "sha256": "126324dcf83135e58d3462f8728ce30028b431d77af4087b64fbdf7cffbea9b0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10a",
+      "source_heading": "Publikation der Ergebnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0010a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb43f9f2fad5a6aedf84a5195f64e799c865bb0420b21611d174341008de8025",
+      "sha256": "6a99f2756f44f7715630ea069ed317f7b02d2070d40aba4d562f79679a663df2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Kostenersatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c4dcf35a127a0c185b233e7dddd14e0f34c7ad6f3331fb9ac8e97eed189b35e",
+      "sha256": "e4abd27f9f7b75780c94620e737732e0a4f00589db0e9db962f51308c3b6d8c1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6b385d4d6c66058967db85a46a60c97d49156416c4389e2d0ef2ab1d4d57b963",
+      "sha256": "56780b0b0e0f0c9e694a3c47799bb2ee35caebee242b699bb93bd958ee44ff50",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 30/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/30"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/259"
+        },
+        {
+          "text": "BGBl. II Nr. 10/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbece90a9d295672436180f83459503603f76a938be45dff1efbf21e73bbb2a1",
+      "sha256": "9cd2b243a52e025c262dd7481b0682e770463bc751a1c8ca2447137f0aad0463",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 49/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/49"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/259"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a7a7fccaee4f5d60aa01fdfaeff364616fdba5d93a21de52c43bab3c7fc2aa17",
+      "sha256": "4d51854740ba8d6e59df478c9a9b8ef99fbdc8bd54267da47cacb8d2d8929d14",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 401/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_401_0/1988_401_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/110"
+        },
+        {
+          "text": "BGBl. Nr. 194/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_194_0/1994_194_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 75/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/75"
+        },
+        {
+          "text": "BGBl. Nr. 663/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_0/1994_663_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 110/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/110"
+        },
+        {
+          "text": "BGBl. II Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/111"
+        },
+        {
+          "text": "BGBl. II Nr. 475/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/475"
+        },
+        {
+          "text": "BGBl. II Nr. 126/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/126"
+        },
+        {
+          "text": "BGBl. II Nr. 166/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/166"
+        },
+        {
+          "text": "BGBl. II Nr. 229/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_229_2/2003_229_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 477/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/477"
+        },
+        {
+          "text": "BGBl. II Nr. 289/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/289"
+        },
+        {
+          "text": "BGBl. II Nr. 213/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/213"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Verwendung der geschlechtsspezifischen Form",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9531899d3a3c5ca78d0285213cecaf9da915a67d11e9ae1addf6385f4256c21d",
+      "sha256": "4e3ca93594524d3dbfa490db4bf6b8e4f263d725703763943ff5f12ce5830522",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

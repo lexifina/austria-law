@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, daß § 32 Abs. 1 des Asylgesetzes 1997, BGBl. I Nr. 76, insoweit verfassungswidrig war, als dies nicht bereits in den den Kundmachungen [BGBl. I Nr. 106/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_106_1/1998_106_1.pdf>) und [BGBl. I Nr. 41/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_41_1/1999_41_1.pdf>) zugrundeliegenden Erkenntnissen ausgesprochen worden war StF: [BGBl. I Nr. 196/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_196_1/1999_196_1.pdf>)
+
+Gemäß Art. 140 Abs. 4, 5 und 7 B-VG und gemäß §§ 64 Abs. 2 und 65 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

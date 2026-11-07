@@ -1,0 +1,1432 @@
+{
+  "sample_only": false,
+  "included_provisions": 35,
+  "source_provision_count": 35,
+  "schema_version": 1,
+  "gesetzesnummer": "10003046",
+  "short_title": "Fortpflanzungsmedizingesetz",
+  "abbreviation": "FMedG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40203413",
+    "valid_from": "2018-05-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003046&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:54.557536+00:00",
+    "response_sha256": "7d5e2ce045f30cb43ccd7d15f4888f647b6110b2570c9990a5f4e1748387f7c0",
+    "snapshot_sha256": "40ab16fdae476ada068042353b2bda5f833609fa65571a59cd21e63058e18be7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03df40500437d9bba284cc1ee3b1a7aea236a6fdd8c35036ca7e3eb358707671",
+      "sha256": "319d967bc454bfc2e0658540ef00a771aaeed03cf414b67f0ec1dfe88f68aab1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz, mit dem Regelungen über die medizinisch unterstützte Fortpflanzung getroffen werden (Fortpflanzungsmedizingesetz – FMedG) StF: BGBl. Nr. 275/1992 (NR: GP XVIII RV 216 AB 490 S. 69. BR: AB 4255 S. 553.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 98/2001 (NR: GP XXI RV 621 AB 704 S. 75. BR: 6398 AB 6424 S. 679.) BGBl. I Nr. 163/2004 (NR: GP XXII RV 678 AB 741 S. 90. BR: AB 7167 S. 717.) BGBl. I Nr. 49/2008 (NR: GP XXIII RV 261 AB 343 S. 40. BR: AB 7823 S. 751.) [CELEX-Nr: 32004L0023, 32006L0017, 32006L0086] BGBl. I Nr. 135/2009 (NR: GP XXIV RV 485 AB 558 S. 49. BR: 8217 AB 8228 S. 780.) BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.) [CELEX-Nr.: 32010L0012] BGBl. I Nr. 4/2014 (VfGH) BGBl. I Nr. 35/2015 (NR: GP XXV RV 445 AB 450 S. 59. BR: 9316 AB 9318 S. 838.) BGBl. I Nr. 37/2018 (NR: GP XXVI RV 108 AB 139 S. 23. BR: 9967 AB 9970 S. 880.) [CELEX-Nr.: 32017L2399, 32017L1572] BGBl. I Nr. 58/2018 (NR: GP XXVI RV 195 AB 221 S. 34. BR: AB 10018 S. 882.) BGBl. I Nr. 61/2025 (VfGH)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 275/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_275_0/1992_275_0.pdf"
+        },
+        {
+          "text": "RV 216",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/216"
+        },
+        {
+          "text": "AB 490",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/490"
+        },
+        {
+          "text": "S. 69.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/69"
+        },
+        {
+          "text": "AB 4255",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4255"
+        },
+        {
+          "text": "S. 553.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/553"
+        },
+        {
+          "text": "BGBl. I Nr. 98/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_98_1/2001_98_1.pdf"
+        },
+        {
+          "text": "RV 621",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/621"
+        },
+        {
+          "text": "AB 704",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/704"
+        },
+        {
+          "text": "S. 75.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/75"
+        },
+        {
+          "text": "6398",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6398"
+        },
+        {
+          "text": "AB 6424",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6424"
+        },
+        {
+          "text": "S. 679.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/679"
+        },
+        {
+          "text": "BGBl. I Nr. 163/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/163"
+        },
+        {
+          "text": "RV 678",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/678"
+        },
+        {
+          "text": "AB 741",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/741"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/90"
+        },
+        {
+          "text": "AB 7167",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7167"
+        },
+        {
+          "text": "S. 717.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/717"
+        },
+        {
+          "text": "BGBl. I Nr. 49/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/49"
+        },
+        {
+          "text": "RV 261",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/261"
+        },
+        {
+          "text": "AB 343",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/343"
+        },
+        {
+          "text": "S. 40.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/40"
+        },
+        {
+          "text": "AB 7823",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7823"
+        },
+        {
+          "text": "S. 751.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/751"
+        },
+        {
+          "text": "32004L0023",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0023:DE:HTML"
+        },
+        {
+          "text": "32006L0017",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0017:DE:HTML"
+        },
+        {
+          "text": "32006L0086",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0086:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 135/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/135"
+        },
+        {
+          "text": "RV 485",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/485"
+        },
+        {
+          "text": "AB 558",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/558"
+        },
+        {
+          "text": "S. 49.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/49"
+        },
+        {
+          "text": "8217",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8217"
+        },
+        {
+          "text": "AB 8228",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8228"
+        },
+        {
+          "text": "S. 780.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/780"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "RV 981",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/981"
+        },
+        {
+          "text": "AB 1026",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/1026"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/90"
+        },
+        {
+          "text": "8437",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8437"
+        },
+        {
+          "text": "AB 8439",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8439"
+        },
+        {
+          "text": "S. 792.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/792"
+        },
+        {
+          "text": "32010L0012",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0012:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 4/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/4"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/35"
+        },
+        {
+          "text": "RV 445",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/445"
+        },
+        {
+          "text": "AB 450",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/450"
+        },
+        {
+          "text": "S. 59.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/59"
+        },
+        {
+          "text": "9316",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9316"
+        },
+        {
+          "text": "AB 9318",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9318"
+        },
+        {
+          "text": "S. 838.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/838"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37"
+        },
+        {
+          "text": "RV 108",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/108"
+        },
+        {
+          "text": "AB 139",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/139"
+        },
+        {
+          "text": "S. 23.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/23"
+        },
+        {
+          "text": "9967",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9967"
+        },
+        {
+          "text": "AB 9970",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9970"
+        },
+        {
+          "text": "S. 880.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/880"
+        },
+        {
+          "text": "32017L2399",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L2399:DE:HTML"
+        },
+        {
+          "text": "32017L1572",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L1572:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/58"
+        },
+        {
+          "text": "RV 195",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/195"
+        },
+        {
+          "text": "AB 221",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/221"
+        },
+        {
+          "text": "S. 34.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/34"
+        },
+        {
+          "text": "AB 10018",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10018"
+        },
+        {
+          "text": "S. 882.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/882"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/61"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Inhaltsverzeichnis Fortpflanzungsmedizingesetz (FMedG) 1. Abschnitt Allgemeines",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Zulässigkeitsvoraussetzungen bei medizinisch unterstützter Fortpflanzung, Präimplantationsdiagnostik und Zellentnahme",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Medizinisch unterstützte Fortpflanzung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Präimplantationsdiagnostik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2b.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zellentnahme und -aufbewahrung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verwendung der entnommenen Zellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Verfahrensvorschriften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§§ 4. und 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Befugnis",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Freiwilligkeit der Mitwirkung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Benachteiligungsverbot",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beratung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zustimmung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Verwendung, Untersuchung und Behandlung von Zellen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§§ 9. und 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Allgemeine Bestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§§ 11. bis 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Besondere Bestimmungen bei der Verwendung von Samen und Eizellen dritter Personen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kommerzialisierungs- und Vermittlungsverbot",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufbewahrung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Dokumentations- und Auskunftspflichten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufzeichnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datenverarbeitung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Auskunft",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Statistik",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§§ 22. bis 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Schluss- und Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "In- und Außerkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweisungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3afa27ed95428738bb70fe1081c1da4ec164a72999c041a01a7460d2c3bf6926",
+      "sha256": "bc78603e93f6ee3be93b63f66feb5cf67e329d761ebe80e08edc76cd26553f9b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "2. Abschnitt Zulässigkeitsvoraussetzungen bei medizinisch unterstützter Fortpflanzung, Präimplantationsdiagnostik und Zellentnahme",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4f5b89522c5cca6d4f7e59406e07e26d18253daee7c2f92f487dac069ab497f",
+      "sha256": "18d1ff50e302140d8d7f1fa4ed735145c251443089e81a9333fffc3397e56487",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2a",
+      "source_heading": "Präimplantationsdiagnostik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "385aecc93709522fcdd4776ae7316321693abffa8d7501424e84ebf6604688e7",
+      "sha256": "a5e5d2ecde8e495ebbbc5f443f050d46d87fd8dbcdd17b2e38b9e5019142d37f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2b",
+      "source_heading": "Zellentnahme und -aufbewahrung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0002b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8b0d81a69ecba1477b2b74dca2cac8325e72be1ffa2c2ca86ad603151048170",
+      "sha256": "3d0b5051c7cdd5058f3149a065cc6698bcdb29242d9e6912a79bff251a5f7917",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Verwendung der entnommenen Zellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "568dc38e47defc085cf6fe35ce0c70f45d378e11b6f4b4ebed1028b763bd982a",
+      "sha256": "6c2370d0931f8a7a18a708c0da8ba0610fa64137f55338d3b76b1df1ae1b1214",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "3. Abschnitt Verfahrensvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bd531d271be6d91914d4bf7f08b9b8c478189667b7c0fff20244986bd9596837",
+      "sha256": "8b9c91297d585ba17247c4ffee01b338ab3165554fab65711441c652b40d7668",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "§ 5.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8723fb3830b7edd37575fd7aa8342417298c549089d797aeff4c8f1461aa4e2",
+      "sha256": "5c064a7d5d0154826ef59b6d9e7a85f2a88b8a967a0b9c6d9ffa423c3abe4068",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Freiwilligkeit der Mitwirkung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4f0ff5212861c3b4c42abfd65eca03ca29408839b3cac1606c718c06cad3b1f",
+      "sha256": "6090a0b28ab206f251ab424c5aa2ac2f3f8aab9a99e5c3aa97a6e62598b34ab8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Beratung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "46e12933f886ecc2003f7dc2a086e88b6361d235ed3dc4b38062ccd436c33699",
+      "sha256": "61423f48fce9af332f71e78a6019a94ecef7b1e90ad0e2a5a78850e49d822d30",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Zustimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c683e6ad9666ed6f40bad26e194ba98469f37c5b5bd61ddda7651b0135dbd752",
+      "sha256": "a2fd1231f3d34243742506ec529cc4858abdcc13c85697c81952e0c35ebb31f5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "4. Abschnitt Verwendung, Untersuchung und Behandlung von Zellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "558f694b46886d5649e4052156f6f47bb3a3bbbf30da0eaae686672fce7d94e3",
+      "sha256": "796383314dada1fd42b0376ccad8d521d533b8c69b69ab4c7a6b6b46df8eeb00",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 26 Abs. 4"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§ 10.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b6449f2288df14252a275d7ba4c8bc01b31633021abf3ef86697754ffea8541",
+      "sha256": "14c6c59a484f849bda399f0a9a47cdfb23bdd4b2477796e60d08b4727800c649",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Besondere Bestimmungen bei der Verwendung von Samen und Eizellen dritter Personen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a4fcd4dc59dabc76bb0f32fda9c041b6e0e989a6654f36fbec6ca77f4759bc98",
+      "sha256": "56998c09a8305864a013516385eedf86c2a1d310855f5ffecf3815631fb1e26d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§ 12.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "139d0df8674e4faaf5d1a2f79a93882c3d29a0b881dca223bf3804b6b836f0dc",
+      "sha256": "259190f3421e7c50e73993359b14000f61ce64abb1fff10d3d927cd93641a4ac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "§ 13.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f0afe81c0986e39d8f76c16663f0e27d3cef9fa62f72e70ebef39f68b0873ae",
+      "sha256": "808f238236c66b6ec3d398dbf2f0a3651a49d1494e9abc05a82a78206e1b4f8a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "§ 14.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c067ef018975eafc5b6c7cc7f56f26d0698bb13ad440b50b5a2a6d65f92295a3",
+      "sha256": "d9758adf0074987d8164fef7cdd3ff6e033b0a508d9ed0f39261b6fffdb70e9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "§ 15.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c296c30e80cf72bbf9748800e5c512dc5cda01837dff860ce0c82e965f6f71b",
+      "sha256": "e24a23924398fb87204b2d63d75780db7ff739cad56dde1277025baa3fb2c58e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Kommerzialisierungs- und Vermittlungsverbot",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e7cd1932bc3fe89c2e328fa5de0147ad242a148880e3417b3eb8b5662235ea1",
+      "sha256": "8654dd394846a4e1c4a974f2fae3741ff620f19049fe37cd5911d70270283cf1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Aufbewahrung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7fbfc2f78499a207787e38f433643d4cb2b40d1967625e0876ad56cf8a6030eb",
+      "sha256": "3f3ae91afecab121728e2856a5d5e0b9487aced9c0c3cbe157a13eab9903135a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "5. Abschnitt Dokumentations- und Auskunftspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4d1fa9bfaf1e3d23fe5239873a5dc53d9ba82169b6c882f04277da1f36cca72c",
+      "sha256": "5b137a00e2467d3fca9295ce8309f9f1fc4fdbd4371d8d0a552b22728b9dfc7b",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 26 Abs. 4"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Datenverarbeitung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78603a44da8718d67d5a6c777be5a3494fc192fe6a5604c3a7593ebd3533b174",
+      "sha256": "2559d797077aeb72b0226ffa79d6dc77bb1972cf7cb9f913546b11c2b813b861",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Auskunft",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "180ed234a49505a98a3cdc03532583da13beca9edb65e67f05ed01e08fc535ff",
+      "sha256": "04c5efdb1d0cc4ba20df0531861703fd5c2c362e4429c8b7ba73a5d958108724",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Statistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7dd7c7847d8c909837fcd74c721dfac20b70bade7cc7dc89296bd298dd501b74",
+      "sha256": "4f64acd0ea42ec156c565da78dc6c98607ca8f3996a34ad45d5d9e6f88d52059",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "6. Abschnitt Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d2a93d248ccde6bc2e33c6646bf0cf739f4a168e55f3d5b14c8cc8381d5f2c8b",
+      "sha256": "db4d837e7751cfcf8f8ee0b4267248dba04a91dc86d1f64be2fe5cd24b61d46e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "§ 23.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "451dccf0b9d337487c72e5246042b317fe689ecbeca7c0646fd9b8bacf6da43c",
+      "sha256": "1d685f650a8362df5a8403227425af42c9dbe1980312715cfc4127947f48c2c8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "§ 24.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "271067bd3240093e3a1f36baaa55d0dff818d532d601b3c1b29b39ac258031b6",
+      "sha256": "5d3a43bf682ad7d52b6cd9f9d7151db8a3bb2dc739f7e52c1cab407a48bd20f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "§ 25.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4482a0ed494ea0eef2e047cf00461b056ad43286433f690b5a6e9cf6bdbcf590",
+      "sha256": "3998fb4e5679a6e21e87b2fd818b948c80216e7443fe878a7dfefa55e83acdc4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "7. Abschnitt Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69602291afd619e0a31803c6a5baf8483641a3ff8b5dcdd31d0daec4f4462cef",
+      "sha256": "62e6b4d0b0f631554370585f0e04adc5aba7d55206bf66ab2984a96b91287f61",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 35/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/35"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/35"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/35"
+        },
+        {
+          "text": "BGBl. I Nr. 35/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/35"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "782194cdff8018d2886d6d08e77295218495c3c06cd1c33c3194cc62836c9583",
+      "sha256": "5c48f4464d801ed74fe01184e3cdb1e2300f979afe4a429012043ff222687587",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 510/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_510_0/1994_510_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 49/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/49"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c9429ed1952e77869a62f45fe4fb5c869baabe22e2b35b31d93ecdad2ff9120",
+      "sha256": "198cf82de5a9677c144d07294489c9c63b76844dc63d15c636320cf36987f1b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 5",
+      "source_heading": "Artikel V",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "art-005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d24e43c9d5f271fb41d894c525ac4d2877d2415216010b10321170e08849a58",
+      "sha256": "1a7a497ba600ce1c96687ea540802c54961a62d2a2055386897a756ecd18029f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 39",
+      "source_heading": "Artikel 39",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "art-039.md",
+      "source_context": "BGBl. I Nr. 111/2010",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0df8770ff7f16636ffec09a560306f3392ac635d906530d9cfb510f08d99d399",
+      "sha256": "221d2ae078f1579d91c27fef8c518864721af0e2116e12f1fdd93e0f43b2cc32",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111"
+        },
+        {
+          "text": "BGBl. Nr. 275/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_275_0/1992_275_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 79",
+      "source_heading": "7. Hauptstück Schluss- und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "art-079.md",
+      "source_context": "BGBl. I Nr. 135/2009",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d6b332f1f9e8d3376e812b052c797bbc2777375b3ec01f77c3ba728c938e1eae",
+      "sha256": "ce07bfcaea91bddf45bd9bd9db73f7945ac515b076ef66497bd6b07d240081d2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 135/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/135"
+        },
+        {
+          "text": "BGBl. Nr. 275/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_275_0/1992_275_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 96",
+      "source_heading": "Artikel 96",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "art-096.md",
+      "source_context": "BGBl. I Nr. 98/2001",
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc2d731ae1792fe13cb383b69b4f441143737074ba9ce8f10f65c01b0daa7ed4",
+      "sha256": "ff68498a06109fec2c07e1bb655ffa74e91aa101543cb9906a4ad49dad2dd86e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 98/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_98_1/2001_98_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 275/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_275_0/1992_275_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

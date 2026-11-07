@@ -1,0 +1,5 @@
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz, mit der ein Kollektivvertrag für das grafische Gewerbe für Arbeiter/innen und für Angestellte zur Satzung erklärt wird StF: [BGBl. II Nr. 85/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/85>)
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz, [BGBl. Nr. 22/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_22_0/1974_22_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. I Nr. 71/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/71>) ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz hat mit Beschluss vom 18. April 2016 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:

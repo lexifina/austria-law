@@ -1,0 +1,3 @@
+Bundesgesetz vom 20. März 1975, mit dem die Beschäftigung von Ausländern geregelt wird (Ausländerbeschäftigungsgesetz – AuslBG) StF: [BGBl. Nr. 218/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf>) (NR: GP XIII [RV 1451](<https://www.parlament.gv.at/gegenstand/XIII/I/1451>) [AB 1510](<https://www.parlament.gv.at/gegenstand/XIII/I/1510>) [S. 140.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/140>) BR: [1325](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1325>) [AB 1327](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1327>) [S. 340.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/340>))
+
+Der Nationalrat hat beschlossen:

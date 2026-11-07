@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die gesonderte Festsetzung der Pauschalvergütung des Bundes für die von Rechtsanwälten in überdurchschnittlich lang dauernden Verfahren erbrachten Leistungen für das Jahr 2005 StF: [BGBl. II Nr. 133/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/133>)
+
+Auf Grund des § 47 Abs. 5 der Rechtsanwaltsordnung, [RGBl. Nr. 96/1868](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=96/1868&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 93/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/93>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Hauptausschuss des Nationalrates verordnet:

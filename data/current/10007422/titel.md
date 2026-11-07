@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend das Inkrafttreten der Note an den Generaldirektor des GATT über Verhandlungen über die Liste XXXII - Österreich betreffend Ungarn StF: [BGBl. Nr. 438/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_438_0/1993_438_0.pdf>)

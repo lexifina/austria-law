@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für Finanzen vom 2. August 1955 über die Grundentschädigung für Anteilsrechte, die mit dem 2. Verstaatlichungsgesetz zugunsten des Bundeslandes Oberösterreich verstaatlicht worden sind (3. Durchführungsverordnung zum Ersten Verstaatlichungs-Entschädigungsgesetz). StF: [BGBl. Nr. 166/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_166_0/1955_166_0.pdf>)
+
+Auf Grund des § 10 Abs. 2 des Ersten Verstaatlichungs-Entschädigungsgesetzes, [BGBl. Nr. 189/1954](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1954_189_0/1954_189_0.pdf>), wird im Einvernehmen mit dem Bundesministerium für Verkehr und verstaatlichte Betriebe und nach Anhörung des entschädigungspflichtigen Bundeslandes Oberösterreich verordnet:

@@ -1,0 +1,5 @@
+## ANLAGE C:
+
+## NÄHERE ANGABEN ZU DATENSCHUTZVORKEHRUNGEN
+
+### \[Bitte ergänzen\]

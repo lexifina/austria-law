@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005987",
+  "short_title": "Verlegung des Amtssitzes der Notarstelle Wien – Neubau I nach Wien – Josefstadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006662",
+    "valid_from": "2008-09-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005987&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:39:03.669860+00:00",
+    "response_sha256": "fe26fb4b2b304a93040b3448327f5b662804fc24bb9f53891405adadc535594b",
+    "snapshot_sha256": "e91db4717f41d24ac171111a43ea4db5fa294628b0dc265f188b9f76b770b85f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "35e026dfe5396883323a08d29ad7a6906f4c0a6bb5cfadb6191705f0a0a25c9c",
+      "sha256": "a132ef72b6c620e91aa15934bd261210859af968c0dcc8d468fef1217b1b7a0b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Verlegung des Amtssitzes der Notarstelle Wien – Neubau I nach Wien – Josefstadt StF: BGBl. II Nr. 319/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 319/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/319"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 68/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/68"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7ae4ea4f4c69e5643f550032bc4fa717db7e51a59af2cef0717528e29b89a4f",
+      "sha256": "69e85667f37f223bdcdf2ac19a9efee6476ddfabd375abee54f212db0b038d55",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

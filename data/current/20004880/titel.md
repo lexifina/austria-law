@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über genehmigungsfreie Bauvorhaben bei Seilbahnen (VgBSeil 2006) StF: [BGBl. II Nr. 287/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/287>)
+
+Aufgrund der §§ 18 Abs. 2 und 20 Seilbahngesetz 2003, [BGBl. I Nr. 103/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_103_1/2003_103_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 59/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/59>), und § 17 Abs. 4 des Bundesgesetzes über die Verkehrs-Arbeitsinspektion, [BGBl. Nr. 650/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_650_0/1994_650_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 83/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/83>), wird verordnet:

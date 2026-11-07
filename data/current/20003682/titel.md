@@ -1,0 +1,5 @@
+Kundmachung des Bundeskanzleramtes im Einvernehmen mit den Bundesministerien für Äußeres und für Handel und Gewerbe, Industrie und Bauten vom 13. Mai 1922, betreffend den Beitritt der Republik Österreich zum Brüsseler Übereinkommen über die Einrichtung einer internationalen Handelsstatistik. StF: [BGBl. Nr. 284/1922](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=284/1922&amp;SkipToDocumentPage=True>)
+
+(1) Die Republik Österreich ist im Sinne des Artikels 240 des Staatsvertrages von Saint-Germain dem in der Anlage abgedruckten Brüsseler Übereinkommen vom 31. Dezember 1913, betreffend die Einrichtung einer internationalen Handelsstatistik, am 3. Jänner 1922 beigetreten. Der Beitritt wird gemäß Artikel VII des Übereinkommens mit 1. Jänner 1923 wirksam.
+
+(2) Die derzeitigen übrigen Vertragsmächte sind: Australien, Belgien, Dänemark, das Deutsche Reich, Frankreich, Großbritannien, Guatemala, Japan, Mexiko, Niederländisch-Indien, Norwegen, Portugal, Schweden, die Schweizerische Eidgenossenschaft, Siam, Spanien, Uruguay.

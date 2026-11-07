@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000197",
+  "short_title": "Übereinkommen der Haager Friedenskonferenzen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000198",
+    "valid_from": "1937-11-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000197&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:23:55.580900+00:00",
+    "response_sha256": "e974365c68442508a776aea0487216cbafe00a94a11978763442bc59e45ac48d",
+    "snapshot_sha256": "8616cb7d4c6bfc66eb3122f34c2ec0b846dadd476f056135df29f75bc6e0468b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1ab54aab30de49970f7edeccbcdd608ccfdb79ceb637511d4c009ded1c32efc8",
+      "sha256": "a1cafd94e1076305d550057a1285e76454d6679e5c4e0a203b3f4a2b7d239708",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes über den Beitritt Österreichs zu den auf den Haager Friedenskonferenzen der Jahre 1899 und 1907 unterzeichneten Übereinkommen und Erklärungen. StF: BGBl. Nr. 381/1937"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 381/1937",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=381/1937&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "272ea6d049bb3739cfbd2f3fc4d7009aacf9356fcac677fb443fb487b66b5c2b",
+      "sha256": "3a94fe90776f5855b20949448271e5a245e1d518e7f6a2c9f4b9445d1adf27bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

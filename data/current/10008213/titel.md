@@ -1,0 +1,3 @@
+Bundesgesetz über das Dienst- und Besoldungsrecht der Vertragslehrpersonen der Länder für Volksschulen, Mittelschulen, Sonderschulen und Polytechnische Schulen sowie für Berufsschulen mit Ausnahme der land- und forstwirtschaftlichen Berufsschulen (Landesvertragslehrpersonengesetz 1966 – LVG) StF: [BGBl. Nr. 172/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_172_0/1966_172_0.pdf>) (NR: GP XI [RV 98](<https://www.parlament.gv.at/gegenstand/XI/I/98>) [AB 173](<https://www.parlament.gv.at/gegenstand/XI/I/173>) [S. 23.](<https://www.parlament.gv.at/gegenstand/XI/NRSITZ/23>) BR: [S. 243.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/243>))
+
+Der Nationalrat hat beschlossen:

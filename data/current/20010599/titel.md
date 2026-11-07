@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung, mit der die Geschäftsordnung der Begutachtungskommission für leitende Funktionen im Schuldienst erlassen wird StF: [BGBl. II Nr. 72/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/72>)
+
+Auf Grund des § 207f Abs. 16 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), und des § 26a Abs. 14 des Landeslehrer-Dienstrechtsgesetzes – LDG 1984, [BGBl. Nr. 302/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_302_0/1984_302_0.pdf>), jeweils in der Fassung [BGBl. I Nr. 102/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/102>), wird verordnet:

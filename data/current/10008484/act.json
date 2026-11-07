@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008484",
+  "short_title": "Geldstrafen- und Geldbußenverordnung des BMAA",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008635",
+    "valid_from": "1980-03-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008484&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:20:47.918428+00:00",
+    "response_sha256": "87fcb72a1f52599951ab342bc9b23d478aa249be1edf890077f8db779e160d45",
+    "snapshot_sha256": "e540abc67cf0d82b60b43b1542292d55461ecadc4fb5c3bf29b0a03222c71377",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89d4566a3015afe196b572b68651ea487dc5773f322d89a96b3e5002b226cb73",
+      "sha256": "24f7df0e650f289df7eedc8bdd0a378298f1a8f833c06918a9e09705ae497231",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Auswärtige Angelegenheiten vom 25. Feber 1980 über die Verwendung der in Disziplinarverfahren verhängten Geldstrafen und Geldbußen StF: BGBl. Nr. 100/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 100/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_100_0/1980_100_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "54b361b107d4f9fde2da764f15a01b517a5b1e6a89fdb8d4f941ca24821b675a",
+      "sha256": "ce3c079c2fb867ed520d6ab2aa42aa2e2c68639ef48c6239f47c305d2e68ef04",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

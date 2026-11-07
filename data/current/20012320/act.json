@@ -1,0 +1,603 @@
+{
+  "sample_only": false,
+  "included_provisions": 20,
+  "source_provision_count": 20,
+  "schema_version": 1,
+  "gesetzesnummer": "20012320",
+  "short_title": "eEltern-Kind-Pass-Gesetz",
+  "abbreviation": "EKPG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40254568",
+    "valid_from": "2023-06-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012320&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:32:23.708471+00:00",
+    "response_sha256": "ffb86e328005d039d287018641198ea256110bf9e606f6f3d08a75d2a887db6d",
+    "snapshot_sha256": "57acf959ed283fa5b4759c924c0c88639b3d391051993375c10c391a781c57f5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "68083ae47546a37dbfd8f6d0009d280f90f8fcd544cdb9d55be6db45ff4e08bc",
+      "sha256": "21da87959eddb9aa904f3e367186e154bbbf0d743158142d6db42cd63be60c67",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz, mit dem nähere Regelungen zu einem Elektronischen Eltern-Kind-Pass getroffen werden (eEltern-Kind-Pass-Gesetz – EKPG) StF: BGBl. I Nr. 82/2023 (NR: GP XXVII IA 3463/A S 224. BR: AB 11287 S. 956.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 115/2025 (NR: GP XXVIII RV 305 AB 340 S. 57. BR: AB 11755 S. 985.) BGBl. I Nr. 62/2026 (NR: GP XXVIII RV 523 AB 561 S. 89. BR: 11838 AB 11839 S. 994.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 82/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/82"
+        },
+        {
+          "text": "IA 3463/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3463"
+        },
+        {
+          "text": "S 224.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/224"
+        },
+        {
+          "text": "AB 11287",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11287"
+        },
+        {
+          "text": "S. 956.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/956"
+        },
+        {
+          "text": "BGBl. I Nr. 115/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/115"
+        },
+        {
+          "text": "RV 305",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/305"
+        },
+        {
+          "text": "AB 340",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/340"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/57"
+        },
+        {
+          "text": "AB 11755",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11755"
+        },
+        {
+          "text": "S. 985.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/985"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/62"
+        },
+        {
+          "text": "RV 523",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/523"
+        },
+        {
+          "text": "AB 561",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/561"
+        },
+        {
+          "text": "S. 89.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/89"
+        },
+        {
+          "text": "11838",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11838"
+        },
+        {
+          "text": "AB 11839",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11839"
+        },
+        {
+          "text": "S. 994.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3cf097e03117f858f3d45547b8d783626f4fdc74311a656bea3755d99ffe4ccb",
+      "sha256": "89017918eb67dfe4e05a9d96c17ca1e31ae063abf99bcff2f416f28bc0978616",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "2. Abschnitt Eltern-Kind-Pass-Untersuchungsprogramm",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e57186339ed83fe7c6d8ddd5eaa7e5af51c0ac466b22fe1c7e2660e96489c03",
+      "sha256": "15aa41365ad6ec13590cc3682d0b4c0f2616de2609aa1b591e21d3534d6d01d0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 310/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_310_0/1994_310_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 115/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/115"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "3. Abschnitt Eltern-Kind-Pass-Verfahren",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "50ac488715c5235cd2f19ba9d0a2b452d02ab1379b47b806e0f4ec9a81b5ae6c",
+      "sha256": "f378730fd904d9caaf8cf138f7a5d667837c7ccf6502a80ad5fa7a85d7f2f5a5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1956",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1956_189_0/1956_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "BGBl. Nr. 200/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_200_0/1967_200_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 103/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_103_1/2001_103_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "4. Abschnitt Elektronischer Eltern-Kind-Pass (eEKP)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb8cee44428903e25a2868c550013891e9fb99c43b1b4a66306f40a98cb49483",
+      "sha256": "abd377e8276617c67ee224d13944b1681f6887ae389d308c6e7bebbc39fd4f03",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/111"
+        },
+        {
+          "text": "BGBl. Nr. 9/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_9_0/1992_9_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Grundsätze der Datenverarbeitung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f10b8cb9a2f8f1bdf8ce8dec60b4441364a538ed61aefcc06a76654269e1e8fc",
+      "sha256": "ccf028d8ae9d2f6b568d4061fed2566289dc7217eaed8d07baf0cda69cdd1f27",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 221/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_221_0/1979_221_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 577/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_577_0/1980_577_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Zurverfügungstellung von Daten aus dem eEKP",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b4686c57d6ef2394b10f3f4239cc00d3b7f23b7b00a2af48d701c958418397b",
+      "sha256": "e1206d3ee2ffacf2ed8ec777a719192a2683acb111c84ece254b3d1e80858ac1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Auswertungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c7bab193cdb27b167b5f37d2f86cfc1e212b259413352759909e5681b5cc5346",
+      "sha256": "f75f397e4cb9dcfe69be2da2176f630bf50c59a79d8cefcccd521fa341b134b7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Rechte der Schwangeren und der Obsorgeberechtigten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a29b236c47cea56e23af574fd96e2813f93363a98184a455625f89eb35f919e8",
+      "sha256": "fe1dabc6d34a32dae2b224dab99eeaa0df320b026465ed4ce6518c0f8ece8649",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Rechte des Kindes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4954bf1291bdd0abac0f6d9f689d45df4088606194060458be021fc564df004e",
+      "sha256": "34931b9821df497808fa3b7c8f118e3d769992e7974c799000c221b3d14a64f3",
+      "notes": [],
+      "links": [
+        {
+          "text": "JGS Nr. 946/1811",
+          "url": "https://alex.onb.ac.at/cgi-content/alex?aid=jgs&datum=10120003&seite=00000275"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Grundsatz der Nicht-Diskriminierung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cbe32a5b34c11c0a154721592e6c4b688b162feadd90c9302660fc883ce51286",
+      "sha256": "f93d60814cc9d5d03b7dea5d2f0baed0fc6f6727b90cdd9f1255995d0263c8e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "5. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a90f7b1adadc9a369ad4c18c60eefcfec9f0000a3dfd297b609b4ddd8369b6e9",
+      "sha256": "ada5d75d347121655a6bb78a48ce6d5897d6c3ed23efbe93f9f37b0887611bfb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "710a909102fa626467a3199dd84911c4553fa48ac4706a040721caea415be093",
+      "sha256": "55317d2d128afe9823c5b5b972ebc21f6002c9db9be10efb1a191cad2b034d51",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 82/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/82"
+        },
+        {
+          "text": "BGBl. I Nr. 115/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/115"
+        },
+        {
+          "text": "BGBl. I Nr. 62/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/62"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a5ea7d61c23b3e2ba96ca62e31c1e6651b5c5f41c195d8a39b0b8081f81cc140",
+      "sha256": "49e4c76ae5ad39f0c70f79b21004bd00e6c8c4df2feace5b8146f99595240927",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Erlassung und Inkrafttreten von Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "445102a754691da1577b48966ef21bae15f99795c7ae50db21557ca9a1e0e40c",
+      "sha256": "8b73da2eba92b82a3f237ed0137558a8d04c00e893f465afecf8acf192ac9621",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7d425a3bb171c0045e22605c0862814c3d917569bd86660a248b6f4268d5531",
+      "sha256": "ddbf984916c72daa2a5b6000b26c134a309458bdb87c476ba21c332b3a76a4d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c8624ac9be20d5c9115bdc14046c1e6ac07d4397156236843561351478baccce",
+      "sha256": "3e2cd1a248dca420ee1e5ae5c046c1acc42c5282ff977ce7483ffad5e64191cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e11f8752cd460805599f546099c61c655474c0c42f675d39840021b5bc0e1f58",
+      "sha256": "1c53b9a530014f5dac9deb1032e46554281d047c16e26d539f772b169fdef1d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "832e015d761d94a0339d80efd6390d9a13c6be0a175639d1dc58f975d16a7b4d",
+      "sha256": "f357fe9911226d263acac05d356a4abc256a0e4e6c2190d957d63d183bbed28b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80ababb1c278a1a84c3a2cb81ddc75d42cc26c0a29a4bda31d7acd5324f8a4c5",
+      "sha256": "53adf39220051196372eb6137e109b571577c1f519c341a16959391c6a24de97",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

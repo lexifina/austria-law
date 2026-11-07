@@ -1,0 +1,123 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20004713",
+  "short_title": "Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden  Wartberg, Unterweitersdorf, Hagenberg im Mühlkreis, Neumarkt,  Kefermarkt, Freistadt, Lasberg, Grünbach, Rainbach und Leopoldschlag",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005143",
+    "valid_from": "2006-04-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004713&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:18:46.608822+00:00",
+    "response_sha256": "3c86840369914d4af4feffdc497735d916856a4b9e3b3c144f4334e0de8ca646",
+    "snapshot_sha256": "fe0d8ec078d1e5f788b78e1db43e4bbd6b98a3ba1abe968e6977660a0208bfc6",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a99c02065bd1374137796e3035519f1dfb2d8eadfdb0304d865d721b6a2c0049",
+      "sha256": "1b4a78750af8a1e72b524d6b562e26689dceca225f7f2f3b8f0db063cd5cad59",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Wartberg, Unterweitersdorf, Hagenberg im Mühlkreis, Neumarkt, Kefermarkt, Freistadt, Lasberg, Grünbach, Rainbach und Leopoldschlag StF: BGBl. II Nr. 172/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 172/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/172"
+        },
+        {
+          "text": "BGBl. I Nr. 154/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/154"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0b0dd06499e25e90cc7107f91812f67ed9dc402fd6a0e4ed164c17c12b18a018",
+      "sha256": "03751e7e89915e72245d887ceae7f26b0d801241b46d5b341095e39e36b849f9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "89d9fcd9b6a11fe50baa235e18aac9e68e44057aa7d89f006b01153347509385",
+      "sha256": "86dc1b659ec742765fb99051f6c55673bf8f2a88780ac0960f9328802edbbb04",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40077226/ii_172_2006_Anlage.pdf",
+              "title": "PDF-Dokument: Anlage",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40077226/ii_172_2006_Anlage.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

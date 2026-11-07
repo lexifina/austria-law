@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010387",
+  "short_title": "Auflassung der Notarstelle Althofen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209381",
+    "valid_from": "1962-05-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010387&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:33.317700+00:00",
+    "response_sha256": "1f76b85a0cef4a478f721edf4cb600d41cc118ff0903244e8a6cb49069222765",
+    "snapshot_sha256": "e3dd3cbbafe30fa8a70a7bad114fb8603f0c65d858d442b1297f34e2c289a7f8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0d4d25bc029890c800a8c9a25d9043fa6e1b6a3cf3313e8203e663084871e0f",
+      "sha256": "539b929975e4582c8592228bee2e138af7b93bda6e6bcf9c2bd1bd3d42e63103",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Justiz vom 9. Mai 1962, betreffend Auflassung der Notarstelle Althofen. StF: BGBl. Nr. 134/1962"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 134/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_134_0/1962_134_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "29854323eb41dec0e59697c8977be02ee6642e26035e054446dfbdbb44f9b0eb",
+      "sha256": "b069e5ec5625bbc3a7a6ffeeb7c398d1446167f3ccb219f5dfb0e654280bab63",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

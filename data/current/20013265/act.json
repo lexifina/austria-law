@@ -1,0 +1,110 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20013265",
+  "short_title": "Section Control-Messstreckenverordnung A 14 Pfändertunnel",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40280406",
+    "valid_from": "2026-08-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013265&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:56:36.152292+00:00",
+    "response_sha256": "84f98b2e3000e6c5599803a8da6578428bc155014b1fcaab14533a010933f31f",
+    "snapshot_sha256": "3e7e97a6573c29d9f8b41c51dfa269f23e360a6db3425d392eeeb37480ea4727",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec27b25690bfa065580925a040c2d309e58fa55b8a6c830f2e448f02aede81a1",
+      "sha256": "8b33a5822db2070e2e099922adb0db5637a26849fb955eff2c0ebbd510df6646",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über eine abschnittsbezogene Geschwindigkeitsüberwachung auf der A 14 Rheintal Autobahn im Bereich des Pfändertunnels (Section Control-Messstreckenverordnung A 14 Pfändertunnel) StF: BGBl. II Nr. 233/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 233/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/233"
+        },
+        {
+          "text": "BGBl. Nr. 159/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 17/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/17"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d14ad2b318d922b1cafbfcd72b47c47404fd3f77645bc9d332eadcf017c0c981",
+      "sha256": "a5859a5b25e8c6cd718b7399f633eaa3e93c05a2c7758dfe1b86025e6b1eae91",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d027ee48b9be2004d497ca87078dcedc2b3974f12e8d40fbe6ce0c557088d27c",
+      "sha256": "bef069bcd6a915583ac0d295510b50a37385ad57c877521e826060ce606d5ef5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

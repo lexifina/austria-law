@@ -1,0 +1,753 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "10010987",
+  "short_title": "Rebenverkehrsverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011212",
+    "valid_from": "1996-09-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010987&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:47:03.504759+00:00",
+    "response_sha256": "af036a4109e69fd85ffba1147d55b0d274361b282def914d153d210017f36fd4",
+    "snapshot_sha256": "7c5de86079ed278c2e0a0164594b3cc06dd5aea95af6fa17d40ecf40d5ea473d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82523ec39fe7171b3def5fb24a1941cf4f1e474e6625a867c500956df3c629e6",
+      "sha256": "e504fcf1b9c55cc6db3762f6fd45136b62d05fe2f61ac8c2b75288f1ebe981dc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft über Vermehrungsgut von Reben (Rebenverkehrsverordnung) StF: BGBl. Nr. 466/1996 [CELEX-Nr.: 368L0193 und 372L0169]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 706/1996 BGBl. II Nr. 29/1997 BGBl. II Nr. 238/2001 BGBl. II Nr. 27/2002 BGBl. II Nr. 380/2002 BGBl. II Nr. 291/2006 BGBl. II Nr. 347/2020 [CELEX-Nr.: 32020L0177]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 466/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_466_0/1996_466_0.pdf"
+        },
+        {
+          "text": "368L0193",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31968L0193:DE:HTML"
+        },
+        {
+          "text": "372L0169",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972L0169:DE:HTML"
+        },
+        {
+          "text": "BGBl. Nr. 706/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_706_0/1996_706_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 29/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_29_2/1997_29_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 238/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_238_2/2001_238_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 27/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_27_2/2002_27_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 380/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_380_2/2002_380_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 291/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/291"
+        },
+        {
+          "text": "BGBl. II Nr. 347/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/347"
+        },
+        {
+          "text": "32020L0177",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32020L0177:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Prüfungen bei der Zulassung von Rebsorten und deren Klone",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6f90d03f8b79891bf54b1d3f5ad7556b86029f5b499adee90c4f55dc1b09d7f7",
+      "sha256": "60b5c5ef4f460a342b9a9fbde15503bae363603544f097f3d0cab7ad863b4029",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Grundsätze für die Durchführung der Anerkennung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5c8a85e9909d60a38b218803f3403dc234259995961558ce73c48706c49ed67c",
+      "sha256": "f2fcf35a7c854b55bf928c95fcfdd0472d7a3c5388275cb6d67d6c4506939ce3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Voraussetzungen hinsichtlich des Bestandes und des Vermehrungsguts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "747a085f5bc41c7bb62755c19ff51d57c8933eb638c3a985e901743d9a57759a",
+      "sha256": "2e7fcfc87749ac656ef86fb89d958c46e0e2956f60c66a1872bb96c8f71e6460",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Aufbereitung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2f26f17999875c61faf9e8b6f003a418487c6af0500ef9fab494975e6a1bae2",
+      "sha256": "85d8e15242260b7ab9861785ecf6ef296dc9c93c78fd871711da5d394d91d161",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Etikett",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c90c3092e1ec47b471333fb6d9f87d1d2e696f2f07e76ba9ca79715e9c358181",
+      "sha256": "b16083574c5e8ef455f025cf658dd36473e38f4359fb4742390ea00a2eadd6f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Gebühren und Beitrag zur Förderung der Pflanzengesundheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc7a01bfabf20264b55420f02793fa7ac41d5c416f4144abf8e00231e3d839a0",
+      "sha256": "521f44053ae84bbe8d98184a7ccd513d1a67a5041f5d53d96156a30b9e8b668e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§ 7.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a1258a0366a9590230f4e641d68686f0ef5c3d400350ad40ebc2ec70f83d4e9",
+      "sha256": "41c83dc843d9de646c1472453b18034847a97dfcbf74c4ea600096897f9106b8",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 706/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_706_0/1996_706_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 29/1997",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_29_2/1997_29_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 27/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_27_2/2002_27_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 347/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/347"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2b4d3dd4107f4d7e34a380191b2314db36fd3db18ad3bdb81b932031661769e",
+      "sha256": "8e913db1db91a0b26c5e21ec8785a3536d053578cc3d4b421142b4a12e522cd9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae9d8222ba1b5edde0137f11c2481764ca9f230dc596755d621ed5f44975884c",
+      "sha256": "f0cf28d989f78614a9a2494571f26d315c8ec17665d57765abed5cba62708419",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage 3",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa3e0d2d669a55d2254aca3a2b4ce06db0fbb1415b7c91d1773a5ad7a4759cbe",
+      "sha256": "a13bd63f6c774ff48101854f2989297a5c3b5ac00c4e6ccf231c247de956ef2c",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 3",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40036196/II_380_2002_Anlage_3.pdf",
+              "title": "PDF-Dokument: Anlage 3",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40036196/II_380_2002_Anlage_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage 4",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "24667216dda7c23ec7d651c31cfbaf14ad6a263ba7a1cf94eb406735ae9b8638",
+      "sha256": "9d12e6b228c4a6eb6548305afef9acb71409e7e04dd09d733b000963fc9c249e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Gattung oder Art des Rebenvermehrungsguts, außer Saatgut",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "RNQPs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Insekten und Milben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nicht veredelte Vitis vinifera L.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Viteus vitifoliae Fitch [VITEVI]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Insekten und Milben",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vitis L., außer nicht veredelte Vitis vinifera L.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Viteus vitifoliae Fitch [VITEVI]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bakterien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vitis L.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Xylophilus ampelinus Willems et al. [XANTAM]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Viren, Viroide, virusähnliche Krankheiten und Phytoplasmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vitis L.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Candidatus Phytoplasma solani Quaglino et al. [PHYPSO]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Gattung oder Art",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "RNQPs",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Viren, Viroide, virusähnliche Krankheiten und Phytoplasmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vitis L., Vermehrungsgut, außer Saatgut",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Arabis mosaic virus [ARMV00] Grapevine fanleaf virus [GFLV00] Grapevine leafroll associated virus 1 [GLRAV1] Grapevine leafroll associated virus 3 [GLRAV3]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Viren, Viroide, virusähnliche Krankheiten und Phytoplasmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Unterlagen von Vitis spp. und ihren Hybriden, außer Vitis vinifera L.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Arabis mosaic virus [ARMV00] Grapevine fanleaf virus [GFLV00] Grapevine leafroll associated virus 1 [GLRAV1] Grapevine leafroll associated virus 3 [GLRAV3] Grapevine fleck virus [GFKV00]",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 5",
+      "source_heading": "Anlage 5",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "anl-5.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "178c3c946db03cc82ddff9d24385963d41f4e63d9fb5ac81eaea3aad51f1278f",
+      "sha256": "a6e2eb4737038b0d79779fb880049b7493f06f054a4c5fc5f0088bfeb447e6e8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 6",
+      "source_heading": "Anlage 6",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "anl-6.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d8c80a95a0b088af4afdc8882a99e62bef92e3b95a3d7b3f170668c03b86f04e",
+      "sha256": "13647b456b2df4fe58e7d759e003ffe3d313144841fa98ef20d611ff63f8b344",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Art",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stückzahl",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Höchstmenge",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1. Veredlungen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "25, 50 100 oder ein Vielfaches von 100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "500",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Wurzelreben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50, 100 oder ein Vielfaches von 100",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "500",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Edelreiser",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "– bei fünf verwendbaren Augen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100 oder 200",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "200",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "– bei einem verwendbaren Auge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "500 oder ein Vielfaches davon",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.000",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Schnittreben",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100 oder ein Vielfaches davon",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.000",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Stecklinge",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "100 oder ein Vielfaches davon",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "500",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 7",
+      "source_heading": "Anlage 7",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "anl-7.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "034a44175b238c2b75c60c8383429afbd382d41d24e8fff4001156a07d9617d5",
+      "sha256": "c10f2a82f33d2e6de69c1a76448451140b17ee6984dba7f715d4c9fc049492b7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000923",
+  "short_title": "VfGH-Aufhebung - Verordnung der Marktgemeinde Übelbach",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000926",
+    "valid_from": "1987-10-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000923&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:38:07.002846+00:00",
+    "response_sha256": "242f428a6b14d322caf2639e4844768cd755b784ab95900c828ecac1f86e7d42",
+    "snapshot_sha256": "9eb0f57c0dbc4e2eccaffbfce61e387cb8fc3c176b89bf49a85cde63f116c5bb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6ee6646432f1a28ac2ecb8b91f877723127a6c6eda7e448cd964f0041a24ea7",
+      "sha256": "667a59985a47df5c868a0832d88b31a3d4117f8dca86bfa9f5491701d7caa708",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 17. September 1987 über die Aufhebung der Verordnung des Gemeinderates der Marktgemeinde Übelbach, mit welcher die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 484/1987 (VfGH)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 484/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_484_0/1987_484_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "adb2f49fde2b2b61aa2a203cecb19114455750db0b7df2e0ea65dee6621a0c5d",
+      "sha256": "9936dfce4155c736c8ea6aef8c2f501c96ec1171335a38769ddd7a5a5736e640",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

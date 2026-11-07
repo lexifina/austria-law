@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000371",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000372",
+    "valid_from": "1962-12-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000371&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:28:26.851936+00:00",
+    "response_sha256": "a1a29d6b0e1936275f18e6aedb12992cb88b6b9a5d031c06a791734b6c1f84e8",
+    "snapshot_sha256": "625a05637475a96508518ce2ade766bf5face1d227a26edae43b316e0f85b4e4",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c512b8a35c6ca4425a7d7147b9c99619b7cdb0b22c60b1155d9601fbeeb801bf",
+      "sha256": "d7970bd06aa565a390d353d9c42ea6d4444a3da34ddc27b5a2bda52d9b70affc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 29. November 1962, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit auf dem Gebiete des Ersatzes für Schäden aus atomaren Ereignissen und der Sicherung der Ersatzleistung. StF: BGBl. Nr. 315/1962"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 315/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_315_0/1962_315_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5bef78f08c992e4015aff79e7d21f17131ddc89737c715e0a7372c46cd36cc23",
+      "sha256": "249d96fc84264629d1e18ee4def930be0705af9fc848ed162193d4dfb0101523",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

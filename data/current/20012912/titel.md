@@ -1,0 +1,3 @@
+Bundesgesetz über die Aufhebung der bundesgesetzlichen Zweckbindung betreffend Erträgnisse aus dem Bundesanteil am Kunstförderungsbeitrag StF: [BGBl. I Nr. 25/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25>) (NR: GP XXVIII [RV 69](<https://www.parlament.gv.at/gegenstand/XXVIII/I/69>) und [Zu 69](<https://www.parlament.gv.at/gegenstand/XXVIII/I/69>) [AB 100](<https://www.parlament.gv.at/gegenstand/XXVIII/I/100>) [S. 30.](<https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/30>) BR: [11643](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11643>) [AB 11645](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11645>) [S. 979.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979>))
+
+Der Nationalrat hat beschlossen:

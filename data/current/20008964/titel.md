@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz über die gesonderte Festsetzung der Pauschalvergütung des Bundes für die von Rechtsanwälten und Rechtsanwältinnen in überdurchschnittlich lang dauernden Verfahren erbrachten Leistungen für das Jahr 2011 StF: [BGBl. II Nr. 262/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/262>)
+
+Auf Grund des § 47 Abs. 5 Rechtsanwaltsordnung, [RGBl. Nr. 96/1868](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=96/1868&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 40/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/40>), wird im Einvernehmen mit dem Bundesminister für Finanzen und dem Hauptausschuss des Nationalrates verordnet:

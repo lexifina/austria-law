@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend den Widerruf der Vereinbarung zwischen dem Verkehrsminister des Königreiches Belgien und dem Bundesminister für Verkehr der Republik Österreich gemäß Randnummer 10 602 des ADR betreffend den Ersatz der inneren Absperrvorrichtung bei Tanks mit einer Innenauskleidung aus Ebonit oder thermoplastischem Harz durch eine äußere Absperrvorrichtung StF: [BGBl. Nr. 489/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_489_0/1991_489_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

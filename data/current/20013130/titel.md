@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Meldestichtage, Meldeintervalle, Gliederung und Inhalte von Meldungen gemäß der Verordnung (EU) 2023/1114 über Märkte für Kryptowerte betreffend Anbieter von Kryptowerte-Dienstleistungen (MiCAR Crypto-Asset Service Provider Meldeverordnung – MiCAR-CASP-MV) StF: [BGBl. II Nr. 71/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/71>)
+
+Auf Grund des § 10 Abs. 4 des MiCA-Verordnung-Vollzugsgesetzes – MiCA-VVG, [BGBl. I Nr. 111/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/111>), wird mit Zustimmung des Bundesministers für Finanzen verordnet:

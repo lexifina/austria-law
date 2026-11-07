@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen über nicht klimaschädliche Infrastrukturprojekte für Zwecke der Zinsschranke (Nicht klimaschädliche Infrastrukturprojekte-VO) StF: [BGBl. II Nr. 319/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/319>) \[CELEX-Nr.: [32016L1164](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L1164:DE:HTML>)\]
+
+Aufgrund des § 12a Abs. 9 des Körperschaftsteuergesetzes 1988 – KStG 1988, [BGBl. Nr. 401/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_401_0/1988_401_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 110/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/110>), wird im Einvernehmen mit der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:

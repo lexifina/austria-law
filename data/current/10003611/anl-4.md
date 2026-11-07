@@ -1,0 +1,16 @@
+Gemäß dem Generalsekretariat des Rates der Europäischen Union sind die amtlichen Fassungen der kodifizierten Rechtsakte in den nachstehend angeführten Amtsblättern enthalten:
+
+| Sprachfassung des Amtsblatts | Übereinkommen von 1980 | Beitrittsübereinkommen von 1984 | Protokoll I von 1988 | Protokoll II von 1988 | Beitrittsübereinkommen von 1992 | Beitrittsübereinkommen von 1996 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Deutsch | [L 266, Seite 1 9.10.1980](<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv:OJ.L_.1980.266.01.0001.01.DEU&amp;toc=OJ:L:1980:266:TOC>) | L 146, Seite 1 31.5.1984 | [L 48, Seite 1 20.2.1989](<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv:OJ.L_.1989.048.01.0001.01.DEU&amp;toc=OJ:L:1989:048:TOC>) | [L 48, Seite 17 20.2.1989](<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv:OJ.L_.1989.048.01.0017.01.DEU&amp;toc=OJ:L:1989:048:TOC>) | [L 333, Seite 1 18.11.1992](<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv:OJ.L_.1992.333.01.0001.01.DEU&amp;toc=OJ:L:1992:333:TOC>) | [C 15, Seite 10 15.1.1997](<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv:OJ.C_.1997.015.01.0010.01.DEU&amp;toc=OJ:C:1997:015:TOC>) |
+| Englisch | L 266, Seite 1 9.10.1980 | L 146, Seite 1 31.5.1984 | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Dänisch | L 266, Seite 1 9.10.1980 | L 146, Seite 1 31.5.1984 | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Französisch | L 266, Seite 1 9.10.1980 | L 146, Seite 1 31.5.1984 | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Griechisch | L 146, Seite 7 31.5.1984 | L 146, Seite 1 31.5.1984 | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Irisch | Sonderausgabe (L 266) | Sonderausgabe (L 146) | Sonderausgabe (L 48) | Sonderausgabe (L 48) | Sonderausgabe (L 333) | Sonderausgabe (C 15) |
+| Italienisch | L 266, Seite 1 9.10.1980 | L 146, Seite 1 31.5.1984 | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Niederländisch | L 266, Seite 1 9.10.1980 | L 146, Seite 1 31.5.1984 | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Spanisch | Sonderausgabe Kapitel 1, Band 3, Seite 36 (vgl. auch ABl. L 333, Seite 17) | Sonderausgabe Kapitel 1, Band 4, Seite 36 (vgl. auch ABl. L 333, Seite 72) | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Portugiesisch | Sonderausgabe Kapitel 1, Band 3, Seite 36 (vgl. auch ABl. L 333, Seite 7) | Sonderausgabe Kapitel 1, Band 4, Seite 72 (vgl. auch ABl. L 333, Seite 7) | L 48, Seite 1 20.2.1989 | L 48, Seite 17 20.2.1989 | L 333, Seite 1 18.11.1992 | C 15, Seite 10 15.1.1997 |
+| Finnisch | C 15, Seite 70 15.1.1997 | C 15, Seite 66 15.1.1997 | C 15, Seite 60 15.1.1997 | C 15, Seite 64 15.1.1997 | C 15, Seite 68 15.1.1997 | C 15, Seite 53 15.1.1997 |
+| Schwedisch | C 15, Seite 70 15.1.1997 | C 15, Seite 66 15.1.1997 | C 15, Seite 60 15.1.1997 | C 15, Seite 64 15.1.1997 | C 15, Seite 68 15.1.1997 | C 15, Seite 53 15.1.1997 |

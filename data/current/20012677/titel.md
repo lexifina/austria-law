@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung 2024 im Bereich der Tunnelkette Inzersdorf – Schön im Zuge der A 9 Pyhrn Autobahn (Section Control-Messstreckenverordnung A 9 Tunnelkette Inzersdorf – Schön 2024) StF: [BGBl. II Nr. 239/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/239>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_159_0/1969_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 52/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/52>), wird verordnet:

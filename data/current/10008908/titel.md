@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Arbeit und Soziales betreffend das Inkrafttreten der Vereinbarung zwischen der Regierung der Republik Österreich und der Regierung von Quebec im Bereich der Sozialen Sicherheit StF: [BGBl. Nr. 464/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_464_0/1994_464_0.pdf>)

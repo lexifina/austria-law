@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Finanzen betreffend die Aufhebung eines Erlasses durch den Verfassungsgerichtshof StF: [BGBl. Nr. 954/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_954_0/1994_954_0.pdf>)

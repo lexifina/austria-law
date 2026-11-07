@@ -1,0 +1,23 @@
+## Artikel 10a
+
+## Schutz des Zivilflugwesens
+
+- 1\. Die Vertragsparteien im Einklang mit ihren Rechten und Verpflichtungen bekräftigen ihre Verpflichtung, in ihren gegenseitigen Beziehungen, den Schutz des Zivilflugwesens gegen ungesetzliche Taten zu sichern. Die Vertragsparteien, ohne Begrenzung der Rechte und Verpflichtungen, die allgemein aus dem internationalen Recht hervorgehen, werden im Einklang mit den Bestimmungen des Abkommens über Straf- und andere Taten an Bord des Flugzeuges (Tokio, den 14. September 1963) \*) und des Abkommens über die Unterdrückung der rechtswidrigen Bemächtigung der Flugzeuge (Haag, den 16. Dezember 1970) \*\*) und des Abkommens über die Unterdrückung von rechtswidrigen Taten, die die Sicherheit des Zivilflugwesens bedrohen (Montreal, den 23. September 1971) \*\*\*) verfahren oder jedwedes beliebige Abkommen über den Schutz des Zivilflugwesens, welches beide Seiten akzeptieren, annehmen.
+
+- 2\. Die Vertragsparteien bieten sich gegenseitig auf Verlangen die gesamt notwendige Hilfe im Rahmen der Verhütung der Taten der rechtswidrigen Ermächtigung des Zivilflugzeuges und anderen rechtswidrigen Taten, ihrer Reisenden und der Besatzung, der Flughäfen und der Luftnavigationsanlagen, sowie auch gegen andere Bedrohungen der Sicherheit des Zivilflugwesens gegenüber an.
+
+- 3\. Die Vertragsparteien werden in den gegenseitigen Beziehungen im Einklang mit den Bestimmungen über den Schutz des Zivilflugwesens, die durch die Internationale Organisation für Zivilflugwesen bestimmt wurden und die als Beilagen zu dem Abkommen über internationale Zivilflugwesen bezeichnet wurden, verfahren, und zwar in so einem Umfang, daß diese Bestimmungen für die Vertragsparteien gültig sind. Diese Bestimmungen werden erfordern, daß die Betreibenden der Flugzeuge, die in ihrem Territorium registriert sind oder den Hauptsitz ihrer Geschäftstätigkeit oder ihren ständigen Sitz haben, und auch die Betreibenden der Flughäfen sich im Einklang mit diesen Bestimmungen über den Schutz des Zivilflugwesens verhalten.
+
+- 4\. Die Vertragsparteien stimmen gegenseitig zu, daß verlangt werden kann, daß die Betreibenden dieser Flugzeuge die Bestimmungen über den Schutz des Zivilflugwesens, die im Absatz 3 erwähnt sind und die von zweiter Seite für Eintritt, Ausgang und Aufenthalt in ihrem Territorium erforderlich sind, einhalten. Jede Vertragspartei wird sicherstellen, daß entsprechende Maßnahmen für den Schutz der Flugzeuge und der Kontrolle der Reisenden, der Besatzungen, des Handgepäcks, des eingeschriebenen Gepäcks, der Last und Bordreserve, vor und im Laufe des Einsteigens der Reisenden oder im Laufe des Aufladens getroffen werden. Jede Vertragspartei wird mit Verständnis jede beliebige Anforderung von der zweiten Vertragspartei im Rahmen einer angemessenen, abgesonderten Sicherheitsmaßnahme beurteilen, damit man einer bestimmten Bedrohung trotzen kann.
+
+- 5\. Im Falle, daß ein Verbrechen begangen wird oder im Falle einer gesetzwidrigen Ermächtigung eines Flugzeuges oder einer anderen gesetzwidrigen Tat gegen die Sicherheit so eines Flugzeuges, der Reisenden und der Besatzung, der Flughäfen oder der Luftnavigationsanlagen, sollen sich die Vertragsparteien zur Erleichterung der Übergabe der Meldungen und anderen entsprechenden Maßnahmen gegenseitig helfen, die auf die beschleunigte und gefahrlose Beendigung dieser Taten oder Bedrohungen abzielen.
+
+- 6\. Im Falle, daß sich eine Vertragspartei von den Bestimmungen über den Schutz des Zivilflugwesens, die in diesem Artikel enthalten sind, abweicht, kann die Luftbehörde der anderen Vertragspartei unverzüglich die Luftbehörde dieser Vertragspartei um Konsultationen bitten.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) [BGBl. Nr. 247/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_247_0/1974_247_0.pdf>)
+
+\*\*) [BGBl. Nr. 249/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_249_0/1974_249_0.pdf>)
+
+\*\*\*) [BGBl. Nr. 240/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_240_0/1974_240_0.pdf>)

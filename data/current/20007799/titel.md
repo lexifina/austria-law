@@ -1,0 +1,3 @@
+Bundesgesetz über die Pflicht zur Vorlage eines Energieausweises beim Verkauf und bei der In-Bestand-Gabe von Gebäuden und Nutzungsobjekten (Energieausweis-Vorlage-Gesetz 2012 – EAVG 2012) StF: [BGBl. I Nr. 27/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/27>) (NR: GP XXIV [RV 1650](<https://www.parlament.gv.at/gegenstand/XXIV/I/1650>) [AB 1701](<https://www.parlament.gv.at/gegenstand/XXIV/I/1701>) [S. 150.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/150>) BR: [AB 8711](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8711>) [S. 807.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/807>)) \[CELEX-Nr.: [32010L0031](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0031:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

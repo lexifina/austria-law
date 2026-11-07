@@ -1,0 +1,3 @@
+Bundesgesetz über nationale Emissionsreduktionsverpflichtungen für bestimmte Luftschadstoffe (Emissionsgesetz-Luft 2018 – EG-L 2018) StF: [BGBl. I Nr. 75/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/75>) (NR: GP XXVI [RV 271](<https://www.parlament.gv.at/gegenstand/XXVI/I/271>) [AB 280](<https://www.parlament.gv.at/gegenstand/XXVI/I/280>) S. 45. BR: [AB 10038](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10038>) S. [885](<https://www.parlament.gv.at/gegenstand/BR/I-BR/885>).) \[CELEX-Nr.: [32003L0035](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0035:DE:HTML>), [32016L2284](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L2284:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

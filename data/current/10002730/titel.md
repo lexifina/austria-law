@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 1. April 1986 betreffend das als Symbol für die offizielle Zusammenarbeit zwischen den nordischen Staaten verwendete Emblem des „Nordischen Ministerrates“ StF: [BGBl. Nr. 314/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_314_0/1986_314_0.pdf>)

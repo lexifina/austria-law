@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit und Konsumentenschutz über die Freisetzung von N-Nitrosaminen und N-nitrosierbaren Stoffen aus Flaschen- und Beruhigungssaugern aus Elastomeren oder Gummi StF: [BGBl. Nr. 104/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_104_0/1995_104_0.pdf>) \[CELEX-Nr.: [393L0011](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0011:DE:HTML>)\]
+
+Auf Grund des § 29 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 756/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_756_0/1992_756_0.pdf>), wird verordnet:

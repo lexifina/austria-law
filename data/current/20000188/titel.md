@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das offizielle Garantiezeichen für die Herkunft von Rum der Republik Kuba StF: [BGBl. II Nr. 392/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_392_2/1999_392_2.pdf>)

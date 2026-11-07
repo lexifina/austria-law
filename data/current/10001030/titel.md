@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 28. April 1989 über den Ausspruch des Verfassungsgerichtshofes, daß einige Worte im § 26 Abs. 3 Z 3 des Gehaltsgesetzes 1956 verfassungswidrig waren StF: [BGBl. Nr. 227/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_227_0/1989_227_0.pdf>)

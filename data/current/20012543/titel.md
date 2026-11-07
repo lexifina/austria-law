@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über Tatbestände des Tiertransportgesetzes, für die durch Organstrafverfügung eine Geldstrafe eingehoben werden darf StF: [BGBl. II Nr. 69/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2024/69>)
+
+Auf Grund des § 50 Abs. 1 des Verwaltungsstrafgesetzes 1991 (VStG), [BGBl. I Nr. 52/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_1/1991_52_1.pdf>), zuletzt geändert durch [BGBl. I Nr. 58/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/58>) iVm § 21 Abs. 4 Tiertransportgesetz 2007 (TTG 2007), zuletzt geändert durch [BGBl. I Nr. 130/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/130>), wird verordnet:

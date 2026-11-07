@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000869",
+  "short_title": "Errichtung einer vierten Notarstelle in Wien-Penzing",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000932",
+    "valid_from": "2000-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000869&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:23:49.255951+00:00",
+    "response_sha256": "40e3432dcd05c460c7cd2d3e03c3e4280d4a7a1f172486b3dd6e965e6228b231",
+    "snapshot_sha256": "17f94dae3ed9915d37107a2ed78c0bb5d423f6ac2e7238cf1c96a56fc5d5d1fb",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c38dd5099bd3d1e0a2c533404db96492732beddaeea8f8993468cd2f2b85f2c",
+      "sha256": "b4dc3dadd345a69caa861d7ee1ddc9d50163d68156bba71f4d91f66e05b53959",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer vierten Notarstelle in Wien-Penzing StF: BGBl. II Nr. 276/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 276/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_276_2/2000_276_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da604d223d5bc145a511abf4b5e9bf1913a9c88cec117574e5d822c87555e56b",
+      "sha256": "12f78a71d07710de9a15fceb7002e030d865831d99dee4dc6ff7bf15c85e46c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

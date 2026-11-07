@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 23. Juni 2020, dass die Verordnung der Bezirkshauptmannschaft Bruck an der Leitha vom 2. Dezember 2019, mit der die Betriebszeiten und der Bereitschaftsdienst der öffentlichen Apotheken in den Gemeinden Ebergassing, Gramatneusiedl, Himberg, Maria Lanzendorf, Leopoldsdorf, Rannersdorf, Schwechat und Enzersdorf a.d. Fischa festgesetzt werden, Zl. BLA5-S-075/004, als gesetzwidrig aufgehoben wird StF: [BGBl. II Nr. 352/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/352>)
+
+Gemäß Art. 139 Abs. 5 erster Satz B-VG und § 59 Abs. 2 VfGG iVm § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

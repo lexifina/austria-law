@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20013058",
+  "short_title": "Errichtung einer weiteren Notarstelle in Klagenfurt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40273608",
+    "valid_from": "2025-12-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013058&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:50:20.894968+00:00",
+    "response_sha256": "083dcca32c80030e98d79dcd6427b1f97f1d3ac411bccb7e7e3d2c55d52ebf2a",
+    "snapshot_sha256": "4c14dacaad2224765f1945df4d4a42f6a53536debdf894cdd31ed9e7fb5f39cf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b6ff7e78a8a42dab1e759cb309f6dcfdc2921d81d486e7f0b6f8ccdb261dc5d",
+      "sha256": "46971bb30e1ed913301dcd6a1cfd455949b6676223de98da7fc13b39a2eed6f9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Klagenfurt StF: BGBl. II Nr. 304/2025"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 304/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/304"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c9dfa7b1be7121e45c2b9a62b67b912d0eac577c86c644ead1f4a7b65301b222",
+      "sha256": "2f7db8a5370499220d0fb58f9daa350b2c0580cff53911ff6edf62b8c0597934",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

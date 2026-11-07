@@ -1,0 +1,3 @@
+Bundesgesetz über die Sicherung des Arbeitsplatzes für zum Präsenz- oder Ausbildungsdienst einberufene oder zum Zivildienst zugewiesene Arbeitnehmer (Arbeitsplatz-Sicherungsgesetz 1991 – APSG) StF: [BGBl. Nr. 683/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_683_0/1991_683_0.pdf>) idF [BGBl. Nr. 163/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_163_0/1993_163_0.pdf>) (DFB) (NR: GP XVIII [RV 291](<https://www.parlament.gv.at/gegenstand/XVIII/I/291>) [AB 322](<https://www.parlament.gv.at/gegenstand/XVIII/I/322>) [S. 47.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/47>) BR: [AB 4167](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4167>) [S. 547.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/547>))
+
+Der Nationalrat hat beschlossen:

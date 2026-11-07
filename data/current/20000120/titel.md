@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Wissenschaft und Verkehr betreffend die Bestimmung des Trassenverlaufs der Ausbaustrecke Unterinntal von Kundl/Radfeld nach Baumkirchen im Zuge der Hochleistungsstrecke Staatsgrenze bei Kufstein–Innsbruck–Staatsgrenze am Brenner StF: [BGBl. II Nr. 359/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_359_2/1999_359_2.pdf>)

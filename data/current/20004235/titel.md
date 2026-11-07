@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über besondere Stabilitätsanforderungen an Ro-Ro-Fahrgastschiffe (Ro-Ro-Fahrgastschiffverordnung) StF: [BGBl. II Nr. 251/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/251>) \[CELEX-Nr.: [32003L0025](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0025:DE:HTML>), [32005L0012](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32005L0012:DE:HTML>)\]
+
+Auf Grund des § 7 Abs. 4 des Seeschifffahrts-Erfüllungsgesetzes – SSEG, [BGBl. Nr. 387/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_387_0/1996_387_0.pdf>) in der Fassung [BGBl. I Nr. 32/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_32_1/2002_32_1.pdf>), wird verordnet:

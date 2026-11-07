@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit über die Qualität der Badegewässer und deren Bewirtschaftung (Badegewässerverordnung – BGewV) StF: [BGBl. II Nr. 349/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/349>) \[CELEX-Nr.: [32006L0007](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0007:DE:HTML>)\]
+
+Auf Grund des § 15a des Bäderhygienegesetzes (BHygG), [BGBl. Nr. 254/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_254_0/1976_254_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 64/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/64>), wird verordnet:

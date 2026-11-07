@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes, betreffend die Anwendung des österreichisch-britischen Auslieferungsvertrages auf Sansibar und die britischen Salomonen. StF: [BGBl. Nr. 241/1937](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=241/1937&amp;SkipToDocumentPage=True>)

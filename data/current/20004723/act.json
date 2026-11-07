@@ -1,0 +1,729 @@
+{
+  "sample_only": false,
+  "included_provisions": 25,
+  "source_provision_count": 25,
+  "schema_version": 1,
+  "gesetzesnummer": "20004723",
+  "short_title": "Patientenverfügungs-Gesetz",
+  "abbreviation": "PatVG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005153",
+    "valid_from": "2006-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004723&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:18:59.643775+00:00",
+    "response_sha256": "0eec8640baef5115fa3c46a0f2fea8fbf1a69749d82e278416f0b91b3d4c0589",
+    "snapshot_sha256": "490ad865fe73a09ee1d4b317cd47b1ecd997ff3fe9f887e1fbca2c4825f6d317",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f3a73e2e7f96a452ab49f26618dae5cbb0e2431f3c24a9c7bfc43f202b79bd12",
+      "sha256": "0a275348dba2be8350c9227b056f925b64ffaf8e7f452d64333b173702584326",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Patientenverfügungen (Patientenverfügungs-Gesetz – PatVG) StF: BGBl. I Nr. 55/2006 (NR: GP XXII RV 1299 AB 1381 S. 142. BR: AB 7518 S. 733.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 59/2018 (NR: GP XXVI RV 191 AB 231 S. 36. BR: 10001 AB 10017 S. 883.) BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888.) BGBl. I Nr. 12/2019 (NR: GP XXVI RV 337 AB 440 S. 57. BR: AB 10118 S. 888.) BGBl. I Nr. 105/2024 (NR: GP XXVII RV 2530 AB 2663 S. 272. BR: 11527 AB 11578 S. 970.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 55/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/55"
+        },
+        {
+          "text": "RV 1299",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1299"
+        },
+        {
+          "text": "AB 1381",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1381"
+        },
+        {
+          "text": "S. 142.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/142"
+        },
+        {
+          "text": "AB 7518",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7518"
+        },
+        {
+          "text": "S. 733.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/733"
+        },
+        {
+          "text": "BGBl. I Nr. 59/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/59"
+        },
+        {
+          "text": "RV 191",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/191"
+        },
+        {
+          "text": "AB 231",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/231"
+        },
+        {
+          "text": "S. 36.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/36"
+        },
+        {
+          "text": "10001",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10001"
+        },
+        {
+          "text": "AB 10017",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10017"
+        },
+        {
+          "text": "S. 883.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/883"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "RV 329",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/329"
+        },
+        {
+          "text": "AB 413",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/413"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/57"
+        },
+        {
+          "text": "10079",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10079"
+        },
+        {
+          "text": "AB 10082",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10082"
+        },
+        {
+          "text": "S. 888.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/888"
+        },
+        {
+          "text": "BGBl. I Nr. 12/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/12"
+        },
+        {
+          "text": "RV 337",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/337"
+        },
+        {
+          "text": "AB 440",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/440"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/57"
+        },
+        {
+          "text": "AB 10118",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10118"
+        },
+        {
+          "text": "S. 888.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/888"
+        },
+        {
+          "text": "BGBl. I Nr. 105/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/105"
+        },
+        {
+          "text": "RV 2530",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2530"
+        },
+        {
+          "text": "AB 2663",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2663"
+        },
+        {
+          "text": "S. 272.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/272"
+        },
+        {
+          "text": "11527",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11527"
+        },
+        {
+          "text": "AB 11578",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11578"
+        },
+        {
+          "text": "S. 970.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/970"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7d108b0a8fa2addbe0e73c30411e224020db06d4cc66cce19ac4fdfb8247f90",
+      "sha256": "da099bd8969ba6e2aa33923ed04dbd0c5f8314c0efb4189a224ea2102873ed66",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c55f5d6d5524a787be0699207ab542a57a25b479bd2fb996326bb934612b63f9",
+      "sha256": "b4eb2c1939caca4b142e145bf1ea9017f38e5a99b2c70bffcb1bb46123ca5cb5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/111"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Höchstpersönliches Recht, Fähigkeit der Person",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "78c894bc6896009a5a78a9316834beb8b78c4f52e629ba0ad9992efd526f6486",
+      "sha256": "5b54d68eef868c678c5e51edbd8b2d14563f61f3fcdd5ad7565652ebe8388e59",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Verbindliche Patientenverfügung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "77723a4a05478ed36cce0a886b9f91fd65d782b543738246ac700e1a6bc3ce0c",
+      "sha256": "fa8aedc937106ea44b8f8fc27b7b5a92af8894f44b8bb6f7b8336c217e109771",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Aufklärung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a8f33a2ef2534a6ae1b818ef089ddb45eae22d3ac277718cac6ad6c219a7f11",
+      "sha256": "c3cabefb8e5a583b704911c1977b224374706f7c68642705388b564d0be8b587",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Errichtung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a62df3615b3580a9b266ba504eca7361d4f433f9d1206075d9b5b25b11c5e469",
+      "sha256": "a2f35d2f0ccf11d914a9a56c81b0d015dedef5f039fcc12d3474e7ec65eb9aac",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 1/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_1_0/1957_1_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Erneuerung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e8742b8de474459afe9558861e83feb6e3f565bf56da877041f6605f45202807",
+      "sha256": "95bf74ba4c4203f652a62b3222c352d49e06728a5aa856bc99dd9aadb8680f98",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "3. Abschnitt Bedeutung anderer Patientenverfügungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9545e8342e0f2d834d1dd29a2cc5352bbcfd75cdd5de0bd0c11ef90b535d04c6",
+      "sha256": "39a663eea49e893f0ab2678aa4a870674bc6139a042dfdc1478b2700b2588bca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Berücksichtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7323e559b760ac0bd787103a6a7400539936963d01e93719ca345393900e88a7",
+      "sha256": "7925110d66dc6aaee72247cbbfd1746dc17b3eaf4357368a0c8b89d597a8f7fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "4. Abschnitt Gemeinsame Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "894ce544ab498a10b23903af1712e5f80c2337b08cb0d9c1f97c939ec88bd915",
+      "sha256": "c75b9766fe90c39867a16cd9aefdfa4c6df68f6676f148ba75088728a04bcf9f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Sonstige Inhalte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26833e59447d0a7c73924ad212f5fdd38fc20fef0513774f8eb080b278ba9b65",
+      "sha256": "c60936c84b4a42cd38fe2178655f53e9b0732602d325d884f4495a27d2d03045",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Notfälle",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed19806466c9969ecd94f83f7d26421bc3493c0e8ba9e4d0eb0b14f1cc16f827",
+      "sha256": "3476094edb9ca6c55b0a72bd8d876996f3ac78cacaa9f585d5f1c0fdd99aaa26",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Pflichten des Patienten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc25bf7307a0ee2647dfd107ceff9a7c30e3c3678b3875077761ee484c67005a",
+      "sha256": "3b540f9502b1b23a5eaa2c068942aaa2b75dd749097e93635849c695ef568537",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Dokumentation",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8339555e8d82f0fbd7cf8858b7af93e990b553f46660be0dd0d43f5c45e7ec22",
+      "sha256": "b4c0a620cc6dace3db4cdb9738a6154ee75141863349050bcdbc256885b447c7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14a",
+      "source_heading": "Verarbeitung in ELGA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2655cb2d0c5fb2ae5caf0955518945a4fbc04618bfceb52d5e3a59408c2b0d05",
+      "sha256": "d055258a34441db08cdb2786680c12ed773fcf178b5dc78ddf2e55af13313ccf",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 341/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_341_0/1981_341_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14b",
+      "source_heading": "Speicherung in ELGA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "988c9ef6a4387b13311ae1b64cdce62c37d14e331fcc2a9b1d32830c5de44cde",
+      "sha256": "5204b197702e2120e297e754eef56353259ac43855b3b7c6df455f7de993e781",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14c",
+      "source_heading": "Grundsätze der Datenverarbeitung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0014c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "430972f76d271880c546cecb401e39d664ce38c4e5ae3914267fa85e3cebc39e",
+      "sha256": "8bb3d39fb878f5bef29347d3b7cb5567a110c107c57d637ac335a4b7d842bc7b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14d",
+      "source_heading": "Technische Spezifikation und Umsetzung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0014d.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b66518c2dc32f398625348d80e3b1d86a6221b7e5c414b09372c8f8a0e34a491",
+      "sha256": "a3637c64f143932681724a367c99ba381045d5f90cd7d7058eb61cec28e2ae1a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Verwaltungsstrafbestimmung zum Schutz vor Missbrauch",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0df68063c6020039d0ba3956835f5f70c2ce778daf7f894cc9e08cd9a2ac65f3",
+      "sha256": "912323f77b79baf09f9a49024fee247ce2d8fccdf10094a1594e20046d867e32",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "5. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e6c1e171625cdeb56990ea10b89bb9e97655c39bfe5172fbf924a6480d450c3a",
+      "sha256": "5aee2c8dc66a65c0ce13cc14e2b80755c38e60392322a007a3ac4759e2a52169",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d0839cb68c39af1e8e4bed3ec16f40ff6821eb4c38af06ea0276c0e593c5117",
+      "sha256": "a5c2688f9a6a0736df5a7b18868a6a63c9cbc5395943ca2d9a8284a8a441f5b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5f1e195ebccc2bd497d3ae02cafa2afb6154047778ef23b41b2de731f8db108c",
+      "sha256": "6f8e3332a205d7386c595d1992765ae0a3475189866b8245553c44bff058d9f3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 59/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/59"
+        },
+        {
+          "text": "BGBl. I Nr. 12/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/12"
+        },
+        {
+          "text": "BGBl. I Nr. 105/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/105"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18a",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0018a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cba8a8c379812e883c5cc16ec7e265711f380e287fa965f7d95ab359d072d423",
+      "sha256": "6cde38d4e8f4bdc172388cca93ef9392059f95b77035eff51aa8b9ea4f6ce8a1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 12/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/12"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d53ab82a03866327822bf118c01c7367a31703202c2832b89e056e6f619aa97b",
+      "sha256": "bae5252d41c6e4ae0a2ab090606b1b8797e34200a39da92b32c30daa4c22e943",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

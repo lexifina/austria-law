@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend Widerruf der Vereinbarung zwischen dem Vorsteher des Justiz- und Polizeidepartements der Schweizerischen Eidgenossenschaft und dem Bundesminister für öffentliche Wirtschaft und Verkehr der Republik Österreich nach Rn. 2010 und 10 602 ADR betreffend die Freistellung von Stalldünger (Stoff der Klasse 6.2, Ziffer 9) von den Transportvorschriften StF: [BGBl. Nr. 767/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_767_0/1995_767_0.pdf>)
+
+Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

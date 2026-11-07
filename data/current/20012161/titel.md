@@ -1,0 +1,3 @@
+Verordnung der Kommunikationsbehörde Austria (KommAustria) über den Zugang zu zugehörigen Einrichtungen und Zugangsberechtigungssystemen und die Interoperabilität von Digitalfernsehgeräten 2023 (Zugangs- und Interoperabilitätsverordnung – ZIV 2023) StF: [BGBl. II Nr. 18/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/18>)
+
+Auf Grund der §§ 27a Abs. 3, § 27b Abs. 1 und § 27c Audiovisuelle Mediendienste-Gesetz (AMD-G), [BGBl. I Nr. 84/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_84_1/2001_84_1.pdf>) in der Fassung des Bundesgesetzes [BGBl. I Nr. 55/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/55>), in Verbindung mit § 66 Abs. 1 AMD-G wird verordnet:

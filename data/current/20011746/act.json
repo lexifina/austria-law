@@ -1,0 +1,1840 @@
+{
+  "sample_only": false,
+  "included_provisions": 46,
+  "source_provision_count": 46,
+  "schema_version": 1,
+  "gesetzesnummer": "20011746",
+  "short_title": "Pfandbriefgesetz",
+  "abbreviation": "PfandBG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40275772",
+    "valid_from": "2026-02-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011746&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:20:01.028838+00:00",
+    "response_sha256": "5c1668f1de239e85375c85599973ef470d4f1c9085fc2e465fd01a6baff0453a",
+    "snapshot_sha256": "ba2004885a0ef02c5274a43deff2853d3deb8955679d4b299f3dc71b3a15b548",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f0651696f252e8e3d51d3391a91b14c38b7f07cbecddb6ea1fc860203e9e0a6e",
+      "sha256": "dd477af1d1c1ddaaf34cd10ec20b3c6f568f9d10193237c95059853572cf2d33",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über Pfandbriefe (Pfandbriefgesetz – PfandBG) StF: BGBl. I Nr. 199/2021 (NR: GP XXVII RV 1029 AB 1145 S. 131. BR: 10768 AB 10775 S. 934.) [CELEX-Nr.: 32009L0065, 32014L0059, 32019L2162]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 5/2026 (NR: GP XXVIII RV 366 AB 380 S. 63. BR: 11763 AB 11768 S. 986.) [CELEX-Nr.:32023L2864, 32024R0886, 32015L2366, 31998L0026]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 199/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/199"
+        },
+        {
+          "text": "RV 1029",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1029"
+        },
+        {
+          "text": "AB 1145",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1145"
+        },
+        {
+          "text": "S. 131.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/131"
+        },
+        {
+          "text": "10768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10768"
+        },
+        {
+          "text": "AB 10775",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10775"
+        },
+        {
+          "text": "S. 934.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/934"
+        },
+        {
+          "text": "32009L0065",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0065:DE:HTML"
+        },
+        {
+          "text": "32014L0059",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0059:DE:HTML"
+        },
+        {
+          "text": "32019L2162",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L2162:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "RV 366",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/366"
+        },
+        {
+          "text": "AB 380",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/380"
+        },
+        {
+          "text": "S. 63.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63"
+        },
+        {
+          "text": "11763",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11763"
+        },
+        {
+          "text": "AB 11768",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11768"
+        },
+        {
+          "text": "S. 986.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986"
+        },
+        {
+          "text": "32023L2864",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L2864:DE:HTML"
+        },
+        {
+          "text": "32024R0886",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32024R0886:DE:HTML"
+        },
+        {
+          "text": "32015L2366",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2366:DE:HTML"
+        },
+        {
+          "text": "31998L0026",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0026:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Art / Paragraf",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand / Bezeichnung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1. Hauptstück Anwendungsbereich und Begriffe",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gegenstand",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbereich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Begriffsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Hauptstück Strukturelle Merkmale",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Doppelter Rückgriff und Insolvenzferne",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Doppelter Rückgriff",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Insolvenzferne",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Vorschriften über anerkennungsfähige Deckungswerte",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Anerkennungsfähige Deckungswerte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Sicherungsrechte und besondere Vorschriften zu Hypothekarforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verbraucherkredite",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Abschnitt Allgemeine Vorschriften über die Deckung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Deckungsanforderungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 10.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Deckungsregister",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 11.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammensetzung und Arten von gedeckten Schuldverschreibungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 12.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Belegenheit von Deckungswerten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 13.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gruppeninterne Strukturen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 14.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gemeinsame Finanzierungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 15.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zusammensetzung des Deckungsstocks",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 16.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Indeckungnahme von Sicherungsgeschäften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 17.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Trennung von Deckungswerten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Abschnitt Risikomanagement, Treuhänder zur Überwachung des Deckungsstocks",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 18.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Risikomanagement, Treuhänder",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 19.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufgaben und Pflichten des Treuhänders",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 20.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Informations- und Mitteilungspflichten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Abschnitt Anforderungen an die Liquidität",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 21.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Liquiditätspuffer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 22.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bedingungen für eine Fälligkeitsverschiebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "6. Abschnitt Transparenzvorschriften",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 23.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Transparenzvorschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "7. Abschnitt Bezeichnungsschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 24.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bezeichnungsschutz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3. Hauptstück Exekutions- und Aufrechnungsschutz; Insolvenzrechtliche Bestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 25.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Exekutions- und Aufrechnungsschutz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 26.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Insolvenzrechtliche Bestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4. Hauptstück Aufsicht über gedeckte Schuldverschreibungen, verwaltungsrechtliche Sanktionen und sonstige Maßnahmen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "1. Abschnitt Aufsicht über gedeckte Schuldverschreibungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 27.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zuständige Behörde",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 28.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufsicht über gedeckte Schuldverschreibungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichts- und Meldepflichten des emittierenden Kreditinstituts",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 29a.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zugänglichkeit von Informationen im zentralen europäischen Zugangsportal",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 30.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bewilligung für Programme gedeckter Schuldverschreibungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 31.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verpflichtung zur Zusammenarbeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 32.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichungspflichten der Aufsicht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2. Abschnitt Verfahrens- und Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 33.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 34.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Strafbestimmungen betreffend juristische Personen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 35.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere verwaltungsrechtliche Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 36.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wahrnehmung der Aufsichtsbefugnisse zur Verhängung verwaltungsrechtlicher Sanktionen und Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 37.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Veröffentlichung von verwaltungsrechtlichen Sanktionen und Maßnahmen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 38.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Meldung an die EBA",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5. Hauptstück Übergangs- und Schlussbestimmungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "§ 39.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übergangsbestimmungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 40.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sprachliche Gleichbehandlung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 41.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Verweise und Verordnungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 42.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsetzungshinweis",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 43.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vollziehung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "§ 44.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Inkrafttreten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Hauptstück Anwendungsbereich und Begriffe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c67b2f46984108f0a90d5f899f39aeaa0ce788a806217324e74e2ff8d892f3ce",
+      "sha256": "35bb806385d04c231a335b78f5a9d5951ff42f95164c65b83100a0e6e1d4a71e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3bdd92b3125840a1952089cbec40f886a9c9baa763ac2668c3e4ca77d5fa61a2",
+      "sha256": "13cfd24880f9bb254933a8950c945a11781be56bc451dc5a09f4dd52145ef6d4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38a378a3563b77e7bab04163f12ec5d018c88ec1d392cb6490ea2d2c75aeb436",
+      "sha256": "982095e81fddab91f8a70a29c58c94c3895cc003e19358cc2a5598a440f7d5a4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_1/1993_532_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Hauptstück Strukturelle Merkmale",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "92d68e06807177a9e87a4d262ef6e21621b5ec238ec307e24e7b2f7cf82373c6",
+      "sha256": "652bde20ef938928a345de32d348ad0bbb254e1053d4549946394601ceaf63a9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Insolvenzferne",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "56f5c78495199a949e9b816a7ea46551aad9094041b4d1dab3417c9906d7c15f",
+      "sha256": "b4ae6abadd636bd68aadfd3d8ceac3bd46501161d1007d7b9e5c4f00969ba900",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "2. Abschnitt Vorschriften über anerkennungsfähige Deckungswerte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ec4082efe01ecb4c37d27289b292ee57886ffe27c3e6d68226af5ad821c18518",
+      "sha256": "7fea42b19b02f943be854eb82d8f0c03ecfb1a28969411e47740325dbbbce69c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Sonstige Sicherungsrechte und besondere Vorschriften zu Hypothekarforderungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f8598d6a930c2e07f6cce1d353a7a2ac979fcb7d6bc5756b04de34ed508fbe87",
+      "sha256": "f960af2f3e6e6748ffd33e99aa276e129b90c22df3e34c7cbe6f11d8eb2cccca",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Verbraucherkredite",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bbf3b00b566ec1d74d134ba54ab803a1fd384908d96d9c5a0dbc12dbcfe1932e",
+      "sha256": "aa0a7de9cffc289f4d3adf09c4e0ac619ce3951beffe252adc9cdec631ece1b6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 135/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/135"
+        },
+        {
+          "text": "BGBl. I Nr. 28/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/28"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "3. Abschnitt Allgemeine Vorschriften über die Deckung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "467cc34b2d80f5f6f7dc6a69fe66c5322f621c15c7afe8ae6115d3e6a427263c",
+      "sha256": "7acaf68253a127c4a30ee5e42cc07b2c76eaf71ac9b3d9c81e88d9f1da7d50fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Deckungsregister",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b8d1ec66e4550b0c7632c814b42fe140dca8b0866a62f141c3b6fffc621e0ea9",
+      "sha256": "64061181886886b610c6ed3884a101cbd2d2233b450d675706e139d92a4507e5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Zusammensetzung und Arten von gedeckten Schuldverschreibungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7dd4bb2e0558355a6a7705e1e1b2a41a3e6b8b10726f588afbe08be0b610e7c6",
+      "sha256": "682477241c5d8d519e99e2e4173cd9c2fc080ddcd1670432cc4be4ce9d95633e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Belegenheit von Deckungswerten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "38bcaf58e196fb21bfee488ca1b75bd5b8defd40a6e9b4dcfe349e69c2497cfc",
+      "sha256": "e6db0c3fc6311982397638ed70192e55d6e52e3f476cea816aef64102dad1b1c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Gruppeninterne Strukturen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e72d286e5f16992b057d68921659351c07ef3fdf3d8d50178333a036eddfa21",
+      "sha256": "d981b2f4ef46dd866d6c6475ffb306fc4c4e1576ce1b275f8e733215a1f2372c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Gemeinsame Finanzierungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3d1dff52565faa7a5f8606764be319bca3af2d66ef9faaa8ae553b8bba95b924",
+      "sha256": "1261fa8e31a87a74bddc568b6c41e56cd88f1c091e52e6722e91e82dd24571c2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 532/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_532_1/1993_532_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 117/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_117_1/2003_117_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Zusammensetzung des Deckungsstocks",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b85e2692530ad919c1572e884649208b427a64fcf5ff04a7a8e8c9dbcdddd5d2",
+      "sha256": "4b021267309ed4272d7b5c33e748e44ab8821e2e6c0cf28abc5a2e55ce7687ef",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Indeckungnahme von Sicherungsgeschäften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b52db88b0366107989a9933b0ac5031c3fb25dc11cb4cac359cfe3ae94c6a3e",
+      "sha256": "308cbd74ea7c792325f8e8501dbc3929bc215d89caba5c9ee5171049314cf1aa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Trennung von Deckungswerten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e95a043f1d7b1a6df77d9b9a55628bd7efcd2d05fcf87e881c980e6fe37796ec",
+      "sha256": "a51b08f18e59083631fe96aff23f6b87af22ec4810d3ce6dabf4a1aa74423391",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "4. Abschnitt Risikomanagement, Treuhänder zur Überwachung des Deckungsstocks",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40d0e249f35374932ea1da2853e5c5e6aa32e224c33943ebf8abc50838d1c983",
+      "sha256": "b8c389b8885f64ccf4541244600a35d7a82d861f038e05f16b6e728291641e58",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Aufgaben und Pflichten des Treuhänders",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4adcf64441abd37c970d0581807180f733eb65e47fbd37d6cd667b660f1d2b32",
+      "sha256": "449ad43395106f7f5ebcd13fb447181e4aa0dcc2718ac34a9102d74153f81959",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Informations- und Mitteilungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eefe4e6d447abed88001776e1275098c408919b625e3d9363f8dc185b45c68d0",
+      "sha256": "e15743610816db22d28d92a2c61a2a061174b8ac8321a204aef252ae736f0eb9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "5. Abschnitt Anforderungen an die Liquidität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f8df60eeab05e651c88220b22bb6e8bbc608fc35a393ad65d992552c545bec25",
+      "sha256": "79fe9e68e5bece5ecc977b6ecd6a96ab33298c3b74c6ca18855511a9dd15520e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Bedingungen für eine Fälligkeitsverschiebung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c48c7c1211edf0ede0c578ec0df79b6d92009e498574bb6a3f67d906eb4c525",
+      "sha256": "c4ca0e31326a5a2e7a3491fe52667105ce8fe778ab8603d85b78491920b7b6cb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "6. Abschnitt Transparenzvorschriften",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "883d3fb8e9ec43fad63c683255567bdc10cce62ef4ed88503534b577cc50f068",
+      "sha256": "9a2d241db2aae6c3401ca80e802d5a97c4165a6a51fd22b2c68f4be5bbf58765",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "7. Abschnitt Bezeichnungsschutz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eab05e91e2e451ff538a9be1b52963515c69ab22891a9b350c25b8a29570689d",
+      "sha256": "43ea8bd3d5bff6009dc4d7a42106e6c7ca21a3d8cce54ff7c3971021bb469db4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "3. Hauptstück Exekutions- und Aufrechnungsschutz; Insolvenzrechtliche Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c2a8b3a7b591201655eaf3892562dec38bb9b31ea238d72947ffd6a3d132066",
+      "sha256": "14e46c3e06c7e900e8725a14332cc7b308846e9dcff233d538aca0eadf329735",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 140/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_140_0/1979_140_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Insolvenzrechtliche Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87c906a4542dc93db5a9b442b4d55282a3d2ac131f1c7a047ac5b5bea121fa0f",
+      "sha256": "f71c356627a4a141ed2692514a743b4cf745046f0c4e8b9e81065b6abb2eeec5",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 337/1914",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=337/1914&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "4. Hauptstück Aufsicht über gedeckte Schuldverschreibungen, verwaltungsrechtliche Sanktionen und sonstige Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e650d30df76b5caef98b823c925a620cd3bae4e0fa9724649352cbd5ca7f679d",
+      "sha256": "6faa73cd0adf8c180af48926c3876678e28a64102996e95488053a37663fc1f1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Aufsicht über gedeckte Schuldverschreibungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a502d6823ef05a779881256aa63fed4e274e1600416e9c674bb27725c3ca3fdf",
+      "sha256": "7ccd64de67e490385cd21e3f2f2d9000f97a50003b47e62a126d441388bc729c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Berichts- und Meldepflichten des emittierenden Kreditinstituts",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "536510456efb9400a93476536732ab6b08503d4adb39cdf7a396b3d794f63182",
+      "sha256": "454eddaa48777c561082f0489aa20b52bcd7f5737374a9607b5c92c8b37cd0bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29a",
+      "source_heading": "Zugänglichkeit von Informationen im zentralen europäischen Zugangsportal",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0029a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7702d90ce20d6d7c9f375451e9d346b82d9282b8c2b87a3678716fdf724b1ca0",
+      "sha256": "9b2a6c908f9b1c4c63ec0f1f1b99d016fc98222eed22a24c62ccec6c6e02d3c4",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 44 Abs. 2"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Bewilligung für Programme gedeckter Schuldverschreibungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b93888d711d5f083a1c474bb5941120cfa52d5cade77e753f11f3338d31e4e1",
+      "sha256": "2fcb05b3e0ac333c3c6e7ccfc8976a76bd4a9843d441e00060544d537b7354e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Verpflichtung zur Zusammenarbeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65d7860d5b78da205a143f1f3d3dc0fda0ec422c33a0766e57a92606705e8e1e",
+      "sha256": "fb10cac24720d809f8ab726c4d5782f7cc3b3ab8aa6b63dfd73b4d46da45a223",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Veröffentlichungspflichten der Aufsicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d9e8788587de142e16eb6e451e93fb98b9ba33aaa7ef788bad7bf3bba8bb6cbd",
+      "sha256": "f8af62192779ac1e88eaa908164efc3ec58e7d251be50999b04481b3016271d7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "2. Abschnitt Verfahrens- und Strafbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "07fca44879ea5c2d8e1dfe45ca2f74649eee2e89f800d3e4704be0216a918a41",
+      "sha256": "f08dfca46f8ffadf241c23ae2a51e8bbbd9e63f565502699f26b9c627c8ffeb0",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zum Bezugszeitraum vgl. § 44 Abs. 2"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 52/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_52_0/1991_52_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Strafbestimmungen betreffend juristische Personen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bfecbb15ddbfc50b13989a7dc6db9587a613bca2f8397b9a30b2619daa01b83c",
+      "sha256": "e3ea3d5b906f8eebca3ddd4dd2b50592c58cd1d9b71ac2151497bae87cf2d93e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Andere verwaltungsrechtliche Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de302f09f890b6d698f6db974ae944e15549bf4882c06dccb3a8281681eaebed",
+      "sha256": "bfd348c859b4cbda964fdec5123d829c922b05d3d2ca99c28c23cf6320d30a7b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Wahrnehmung der Aufsichtsbefugnisse zur Verhängung verwaltungsrechtlicher Sanktionen und Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b2a4b7fb768bd2678263c51facfe1e8ea1c3653a711a5081ab7ca1ce309ba9d4",
+      "sha256": "5ecf309e0b416ca310df2f6f9ee3b8f839d78171e6200c0bcb0f781a1df2e123",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Veröffentlichung von verwaltungsrechtlichen Sanktionen und Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "608d499facff5bb2da6198d16e9b6e3bf38e0f12f704de269a39d88cb7914196",
+      "sha256": "08e97e410124eb1ed137a54d21541f9e9beb5dbba17f1c487e27522a9f9cd651",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Meldung an die EBA",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a67e1bb12f6a3c000a026e68f526c57041cddb1ea2f7fc99aaaf290f34112b9f",
+      "sha256": "14acedaa1a9fd1076758cf1705b7b70ba668fde29a092bdd34ccbcbd1ca8cf25",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "5. Hauptstück Übergangs- und Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "649c01aaabfd21682a36d5698eb8ba7c577c710bb90fa2a01a04bbc8a1ad731e",
+      "sha256": "dd737fce176e371b1547553cf853ba0b7c653653e3c286995e9ad0ef035e031c",
+      "notes": [],
+      "links": [
+        {
+          "text": "dRGBl. I S. 492/1927",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19270004&seite=00000492"
+        },
+        {
+          "text": "RGBl. Nr. 213/1905",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=213/1905&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 199/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/199"
+        },
+        {
+          "text": "dRGBl. I S 1574/1938",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19380004&seite=00001574"
+        },
+        {
+          "text": "GBlÖ 648/1938",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=648/1938&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/58"
+        },
+        {
+          "text": "dRGBl. I S 1904/1938",
+          "url": "http://alex.onb.ac.at/cgi-content/alex?aid=dra&datum=19380004&seite=00001904"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 41,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f03b1017abf58ab15803e853ee84fdd9e4124be8468191d487f149881591548b",
+      "sha256": "3713df4da8d0f4f946f78abbe9d627a687177cc0a46e8af23e7406720763c609",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 41",
+      "source_heading": "Verweise und Verordnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 42,
+        "stable_identity": false
+      },
+      "file": "par-0041.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "42694907d0e2972dc3be511d5bccb1a883b41f0c55185cb0f422bdeaac80cab5",
+      "sha256": "66d9dd30e7acd67c27d844f8112ff296ee5c4ffd0c5a659f8b6810351f20d2fc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 42",
+      "source_heading": "Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 43,
+        "stable_identity": false
+      },
+      "file": "par-0042.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75a87699b012c97307f5191b9e7ee62d12d80319753c594bf2280202f92dd26a",
+      "sha256": "a556ab0ff898d8c431dce06319db02f0057353aa3b2444f914d5692ebd36f8e6",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 199/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/199"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 43",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 44,
+        "stable_identity": false
+      },
+      "file": "par-0043.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7ce340c464a3c24804592fa8c4f5931b03b74eb810789ef54451930850aed84",
+      "sha256": "599a296e3b8dc9f0ee073fe926df1f91f03a2151182c737fb59f184ca698ceb8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 44",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 45,
+        "stable_identity": false
+      },
+      "file": "par-0044.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0aa8f6b5350c33d579cfea0bcb48c40711f2c9c48cd48a102715398ed88af51d",
+      "sha256": "c65318faf54208ef3db6f5f60cc4c7212b0b612281fc96a721f3dde72f0ead75",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2026/5"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

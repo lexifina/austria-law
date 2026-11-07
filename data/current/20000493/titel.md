@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. Juli 1967, betreffend die Ratifikation des Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge durch Luxemburg und Griechenland StF: [BGBl. Nr. 296/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_296_0/1967_296_0.pdf>)

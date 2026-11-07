@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010400",
+  "short_title": "Errichtung einer dritten Notarstelle in Wien-Favoriten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209413",
+    "valid_from": "1975-10-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010400&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:58.728127+00:00",
+    "response_sha256": "47c56b7c93e7be53d4794e834dd087a8dc4334369e0d7730409a18ecb8b3b36b",
+    "snapshot_sha256": "0c3a70e1c7a388f5f740f7f0c53403103ac15aa3b93ba4bb05d43bc15e2ee0ee",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "efcba2dff9397b0f4538d67728e7ff4c9d2f6778dbbcd870a076e15fd6f5b9ee",
+      "sha256": "53b7cdc5c9e094b36aa29019128623e8626457232bd7e7dec112701aec523f91",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 23. September 1975 betreffend die Errichtung einer dritten Notarstelle in Wien-Favoriten StF: BGBl. Nr. 514/1975"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 514/1975",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_514_0/1975_514_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9da52e471754f08d4c6ddcccdb0e8cc8701902ebf4b0d4d98d03e7c0bb0966bc",
+      "sha256": "cf45bb62a0ac402e2f78e12bdac226b88da839c752249b561c9e902a28a47dcb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

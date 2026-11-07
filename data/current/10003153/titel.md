@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Hoheitszeichen der Slowakischen Republik StF: [BGBl. Nr. 691/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_691_0/1993_691_0.pdf>)

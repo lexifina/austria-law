@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002040",
+  "short_title": "Pariser Verbandsübereinkunft (Londoner Fassung)",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002063",
+    "valid_from": "1962-06-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002040&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:56:54.227253+00:00",
+    "response_sha256": "18830e3406bdc473e909ca3ccad8a20619ef9d02b349621991433e92af8e33bb",
+    "snapshot_sha256": "e0cb74bbaee4098e807c2f67b37f701c3c5ef09d9fdcb4eea7cfb430cac9c43b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6494718e6b4795cd01c1e83eb93d6735d078da2b4ff05c2fdcb2d7b3f3603697",
+      "sha256": "80c333a96e070f1665ce2bd5afb476fd995450b8dc430f21a1ebd9f0a7baf744",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 15. Mai 1962, betreffend die Erweiterung des Geltungsbereiches des Pariser Unionsvertrages zum Schutze des gewerblichen Eigentums vom 20. März 1883 in der Londoner Fassung vom 2. Juni 1934, BGBl. Nr. 7/1948. StF: BGBl. Nr. 153/1962"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 7/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_7_0/1948_7_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 153/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_153_0/1962_153_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b52fe8c68b7e9cf79075c0d43515b9a4f9325b6dbee939aa690e4f7fabc8245d",
+      "sha256": "a4baf9207cf924c27e236f65f148fd496cae974f590b2ec95c48bc23422c14bb",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 46/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_46_0/1960_46_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 7/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_7_0/1948_7_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

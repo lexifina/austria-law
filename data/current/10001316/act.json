@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001316",
+  "short_title": "Ergebnis der Volksabstimmung vom 12. Juni 1994",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001324",
+    "valid_from": "1994-09-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001316&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:44:54.301102+00:00",
+    "response_sha256": "348a7e0dae875fc696cec2f536ae996ef8ffcf588ad29a8275ee435fa5530ed0",
+    "snapshot_sha256": "78cdf80481ce9f4a4f3634239eb5b1a8733d6f063e34a190e5c42357dcb9d5c0",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81e76823000bda8fcb4a0619c27f3f36692295c39799377387f1d6ba05713d3d",
+      "sha256": "ebea89d84dfc07dddb57a0fa93c5b9586844016477305e1a187e9e10983d901b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesregierung über das Ergebnis der Volksabstimmung vom 12. Juni 1994 StF: BGBl. Nr. 735/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 735/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_735_0/1994_735_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 79/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_79_0/1973_79_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 339/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_339_0/1993_339_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9a9284581a65dfbad2592ffce7cbec16ec1424837073691adde5faddd11fbcf",
+      "sha256": "1f50514dc33c1f02b4669e921c63da4956bcdd38876a3dafc40e52e406ebf863",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

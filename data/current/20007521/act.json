@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20007521",
+  "short_title": "Festsetzung des Anpassungsfaktors für das Jahr  2012",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40132741",
+    "valid_from": "2011-11-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007521&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:01:54.124840+00:00",
+    "response_sha256": "d644d3f28c71bac74b2101271fecd2bca2605ca58a3f1d92170c3b0343eca28d",
+    "snapshot_sha256": "86969659e11e4e0f5a0d5e4db527a8d70ff6992dd8925c33f5a3c3799c4e2d64",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d4454075b92189eb03db075c5d916dc8c155b42385221ccf69876e6a28ed4050",
+      "sha256": "646ab9be10bc5c2758e65c199badf88e0a46301650abf150e2fd46113ccc476c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz, mit der der Anpassungsfaktor für das Jahr 2012 festgesetzt wird StF: BGBl. II Nr. 357/2011"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 357/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/357"
+        },
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 52/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/52"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b611f99502b6622ac45261a23bc47c7a9e32bd4789c38cdfecfe72534cabe3d1",
+      "sha256": "bcd531b0c9a9c0b6bdcd5b50e8758eb54cbe1c8db7140cc83761201cff2eb7c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

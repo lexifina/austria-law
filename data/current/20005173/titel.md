@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Justiz über die Urkundenarchive von Körperschaften öffentlichen Rechts für den elektronischen Urkundenverkehr mit den Gerichten (Urkundenarchivverordnung 2007 – UAV 2007) StF: [BGBl. II Nr. 481/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/481>)
+
+Auf Grund des § 91b Abs. 5 des Gerichtsorganisationsgesetzes, [RGBl. Nr. 217/1896](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=217/1896&amp;SkipToDocumentPage=True>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 92/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/92>), wird verordnet:

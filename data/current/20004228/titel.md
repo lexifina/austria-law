@@ -1,0 +1,3 @@
+Bundesgesetz über die Gleichstellung von Menschen mit Behinderungen (Bundes-Behindertengleichstellungsgesetz – BGStG) StF: [BGBl. I Nr. 82/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/82>) (NR: GP XXII [RV 836](<https://www.parlament.gv.at/gegenstand/XXII/I/836>) [AB 1028](<https://www.parlament.gv.at/gegenstand/XXII/I/1028>) [S. 115.](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/115>) BR: [AB 7341](<https://www.parlament.gv.at/gegenstand/BR/I-BR/7341>) [S. 724.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/724>)) \[CELEX-Nr. [32000L0078](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0078:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

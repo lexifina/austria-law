@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 16. Dezember 1983 betreffend die Übermittlung von Daten durch das Österreichische Statistische Zentralamt an den Bundesminister für Land- und Forstwirtschaft für Zwecke des LFBIS (LFBIS-ÖStZ-Verordnung) StF: [BGBl. Nr. 644/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_644_0/1983_644_0.pdf>)
+
+Auf Grund der §§ 3 und 10 Abs. 1, 2 und 4 des LFBIS-Gesetzes, [BGBl. Nr. 448/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_448_0/1980_448_0.pdf>), in der Fassung des Mineralölsteuergesetzes 1981, BGBl. Nr. 597, wird verordnet:

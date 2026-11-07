@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Inneres betreffend die Aufhebung der §§ 2 bis 4 der Verordnung über die Übertragung von Aufgaben der Zivildienstverwaltung (Übertragungs-Verordnung) durch den Verfassungsgerichtshof und Ausspruch des Verfassungsgerichtshofes, dass § 1 der Verordnung über die Übertragung von Aufgaben der Zivildienstverwaltung (Übertragungs-Verordnung) gesetzwidrig war StF: [BGBl. II Nr. 414/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/414>)
+
+Gemäß Art. 139 Abs. 5 erster und zweiter Satz B-VG sowie §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:

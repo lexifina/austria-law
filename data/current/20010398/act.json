@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010398",
+  "short_title": "Errichtung je einer zweiten Notarstelle in Kitzbühel, Kufstein und Lienz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209409",
+    "valid_from": "1974-07-26",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010398&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:54.502505+00:00",
+    "response_sha256": "63adf125cc3c6003426785bae4a854bd1a168dcaa11fd9ad93eb4d7f3843e885",
+    "snapshot_sha256": "849aa0dd601f53b52efdde8c1923a8cbb6ed71431ace71566c470cab7f0d670d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e0b33cceadeff6262c4dbac37089f390a7dc7942ce3c87b1438029850c76f32",
+      "sha256": "44a071ef783dff739cca6a7deb280633526fb51d49c593381d23649a2111d66a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 10. Juli 1974 betreffend die Errichtung je einer zweiten Notarstelle in Kitzbühel, Kufstein und Lienz StF: BGBl. Nr. 412/1974"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 412/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_412_0/1974_412_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "710f60a4168bd89c22e88085831a1ce242c26c6975e6eb1e264a6f1fd8e4c2e3",
+      "sha256": "162d2ebd6c750b8c41999f73497a2af5229d79fc421be5c2f9ae3679f705a62f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

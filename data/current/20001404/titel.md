@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Justiz über den Ausspruch des Verfassungsgerichtshofes, dass die Ergänzung der Satzung der Versorgungseinrichtung der Rechtsanwaltskammer für Kärnten, Teil B: Zusatzpension, in der Fassung des Beschlusses der außerordentlichen Plenarversammlung der Rechtsanwaltskammer für Kärnten vom 4. Juni 1997, kundgemacht im Anwaltsblatt 1997, S 544 und 545, genehmigt mit Bescheid des Bundesministers für Justiz vom 19. August 1997, bis zum Ablauf des 31. Mai 1999 gesetzwidrig war StF: [BGBl. II Nr. 250/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_250_2/2001_250_2.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG wird kundgemacht:

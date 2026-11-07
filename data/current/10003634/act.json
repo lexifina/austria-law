@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10003634",
+  "short_title": "Verordnung gemäß § 2 Abs. 3 Grundbuchsumstellungsgesetz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003663",
+    "valid_from": "1998-05-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003634&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:17:51.069059+00:00",
+    "response_sha256": "a0f5f56cc359312073880134cede83fb923a7d1c7b878afbb464db15f776e8dd",
+    "snapshot_sha256": "d16f49146480b42d5bf43b862abfc23980663f46b7387e0d3fdd0607b03b3f46",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "40de4541384423100f90b441b34e61db05a9a3315249eaeea48d181a9fb323af",
+      "sha256": "a817b9efb0867d39c13003716add6c3c672e24bcb44eac7097714ba455532126",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz gemäß § 2 Abs. 3 Grundbuchsumstellungsgesetz StF: BGBl. II Nr. 139/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 139/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_139_2/1998_139_2.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 550/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_550_0/1980_550_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db6127e5a5fed03849ccd742ff699d8b43da1667bb6a12513f8ad052526aba51",
+      "sha256": "5d552a7fbf702e2d42433a1682295ca017591075c0d18ee0a572c8e0af5678b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "960be6e7c65454450dea75c86976aa276f733c82cdf9c9a37d673634908da8a0",
+      "sha256": "51044ae6f7cfa75b9388ed0caaaeb5f11c952ea99560d268030419b7d5ac1dfa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

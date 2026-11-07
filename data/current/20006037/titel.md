@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales und Konsumentenschutz, mit der der Anpassungsfaktor und die Pensionserhöhung für das Jahr 2009 festgesetzt werden StF: [BGBl. II Nr. 365/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/365>)
+
+Auf Grund des § 108 Abs. 5 in Verbindung mit den §§ 108f, 634 Abs. 12 und 636 des Allgemeinen Sozialversicherungsgesetzes (ASVG), [BGBl. Nr. 189/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 120/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/120>), wird mit Zustimmung der Bundesregierung verordnet:

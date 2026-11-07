@@ -1,0 +1,5 @@
+(Übersetzung) Abkommen zwischen der Österreichischen Bundesregierung und der Königlich Griechischen Regierung über den gewerblichen planmäßigen Luftverkehr StF: [BGBl. Nr. 224/1963](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_224_0/1963_224_0.pdf>)
+
+Die Österreichische Bundesregierung und die Königlich Griechische Regierung, im vorliegenden Abkommen in der Folge die Vertragschließenden Teile genannt, welche beide das Abkommen über die internationale Zivilluftfahrt, das am 7. Dezember 1944 in Chicago zur Zeichnung aufgelegt wurde, im gegenständlichen Abkommen in der Folge „Konvention“ genannt, ratifiziert haben, haben, von dem Wunsche geleitet, für den gewerblichen planmäßigen Luftverkehr zwischen ihren Gebieten und darüber hinaus Abmachungen zu treffen, folgendes vereinbart:
+
+Das vorliegende Abkommen ist gemäß seinem Artikel 18 Absatz 1 am 15. Jänner 1962 in Kraft getreten. Das Königlich Griechische Außenministerium hat der Österreichischen Botschaft in Athen gemäß Artikel 18 Absatz 2 mit Note vom 19. Juni 1963 mitgeteilt, daß das Abkommen vom griechischen Parlament ratifiziert worden ist.

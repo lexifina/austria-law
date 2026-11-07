@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend die Verlängerung des Internationalen Übereinkommens von 1989 über Jute und Jute-Erzeugnisse und dessen Geltungsbereich StF: [BGBl. Nr. 648/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_648_0/1995_648_0.pdf>)

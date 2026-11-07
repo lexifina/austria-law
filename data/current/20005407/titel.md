@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung in den von Dürre und/oder Wüstenbildung schwer betroffenen Ländern, insbesondere in Afrika (UNCCD) StF: [BGBl. II Nr. 183/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/183>)

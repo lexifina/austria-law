@@ -1,0 +1,25 @@
+## ANHANG C
+
+## PARITÄTEN
+
+- 1\. Der Fonds teilt den Mitgliedern mit, daß für die Zwecke dieses Übereinkommens nach Artikel IV Abschnitte 1, 3, 4 und 5 sowie diesem Anhang Paritäten, ausgedrückt in Sonderziehungsrechten oder in einem anderen vom Fonds zugelassenen gemeinsamen Nenner, festgesetzt werden können. Der gemeinsame Nenner darf weder Gold noch eine Währung sein.
+
+- 2\. Ein Mitglied, das eine Parität für seine Währung festzusetzen beabsichtigt, schlägt dem Fonds innerhalb einer angemessenen Frist nach der Mitteilung gemäß Absatz 1 eine Parität vor.
+
+- 3\. Jedes Mitglied, das keine Parität für seine Währung nach Absatz 1 festzusetzen beabsichtigt, konsultiert den Fonds und stellt sicher, daß seine Wechselkursregelungen mit den Zielen des Fonds vereinbar sind und ausreichen, um seine Verpflichtungen aus Artikel IV Abschnitt 1 zu erfüllen.
+
+- 4\. Der Fonds stimmt der vorgeschlagenen Parität innerhalb einer angemessenen Frist nach Eingang des Vorschlags zu oder erhebt Einspruch. Eine vorgeschlagene Parität wird für die Zwecke dieses Übereinkommens nicht wirksam, wenn der Fonds gegen sie Einspruch erhebt; das Mitglied unterliegt dann den Bestimmungen des Absatzes 3. Der Fonds darf keinen Einspruch wegen der innerstaatlichen sozial- und allgemeinpolitischen Ausrichtung des Mitglieds erheben, das die Parität vorschlägt.
+
+- 5\. Jedes Mitglied, das eine Parität für seine Währung hat, verpflichtet sich, durch geeignete, diesem Übereinkommen entsprechende Maßnahmen sicherzustellen, daß die Höchst- und Mindestkurse für Devisenkassageschäfte, die in seinem Hoheitsgebiet zwischen seiner Währung und den Währungen anderer Mitglieder, die Paritäten aufrechterhalten, abgeschlossen werden, von der Parität um nicht mehr als viereinhalb Prozent oder um eine oder mehrere andere Bandbreiten abweichen, die der Fonds mit einer Mehrheit von fünfundachtzig Prozent aller Stimmen beschließen kann.
+
+- 6\. Ein Mitglied darf eine Änderung der Parität seiner Währung nur dann vorschlagen, wenn ein fundamentales Ungleichgewicht behoben oder verhindert werden soll. Eine Änderung darf nur auf Vorschlag des Mitglieds und nur nach Konsultation mit dem Fonds vorgenommen werden.
+
+- 7\. Wird eine Änderung vorgeschlagen, so stimmt der Fonds der vorgeschlagenen Parität innerhalb einer angemessenen Frist nach Eingang des Vorschlags zu oder erhebt Einspruch. Der Fonds stimmt zu, wenn er sich überzeugt hat, daß die Änderung notwendig ist, um ein fundamentales Ungleichgewicht zu beheben oder zu verhindern. Der Fonds darf keinen Einspruch wegen der innerstaatlichen sozial- und allgemeinpolitischen Ausrichtung des Mitglieds erheben, das die Änderung vorschlägt. Eine vorgeschlagene Änderung der Parität wird für die Zwecke dieses Übereinkommens nicht wirksam, wenn der Fonds Einspruch erhebt. Ändert ein Mitglied die Parität seiner Währung gegen den Einspruch des Fonds, so unterliegt es den Bestimmungen des Artikels XXVI Abschnitt 2. Die Aufrechterhaltung einer unrealistischen Parität durch ein Mitglied soll der Fonds zu verhindern suchen.
+
+- 8\. Die nach diesem Übereinkommen festgesetzte Parität der Währung eines Mitglieds wird für die Zwecke des Übereinkommens ungültig, wenn das Mitglied dem Fonds mitteilt, daß es beabsichtigt, die Parität aufzuheben. Der Fonds kann mit einer Mehrheit von fünfundachtzig Prozent aller Stimmen gegen die Aufhebung einer Parität Einspruch erheben. Hebt ein Mitglied die Parität seiner Währung gegen den Einspruch des Fonds auf, so unterliegt das Mitglied den Bestimmungen des Artikels XXVI Abschnitt 2. Eine nach diesem Übereinkommen festgesetzte Parität wird für die Zwecke des Übereinkommens ungültig, wenn das Mitglied die Parität gegen den Einspruch des Fonds aufhebt oder wenn der Fonds feststellt, daß das Mitglied für einen wesentlichen Teil der Devisengeschäfte keine Wechselkurse nach Absatz 5 aufrechterhält; der Fonds darf jedoch eine solche Feststellung nicht treffen, ohne das Mitglied zu konsultieren und es sechzig Tage vorher über seine Absicht unterrichtet zu haben, daß er eine solche Feststellung in Erwägung zieht.
+
+- 9\. Ist die Parität der Währung eines Mitglieds nach Absatz 8 ungültig geworden, so konsultiert das Mitglied den Fonds und stellt sicher, daß seine Wechselkursregelungen mit den Zielen des Fonds vereinbar sind und ausreichen, um seine Verpflichtungen nach Artikel IV Abschnitt 1 zu erfüllen.
+
+- 10\. Ein Mitglied, für dessen Währung die Parität nach Absatz 8 ungültig geworden ist, kann jederzeit eine neue Parität für seine Währung vorschlagen.
+
+- 11\. Ungeachtet des Absatzes 6 kann der Fonds mit einer Mehrheit von siebzig Prozent aller Stimmen einheitliche proportionale Änderungen aller Paritäten vornehmen, wenn das Sonderziehungsrecht gemeinsamer Nenner ist und die Änderungen keine Auswirkung auf den Wert des Sonderziehungsrechts haben. Die Parität der Währung eines Mitglieds darf jedoch auf Grund dieser Bestimmung nicht geändert werden, wenn das Mitglied innerhalb von sieben Tagen nach dem Beschluß des Fonds diesen davon unterrichtet, daß es eine Änderung der Parität seiner Währung durch diesen Beschluß nicht wünscht.

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010391",
+  "short_title": "Auflassung einer Notarstelle in Wien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209396",
+    "valid_from": "1964-06-24",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010391&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:41.817165+00:00",
+    "response_sha256": "88363ec996fd2fdfae8049bf9617beec91ec700ed7c18be0685e63589bf86a91",
+    "snapshot_sha256": "717bb28fbfcb2e120283536d8d8683d27c285c28b90cab90317692fa30152e8a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "348ac5c2fda2eb4370b43f91136c1f18937b32bb700da13440e92c62f2f2d7bb",
+      "sha256": "63037e531e91bc130bbfdab4da8d42892d0ad60505266339628db14f8a15dcce",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Justiz vom 22. Mai 1964, betreffend Auflassung einer Notarstelle in Wien. StF: BGBl. Nr. 137/1964"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 137/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_137_0/1964_137_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b35faf2dc66d6323baf1217f460754a833b228300ad5c650f036f5c0ed7fb3aa",
+      "sha256": "943132dce0953694ca51ca9b5ae8a60e4798e92d56304915e9221fdcbd4e5079",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

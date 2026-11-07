@@ -1,0 +1,98 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003254",
+  "short_title": "Europäisches Patentübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003280",
+    "valid_from": "1994-07-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003254&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:13:29.540316+00:00",
+    "response_sha256": "4c84074d5b6ff49853599c3e1ccf5ec7d1222dbdaba4286233f170eea2f3d0c3",
+    "snapshot_sha256": "5ca188a52b3bd29f8ad06542ca976ac6edf9bb6f7f2baaed974e24b30411f951",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "43e25a475fe59d400fe58d778bfa41607ea9585d61c6e22dfcc0cc7c371bb817",
+      "sha256": "d212e6996a9261d2f3598ecc4a955f09927214918db2d5eac79624f20efff7f0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: BGBl. Nr. 484/1994 idF BGBl. Nr. 457/1995 (DFB)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 484/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_484_0/1994_484_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 457/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_457_0/1995_457_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "42dcd4a6713faf51be9dcd2506449891c2708efd9027da790ce0f4e9b1590c23",
+      "sha256": "b60e7e0f11e82c1ee63486bd00dbab8ba873b93bf599e8e84e211f8264688643",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_350_0/1979_350_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 351/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_351_0/1979_351_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 663/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_663_0/1991_663_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

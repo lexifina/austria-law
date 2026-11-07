@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 1. Oktober 2020, dass § 10 der Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend Lockerungen der Maßnahmen, die zur Bekämpfung der Verbreitung von COVID-19 ergriffen wurden, [BGBl. II Nr. 197/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/197>), gesetzwidrig war StF: [BGBl. II Nr. 484/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/484>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und gemäß § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz über die zur Ermittlung des Werts des einzutragenden Rechts sowie die für die Inanspruchnahme einer begünstigten Bemessungsgrundlage erforderlichen Angaben und Bescheinigungen (Grundbuchsgebührenverordnung – GGV) StF: [BGBl. II Nr. 511/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/511>)
+
+Gemäß § 2 Z 4, § 4 Abs. 7, § 26 Abs. 2 und § 26a Abs. 3 des Gerichtsgebührengesetzes (GGG), [BGBl. Nr. 501/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_501_0/1984_501_0.pdf>), zuletzt geändert durch die Gerichtsgebühren-Novelle 2014, [BGBl. I Nr. 19/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/19>), wird verordnet:

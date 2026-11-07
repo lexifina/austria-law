@@ -1,0 +1,3 @@
+ABKOMMEN ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER REGIERUNG DER TSCHECHOSLOWAKISCHEN SOZIALISTISCHEN REPUBLIK ÜBER DIE AUFHEBUNG DER SICHTVERMERKSPFLICHT StF: [BGBl. Nr. 47/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_47_0/1990_47_0.pdf>)
+
+Die Österreichische Bundesregierung und die Regierung der Tschechoslowakischen Sozialistischen Republik sind von dem Wunsch geleitet, die freundschaftlichen Beziehungen zwischen den beiden Staaten zu vertiefen, den Reiseverkehr zwischen den beiden Staaten weiter zu erleichtern und dadurch die persönlichen Beziehungen ihrer Staatsbürger zu fördern, wie folgt übereingekommen:

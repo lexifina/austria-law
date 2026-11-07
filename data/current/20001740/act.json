@@ -1,0 +1,614 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "20001740",
+  "short_title": "Informationssicherheitsgesetz",
+  "abbreviation": "InfoSiG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001893",
+    "valid_from": "2002-01-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001740&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:36:45.074939+00:00",
+    "response_sha256": "72b5d78cc466be3fa720d51661eb97ef79628b2772ed105ac6ded37fcbc6cd78",
+    "snapshot_sha256": "226c45c42b45b603c2e359f8904cdccfc1c38213f71d548663fbedee24faaa73",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5bf8320bb29efc1dd01f9693c72a02b9eee5c70745c38e199c7dcb70f31fb619",
+      "sha256": "b5afe2f5713ad34bf4672a1abca2295b3fb86d5270c1b4276d6c4729eda757d2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Umsetzung völkerrechtlicher Verpflichtungen zur sicheren Verwendung von Informationen (Informationssicherheitsgesetz, InfoSiG) StF: BGBl. I Nr. 23/2002 (NR: GP XXI RV 753 AB 941 S. 89. BR: AB 6549 S. 683.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 129/2003 (NR: GP XXII RV 312 AB 322 S. 40. BR: 6924 AB 6945 S. 704.) BGBl. I Nr. 10/2006 (NR: GP XXII RV 1084 AB 1244 S. 129. BR: AB 7449 S. 729.) BGBl. I Nr. 32/2018 (NR: GP XXVI RV 65 AB 97 S. 21. BR: 9947 AB 9956 S. 879.) [CELEX-Nr.: 32016L0680] BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 23/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_23_1/2002_23_1.pdf"
+        },
+        {
+          "text": "RV 753",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/753"
+        },
+        {
+          "text": "AB 941",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/941"
+        },
+        {
+          "text": "S. 89.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/89"
+        },
+        {
+          "text": "AB 6549",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6549"
+        },
+        {
+          "text": "S. 683.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/683"
+        },
+        {
+          "text": "BGBl. I Nr. 129/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_129_1/2003_129_1.pdf"
+        },
+        {
+          "text": "RV 312",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/312"
+        },
+        {
+          "text": "AB 322",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/322"
+        },
+        {
+          "text": "S. 40.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/40"
+        },
+        {
+          "text": "6924",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6924"
+        },
+        {
+          "text": "AB 6945",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6945"
+        },
+        {
+          "text": "S. 704.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/704"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/10"
+        },
+        {
+          "text": "RV 1084",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1084"
+        },
+        {
+          "text": "AB 1244",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/1244"
+        },
+        {
+          "text": "S. 129.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/129"
+        },
+        {
+          "text": "AB 7449",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7449"
+        },
+        {
+          "text": "S. 729.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/729"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        },
+        {
+          "text": "RV 65",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/65"
+        },
+        {
+          "text": "AB 97",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/97"
+        },
+        {
+          "text": "S. 21.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/21"
+        },
+        {
+          "text": "9947",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9947"
+        },
+        {
+          "text": "AB 9956",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9956"
+        },
+        {
+          "text": "S. 879.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/879"
+        },
+        {
+          "text": "32016L0680",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32016L0680:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        },
+        {
+          "text": "RV 129",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/129"
+        },
+        {
+          "text": "AB 151",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/151"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35"
+        },
+        {
+          "text": "11651",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11651"
+        },
+        {
+          "text": "AB 11654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11654"
+        },
+        {
+          "text": "S. 980.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d49e915828220ae1daf53f4872db563540358be00bbd62fa0262a81766bd43b",
+      "sha256": "2a2492c1e1b77ce1151922ad38c846f45170d0851828a5e054badc7619c197e9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Beschränkung des Zugangs zu klassifizierten Informationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1c64bebf570e6adf0de7ea52c02565178478796220d990717ba38f6a525f7444",
+      "sha256": "b2025e25083d4dc17a5109a8e0b991133bc2a7bed3324ef2920e65bffbfc7945",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 5/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/5"
+        },
+        {
+          "text": "BGBl. I Nr. 162/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_162_1/1999_162_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Voraussetzungen für den Zugang zu klassifizierten Informationen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2fa57c53936f00df2d18f7ff8d3142be70b8b57156b5a02814b72433f1bc38cd",
+      "sha256": "38680a3c11851c96e8d9c5120c612eb8f0a460d108c84ffe246b2d72e9a8c5fe",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 566/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 86/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_86_1/2000_86_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Verschwiegenheitspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73cf3460ccad5743fdea44b348c3d31aad64e12fa5946ca11a12c9a518e4fcbb",
+      "sha256": "d8b103530a0555d95f4bc72f0af038859dcecd9ce49bf39fef5b5f264b4b22b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Amtshilfe",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a83bee61d4c919adc3bc833ca929963e1849c8ff41b598f15468fff645d48b36",
+      "sha256": "cbf3eeb8a28923dd388b1a7140b29e4f76925590c9410d391194e4eff6f68eef",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Informationssicherheitsverordnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "374cd87f8bab644316646cb679635a0fcb7c3084787d35122489c37428403ea5",
+      "sha256": "27f6ac0311069e413aec338015a00ba6385641701cb37208e59d61bbdc1165bf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Informationssicherheitsbeauftragte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f24375a55093a30d7ec402bdd2db0c2663a254723444653857d667b4523f984e",
+      "sha256": "abe2e96766a4b1dcdafcdc0156a1f4016f29180a8d4082ee00c23f02ebe75d35",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Informationssicherheitskommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b3cdc5669fd76089578a966e1a7aa91e7bf577f13f1151f6d16828884ba7d58",
+      "sha256": "ce9df92583a2837e69299fb81c67dadf8131d07d288dbe36f91ce17667f8d1c9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Gerichtlich strafbare Handlungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e30324fe29c7619cdc0f8f52d6d6d058bac1c9eca9070bad95a27ab9f42dcb6d",
+      "sha256": "06fd4f10e0c52ffc661e663d0b3dfb961cc11e554973c98734997bab212eed54",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Verwaltungsübertretung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "60a2d9b28cbb489e908b088b02a7ac82d897806771fdf8aed49e8bb01b1fe342",
+      "sha256": "0312d71a227f4f0350e0f71d6702b02eaff86374261d524e56aa48a1a8cb01b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "2. Abschnitt Sicherheitsunbedenklichkeitsbescheinigungen für Unternehmen und Anlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca27b41b084036b854fd1abbc29162322aeb6a54719d323c103350f2a3f1c52a",
+      "sha256": "54d79fc9f170109a0e5030e4f886ad1f2bf59c4ce0678bf86f41daf46eed053d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Ausstellung und Widerruf von Sicherheitsunbedenklichkeitsbescheinigungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3895a84b37e8217048bb474781e15328328f89861745726420a4b0450d6bb04",
+      "sha256": "f16a6545b59ab0cf44c75ae255a705dca34d84b7d4ca801952ba3626ac84ca70",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 566/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 86/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_86_1/2000_86_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Kostenersatzpflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dcd51c59d501b7e0f9d624019167fa45230e45f7dde70c4724c88fe952ee99d6",
+      "sha256": "e4008594482a3acc20294caa7d3febcd4a42e945e2e832ddc3ba9836f6526605",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "3. Abschnitt Gemeinsame Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a95c0313695e722a1890b62240e7d565b8375faf4b8bd5d3abed182aec825d28",
+      "sha256": "b2899539bc91b95e6ab7ec90af67b0c73f6b305d0da1bee20b6d09d403b6fe19",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8c5159936feda1ef2b7e420dbe4fdd21ae90264b9d1f7769639352ab67cd457f",
+      "sha256": "08da3ac26af03c781a7518803892587095e7d3da18a56a25a14c3a2ef3560900",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36eb85c60f1c6e3331b7e5df963f96af40294608b967390cc2b2ef7568bcbe11",
+      "sha256": "1ca82a231d7484da147ad6dc54be4200928d0d7d05551d4f942ba3ab91654d84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c06046d7c04e5a78f4c6f7dba6de203711357a3c1e72a1fca789006a366d31f8",
+      "sha256": "a45f54895cfc0bb8bdc1d460cf92769394c629fc95a4beb59b27d28367eaaed1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8af4542b28f27ce7b1c153ee15eede393a7b3e749f2386d29aedecff51d9c339",
+      "sha256": "805bc27abc8187e8edced5636ed0aeba85cdda82d4e564c22f3743933803101f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 32/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/32"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

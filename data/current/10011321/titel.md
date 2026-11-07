@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 8. Juli 1958, betreffend den Beitritt beziehungsweise die Ratifikation weiterer Staaten zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 166/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_166_0/1958_166_0.pdf>)

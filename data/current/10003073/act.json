@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003073",
+  "short_title": "Errichtung einer zweiten Notarstelle in Saalfelden am Steinernen Meer",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003098",
+    "valid_from": "1992-11-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003073&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:22.617704+00:00",
+    "response_sha256": "190b940266cff7ccec0dcad3ce4af16056f0cb43d3a38084aeee4ac8beac2391",
+    "snapshot_sha256": "c0b1ff07880465142622b1fe2713b5aaaeef32a8761666af253d0c0907f909a2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "daedb369834984691c97f9c34a191a11a1ebb29c8a97a09af7ea171811f42e1f",
+      "sha256": "3f558e41955cf99e6ff896905bbda55ba474e2117b257d3d57d2cf9dd6836846",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zweiten Notarstelle in Saalfelden am Steinernen Meer StF: BGBl. Nr. 694/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 694/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_694_0/1992_694_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "553b35312da66633ac5d0625d9f6f4dc9a97f27fff5d3513e02b667e31881a55",
+      "sha256": "2ae8d9883a0845b506315ab36ec6b44172965f165c9e4f9f0d0c79e162a14c9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

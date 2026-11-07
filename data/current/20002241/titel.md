@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über Grenzwerte für Arbeitsstoffe sowie über krebserzeugende und fortpflanzungsgefährdende (reproduktionstoxische) Arbeitsstoffe (Bundes-Grenzwerteverordnung – B-GKV) StF: [BGBl. II Nr. 393/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_393_2/2002_393_2.pdf>)
+
+Auf Grund des § 48 Abs. 1 Z 3 sowie auf Grund der §§ 12, 40 Abs. 3, 42 Abs. 1 und 2, 43 Abs. 2, 45, 72 Z 6 und 87 Abs. 2 des Bundes-Bedienstetenschutzgesetzes – B-BSG, [BGBl. I Nr. 70/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_70_1/1999_70_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 87/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_87_1/2001_87_1.pdf>), wird verordnet:

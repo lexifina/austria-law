@@ -1,0 +1,3 @@
+Bundesgesetz über eine Verbrauchsteuer auf Tabakwaren und tabakverwandte Produkte (Tabaksteuergesetz 2022 – TabStG 2022) StF: [BGBl. Nr. 704/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_704_0/1994_704_0.pdf>) (NR: GP XVIII [RV 1702](<https://www.parlament.gv.at/gegenstand/XVIII/I/1702>) [AB 1817](<https://www.parlament.gv.at/gegenstand/XVIII/I/1817>) [S. 172.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/172>) BR: [AB 4855](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4855>) [S. 589.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/589>))
+
+Der Nationalrat hat beschlossen:

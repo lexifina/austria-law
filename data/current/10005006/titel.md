@@ -1,0 +1,3 @@
+Tabakmonopolgesetz 1996 (TabMG 1996) StF: [BGBl. Nr. 830/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_830_0/1995_830_0.pdf>) idF [BGBl. Nr. 44/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_44_0/1996_44_0.pdf>) (DFB) (NR: GP XIX [IA 408/A](<https://www.parlament.gv.at/gegenstand/XIX/A/408>) [AB 390](<https://www.parlament.gv.at/gegenstand/XIX/I/390>) [S. 57.](<https://www.parlament.gv.at/gegenstand/XIX/NRSITZ/57>) BR: [AB 5122](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5122>) [S. 606.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/606>))
+
+Der Nationalrat hat beschlossen:

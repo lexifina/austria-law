@@ -1,0 +1,3 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 943 (1994) verabschiedet auf der 3428. Sitzung des Sicherheitsrats am 23. September 1994 StF: [BGBl. Nr. 860/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_860_0/1994_860_0.pdf>)
+
+Nach Mitteilung des Generalsekretärs der Vereinten Nationen hat der Sicherheitsrat folgende Resolution verabschiedet:

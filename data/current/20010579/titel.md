@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Landesverteidigung betreffend die Übertragung des Rechtes zur Ernennung von Bundesbeamten an Leiter von nachgeordneten Dienstbehörden StF: [BGBl. II Nr. 43/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/43>)
+
+Auf Grund des Art. 66 Abs. 1 B-VG in Verbindung mit der Entschließung des Bundespräsidenten betreffend die Ausübung des Rechtes zur Ernennung von Bundesbeamten, [BGBl. Nr. 54/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_54_0/1995_54_0.pdf>), zuletzt geändert durch die Entschließung [BGBl. II Nr. 245/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/245>), wird verordnet:

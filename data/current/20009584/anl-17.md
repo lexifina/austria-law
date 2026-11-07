@@ -1,0 +1,9 @@
+## ANHANG XVII
+
+## GEOGRAFISCHE ANGABEN
+
+(Anm.: Anhang XVII ist als PDF dokumentiert)
+
+## Begleitende Dokumente
+
+- [PDF-Dokument: Anhang XVII](<https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40184868/III_115_2016_Anhang_XVII.pdf>)

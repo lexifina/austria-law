@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003400",
+  "short_title": "Errichtung einer dritten Notarstelle in Steyr",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003427",
+    "valid_from": "1996-04-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003400&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:14:57.264120+00:00",
+    "response_sha256": "858bff1e9071f042a7f02950a57c618b399b8135227484cebb09bf57a62fa93b",
+    "snapshot_sha256": "8cc8bbf24ecba243797c01399ec48f2092150751793fbcc5fad2ceb05806aafc",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e7df17dcc9602f027ebd521b91b321c5785339f79748386e5be64baf071dabe6",
+      "sha256": "a94fc9b415be41adcd95cc6da30a07e90081b6d8359b08fd69d1d150ada5363d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Steyr StF: BGBl. Nr. 173/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 173/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_173_0/1996_173_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93c2c200388f50aebc569aae34891a63696c108dbb743b4654e4e41c0d783ecb",
+      "sha256": "7495a05a3185561c9223c3678eb26934b36236af58f4ccc3f37f103cb02b04ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

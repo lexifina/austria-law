@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003673",
+  "short_title": "Errichtung einer dritten Notarstelle in Eisenstadt",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003703",
+    "valid_from": "1999-08-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003673&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:18:25.187775+00:00",
+    "response_sha256": "928d9c945df777ef7112af25896955dd09f70bf22a154cd9c88ae3a0ac1e0a39",
+    "snapshot_sha256": "4dc0d0489a880589cc76acac7185a76333b7d051af5142eff8d19bb27b07fd93",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27e0b0f234d204e817a3cb36a9079d97b67a6dc3237386ae1db5792e33cc0b1d",
+      "sha256": "7a289d7043979ceb9237908465b0187f59a6b6dff39d69d24ebb84a17c8a3cc5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer dritten Notarstelle in Eisenstadt StF: BGBl. II Nr. 268/1999"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 268/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_268_2/1999_268_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 72/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_72_1/1999_72_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72977c0f61ef543b20700084267bd6b7db4fa9f25ec436669e26e06478dea079",
+      "sha256": "fb8ce67e68612aea69b09ae665e02b5ca251e56f2c92ab4ceb23b16fb4297340",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

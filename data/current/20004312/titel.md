@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, mit der eine Liegenschaft des Bundes an die Gesellschaft Spanische Hofreitschule – Bundesgestüt Piber übertragen wird StF: [BGBl. II Nr. 300/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/300>)
+
+Aufgrund des § 3 Abs. 2 des Bundesgesetzes, mit dem die Spanische Hofreitschule und das Bundesgestüt Piber rechtlich verselbständigt werden (Spanische Hofreitschule-Gesetz), [BGBl. I Nr. 115/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_115_1/2000_115_1.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

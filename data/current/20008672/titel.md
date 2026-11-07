@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend Abkürzung, Name und Embleme der Europäischen Bank für Wiederaufbau und Entwicklung (EBRD) StF: [BGBl. II Nr. 387/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/387>)

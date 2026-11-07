@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003728",
+  "short_title": "Weltgesundheitsorganisation - Satzung",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30004046",
+    "valid_from": "1959-07-17",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003728&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:03:55.140742+00:00",
+    "response_sha256": "5fd99bc7eb724e87ebfc231eb4b4d5345c7ad3e5208f2d5b5c5c44670d378dcc",
+    "snapshot_sha256": "575831837be6c364bba8b90bbf4b1f8f4b4b4c75d6fce8adc7063aea6b5b81c7",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81df3d7d64ecd86e379ebd204bf77a71a874734156fabe65969dfc6f2ec08930",
+      "sha256": "0e467ac72d1682d26c59c852e3ca6c118a037198c7629ba6297af0c0172b205b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. Juni 1959 über den Geltungsbereich der Satzung der Weltgesundheitsorganisation. StF: BGBl. Nr. 157/1959"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 157/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_157_0/1959_157_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a1acd1aeced9180a00d1b15eb44ac708a3b9d884c32a20a60a7843517e80c816",
+      "sha256": "7c055c943e24bb6d7129508b91f89d4021cbc06185b376d442f9ff61424ac4f7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 96/1949",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1949_96_0/1949_96_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

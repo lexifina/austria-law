@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20013137",
+  "short_title": "Errichtung einer weiteren Notarstelle in Wien-Meidling",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40276830",
+    "valid_from": "2026-03-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013137&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:52:45.874943+00:00",
+    "response_sha256": "db1f6a5e161d5c3971b63c99fe9fa43609b8df53bb5193a2353af2493c173a40",
+    "snapshot_sha256": "66bc3f296d190d1ae1d177617581ffead7134fcf5a1dd3f640e509b36a587c2d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a9c8a43368cd16ae266c0a75f5e0938a85a5e1c4f76a16c4679aa8006e419bae",
+      "sha256": "eff04991dd66fe09d6f8ec162652880082155bafb78ad52d662a4a1412445b9a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Justiz über die Errichtung einer weiteren Notarstelle in Wien-Meidling StF: BGBl. II Nr. 72/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 72/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/72"
+        },
+        {
+          "text": "RGBl. Nr. 75/1871",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=75/1871&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d672c0a5186729423077b64ba7d32a5e8e5f9932791a96b611395f7764890a9",
+      "sha256": "cf4988ad64267444998e0cf62ab988ecfa8a7578a3c57e566c092a9423b12d79",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

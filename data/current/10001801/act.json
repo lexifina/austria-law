@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001801",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001823",
+    "valid_from": "1932-07-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001801&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:52:57.626963+00:00",
+    "response_sha256": "9da8c8c78ee1abc59c88203d32ade96dc11d1f28526c86278d63cb5fbf99a243",
+    "snapshot_sha256": "ae418197052e6b4c4ecac8ac46b0cfab6913de1b8f50004396f2feb9f78511c2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67615ab2c5b9e25341b54ddc805d5cdcf853e0c8e7fd181d2eeaab627c796457",
+      "sha256": "73df8a663b422e8b1739f5904f83c9fc37210b08ca0cd0e566af6638a9f5c317",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 22. Juli 1932, betreffend die Ausdehnung des Geltungsbereiches des österreichisch-britischen Rechtshilfeabkommens. StF: BGBl. Nr. 202/1932"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 202/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=202/1932&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b26c7cca470e7da39fbb550c990a7db7a392149881be81bdc0f4b27710410128",
+      "sha256": "ebb4e6fedfa4cc995a2bbd70d968c27acfa0bf576ea4fdcb1b829c5701d53b2b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

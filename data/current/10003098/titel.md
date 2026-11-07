@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem des Benelux-Amtes für Muster und Modelle StF: [BGBl. Nr. 308/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_308_0/1993_308_0.pdf>)

@@ -1,0 +1,111 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003284",
+  "short_title": "Hoheitszeichen - Bundesrepublik Deutschland",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003311",
+    "valid_from": "1995-03-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Tritt betreffend Hoheitszeichen der Bundesrepublik Deutschland und ihrer Länder teilweise und zwar hinsichtlich der Bundespostflagge und der Postsignalflagge für Seeschiffe außer Kraft (vgl. BGBl. II Nr. 186/2006)."
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003284&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:13:50.972605+00:00",
+    "response_sha256": "d9040d65cf77afd8f994578f3d7fb43730300b5c0e86570e8510a086daffa631",
+    "snapshot_sha256": "c9aa21a68b9613fe7871b268593f80930875299059c3e1bada6e9101725f25d3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cc489a55674f74406d8ceede9b4723c91f8597e9aed045d956324fb8bdf04b4",
+      "sha256": "167d9ec2c24db62fdc6ce0f926ad909941b6fb02345055114fe661535d999f5d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Tritt betreffend Hoheitszeichen der Bundesrepublik Deutschland und ihrer Länder teilweise und zwar hinsichtlich der Bundespostflagge und der Postsignalflagge für Seeschiffe außer Kraft (vgl. BGBl. II Nr. 186/2006)."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen der Bundesrepublik Deutschland und ihrer Länder StF: BGBl. Nr. 157/1995"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 186/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 186/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/186"
+        },
+        {
+          "text": "BGBl. Nr. 157/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_157_0/1995_157_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 186/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/186"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0111c0e64809a15c68b4bcca7c4ad7931fc12d81226272ac475aecb093df9d1e",
+      "sha256": "9b5a76b5187608ab3657e7032f43b3bc8d495134fd82d68a528d5b704ca8d6fa",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Tritt betreffend Hoheitszeichen der Bundesrepublik Deutschland und ihrer Länder teilweise und zwar hinsichtlich der Bundespostflagge und der Postsignalflagge für Seeschiffe außer Kraft (vgl. BGBl. II Nr. 186/2006)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 186/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/186"
+        },
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

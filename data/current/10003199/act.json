@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003199",
+  "short_title": "Emblem - EFTA Gerichtshof",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003225",
+    "valid_from": "1994-08-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003199&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:13:12.175980+00:00",
+    "response_sha256": "32cbaf878be05c32b02bef74e7dc7b2ecb6d5866de2c195a76fad8f655715a68",
+    "snapshot_sha256": "f5dac178bda2205fb561231abe283b2b66f40b51d8aa4021c83ca3623fd70a20",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "21deeb00de69216d9911ac68fd16d3977ee68adc3d6d0aa0bff5dab855d58418",
+      "sha256": "f70b3be4da59ad5ecb82213a051339754c8fedf27e1db36261b33ff2de418725",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem des EFTA Gerichtshofes StF: BGBl. Nr. 688/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 688/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_688_0/1994_688_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "214a1e580285e3ae4252f7c2a59c025c3d27d16628acf3b944e9e4b06e1d65ad",
+      "sha256": "5615f63063a470a8b85b9448822b8190620d908aa876e5a5ddb5b3abf3621dd7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

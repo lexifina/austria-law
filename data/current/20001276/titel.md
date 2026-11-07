@@ -1,0 +1,1 @@
+Kundmachung der Bundesministerin für Verkehr, Innovation und Technologie betreffend den Namen (in Englisch, Französisch, Spanisch und Portugiesisch) und das Emblem der Inter-American Investment Corporation StF: [BGBl. II Nr. 155/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_155_2/2001_155_2.pdf>)

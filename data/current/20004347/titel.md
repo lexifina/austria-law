@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das neue Emblem der vorbereitenden Kommission für die Organisation des Vertrages über das umfassende Verbot von Nuklearversuchen StF: [BGBl. II Nr. 333/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/333>)

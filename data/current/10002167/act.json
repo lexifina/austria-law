@@ -1,0 +1,113 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002167",
+  "short_title": "Zeichen des Bureau International des Expositions",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002190",
+    "valid_from": "1970-05-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002167&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:59:24.670675+00:00",
+    "response_sha256": "3805aead42e03e2697e7b9a09d1a53c330342d50d443705bb6de184a602b1114",
+    "snapshot_sha256": "2e3d5ca06fe1f5a0f4e79ec11860831e77e067710d4e1fc4f728e78050d38af2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52947a54aa8e52be65937f59b629a18a2923eea3dea60ceb279b3c1b14912ccb",
+      "sha256": "281303dca3552d0b1e837740fee307cff335fb44f7333eaa7ba941dcf7a3954d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 7. April 1970, betreffend ein Zeichen des Bureau International des Expositions StF: BGBl. Nr. 143/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 143/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_143_0/1970_143_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34024aaf1fc60589ef49ebad2e595a563734b03a9670dcff47d2c7f2a7b135f0",
+      "sha256": "d04a917d27b7c1d81f16c4719b915d433c0f0b87631424fcf82b48e8065590d1",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 79/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_79_0/1969_79_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c02e280ca156c26210a1dc42cb39e8b93348662d6bd381beb03c544b5f69d5cc",
+      "sha256": "558543f2b896f75395efbca0737a060279721106a40169417a7e02a24f5685be",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12028496/image001.png",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

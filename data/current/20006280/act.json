@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20006280",
+  "short_title": "Ermächtigung bestimmter Vertretungsbehörden",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30007120",
+    "valid_from": "2009-05-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006280&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:43:07.704195+00:00",
+    "response_sha256": "cc54d077496d7088dd35b38fb67ab759403f6b671a6059d9bbfed8238cd6067d",
+    "snapshot_sha256": "431fe8b4a71c23938afdf21d06687ebc1a31cd8fa73bbe963ee6ffec1ff0799a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "961320277cf97b3192f0b27e9db2af89ec999560ad95985eddd9e7480c0f1257",
+      "sha256": "c6a66af26bedf4616185e731b687da54fd5e71bf77e0fb5fc5ca67a28e0a3188",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für europäische und internationale Angelegenheiten über die Ermächtigung bestimmter Vertretungsbehörden zur Vornahme antragsbedürftiger passbehördlicher Amtshandlungen im Interesse der besseren Erreichbarkeit StF: BGBl. II Nr. 129/2009"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 129/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/129"
+        },
+        {
+          "text": "BGBl. Nr. 839/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_839_0/1992_839_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 6/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/6"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Besondere örtliche Zuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52f58dd739dd336145241540017e9c6b9d33f40c223cdeff20b97576a1a33e7b",
+      "sha256": "f409ebc5d8d034d3caeaaade51d2165253ad1094c2032c9f8e69d03c9c1ef2b8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

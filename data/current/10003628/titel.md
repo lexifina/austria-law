@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend den Namen, den abgekürzten Namen und das Siegel (jeweils in Englisch, Französisch und Spanisch), sowie das Emblem (in schwarz-weiß und in Farbe) der Welthandelsorganisation StF: [BGBl. II Nr. 76/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_76_2/1998_76_2.pdf>)

@@ -1,0 +1,1 @@
+Hofdecret vom 21sten December 1832, an sämmtliche Appellations-Gerichte, zu Folge allerhöchster Entschließung vom 20. October 1832, über Vortrag der Hof-Commission in Justiz-Gesetzsachen. StF: JGS Nr. 2582/1832

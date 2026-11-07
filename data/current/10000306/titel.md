@@ -1,0 +1,3 @@
+Bundesgesetz vom 25. Juni 1958, über die Gewährung von Entschädigungen für durch Kriegseinwirkung oder durch politische Verfolgung erlittene Schäden an Hausrat und an zur Berufsausübung erforderlichen Gegenständen (Kriegs- und Verfolgungssachschädengesetz – KVSG.). StF: [BGBl. Nr. 127/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_127_0/1958_127_0.pdf>) (NR: GP VIII [IA 62/A](<https://www.parlament.gv.at/gegenstand/VIII/A/62>) [AB 490](<https://www.parlament.gv.at/gegenstand/VIII/I/490>) [S. 60.](<https://www.parlament.gv.at/gegenstand/VIII/NRSITZ/60>) BR: [S. 136.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/136>))
+
+Der Nationalrat hat beschlossen:

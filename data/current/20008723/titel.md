@@ -1,0 +1,3 @@
+Verordnung des Bundeskanzlers über die Pauschalierung der Aufwandersätze im Verfahren vor den Verwaltungsgerichten über Beschwerden wegen Ausübung unmittelbarer verwaltungsbehördlicher Befehls- und Zwangsgewalt und Beschwerden wegen Rechtswidrigkeit eines Verhaltens einer Behörde in Vollziehung der Gesetze (VwG-Aufwandersatzverordnung – VwG-AufwErsV) StF: [BGBl. II Nr. 517/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/517>)
+
+Auf Grund der §§ 35 Abs. 4 Z 3 und 53 des Verwaltungsgerichtsverfahrensgesetzes – VwGVG, [BGBl. I Nr. 33/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/33>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 122/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/122>), wird verordnet:

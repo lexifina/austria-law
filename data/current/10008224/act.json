@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008224",
+  "short_title": "B-KUVG für Dienstnehmer der Wiener Börsekammer und der Kammer der Börse für landwirtschaftliche Produkte in Wien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008374",
+    "valid_from": "1968-12-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008224&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:16:59.548299+00:00",
+    "response_sha256": "adaa4ddfda36b5afdec09867c2eb4577f31a101e5929e548da54966010f49ef5",
+    "snapshot_sha256": "ec39051e139954e7b9566c6c8c459065b5f33d9e66d5e16622c5737d744447af",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "905d91f07ec04c7c2e5802e5aa9c0b2d4be43e0a5f11973661966b29f67947b6",
+      "sha256": "05886f372c0dc855350e15af62ac3b0e69eec7ced10257c6d380c270e47db35e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für soziale Verwaltung vom 1. Dezember 1968 über die Einbeziehung von Dienstnehmern der Wiener Börsekammer und der Kammer der Börse für landwirtschaftliche Produkte in Wien in die nach dem B-KUVG. geregelte Unfallversicherung StF: BGBl. Nr. 422/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 422/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_422_0/1968_422_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 200/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_200_0/1967_200_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "51993a61cd637674252d71fadf36cd4a45ec02a9e133cfec408f2a5ffae8a99e",
+      "sha256": "958af146de2760f8c9347343d7c2f6d01d3085aae32f91375882974bc95ececd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

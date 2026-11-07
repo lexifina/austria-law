@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000316",
+  "short_title": "Übereinkommen der II. Haager Friedenskonferenz",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000317",
+    "valid_from": "1958-09-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000316&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:27:23.482549+00:00",
+    "response_sha256": "4ceaa5149453ca27b003e4e6b70fbdb7ffdd20e8fbcdb02e4ca90b4a8b4ed105",
+    "snapshot_sha256": "1def7b1d4ac5dc22800332c7a0f119c24a8bf5423440a09c109f1b4e5ce691b5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27e7c3ecd2d345eed3a3c384eb54904a698660630bc5d31fa663aa5483cb9884",
+      "sha256": "a774ad2c9991eaddf00073c72223e3c62f6d032f03770b88e7015dec885688da",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 30. August 1958 über die Ratifikation des Übereinkommens vom 18. Oktober 1907 zur friedlichen Erledigung internationaler Streitfälle (I. Übereinkommen der II. Haager Friedenskonferenz) durch die Dominikanische Republik. StF: BGBl. Nr. 207/1958"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 207/1958",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_207_0/1958_207_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "00894d774f55640f42a13abcf24ddf8b6af9e9c1e7ad9bffec4ed12803da4c15",
+      "sha256": "fb9140912301103904bbe7e0b28383119186612cd3c15781f61ac5518c0d6674",
+      "notes": [],
+      "links": [
+        {
+          "text": "RGBl. Nr. 177/1913",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=177/1913&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

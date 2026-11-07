@@ -1,0 +1,37 @@
+## Anlage 1
+
+## Ermittlung der Sperrstrecken d, d<sub>1</sub> und d<sub>F</sub>
+
+- 1\. Messlinie für die Ermittlung der Sperrstrecken
+
+  - a) Die Sperrstrecke d ist in der Straßenrichtung und unter Berücksichtigung eines 2,60 m breiten Straßenfahrzeuges in der Achse dieses Fahrzeuges für beide Verkehrsrichtungen der Straße zu erheben oder zu berechnen. Der größere Wert ist maßgebend. Die Achse des Straßenfahrzeuges ist anzunehmen – bei einer Fahrbahnbreite bis 4,0 m in der Mitte der Fahrbahn; – bei einer Fahrbahnbreite von über 4,0 m bis 5,2 m in einem Abstand von 1,3 m vom rechten Fahrbahnrand; – bei einer Fahrbahnbreite von über 5,2 m bis 7,0 m in der Mitte der jeweils rechten Fahrbahnhälfte; – bei einer Fahrbahnbreite von über 7,0 m in der Mitte eines 3,50 m breiten an den rechten Fahrbahnrand anschließenden Fahrstreifens; – bei Fahrbahnbreiten, die mehr als einen Fahrstreifen in eine Richtung der Straße aufweisen, in der Mitte des jeweiligen Fahrstreifens, wobei für die jeweilige Richtung der größere Wert maßgebend ist.
+
+  - b) Die Sperrstrecke d<sub>1</sub> ist in der Straßenrichtung und unter Berücksichtigung eines 2,60 m breiten Straßenfahrzeuges in der Achse dieses Fahrzeuges für beide Verkehrsrichtungen der Straße zu erheben oder zu berechnen. Der größere Wert ist maßgebend. Die Achse des Straßenfahrzeuges ist anzunehmen – bei einer Fahrbahnbreite bis 4,0 m in der Mitte der Fahrbahn; – bei einer Fahrbahnbreite von über 4,0 m bis 5,2 m in einem Abstand von 1,3 m vom rechten Fahrbahnrand; – bei einer Fahrbahnbreite von über 5,2 m bis 7,0 m in der Mitte der jeweils rechten Fahrbahnhälfte; – bei einer Fahrbahnbreite von über 7,0 m in der Mitte eines 3,50 m breiten an den rechten Fahrbahnrand anschließenden Fahrstreifens; – bei Fahrbahnbreiten, die mehr als einen Fahrstreifen in eine Richtung der Straße aufweisen, in der Mitte des jeweiligen Fahrstreifens, wobei für die jeweilige Richtung der größere Wert maßgebend ist.
+
+  - c) Die Sperrstrecke d<sub>F</sub> ist in Wegrichtung 60 cm vom längeren Wegrand entfernt zu erheben.
+
+- 2\. Ermittlung der Sperrstrecke d und d<sub>F</sub> bei der Sicherung durch Lichtzeichen
+
+  - a) Die Sperrstrecke d für Fahrzeugverkehr beginnt an jener Stelle, an welcher Straßenbenützer gemäß § 97 Abs. 4 vor der Eisenbahnkreuzung anzuhalten haben, und endet 2 m nach der letzten Schiene jenes Gleises, das in die Berechnung der erforderlichen Annäherungszeit einbezogen ist.
+
+  - b) Die Sperrstrecke d<sub>F</sub> für Fußgängerverkehr beginnt – wenn kein Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist und der Fußgänger den letzten Signalgeber vor der ersten Schiene zuerst erreicht, bei diesem Signalgeber, – wenn der Fußgänger jene Stelle, die mindestens 3,0 m vor der ersten Schiene liegt, zuerst erreicht oder ein zugehöriger Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist, bei der mindestens 3,0 m von der ersten Schiene entfernten Stelle, und endet 2 m nach der letzten Schiene jenes Gleises, das in die Berechnung der erforderlichen Annäherungszeit einbezogen ist.
+
+- 3\. Ermittlung der Sperrstrecken d<sub>1</sub> und d<sub>F</sub> bei der Sicherung durch Lichtzeichen mit Halbschranken oder bei der Sicherung durch Lichtzeichen mit Vollschranken mit versetztem Schließen der Schrankenbäume
+
+  - a) Der Teil d1 der Sperrstrecke d bei Fahrzeugverkehr beginnt an jener Stelle, an welcher Straßenbenützer gemäß § 97 Abs. 4 vor der Eisenbahnkreuzung anzuhalten haben, und endet nach dem Zufahrtsschranken.
+
+  - b) Die Sperrstrecke d<sub>F</sub> bei Lichtzeichen mit Halbschranken beginnt bei Fußgängerverkehr auf jener Bahnseite, die durch den Schrankenbaum des Halbschrankens nicht gesperrt wird, – wenn kein Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist und der Fußgänger den vor der ersten Schiene angeordneten Signalgeber zuerst erreicht, bei diesem Signalgeber, – wenn der Fußgänger jene Stelle, die mindestens 3,0 m vor der ersten Schiene liegt, zuerst erreicht oder ein zugehöriger Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist oder keine Lichtzeichen als Anhaltegebot vorgesehen sind, bei der mindestens 3,0 m von der ersten Schiene entfernten Stelle, und endet nach dem Schrankenbaum nach der letzten Schiene.
+
+  - c) Die Sperrstrecke d<sub>F</sub> bei Lichtzeichen mit Vollschranken mit versetztem Schließen der Schrankenbäume beginnt bei Fußgängerverkehr auf jener Bahnseite, die durch den Schrankenbaum des Ausfahrtsschrankens gesperrt wird, – wenn kein Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist und der Fußgänger den vor dem Schrankenbaum des Ausfahrtsschrankens angeordneten Signalgeber zuerst erreicht, bei diesem Signalgeber, – wenn der Fußgänger den Schrankenbaum des Ausfahrtsschrankens zuerst erreicht oder ein zugehöriger Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist oder keine Lichtzeichen als Anhaltegebot vorgesehen sind, vor dem Ausfahrtsschranken und endet nach dem Zufahrtsschranken.
+
+- 4\. Ermittlung der Sperrstrecken d und d<sub>F</sub> bei der Sicherung durch Lichtzeichen mit Vollschranken
+
+  - a) Die Sperrstrecke d beginnt bei Fahrzeugverkehr an jener Stelle, an welcher Straßenbenützer gemäß § 97 Abs. 4 vor der Eisenbahnkreuzung anzuhalten haben, und endet nach dem nach der letzten Schiene angeordneten Schrankenbaum.
+
+  - b) Die Sperrstrecke d<sub>F</sub> beginnt bei Fußgängerverkehr – wenn kein Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist und der Fußgänger den vor dem Schrankenbaum angeordneten Signalgeber zuerst erreicht, bei diesem Signalgeber, – wenn der Fußgänger den Schrankenbaum zuerst erreicht oder ein zugehöriger Signalgeber nach der letzten Schiene (Rücklicht) angeordnet ist, vor dem Schrankenbaum, und endet nach dem nach der letzten Schiene angeordneten Schrankenbaum.
+
+- 5\. Ermittlung der Sperrstrecken d und d<sub>F</sub> bei der Sicherung durch Gewährleisten des erforderlichen Sichtraumes oder durch Abgabe akustischer Signale vom Schienenfahrzeug aus
+
+  - a) Die Sperrstrecke d beginnt an jener Stelle, an welcher Straßenbenützer gemäß § 97 Abs. 4 vor der Eisenbahnkreuzung anzuhalten haben und endet 2 m nach der letzten Schiene jenes Gleises, das in die Berechnung der erforderlichen Annäherungszeit einbezogen ist. Eine Berechnung der Sperrstrecke d ist nur zulässig, wenn der Verlauf der Straße einschließlich eines Straßenstückes beiderseits der Bahn mit einer Länge von jeweils etwa 25 m (gemessen jeweils von der nächstgelegenen Schiene) sowie der Verlauf der Bahn im Bereich der Eisenbahnkreuzung geradlinig ist. Erforderlichenfalls dürfen unterschiedliche Werte, die sich aus den Verkehrsrichtungen der Straße ergeben, berücksichtigt werden.
+
+  - b) Die Sperrstrecke d<sub>F</sub> beginnt auf Höhe des Standortes des Andreaskreuzes, jedoch an einer mindestens 3,0 m von der nächstgelegenen Schiene entfernten Stelle, und endet 2 m nach der letzten Schiene jenes Gleises, das in die Berechnung der erforderlichen Annäherungszeit einbezogen ist. Eine Berechnung der Sperrstrecke d<sub>F</sub> ist nur zulässig, wenn der Verlauf der Straße oder des Weges einschließlich eines Straßen- oder Wegstückes beiderseits der Bahn mit einer Länge von jeweils etwa 3,0 m (gemessen jeweils von der nächstgelegenen Schiene) sowie der Verlauf der Bahn im Bereich der Eisenbahnkreuzung geradlinig ist. Erforderlichenfalls dürfen unterschiedliche Werte, die sich aus den Verkehrsrichtungen der Straße ergeben, berücksichtigt werden.

@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002120",
+  "short_title": "Vollstreckung gerichtlicher Entscheidungen - Ausführung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002143",
+    "valid_from": "1968-03-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002120&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:58:13.003420+00:00",
+    "response_sha256": "f468bd65b7e45ef5646da39fdb70bc690bf97395ad3e09cdbff8ce0c7fecb48c",
+    "snapshot_sha256": "eb9699bf0f7e2e8171b538b51d8293a63b6e94a09232323daf0de1435a1687e2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aed466d3a1b4d07e3285863573dc74775be85905ff4c4e484670e302875ac9cb",
+      "sha256": "0099e962823e9c8d9efcc85d273fc5578ed8b5c3510c5be1d582b9a8d7a7f3c7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 5. Feber 1968 betreffend die Feststellung des Eintritts der Voraussetzungen gemäß Artikel 3 zweiter Absatz des Vertrages zwischen der Republik Österreich und der Schweizerischen Eidgenossenschaft über die Anerkennung und Vollstreckung gerichtlicher Entscheidungen, BGBl. Nr. 125/1962 StF: BGBl. Nr. 84/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 125/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_125_0/1962_125_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 84/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_84_0/1968_84_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e24a51285305746639deb6ad84f2d3c32b0d034fb6a99a2b760b793a0b733cfa",
+      "sha256": "40f9ec9f5eec30a76f129380ae5bb023d6930e96a978cbd7a051a7dfeceb4720",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

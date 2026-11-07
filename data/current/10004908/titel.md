@@ -1,0 +1,3 @@
+Bundesgesetz über eine Verbrauchsteuer auf Mineralöl, Kraftstoffe und Heizstoffe (Mineralölsteuergesetz 2022 – MinStG 2022) StF: [BGBl. Nr. 630/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_630_0/1994_630_0.pdf>) (NR: GP XVIII [RV 1714](<https://www.parlament.gv.at/gegenstand/XVIII/I/1714>) [AB 1822](<https://www.parlament.gv.at/gegenstand/XVIII/I/1822>) [S. 172.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/172>) BR: [AB 4860](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4860>) [S. 589.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/589>))
+
+Der Nationalrat hat beschlossen:

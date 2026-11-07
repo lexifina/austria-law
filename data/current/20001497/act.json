@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001497",
+  "short_title": "Errichtung einer zehnten Notarstelle in Innsbruck",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001626",
+    "valid_from": "2001-09-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001497&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:33:18.078169+00:00",
+    "response_sha256": "14cfe479f4fc613162954658c57d1b29e5405d1e96546adf09f5058dc72826e9",
+    "snapshot_sha256": "c602f4764a141c192f54c1c345145a741734131b813f5edcf2b48d98996f22ed",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "196ea52b82619e36c74ff7ae6c5bd7e454863b49c4bd2d9bb239246117f634d5",
+      "sha256": "9c334b6e7a084fc9fcfb872d817ae9f433eb5ce3d45807488f9f2e39c5d82c9a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer zehnten Notarstelle in Innsbruck StF: BGBl. II Nr. 330/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 330/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_330_2/2001_330_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c1af283f6d12d336cabb05007eb373c417d5a43d7aa7f738d1f7df4150c36a7e",
+      "sha256": "b4c6937cbc6ffe2f894835867480ca1b881a1b3f10d2999fbe9e5f47c33389b2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

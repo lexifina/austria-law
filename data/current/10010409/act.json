@@ -1,0 +1,131 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "10010409",
+  "short_title": "WLV-Aufgabenverordnung",
+  "abbreviation": "WLV-AufgabenV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40278594",
+    "valid_from": "2026-06-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010409&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:43:04.995698+00:00",
+    "response_sha256": "9eec1f76ca0fd11e483f3b9902b27b1b47af2486cfd10f3f8da3880ea0b831ed",
+    "snapshot_sha256": "1008e09a30ee2ee0a867ff256c9c84d565938a6d05d1971b723e8747d4b9d82c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7f50d6f52dc8a1c97eb34fff417b83061be3bd8d61dba6de9b0a4f4ae8d007db",
+      "sha256": "25bcf59c3fb5effbd342ab9037ff850e89436f83d1704ff92d8fb7332a8b892e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft vom 4. Dezember 1979 über den Aufgabenbereich der Dienststellen und des Bundesministeriums für Land- und Forstwirtschaft in Angelegenheiten der Wildbach- und Lawinenverbauung (WLV-Aufgabenverordnung – WLV-AufgabenV) StF: BGBl. Nr. 507/1979"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 148/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 507/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_507_0/1979_507_0.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 148/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/148"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "I. ABSCHNITT",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cec90953308e94d8e6c2b539903aee66e303f19c23046bb56714c18e4f4fd262",
+      "sha256": "7964c325d8cc12ccfefab546405814952f43ed99e7cde846dd56d50619bd3c48",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e3c054922f23640bd1cf5f46865f8276deaebc8cb7055c9db1f2da05a650b77a",
+      "sha256": "4f929817825d7691d1ac685b3c534846decc73b7925b81529d09002a65e8557e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "II. ABSCHNITT",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1409769bd59e17cbbb672e5618f5582a59694c8840abd40459c09724dfc32c62",
+      "sha256": "288bbfa7f191e1dded0dce8aa36bcd333df798ebf3cfc335375abddc80f5ecae",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

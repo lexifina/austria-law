@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über das Verfahren zur Planung und Abwicklung von Immobilienprojekten an Universitäten (Universitäten-Immobilienverordnung – Uni-ImmoV) StF: [BGBl. II Nr. 24/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/24>)
+
+Auf Grund des § 118b Abs. 3 des Universitätsgesetzes 2002 – UG, [BGBl. I Nr. 120/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_120_1/2002_120_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 129/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/129>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

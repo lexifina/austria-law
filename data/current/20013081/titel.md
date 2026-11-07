@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur, mit der für die A 12 Inntal Autobahn, die A 13 Brenner Autobahn und die A 14 Rheintal/Walgau Autobahn im Zuge der Generalerneuerung der Luegbrücke an besonders verkehrsreichen Tagen im Jahr 2026 ein Fahrverbot für Lastkraftfahrzeuge verfügt wird (Lkw-Fahrverbote Generalerneuerung Luegbrücke 2026) StF: [BGBl. II Nr. 338/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/338>)
+
+Auf Grund der §§ 43 Abs. 1 lit. b und 44a Abs. 1 Straßenverkehrsordnung 1960, [BGBl. Nr. 159/1960](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 52/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/52>), wird verordnet:

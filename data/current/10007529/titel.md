@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr betreffend die Bestimmung des Trassenverlaufes der Linienverbesserung St. Pölten–Prinzersdorf im Zuge der Hochleistungsstrecke St. Pölten–Attnang/Puchheim StF: [BGBl. Nr. 266/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_266_0/1994_266_0.pdf>)
+
+Auf Grund des § 3 Abs. 1 des Hochleistungsstreckengesetzes, [BGBl. Nr. 135/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_135_0/1989_135_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 576/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_576_0/1989_576_0.pdf>), wird verordnet:

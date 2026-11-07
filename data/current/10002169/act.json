@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002169",
+  "short_title": "Zeichen der Latein-Amerikanischen Freihandelsvereinigung",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002192",
+    "valid_from": "1970-05-21",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002169&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:59:28.913351+00:00",
+    "response_sha256": "3a4e699863bb78569072ee709c3a6dabe9c219de42e8bf0f84806e8dd475c93c",
+    "snapshot_sha256": "b1addf6eb689ceb6325ee2a94330976643c12fa6fb7a1db620d998c5e909d30c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "667e9d7e115f06c4426257f60f85354cc4ab84dd6c6596473262b4928f51f82f",
+      "sha256": "1903158deea44b2ff7694868b16dd3d5f9f1e25f462f555db5244c534e6664e1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 7. April 1970, betreffend Zeichen der Latein-Amerikanischen Freihandelsvereinigung StF: BGBl. Nr. 146/1970"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 146/1970",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_146_0/1970_146_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd50ec55d967056f551a0549c9c24e7ef77664b4fe60b1d2dfe040ef9d52146c",
+      "sha256": "8d9975b99c11ae5c21c66b8c8632c3efe0f6e8450ce5715ae3dfb0f576d1a05a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 79/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_79_0/1969_79_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über eine abschnittsbezogene Geschwindigkeitsüberwachung 2023 im Bereich der Tunnelkette Lainberg im Zuge der A 9 Pyhrn Autobahn (Section Control-Messstreckenverordnung A 9 Tunnelkette Lainberg 2023) StF: [BGBl. II Nr. 41/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/41>)
+
+Aufgrund § 98a Abs. 1 StVO 1960, [BGBl. Nr. 159/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_159_0/1969_159_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 122/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/122>), wird verordnet:

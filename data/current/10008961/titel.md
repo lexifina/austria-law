@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Arbeit und Soziales, mit der die Gesamtzahl der unselbständig beschäftigten und arbeitslosen Ausländer überzogen wird (Bundeshöchstzahlenüberziehungsverordnung – BHZÜV) StF: [BGBl. Nr. 278/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_278_0/1995_278_0.pdf>)
+
+Auf Grund des § 12a Abs. 2 des Ausländerbeschäftigungsgesetzes (AuslBG), [BGBl. Nr. 218/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_218_0/1975_218_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 257/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_257_0/1995_257_0.pdf>), wird verordnet:

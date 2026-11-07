@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 6. September 1988 betreffend Flagge der Republik Kuba StF: [BGBl. Nr. 546/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_546_0/1988_546_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über Inhalt und Struktur der Angaben des Adressregisters (Adressregisterverordnung 2016 – AdrRegV 2016) StF: [BGBl. II Nr. 51/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/51>)
+
+Auf Grund des § 9a Abs. 4 des Vermessungsgesetzes – VermG, [BGBl. Nr. 306/1968](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_306_0/1968_306_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 129/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/129>), wird – hinsichtlich des § 2 Z 4 im Einvernehmen mit dem Bundeskanzler und hinsichtlich des § 1 Abs. 1 Z 8 und des § 2 Z 8 und Z 9 im Einvernehmen mit der Bundesministerin für Inneres – verordnet:

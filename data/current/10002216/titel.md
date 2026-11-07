@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 16. Dezember 1971 betreffend niederländische amtliche Gewährzeichen für Käse StF: [BGBl. Nr. 13/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_13_0/1972_13_0.pdf>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministeriums für Handel, Gewerbe und Industrie vom 14. April 1969, betreffend zwei kanadische Hoheitszeichen StF: [BGBl. Nr. 130/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_130_0/1969_130_0.pdf>)

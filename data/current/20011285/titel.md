@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über ein Abfallverzeichnis (Abfallverzeichnisverordnung 2020) StF: [BGBl. II Nr. 409/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/409>) \[CELEX-Nr.: [32008L0098](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008L0098:DE:HTML>)\]
+
+Aufgrund des § 4 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), [BGBl. I Nr. 102/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 24/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24>) wird verordnet:

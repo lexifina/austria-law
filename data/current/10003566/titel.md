@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem und den Namen (in Arabisch, Chinesisch, Englisch, Französisch, Russisch und Spanisch) der Organisation for the Prohibition of Chemical Weapons StF: [BGBl. II Nr. 195/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_195_2/1998_195_2.pdf>)

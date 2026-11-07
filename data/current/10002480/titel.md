@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 23. Jänner 1980 betreffend die Bezeichnung, die Abkürzung der Bezeichnung und das Emblem der Europäischen Patentorganisation und des Europäischen Patentamtes StF: [BGBl. Nr. 96/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_96_0/1980_96_0.pdf>)

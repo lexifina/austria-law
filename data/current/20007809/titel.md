@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend betreffend Mitteilung und Meldung von Preisen für Gas und Strom für die industriellen Endverbraucher und zugehöriger sonstiger Angaben nach dem Preistransparenzgesetz (Preistransparenzverordnung – Gas und Strom 2012) StF: [BGBl. II Nr. 140/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/140>)
+
+Auf Grund des § 2 des Preistransparenzgesetzes, [BGBl. Nr. 761/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_761_0/1992_761_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 107/2011](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/107>), wird verordnet:

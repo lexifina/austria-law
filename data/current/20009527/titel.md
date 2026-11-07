@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit über Kaseine und Kaseinate (Kaseine–Verordnung) StF: [BGBl. II Nr. 106/2016](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2016/106>) \[CELEX-Nr.: [32015L2203](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32015L2203:DE:HTML>)\]
+
+Auf Grund des § 6 Abs. 1 und 2 des Lebensmittelsicherheits- und Verbraucherschutzgesetzes – LMSVG, [BGBl. I Nr. 13/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 144/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/144>), wird – hinsichtlich § 4 im Einvernehmen mit dem Bundesminister für Wissenschaft, Forschung und Wirtschaft – verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Inneres über die zur Atemalkoholuntersuchung geeigneten Geräte und die zu deren Handhabung zu ermächtigenden Organe der Straßenaufsicht (Alkomatverordnung) StF: [BGBl. Nr. 789/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_789_0/1994_789_0.pdf>)
+
+Auf Grund des § 5a Abs. 3 der Straßenverkehrsordnung 1960 (StVO 1960), BGBl. Nr. 159, in der Fassung der 19. StVO-Novelle, [BGBl. Nr. 518/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_518_0/1994_518_0.pdf>), wird im Einvernehmen mit dem Bundesminister für öffentliche Wirtschaft und Verkehr verordnet:

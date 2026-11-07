@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft mit Umsetzungsmaßnahmen zur Bekämpfung der illegalen, nicht gemeldeten und unregulierten Fischerei (IUU-Fischerei-Verordnung) StF: [BGBl. II Nr. 382/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2009/382>)
+
+Aufgrund der §§ 6 Abs. 2, 15 Abs. 4 Z 1, 2, 22 und 24 des Marktordnungsgesetzes 2007 – (MOG 2007), [BGBl. I Nr. 55/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/55>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 86/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/86>), wird – hinsichtlich des § 15 Abs. 4 Z 2 im Einvernehmen mit dem Bundesminister für Finanzen – verordnet:

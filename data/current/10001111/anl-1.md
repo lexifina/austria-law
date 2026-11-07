@@ -1,0 +1,5 @@
+## (Übersetzung)
+
+ANLAGE XV
+
+(Anm.: Der Text der Anlage XV wurde in [BGBl. Nr. 248/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_248_0/1950_248_0.pdf>) eingearbeitet)

@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Auswärtige Angelegenheiten vom 25. Feber 1980 über die Verwendung der in Disziplinarverfahren verhängten Geldstrafen und Geldbußen StF: [BGBl. Nr. 100/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_100_0/1980_100_0.pdf>)

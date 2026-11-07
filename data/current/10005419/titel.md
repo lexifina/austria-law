@@ -1,0 +1,1 @@
+Vereinbarung über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Leutaschschanz StF: [BGBl. Nr. 447/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_447_0/1976_447_0.pdf>)

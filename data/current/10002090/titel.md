@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Juni 1967, betreffend die Ausdehnung des Geltungsbereiches des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht auf das gesamte Hoheitsgebiet der Französischen Republik StF: [BGBl. Nr. 190/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_190_0/1967_190_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wissenschaft und Forschung vom 24. Mai 1990 über die Gleichwertigkeit polnischer Reifezeugnisse StF: [BGBl. Nr. 292/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_292_0/1990_292_0.pdf>)
+
+Auf Grund des Art. 3 des Übereinkommens über die Anerkennung von Hochschulstudien, Universitätsdiplomen und akademischen Graden in den Staaten der Region Europa, [BGBl. Nr. 244/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_244_0/1986_244_0.pdf>), in Verbindung mit der Erklärung der Republik Österreich anläßlich der Ratifikation dieses Übereinkommens wird verordnet:

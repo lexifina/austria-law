@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verfassung, Reformen, Deregulierung und Justiz gemäß § 16 Abs. 6 des Mietrechtsgesetzes StF: [BGBl. II Nr. 10/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/10>)

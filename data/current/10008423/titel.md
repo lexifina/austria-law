@@ -1,0 +1,3 @@
+Bundesgesetz über die Sozialversicherung freiberuflich selbständig Erwerbstätiger (Freiberuflichen-Sozialversicherungsgesetz – FSVG) StF: [BGBl. Nr. 624/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_624_0/1978_624_0.pdf>) (NR: GP XIV [RV 1000](<https://www.parlament.gv.at/gegenstand/XIV/I/1000>) [AB 1078](<https://www.parlament.gv.at/gegenstand/XIV/I/1078>) [S. 110.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/110>) BR: [1912](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1912>) [AB 1916](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1916>) [S. 381.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/381>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20000515",
+  "short_title": "Privilegien und Immunitäten der EUTELSAT",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30000551",
+    "valid_from": "2000-04-12",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000515&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:19:41.952142+00:00",
+    "response_sha256": "651b3507e02571ba8c4c557e25f8f9842d424477d39c1e90ea24b22e1951d9de",
+    "snapshot_sha256": "3028dce98ce4bfc72ae34fd7e7085ef3516435d5585f21c04afa494f749c299d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0845cc9ae585c9db02e750e38e83ba24e24aac028827ad50247f98d7fa5010d7",
+      "sha256": "0ede220c72c0232ac26280225b384dd1ea44afd3950de9b5b213e8666ac28a33",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Protokolls über Privilegien und Immunitäten der Europäischen Fernmeldesatellitenorganisation (EUTELSAT) StF: BGBl. III Nr. 49/2000"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 49/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_49_3/2000_49_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9b66beef482d7ec29ef4caa1fa4632574b271daa86915a1588e1a546b55258aa",
+      "sha256": "2ed7daf476d6df4faa61dd4efba057e19c824e7afe23852f3fad63dc2af4f5a3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 176/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_176_0/1989_176_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 293/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_293_0/1993_293_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Weiterbildung zur/zum mit Fragen des Suchtgiftmissbrauchs hinreichend vertrauten Ärztin/Arzt für den Bereich der Opioid-Substitutionsbehandlung von Patientinnen/Patienten mit Substanzgebrauchsstörung (Weiterbildungsverordnung Opioid-Substitution) StF: [BGBl. II Nr. 449/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/449>)
+
+Auf Grund der §§ 10 Abs. 1 Z 5 sowie 11 Abs. 2 Z 2 des Suchtmittelgesetzes, [BGBl. I Nr. 112/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_112_1/1997_112_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 134/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_134_1/2002_134_1.pdf>), wird verordnet:

@@ -1,0 +1,3 @@
+### Artikel Vd
+
+Unbeschadet der Zuständigkeit des Europäischen Patentamts nach dem am 5. Oktober 1973 in München unterzeichneten Übereinkommen über die Erteilung europäischer Patente sind die Gerichte eines jeden Vertragsstaats ohne Rücksicht auf den Wohnsitz der Parteien für alle Verfahren ausschließlich zuständig, welche die Erteilung oder die Gültigkeit eines europäischen Patents zum Gegenstand haben, das für diesen Staat erteilt wurde und kein Gemeinschaftspatent nach Artikel 86 des am 15. Dezember 1975 in Luxemburg unterzeichneten Übereinkommens über das europäische Patent für den Gemeinsamen Markt ist.

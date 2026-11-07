@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010396",
+  "short_title": "Errichtung einer zweiten Notarstelle in Zell am See",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209405",
+    "valid_from": "1973-08-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010396&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:50.269146+00:00",
+    "response_sha256": "d406a0c3de7dbbe5ec6470b9c3a9a85c7c66f123bf72b4e69c0f2fc985541bb6",
+    "snapshot_sha256": "dbd3791fc0118093f5418a126f79401fa0d7a5762dc58a9acab0502a0ff478e5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a79b3edc64a07b465e0e64a5fccbb26b6800e819de5c1f6f00e95c74dd7ea2d2",
+      "sha256": "3b1aa62b2f13400013edd189b394b72f1e3782062a557f12ec328d6e3364f0b9",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 18. Juli 1973 betreffend die Errichtung einer zweiten Notarstelle in Zell am See StF: BGBl. Nr. 375/1973"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 375/1973",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_375_0/1973_375_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81281a15c0e0c75a140c88153a8279f573a1569e1f35f174891ee49ba40781ab",
+      "sha256": "62c9139df02640f8c4e821f07a0958efd3fb11b312db19c6908ba4a0ce8315a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

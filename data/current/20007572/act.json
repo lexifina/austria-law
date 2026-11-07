@@ -1,0 +1,734 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "20007572",
+  "short_title": "EDM-Aufwandersatzverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40133657",
+    "valid_from": "2012-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007572&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:02:20.190451+00:00",
+    "response_sha256": "c9d24bc575be20b5b16f87de8bb8eed10be953fdbc3ed2540e5ede2841dc9271",
+    "snapshot_sha256": "e45e25463f186ffa233ae1a8fdb676c8f7fd8e443515ca412be9ad4cecb3f0a2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37ccd7e93d7f0c1bad46aaf821843d36671919e8242d8d9b80afc61ba403c235",
+      "sha256": "6ae21e9ae0ccc82eae7c72eb6b37112c9d51058a2ffb872e8f7ae5eed1288d1f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über den Aufwandersatz für den Betrieb und die Wartung des gemäß § 22 des Abfallwirtschaftsgesetzes 2002 eingerichteten elektronischen Registers (EDM-Aufwandersatzverordnung) StF: BGBl. II Nr. 404/2011"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 404/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/404"
+        },
+        {
+          "text": "BGBl. I Nr. 102/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_102_1/2002_102_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 9/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2011/9"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6dff5abd472edb1205ecdf119995d00c5d9ab56127eaa2a24e8dc2dcd56acf9f",
+      "sha256": "f554cc727fa22c283b63d9214456025590a9d5844b4664f51713bb97810398cc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Zweckbindung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5dfccafc8ca6b1bd849354d3554507ff87a72b19683c0c75f6f6d6978c3f65a2",
+      "sha256": "a63fe9cb9f96e4efe5a2f0a3bc932ac60b817ea75596ea64ecc3146d9355ac61",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d7ccd491e029290f31ea09a5458fc0fae4baa77d115460ea5f73ee587b06d699",
+      "sha256": "cc7d7432c8b19edd7cd41e2a164c21c3ce8ead88bc636df4ccd21cdeb33d010c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Aufwandersatz für die Anwendung e-EAG",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "775787b8df9a689958a73bccf00dab447b5802734a31380f029c9a7b6534ae74",
+      "sha256": "6b4d173e585948f1c9e66efb80c5ef3cd8f05f3d79fe7ebd3b83e15746844585",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Einhebung und Vorschaurechnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e08373371efa01be7140aa4b2fe2f94f17de19d06fd74ce6e681ca6fa7b9df55",
+      "sha256": "6aec190e6820f32111c82dd936e0c49f7e8da9329a53417ad9601e427e4efc86",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 121/2005",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/121"
+        },
+        {
+          "text": "BGBl. II Nr. 166/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/166"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Höhe des Aufwandersatzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c09d26ae4fab20d3fb038bac4944fbcffe3e148180032c27a7696daf5851c62e",
+      "sha256": "93516cc27efeb391a0495c7854a1ea0d56ee440fe75a96d55e71cdac6df81fad",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "3. Abschnitt Aufwandersatz für die Anwendung e-Batterien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d0e99ae62614fefec5ef19e6414e91f16e80728768fef4c0cb9cebb6776aecd5",
+      "sha256": "e7352109a7f820a8b42dd10bd64f24afaf7ac0f409b86a89e2217d1a704c9cc7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Einhebung und Vorschaurechnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9c9913c5fe68d2f8779276251d919edc87d0daa3c1abd226280bffb8b7998587",
+      "sha256": "b51dbde78f5bec4b47bc482afea14ae9b4a542dbfbf5b42663a89f3f2bd68144",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 159/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/159"
+        },
+        {
+          "text": "BGBl. II Nr. 159/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/159"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Höhe des Aufwandersatzes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5275ced1d35f26264fac87393c1ad51a2daa166358b9dc04c64b74e66d4b5248",
+      "sha256": "c6a14f6fbbf078ae84a40728e93d53d04de95ad21edfcb02eb81640f6ebc58f5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "4. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3148afd2274b8dd58c72cc9fd44eb5e0730294763093b5556838f4b149537efb",
+      "sha256": "b18dfe72d5cde914b19a0191baf2ffbdca3223b3ff6371eea8c75b28303fa9ed",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Zahlungsverzug",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b017764831440b80c618b2972237a8796046a29e0a98214bdb2a301692a85a9",
+      "sha256": "1a72e0ad58f39f81b7d0ddab2145a787e482ead05e36800b0000fd876e5a759c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c2dc6e767182c8277a65c7cff95458dc43170b2d4470878ec9aeae2e814536db",
+      "sha256": "38ca74e10592c050a399fcb62dbfcb28462df133d77c4ef24f86bc34fbfaf8ac",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b870dc340f7896f1cef5283426c2c566acd5ca3e0d298f820a8ed3999ac9b23",
+      "sha256": "30577776798681664ca7d1bf286b8acfd58e299b209dde4518e1c8a4df7054b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7b157d403b465cb6f471768f3b74442d4f8b6072040c0f0acd7d4d16fc6d7886",
+      "sha256": "5cb8550193cff6ba0863eae31459efb5e299bcd9f3750e908f327a1dee73b581",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "01",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Systembetrieb",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "011",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hardware",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "012",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Software",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "013",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Infrastruktur",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "02",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Systemwartung",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "021",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Regelmäßiges Service",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "022",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Backup",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "023",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Firewall",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ZS1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zwischensumme 1 (01 + 02)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "KW",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Kalkulatorisches Wagnis (9,5 % der Zwischensumme 1)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ZS2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zwischensumme 2 (Zwischensumme 1 + Kalkulatorisches Wagnis)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "03",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungsbetrieb",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "031",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Monitoring",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "032",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Helpdesk",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "033",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Registrierungsstelle",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "04",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Anwendungswartung",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "041",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Wartung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "042",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fehlerbehebung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "ZS3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zwischensumme 3 (03 + 04)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "S",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe (Zwischensumme 2 + Zwischensumme 3)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "VJ",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überschüsse und Fehlbeträge aus Vorjahren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamthöhe des Aufwandersatzes (Summe +/- VJ)",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    }
+  ]
+}

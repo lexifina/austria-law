@@ -1,0 +1,992 @@
+{
+  "sample_only": false,
+  "included_provisions": 27,
+  "source_provision_count": 27,
+  "schema_version": 1,
+  "gesetzesnummer": "10011011",
+  "short_title": "Gesundheitsdokumentationsgesetz",
+  "abbreviation": "DokuG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40275014",
+    "valid_from": "2026-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011011&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:47:26.282238+00:00",
+    "response_sha256": "9780f1ae6b3617032cd2c63496e0271b43be91c0d864a7c3af4eefbcaea19692",
+    "snapshot_sha256": "21ce0cca49082d00966e8943eeeb47be62804e5d226ffd0b7f1e1fb138dce270",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0b9877b719c232aa291cba5be769339ad108f1ab1bf9c5cba8d8fe41168f8a0",
+      "sha256": "602193a7d22a399e19bfcb50c0050002e6ffb20852d8a0ddb9cfb195f190297e",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Dokumentation im Gesundheitswesen Gesundheitsdokumentationsgesetz (DokuG) StF: BGBl. Nr. 745/1996 (NR: GP XX RV 380 AB 430 S. 49. BR: AB 5325 S. 619.)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 5/2001 (NR: GP XXI RV 396 AB 409 S. 52. BR: 6291 AB 6286 S. 671.) BGBl. I Nr. 144/2003 (NR: GP XXII RV 282 AB 335 S. 41. BR: AB 6956 S. 704.) BGBl. I Nr. 179/2004 (NR: GP XXII RV 693 AB 711 S. 90. BR: AB 7175 S. 717.) BGBl. I Nr. 81/2013 (NR: GP XXIV RV 2243 AB 2255 S. 200. BR: AB 8961 S. 820.) BGBl. I Nr. 26/2017 (NR: GP XXV RV 1333 AB 1373 S. 157. BR: 9665 AB 9704 S. 863.) BGBl. I Nr. 37/2018 (NR: GP XXVI RV 108 AB 139 S. 23. BR: 9967 AB 9970 S. 880.) [CELEX-Nr.: 32017L2399, 32017L1572] BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888.) BGBl. I Nr. 191/2023 (NR: GP XXVII RV 2310 AB 2362 S. 243. BR: AB 11388 S. 962.) BGBl. I Nr. 116/2025 (NR: GP XXVIII RV 296 AB 341 S. 57. BR: AB 11757 S. 985.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 745/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_745_0/1996_745_0.pdf"
+        },
+        {
+          "text": "RV 380",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/I/380"
+        },
+        {
+          "text": "AB 430",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/I/430"
+        },
+        {
+          "text": "S. 49.",
+          "url": "https://www.parlament.gv.at/gegenstand/XX/NRSITZ/49"
+        },
+        {
+          "text": "AB 5325",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/5325"
+        },
+        {
+          "text": "S. 619.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/619"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_5_1/2001_5_1.pdf"
+        },
+        {
+          "text": "RV 396",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/396"
+        },
+        {
+          "text": "AB 409",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/I/409"
+        },
+        {
+          "text": "S. 52.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXI/NRSITZ/52"
+        },
+        {
+          "text": "6291",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6291"
+        },
+        {
+          "text": "AB 6286",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6286"
+        },
+        {
+          "text": "S. 671.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/671"
+        },
+        {
+          "text": "BGBl. I Nr. 144/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_144_1/2003_144_1.pdf"
+        },
+        {
+          "text": "RV 282",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/282"
+        },
+        {
+          "text": "AB 335",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/335"
+        },
+        {
+          "text": "S. 41.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/41"
+        },
+        {
+          "text": "AB 6956",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6956"
+        },
+        {
+          "text": "S. 704.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/704"
+        },
+        {
+          "text": "BGBl. I Nr. 179/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/179"
+        },
+        {
+          "text": "RV 693",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/693"
+        },
+        {
+          "text": "AB 711",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/711"
+        },
+        {
+          "text": "S. 90.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/90"
+        },
+        {
+          "text": "AB 7175",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7175"
+        },
+        {
+          "text": "S. 717.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/717"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/81"
+        },
+        {
+          "text": "RV 2243",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2243"
+        },
+        {
+          "text": "AB 2255",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/2255"
+        },
+        {
+          "text": "S. 200.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/200"
+        },
+        {
+          "text": "AB 8961",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8961"
+        },
+        {
+          "text": "S. 820.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/820"
+        },
+        {
+          "text": "BGBl. I Nr. 26/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/26"
+        },
+        {
+          "text": "RV 1333",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1333"
+        },
+        {
+          "text": "AB 1373",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1373"
+        },
+        {
+          "text": "S. 157.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/157"
+        },
+        {
+          "text": "9665",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9665"
+        },
+        {
+          "text": "AB 9704",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9704"
+        },
+        {
+          "text": "S. 863.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/863"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37"
+        },
+        {
+          "text": "RV 108",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/108"
+        },
+        {
+          "text": "AB 139",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/139"
+        },
+        {
+          "text": "S. 23.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/23"
+        },
+        {
+          "text": "9967",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9967"
+        },
+        {
+          "text": "AB 9970",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9970"
+        },
+        {
+          "text": "S. 880.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/880"
+        },
+        {
+          "text": "32017L2399",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L2399:DE:HTML"
+        },
+        {
+          "text": "32017L1572",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32017L1572:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "RV 329",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/329"
+        },
+        {
+          "text": "AB 413",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/I/413"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVI/NRSITZ/57"
+        },
+        {
+          "text": "10079",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10079"
+        },
+        {
+          "text": "AB 10082",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10082"
+        },
+        {
+          "text": "S. 888.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/888"
+        },
+        {
+          "text": "BGBl. I Nr. 191/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/191"
+        },
+        {
+          "text": "RV 2310",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2310"
+        },
+        {
+          "text": "AB 2362",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2362"
+        },
+        {
+          "text": "S. 243.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/243"
+        },
+        {
+          "text": "AB 11388",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11388"
+        },
+        {
+          "text": "S. 962.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/962"
+        },
+        {
+          "text": "BGBl. I Nr. 116/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/116"
+        },
+        {
+          "text": "RV 296",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/296"
+        },
+        {
+          "text": "AB 341",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/I/341"
+        },
+        {
+          "text": "S. 57.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/57"
+        },
+        {
+          "text": "AB 11757",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11757"
+        },
+        {
+          "text": "S. 985.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/985"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Hauptstück A",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db0dad0ec97c429683314c20fc12e4b50852b57cd6acb9814503ae7f1b8b1b19",
+      "sha256": "5fd36fed94b7e1a1f4a5861b58baf4cbc44249f8eded330565aa808d7218b4ac",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmals auf die Datenmeldungen für das Berichtsjahr 2017 anzuwenden (vgl. § 12 Abs. 7)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 81/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/81"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1a",
+      "source_heading": "Diagnosen- und Leistungsdokumentation im stationären Bereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0001a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c88c0f7791ed3152d47152b9135c5072c5ca39071cd10c8b8c9626d92d403a93",
+      "sha256": "0e92807f18db87d420c7c9149dc70c09ba067c59067f96b55f49a159bba983b0",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Abs. 1 und 2 sind erstmals auf die Datenmeldungen für das Berichtsjahr 2017 anzuwenden (vgl. § 12 Abs. 7)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4cdd760cf06370d2e5d2ebd95ab305eb712cc86552d2066ad84dfcfc78cba28",
+      "sha256": "467e9e54db919273df83f8c8af0573cc8a77b3ebad37f69539652baca72e81f6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ef6d57de6abb78e34c5dede5be1514240b78277b276be27c46fbae1324ce6aca",
+      "sha256": "a65ed358c02a6a4963cb108f9fa289f7ebcbf43394b5e42949de873637541dd6",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Abs. 2 ist erstmals auf die Datenmeldungen für das Berichtsjahr 2017 anzuwenden (vgl. § 12 Abs. 7)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "95cbf0a4bb3ebc0c288e3b5116b14feee87ff32c631b5875e3cd1b0909d8e938",
+      "sha256": "170b3fea2131e43b20b5c6a3f562c0a8a65f0d2119b945a29571843091914b1e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_165_1/1999_165_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "§ 5.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3ca8b844275472364385a383ea54257fd51199e89ad56fb85595dc065975f2c8",
+      "sha256": "30e222871796daec35fae2925dd101758520fb30bae6fb52c06e4d83aaf51344",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5a",
+      "source_heading": "§ 5a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0005a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8ccdc2f907d6b0da2e9787b4833c5aca3097e6bd8bc8ce4efdfc8e194d2cb2a",
+      "sha256": "3de3785688ba0530f714563abf4de4cbb4e1af9ca4f2ac29bdf9c22ad440cd77",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "BGBl. I Nr. 50/2016",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2016/50"
+        },
+        {
+          "text": "BGBl. I Nr. 116/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/116"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5b",
+      "source_heading": "§ 5b.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0005b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c37caaff01995aad9d47edf2b4db80652d48a4508df973dcd756d8712b511e6c",
+      "sha256": "13ea45df62aeb0707b27914221a7fee1c599de134f445cb8e15cdb63ad58f735",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5c",
+      "source_heading": "§ 5c.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0005c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9ab195b9a7f19858be77470dc5bebd72d96867e4d6b7fe06a0284748b1f52d88",
+      "sha256": "85e5c37c3d7308758df6b2295d04030ea85490d615e9787fc2298c891524c432",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Hauptstück B",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f83dfd7501ce3864dec23ae3c24a0cff18379a446e4b181783321252038b6e90",
+      "sha256": "d63f8a1913da03fa6f0ce670a94bbd53f374281f9e83676eb849964d263cc481",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6a",
+      "source_heading": "§ 6a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0006a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0e3b46bb3c89b7a2fea18fe0db57275a847019a0b683405c0e0535f21129b561",
+      "sha256": "912412a446fd795dce0dd991f23732632810eb97653fad5e1b26fc16ea147b9f",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmals auf die Datenmeldungen für das Berichtsjahr 2017 anzuwenden (vgl. § 12 Abs. 7)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 169/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_169_1/1998_169_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6b",
+      "source_heading": "§ 6b.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0006b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a08db6f1a361052d21c5b9ba5bc0def4060396d6a1692c230f9d4493114f9c5",
+      "sha256": "de39156bf037daa0215349d7c5c0857f3c979d04a65415de9548a244dda97b30",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmals auf die Datenmeldungen für das Berichtsjahr 2017 anzuwenden (vgl. § 12 Abs. 7)."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6c",
+      "source_heading": "§ 6c.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0006c.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f90d8dbf7f013c4493e28323858057aeda944234b2caea7aad2f09e64ef9e412",
+      "sha256": "ec959215c6a07fb68bfbe7ea4ab7cf65ed551834be7209fb2acab83e36e8a2b4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 189/1955",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_189_0/1955_189_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6d",
+      "source_heading": "§ 6d.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0006d.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "61fc46e7f5b645d612dc93902e346500d1e637b6eee0eedf9d13e51e7d3dfe09",
+      "sha256": "643b651df93c756e8cb95dc5f51dabf32e835d96c3a5710ac83da18b6df8ed84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6e",
+      "source_heading": "§ 6e.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0006e.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13c54a4dd0797319aa8ef5d4369bbdc74b479896b4b786e540daded2d246e0d1",
+      "sha256": "803ff5a4fe8806f814e26ed1925730d36fe5012ae2b3309580ccc3179e841fba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6f",
+      "source_heading": "§ 6f.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0006f.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "91055679eee702f9ce657f18324b91f4fcffef0a665820b52f705f9b2650ea3c",
+      "sha256": "e5aaadae9270b9368c7928e9b3d62f8f7fa40f945560b44613e76d899a8501a5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6g",
+      "source_heading": "§ 6g.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0006g.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ed7839fbf79405d39b973a4d3eb5ec1f2030cab772a2ef5aa371f7365bfc64f0",
+      "sha256": "55885f7bb5ffe945c135a3cd793d6c7e705fa1f24d5337acdb1ee984aafe2ea4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Hauptstück C",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "13a5e8584332d4d871134f6531cce10d512425c87bc31bd9d8ac4048e847896d",
+      "sha256": "0eb3d57cece89d6200615abbbf7eece5595456f0d25c989469c3da79bc7f23b5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§ 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4d822082f8973629e7b9591976a250d77ee09150f6b0919bb8b1985175176bf4",
+      "sha256": "331a13122ffbb710519218edbe0733e772bae84d45352dd4e4f46080cabe5dfd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8a",
+      "source_heading": "§ 8a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0008a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8665da864a39b3b7e60f94016646b9ceceec89edc7386c58470116539ca5c1b6",
+      "sha256": "eacde2bff64b4f8661e1585e27e68af7a55ed2aed7681b4f048ab2dba47d9256",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Hauptstück D",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72d604b0af73294bb973596f1ba0dd80ab53ddff51c46fb0bd1c95a6729fe48e",
+      "sha256": "823d1733e8d09aaf44528882d4ae617c764a50a6367a92952b3599a6384e3c9c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9a",
+      "source_heading": "§ 9a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0009a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "efa43c9c885ca4bb6f89b75dabc069f81e7a62f88f811967c150e58f2bd83662",
+      "sha256": "dc4edb0b98e90c4f163c3c70f28aa4a46167a0cbc783fc92edb6995e3fb68d25",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Hauptstück E",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "57e41b9c9695e315716772efb14569083dae6204f1be54d45e9b8a67db3bdf67",
+      "sha256": "48ca6aee7d0822e7456f63ce3e047fb526018bbf3b829ab7ca8d582a38107c62",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist erstmals auf die Datenmeldungen für das Berichtsjahr 2017 anzuwenden (vgl. § 12 Abs. 7)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 165/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/165"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Hauptstück F",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18eb3937722df529ced20f4d158df32934bd303545ea3788e41a98e843aa8a39",
+      "sha256": "d190c74fb36bdc17c959692c655b585f63ae87d97c59d5bc4c6b1e18611e9a80",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 328/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_328_0/1977_328_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§ 12.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "25e9b8e4ee00feb530427a3e9918742136ff430070125a0d692f26e6885d01b8",
+      "sha256": "a11ec16fe958655a0052eee13761661064e9cf5fe6702cdcd748d09cd125c2a2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 144/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_144_1/2003_144_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 5/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_5_1/2001_5_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/81"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/81"
+        },
+        {
+          "text": "BGBl. I Nr. 81/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/81"
+        },
+        {
+          "text": "BGBl. I Nr. 26/2017",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/26"
+        },
+        {
+          "text": "BGBl. I Nr. 37/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/37"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "BGBl. I Nr. 191/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/191"
+        },
+        {
+          "text": "BGBl. I Nr. 191/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/191"
+        },
+        {
+          "text": "BGBl. I Nr. 116/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/116"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "§ 13.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4baf08b6af9ce43534052351e1c26e6cc44c5bba2296a24f23cf9ad0d3f6d634",
+      "sha256": "52bae431bcfa3e20cae55fa1ffc1ab579dbc417086a0c82c5c96084bf0a4f045",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

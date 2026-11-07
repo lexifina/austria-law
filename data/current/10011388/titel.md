@@ -1,0 +1,1 @@
+Ordnung für die internationale Beförderung gefährlicher Güter (RID); Anlage I zum Anhang B - einheitliche Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Gütern (CIM) – zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF) StF: [BGBl. Nr. 137/1967](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_137_0/1967_137_0.pdf>)

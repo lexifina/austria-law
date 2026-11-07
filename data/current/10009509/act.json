@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009509",
+  "short_title": "Rechtsstellung einer Gemeinde der Evangelischen Kirche",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009700",
+    "valid_from": "1981-10-16",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009509&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:33:08.795866+00:00",
+    "response_sha256": "32c067e76c7cd0e74042f9c829ce10d6b34f05e131ce4242bcf2aa4e543198d0",
+    "snapshot_sha256": "916948beaf5c23090d8d8144a5e443f19f8bcd19c0038dc98f22f2f6aa266f99",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4999552c36d0c9c9237f49e1238bc54e8fbf09f924e0181671540fb889284a0c",
+      "sha256": "f3362b2a379b7214986ac50c1446f5fac4b0385924c1c13432cc0c223a429b46",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Unterricht und Kunst vom 15. September 1981 über die Rechtsstellung einer Gemeinde der Evangelischen Kirche StF: BGBl. Nr. 457/1981"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 457/1981",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_457_0/1981_457_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa60cb5216969c3fc0a369be5411de7279640676d846a93cfd2805a6b5f83a30",
+      "sha256": "f66f93df4b3c7e19b8c9096b8a72d872eda3437f74398816de187f2c63af19cd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

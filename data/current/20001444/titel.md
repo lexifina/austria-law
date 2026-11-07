@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens zur Gründung des Internationalen Entwicklungsrechtsinstituts StF: [BGBl. III Nr. 148/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_148_3/2001_148_3.pdf>)

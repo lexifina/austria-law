@@ -1,0 +1,3 @@
+Bundesgesetz über das Forstwesen (Forstgesetz 1975 – ForstG) StF: [BGBl. Nr. 440/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_440_0/1975_440_0.pdf>) (NR: GP XIII [RV 1266](<https://www.parlament.gv.at/gegenstand/XIII/I/1266>) [AB 1677](<https://www.parlament.gv.at/gegenstand/XIII/I/1677>) [S. 150.](<https://www.parlament.gv.at/gegenstand/XIII/NRSITZ/150>) BR: [1392](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1392>) [AB 1425](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1425>) [S. 344.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/344>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 1. Dezember 1927, betreffend die Ratifikation einiger internationaler Übereinkommen durch Schweden und den Beitritt Schwedens zu einem Zusatzprotokoll StF: [BGBl. Nr. 347/1927](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=347/1927&amp;SkipToDocumentPage=True>)

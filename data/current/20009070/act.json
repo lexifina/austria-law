@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20009070",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2013",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40167867",
+    "valid_from": "2015-01-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009070&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:25:31.751494+00:00",
+    "response_sha256": "194aebcd338fc31a649ce9e6f55711518c1322ee14939a91b2bfd796b7d741a6",
+    "snapshot_sha256": "718a4319bba6ccf1f3d11f4fc1bbf4e51d9ef508847ca9ac7fb553920cfc20dd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb5978e086652b173003ef8a7cb3758403f1a7453d06d6d19b4962f514736bc5",
+      "sha256": "2889385bd0bfa539ac95ba5010bef89ffc9fd56d8729dbb22d98c5eaa4725c83",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2013 StF: BGBl. I Nr. 7/2015 (NR: GP XXV AB 381 S. 55.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 7/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/7"
+        },
+        {
+          "text": "AB 381",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/381"
+        },
+        {
+          "text": "S. 55.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/55"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af9d4915d83558f890fcd254d1d56024f866bda596bd06dfb38264f596e8f949",
+      "sha256": "c93dab760162168a16bd9613295832e7c4fd8ee73290e705ac1b76f8febf7868",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

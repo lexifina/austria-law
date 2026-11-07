@@ -1,0 +1,443 @@
+{
+  "sample_only": false,
+  "included_provisions": 9,
+  "source_provision_count": 9,
+  "schema_version": 1,
+  "gesetzesnummer": "20008039",
+  "short_title": "Luftverkehr-Lärmimmissionsschutzverordnung",
+  "abbreviation": "LuLärmIV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40143142",
+    "valid_from": "2012-11-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008039&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:09:45.983935+00:00",
+    "response_sha256": "b324921efb991c7c8b9a3b7c0dcc9b78b7d10ff3c55d66c18e409d3eb60cf196",
+    "snapshot_sha256": "af9aef901b0a8be3a81ad0a437bf01fbb973b0692cccf68eedcf8077ab33694d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3248baab8663934010a9f76ab5629748c1d84e21c3d3ede959a322e255cc613c",
+      "sha256": "d880c86d90e0839f4b3ea3a8e380b12c6de97693cd5f50702ebdbc00fd77e4bc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über Lärmimmissionsschutzmaßnahmen im Bereich des Luftverkehrs (Luftverkehr-Lärmimmissionsschutzverordnung – LuLärmIV) StF: BGBl. II Nr. 364/2012"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 364/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/364"
+        },
+        {
+          "text": "BGBl. Nr. 253/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 77/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/77"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anwendungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd913dfa3df21739b380ad035b2d86999fecfb6a304bf2f6c064a2e64297a6c7",
+      "sha256": "20ea2990b6868e27f9bdf7991a643f57a5f01c2aacf2ace2e3802ebb2c380685",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 253/1957",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Immissionsschwellenwerte für Fluglärm",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11dc442d29f78082c076da46ea24e2251b40a61310bfc129c1db05939317daa4",
+      "sha256": "881ecfa06f474c573efa5cacce94829047505e8227b8883c697752f1c638373d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tag:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Antragstellung bis zum Ablauf des 31. Dezember 2014:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LAeq Tag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "62 dB(A) Außenpegel,",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Antragstellung ab 1. Jänner 2015:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LAeq Tag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "60 dB (A) Außenpegel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nacht:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Antragstellung bis zum Ablauf des 31. Dezember 2014:",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LAeq Nacht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "52 dB(A) Außenpegel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LAmax",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-mal 68 dB(A) Außenpegel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Antragstellung ab 1. Jänner 2015",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LAeq Nacht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50 dB(A) Außenpegel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "LAmax",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6-mal 68 dB(A) Außenpegel.",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Ermittlung der Lärmbelastung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "883cb8751bf551c89ab7f54a01b09e1d0b3c4dbf54a190b6152875cbe5c000af",
+      "sha256": "d975728ed3a5b19207cb103a3e7a1fb51b7a0b89efc028efdcdd79b5d2d4cca5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Objektseitige Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0fdba33292544f6918470dea898d6adb9a25a2acdea9bb6b13be2f5072583535",
+      "sha256": "2023d713cc2e972af60703ee17247fb6e6bef6707425eedbefe20393b9391a68",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Vereinbarungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f75baca9f37d0a3492107295551e0f90f7f80945710833f574c06ecf7769cd86",
+      "sha256": "90da3dd19a2c49dcbb4c32a6321c7ef739dd32868169385c61fbe87f66100d69",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f39156c97b383255f878e6c84511aaefec2571534458f653723ccc188619e028",
+      "sha256": "4c2f58391c8250dcf8dbbfb3f8a8ac997c6ad24fe644b0bb2e0f9ace6c3c18c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "69bb70976e5cb99694de42d8dde9e58f5e6334c645b22e41538685da8d4cfa0d",
+      "sha256": "2d01cdaac82cd9e2683c6ce52da62911fb2ff6a74fcb16947014e6b18e3c2056",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "11b9084b8c0f32fbea327560a3bc7087c1437d431ae7128eaccf42d8fe68ba87",
+      "sha256": "d4a53678245fc2ef6db14af6ad9fd0959774bb081671e30087d3434f08d4dccc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

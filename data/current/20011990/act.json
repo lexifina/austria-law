@@ -1,0 +1,3248 @@
+{
+  "sample_only": false,
+  "included_provisions": 22,
+  "source_provision_count": 22,
+  "schema_version": 1,
+  "gesetzesnummer": "20011990",
+  "short_title": "Leistungs- und Strukturstatistik-Verordnung 2022",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40246781",
+    "valid_from": "2022-08-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011990&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:24:44.600140+00:00",
+    "response_sha256": "b51a7c69e494d46690591901d99af1567585ed1e8ee08dfa45b308c5e6477073",
+    "snapshot_sha256": "b374f06951b3b13d2388cb681243194f7d22b90c23d79411ca46f65c8f9f4b6a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2e4278adab116dd1fba43eecc73a830141ce65eba2b2db301b45a401517abb3",
+      "sha256": "059795080807aa59edc081126433795e3d8101ae99a8a2607b32945dfdd352ab",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Arbeit und Wirtschaft, der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie und des Bundesministers für Finanzen über die Leistungs- und Strukturstatistik in den Produktions- und Dienstleistungsbereichen (Leistungs- und Strukturstatistik-Verordnung 2022) StF: BGBl. II Nr. 305/2022"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 305/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/305"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 205/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/205"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anordnung zur Erstellung der Statistik",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "63b009b22f86a9866b4cc2a8b3716de88df20b5e6cbbf5dd5cfb24c1a1c0235a",
+      "sha256": "8caf581afca64d8606771c18d21d0ae71b6a3e86e80a1cb861902d927a2b7666",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "368f294eddd4d4b4fd9026dbfbaf6afec5ea9633a1e4fb9ddff261855eb8b881",
+      "sha256": "f2899b97d57f8ee92d90395560615a970803f2382ada205d7c1abbc3599b0fdc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Periodizität, Kontinuität",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02a5454e79d9b9e2349cf1f827bfaeafe2230e31f28ab940e3634acff741e56c",
+      "sha256": "01f830a86f942e440018393d0e2bb813d4ace24dee600f1053c01e58784e262e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Erhebungsmasse, Statistische Einheiten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb9270fb051c85a25eaa3c166a231d006e50bdd0e09b98193b3e14b0fcf026b4",
+      "sha256": "e2523270eb0cf985f88beae3467d7d3b64080dd84444796c008214b3703ef95f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Erhebungsmerkmale",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b38e2d02c116adc40920c3b8cba6801dfa55c486f25ea224f1e93f0afbe31cff",
+      "sha256": "8d744424204fa2570c3dba544da1b0f51fa017fcb4a8adb519c4bc800b799f19",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 333/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/333"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Erhebungsart",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86daa680953dc11793ad636eef8d6029a78dd29f47a7eeb030b593f1c9afffc7",
+      "sha256": "70956cc16d07d923229aca295baccd21b8e025557b5b258a44984ae152d88801",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 210/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_210_2/2003_210_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 233/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_233_2/2003_233_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 229/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_229_2/2003_229_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Auskunftspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c367b63096f662c4596f0f733ce706e586452463e3bf87904e4d07304adfa66f",
+      "sha256": "48149b872725cf7eac3006aa85fc0801e8f68d296520f5b7f6f96293746f2ff8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Erhebungsunterlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "be996d88f0ddbd179875595c2a64d2788a1ba72b8b2a6374ffd91c67160d5b94",
+      "sha256": "abed0731286ad90f4d7a071986beaa5eebcc4a725fdfb593f50e2dfad1321ace",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Mitwirkungspflicht der Auskunftspflichtigen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e20b4241e5a151c827c19820dbf7376ab2da4336c249333c83f3f4112de7e72",
+      "sha256": "4e730d3eef65223b4ba5e2d193200e295bcd34d7bcf1403dee095531f009b0fc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Pflichten der Inhaber von Verwaltungs- und Statistikdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4cd6989cbcf367d67ca0454c54826014de2f843717fe8adf9943b17e95ee92ec",
+      "sha256": "d1e62e65a9e6466b9bc6cbde298d9a806efa37c8d76720d9e783dd1847a9d216",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Information über Auskunfts- und Mitwirkungspflichten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4f1b409786295ad9bf8a26a04df7a5e9ab4ecc59aab24782548021525147b881",
+      "sha256": "c54db40fde0bad25996df2101c2ea6aaf4ee319cf49c25fb5e63183a6bf7f362",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Publikation der Ergebnisse",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81219c5602c60ed99908e719ba82f93cfbff0088ea3b78f0fb4ca06373f8b824",
+      "sha256": "0f7abef090513bc666f287b82d79d3668642618af1938b08312cb40f2fb6d0b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Verwendung der geschlechtsspezifischen Form",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0ba00213dafe7901fb3763e9afdf23bc92275283b0bcfef9aee694425fc7ac43",
+      "sha256": "a38a186a2216e28f8384d98d65b8a0b910f7d5d340aaa125b557bafeb4f4b4a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Kostenersatz",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d040211f2d9b5ba155deca59e05c5fef708664ab5dacf2029e2bbad7761660ef",
+      "sha256": "0a00c2dde3e545624e30a46b48e4831bc0d808b9195f7aeab1a4716256fb3d90",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6d1d8f75a806273aff2e69d4d0785b47da892fcc5feee872e021f3a32880b5f9",
+      "sha256": "db79bdb1292f5b823d85888e490cc767a422c92ceeefe271482d7b8efec34fb9",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 205/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/205"
+        },
+        {
+          "text": "BGBl. II Nr. 289/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/289"
+        },
+        {
+          "text": "BGBl. II Nr. 213/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/213"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/10"
+        },
+        {
+          "text": "BGBl. I Nr. 169/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/169"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/10"
+        },
+        {
+          "text": "BGBl. I Nr. 65/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/65"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/10"
+        },
+        {
+          "text": "BGBl. I Nr. 10/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/10"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        },
+        {
+          "text": "dRGBl. S 219/1897",
+          "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_023_219.jpg?uselang=de"
+        },
+        {
+          "text": "BGBl. I Nr. 86/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/86"
+        },
+        {
+          "text": "BGBl. II Nr. 333/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/333"
+        },
+        {
+          "text": "BGBl. II Nr. 210/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_210_2/2003_210_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 327/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/327"
+        },
+        {
+          "text": "BGBl. II Nr. 233/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_233_2/2003_233_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 259/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/259"
+        },
+        {
+          "text": "BGBl. II Nr. 229/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_229_2/2003_229_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 477/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/477"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Inkrafttreten, Außerkrafttreten und Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "061499be3e04b75180daaa4678b8650504d7918959b87473b14509fc19d25f89",
+      "sha256": "7d2bd1d6c299f86dff4db339795b566d21b7109262792aa8f9e5bfd8ebf332ee",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 428/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_428_2/2003_428_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 74/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/74"
+        },
+        {
+          "text": "BGBl. II Nr. 428/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_428_2/2003_428_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 74/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2019/74"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage I",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c4c53cea1bd67726e99cfaf2d80dc17a7ba12054e94e9cabf93f51f68eb16a9",
+      "sha256": "b2571e7568259bf815b46a548b785dcb2fb496ef5ef61247d1a722607894234d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Identifikationsmerkmale",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Name",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Standort",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tätigkeit(en)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsatzsteueridentifikationsnummer",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Dienstgeberkontonummer inklusive Versicherungsträger",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Firmenbuchnummer",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Berichtszeitraum",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschäftigte",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Beschäftigten insgesamt im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Selbständigen im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der unselbständig Beschäftigten (Lohn- und Gehaltsempfänger) im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.3.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Angestellten im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.3.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Arbeiter im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.3.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Lehrlinge (Auszubildenden) im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.3.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Teilzeitbeschäftigten im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2.3.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der geringfügig Beschäftigten im Jahresdurchschnitt nach Geschlecht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Arbeitsvolumen",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der Lohn- und Gehaltsempfänger in Vollzeiteinheiten",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahl der von unselbständig Beschäftigten (Lohn- und Gehaltsempfänger) geleisteten Arbeitsstunden",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsatzerlöse und Erträge",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsatzerlöse insgesamt",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus land- und forstwirtschaftlichen Nebentätigkeiten; Fischerei",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Bergbau und Gewinnung von Steinen und Erden",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus der Herstellung von Waren inkl. Montage dieser Erzeugnisse",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Energieversorgung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Wasserversorgung und Abfallentsorgung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Hochbau",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Tiefbau",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Baunebenleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Großhandel",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Einzelhandel",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Vermittlungstätigkeiten (Provisionen)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus durchgeführten Reparaturen und Instandhaltungsarbeiten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Beherbergung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Verkauf und Verabreichung von Speisen und Getränken",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Verkehr und Lagerei",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.16",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Information und Kommunikation",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.17",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Finanz- und Versicherungsleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.18",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Vermietung von Gebäuden und Baulichkeiten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.19",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Grundstücks- und Wohnungswesen (ohne Vermietung)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.20",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus freiberuflichen und technischen Dienstleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.21",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus sonstigen wirtschaftlichen Dienstleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.22",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Erziehung und Unterricht",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.23",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Gesundheits- und Sozialwesen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.24",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Kunst, Unterhaltung und Erholung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.25",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus der Erbringung von sonstigen persönlichen Dienstleistungstätigkeiten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.26",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus Unteraufträgen (Subcontracting)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.27",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus durchgeführter Lohnarbeit",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.1.28",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Konzerninterne Umsatzerlöse (Intercompany)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Übrige betriebliche Erträge",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erträge aus der Aktivierung von Eigenleistungen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erträge aus Beteiligungen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zinsen-, Wertpapier- und ähnliche Erträge",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Subventionen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erlöse aus dem Verkauf gebrauchter Anlagegüter (auch Grundstücke und Gebäude)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Personalaufwendungen",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe der Bruttolöhne und -gehälter",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bruttogehälter der Angestellten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bruttolöhne der Arbeiter",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lehrlingseinkommen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sozialaufwendungen insgesamt",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für gesetzlich vorgeschriebene Sozialabgaben sowie vom Entgelt abhängige Abgaben und Pflichtbeiträge",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5.2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige (vertragliche oder freiwillige) Sozialaufwendungen des Arbeitgebers",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "6.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige Aufwendungen",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vorleistungen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für Material und sonstige bezogene Herstellungsleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige betriebliche Aufwendungen (ohne Steuern)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Handelswareneinsatz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Materialeinsatz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwendungen für sonstige bezogene Dienstleistungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwand für Ausgangsfrachten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zahlungen an Unterauftragnehmer",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.8",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwand für vergebene Lohnarbeiten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.9",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwand für unternehmensfremde Arbeitskräfte (Leiharbeitnehmer)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.10",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwand für vergebene Reparaturen und Instandhaltungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.11",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Einsatz von Brenn- und Treibstoffen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.12",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwand für Mieten und Leasing von Gebäuden",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.13",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Aufwand für Mieten und Leasing von Maschinen und Transportmitteln",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.14",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sonstige betriebliche Aufwendungen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.1.15",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Konzerninterne Aufwendungen (Intercompany)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Zinsen und ähnliche Aufwendungen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abschreibungen auf Sachanlagen und immaterielle Vermögensgegenstände",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "6.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Steuern und Abgaben",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "7.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lagerbestand zum Ende des Vorjahres und zum Ende des Berichtsjahres (Kalender- oder Wirtschaftsjahr)",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Brenn- und Treibstoffe",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Roh-, Hilfs- und Betriebsstoffe inkl. Einbauteile und zugekaufte Halbfabrikate",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Handelswaren",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unfertige Erzeugnisse sowie noch nicht abrechenbare Leistungen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "7.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fertige Erzeugnisse aus eigener Produktion",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "8.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Investitionen in:",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Sachanlagen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unbebaute Grundstücke",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Altbauten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Errichtung und Umbau von Gebäuden und Bauten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Maschinen und maschinelle Anlagen, Werkzeuge, Betriebs- und Geschäftsausstattung",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.4.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "(Büromaschinen, Datenverarbeitungsgeräte und -einrichtungen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.4.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "(Rundfunk-, Fernseh- und Nachrichtentechnik)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Transportmittel",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gebrauchte Sachanlagen",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Geringwertige Wirtschaftsgüter (gemäß § 13 EStG 1988)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Investitionen in Software",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "8.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Bruttoinvestitionen in Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte sowie daraus abgeleitete Lizenzen",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "9.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Ausgaben für und Investitionen in den Umweltschutz",
+                "rowspan": 1,
+                "colspan": 4
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gesamte laufende Ausgaben für den Umweltschutz",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Luftreinhaltung und Klimaschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gewässerschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abfallwirtschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schutz und Sanierung von Boden, Grund- und Oberflächenwasser",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lärm- und Erschütterungsschutz (ohne Arbeitsschutzmaßnahmen)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Arten- und Landschaftsschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.1.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Umweltschutzaktivitäten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Investitionen in Einrichtungen und Anlagen, die dem Emissionsschutz dienen, sowie in spezielles Emissionsschutzzubehör (vorwiegend „End-of-pipe-Einrichtungen“)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Luftreinhaltung und Klimaschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gewässerschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abfallwirtschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schutz und Sanierung von Boden, Grund- und Oberflächenwasser",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lärm- und Erschütterungsschutz (ohne Arbeitsschutzmaßnahmen)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Arten- und Landschaftsschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.2.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Umweltschutzaktivitäten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Investitionen in Einrichtungen und Anlagen in Verbindung mit sauberen Technologien („integrierte Technologien“)",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Luftreinhaltung und Klimaschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Gewässerschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abfallwirtschaft",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Schutz und Sanierung von Boden, Grund- und Oberflächenwasser",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.5",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lärm- und Erschütterungsschutz (ohne Arbeitsschutzmaßnahmen)",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.6",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Arten- und Landschaftsschutz",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "9.3.7",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Andere Umweltschutzaktivitäten",
+                "rowspan": 1,
+                "colspan": 2
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage II",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e490a60d01a116114007d6fdc2c26724e972c6af640ce05ba2d2258b0db3681",
+      "sha256": "fc0bdd48e5561c187e9aba04daae366976e1df4db2d574a56ad4b2edaafa52e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "1.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tätigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "2.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Beschäftigte insgesamt im Jahresdurchschnitt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "3.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Summe der Bruttolöhne und -gehälter",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "4.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Investitionen in Sachanlagen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "5.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Umsatzerlöse",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 3",
+      "source_heading": "Anlage III",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "anl-3.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1a999cd67305f2b665cf0b1bbb9d46b5e595d8baa278cae9203ffc0e49cbe87b",
+      "sha256": "1d9d6e7aa4e48c137db48aae3c033386fab09a34265592619e825b53d8011052",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 4",
+      "source_heading": "Anlage IV",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "anl-4.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39c9783cd9681d34db5824e5dd9a5e591b9f4b39a00d2df7b99b5979a7ffb9e9",
+      "sha256": "78c3de3848461231b283335ff2a17a6cc5d1aa55cc84c813c347fc78518bf7f2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 5",
+      "source_heading": "Anlage V",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "anl-5.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "71fa6d70a0d6c15e09d15474772ba80a8c33ce7cd153236a43759daef02dc7c8",
+      "sha256": "a6d050614886bdd88bbe08a67491d2730c01c228995146aa65fcac07af32ba8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

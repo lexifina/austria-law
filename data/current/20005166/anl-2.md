@@ -1,0 +1,1300 @@
+## Anlage B
+
+<table>
+  <tr>
+    <td colspan="8"><p>Wasserhaushalt – Oberflächenwasser und Feststoffe</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2"><p>Flussgebiet laut Anlage A</p></td>
+    <td></td>
+    <td colspan="5"><p>Gewässerkundliche Einrichtungen</p></td>
+  </tr>
+  <tr>
+    <td><p>Land</p></td>
+    <td><p>Wasser- stands- messstelle</p></td>
+    <td><p>Durch- fluss- messstelle</p></td>
+    <td><p>Mess- seil- bahn</p></td>
+    <td><p>Tempera- tur- messstelle</p></td>
+    <td><p>Feststoff- messstelle</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>1</p></td>
+    <td rowspan="2"><p>Rhein</p></td>
+    <td><p>V</p></td>
+    <td><p>37</p></td>
+    <td><p>35</p></td>
+    <td><p>11</p></td>
+    <td><p>12</p></td>
+    <td><p>3</p></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>2</p></td>
+    <td rowspan="2"><p>Donau oberhalb des Inn</p></td>
+    <td><p>T</p></td>
+    <td><p>15</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>7</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>V</p></td>
+    <td><p>2</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>3</p></td>
+    <td rowspan="3"><p>Inn bis zur Salzach</p></td>
+    <td><p>T</p></td>
+    <td><p>55</p></td>
+    <td><p>45</p></td>
+    <td><p>18</p></td>
+    <td><p>20</p></td>
+    <td><p>7</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>V</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>4</p></td>
+    <td rowspan="3"><p>Salzach</p></td>
+    <td><p>S</p></td>
+    <td><p>60</p></td>
+    <td><p>54</p></td>
+    <td><p>14</p></td>
+    <td><p>16</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>4</p></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+    <td><p>4</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>5</p></td>
+    <td rowspan="2"><p>Inn unterhalb der Salzach</p></td>
+    <td><p>O</p></td>
+    <td><p>35</p></td>
+    <td><p>35</p></td>
+    <td><p>1</p></td>
+    <td><p>12</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>7</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td><p>3</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>6</p></td>
+    <td rowspan="2"><p>Donau v. Inn b. Traun</p></td>
+    <td><p>O</p></td>
+    <td><p>26</p></td>
+    <td><p>25</p></td>
+    <td></td>
+    <td><p>14</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O-vd*)</p></td>
+    <td><p>6</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td><p>3</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>7</p></td>
+    <td rowspan="3"><p>Traun</p></td>
+    <td><p>O</p></td>
+    <td><p>63</p></td>
+    <td><p>48</p></td>
+    <td><p>8</p></td>
+    <td><p>32</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>6</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>6</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>8</p></td>
+    <td rowspan="4"><p>Enns</p></td>
+    <td><p>St</p></td>
+    <td><p>24</p></td>
+    <td><p>21</p></td>
+    <td><p>7</p></td>
+    <td><p>6</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>28</p></td>
+    <td><p>28</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>5</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>9</p></td>
+    <td rowspan="5"><p>Donau von der Traun bis zum Kamp (ohne Enns)</p></td>
+    <td><p>N</p></td>
+    <td><p>36</p></td>
+    <td><p>34</p></td>
+    <td><p>7</p></td>
+    <td><p>15</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>14</p></td>
+    <td><p>14</p></td>
+    <td><p>1</p></td>
+    <td><p>9</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N-vd*)</p></td>
+    <td><p>6</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td><p>4</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>O-vd*)</p></td>
+    <td><p>4</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="6"><p>10</p></td>
+    <td rowspan="6"><p>Donau vom Kamp einschließlich bis zur Leitha (ohne March)</p></td>
+    <td><p>N</p></td>
+    <td><p>46</p></td>
+    <td><p>46</p></td>
+    <td><p>2</p></td>
+    <td><p>19</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>W</p></td>
+    <td><p>7</p></td>
+    <td><p>7</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N-vd*)</p></td>
+    <td><p>10</p></td>
+    <td><p>5</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>W-vd*)</p></td>
+    <td><p>6</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>11</p></td>
+    <td rowspan="2"><p>March</p></td>
+    <td><p>N</p></td>
+    <td><p>15</p></td>
+    <td><p>15</p></td>
+    <td></td>
+    <td><p>5</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N-vd*)</p></td>
+    <td><p>6</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>12</p></td>
+    <td rowspan="3"><p>Leitha</p></td>
+    <td><p>N</p></td>
+    <td><p>28</p></td>
+    <td><p>28</p></td>
+    <td><p>3</p></td>
+    <td><p>5</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>4</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>13</p></td>
+    <td rowspan="3"><p>Rabnitz und Raab</p></td>
+    <td><p>B</p></td>
+    <td><p>38</p></td>
+    <td><p>30</p></td>
+    <td><p>2</p></td>
+    <td><p>11</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>23</p></td>
+    <td><p>23</p></td>
+    <td><p>2</p></td>
+    <td><p>3</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>14</p></td>
+    <td rowspan="5"><p>Mur</p></td>
+    <td><p>St</p></td>
+    <td><p>58</p></td>
+    <td><p>57</p></td>
+    <td><p>15</p></td>
+    <td><p>13</p></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>11</p></td>
+    <td><p>10</p></td>
+    <td><p>3</p></td>
+    <td><p>4</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>K</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>15</p></td>
+    <td rowspan="4"><p>Drau</p></td>
+    <td><p>K</p></td>
+    <td><p>98</p></td>
+    <td><p>89</p></td>
+    <td><p>27</p></td>
+    <td><p>32</p></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td><p>16</p></td>
+    <td><p>13</p></td>
+    <td><p>4</p></td>
+    <td><p>7</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>3</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>16</p></td>
+    <td rowspan="2"><p>Elbegebiet (Moldau)</p></td>
+    <td><p>N</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Summe</p></td>
+    <td></td>
+    <td><p>817</p></td>
+    <td><p>717</p></td>
+    <td><p>138</p></td>
+    <td><p>279</p></td>
+    <td><p>34</p></td>
+  </tr>
+</table>
+
+\*) vd = via donau – Österreichische Wasserstraßen-Gesellschaft mbH
+
+<table>
+  <tr>
+    <td colspan="7"><p>Wasserhaushalt – Unterirdisches Wasser einschließlich Quellen</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2"><p>Flussgebiet laut Anlage A</p></td>
+    <td rowspan="2"><p>Land *) via – donau</p></td>
+    <td colspan="4"><p>Gewässerkundliche Einrichtungen</p></td>
+  </tr>
+  <tr>
+    <td><p>Grundwasser- messstelle (ges. Zone)</p></td>
+    <td><p>Temperatur- messstelle</p></td>
+    <td><p>Bodenwasser- messstelle (unges. Zone)</p></td>
+    <td><p>Quell- messstell</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>1</p></td>
+    <td rowspan="2"><p>Rhein</p></td>
+    <td><p>V</p></td>
+    <td><p>339</p></td>
+    <td><p>69</p></td>
+    <td><p>1</p></td>
+    <td><p>7</p></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>2</p></td>
+    <td rowspan="2"><p>Donau oberhalb des Inn</p></td>
+    <td><p>T</p></td>
+    <td><p>67</p></td>
+    <td><p>7</p></td>
+    <td><p>2</p></td>
+    <td><p>5</p></td>
+  </tr>
+  <tr>
+    <td><p>V</p></td>
+    <td><p>7</p></td>
+    <td><p>5</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>3</p></td>
+    <td rowspan="3"><p>Inn bis zur Salzach</p></td>
+    <td><p>T</p></td>
+    <td><p>238</p></td>
+    <td><p>31</p></td>
+    <td><p>1</p></td>
+    <td><p>21</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>V</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>4</p></td>
+    <td rowspan="3"><p>Salzach</p></td>
+    <td><p>S</p></td>
+    <td><p>143</p></td>
+    <td><p>19</p></td>
+    <td><p>1</p></td>
+    <td><p>5</p></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td><p>6</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>5</p></td>
+    <td rowspan="2"><p>Inn unterhalb der Salzach</p></td>
+    <td><p>O</p></td>
+    <td><p>77</p></td>
+    <td><p>33</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>Donau v. Inn b. Traun</p></td>
+    <td><p>O</p></td>
+    <td><p>147</p></td>
+    <td><p>9</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>7</p></td>
+    <td rowspan="3"><p>Traun</p></td>
+    <td><p>O</p></td>
+    <td><p>127</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>6</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>8</p></td>
+    <td rowspan="5"><p>Enns</p></td>
+    <td><p>St</p></td>
+    <td><p>47</p></td>
+    <td><p>2</p></td>
+    <td><p>2</p></td>
+    <td><p>8</p></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>6</p></td>
+    <td></td>
+    <td></td>
+    <td><p>5</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>5</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td><p>5</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>W</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>9</p></td>
+    <td rowspan="3"><p>Donau von der Traun bis zum Kamp (ohne Enns)</p></td>
+    <td><p>N</p></td>
+    <td><p>126</p></td>
+    <td><p>8</p></td>
+    <td><p>1</p></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>122</p></td>
+    <td><p>8</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>10</p></td>
+    <td rowspan="5"><p>Donau vom Kamp einschließlich bis Leitha (ohne March)</p></td>
+    <td><p>N</p></td>
+    <td><p>276</p></td>
+    <td><p>33</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>W</p></td>
+    <td><p>203</p></td>
+    <td><p>10</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>19</p></td>
+    <td><p>6</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N-vd*)</p></td>
+    <td><p>19</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>11</p></td>
+    <td rowspan="2"><p>March</p></td>
+    <td><p>N</p></td>
+    <td><p>54</p></td>
+    <td><p>7</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>N-vd*)</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>12</p></td>
+    <td rowspan="4"><p>Leitha</p></td>
+    <td><p>N</p></td>
+    <td><p>63</p></td>
+    <td><p>14</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>36</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>W</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>13</p></td>
+    <td rowspan="3"><p>Rabnitz und Raab</p></td>
+    <td><p>B</p></td>
+    <td><p>263</p></td>
+    <td><p>54</p></td>
+    <td></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>83</p></td>
+    <td></td>
+    <td><p>1</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="6"><p>14</p></td>
+    <td rowspan="6"><p>Mur</p></td>
+    <td><p>St</p></td>
+    <td><p>650</p></td>
+    <td><p>61</p></td>
+    <td><p>3</p></td>
+    <td><p>6</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>10</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>K</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>W</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>15</p></td>
+    <td rowspan="4"><p>Drau</p></td>
+    <td><p>K</p></td>
+    <td><p>256</p></td>
+    <td><p>185</p></td>
+    <td></td>
+    <td><p>16</p></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td><p>38</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>3</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>5</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>16</p></td>
+    <td rowspan="2"><p>Elbegebiet (Moldau)</p></td>
+    <td><p>N</p></td>
+    <td><p>6</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Summe</p></td>
+    <td></td>
+    <td><p>3463</p></td>
+    <td><p>579</p></td>
+    <td><p>14</p></td>
+    <td><p>104</p></td>
+  </tr>
+</table>
+
+\*) vd = via donau – Österreichische Wasserstraßen-Gesellschaft mbH
+
+<table>
+  <tr>
+    <td colspan="8"><p>Wasserhaushalt – Atmosphärischer Bereich</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2"><p>Flussgebiet laut Anlage A</p></td>
+    <td></td>
+    <td colspan="5"><p>Gewässerkundliche Einrichtungen</p></td>
+  </tr>
+  <tr>
+    <td><p>Land</p></td>
+    <td><p>Nieder- schlags- messstelle</p></td>
+    <td><p>Schnee- messein- richtung</p></td>
+    <td><p>Luft- temperatur- messstelle</p></td>
+    <td><p>Verdunstungs- messstelle</p></td>
+    <td><p>Gletscher- messein- richtung</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>1</p></td>
+    <td rowspan="2"><p>Rhein</p></td>
+    <td><p>V</p></td>
+    <td><p>61</p></td>
+    <td><p>46</p></td>
+    <td><p>24</p></td>
+    <td><p>5</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>2</p></td>
+    <td rowspan="2"><p>Donau oberhalb des Inn</p></td>
+    <td><p>T</p></td>
+    <td><p>22</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>V</p></td>
+    <td><p>7</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>3</p></td>
+    <td rowspan="3"><p>Inn bis zur Salzach</p></td>
+    <td><p>T</p></td>
+    <td><p>92</p></td>
+    <td><p>72</p></td>
+    <td><p>50</p></td>
+    <td><p>6</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>V</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>4</p></td>
+    <td rowspan="3"><p>Salzach</p></td>
+    <td><p>S</p></td>
+    <td><p>67</p></td>
+    <td><p>40</p></td>
+    <td><p>39</p></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>3</p></td>
+    <td><p>3</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td><p>2</p></td>
+    <td><p>2</p></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>5</p></td>
+    <td rowspan="2"><p>Inn unterhalb der Salzach</p></td>
+    <td><p>O</p></td>
+    <td><p>19</p></td>
+    <td><p>17</p></td>
+    <td><p>14</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>Donau v. Inn b. Traun</p></td>
+    <td><p>O</p></td>
+    <td><p>40</p></td>
+    <td><p>36</p></td>
+    <td><p>36</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>7</p></td>
+    <td rowspan="3"><p>Traun</p></td>
+    <td><p>O</p></td>
+    <td><p>30</p></td>
+    <td><p>29</p></td>
+    <td><p>26</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>5</p></td>
+    <td><p>4</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>8</p></td>
+    <td rowspan="4"><p>Enns</p></td>
+    <td><p>St</p></td>
+    <td><p>29</p></td>
+    <td><p>23</p></td>
+    <td><p>19</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>21</p></td>
+    <td><p>21</p></td>
+    <td><p>20</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td><p>3</p></td>
+    <td><p>2</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>9</p></td>
+    <td rowspan="3"><p>Donau von der Traun bis zum Kamp (ohne Enns)</p></td>
+    <td><p>N</p></td>
+    <td><p>72</p></td>
+    <td><p>39</p></td>
+    <td><p>33</p></td>
+    <td><p>3</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>18</p></td>
+    <td><p>17</p></td>
+    <td><p>18</p></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>10</p></td>
+    <td rowspan="4"><p>Donau vom Kamp einschließlich bis zur Leitha (ohne March)</p></td>
+    <td><p>N</p></td>
+    <td><p>100</p></td>
+    <td><p>36</p></td>
+    <td><p>50</p></td>
+    <td><p>9</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>W</p></td>
+    <td><p>20</p></td>
+    <td><p>15</p></td>
+    <td><p>16</p></td>
+    <td><p>3</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>3</p></td>
+    <td><p>3</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>11</p></td>
+    <td><p>March</p></td>
+    <td><p>N</p></td>
+    <td><p>42</p></td>
+    <td><p>18</p></td>
+    <td><p>18</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>12</p></td>
+    <td rowspan="3"><p>Leitha</p></td>
+    <td><p>N</p></td>
+    <td><p>30</p></td>
+    <td><p>17</p></td>
+    <td><p>14</p></td>
+    <td><p>2</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>5</p></td>
+    <td><p>5</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>13</p></td>
+    <td rowspan="3"><p>Rabnitz und Raab</p></td>
+    <td><p>B</p></td>
+    <td><p>61</p></td>
+    <td><p>58</p></td>
+    <td><p>34</p></td>
+    <td><p>3</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>31</p></td>
+    <td><p>27</p></td>
+    <td><p>21</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td><p>6</p></td>
+    <td><p>4</p></td>
+    <td><p>3</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>14</p></td>
+    <td rowspan="5"><p>Mur</p></td>
+    <td><p>St</p></td>
+    <td><p>103</p></td>
+    <td><p>80</p></td>
+    <td><p>65</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td><p>8</p></td>
+    <td><p>8</p></td>
+    <td><p>4</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>K</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>N</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>B</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>15</p></td>
+    <td rowspan="4"><p>Drau</p></td>
+    <td><p>K</p></td>
+    <td><p>79</p></td>
+    <td><p>74</p></td>
+    <td><p>79</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>T</p></td>
+    <td><p>31</p></td>
+    <td><p>15</p></td>
+    <td><p>12</p></td>
+    <td><p>3</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>St</p></td>
+    <td><p>3</p></td>
+    <td><p>2</p></td>
+    <td><p>2</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>S</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>16</p></td>
+    <td rowspan="2"><p>Elbegebiet (Moldau)</p></td>
+    <td><p>N</p></td>
+    <td><p>7</p></td>
+    <td><p>2</p></td>
+    <td><p>3</p></td>
+    <td><p>1</p></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><p>O</p></td>
+    <td><p>3</p></td>
+    <td><p>3</p></td>
+    <td><p>3</p></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Summe</p></td>
+    <td></td>
+    <td><p>1037</p></td>
+    <td><p>753</p></td>
+    <td><p>649</p></td>
+    <td><p>47</p></td>
+    <td><p>3</p></td>
+  </tr>
+</table>

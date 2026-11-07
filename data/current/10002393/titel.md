@@ -1,0 +1,3 @@
+Bundesgesetz zur Verbesserung der Nahversorgung und der Wettbewerbsbedingungen (Faire-Wettbewerbsbedingungen-Gesetz – FWBG) StF: [BGBl. Nr. 392/1977](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_392_0/1977_392_0.pdf>) (NR: GP XIV [IA 4/A](<https://www.parlament.gv.at/gegenstand/XIV/A/4>) und [12/A](<https://www.parlament.gv.at/gegenstand/XIV/A/12>) [AB 565](<https://www.parlament.gv.at/gegenstand/XIV/I/565>) [S. 61.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/61>) BR: [AB 1689](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1689>) [S. 366.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/366>))
+
+Der Nationalrat hat beschlossen:

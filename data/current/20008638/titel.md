@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wirtschaft, Familie und Jugend über den Ausspruch des Verfassungsgerichtshofs, dass die Bestimmung des § 3 Abs. 2 sowie die Anlage B der Verordnung des Landeshauptmannes von Kärnten vom 18. Mai 2010, hinsichtlich der Festlegung von Öffnungszeiten und Ausnahmen von der Sonn- und Feiertagsruhe (Kärntner Öffnungszeiten-Verordnung 2010), LGBl. Nr. 29/2010 idF LGBl. Nr. 67/2011, gesetzwidrig waren StF: [BGBl. II Nr. 341/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/341>)
+
+Gemäß Art. 139 Abs. 4 und 5 B-VG und § 60 Abs. 2 VfGG iVm § 4 Abs. 1 Z 4 BGBlG wird kundgemacht:

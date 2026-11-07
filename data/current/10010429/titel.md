@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen vom 27. April 1982 betreffend die Bestimmung der Zollämter, bei denen Exemplare, Teile oder Erzeugnisse gefährdeter Arten freilebender Tiere und Pflanzen aus- und eingeführt werden dürfen StF: [BGBl. Nr. 196/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_196_0/1982_196_0.pdf>)
+
+Auf Grund des § 10 des Bundesgesetzes [BGBl. Nr. 189/1982](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_189_0/1982_189_0.pdf>) zur Durchführung des Übereinkommens vom 3. März 1973 über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen wird im Einvernehmen mit dem Bundesminister für Handel, Gewerbe und Industrie verordnet:

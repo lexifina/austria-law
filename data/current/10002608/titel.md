@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 20. Oktober 1983 betreffend ein spanisches amtliches Prüfungs- und Gewährzeichen für Industrieerzeugnisse StF: [BGBl. Nr. 535/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_535_0/1983_535_0.pdf>)
+
+Auf Grund des § 6 Abs. 2 des Markenschutzgesetzes 1970, BGBl. Nr. 260, in der Fassung der Markenschutzgesetz-Novelle 1977, BGBl. Nr. 350, wird im Einvernehmen mit dem Bundesminister für Auswärtige Angelegenheiten kundgemacht, daß § 6 Abs. 1 des Markenschutzgesetzes 1970 auf das in der Anlage angeführte spanische amtliche Prüfungs- und Gewährzeichen für Industrieerzeugnisse Anwendung findet.

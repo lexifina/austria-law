@@ -1,0 +1,3 @@
+Bundesgesetz vom 7. Mai 1980 über die Verschmelzung von Genossenschaften und über die Änderung der Gewerbeordnung 1973 (Genossenschaftsverschmelzungsgesetz – GenVG) StF: [BGBl. Nr. 223/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_223_0/1980_223_0.pdf>) idF [BGBl. Nr. 131/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_131_0/1981_131_0.pdf>) (DFB) (NR: GP XV [RV 245](<https://www.parlament.gv.at/gegenstand/XV/I/245>) [AB 350](<https://www.parlament.gv.at/gegenstand/XV/I/350>) [S. 34.](<https://www.parlament.gv.at/gegenstand/XV/NRSITZ/34>) BR: [AB 2149](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2149>) [S. 397.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/397>))
+
+Der Nationalrat hat beschlossen:

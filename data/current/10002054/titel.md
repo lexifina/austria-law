@@ -1,0 +1,1 @@
+Verordnung des Bundesministeriums für Handel und Wiederaufbau vom 15. Juli 1964, womit Zeichen der Vereinigten Internationalen Büros zum Schutz des geistigen Eigentums in Genf von der Registrierung nach dem Markenschutzgesetz ausgeschlossen werden. StF: [BGBl. Nr. 207/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_207_0/1964_207_0.pdf>)

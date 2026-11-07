@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über den Umfang und die Form der Meldungen von Unfällen und Störungen, die bei Seilbahnunternehmen auftreten, an die Unfalluntersuchungsstelle des Bundes (Melde-VO Seilb 2006) StF: [BGBl. II Nr. 288/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/288>)
+
+Auf Grund des § 104 Abs. 2 des Seilbahngesetzes 2003, [BGBl. I Nr. 103/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_103_1/2003_103_1.pdf>) zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 123/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2005/123>), wird verordnet:

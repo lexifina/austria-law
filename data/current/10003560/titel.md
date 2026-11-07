@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Wappenbilder, die Nationalfahne von Rumänien und das rumänische Staatssiegel StF: [BGBl. II Nr. 97/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_97_2/1998_97_2.pdf>)

@@ -1,0 +1,1 @@
+Bundesgesetz betreffend Verwertung der Bundeswohnbaugesellschaften StF: [BGBl. I Nr. 46/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_46_1/2003_46_1.pdf>) (NR: GP XXII [RV 78](<https://www.parlament.gv.at/gegenstand/XXII/I/78>) [AB 136](<https://www.parlament.gv.at/gegenstand/XXII/I/136>) [S. 27](<https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/27>))

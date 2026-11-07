@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 14. Juli 1958 über die Ratifikation beziehungsweise den Beitritt weiterer Staaten zur Internationalen Pflanzenschutzkonvention StF: [BGBl. Nr. 168/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_168_0/1958_168_0.pdf>)

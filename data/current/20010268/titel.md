@@ -1,0 +1,1 @@
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus über Rebsorten für Qualitätswein, Landwein und Wein ohne geschützte Ursprungsbezeichnung oder geografische Angabe mit Rebsorten- oder Jahrgangsbezeichnung (Rebsortenverordnung°2018) StF: [BGBl. II Nr. 184/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/184>)

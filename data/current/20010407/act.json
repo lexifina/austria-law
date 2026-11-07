@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010407",
+  "short_title": "Errichtung von zwei Notarstellen in Wien-Penzing und Auflassung einer Notarstelle in Wien-Hietzing",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209427",
+    "valid_from": "1977-04-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010407&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:13.512683+00:00",
+    "response_sha256": "005919d17cb1384c13cf0c40492a7d831232c23763bedd8f6dfec715edc804c1",
+    "snapshot_sha256": "f2484cf397b965ed8d9c1de0f15cfc9001a8bfea3ab08a88a5e253d399bebdbf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cc44607e9c4dadededf5e9ed6dc91d5614a816ffa9f14f5a67582752f76ff96d",
+      "sha256": "325026c39e11beba334f3fb9c26c879ad303a745243338090636a9cd0ec92069",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 25. März 1977 betreffend die Errichtung von zwei Notarstellen in Wien-Penzing und die Auflassung einer Notarstelle in Wien-Hietzing StF: BGBl. Nr. 145/1977"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 145/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_145_0/1977_145_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "83edaf6f7675c77f004af5a6c0aca0b2c6eb2661a0ec61835fd30fe885483f24",
+      "sha256": "9c9206e30b02d58657fccf2eda61201ef7913ae187d083cef2a214e14f8adb2d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

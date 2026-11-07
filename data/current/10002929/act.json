@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002929",
+  "short_title": "Europäisches Patentübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002952",
+    "valid_from": "1990-01-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002929&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:10:38.873790+00:00",
+    "response_sha256": "d85e7895fdec171dd7e7b0e24b1cf6dcff5f4c953bbd26a01264f96e5561916d",
+    "snapshot_sha256": "72bc0e4399d2aabee8f3a07bb8886c956fc758e548778276dc02c164ff7735e2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "acdd81c6c6ee42522be3cda330daf191b710631046dcb403c971047522acfd48",
+      "sha256": "db615c72ce3ce6d9a6ea13a0d03feeb14fc02c8c5ce73f036f461a023649f97a",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 9. Jänner 1990 betreffend den Geltungsbereich des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) StF: BGBl. Nr. 37/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 37/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_37_0/1990_37_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6716d7f5d74a8205b87114a5bfe5e6d6ef070631ebd6463c9862d6bdb15ca03f",
+      "sha256": "210745f146415b4dd010d8b868f030493a7a5a5ed241e50961397fa9f4af81f0",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_350_0/1979_350_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 583/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_583_0/1986_583_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

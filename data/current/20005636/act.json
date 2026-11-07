@@ -1,0 +1,131 @@
+{
+  "sample_only": false,
+  "included_provisions": 4,
+  "source_provision_count": 4,
+  "schema_version": 1,
+  "gesetzesnummer": "20005636",
+  "short_title": "Ärztepoolverordnung",
+  "abbreviation": "ÄpV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006221",
+    "valid_from": "2008-01-22",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005636&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:33:33.718824+00:00",
+    "response_sha256": "ef6638d7d7cb8a7fa85fab9978b9037b11afbf242fd9ca8dfbf34c3e94494782",
+    "snapshot_sha256": "8e599a8b2edd731a28f9f9836aa43623611cc6587f2c1ed1552e6383b5dd6ba2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fc7481dbc0846315b54b003eb37bbbb8027ab621fb74173948b64504c6daa261",
+      "sha256": "a54d485e31b623db7c16cb5864d639a472eaa58b858ea6fac33ecb5bc77e68df",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Ermächtigung von Ärzten zur Durchführung von Untersuchungen gemäß § 5 StVO (Ärztepoolverordnung-ÄpV) StF: BGBl. II Nr. 21/2008"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 21/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/21"
+        },
+        {
+          "text": "BGBl. Nr. 159/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_159_0/1960_159_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 152/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/152"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Allgemeine Voraussetzungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "686a2929f2d11e620d508276f840357ad043e9e239335b4c9b8ccf3f805e23d8",
+      "sha256": "d56c7caf2d58750a30c343f761a4be447ebf07fe7db82f567fb153dd53bdb194",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Inhalt der Weiterbildung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a802155950243f72793a8c26290163f83a49b52fc69324daa2e638322b42c66b",
+      "sha256": "7a0ea8fdb894ffac2bd9a2be58b4379d25de77b08583ce4bea92c6bac0d40ce8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Entziehung der Ermächtigung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "27d839317c0020667d9933b3bc6063874dedd9a54a2cd935d6329bacb69e718a",
+      "sha256": "fc55356cd8495e6ba377077f14e8aa14dc5ddb4b1d382ca7eebf3af0430c6d2f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

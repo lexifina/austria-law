@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001281",
+  "short_title": "VfGH-Aufhebung Satzung 1985 der OÖ Gebietskrankenkasse (Anhang 1)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001289",
+    "valid_from": "1993-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001281&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:44:33.035029+00:00",
+    "response_sha256": "9b52d9baa4f718ce28a37e0fe21423778826ac546ec55dd7ecad9076490411c7",
+    "snapshot_sha256": "182d812bd6778719cc723c6818498c71a9b5ca243cff2fe3be63864e48db825b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c2b0b380f9f30a90eb8bf8ba94d716e1cfc4902ecc575cd3ea750d18292a521",
+      "sha256": "d63110307f9da90be2c087a90f775d8a09f076f32ccd6335dcdae85b4dfca107",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Arbeit und Soziales über die Aufhebung einiger Worte im Anhang 1 zur Satzung 1985 der Oberösterreichischen Gebietskrankenkasse StF: BGBl. Nr. 927/1993"
+        },
+        {
+          "kind": "Änderung",
+          "text": "idF: BGBl. Nr. 82/1994"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 927/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_927_0/1993_927_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 82/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_82_0/1994_82_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e9b10f453cd00154a2ba72e24817350d4b6d3345257bb289f44b3587831ba3d",
+      "sha256": "ed079ba1b37d18347b2aaeab17903577addc4ad08466d5de660d88ce252dbb74",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

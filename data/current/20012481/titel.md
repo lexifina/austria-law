@@ -1,0 +1,3 @@
+Bundesgesetz über einen Zweckzuschuss aufgrund der Abschaffung des Zugriffs auf Vermögen bei Unterbringung von Personen in stationären Pflegeeinrichtungen für die Jahre 2025 bis 2028 StF: [BGBl. I Nr. 170/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/170>) (NR: GP XXVII [RV 2303](<https://www.parlament.gv.at/gegenstand/XXVII/I/2303>) und [Zu 2303](<https://www.parlament.gv.at/gegenstand/XXVII/I/2303>) [AB 2389](<https://www.parlament.gv.at/gegenstand/XXVII/I/2389>) S. 243. BR: [AB 11372](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11372>) S. [962](<https://www.parlament.gv.at/gegenstand/BR/I-BR/962>).)
+
+Der Nationalrat hat beschlossen:

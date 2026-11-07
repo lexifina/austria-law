@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 9. September 1933, betreffend das endgültige Inkrafttreten des Zusatzprotokolls zum österreichisch- italienischen Handels- und Schiffahrtsvertrag. StF: [BGBl. Nr. 411/1933](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=411/1933&amp;SkipToDocumentPage=True>)

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 30. August 1958 über die Ratifikation des Übereinkommens vom 18. Oktober 1907 zur friedlichen Erledigung internationaler Streitfälle (I. Übereinkommen der II. Haager Friedenskonferenz) durch die Dominikanische Republik. StF: [BGBl. Nr. 207/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_207_0/1958_207_0.pdf>)

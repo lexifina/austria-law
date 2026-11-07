@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. Dezember 1985 über die Aufhebung von Bestimmungen der Verordnung des Bürgermeisters der Marktgemeinde Etsdorf-Haitzendorf, durch welche die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: [BGBl. Nr. 9/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_9_0/1986_9_0.pdf>)
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes [BGBl. Nr. 311/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf>) wird kundgemacht:

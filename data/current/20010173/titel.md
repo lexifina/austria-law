@@ -1,0 +1,3 @@
+Artikel X des Bundesgesetzes vom 14. Dezember 1983, mit dem das Vertragsbedienstetengesetz 1948 (34. Vertragsbedienstetengesetz-Novelle), die Bundesforste-Dienstordnung und das Land- und Forstarbeiter-Dienstrechtsgesetz geändert werden StF: [BGBl. Nr. 657/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_657_0/1983_657_0.pdf>) (NR: GP XVI [RV 150](<https://www.parlament.gv.at/gegenstand/XVI/I/150>) [AB 188](<https://www.parlament.gv.at/gegenstand/XVI/I/188>) [S. 28.](<https://www.parlament.gv.at/gegenstand/XVI/NRSITZ/28>) BR: [AB 2780](<https://www.parlament.gv.at/gegenstand/BR/I-BR/2780>) [S. 441.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/441>))
+
+Der Nationalrat hat beschlossen:

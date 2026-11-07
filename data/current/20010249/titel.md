@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Gleichhaltung des Ausbilderprüfungszeugnisses aus Österreich mit dem Prüfungszeugnis über den Prüfungsteil Berufspädagogik der Meisterprüfung der Autonomen Provinz Bozen (Südtirol) StF: [BGBl. II Nr. 164/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/164>)
+
+Auf Grund des § 19 Abs. 9 und 10 und des § 29h Abs. 1 und 3 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 154/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/154>), wird verordnet:

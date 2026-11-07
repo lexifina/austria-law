@@ -1,0 +1,111 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20012436",
+  "short_title": "Bundes-Ehrenzeichen",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40257668",
+    "valid_from": "2024-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012436&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:34:46.677823+00:00",
+    "response_sha256": "b0b35fd209ea6c5833be050a7f955979106c5d69c31133504e119045d6131b87",
+    "snapshot_sha256": "c8228f5c229e438b39fcf009b01d4538acc7cf65212f8e0618e558183d5cf1b5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e89be92bf4d7a61c8df359b747c93c86712a63513d8e3383e590ae5ce3493fc9",
+      "sha256": "6ecc9f790f6bc86303600c8ad92ef6c34a5371fc1e3715d5c1cb4ced456964b5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesregierung betreffend das Bundes-Ehrenzeichen StF: BGBl. II Nr. 375/2023"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 375/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/375"
+        },
+        {
+          "text": "BGBl. I Nr. 132/2023",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/132"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b07da0c36bff3a67bfeb46d15bbaa24004bc48601d20c34811758e8d63157b9",
+      "sha256": "d7cacd5195380c92c620a6f033e5088eec3d537410f707f07c3cdb7a644611bb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e904bc9778581d2107d95958ebd5e653f4008d614f5944eb8378ed353afedd6a",
+      "sha256": "bdf334c94623a505f2050cc69888717bccb9d59697e7e50f128fe9b35c92db13",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 152/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_152_2/2002_152_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

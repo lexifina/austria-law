@@ -1,0 +1,1 @@
+Aufhebung der Aussetzung des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Republik Albanien über die Aufhebung der Sichtvermerkspflicht für Inhaber von Diplomaten- und Dienstpässen StF: [BGBl. III Nr. 74/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/III/2008/74>)

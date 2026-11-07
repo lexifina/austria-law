@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Frauen, Wissenschaft und Forschung über die Grundausbildung für die Bediensteten des Bundesministeriums für Frauen, Wissenschaft und Forschung (Grundausbildungsverordnung – BMFWF) StF: [BGBl. II Nr. 55/2026](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/55>)
+
+Auf Grund der §§ 25 bis 31 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), [BGBl. Nr. 333/1979](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf>), und des § 67 des Vertragsbedienstetengesetzes 1948 (VBG), [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>) jeweils in der Fassung des Bundesgesetzes [BGBl. I Nr. 100/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/100>), wird verordnet:

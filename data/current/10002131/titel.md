@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 31. Jänner 1969 betreffend die Ratifikation des Übereinkommens vom 24. Oktober 1956 über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht durch Portugal StF: [BGBl. Nr. 62/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_62_0/1969_62_0.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005120",
+  "short_title": "VfGH-Ausspruch, dass die 1. Übernahmeverordnung gesetzwidrig war",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005587",
+    "valid_from": "2006-11-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005120&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:25:32.017402+00:00",
+    "response_sha256": "a3a47f414044f47617ab390b96e64c51b1c6b55605dd148ddfb7601d9dfa5d08",
+    "snapshot_sha256": "aae09f4bdfc6c3b29241c4fbcf6872641b10f1ab802605b4a3583f78c1053609",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "87846161b27e5307f3358edc38f62789a469ca68e8ce246bd64533556ce47ac7",
+      "sha256": "4e520b6b27c6279036d06bbcc3c160b684cb8b3d20519f417395ed2c629aaf75",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung der Bundesministerin für Justiz über den Ausspruch des Verfassungsgerichtshofes, dass die Verordnung der Übernahmekommission zum Übernahmegesetz (1. Übernahmeverordnung – 1. ÜbV) gesetzwidrig war StF: BGBl. II Nr. 443/2006"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 443/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2006/443"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3c4318b9ea001fe4951e426c7fa21f5e3965ac43cde5c3ec6dc9e196b31a759a",
+      "sha256": "78853f2c96a372f6177d7213ce812ed6cc582927e547537c80f3399d35c890e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

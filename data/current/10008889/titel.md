@@ -1,0 +1,3 @@
+Bundesgesetz betreffend ergänzende Regelungen im Bereich der sozialen Sicherheit im Verhältnis zur Europäischen Union, anderen Vertragsstaaten und internationalen Organisationen (Sozialversicherungs-Ergänzungsgesetz – SV-EG) StF: [BGBl. Nr. 154/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_154_0/1994_154_0.pdf>) (NR: GP XVIII [RV 1380](<https://www.parlament.gv.at/gegenstand/XVIII/I/1380>) [AB 1409](<https://www.parlament.gv.at/gegenstand/XVIII/I/1409>) [S. 153.](<https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/153>) BR: [AB 4749](<https://www.parlament.gv.at/gegenstand/BR/I-BR/4749>) [S. 580.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/580>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das neue Emblem der Latin American Integration Association ALADI StF: [BGBl. II Nr. 398/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_398_2/2002_398_2.pdf>)

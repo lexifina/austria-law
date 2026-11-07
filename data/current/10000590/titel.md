@@ -1,0 +1,3 @@
+Bundesgesetz vom 13. Dezember 1976 über die Gewährung einer Aushilfe zur Milderung von Härten infolge bestimmter Vermögensverluste (Aushilfegesetz) StF: [BGBl. Nr. 712/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_712_0/1976_712_0.pdf>) (NR: GP XIV [RV 304](<https://www.parlament.gv.at/gegenstand/XIV/I/304>) [AB 398](<https://www.parlament.gv.at/gegenstand/XIV/I/398>) [S. 42.](<https://www.parlament.gv.at/gegenstand/XIV/NRSITZ/42>) BR: [AB 1605](<https://www.parlament.gv.at/gegenstand/BR/I-BR/1605>) [S. 358.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/358>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011215",
+  "short_title": "Schiffahrt - Eichung der Binnenschiffe",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011480",
+    "valid_from": "1931-03-29",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011215&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:50:15.038824+00:00",
+    "response_sha256": "2604f67a9b3b97516fdc20d220260c8a9d9381db754cbfa4550bdedb27cdebc3",
+    "snapshot_sha256": "0569537346a52d7a59e7281a3bf92f962e46269dd11e3cbba30270d683eb267f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca4e11fce9c0c7eb6fada6aac76fa175ad7b064f86ceb0a6278c70791b966673",
+      "sha256": "0f57b2bd420bf03631a5a759336cf74d75127d2d516b941519bde6ed36c06707",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 20. März 1931 über die Hinterlegung der Ratifikation Griechenlands zum Übereinkommen über die Eichung der Binnenschiffe StF: BGBl. Nr. 85/1931"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 85/1931",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=85/1931&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa3fe7b3f638e13b6808a942f059da63b10eb65da5869ae920e381fdd0285a88",
+      "sha256": "cd4fe842fd99ba79b11972cd724aeb01db4e66c713e1b5294461cb3b0a0e23d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

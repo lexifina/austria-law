@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 5. Feber 1980 betreffend die Bezeichnungen, die Abkürzungen der Bezeichnungen und das Emblem des Rates für gegenseitige Wirtschaftshilfe StF: [BGBl. Nr. 97/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_97_0/1980_97_0.pdf>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010410",
+  "short_title": "Errichtung einer dritten Notarstelle in Baden",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209437",
+    "valid_from": "1980-05-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010410&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:55:19.899766+00:00",
+    "response_sha256": "f024dfd35457b78f5f29bef26490073d5944d160a55dad5a4840697a18987480",
+    "snapshot_sha256": "adc22dc98008f4a1d7c7000540015fd7adbc63ae0310e13e2db71eaa98687c0e",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5be5f3f7d321003bb05f818877d740248da6b4ad94cc77652266f25f28d2905",
+      "sha256": "bfc1d1a0976de543265ce555bb86709c5013d5369e7d8b749687df6fac22362b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz vom 28. März 1980 betreffend die Errichtung einer dritten Notarstelle in Baden StF: BGBl. Nr. 190/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 190/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_190_0/1980_190_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "26dfa413b588eb467282ad465dc24582a48ef96c71b03c4676767bdd37a34a23",
+      "sha256": "59fe4edcf3c29ab8b8560386a90a22557837ac5503b08298747023f1fa944e50",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 20. Juli 1950, betreffend die Ratifikation des Abkommens über die Internationale Zivilluftfahrt durch Iran und den Beitritt der Republik der Vereinigten Staaten von Indonesien StF: [BGBl. Nr. 171/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_171_0/1950_171_0.pdf>)

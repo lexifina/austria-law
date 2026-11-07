@@ -1,0 +1,3 @@
+Verordnung des Vorstands der E-Control betreffend Zuordnung, Erstellung und Anpassung von standardisierten Lastprofilen (Lastprofilverordnung 2018 – LPV 2018) StF: [BGBl. II Nr. 338/2018](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2018/338>)
+
+Aufgrund des § 60 des Gaswirtschaftsgesetzes 2011 (GWG 2011), BGBl. I. Nr. 107/2011, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 108/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108>), in Verbindung mit § 7 Abs. 1 des Energie-Control-Gesetzes (E-ControlG), [BGBl. I Nr. 110/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/110>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 108/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/108>), wird verordnet:

@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Finanzen und des Bundesministers für Justiz zum Neugründungs-Förderungsgesetz betreffend die Übertragung von Klein- und Mittelbetrieben (KMU-Übertragungs-Förderungsverordnung) StF: [BGBl. II Nr. 483/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_483_2/2002_483_2.pdf>)

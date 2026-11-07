@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Inneres betreffend das Inkraftsetzen des Schengener Durchführungsübereinkommens StF: [BGBl. III Nr. 61/2001](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_61_3/2001_61_3.pdf>)

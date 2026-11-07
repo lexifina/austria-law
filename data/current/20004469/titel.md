@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres zur Durchführung des Fremdenpolizeigesetzes 2005 (Fremdenpolizeigesetz-Durchführungsverordnung – FPG-DV) StF: [BGBl. II Nr. 450/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/450>)
+
+Auf Grund des Fremdenpolizeigesetzes 2005 (FPG), BGBl. I Nr. 100, zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 87/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/87>), wird – hinsichtlich der §§ 17 Abs. 3, 28 Abs. 2 und 30 Abs. 3 im Einvernehmen mit dem Bundesminister für Europa, Integration und Äußeres sowie hinsichtlich des § 24a Abs. 6 im Einvernehmen mit dem Bundesminister für Arbeit, Soziales und Konsumentenschutz und dem Bundesminister für Europa, Integration und Äußeres – verordnet:

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010384",
+  "short_title": "Notarstellen im Sprengel des Landesgerichtes für Zivilrechtssachen Wien",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209374",
+    "valid_from": "1959-04-08",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010384&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:26.959282+00:00",
+    "response_sha256": "c6526ce9287afd6210fe083242d19067f9d9c265dcc500d63fd458780c2bd353",
+    "snapshot_sha256": "3697426f8d789521ace6a393452a0d871a1f46809730dfa20d81cab6f342f558",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ae3b1b842d12b6ef6b2431c851ae07c7f5c5412291ad03b6bea617c68ef2cfe7",
+      "sha256": "bcb70564e2b8144e9e65a3af23c127a5da49e21f852e0a581763b75458a855e8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für Justiz vom 16. März 1959, betreffend Notarstellen im Sprengel des Landesgerichtes für ZRS. Wien. StF: BGBl. Nr. 81/1959"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 81/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_81_0/1959_81_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ede21d7663e87fa3656300cad53bcb34b0999d2cebf6ecdb8554f47c95f09546",
+      "sha256": "a74a4cff57ad2a43eca86ba52e5e44fcc400b5a592704cec0d4306dad5d82571",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

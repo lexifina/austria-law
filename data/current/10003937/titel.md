@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 2. März 1961, betreffend weitere Ratifikationen und Beitritte zum Zollabkommen über Behälter StF: [BGBl. Nr. 79/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_79_0/1961_79_0.pdf>)

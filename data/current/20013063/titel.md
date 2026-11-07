@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über die Führung der Ärzteliste und über Inhalt und Form des Ärztinnen-/Ärzteausweises 2025 (Ärzteliste-Verordnung 2025 – Ärzteliste-V 2025) StF: [BGBl. II Nr. 314/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/314>)
+
+Auf Grund des § 29 Abs. 3 des Ärztegesetzes 1998 (ÄrzteG 1998), [BGBl. I Nr. 169/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_169_1/1998_169_1.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 50/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/50>), wird verordnet:

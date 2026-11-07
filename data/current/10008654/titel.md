@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen vom 8. April 1988 über die Übermittlung von Daten des land- und forstwirtschaftlichen Vermögens an die Sozialversicherungsanstalt der Selbständigen StF: [BGBl. Nr. 202/1988](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_202_0/1988_202_0.pdf>)
+
+Auf Grund des § 217 Abs. 4 des Bauern-Sozialversicherungsgesetzes (BSVG), [BGBl. Nr. 559/1978](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_559_0/1978_559_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 611/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_611_0/1987_611_0.pdf>) wird im Einvernehmen mit dem Bundesminister für Arbeit und Soziales verordnet:

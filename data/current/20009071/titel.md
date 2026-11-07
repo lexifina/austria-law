@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Justiz über die Einstufung als und die Behandlung von Verschlusssachen (Verschlusssachenverordnung) StF: [BGBl. II Nr. 3/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/3>)
+
+Auf Grund des § 145 Abs. 3 der Strafprozessordnung 1975 (StPO), [BGBl. Nr. 631/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_631_0/1975_631_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/71>), und des § 34c Abs. 3 des Staatsanwaltschaftsgesetzes (StAG), [BGBl. Nr. 164/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_164_0/1986_164_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 71/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/71>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministeriums für soziale Verwaltung vom 2. April 1948, betreffend die Befugnis zur Vornahme medizinisch-diagnostischer Untersuchungen und die hiebei und bei Arbeiten mit Krankheitserregern zu beobachtenden Vorsichtsmaßnahmen. StF: [BGBl. Nr. 63/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_63_0/1948_63_0.pdf>) idF [BGBl. Nr. 216/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_216_0/1948_216_0.pdf>) (DFB)
+
+Auf Grund des § 28 des Gesetzes vom 14. April 1913, R. G. Bl. Nr. 67, betreffend die Verhütung und Bekämpfung übertragbarer Krankheiten und des § 1 des Gesetzes vom 30. April 1870, R. G. Bl. Nr. 68, betreffend die Organisation des öffentlichen Sanitätsdienstes, wird verordnet:

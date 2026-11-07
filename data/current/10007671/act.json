@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10007671",
+  "short_title": "Kundmachung des EU-Beitrittsvertrages",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11007803",
+    "valid_from": "1995-01-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007671&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:08:49.869420+00:00",
+    "response_sha256": "fd5c6bd5981fb21a4f3ac2a478b8ebdb100165cd016e237aaf441bbe5a196df6",
+    "snapshot_sha256": "0c1ec828727cbb511a82a1ff1143a0d13deb6089b6ab8dab2ef53f91acb017cd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6e98d4be61115b6d073d0b5d4c38e9a6a0392304cdc6192cfdcf8c856f059e3d",
+      "sha256": "2f9e19fb02d50541a2d0a6dc283a59fa093e00cf81785c4bafebc94edceb7abf",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundeskanzlers betreffend Kundmachung des EU-Beitrittsvertrags StF: BGBl. Nr. 49/1995"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 49/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_49_0/1995_49_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dea29a0d66eed6931a8a229269a000e26167d9964162f9c5c2adbcc0720f8270",
+      "sha256": "3403276fdb630d8cf9cbe4c403987b849c99c85164706cab72450465cea60de5",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 45/1995",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_45_0/1995_45_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

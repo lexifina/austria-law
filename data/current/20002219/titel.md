@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Finanzen zum sachlichen Anwendungsbereich des Vertrages vom 4. Oktober 1954 zwischen der Republik Österreich und der Bundesrepublik Deutschland über Rechtsschutz und Rechtshilfe in Abgabensachen StF: [BGBl. III Nr. 202/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_202_3/2002_202_3.pdf>)
+
+Auf Grund des Artikels 1 in Verbindung mit Artikel 15 des Vertrages vom 4. Oktober 1954 zwischen der Republik Österreich und der Bundesrepublik Deutschland über Rechtsschutz und Rechtshilfe in Abgabensachen, [BGBl. Nr. 249/1955](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1955_249_0/1955_249_0.pdf>), wird verordnet:

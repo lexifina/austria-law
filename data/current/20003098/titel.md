@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Landesverteidigung über die Lehrverpflichtung der Lehrer an der Heeresversorgungsschule StF: [BGBl. II Nr. 591/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_591_2/2003_591_2.pdf>)
+
+Auf Grund der §§ 7 Abs. 1 und 9 Abs. 3 des Bundeslehrer-Lehrverpflichtungsgesetzes, [BGBl. Nr. 244/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_244_0/1965_244_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), in Verbindung mit § 283 Abs. 1 des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333, zuletzt geändert durch [BGBl. I Nr. 71/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_71_1/2003_71_1.pdf>), wird verordnet:

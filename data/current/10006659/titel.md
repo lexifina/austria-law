@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 4. Juli 1980, mit der Ausbildungsvorschriften für weitere Lehrberufe erlassen werden StF: [BGBl. Nr. 386/1980](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_386_0/1980_386_0.pdf>)
+
+Auf Grund des § 8 des Berufsausbildungsgesetzes, [BGBl. Nr. 142/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_142_0/1969_142_0.pdf>), in der Fassung der Berufsausbildungsgesetz-Novelle 1978, BGBl. Nr. 232, wird - bezüglich der Bestimmungen über die Verhältniszahlen gemäß § 35 Abs. 1 Z 4 dieses Gesetzes im Einvernehmen mit dem Bundesminister für soziale Verwaltung - verordnet:

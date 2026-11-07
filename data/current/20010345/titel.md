@@ -1,0 +1,3 @@
+Kundmachung des Bundesministeriums für Handel und Wiederaufbau vom 26. November 1947, betreffend die Verlängerung von Prioritätsfristen zugunsten der Staatsangehörigen der Schweizerischen Eidgenossenschaft. StF: [BGBl. Nr. 24/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_24_0/1948_24_0.pdf>)
+
+Auf Grund des § 13, Abs. (4), des Patentschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 123, und des § 10, Abs. (4), des Markenschutz-Überleitungsgesetzes vom 9. Mai 1947, B. G. Bl. Nr. 125, wird festgestellt, daß die Prioritätsfristen des § 13, Abs. (1), des Patent-Üb. und des § 10, Abs. (1), des Marken-Üb., zugunsten der Staatsangehörigen der Schweizerischen Eidgenossenschaft verlängert sind.

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Umwelt über die für die Eintragung eines Standortes nach dem Umweltgutachter- und Standorteverzeichnisgesetz zu entrichtende Verwaltungsabgabe (StandorteintragungsgebührenV – StEGebV) StF: [BGBl. Nr. 749/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_749_0/1995_749_0.pdf>)
+
+Auf Grund des § 21 Abs. 2 des Umweltgutachter- und Standorteverzeichnisgesetzes (UGStVG), [BGBl. Nr. 622/1995](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1995_622_0/1995_622_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

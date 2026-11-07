@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung, das Emblem und die Flagge der Afrikanischen Union (AU) sowie den Namen, die Abkürzung und die Embleme der Neuen Partnerschaft für Afrikas Entwicklung (NEPAD) StF: [BGBl. II Nr. 29/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/29>)

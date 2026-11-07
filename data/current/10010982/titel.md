@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend ein Einfuhrverbot von Fellen bestimmter Jungrobben und Waren daraus StF: [BGBl. Nr. 248/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_248_0/1996_248_0.pdf>) \[CELEX-Nr.: [383L0129](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0129:DE:HTML>) in der Fassung [385L0444](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0444:DE:HTML>) und [389L0370](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0370:DE:HTML>)\]
+
+Auf Grund des § 8 des Washingtoner-Artenschutzübereinkommen-Durchführungsgesetzes, [BGBl. Nr. 179/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_179_0/1996_179_0.pdf>), wird verordnet:

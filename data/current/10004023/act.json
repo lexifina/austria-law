@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10004023",
+  "short_title": "Zollbehandlung von Paletten",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11004059",
+    "valid_from": "1967-07-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004023&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:23:53.688351+00:00",
+    "response_sha256": "0f4ab05f979bbad33c628ffaaa7d1c6e51c645346df24baa27e267f09a929604",
+    "snapshot_sha256": "cb5613bf866f5027dfbd274c764673e7e06d45fea2a166ad50b1667421f1e121",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5f17a5093860d3c490a588689612f09a43c065a7540498d5b7e61be2d7eb6fe",
+      "sha256": "6d37ed015b66cf155349d6cf59221baf15075334647b279eec9adbf13a453c72",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 20. Juni 1967, betreffend die Ausdehnung des Geltungsbereiches des Europäischen Abkommens vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden StF: BGBl. Nr. 233/1967"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 233/1967",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1967_233_0/1967_233_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5d01d939937252c74c1af1885612916e307332a47b4211f4fc6f185bebae4ac",
+      "sha256": "b57ff9e6622cf9b900ad3db40ebcb82fbea1b2cb7dc5de833ba8ce32b6ff4079",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 20/1964",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_20_0/1964_20_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

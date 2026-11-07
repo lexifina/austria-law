@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 22. Juni 1959, betreffend den Beitritt Guineas zum Abkommen über die Internationale Zivilluftfahrt StF: [BGBl. Nr. 154/1959](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_154_0/1959_154_0.pdf>)

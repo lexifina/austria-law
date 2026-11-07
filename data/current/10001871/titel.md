@@ -1,0 +1,3 @@
+Gesetz zur Vereinheitlichung des Rechts der Eheschließung und der Ehescheidung im Lande Österreich und im übrigen Reichsgebiet. Vom 6. Juli 1938. StF: [dRGBl. I S 807/1938](<http://alex.onb.ac.at/cgi-content/alex?aid=dra&amp;datum=19380004&amp;seite=00000807>) ([GBlÖ Nr. 244/1938](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=244/1938&amp;SkipToDocumentPage=True>))
+
+Die Reichsregierung hat vorbehaltlich einer abschließenden Neuordnung des gesamten Eherechts zur Vereinheitlichung des Rechts der Eheschließung und der Ehescheidung im Lande Österreich und im übrigen Reichsgebiet das folgende Gesetz beschlossen, das hiermit verkündet wird:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers betreffend Resolution 944 (1994) verabschiedet auf der 3430. Sitzung des Sicherheitsrats am 29. September 1994 StF: [BGBl. Nr. 861/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_861_0/1994_861_0.pdf>)

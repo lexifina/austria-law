@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 21. Feber 1965 betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht durch die Schweiz StF: [BGBl. Nr. 38/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_38_0/1965_38_0.pdf>)

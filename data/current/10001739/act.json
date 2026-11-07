@@ -1,0 +1,607 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "10001739",
+  "short_title": "Genossenschaftsinsolvenzgesetz",
+  "abbreviation": "GenIG",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40120699",
+    "valid_from": "2010-07-28",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": "Nach Art. IV des BGBl. Nr. 87/1925 sind die Sonderbestimmungen über den Konkurs und das Ausgleichsverfahren von Erwerbs- und Wirtschaftsgenossenschaften unberührt geblieben.<br/>"
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001739&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:51:51.392731+00:00",
+    "response_sha256": "66f1b4d9bcae435031682cdd1133c5713c7438224d7a7a2701fd850db12289f7",
+    "snapshot_sha256": "eef58777a3243992996796ab506038800c85e3ea00b4e2d00aadd5d34314b405",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af502609d06d47f17a134d5fde4f54d633cf00ba4b8f163702b67b690c3173e1",
+      "sha256": "25a69841bcf8d303044e354ae28cfb6e0dfaa463524d0bd336427760d145efc8",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Nach Art. IV des BGBl. Nr. 87/1925 sind die Sonderbestimmungen über den Konkurs und das Ausgleichsverfahren von Erwerbs- und Wirtschaftsgenossenschaften unberührt geblieben."
+        },
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über insolvenzrechtliche Sonderbestimmungen bei Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsinsolvenzgesetz – GenIG) StF: RGBl. Nr. 105/1918"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 370/1982 (NR: GP XV RV 3 AB 1147 S. 123. BR: AB 2540 S. 426.) BGBl. Nr. 371/1982 (NR: GP XV AB 1148 S. 123. BR: 2535 AB 2541 S. 426.) BGBl. Nr. 10/1991 (NR: GP XVIII IA 9/A AB 23 S. 5. BR: AB 4004 S. 535.) BGBl. I Nr. 29/2010 (NR: GP XXIV RV 612 AB 651 S. 60. BR: 8302 AB 8304 S. 784.) BGBl. I Nr. 58/2010 (NR: GP XXIV RV 771 AB 840 S. 74. BR: 8354 AB 8380 S. 787.) BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 87/1925",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=87/1925&SkipToDocumentPage=True"
+        },
+        {
+          "text": "RGBl. Nr. 105/1918",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=105/1918&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 370/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_370_0/1982_370_0.pdf"
+        },
+        {
+          "text": "RV 3",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/3"
+        },
+        {
+          "text": "AB 1147",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/1147"
+        },
+        {
+          "text": "S. 123.",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/NRSITZ/123"
+        },
+        {
+          "text": "AB 2540",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/2540"
+        },
+        {
+          "text": "S. 426.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/426"
+        },
+        {
+          "text": "BGBl. Nr. 371/1982",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1982_371_0/1982_371_0.pdf"
+        },
+        {
+          "text": "AB 1148",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/1148"
+        },
+        {
+          "text": "S. 123.",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/NRSITZ/123"
+        },
+        {
+          "text": "2535",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/2535"
+        },
+        {
+          "text": "AB 2541",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/2541"
+        },
+        {
+          "text": "S. 426.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/426"
+        },
+        {
+          "text": "BGBl. Nr. 10/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_10_0/1991_10_0.pdf"
+        },
+        {
+          "text": "IA 9/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/A/9"
+        },
+        {
+          "text": "AB 23",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/I/23"
+        },
+        {
+          "text": "S. 5.",
+          "url": "https://www.parlament.gv.at/gegenstand/XVIII/NRSITZ/5"
+        },
+        {
+          "text": "AB 4004",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/4004"
+        },
+        {
+          "text": "S. 535.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/535"
+        },
+        {
+          "text": "BGBl. I Nr. 29/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/29"
+        },
+        {
+          "text": "RV 612",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/612"
+        },
+        {
+          "text": "AB 651",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/651"
+        },
+        {
+          "text": "S. 60.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/60"
+        },
+        {
+          "text": "8302",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8302"
+        },
+        {
+          "text": "AB 8304",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8304"
+        },
+        {
+          "text": "S. 784.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/784"
+        },
+        {
+          "text": "BGBl. I Nr. 58/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/58"
+        },
+        {
+          "text": "RV 771",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/771"
+        },
+        {
+          "text": "AB 840",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/I/840"
+        },
+        {
+          "text": "S. 74.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/74"
+        },
+        {
+          "text": "8354",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8354"
+        },
+        {
+          "text": "AB 8380",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/8380"
+        },
+        {
+          "text": "S. 787.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/787"
+        },
+        {
+          "text": "BGBl. I Nr. 133/2024",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/133"
+        },
+        {
+          "text": "IA 4123/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/4123"
+        },
+        {
+          "text": "AB 2622",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/2622"
+        },
+        {
+          "text": "S. 274.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/274"
+        },
+        {
+          "text": "AB 11571",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/11571"
+        },
+        {
+          "text": "S. 970.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/970"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f4a82aee6449de45177b9c681ea70e0518d48ae3d58af4cff1ca4607d75ed39b",
+      "sha256": "d0bf96699fbed85d3da472083c88290d54aadd282ea2e6349f9407206b7b4287",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c101cf94374f9f8a5e89388f149faa7e9ddac550552067f46c182b6eb9b88cdd",
+      "sha256": "10a8a3058915a41e523064edda479d040c875dbdcb75c1c90565fa57d2c021ce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "§ 3.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7147fe459db413541bf2cb01cba2623c25860c633a41409ffb2e448fd0bca5ff",
+      "sha256": "8ea51162623a0bfa88fe9a24010bcc6eadccaf3ff243a7e2e78d8a5877b34c6f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "§ 4.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4750c6b439f7fbd7e0ce59f7fcfdd69ebed1f082d875555013d781a5704dab62",
+      "sha256": "b6cf7f984d5d868d96aab7fe69bd17ed82fcab756441b8fde257110bc903701b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "§ 5.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "16654fc6ceab1c104a19dd594a24deb3b4cb0c220158b451c5a08b23fa35f497",
+      "sha256": "5c44cc0488eca404be1c33d884621fc948cfd2ee1835940c473dfc65b967b49c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "§ 6.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "97756ccdab02cc672d4254bd146b3bd9b9052ca834c320b9f75f1d027d38e358",
+      "sha256": "aa418502f5f1f92494911615c4bbb743717dd8c809f61ca521aafd91c4222d66",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§ 7.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6beac4bff4124b6ffcc0163e9b5637b158fe21bf822495938a380cc1ceb3f7ab",
+      "sha256": "edd4b1f3ce56167086c23a82834ee84a92ab39aa4ef92e58585d16076ee17603",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§ 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e026e29c5f153738cd9e8be6daf1e935dc47361d154ac93823f7f330cac6a9b5",
+      "sha256": "0a0dc7d61ea903914f7b3d2db754a3a33b37e51534df94af440bee5af353bb86",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "§ 9.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ab7e3da7bf3ac4412cb523f381ab5429838af8a9c62aa1c36853d869e53755ee",
+      "sha256": "a1bd0de74f82e4ce0e8011e0d5436a350490cf2242484c69a7eebc495e43edce",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "§ 10.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c2e62bc2dad7f1b4e2869a7dffa01b46c8ee499ade23c200aac93554dc4e1d6",
+      "sha256": "af4de7760fa3f39ba95fd367b2d6903ee45588a69830585321e96c7c4afc5ab6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "§ 11.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e811ead0484e6aca740f7b5be654fb74a99b42e3c9925c0030291435b6c08696",
+      "sha256": "96d7bad4a58054e6d15417fa164240e50a47570deecb447fe4a0033db3fd3e57",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "§ 12.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4c2902e758411bfe0c588497e19184df6629e4af0dcdf12803354ec5278806a7",
+      "sha256": "d3d23a1051152390dd2ac01bdf5d5266eea12e38a0a0c868c540295ef0bfc876",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "§ 13.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ca0809b28974f5ce99fa9f9f439091ebcb9dd42201402207d5580c3f3bcbefdd",
+      "sha256": "001f0df4b451dc155d3a5272b71343b42ccd115645c8108769cad5878a10ffd9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "§ 14.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "30132f99043c3554cd634c35401ee7145407ae3a4e7584f9cd7f613448a3a673",
+      "sha256": "2fc82cca2b677f833da27694a0774041165412095c50cede7fcf1441fd8289a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "§ 15.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "156f7a38d68248df0edcad84d0de44e5e1074a59c4ccb6a0e0c40f4a8d90ae6d",
+      "sha256": "8ce47b612f02b83975c6a207cbccb6d61cf1ca8afc097000d88a0fdb4ee395fa",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "90fb0efeb1f2caa9d8e9ea582e8f499da551755ebaff6189a39275bb963d3df6",
+      "sha256": "75d4bbfba15f4ec98a50c4cd561024ee8723d7c5b72d89ef96a3c2cd7f487497",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "§ 17.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "94d11e02e690625e8a0583ac236b0b2b0e869cc7746704c7c319f48fa8456c6e",
+      "sha256": "3830d84d9ac91f5df23e65e25eeb8d84cc1474a03f0984a5f0db8505333d148d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "§ 18.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "52ab0ebaa9c56a65ff7f9e3c87445437b17709f23e2eb1864a87d5c4b0451baf",
+      "sha256": "fb95dcd8f6cc08d27996bdcffc100ceac9335b0a6f4d6454d09279ce9d67b7f2",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 58/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/58"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

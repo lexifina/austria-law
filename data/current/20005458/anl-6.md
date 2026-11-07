@@ -1,0 +1,19 @@
+## Anlage 6
+
+## Seminare des Wahlmoduls
+
+| Lehrveranstaltung | Richtstundenanzahl | Lehr- und Ausbildungsziele – Schwerpunkte |
+| --- | --- | --- |
+| Büro- und Zeitmanagement | 24 | Rationelle Zeitplanung unter Beachtung der Prioritäten und des Prinzips des Delegierens, Grundlagenerarbeitung zur optimalen Erfüllung hoher Anforderungen in kurzer Zeit, konstruktive Anregung zur Steigerung systematisch zielgerichteter persönlicher Arbeitsmethoden |
+| Mitarbeiterführung im Lichte von Organisationsveränderung | 24 | Dimensionen von Leadership erfahren und – Gestaltungsmöglichkeiten bzw. -grenzen der Führungskraft erkennen, Kennen und Anwenden von Modellen und Instrumenten, die die praktische Führungsarbeit unterstützen und in schwierigen Führungssituationen hilfreich sind, Erarbeitung von Vorgehensweisen zur Bewältigung herausfordernder Führungssituationen und Reflexion deren Umsetzung in Entscheidungsprozessen, Kenntnis der Forderung und Förderung der Weiterentwicklung von Mitarbeitern und Mitarbeiterinnen im Rahmen eines ganzheitlichen Führungsverständnisses |
+| Persönliche Arbeitstechniken | 24 | Grundlagenerarbeitung zur optimalen Erfüllung hoher Anforderungen in kurzer Zeit, konstruktive Anregungen zur Steigerung systematisch zielgerichteter persönlicher Arbeitsmethodik, „Mindmapping“, rationelle Informationsaufnahme, Lesetechniken, Kommunikation im Stab, Besprechungstechnik, Verhaltensstile, Umgang mit Mitarbeitern und Mitarbeiterinnen |
+| Präsentationstechniken | 24 | Ziel- und zielgruppenorientierter Aufbau und Gestaltung einer Präsentation, Kenntnis und Anwendung der modernen Darstellungstechniken, Visualisierungstechniken, Erzeugen, Überprüfung und Steuerung von Wirkung bei der Zielgruppe |
+| Rhetorik 1 – Grundlagen | 24 | Grundsätze der Redevorbereitung, der Gesprächsführung und Redetechnik sowie der Körpersprache, Strategien zur Vermeidung von Redehemmungen und Redestörungen, Stegreif-, Anlass- und Meinungsrede |
+| Rhetorik 2 – Argumentationstechniken | 24 | Praktische Gesprächsführung und- Gesprächstechnik im Hinblick auf Besprechung, Diskussion und Argumentation |
+| Rhetorik 3 – Mediengerechtes Verhalten | 24 | Vertiefung in der Anwendung der Grundsätze der Redeführung und Redetechnik sowie der Gesprächsführung im Hinblick auf Argumentation und Diskussion, Interviewtechnik, Einzelinterview, Kreuzfeuerinterview |
+| Zusammenarbeit mit internationalen Organisationen | 24 | Struktur, Aufgaben und Arbeitsweise von internationalen Organisationen verstehen und Ableitungen für die Zusammenarbeit vor allem bei internationalen Einsätzen treffen können |
+| Situative teamorientierte Konfliktbewältigung (in Organisationen) | 24 | Fördernder oder hemmender Einfluss von Variablen auf die Teamarbeit, Sondersituation des Teams, der erfolgreiche Teamleader und sein oder ihr Führungsstil, Konfliktbeschreibung, Konfliktdynamik, Konfliktstufen, Phasen der Konfliktbehandlung, die Gesprächsführung bei Konflikten als positive Motivation |
+| Heeresdisziplinargesetz | 24 | Anwendung des Heeresdisziplinargesetzes in Form von Fallbeispielen im Kommandantenverfahren |
+| Interkulturelle Kompetenz | 24 | Denk- und Handlungsweisen sowie Eigenheiten anderer Kulturen kennen lernen und Folgerungen für eigenes Handeln setzen können, insbesondere bezogen auf den Einsatz von Streitkräften im Auslandseinsatz |
+| Gemeinsame europäische Sicherheits- und Verteidigungspolitik | 24 | Grundlagen, Strukturen und Mechanismen der Europäischen Sicherheits- und Verteidigungspolitik (ESVP) und die Stellung Österreichs innerhalb dieser |
+| Medientraining/Medienberatung | 24 | Bedarf der Medienvertreter verstehen und erklären können, Umgang mit Medienvertretern, Grundwissen der Medienarbeit in schriftlicher und mündlicher Form anwenden, Standpunkt in Diskussionsrunden (Interview, Radio, Fernsehen) überzeugend vertreten |

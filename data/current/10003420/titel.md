@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen der Republik Armenien StF: [BGBl. Nr. 338/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_338_0/1996_338_0.pdf>)

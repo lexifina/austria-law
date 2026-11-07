@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10008060",
+  "short_title": "Physikatsprüfungsverordnung – 2. Ergänzung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008210",
+    "valid_from": "1875-01-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008060&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:13:42.946669+00:00",
+    "response_sha256": "4d143afc65a63999a0313448bfb0deb2e018f922ca131fa0762cdbdfe0e3a6e5",
+    "snapshot_sha256": "e68a1a41a9a0a841ac384674541c8696f2b8da2a5c57b56c8d77204eeffdcaa5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb5d8e463b9ee68b3135df678a9d65dad39b7de384190833e8c6b9c5935b3346",
+      "sha256": "659e19a33dd7b5ee859fd9e37c3712bd522655eed8000f25f9b6ca862ea97264",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Ministers des Innern vom 20. Jänner 1875, betreffend die Abbrechung, Fortsetzung und Wiederholung der Prüfung der Aerzte zur Erlangung einer bleibenden Anstellung im öffentlichen Sanitätsdienste bei den politischen Behörden StF: RGBl. Nr. 8/1875"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 8/1875",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=8/1875&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c0e96b2ba8e75e114eace8b4f5b6bb7cb51e6964451d0875e3c5a553b3d2b6dd",
+      "sha256": "3cb63bff13ed222c3c141fc01ed90c27c37b85858fd863df14d9b01840c7c7d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Verpflichtung zur Weitergabe von Informationen über die Herkunft von Fleisch, Milch und Eiern entlang der Lieferkette von Lebensmittelunternehmen StF: [BGBl. II Nr. 566/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/566>)
+
+Auf Grund der §§ 4 Abs. 3 und 6 Abs. 1 und 2 des Lebensmittelsicherheits- und Verbraucherschutzgesetzes – LMSVG, [BGBl. I Nr. 13/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/13>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104>), wird im Einvernehmen mit der Bundesministerin für Digitalisierung und Wirtschaftsstandort verordnet:

@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes im Einvernehmen mit den Bundesministerien für Äußeres, für Inneres und Unterricht und für Justiz vom 23. März 1921, betreffend die Geltung gewisser Einzelverträge mit Belgien. StF: [BGBl. Nr. 244/1921](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=244/1921&amp;SkipToDocumentPage=True>)

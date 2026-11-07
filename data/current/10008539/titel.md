@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für soziale Verwaltung vom 21. Jänner 1983, mit der die Verwendung von gefährlichen Stoffen oder Zubereitungen in Heimarbeit verboten wird StF: [BGBl. Nr. 178/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_178_0/1983_178_0.pdf>) idF [BGBl. Nr. 486/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_486_0/1983_486_0.pdf>) (DFB)
+
+Auf Grund des § 17 Abs. 1 des Heimarbeitsgesetzes 1960, [BGBl. Nr. 105/1961](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_105_0/1961_105_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 303/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_303_0/1975_303_0.pdf>) wird im Einvernehmen mit dem Bundesminister für Handel, Gewerbe und Industrie verordnet:

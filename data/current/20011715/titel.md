@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 29. September 2021, dass § 3 der Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19, [BGBl. II Nr. 96/2020](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/96>), gesetzwidrig war StF: [BGBl. II Nr. 501/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/501>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

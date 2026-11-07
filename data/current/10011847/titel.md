@@ -1,0 +1,5 @@
+Internationaler Fernmeldevertrag (Nairobi, 1982) samt Anlagen 1 bis 3, Schlußprotokoll, Zusatzprotokollen I bis VII, ergänzt durch die Vollzugsordnungen für den Telegrafendienst, für den Telefondienst und für den Funkdienst, sowie Fakultatives Zusatzprotokoll und Vorbehalte der Republik Österreich StF: [BGBl. Nr. 593/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_593_0/1989_593_0.pdf>) idF [BGBl. Nr. 76/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_76_0/1990_76_0.pdf>) (DFB) (NR: GP XVII [RV 716](<https://www.parlament.gv.at/gegenstand/XVII/I/716>) [AB 865](<https://www.parlament.gv.at/gegenstand/XVII/I/865>) [S. 93.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/93>) BR: [AB 3644](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3644>) [S. 511.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/511>))
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 30. März 1989 beim Generalsekretär der Internationalen Fernmeldeunion hinterlegt; der Vertrag ist gemäß seinem Art. 45 Abs. 3 mit 30. März 1989 in Kraft getreten.
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002796",
+  "short_title": "Haager Unterhaltsstatutübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002819",
+    "valid_from": "1987-03-25",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002796&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:09:18.722680+00:00",
+    "response_sha256": "a8a89719b1d58bc3eb405138d285c0a0ea0a47bd603c0aadc7c9ef061d8c5bd0",
+    "snapshot_sha256": "547190ee6d36ed3b961e4c37822d2f3b5a7e8d45a0667f5e4031ce02b63e1403",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6ed9815688fb60d0d2776a204bf92923e5d45c794576fa13697814bf4353afca",
+      "sha256": "57cad1ce3fd0522441308fb85f12204711bc012d45fbd4975989f32d4da3c9df",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 10. März 1987 betreffend den Geltungsbereich des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht StF: BGBl. Nr. 102/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 102/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_102_0/1987_102_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a1cbe9a1642730c23d0759efd80a8d2c08861f140fbee83efa2d76f364304e4",
+      "sha256": "ee33e600af23c6e66246f27d55cbd3304cca4ccaa0ea49ff8ffec4b14304f913",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 293/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_293_0/1961_293_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 444/1977",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1977_444_0/1977_444_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

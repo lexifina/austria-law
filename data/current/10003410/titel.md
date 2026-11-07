@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Hoheitszeichen der Republik Kasachstan StF: [BGBl. Nr. 242/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_242_0/1996_242_0.pdf>)

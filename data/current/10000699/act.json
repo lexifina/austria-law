@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000699",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000701",
+    "valid_from": "1980-08-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000699&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:34:25.113715+00:00",
+    "response_sha256": "da6eebf29548eb1c6b5b7613a761a32c46bda85481a0457b016225127a1dff41",
+    "snapshot_sha256": "9c770e58511ef621beadfd2d1a3e6560c927d99569e2c8a3d03e2a4b43e6d909",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73cf2f688af62de4b57808deb97e17f48143397abaf52fb24ec3be1d4fdcff80",
+      "sha256": "4b2c07a49edeaa9932dcac5e5f06e18961b18419d4c183d221e464e94864aefb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 14. August 1980 über die Feststellung von Zuständigkeiten auf dem Gebiet des Landesvertragsbedienstetenrechtes durch den Verfassungsgerichtshof StF: BGBl. Nr. 391/1980"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 391/1980",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1980_391_0/1980_391_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3007df77fb2edad2dff5a7c2ae8b788b21653510991c6b84eff7d5f99c0510d5",
+      "sha256": "3c7cfededfa947f3f296f703d3d5d82dc03eb1afd91932a18fa1aa3acbdc5556",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

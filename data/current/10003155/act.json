@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003155",
+  "short_title": "Wappenschild - Ungarn",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003181",
+    "valid_from": "1993-10-23",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003155&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:12:59.363279+00:00",
+    "response_sha256": "a2cb9bdbf8b1b65e63d04bec921bf7114a3b5bb3e276de4d5f229316008e999f",
+    "snapshot_sha256": "6e2b7a6dcc6b8da471e34a6ff9c1e0e7871840047748290d33adb7a9d65b8a3d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ce677b3e6a1cf73fa089fcc0384a8955e0b2cd5e063429337a701e31059d57d2",
+      "sha256": "fbc49bac392acd85233111216c2bdea0774bb1f2064e9517b35b290381fb28f8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das (neue) Wappenschild der Republik Ungarn StF: BGBl. Nr. 731/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 731/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_731_0/1993_731_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b8a5063f613d6ba1958cf337a4aa6a9794f35b46be9c35768f671b5b2d6426c",
+      "sha256": "e8b53fa557660d1453aeccaa3f33b2596f02ad342a4a3534cf0649c078afcd47",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 109/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_109_0/1993_109_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

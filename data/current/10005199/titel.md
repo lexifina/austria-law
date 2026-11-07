@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 6. Dezember 1932, betreffend den Abschluß eines Übereinkommens mit der Türkei über den gegenseitigen periodischen Austausch von Standesurkunden. StF: [BGBl. Nr. 343/1932](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=343/1932&amp;SkipToDocumentPage=True>)

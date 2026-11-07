@@ -1,0 +1,113 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002961",
+  "short_title": "Flagge, Emblem - APPA",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002985",
+    "valid_from": "1990-08-04",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002961&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:11:04.095507+00:00",
+    "response_sha256": "622403c251d1b43eab4b1a49140b1aaaeda03abcc044f4d7d27e5609ddee1753",
+    "snapshot_sha256": "1faf632ca45cf38f412673fcea6369a556e621f69b4c2673f35b38ce5a78565c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dea848eaddcc01c2b4b7e273bbf55760268e25bdb38e14143e557fc708694b44",
+      "sha256": "0e193635079b89a3d406a8f4f0f4b031788905032c396a891121b27cc5c12fc5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten vom 2. Juli 1990 betreffend das Emblem und die Flagge der Organisation der afrikanischen Erdöl-Produzenten (African Petroleum Producers' Association - APPA) StF: BGBl. Nr. 502/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 502/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_502_0/1990_502_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8e7bc2ddfa4b6e9c5fdd9787dd8aae353b900609618cb12214b0afeb4e7516b3",
+      "sha256": "57ebc322bf730972934ebe43ef11af7d80b96a5ca257f2339f4fca71001464e8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fe0a3de8067e0d5e1db8e078cc5faab6d783ea678ef686d4c9a9b5d28c0bce0a",
+      "sha256": "ef77ee93b8ced319f9fbf4abac474cb055e9a4f11db2f8e01981fbe8df4fbb7b",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12035445/image001.jpg",
+          "alt": "",
+          "status": "linked_only"
+        },
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12035445/image002.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

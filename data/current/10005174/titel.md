@@ -1,0 +1,3 @@
+Bundesgesetz über die Wirksamkeit von Abrechnungen in Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen (Finalitätsgesetz) StF: [BGBl. I Nr. 123/1999](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_123_1/1999_123_1.pdf>) (NR: GP XX [RV 1793](<https://www.parlament.gv.at/gegenstand/XX/I/1793>) [AB 1894](<https://www.parlament.gv.at/gegenstand/XX/I/1894>) [S. 175.](<https://www.parlament.gv.at/gegenstand/XX/NRSITZ/175>) BR: [5966](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5966>) [AB 5978](<https://www.parlament.gv.at/gegenstand/BR/I-BR/5978>) [S. 656.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/656>)) \[CELEX-Nr.: [397L0005](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0005:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

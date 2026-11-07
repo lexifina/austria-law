@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Gesundheit, Familie und Jugend über die Ausbildung von Personen, die Tiertransporte durchführen, Personen, die auf Sammelstellen mit Tieren umgehen, sowie Personen, die Tiertransportkontrollen durchführen (Tiertransport-Ausbildungsverordnung, TT-AusbVO) StF: [BGBl. II Nr. 92/2008](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2008/92>)
+
+Aufgrund der §§ 4 Abs. 2, 12 Abs. 2 und 5 des Tiertransportgesetzes 2007 (TTG 2007), [BGBl. I Nr. 54/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/54>) Art. I, wird im Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie verordnet:

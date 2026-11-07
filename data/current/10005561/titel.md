@@ -1,0 +1,1 @@
+Zusatzvereinbarung zur Vereinbarung vom 4. Dezember 1980 über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Hörbranz-Autobahn/Lindau-Autobahn betreffend die Errichtung einer Viehabfertigungsanlage StF: [BGBl. Nr. 103/1984](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1984_103_0/1984_103_0.pdf>)

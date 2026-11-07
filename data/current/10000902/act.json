@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000902",
+  "short_title": "VfGH-Aufhebung V d. Bürgermeisters von Eisenstadt",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000905",
+    "valid_from": "1987-03-18",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000902&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:37:52.082214+00:00",
+    "response_sha256": "6adf944e54d585565c7afc0e647129d6a0b060ea0e15687f1298bb3408d200b3",
+    "snapshot_sha256": "ca82f3dabe22543cca7d0e8a7c87c21b4c016e13a51e5dc5022a9a3f6215cd2c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "092f8ed9edff5edbb8ac28a8b4fc7362d6a837095424caba186fcdb110d5abaa",
+      "sha256": "ab6686ff9ab6d3285c4d4dbd51e438abba1477389b14dfc3d7ce3c240a55c5e0",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 24. Feber 1987 über die Aufhebung der Z 2 des § 1 der Verordnung des Bürgermeisters der Freistadt Eisenstadt, durch welche die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof StF: BGBl. Nr. 90/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 90/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_90_0/1987_90_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 311/1976",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_311_0/1976_311_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3d767cfef8f0938c3e90214cf1c0bda44a78f63391a723566c7d3f892ed742a5",
+      "sha256": "d67b68f8fa24c8f70d2b9ad2a53c5badc9db2c4c2dbc709594f02501f31e4abb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

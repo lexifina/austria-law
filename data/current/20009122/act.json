@@ -1,0 +1,106 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "20009122",
+  "short_title": "50. Nachtrag zum Arzneibuch",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40169794",
+    "valid_from": "2015-03-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009122&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:26:35.965834+00:00",
+    "response_sha256": "1439fc5915b7cf214de1984ef01dd0ff7c27b00ff61435b0acd17339a8700511",
+    "snapshot_sha256": "1bb1ffe7b8807f9ee58ed5d53ec1e99fb9a9597d8bc9b0f155b1d5240537409c",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "81a282a5f9ddba43e8fc8251c2056d1f193d5831909322a3736ef21f475e9daa",
+      "sha256": "4bc1a0a6c8ac3226d96c70c29d678f0fd1a49b2bcccf148dde5b2f3d0f8110cd",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit über den 50. Nachtrag zum Arzneibuch StF: BGBl. II Nr. 61/2015"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 61/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/61"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/44"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "§ 1.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "73123362576addbad85d7be8a3b5e37565141e702f2180505061189fd9a44d75",
+      "sha256": "0afac0803a507208444b3c846f1cfe365a54749722cc74cd477b6a2f217e24bf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "30e0c1fec98418fd7eb43c4395ee83321d5e3ad366ba72eaeb88f689e01719e9",
+      "sha256": "b4a8f5ec07136c2913890c0680eca472b0bd8f7dc2961fcbb015ce7abb5cd989",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

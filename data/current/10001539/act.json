@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001539",
+  "short_title": "VfGH-Feststellung einer Verfassungswidrigkeit",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001561",
+    "valid_from": "1998-10-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001539&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:48:34.212547+00:00",
+    "response_sha256": "ac258833fe034e1f542491db1f6a8391cd61f3ef907bdd6500d2863392d41a23",
+    "snapshot_sha256": "885d2974a8a280746543276e13ddc4ba3e3b3e83ccd1991da8454b726f6d5bcd",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "faef96e4281efbd3e8445dca1e017dbe65938bf75b9082fd7954b5227ab276a8",
+      "sha256": "89c07b674a6a0edadef59353c0702b17cab8ee9760b1b267bd48879f396ed465",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft über die durch den Verfassungsgerichtshof festgestellte Gesetzwidrigkeit des § 3 der Verordnung des Getreidewirtschaftsfonds StF: BGBl. II Nr. 369/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 369/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_369_2/1998_369_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cac21582d3cfe187185581eaa2956df8bb4b2e1fda636522433e87e1e571934d",
+      "sha256": "f103a460d5ccf9f4c9650a2a33d940e501aa926e61a171df3139fbfc7f121b27",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

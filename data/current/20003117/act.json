@@ -1,0 +1,966 @@
+{
+  "sample_only": false,
+  "included_provisions": 41,
+  "source_provision_count": 41,
+  "schema_version": 1,
+  "gesetzesnummer": "20003117",
+  "short_title": "Kostenrechnungsverordnung für landesfondsfinanzierte Krankenanstalten",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003403",
+    "valid_from": "2004-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003117&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:56:45.670502+00:00",
+    "response_sha256": "111b4e32b4ea17556db37ad76267b9066943fa555418633bee65e01d76daf26d",
+    "snapshot_sha256": "a40abd4eab2bc295afcd899885795088433d70d4c3e056eeab87c1a17573c4b2",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4f13f5d10c35abcda0ccbe21a88622c04b79ba43c81b8bf26f0183586725983f",
+      "sha256": "42c37eaaf020b1b2ce033c139c7cf8c7cb871bd329ad9dd7f58831c95cce9394",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Gesundheit und Frauen betreffend die Dokumentation von Kostendaten in Krankenanstalten, die über Landesfonds abgerechnet werden (Kostenrechnungsverordnung für landesfondsfinanzierte Krankenanstalten) StF: BGBl. II Nr. 638/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 18/2007"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 638/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_638_2/2003_638_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 18/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/18"
+        },
+        {
+          "text": "BGBl. Nr. 745/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_745_0/1996_745_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 146/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_146_1/2003_146_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Rechnungswesen und Berichtssystem",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ddc4d8a10df884f36edd00ddbfe0fffdfe97209de406a2125031303c8fdba79",
+      "sha256": "0e037ab20790cdbcd7ec43e8416e7107c701e9083c409efb1ca1f9325315051a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Kostenrechnungssystem",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c824a9a4e74805cb9547b640b37128558b3564e6ae8a1ce4ec2d321d94813b6e",
+      "sha256": "f25717cd2925df068a63d9c273d659ad7949d52034657b530c3f09848cd9f075",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "22b2512c253a12dd013704551771c31fc675a397348a186d00f147bcd3b6edbc",
+      "sha256": "7dd422ccd32b7f8f2ad8fef23be88db202b6c354c7bd3f4b804fb67375b8f79c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Kostenstellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd7b25fe8660b60d68063932ad0f2f55a1526142530e97e5e3f95ce465da9453",
+      "sha256": "65c2bc70592957f383c51d126162c3ce51e37fb8b7a91c885f8c4807f222725f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Kosteneinteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fa2519ee50dc89ac07e6c00eddbae288d3108aa5be24ebcc07b4b135497acb02",
+      "sha256": "1ca8455ce4b3daab1e180a0b01afe5ce5827bd78e7b576df935787974da78afd",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Kostenumfang",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "562979d7eab928d8ec78566482bc51d46576358257985592401ff142ea93ebd1",
+      "sha256": "ed5b75a322c6d0524efcb958a9e53be52baea7b55891758fd352070b4ea88bdb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Kostenarten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "772bd5628cae429f2563f4320e4c27f726e0a3876292f18d42deb73abe1e2a3a",
+      "sha256": "a84f832ef5e4298edaba4d8d5369364e026fd5f250abddfd6c0662cb2f526718",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Einrichtung von Kostenstellen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1ddd333e7f5d5be38375c809fb7f140843814abc3e065b474654b104b65ff734",
+      "sha256": "8fd6e8c7867e637495957747916262235d320a4ca6a7d6ca5b3c0f2b15d155f0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Allgemeine Kostenbereiche",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "55bfd551a0ac3d6b2021567e32bf139fa7ead629afa15f5322b4007f799e481d",
+      "sha256": "9fb25bfe8668b37a44a3221e5c5dbb39a67d62c1a3f83e257cdca87066d80468",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Kostenstellenkatalog",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "12d629c8f4bf9fac84872d404e493d09f620e77f1fb077f216c4835d4782bb58",
+      "sha256": "b97ea981dfb5a036a17ca82199be36e5c47c56e6d2bd0af0bb20fe657ac85644",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Kostenstellenplan",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a04cee70a91f6259062207949aaa94ad99d9fb6373c2036ce96e3e02b81ffc99",
+      "sha256": "fc40a39518a2fc0e96cdf9ec4cedf08f56079c4f6510b8509604a14c37cbddf0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Kostenstellenbeschreibung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c3554a672724e0c6195665198e9e76eb6ce7d03fc1df64d597305147d3152e30",
+      "sha256": "140563ad11c661b203449e767860ae231692ad6a7d40e49f3e79e2c8556c5689",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Kostenrechnungsperiode",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8a89a26d360e9871f83513645da24077f5a8804ef002616aab2f72a61e9f6a66",
+      "sha256": "3754e104027684d4df16bcaeafd8496368bbfec4e9e9abde82b77c31f55ca8d8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Kostenstellenplan und Verzeichnis der Schlüsselwerte",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "054821dac181e86134bf6a8c2b1abecd8c98b687d301e1921e77c068c7a48360",
+      "sha256": "88538824522cabbbd2a13f58cdc19f18e9e4c085bbcf57c1b6f8aafc67cf1ab0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Führung von Aufzeichnungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2eefae91b6efdec1e9ec8bb004713f470b38628c73b50af052e6a0ce35c22721",
+      "sha256": "6cf8cf46a2b93bd09a855f96ca293545fb9e6f3394994a4b92da90332adc3898",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Aufzeichnungen über Verbrauchsgüter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb9c70c81b941ddab276ba82475f4421552ead8b8b5897d2bcd628009348bfae",
+      "sha256": "b7c361afeb74376ac5ad4010ad130dde391c90bf797eb42cd43185ffa723269a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 17",
+      "source_heading": "Aufzeichnungen über Gebrauchsgüter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0017.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1d8ffdda5bcb967316ed0664e08e654eba1273fe677e24fbed8626a91da5adbe",
+      "sha256": "43214cb2f63a189d45bc379a4735f7a26f5d7c0916eeb97eda79e520783acfd7",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 400/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 18",
+      "source_heading": "Aufzeichnungen über Anlagegüter",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0018.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2fc280bc55b21b70897fcf0f15daebac750f2bb79d5dddcd92f26f32c42a172",
+      "sha256": "1151759bf6bddee6f537fe463b4f5b8708686fbef4dbbdce1e0f48c92d938a50",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 19",
+      "source_heading": "Aufzeichnungen über Personalkosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 19,
+        "stable_identity": false
+      },
+      "file": "par-0019.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8b9a3bb65ff7e0aa32f01f21d85519a7c25afbc3debd9f176534d0875475adae",
+      "sha256": "690c47daa66eb5af9379b5136b32d2a7206d0b2bf66abe32c68abdf61e9efcfa",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 400/1988",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1988_400_0/1988_400_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 20",
+      "source_heading": "Aufzeichnung über Fremdleistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 20,
+        "stable_identity": false
+      },
+      "file": "par-0020.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dda70cf682c74a8d0482b50f89b5568d8fe0ce06f8ceaf02b25ee16b76741282",
+      "sha256": "00da508d72093cd4254889f9dc26edd9b81864a0ec1e9409af7a608b564a6b4d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 21",
+      "source_heading": "Aufzeichnungen über abgegebene innerbetriebliche Leistungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 21,
+        "stable_identity": false
+      },
+      "file": "par-0021.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1b273471240111af5113271445eff3a3bb017c4ea784276aea17f67878f1eec3",
+      "sha256": "b19a89bdef6a72213aff3430755c609be59903dc0e2e6e1405051d696a891de6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 22",
+      "source_heading": "Kostenzurechnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 22,
+        "stable_identity": false
+      },
+      "file": "par-0022.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "061c5cfec2e7dfb4e4d9a85c3075841d19496cb8bea3b369f18ad350f64ec6f1",
+      "sha256": "8398f0c0037f408b481061f5df435cd51c55d847d72854b10c2583eb1516639a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 23",
+      "source_heading": "Erfassung, Bewertung und Zuordnung der primären Kosten (§ 5 Abs. 1)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 23,
+        "stable_identity": false
+      },
+      "file": "par-0023.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "917619c908e33ce636557287ed4d093914009892de96e499b49d1d0a133e1dd0",
+      "sha256": "c2c71b312ec871da8448eb4b8cc39483bdb39a89c467d5702b77f09725506526",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 663/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_663_0/1994_663_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 24",
+      "source_heading": "Personalkosten (§ 19)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 24,
+        "stable_identity": false
+      },
+      "file": "par-0024.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1fc629af6125f8377015a1f67ef21ee58a0140ec9389253e60ce4d9a881bf0c",
+      "sha256": "df61e4ba2247ea403222d31bf58340bca3b5bb1dd9a088c580e2008b40061396",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 25",
+      "source_heading": "Kosten für medizinische Verbrauchsgüter (§ 16)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 25,
+        "stable_identity": false
+      },
+      "file": "par-0025.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "72bb26b7be2f0587bc187644bb0d0f6a3c9ae14751cb171bdfb2c2e738dc0d71",
+      "sha256": "31af2c5e8a8cc3a11de528b56f65b9d772175769403b2309bcc8a5b3ec46a835",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 26",
+      "source_heading": "Kosten für medizinische Gebrauchsgüter (§ 17)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 26,
+        "stable_identity": false
+      },
+      "file": "par-0026.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d948e3b8d591203404171b3c04b2bb38b6b9369b08f0976089ddbbb5284caab9",
+      "sha256": "49a606e849cc21c7c4b5994e3ddc5c1ed16fa8c891ca6447f3383a300cffcee0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 27",
+      "source_heading": "Kosten für nicht-medizinische Verbrauchsgüter (§ 16)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 27,
+        "stable_identity": false
+      },
+      "file": "par-0027.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c30a8108f7d748d074113f1a07cab32f815c6095bf487da6bd08313e6056eb1f",
+      "sha256": "825a9a661877502ae3bf90385352e743941a126c975ddc1a7c8424a80e25d58f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 28",
+      "source_heading": "Kosten für nicht-medizinische Gebrauchsgüter (§ 17)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 28,
+        "stable_identity": false
+      },
+      "file": "par-0028.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "82ca81cbba413b1c39a715bae2d667a8e2c2183c30fdab159bb1d8d0793ff062",
+      "sha256": "27718d65cc14a78938e3ef3feb42d40bedc5f3d1481110e2a033ea4ab6fdfcda",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 29",
+      "source_heading": "Kosten für medizinische und nicht-medizinische Fremdleistungen (§ 20)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 29,
+        "stable_identity": false
+      },
+      "file": "par-0029.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "493b5d51efeec67e553d331ca5ee08be5a3b1b845c3eea9ac7a3d504b5de5bd1",
+      "sha256": "a43de51a34d51970c808c6b37e26da19b98016355ec09cfd6fefd87f9e9cf33a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 30",
+      "source_heading": "Energiekosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 30,
+        "stable_identity": false
+      },
+      "file": "par-0030.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f1dc82c153d1b5ea06e1b339fa52cdb012638b6616d9d9060da56516d9d17454",
+      "sha256": "07b3a4e3cd27b9cb9eb77bce06d4c6d6a733d512690f0ad0f0e523020fed5708",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 31",
+      "source_heading": "Abgaben, Beiträge, Gebühren und sonstige Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 31,
+        "stable_identity": false
+      },
+      "file": "par-0031.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dbd3af3720860e2f86bda7b187185d0299182d906e70bf86ef6868acb016363c",
+      "sha256": "ff90127dc0c5232eed2f93fcb1e9add95395e1dfb0085878ec305fd5073b57ba",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 32",
+      "source_heading": "Kalkulatorische Kosten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 32,
+        "stable_identity": false
+      },
+      "file": "par-0032.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "85a4646fb46e2946db189256295cdc1bce50aadb7f91510584152cf4bcd38659",
+      "sha256": "863225f43e79c885c3ebccf9d147244a583fab7c8938611b267a760970a1c9ee",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 33",
+      "source_heading": "Erfassung, Bewertung und Zuordnung der sekundären Kosten (§ 5 Abs. 2, innerbetriebliche Leistungsverrechnung)",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 33,
+        "stable_identity": false
+      },
+      "file": "par-0033.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3d405c9292a671b834a08a48d3fad6e7c3333baca03a3d3adbeeeb2be86cce42",
+      "sha256": "efe782eaed1338181244328e0448e1ed8002bffed506f2cc198fa13f934a9bd1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Anteilsprozentsatz =",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Maßzahl des Schlüssels der empfangenden x 100",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Summe der Maßzahl sämtlicher diese Leistung empfangenden Kostenstellen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 34",
+      "source_heading": "Erstellen der Kostennachweise und des kalkulatorischen Anhangs",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 34,
+        "stable_identity": false
+      },
+      "file": "par-0034.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1195a3ff067a530d8e9c2c4f602f8cda4dc1f925c630d6defaea2799c96a1b9f",
+      "sha256": "f295e0a09a22f9542bf41d0e989a4b9c1861a75dd3f88950025c31d37e6cfde2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 35",
+      "source_heading": "Vorlage der Ergebnisse der Kostenrechnung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 35,
+        "stable_identity": false
+      },
+      "file": "par-0035.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "03e190b3eae2fadf6edb688e5cb6d323dfe4f448a0d4d83d964752aca41b2679",
+      "sha256": "01e33a4f93bf766a0619d4084d1516eb6eef11b7a5f8f5a1d10a116f5087b379",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 639/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_639_2/2003_639_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 36",
+      "source_heading": "Krankenanstaltenkataster",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 36,
+        "stable_identity": false
+      },
+      "file": "par-0036.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "80487b892411af0767be350f06b7a2c9c4ed7c284472bb257787f3e9a05fdcfa",
+      "sha256": "ef358522f1d196bc88d1b0baf8858a4a6e2b0fd3542474b2a1707220b0ce9795",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 37",
+      "source_heading": "Dokumentationsgrundlagen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 37,
+        "stable_identity": false
+      },
+      "file": "par-0037.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3796679c928777812d3afaf639faf8bf0ac3819965fbd3ae6404e9ed4178ad56",
+      "sha256": "192abea71a08b2d65251bb4019e02b006d3fd55ad9dc10f6f5b6e81e0396713d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 38",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 38,
+        "stable_identity": false
+      },
+      "file": "par-0038.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2c9e67afac84b7da057dea8cd7d79599e15e1d90fe3cd68181619dba99c90ab2",
+      "sha256": "5406b489a4188ea13ebacfc5141bc7fd3160c5a2b1e3cbbfdd1ca198e0c4bb6b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 39",
+      "source_heading": "Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 39,
+        "stable_identity": false
+      },
+      "file": "par-0039.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ceb853b224c1eee5ff0b3266c60c969d661024488ab4a1a58c589200fedd786",
+      "sha256": "2e3a2b742cea1f89d374ea8095b7e32f2faeffdc0046222f97c2b273fcb2324c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 784/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_784_0/1996_784_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 40",
+      "source_heading": "In-Kraft-Treten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 40,
+        "stable_identity": false
+      },
+      "file": "par-0040.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db32dcc12a3f5f007f3b23a84d1b42f02764c354a50ab89d4cb7d002f883e07d",
+      "sha256": "0e01f1809dbae15c7232d6f0e14a8db12c53844fede2e0093e9948ea62af59f3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

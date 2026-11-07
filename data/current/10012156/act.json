@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012156",
+  "short_title": "Luftverkehrsabkommen - Abänderung (USA)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – USA",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012438",
+    "valid_from": "1992-06-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012156&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:06:01.110470+00:00",
+    "response_sha256": "0b670ed7a3d4d94221160278c9f695e2edbcca2e4c9e02af92a49f387d7f9e98",
+    "snapshot_sha256": "19d0bd297340f350ac90b2ea4464263501280b85af45d6c390dc3163cfaec67f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "af565e15663e6ee05d0215e8f07ace9e40b1e425027315a67c4ecc393d341224",
+      "sha256": "c3ca97d4c4cb9e21a830009299293b928af1b54b7d361443584005006f2b0280",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Vereinigten Staaten von Amerika zur Abänderung des Luftverkehrsabkommens zwischen der Österreichischen Bundesregierung und der Regierung der Vereinigten Staaten von Amerika StF: BGBl. Nr. 488/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 488/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_488_0/1992_488_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Wien",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d59abda7f4667d4efe45823a6db8a0d42a8817d8336841abfc2cda887145ee36",
+      "sha256": "845a8e5cf029208a2c6c6a2a147e6152274537ca47cb7382449120cacf311f96",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 213/1989",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_213_0/1989_213_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "10000205",
+  "short_title": "Gerichtsorganisationsgesetz 1945",
+  "abbreviation": "GOG 1945",
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000206",
+    "valid_from": "1945-07-10",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000205&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:24:02.071542+00:00",
+    "response_sha256": "07b1cf5990b9cb744a32d559bbb03dc4caedf7dcb268905394fac23099a20ca6",
+    "snapshot_sha256": "88ccf59307a125d5439c6cf5229fd47002a72b8b7340df0240b7dd6c43c54da1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5b3eee1c008a9bd863c43c9d45d2ea2d534ff815f66d9a93c016e9707661639",
+      "sha256": "5117b0665bc77817f093ee3d3c34e40e3f4e7a491b0ce432822f23f5347a4a5f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Gesetz vom 3. Juli 1945 über die Wiederherstellung der österreichischen Gerichtsorganisation (Gerichtsorganisationsgesetz 1945 – GOG. 1945). StF: StGBl. Nr. 47/1945 idF StGBl. Nr. 126/1945 (DFB) und BGBl. Nr. 12/1946 (DFB)"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. Nr. 99/1946 (NR: GP V RV 89 AB 123 S. 24. BR: S. 10.) BGBl. Nr. 54/1950 (NR: GP VI RV 61 AB 71. S. 11. BR: S. 50.) BGBl. Nr. 135/1983 (NR: GP XV RV 669 AB 1337 S. 144. BR: 2654 AB 2660 S. 432.) BGBl. I Nr. 100/2003 (NR: GP XXII RV 93 AB 243 S. 35. BR: 6872 AB 6886 S. 702.) BGBl. I Nr. 61/2022 (NR: GP XXVII RV 1291 AB 1400 S. 147. BR: AB 10924 S. 939.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "StGBl. Nr. 47/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_47_0/1945_47_0.pdf"
+        },
+        {
+          "text": "StGBl. Nr. 126/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_126_0/1945_126_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 12/1946",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1946_12_0/1946_12_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 99/1946",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1946_99_0/1946_99_0.pdf"
+        },
+        {
+          "text": "RV 89",
+          "url": "https://www.parlament.gv.at/gegenstand/V/I/89"
+        },
+        {
+          "text": "AB 123",
+          "url": "https://www.parlament.gv.at/gegenstand/V/I/123"
+        },
+        {
+          "text": "S. 24.",
+          "url": "https://www.parlament.gv.at/gegenstand/V/NRSITZ/24"
+        },
+        {
+          "text": "S. 10.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/10"
+        },
+        {
+          "text": "BGBl. Nr. 54/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_54_0/1950_54_0.pdf"
+        },
+        {
+          "text": "RV 61",
+          "url": "https://www.parlament.gv.at/gegenstand/VI/I/61"
+        },
+        {
+          "text": "AB 71.",
+          "url": "https://www.parlament.gv.at/gegenstand/VI/I/71"
+        },
+        {
+          "text": "S. 11.",
+          "url": "https://www.parlament.gv.at/gegenstand/VI/NRSITZ/11"
+        },
+        {
+          "text": "S. 50.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/50"
+        },
+        {
+          "text": "BGBl. Nr. 135/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_135_0/1983_135_0.pdf"
+        },
+        {
+          "text": "RV 669",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/669"
+        },
+        {
+          "text": "AB 1337",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/I/1337"
+        },
+        {
+          "text": "S. 144.",
+          "url": "https://www.parlament.gv.at/gegenstand/XV/NRSITZ/144"
+        },
+        {
+          "text": "2654",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/2654"
+        },
+        {
+          "text": "AB 2660",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/2660"
+        },
+        {
+          "text": "S. 432.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/432"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_100_1/2003_100_1.pdf"
+        },
+        {
+          "text": "RV 93",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/93"
+        },
+        {
+          "text": "AB 243",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/I/243"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXII/NRSITZ/35"
+        },
+        {
+          "text": "6872",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6872"
+        },
+        {
+          "text": "AB 6886",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/6886"
+        },
+        {
+          "text": "S. 702.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/702"
+        },
+        {
+          "text": "BGBl. I Nr. 61/2022",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2022/61"
+        },
+        {
+          "text": "RV 1291",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1291"
+        },
+        {
+          "text": "AB 1400",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/1400"
+        },
+        {
+          "text": "S. 147.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/147"
+        },
+        {
+          "text": "AB 10924",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10924"
+        },
+        {
+          "text": "S. 939.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/939"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "I. Abschnitt.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c4a2d41c9a07dd21c5d898cb256131b9f42c30de6b2da0346c94d69ff14d5976",
+      "sha256": "c541d67d808c00ff4ddbcf3a13bfab2c3003dfdec197fc3e650705e5170e118a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "§ 2.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "93cccd2d976aba177fc571dd112152c8a6f5f1f2405defa62f67ff6a1ed36ec0",
+      "sha256": "cad441a9ffeb9a95534f37e6c6932f7de8104241d5a276441968cdd5baf292b1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Aufbau und Einrichtung der Gerichte.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3fc359b61ae24853388cff1c385ad12eb44bf0c19e15f189b34cdff787b7189b",
+      "sha256": "e3786457bee2b4defd83e36c0aa67947ab8c6fe44f6ec3374cf4e487a235ef19",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "1. zu Z 3: Bestimmungen der Gerichtsinstruktion, RGBl. Nr. 81/1853, aufgehoben durch § 212 Abs. 2 Z 1 RStDG, BGBl. Nr. 305/1961, und § 23 Abs. 2 Z 2, BGBl. Nr. 328/1968 2. zu Z 4: StGBl. Nr. 41/1919 aufgehoben durch § 23 Abs. 2 Z 6, BGBl. Nr. 328/1968 3. zu Z 5: Statut des Obersten Gerichtshofes, RGBl. Nr. 325/1950, aufgehoben durch § 23 Abs. 2 Z 1, BGBl. Nr. 328/1968 4. zu Z 6: RGBl. Nr. 41/1907 aufgehoben durch § 23 Abs. 2 Z 5, BGBl. Nr. 328/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 81/1853",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=81/1853&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 328/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_328_0/1968_328_0.pdf"
+        },
+        {
+          "text": "StGBl. Nr. 41/1919",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=41/1919&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 328/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_328_0/1968_328_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 325/1950",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_325_0/1950_325_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 328/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_328_0/1968_328_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 41/1907",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=41/1907&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 328/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_328_0/1968_328_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Personalsenate.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4d0a7a95453c4be0104013ec365b52d578d9ed55f0c865939bdc36bfbd828344",
+      "sha256": "3a8dc021b7b57f1e4da26844d5dd7a10bfcb5987c727a8e91114df5cf6ed2c93",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zu Z 1: BGBl. Nr. 748/1921 aufgehoben durch § 212 Abs. 2 Z 9 RStDG, BGBl. Nr. 305/1961 zu Z 2: BGBl. Nr. 192/1925 aufgehoben durch § 212 Abs. 2 Z 10 RStDG, BGBl. Nr. 305/1961"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 748/1921",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=748/1921&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 192/1925",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=192/1925&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Ausbildung der Richter und Gerichtspraxis.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10eceb570cbc4e1913a2629d67af62ef77b447cb46e9a3dc25f5c3fabb5c1ec2",
+      "sha256": "6f6c6d57c5958be63f58f9d52ff5431b6fa0698b3f699ef9cb634bce741220f3",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zu Z 1: RGBl. Nr. 192/1987 aufgehoben durch § 212 Abs. 2 Z 7 RStDG, BGBl. Nr. 305/1961 zu Z 2: RGBl. Nr. 182/1900 aufgehoben durch § 212 Abs. 2 Z 8 RStDG, BGBl. Nr. 305/1961 zu Z 3: RGBl. Nr. 1/1911 und RGBl. Nr. 5/1911 aufgehoben durch § 29 Abs. 3 Z 2 und 3 RPG, BGBl. Nr. 644/1987"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 192/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_192_0/1987_192_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 182/1900",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=182/1900&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        },
+        {
+          "text": "RGBl. Nr. 1/1911",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=1/1911&SkipToDocumentPage=True"
+        },
+        {
+          "text": "RGBl. Nr. 5/1911",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=5/1911&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 644/1987",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_644_0/1987_644_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Fachkundiger Laienrichter.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5d78d4a3a2f0dcc9ad3889939f217ad40c0b77e6e229b84f6ca51f2a199def4",
+      "sha256": "2baf6f34236322166e37f3284788ede811bca97124e4ad55d1f9becf174728b5",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Seegerichtsbarkeit insbesondere aufgehoben durch Art. II Z 1, 1a, 2 und 15 der Zivilverfahrens-Novelle 1983, BGBl. Nr. 135/1983"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 135/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_135_0/1983_135_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 135/1983",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_135_0/1983_135_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Dienststrafrecht der Richter.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dd5376ec737ceee6113027f0404f69a27830964e2b09862ad1dce6a6a28406b4",
+      "sha256": "c4709d471f19113aad6bb8a725a12ec83831497fde291207b5e77b27d7925bc9",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "RGBl. Nr. 46/1868 aufgehoben durch § 212 Abs. 2 Z 2 RStDG, BGBl. Nr. 305/1961"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 46/1868",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=46/1868&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 305/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_305_0/1961_305_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Beamte und Angestellte der Geschäftsstelle.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e5717cf0c81fa615e5799e1d979aabd20f7a35668c0f49ddfae232d093bba3af",
+      "sha256": "38c5fce59c0a2bc511c7732b5e20c293a5abd7be0b2169c84b92e743ee450d1d",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "1. zu Z 1: Kanzleipersonal-Verordnung, RGBl. Nr. 170/1897, aufgehoben durch BGBl. I Nr. 191/1999 (1. BRBG) 2. zur materiellen Derogation der in Z 2 und 3 genannten Verordnungen siehe Gehaltsüberleitungsgesetz, BGBl. Nr. 22/1947, sowie BDG 1979, BGBl. Nr. 333/1979"
+        }
+      ],
+      "links": [
+        {
+          "text": "RGBl. Nr. 170/1897",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=170/1897&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. I Nr. 191/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_191_1/1999_191_1.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 22/1947",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_22_0/1947_22_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 333/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Gefangenaufsichtsbeamte.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc5a513ee34066516c402def23db0ba751a8506b90818a1f7cf3640f2087f028",
+      "sha256": "0f72a3fe3e87f3db5303240438fab4da4c9b00d226d9f0564afaa9aac3bf51ab",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "zur materiellen Derogation der beiden Verordnungen siehe DienstzweigeV, BGBl. Nr. 164/1948, GÜG, BGBl. Nr. 22/1947, (insbesondere dessen Abschnitt IV), StVG, BGBl. Nr. 144/1969, EGStVG, BGBl. Nr. 145/1969, und BDG 1979, BGBl. Nr. 333/1979"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 164/1948",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_164_0/1948_164_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 22/1947",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_22_0/1947_22_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 144/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_144_0/1969_144_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 145/1969",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 333/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_333_0/1979_333_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Form der Vereidigung vor den Gerichten.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d53b9a56c96af5e0ae63f80bd8738d488c91f3a6965ea3924e0d5989d4fe17cd",
+      "sha256": "347398b78eec6fed0f61dccdeb8448b387a84e8c97900fefe83200a5a257a2fb",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "II. Abschnitt.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "37525303300987e29fe5ff0b48a3847a0191a8b7a674ed2187a950d36dbb16c5",
+      "sha256": "27d3efadb2391b9c68329dd1cff3dc4993c5368542d5b39cc7d34fea3b16ba84",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Aufhebung reichsdeutscher Vorschriften.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "67f2075f91ccc1e17f67648c2d9e073103212d1dfd5476e358c6565cdbc32cf0",
+      "sha256": "432d91df270226d38a79600fa63022e5f30a90872183386ad34f54b0623f8b55",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "III. Abschnitt.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34413c677633153a7a01e4c62b0276dfdfb83e89d107029420fd5dd994761bd4",
+      "sha256": "f0e5a497cd4c7e69a9f9ce306caa1f4050fbb6d97c3aee5d5d14026a915d4275",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Diese Bestimmung ist gegenstandslos."
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "§ 14.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bb024a49b6fe2aa872da9307ff53a9f10bb13833410ea744b98c715ab1da0710",
+      "sha256": "53203b04f299792d021dbd13b457124758e4b5d96450a98d70ac11ce81523304",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14a",
+      "source_heading": "§ 14a.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0014a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cb545c1b1a759bee13487d56f2859e32e22ae62ebb96cd90158443e2fca3a3e5",
+      "sha256": "1894a49ee3ca272da1fb49039006bf7b7ba74927e332eb13af008258b97cebbf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14b",
+      "source_heading": "§ 14b.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0014b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bc6e5284ea301e7584673427ee1356e0751889a01ab243fdca8210137a3470a5",
+      "sha256": "f59c05b7e5e24ee8b541e4fc9daf872ec17f5e795af192dc8b3dddf6a0ce0690",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "§ 15.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b5ef8b5d58bdf7034c1b5cb6acfd96b625b054b387cfcd3cdea7cb4588c25496",
+      "sha256": "f17a0cba45472c6339b18d232502fa0f2393dacd483608af8fbfd6069fcdb690",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "1. materiell derogiert durch das Wiederverlautbarungsgesetz, BGBl. Nr. 114/1947, nunmehr Art. 49a B-VG 2. Statt „Staatsamt für Justiz“ hat es „Bundesministerium für Justiz“ zu lauten (siehe Art. VI Abs. 2 des 2. Verfassungs-Überleitungsgesetzes 1945, StGBl. Nr. 232/1945)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 114/1947",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1947_114_0/1947_114_0.pdf"
+        },
+        {
+          "text": "StGBl. Nr. 232/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_232_0/1945_232_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "§ 16.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9691eab2dddb7b0327f845cbbc951b529ef24f7947a50a66cc919ddc44a4b492",
+      "sha256": "04f973286f377f2a80456bfdb4b2845e9d000d390b8ea6f28a0e1f2de69d2860",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Statt „Staatsamt für Justiz“ hat es „Bundesministerium für Justiz“ zu lauten (siehe Art. VI Abs. 2 des 2. Verfassungs-Überleitungsgesetzes 1945, StGBl. Nr. 232/1945)."
+        }
+      ],
+      "links": [
+        {
+          "text": "StGBl. Nr. 232/1945",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1945_232_0/1945_232_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

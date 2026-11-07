@@ -1,0 +1,3 @@
+Bundesgesetz zur Sicherung der Transparenz bei der Wahrnehmung politischer und wirtschaftlicher Interessen (Lobbying- und Interessenvertretungs-Transparenz-Gesetz – LobbyG) StF: [BGBl. I Nr. 64/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/64>) (NR: GP XXIV [RV 1465](<https://www.parlament.gv.at/gegenstand/XXIV/I/1465>) [AB 1832](<https://www.parlament.gv.at/gegenstand/XXIV/I/1832>) [S. 163.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/163>) BR: [8747](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8747>) [AB 8749](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8749>) [S. 810.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/810>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über das Informations- und Meldewesen in der Seeschifffahrt (Informations- und Meldeverordnung – Seeschifffahrt) StF: [BGBl. II Nr. 439/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/439>) \[CELEX-Nr.: [32002L0059](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0059:DE:HTML>), [32002L0006](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0006:DE:HTML>)\]
+
+Auf Grund des § 7 Abs. 4 des Seeschifffahrts-Erfüllungsgesetzes – SSEG, [BGBl. Nr. 387/1996](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_387_0/1996_387_0.pdf>) in der Fassung [BGBl. I Nr. 32/2002](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_32_1/2002_32_1.pdf>) wird verordnet:

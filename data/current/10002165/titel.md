@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. März 1970, betreffend Zeichen der Europäischen Organisation zur Sicherung der Luftfahrt (EUROCONTROL) StF: [BGBl. Nr. 119/1970](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1970_119_0/1970_119_0.pdf>)

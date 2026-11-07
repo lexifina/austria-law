@@ -1,0 +1,145 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10012041",
+  "short_title": "Luftverkehrsabkommen - Fluglinienplan (Deutschland)",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – Deutschland",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11012307",
+    "valid_from": "1991-11-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012041&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:04:48.037457+00:00",
+    "response_sha256": "a25275c64d4b34be963b89f0f26f72634e0343e012ba0afe243e3100e498d6e0",
+    "snapshot_sha256": "b70ce0bac405bf615c407d0a27708f101e20c371a445ee96c5d352238f970675",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b5f93efba83b36e1a3cd2b531147bbdb2ebb56f6748168415e432297aedc2519",
+      "sha256": "2f7458f234f0de30b1d5c9b3373467a73db92994afda4964464981c76ec7f3fa",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Vereinbarung zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Neufassung des im Abkommen zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Luftverkehr vorgesehenen Fluglinienplanes StF: BGBl. Nr. 536/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 536/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_536_0/1991_536_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "Verbalnote",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1fca5ae622659b0b6293975dc0cf7fc39f73f94a0cb2518a03bf8baf646b13b8",
+      "sha256": "95c96841128ed0476c76c2d6dbcaa12bb1a6c93c91f7cab50ca1a2b6ba215114",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 136/1966",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_136_0/1966_136_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Punkte im Hoheitsgebiet der Bundesrepublik Deutschland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Punkte im Hoheitsgebiet der Republik Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Alle Punkte in der Bundesrepublik Deutschland",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1. Wien 2. Salzburg 3. Klagenfurt 4. Innsbruck 5. Graz 6. Linz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Punkte im Hoheitsgebiet der Republik Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Punkte im Hoheitsgebiet der Bundesrepublik Deutschland",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Alle Punkte in der Republik Österreich",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "1. Berlin 2. Düsseldorf 3. Frankfurt 4. München 5. Stuttgart 6. Hamburg 7. Dresden oder Leipzig 8. ein weiterer von den Luftfahrtbehörden zu vereinbarender Punkt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

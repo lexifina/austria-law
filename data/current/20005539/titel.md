@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Einstufung der Studienfachbereiche und Lehrveranstaltungen an der Hochschule für Agrar- und Umweltpädagogik Wien (Einstufungsverordnung – HAUP) StF: [BGBl. II Nr. 326/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/326>)
+
+Auf Grund des § 7 Abs. 1 des Bundesgesetzes über das Ausmaß der Lehrverpflichtung der Bundeslehrer (Bundeslehrer-Lehrverpflichtungsgesetz – BLVG), [BGBl. Nr. 244/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_244_0/1965_244_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 53/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/53>), wird verordnet:

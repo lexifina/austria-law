@@ -1,0 +1,3 @@
+Bundesgesetz über den Koordinator-für-digitale-Dienste nach der Verordnung (EU) 2022/2065 über einen Binnenmarkt für digitale Dienste (Koordinator-für-digitale-Dienste-Gesetz – KDD-G) StF: [BGBl. I Nr. 182/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/182>) (NR: GP XXVII [RV 2309](<https://www.parlament.gv.at/gegenstand/XXVII/I/2309>) [AB 2344](<https://www.parlament.gv.at/gegenstand/XXVII/I/2344>) S. 247. BR: [11366](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11366>) [AB 11400](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11400>) S. [961](<https://www.parlament.gv.at/gegenstand/BR/I-BR/961>).)
+
+Der Nationalrat hat beschlossen:

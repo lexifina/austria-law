@@ -1,0 +1,3 @@
+Bundesgesetz über den Vollzug des Carbon Border Adjustment Mechanism (CBAM-Vollzugsgesetz 2023 – CBAM-VG 2023) StF: [BGBl. I Nr. 196/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/196>) (NR: GP XXVII [IA 3778/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/3778>) [AB 2349](<https://www.parlament.gv.at/gegenstand/XXVII/I/2349>) S. 247. BR: [AB 11378](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11378>) S. [962](<https://www.parlament.gv.at/gegenstand/BR/I-BR/962>).) \[CELEX-Nr.: [32003L0087](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0087:DE:HTML>), [32023L0959](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L0959:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

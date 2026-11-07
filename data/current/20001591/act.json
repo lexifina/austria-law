@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20001591",
+  "short_title": "Errichtung einer fünften Notarstelle in Bregenz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30001727",
+    "valid_from": "2001-09-15",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001591&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:34:06.449450+00:00",
+    "response_sha256": "c12c8f915a4c4d2b8a28544029fca00f427fd6de0da9b7aec3cafd7ec9df61cb",
+    "snapshot_sha256": "8e944ba14751d665aa447669e3116e8e9120adf8cc25aee5eba53adf92777da8",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02bca96173c8daec981d1688fecd444dc27c4cbefe0805bd573efeffbeef0efb",
+      "sha256": "3c775dce43e32be77523b00d3c86e37fc4146820a7cee747450d0c7471744c27",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer fünften Notarstelle in Bregenz StF: BGBl. II Nr. 341/2001"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 341/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_341_2/2001_341_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8fbc0c2e7bd92fabf870835acd520ead9fd0fadb02a234ac564309096316743b",
+      "sha256": "d64147ed9190957012e63a39434d8ac995283c9591e9ca1eae7f16fe6fcbcec3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

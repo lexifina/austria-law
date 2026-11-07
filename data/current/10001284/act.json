@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001284",
+  "short_title": "VfGH-Aufhebung Wasserleitungsordnung der Gemeinde Großdietmanns",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001292",
+    "valid_from": "1993-12-31",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001284&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:44:39.450519+00:00",
+    "response_sha256": "c12fa8d782e0eb47081f77d8b042153e51293c5accd8ce58074846605454eb1b",
+    "snapshot_sha256": "67600c3915b7bb36fcc64d860036af42c1f8cc7d7a6bdef244eb5d7e7a17c30d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "58e367d73495a85c797919f75b8b2f837a08a031feb5477227be871654dbe953",
+      "sha256": "2c6c332acf982aeaf37bef08769958789bd43825b4c30ae73c226613092bf035",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft über die Aufhebung der Wasserleitungsordnung der Gemeinde Großdietmanns durch den Verfassungsgerichtshof StF: BGBl. Nr. 941/1993"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 941/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_941_0/1993_941_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6675c894b0911ab70e11abc72403440237e01a56c7096db273976b10206da783",
+      "sha256": "2858eb94130a6239dc61d20f452c870fc54b3d04c330cfdf301d0eb24dc28cf8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

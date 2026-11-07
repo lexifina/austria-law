@@ -1,0 +1,421 @@
+{
+  "sample_only": false,
+  "included_provisions": 7,
+  "source_provision_count": 7,
+  "schema_version": 1,
+  "gesetzesnummer": "10007993",
+  "short_title": "Waffenbücherverordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11008138",
+    "valid_from": "1999-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007993&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:12:48.656925+00:00",
+    "response_sha256": "dcce1cd519a9609cf2567d30a04e7cc333d8e7f42c65d6fd7ca9d603d10dc9da",
+    "snapshot_sha256": "cf90ebccf56b8cbc392add94300dbb163e53d02515d9bc67b8f7da379c4d4ff3",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "22c04ecfdb894590c9eda65d517ab16d2e0c5b12fc0bb1812cbb2961f63f8d72",
+      "sha256": "85231de56a793998aab1192b670dc75cce6b98e4995333a24b029f2bac20982b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Führung der Waffenbücher (Waffenbücherverordnung) StF: BGBl. II Nr. 252/1998"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 252/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_252_2/1998_252_2.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 30/1998",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_30_1/1998_30_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Behördenzuständigkeit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "856e5a6199e8a2b30328b3517a0d0963a4999c7187fb27e54fbd918e7ec46505",
+      "sha256": "ba98944f1f6e62f1de2b16cf324c0d7539f7f2a159679bc8d0e754ca0c8986c0",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c6e37085992c64072799c8add3cb56d2eba86760eecdaa695a77fece5ddbd473",
+      "sha256": "84080e30f7702a44a25ef3d53ffd633f136b8e11cc5926d15b19455ac25272c5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "In Buchform geführte Waffenbücher",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "30b664060fd8c13289a21792949051d448a4710c3c25df222431195e3eab2909",
+      "sha256": "6859b1f87acf8422b5771d06ef80a8b8e24797238f477552f45fa7c3d8a067da",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Automationsunterstützt geführte Waffenbücher",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9458e28edd75858fb95dd32a271df8dedd7fb3d797f8c9ff9abbfccba40ae538",
+      "sha256": "613e4bf00e04f1f5ff93fefc1e7b245c07e5d3b48e79e7720c39999ed903e384",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Inkrafttreten, Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b902987ba4c98ae1b62c6dec761f5f8c9fd2cf7ca1d775433fe875a30d0505ad",
+      "sha256": "e05835e114c904dc489c6d947f3fa6c79647c5454f198dc6e4072bf5f50a0e1e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "62c55fb571a41ab566c9b2bcd5bbcf38f4ee019575b78984f4525ab67286a0e9",
+      "sha256": "74413dea94362c221ff1b4d4b52519ea22cb0284cc2eb8d81b9d28e8b5be3264",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Lfd. Nr.",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Datum",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Modell",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erzeugungsnummer",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Name und Anschrift des Überlassers, bei Einfuhr zusätzlich Hinweis auf den entsprechenden Nachweis der Einfuhr",
+                "rowspan": 3,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kaliber",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Fabrikat",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Lfd. Nr.",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Name und Anschrift des Erwerbers, Geburtsdatum, Geburtsort",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nachweis der Erwerbsberechtigung/amtl. Lichtbildausweis, jeweils unter Angabe der ausstellenden Behörde, des Ausstellungsdatums und der Nummer, bei Ausfuhr zusätzlich Hinweis auf den entsprechenden Nachweis der Ausfuhr",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kaliber",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Überlasser",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stückzahl",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Kaliber",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Datum",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Erwerber",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "waffenrechtliche Urkunde",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Stückzahl",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "2",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "4",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "5",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

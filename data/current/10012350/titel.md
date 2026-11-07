@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend Kalibrierstellen (Kalibrierdienstverordnung) StF: [BGBl. Nr. 42/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_42_0/1994_42_0.pdf>)
+
+Auf Grund der §§ 57 bis 59 des Maß- und Eichgesetzes (MEG), [BGBl. Nr. 152/1950](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1950_152_0/1950_152_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 468/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_468_0/1992_468_0.pdf>) und die Kundmachung [BGBl. Nr. 779/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_779_0/1992_779_0.pdf>), wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:

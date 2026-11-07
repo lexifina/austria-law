@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 18. Feber 1972 betreffend staatliche Hoheitszeichen des Vereinigten Königreiches von Großbritannien und Nordirland StF: [BGBl. Nr. 81/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_81_0/1972_81_0.pdf>)

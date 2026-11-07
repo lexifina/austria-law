@@ -1,0 +1,76 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20012183",
+  "short_title": "Einrichtung und Führung des Binnenschiffsregisters",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40251191",
+    "valid_from": "1940-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012183&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:28:44.686297+00:00",
+    "response_sha256": "a7936b16afe58b1a72e99cb1e5111ea742d0c5d77adec8f85f41af8ba8262f0c",
+    "snapshot_sha256": "59f3b835caf9dd3f6a36411aca3a2ab59214ae126a34d79e4088129dd943bb0a",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "de2acebf78aaf50cd479e3ef6726e8f76277e63fad51fdc4f695b378c5b93796",
+      "sha256": "0d237cf3daab013985f197de94041801f52501568517cb780b5d0ada61669b79",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Einrichtung und Führung des Binnenschiffsregisters in der (Anm.: gegenstandslos) Sudetenland. AV. d. RJM. v. 18. 12. 1939 (3821 – V.a12 1129). StF: DJ S 1902/1939"
+        }
+      ],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "I.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7ddbd7d755687ad17528254027ac57c47519d1970b080f6d73fcab43e3c28d57",
+      "sha256": "12db614e0094f8bfa7a1d02283cdf66bcbd99a2d3175482e5597cab666c61d8f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

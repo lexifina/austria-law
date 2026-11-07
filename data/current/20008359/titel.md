@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Inneres zum Schutz grafischer Darstellungen der Sicherheitsbehörden und Polizeikommanden (Polizeizeichenschutzverordnung – PZSV) StF: [BGBl. II Nr. 94/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/94>)
+
+Aufgrund des § 83b Abs. 2 des Sicherheitspolizeigesetzes (SPG), [BGBl. Nr. 566/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_566_0/1991_566_0.pdf>), zuletzt geändert durch die Bundesgesetze [BGBl. I Nr. 50/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/50>) idF der Kundmachung [BGBl. I Nr. 53/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/53>) (DFB) und [BGBl. I Nr. 87/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/87>), wird verordnet:

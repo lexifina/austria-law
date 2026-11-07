@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001086",
+  "short_title": "Sicherheitsrat der Vereinten Nationen - Resolution 687 (1991)",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001090",
+    "valid_from": "1991-04-27",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001086&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:41:04.623200+00:00",
+    "response_sha256": "73a07518aea4afa44f509e4d55778e31bd29acf641dd952bd0e1e34dd1987329",
+    "snapshot_sha256": "ef7fb6ca0e5e5c90f97664d3a8bc0a0f09c4b90cdd82ffd56735dc58c64b5c2d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7dc7ae15e51cc87bc2b623ba7a0bd20f465dbcf0867703e892f77c3b6a3cee2c",
+      "sha256": "3a253e40055add50215c0d5a0ce41bd77896724eba8001fe988b03243452dbb2",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend Resolution 687 (1991), verabschiedet auf der 2981. Sitzung des Sicherheitsrates am 3. April 1991 StF: BGBl. Nr. 211/1991"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 211/1991",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_211_0/1991_211_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": "RESOLUTION 687 (1991) verabschiedet auf der 2981. Sitzung des Sicherheitsrats am 3. April 1991",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6944abf2a40d0fdb2c329d3c845d7525c434a7c70a95857b4ce76f4c2acc542a",
+      "sha256": "daee7e6a3132f22b255e9a42332f32c0686dc36bc411e38d43f719b05ebf78cf",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "(Übersetzung)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

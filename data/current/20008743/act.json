@@ -1,0 +1,1782 @@
+{
+  "sample_only": false,
+  "included_provisions": 14,
+  "source_provision_count": 14,
+  "schema_version": 1,
+  "gesetzesnummer": "20008743",
+  "short_title": "Tierversuchsstatistik-Verordnung 2013",
+  "abbreviation": "TVSV 2013",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40228241",
+    "valid_from": "2020-12-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008743&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:20:01.345799+00:00",
+    "response_sha256": "0fa029b33566555cbd659c01c9f4ab931a6b01916a71a0515a88b84bba4b674a",
+    "snapshot_sha256": "360e2491af0fd732285c275505d0ec6f616c4fbf86fb6d1d76fce77a1c1d0039",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6f07524040fce9c76e9f0873f97490e663990054fd10c66f6a9e0113b66ee310",
+      "sha256": "92a9f9a414098ae9be965d6ee3d2a8337533503b9857dd50d4fb6c076c0732bb",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über die statistische Erfassung von Tierversuchen (Tierversuchsstatistik-Verordnung 2013 – TVSV 2013) StF: BGBl. II Nr. 501/2013"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 542/2020 [CELEX-Nr.: 32010L0063]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 501/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/501"
+        },
+        {
+          "text": "BGBl. II Nr. 542/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/542"
+        },
+        {
+          "text": "32010L0063",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0063:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 114/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2012/114"
+        },
+        {
+          "text": "BGBl. I Nr. 76/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/76"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Gegenstand",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "806ec9ce8e9e68c214b1e05bcc6d39bc82fd309cb4cb186b0eaf33ad84ae6a7c",
+      "sha256": "cb5079239a7530ed0ab3df3ceba928ae8fb8f0cca1901a7814f2a08ec96c8447",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 542/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/542"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1a",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0001a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3a288aa801bbecb49f3b6e7be631dd4211ca5f9fd814e03265484e92cfc013b1",
+      "sha256": "ab1f2b9a7e59fc1e46fdd41cd0ae7ffc0a937f089fdf67b820534f2b6b41b49d",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 510/1994",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_510_0/1994_510_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Umfang der jährlichen Berichtspflicht für Verwender",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8172041863536ad0713ac403f5931b47f32514f7e760726b82e48ce83c5a43a",
+      "sha256": "094180e43c229d8d718460b3e3e4c2fb6b40715e76c30ef7ec851241526a150f",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 522/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/522"
+        },
+        {
+          "text": "BGBl. II Nr. 542/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/542"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Allgemeine Anforderungen an die Erfassung statistischer Daten von Tierversuchen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c5baec9e330419dbbfb3cfc23146dd6bdea8d6a10e4286f475b828b343c6c275",
+      "sha256": "c4631696986641a4464fad8603a964a09f3d26b170a3e53bf40d793ab7f119a7",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3a",
+      "source_heading": "Weiterleitung an die Bundesministerin bzw. den Bundesminister für Bildung, Wissenschaft und Forschung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0003a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "5cb5cea7b7ef1aa2f916604c98d66fe3a319cc7e4c8471b8f5af7cb98d4d33cc",
+      "sha256": "4e2fd39ee999393a15c3ea5e7c63d3ab6c33b276a204ca23c387d8dbe1ff37d3",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Veröffentlichung durch die Bundesministerin bzw. den Bundesminister für Bildung, Wissenschaft und Forschung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4a0f4001edb9a2be22d00e722747a6e7c722b6ca147373e11a4bd51f969faf11",
+      "sha256": "bf38282138576544489874af27605eba110fd50171b10df16f644db1e6324bb4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Weiterleitung an die Europäische Kommission",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "446575e90be0c44623ebdfd7099ffec4ec209721be0969b9955892c13123668e",
+      "sha256": "eedcb0615a57b71d61064b45bb94bdf85220ebfcc98b65cbe8537e1e77648443",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Umfang der fünfjährlichen Berichtspflicht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9de88c7b00fd1337926843faacb073501829665e2539ad81c3f921f80e37297a",
+      "sha256": "2e6b9a8b7335e8688d958d7bdd193837f1bace80eca0ef14431bc43d812ef7ab",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Ausnahmen für mindestens ebenso schmerzlose Tötungsmethoden",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3957e8278334de5a3869024c9698a2a1c4ea8c0982b02c638effc68f6888aa8e",
+      "sha256": "f40684ba354ffbf2a7f0a793ab060c32b4d0f98079d8e717ab1cc1c252f55931",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7a",
+      "source_heading": "Umsetzungshinweis",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0007a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d081d6043dc7437b6803ff969f31984f450a917584a8643e2e1b279aa3f919e8",
+      "sha256": "203ab5be53136d0e27eb1baaff830e42ce00fe4d3fb1f71f04e180258ea1428c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7b",
+      "source_heading": "Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0007b.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b6d2f6ed9937ab7a1532bd21dee64300e93ce37dd9c0308d0e7b57f6ac4e7df7",
+      "sha256": "0cd774a5ab4df4d37d34f118ce22a0ffc2bf56d56e743958c0563383be46414c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 501/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/501"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "In- und Außerkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "34986021ca4374e01ed2b29dda0c6e09ce0f7fc5a051e1eceaa4f76a6e92950f",
+      "sha256": "fe0be3555b33d641b3cdb2578627a9feff1262f7cabf73af6a0875d6d1ea21ce",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 199/2000",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_199_2/2000_199_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 542/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/542"
+        },
+        {
+          "text": "BGBl. II Nr. 542/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/542"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage Erfassung statistischer Daten von Tierversuchen Allgemeines",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7645ee3e7fb3cf1954e1c7e8fe024728a053a47239264cb801577e27ffed6f64",
+      "sha256": "caeac01a70a1332c3a929323d20c362fb0f3000e5cfc7ab8d279b57ef3dc3035",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Tabelle 1 – Datenkategorien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Tierarten (1. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erneute Verwendung (2. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Arten als nichtmenschliche Primaten – Geburtsort (3. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nichtmenschliche Primaten (NMP) – Geburtsort (4. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nichtmenschliche Primaten – Typ Kolonie (5. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nichtmenschliche Primaten – Generation (6. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Genetischer Status (7. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schaffung einer neuen genetisch veränderten Linie (8. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schweregrad (9. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verwendungszwecke (10. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Studien im Rahmen der Grundlagenforschung (11. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Translationale und angewandte Forschung (12. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verwendung zu regulatorischen Zwecken und Routineproduktion (13. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Qualitätskontrolle (einschließlich Chargenunbedenklichkeits- und -potenzprüfungen) (14. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Toxizitäts- und andere Unbedenklichkeitsprüfungen, nach Prüfungstypen (15. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Testmethoden zur Prüfung auf akute Toxizität (16. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Toxizität bei wiederholter Verabreichung (17. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ökotoxizität (18. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Art der Vorschriften (19. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Herkunft der Vorschriften (20. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Routineproduktion, nach Produkttyp (21. Abschnitt)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Tabelle 2 – Mögliche Auswahlfelder in der Datenkategorie „Tierart“",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mäuse (Mus musculus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ratten (Rattus norvegicus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Meerschweinchen (Cavia porcellus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Goldhamster (Mesocricetus auratus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Chinesischer Grauhamster (Cricetulus griseus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mongolische Rennmäuse (Meriones unguiculatus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Nager (andere Rodentia)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kaninchen (Oryctolagus cuniculus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Katzen (Felis catus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hunde (Canis familiaris)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Frettchen (Mustela putorius furo)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Fleischfresser (andere Carnivora)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Pferde, Esel und Kreuzungen (Equidae)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schweine (Sus scrofa domesticus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ziegen (Capra aegagrus hircus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schafe (Ovis aries)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Rinder (Bos taurus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Halbaffen (Prosimia)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Marmosetten und Tamarine (z. B. Callithrix jacchus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Javaneraffen (Macaca fascicularis)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Rhesusaffen (Macaca mulatta)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Grüne Meerkatzen (Chlorocebus spp., in der Regel pygerythrus oder sabaeus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Paviane (Papio spp.)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Totenkopfaffen (zB Saimiri sciureus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Arten von Neuweltaffen (andere Arten von Ceboidea)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Arten von Altweltaffen (andere Arten von Cercopithecoidea)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Menschenaffen (Hominoidea)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Säugetiere (andere Mammalia)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Haushühner (Gallus gallus domesticus)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Truthühner (Meleagris gallopavo)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Vögel (andere Aves)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Reptilien (Reptilia)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Frösche (Rana temporaria und Rana pipiens)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Krallenfrösche (Xenopus laevis und Xenopus tropicalis)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Amphibien (andere Amphibia)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Zebrafische (Danio rerio)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Wolfsbarsch (Arten von Familien wie Serranidae, Moronidae)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lachse, Forellen, Saiblinge und Äschen (Salmonidae)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Guppys, Schwertträger, Spitzmaulkärpflinge, Spiegelkärpflinge (Poeciliidae)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Fische (andere Pisces)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kopffüßer (Cephalopoda)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Erneute Verwendung (Nein/Ja)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "In der Union in einem zugelassenen Zuchtbetrieb geborene Tiere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In der Union, jedoch nicht in einem zugelassenen Zuchtbetrieb geborene Tiere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Im restlichen Europa geborene Tiere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In anderen Teilen der Welt geborene Tiere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "In einem zugelassenen Zuchtbetrieb in der Union geborene NMP",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In der Union, jedoch nicht in einem zugelassenen Zuchtbetrieb geborene sowie im restlichen Europa geborene NMP",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In Asien geborene NMP",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In Amerika geborene NMP",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In Afrika geborene NMP",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "In anderen Teilen der Welt geborene NMP",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Sich selbst erhaltende Kolonie (Nein/Ja)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "F0",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "F1",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "F2 oder höher",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Genetisch nicht verändert",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Genetisch verändert ohne pathologischen Phänotyp",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Genetisch verändert mit pathologischem Phänotyp",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere (Nein/Ja)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Keine Wiederherstellung der Lebensfunktion",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gering (höchstens)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mittel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schwer",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Grundlagenforschung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Translationale und angewandte Forschung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verwendung zu regulatorischen Zwecken und Routineproduktion",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schutz der natürlichen Umwelt im Interesse der Gesundheit oder des Wohlbefindens von Menschen und Tieren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erhaltung der Art",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hochschulausbildung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schulung zum Erwerb, zur Erhaltung oder zur Verbesserung beruflicher Fähigkeiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Forensische Untersuchungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erhaltung von Kolonien etablierter genetisch veränderter Tiere, die nicht in anderen Tierversuchen verwendet werden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Onkologie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kardiovaskuläres System (Blut- und Lymphgefäße)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nervensystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Atmungssystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gastrointestinales System, einschließlich Leber",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Muskuloskelettales System",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Immunsystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Urogenitales System/Fortpflanzungssystem",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Sinnesorgane (Haut, Augen und Ohren)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Endokrines System/Stoffwechsel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Entwicklungsbiologie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Multisystemisch",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ethologie/Tierverhalten/Tierbiologie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Grundlagenforschung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Krebserkrankungen des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Infektionskrankheiten des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kardiovaskuläre Erkrankungen des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nerven- und Geisteserkrankungen des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Atemwegserkrankungen des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gastrointestinale Erkrankungen des Menschen, einschließlich der Leber",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Muskuloskelettale Erkrankungen des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Immunerkrankungen des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erkrankungen des urogenitalen/des Fortpflanzungssystems des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erkrankungen der Sinnesorgane des Menschen (Haut, Augen und Ohren)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Erkrankungen des endokrinen Systems/des Stoffwechselsystems des Menschen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Humanerkrankungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Tiererkrankungen und -krankheiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Tierernährung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Tierschutz",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Krankheitsdiagnose",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Pflanzenkrankheiten",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nicht regulatorische Toxikologie und Ökotoxikologie",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Qualitätskontrolle (einschließlich Chargenunbedenklichkeits- und -potenzprüfungen)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Wirksamkeits- und Toleranzprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Toxizitäts- und andere Unbedenklichkeitsprüfungen, einschließlich pharmakologischer Tests",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Routineproduktion, nach Produkttyp",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Chargenunbedenklichkeitsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Pyrogenitätsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Chargenpotenzprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Qualitätskontrollen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Testmethoden zur Prüfung auf akute Toxizität (bei einmaliger Verabreichung) (einschließlich Limit-Test)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Hautreizung/-korrosion",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Sensibilisierung der Haut",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Augenreizung/-korrosion",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Toxizität bei wiederholter Verabreichung",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Karzinogenität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Genotoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Reproduktionstoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Entwicklungstoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Neurotoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kinetik (Pharmakokinetik, Toxikokinetik, Rückstandsabbau)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Pharmakodynamik (einschließlich Sicherheitspharmakologie)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Fototoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ökotoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Unbedenklichkeitsprüfung von Nahrungs- und Futtermitteln",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Unbedenklichkeit für Zieltiere",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Kombinierte Endpunkte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Toxizitäts- oder Unbedenklichkeitsprüfungen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "LD50, LC50",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere letale Methoden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Nichtletale Methoden",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Bis zu 28 Tage",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "29-90 Tage",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "mehr als 90 Tage",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Akute Toxizität (Ökotoxizität)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Chronische Toxizität (Ökotoxizität)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Reproduktionstoxizität (Ökotoxizität)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Endokrine Wirkung (Ökotoxizität)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Bioakkumulation (Ökotoxizität)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Ökotoxizität",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Vorschriften für Humanarzneimittel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Tierarzneimittel und ihre Rückstände",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Medizinprodukte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Industriechemikalien",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Pflanzenschutzmittel",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Biozidprodukte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Lebensmittel, einschließlich Materialien, die mit Lebensmitteln in Berührung kommen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Futtermittel, einschließlich Vorschriften für die Sicherheit von Zieltieren, Arbeitnehmern und Umwelt",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften für Kosmetikprodukte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Vorschriften",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Vorschriften, die EU-Anforderungen erfüllen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften, die nur nationale Anforderungen erfüllen (EU-intern)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Vorschriften, die EU-externe Anforderungen erfüllen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Produkte auf Blutbasis",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Monoklonale Antikörper nur im Aszites-Verfahren",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Monoklonale und polyklonale Antikörper (ausgenommen im Aszites-Verfahren)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Andere Produkte",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

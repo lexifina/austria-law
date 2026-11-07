@@ -1,0 +1,3 @@
+Verordnung des Bundeskanzlers, mit der Gruppen- und Abteilungsleiterfunktionen festgelegt werden, denen eine besonders wichtige Aufgabenstellung zukommt StF: [BGBl. II Nr. 166/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_166_2/2000_166_2.pdf>)
+
+Auf Grund des § 9 Abs. 3 des Bundesgesetzes über die Zahl, den Wirkungsbereich und die Einrichtung der Bundesministerien (Bundesministeriengesetz 1986), [BGBl. Nr. 76/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_76_0/1986_76_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 16/2000](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2000_16_1/2000_16_1.pdf>), wird verordnet:

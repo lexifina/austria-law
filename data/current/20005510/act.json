@@ -1,0 +1,89 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20005510",
+  "short_title": "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2006",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006076",
+    "valid_from": "2007-11-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005510&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:31:27.538203+00:00",
+    "response_sha256": "6cf8cf96181a24ce14d4760599e68f214d8bf34cd2eec984c80a747ba57ac141",
+    "snapshot_sha256": "63c9b2ec53e731c22a8fd82685786da08dc6b3bdaf2513ee764b93cc580c599d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "08fef6e4f2cb854197f2b9803b8f7e979cefb14d8edfc6027efdec44f8e30f8b",
+      "sha256": "69dc087cf060a82b4d256e48ea5e9e2996c9cfe281079e60fc073284ca115717",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2006 StF: BGBl. I Nr. 74/2007 (NR: GP XXIII AB 248 S. 35.)"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 74/2007",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/74"
+        },
+        {
+          "text": "AB 248",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/248"
+        },
+        {
+          "text": "S. 35.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/35"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "db130bd91ecebd2554114d6e56ba909a679fa15f70187448f1d9ff1b41ed5c2c",
+      "sha256": "69799c42fe89e8cbfb6238ea822ffc2c859c8f316e0db478fe545a7db6917b21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

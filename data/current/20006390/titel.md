@@ -1,0 +1,3 @@
+Bundesgesetz über die Einrichtung und Organisation des Bundesamts zur Korruptionsprävention und Korruptionsbekämpfung (Gesetz über das Bundesamt zur Korruptionsprävention und Korruptionsbekämpfung - BAK-G) StF: [BGBl. I Nr. 72/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/72>) (NR: GP XXIV [RV 219](<https://www.parlament.gv.at/gegenstand/XXIV/I/219>) [AB 300](<https://www.parlament.gv.at/gegenstand/XXIV/I/300>) [S. 29.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/29>) BR: [8137](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8137>) [AB 8152](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8152>) [S. 774.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/774>))
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,3 @@
+Kundmachung der Bundesministerin für Inneres über den Ausspruch des Verfassungsgerichtshofes, dass die Verordnung „Zusammensetzung der Senate und Geschäftsverteilung, gültig ab 08.08.2005“ der Disziplinarkommission beim Bundesministerium für Inneres, sowie die Überschrift und der erste Absatz der „Zusammensetzung der Senate und Geschäftsverteilung für das Jahr 2006“ der Disziplinarkommission beim Bundesministerium für Inneres gesetzwidrig waren StF: [BGBl. II Nr. 57/2013](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2013/57>) idF [BGBl. II Nr. 15/2014](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/15>) (VFB)
+
+Gemäß Art. 139 Abs. 5 zweiter Satz B-VG und § 60 Abs. 2 (iVm § 61) VfGG iVm § 4 Abs. 1 Z 4 BGBlG, wird kundgemacht:

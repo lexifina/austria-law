@@ -1,0 +1,3 @@
+Bundesgesetz über die Errichtung von Sterbeverfügungen (Sterbeverfügungsgesetz – StVfG) StF: [BGBl. I Nr. 242/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/242>) (NR: GP XXVII [RV 1177](<https://www.parlament.gv.at/gegenstand/XXVII/I/1177>) [AB 1255](<https://www.parlament.gv.at/gegenstand/XXVII/I/1255>) [S. 137.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/137>) BR: [10806](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10806>) [AB 10837](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10837>) [S. 936.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/936>))
+
+Der Nationalrat hat beschlossen:

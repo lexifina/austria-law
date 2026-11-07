@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000448",
+  "short_title": "Kompetenzfeststellung durch den VfGH",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000450",
+    "valid_from": "1968-07-20",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000448&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:30:07.437644+00:00",
+    "response_sha256": "ad78e3074c34b7dd7d104afbe35d74f0bc34c3427645319e9ec622aa13b94446",
+    "snapshot_sha256": "493078d19afe6b5659b492827cd160809b5b752cd9a715291623838115fe054b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79a65e058601eb9aff11b42528e7c6430f6bb677adad3fe6234ffd9c863d96fa",
+      "sha256": "0c759676f296beeb2705884811e937a2e0c5d8ed4c175653f05ccebb4aa2f1c5",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 10. Juli 1968, betreffend die Feststellung des Verfassungsgerichtshofes über die Zuständigkeit zur Regelung von Maßnahmen, die unmittelbar die Sicherstellung der Versorgung der Bevölkerung mit Nahrungsmitteln zum Inhalt haben StF: BGBl. Nr. 273/1968"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 273/1968",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1968_273_0/1968_273_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b58d5d060c7a2ea92ac894f7bcd641640964d1a02f29b39b5f77206c1f44f7cc",
+      "sha256": "26e7b1a6ee34ba0b9d0db830fd46bf525c023e3f1e78697839be860f2e7a9b0d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

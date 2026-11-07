@@ -1,0 +1,94 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20002313",
+  "short_title": "Europäisches Patentübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30002548",
+    "valid_from": "2002-11-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002313&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:44:32.015983+00:00",
+    "response_sha256": "6c738200c29b45b7646c6b6b10c326a8c5e8f9b0bdca90df6fa02c7aa37ddf61",
+    "snapshot_sha256": "619a11d89b538b7b9271a8eefbc7e821dbfda55eba8027349b07f7dfb053e84b",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "da7991ec4c059d518d1c624525ddc8cd747f8256fd4e041e87abfcdc8002b1c5",
+      "sha256": "0e5de445ab8b0fa72e19b6da78773476d65930a26f915accd1d3a48bcd7c8121",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Übereinkommens über die Erteilung Europäischer Patente (Europäisches Patentübereinkommen) StF: BGBl. III Nr. 242/2002"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. III Nr. 242/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_242_3/2002_242_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "324250ac39a3a94b24c150ffeb703c04eb4b8c1b20ad2fd39aa006719f616979",
+      "sha256": "2cb0c13397a5bdf1431e852726b958bd01bb27df4e6e685611672f3d20683600",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 350/1979",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1979_350_0/1979_350_0.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 63/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_63_3/1999_63_3.pdf"
+        },
+        {
+          "text": "BGBl. III Nr. 5/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_5_3/2002_5_3.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

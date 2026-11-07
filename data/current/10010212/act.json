@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10010212",
+  "short_title": "Schutz der für die Landwirtschaft nützlichen Vögel",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11010431",
+    "valid_from": "1933-09-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010212&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:39:37.105262+00:00",
+    "response_sha256": "0989398c1bf6fc67722e6cdce3b75cf39ada634a21e494404e03f52e01a0a125",
+    "snapshot_sha256": "fadbb3d7de7e033ea4e770efc7c37449fac9ee94bbeac853251f5651c1e7f9a1",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "edbe00076b03254d70a1cbdedcb431d6e2e9805dcb8a886a6b63a837474330d6",
+      "sha256": "e2bd8af158d8025a4edad51775753522f2f8bdf89d3b7b49cd8bd4a98aa66443",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 31. August 1933, betreffend den Geltungsbereich des Übereinkommens zum Schutze der für die Landwirtschaft nützlichen Vögel. StF: BGBl. Nr. 395/1933"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 395/1933",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=395/1933&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c12809c992a9a54e77f15ad7925d92bb81507fba0bb9a18512e96a388103d56e",
+      "sha256": "f9a094ba50fa8ed968c4a5fd815eb2cd5564d29b12276fe6c4be9b47d4ee081c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

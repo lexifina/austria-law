@@ -1,0 +1,1 @@
+Übereinkommen zwischen dem Bundesminister für Finanzen der Republik Österreich und dem Finanzministerium der Volksrepublik Ungarn über die steuerliche Behandlung des grenzüberschreitenden Güterverkehrs auf der Straße StF: [BGBl. Nr. 58/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_58_0/1974_58_0.pdf>)

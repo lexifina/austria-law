@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung über die Sommerzeit in den Kalenderjahren 2022 bis 2026 StF: [BGBl. II Nr. 58/2022](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2022/58>) \[CELEX-Nr.: [32000L0084](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0084:DE:HTML>)\]
+
+Auf Grund des § 2 Abs. 1 und 4 des Zeitzählungsgesetzes, [BGBl. Nr. 78/1976](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1976_78_0/1976_78_0.pdf>), in der Fassung des Bundesgesetzes [BGBl. Nr. 52/1981](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1981_52_0/1981_52_0.pdf>), wird, in Umsetzung der Richtlinie 2000/84/EG zur Regelung der Sommerzeit, ABl. Nr. L 31 vom 02.02.2001 S. 21, verordnet:

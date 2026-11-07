@@ -1,0 +1,972 @@
+{
+  "sample_only": false,
+  "included_provisions": 19,
+  "source_provision_count": 19,
+  "schema_version": 1,
+  "gesetzesnummer": "20008929",
+  "short_title": "Bundesstraßen-Lärmimmissionsschutzverordnung",
+  "abbreviation": "BStLärmIV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40164643",
+    "valid_from": "2014-09-03",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008929&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:23:17.279054+00:00",
+    "response_sha256": "1ded6eed264d3ed388b75b939b9a9b2a58435e9edd5ef8171a0acff4bcb31360",
+    "snapshot_sha256": "c47528e5edc063d8f9a39ac442acdb85cc116937b7bbb65a41488485b3cf566d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9274473d92c9c4c6a4101ff5a4396800ebabf32576997eac7eaf12e961a14057",
+      "sha256": "ca8d2a03d350be945a4c884a4b48acb6f61ddcc9a4c110ca0432e7cf8326e0c1",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung der Bundesministerin für Verkehr, Innovation und Technologie über Lärmimmissionsschutzmaßnahmen im Bereich von Bundesstraßen (Bundesstraßen-Lärmimmissionsschutzverordnung – BStLärmIV) StF: BGBl. II Nr. 215/2014"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 11/2026 [CELEX-Nr.: 32021L1226]"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 215/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/215"
+        },
+        {
+          "text": "BGBl. II Nr. 11/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/11"
+        },
+        {
+          "text": "32021L1226",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32021L1226:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 96/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/96"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "10a9ae5e4bd45127264056d2bf2c1c9b61612bd342814d2f8c4cd9fc728f4e6e",
+      "sha256": "e6ada72a0dc310813c4876152934ad107ddd47b5e7a7094a8b3cf30b18999b7e",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 697/1993",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a8980bd6b7e725adb2680ae9c73df2c49b39107035921928090bb173164e2632",
+      "sha256": "0dbac02ff34e9506e915afbc077182af91cf34772726192b0e23e3590cb52ac3",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 96/2013",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2013/96"
+        },
+        {
+          "text": "BGBl. I Nr. 14/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/14"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Lärmindizes",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "02dd44f53dc81bc4bf0d8aa747a6c2b1d6035264c3ea743168ce04011171313c",
+      "sha256": "a0f51012ed682a1957e02ea2a559fbe74d74cc70b0b8a93ab7787aa48cb58d23",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 11/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/11"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Maßgebender Immissionsort",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5a0f58ab562312d50f1f6f2eff334363d6d0e77c596c6e3f96f7890a756e62d",
+      "sha256": "6c7a3c65317ba0b0e706e6783531aa28b71cc67630cb862cd6caf050da24693e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Beurteilungsmaßstab",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0109e69641c5f5a4eb464184462d6dacefa87fb2a0724eff78e2317c6b02648c",
+      "sha256": "6be5032eae16bcfd93f23bc3cb85a4531114b11ae09ea1366815594f76cc7f42",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "2. Abschnitt Regelungen für den betriebsbedingten Schall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "393f545bac4f72c1e33baf5efb74b2850b943df82247a940fcb4c1daf7094d44",
+      "sha256": "b368717f9594a8e273f0acdc3f8524bedf304cbe706640cf0ae63419e4f7dd19",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Lden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lnight",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "45,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Lden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "60,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lnight",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Lden",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "65,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lnight",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Ermittlung und Beurteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b7234df068986b8d05fd9e0858922e9b7e89c2733b2817a5dfd08bd3f591c072",
+      "sha256": "a5effd5e303a60a8df99de1d0bc5c1d1943227c48400af67a07ce84cdc4603e4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Straßenseitige Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f19d04f82c7610cce8ce5b449f5efb1c50048dbb0f76f84f48a01512ffdd632d",
+      "sha256": "638a239865d7aeeaef7e588b8f58c7eda4503de205e9eb417aa920e46ec3176a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Objektseitige Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2d849775a3e60e4752402364850ebd2e46f59a114e01361f547e488c00272793",
+      "sha256": "cd4b71bfbe2eaebb885cb50eca2cf016df0c2c721bce231ea7c696e9a53a2339",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "3. Abschnitt Regelungen für den baubedingten Schall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "919c8c77f8f40958f0caa2a087af470a665073632714174e12ac9a6ae8cfaea1",
+      "sha256": "672bbc1d139fd068607da33aab8128b4bd54f364e053819816b5383ec935fa64",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Lr,Bau,Tag,W",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Abend,W",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Tag,Sa",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Abend,Sa",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Tag,So",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Abend,So",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "50,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Nacht",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "=",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "45,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Gebietsnutzung",
+                "rowspan": 2,
+                "colspan": 1
+              },
+              {
+                "text": "Schwellenwerte in dB",
+                "rowspan": 1,
+                "colspan": 3
+              }
+            ],
+            [
+              {
+                "text": "Tag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abend",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nacht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Mischgebiet mit z. B. Büros, Geschäften, Handel, Verwaltungsgebäuden ohne wesentliche störende Schallemission, Wohnungen, Krankenhäuser sowie Gebiet für Betriebe ohne Schallemission",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Tag,W ≤ 60,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,W ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Nacht ≤ 50,0",
+                "rowspan": 3,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Tag,Sa ≤ 60,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,Sa ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Tag,So ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,So ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gebiet für Betriebe mit gewerblichen und industriellen Gütererzeugungs- und Dienstleistungsstätten",
+                "rowspan": 3,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Tag,W ≤ 65,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,W ≤ 60,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Nacht ≤ 55,0",
+                "rowspan": 3,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Tag,Sa ≤ 60,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,Sa ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Lr,Bau,Tag,So ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,So ≤ 55,0",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Tag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Abend",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Nacht",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Werktag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Tag,W ≤ 67,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,W ≤ 60,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Nacht ≤ 55,0 dB",
+                "rowspan": 3,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Samstag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Tag,Sa ≤ 60,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,Sa ≤ 55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Sonntag",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Tag,So ≤ 55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Lr,Bau,Abend,So ≤ 55,0 dB",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": true
+        }
+      ]
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Ermittlung und Beurteilung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "86688fb1ecfd0636a1f73dc283390380729b189a4c3543ec1c91a2ec4e9f62fc",
+      "sha256": "be071b54f193cd011c71dedc2444e2fcfe94bc4a7571a5d301624bf35f370fd9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Minderungsmaßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8bbb88297632e3b36d0e58adc7516f71ff9813aff38a2ede42771e2bb91fdb08",
+      "sha256": "9a2225e8872f6affac36d5375183d62c5e3960cf13dd8dd33b2e0fd9c2e75836",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Objektseitige Maßnahmen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "36c00c48a94be8ec7a485d18350e185b32fed80595fb3946c28ce0089c2b9f66",
+      "sha256": "6b8ac0a40493c7353431fc080571c73067f019a2e58ed1a7b9bcb033ada6f804",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "4. Abschnitt Gemeinsame Bestimmungen für betriebs- und baubedingten Schall",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8f46c3778ff3060620441673232a147c21587e5d5f49e670ffe1f8f4498ea621",
+      "sha256": "bde507fa6fe3fbcfeaabc4f71e604fa5d63591e7b16b8bd814cd53fbf1af0ce9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 15",
+      "source_heading": "Sprachliche Gleichbehandlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 15,
+        "stable_identity": false
+      },
+      "file": "par-0015.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9e84468baa7dc6849336e14238024dbd3e32fff65419fa6bb4821bb01fa50ba5",
+      "sha256": "9e9865378939fdaca4e037c842a29cca74bdf902c3f597432ae04765b1c7670d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 16",
+      "source_heading": "Inkrafttretens- und Übergangsbestimmung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 16,
+        "stable_identity": false
+      },
+      "file": "par-0016.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7e15a0db35260206c26f5a5dfbb90ed2cf22a4309537974bbc052c01a16325cf",
+      "sha256": "3ef6438ec1e28b05fa55f4c62c1de7f33fb9b41febb402798bfac5f91db455bf",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 11/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/11"
+        },
+        {
+          "text": "BGBl. II Nr. 11/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/11"
+        },
+        {
+          "text": "BGBl. II Nr. 215/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2014/215"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "ÖAL-Richtlinie Nr. 28",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 17,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2483b0393c0e5bb84dd1dbeb1f0657ea6403b9a38e7e458c2d33d81bf9801b09",
+      "sha256": "a10de30332b60d9b08c0e269f6ab4a794bcccb41d1529e509eaa78d64b2a7443",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40275205/II_11_2026_Anlage_1.pdf",
+              "title": "PDF-Dokument: Anlage",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40275205/II_11_2026_Anlage_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "BERECHNUNG VON SCHALLEMISSIONEN UND LÄRMSCHUTZ Auszug aus RVS 04.02.11",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 18,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e9d1c166178d505b55dd4d7a07c8b24c7f981887b0de653cb38fc76fca5a6158",
+      "sha256": "1acce99e15bf6ee1c2d8c574dddbd127a1d3689158118eff8d36d0eb8dafc920",
+      "notes": [
+        {
+          "kind": "Begleitende Dokumente",
+          "text": "Anlagen Anlage 2",
+          "attachments": [
+            {
+              "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40275207/II_11_2026_Anlage_2.pdf",
+              "title": "PDF-Dokument: Anlage 2",
+              "status": "linked_only"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40275207/II_11_2026_Anlage_2.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

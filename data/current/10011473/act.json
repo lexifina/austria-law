@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10011473",
+  "short_title": "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P2",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11011738",
+    "valid_from": "1974-08-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011473&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:57:34.931754+00:00",
+    "response_sha256": "c4f84f1660fe6d8db52b013f46a8dfa4a3634b41e5381528705883fda97b7d65",
+    "snapshot_sha256": "bcd9b70a7ed7f64e93d160722cfeea5daf9f9393bf7107d70d61722e640ef957",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4110eac39edd844dcc5bf52e5b82a1a8205903ee51b4a49427a74c28481f47dd",
+      "sha256": "0deae4494cf1a8be5e6661767113bc4acfb7adbb5067d586b1348949fa48d2a8",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzlers vom 9. Juli 1974 betreffend den Geltungsbereich des Protokolls über eine Abänderung des Abkommens über die Internationale Zivilluftfahrt vom 21. Juni 1961 StF: BGBl. Nr. 484/1974"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 484/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_484_0/1974_484_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0415d9c07c063302239646d3568fe944750265f184b66f1d97e810a09aa3c38a",
+      "sha256": "8e7a4ed6c5f20b7cf827bab8def08ad63664c96ed9efa343a1e47dc4551fbad4",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 286/1962",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1962_286_0/1962_286_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 245/1971",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1971_245_0/1971_245_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Bildung und Frauen über die Anzahl der für Vertragsbedienstete im Pädagogischen Dienst vorzusehenden Verwendungen gemäß § 46a Abs. 7 VBG und § 19 Abs. 7 LVG StF: [BGBl. II Nr. 370/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2015/370>)
+
+Auf Grund des § 46a Abs. 7 des Vertragsbedienstetengesetzes 1948 – VBG, [BGBl. Nr. 86/1948](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1948_86_0/1948_86_0.pdf>), und des § 19 Abs. 7 des Landesvertragslehrpersonengesetzes 1966 – LVG, [BGBl. Nr. 172/1966](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1966_172_0/1966_172_0.pdf>), jeweils zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 65/2015](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/65>), wird verordnet:

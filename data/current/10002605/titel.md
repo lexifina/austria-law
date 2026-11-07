@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 13. September 1983 betreffend die Bezeichnungen, die Abkürzung der Bezeichnungen und das Emblem der Internationalen Organisation für Fernmeldesatelliten (INTELSAT) StF: [BGBl. Nr. 493/1983](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1983_493_0/1983_493_0.pdf>)

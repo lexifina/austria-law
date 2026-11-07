@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20004762",
+  "short_title": "Handels- und Schiffahrtsvertrag",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30005195",
+    "valid_from": "1926-07-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004762&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:19:25.792772+00:00",
+    "response_sha256": "e996ad9d1617bb64b10d14c553ff601f8c97c0fb778dc854249992589db87f10",
+    "snapshot_sha256": "9b100741fe82df66bbec2b4dd52abed742a2bef37661f1baa99e1c9a03e9be54",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0c3b5244100d4350ab01a7a79af971d8fecccfe91eb5f9e6ed5779410fd3ebb3",
+      "sha256": "1560d48a34f4b70d755f8098e7ecf2d30442b0f8deeca380a5b955717ada8506",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 9. Juli 1926 über den Beitritt britischer Kolonien und Protektorrate zum Handels- und Schiffahrtsvertrag zwischen Österreich und Großbritannien vom 22. Mai 1924, B. G. Bl. Nr. 80 von 1925. StF: BGBl. Nr. 172/1926"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 172/1926",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=172/1926&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a302ba2d5df066642a5e3875ecf3c666b5a2177a1868259af00202a04f02d292",
+      "sha256": "aa623cdb26b566f345bd3540e5b7c9b2d4e05ded591fa525a81b9dec348dbb9a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

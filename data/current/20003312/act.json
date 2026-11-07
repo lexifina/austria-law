@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20003312",
+  "short_title": "VfGH-Aufhebung V der BMAGS",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30003611",
+    "valid_from": "2004-04-07",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003312&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:58:39.125566+00:00",
+    "response_sha256": "6b5572c6a3aa14df278988e63011207a559481e942308816dabe8daf450c4c6d",
+    "snapshot_sha256": "a0b16b2eff7350d167b7a65bd9a7076972468d4cb31644288fc24bcd746f23a5",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "70802dbe29f674dc14a1e38a97412ee1d70230fb624999672d295ca573f496fa",
+      "sha256": "70d61a0009029d8fd076edceb5f0af7f7aa7d058c9265ddd1e3c33b709959d53",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz über die Aufhebung der als Bescheid bezeichneten Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales vom 28. Oktober 1999, GZ. 21.130/35-2/99, durch den Verfassungsgerichtshof StF: BGBl. II Nr. 157/2004"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 157/2004",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/157"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "6407fb870a123a01b4a80c8d5b86736bee5396fae815dea9fde3e2476ce4460c",
+      "sha256": "fc37b607d0218046b8f086e71286c6b0f90500e6841c83b67383753ed32e0f0c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das neugestaltete Emblem der Europäischen Stiftung für Berufsbildung StF: [BGBl. II Nr. 153/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/153>)

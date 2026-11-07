@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Finanzen betreffend die Kündigung der Vereinbarung zwischen dem Bundesminister für Finanzen der Republik Österreich und dem Minister für Außenhandel der Republik Kuba über die Anerkennung von Bescheinigungen der Handelskammer der Republik Kuba in Ursprungszeugnissen, die für die Anwendung der Vorzugszölle nach dem österreichischen Präferenzzollgesetz erforderlich sind StF: [BGBl. Nr. 255/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_255_0/1994_255_0.pdf>)
+
+Auf Grund des § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht:

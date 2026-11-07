@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Wissenschaft und Forschung vom 28. August 1990 zum Abkommen zwischen der Republik Österreich und dem Königreich der Niederlande über die Anerkennung von Gleichwertigkeiten im Hochschulbereich samt Notenwechsel StF: [BGBl. Nr. 588/1990](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_588_0/1990_588_0.pdf>)
+
+Auf Grund des § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, Abkommen zwischen der Republik Österreich und dem Königreich der Niederlande über die Anerkennung von Gleichwertigkeiten im Hochschulbereich, [BGBl. Nr. 662/1986](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_662_0/1986_662_0.pdf>), wird kundgemacht:

@@ -1,0 +1,3 @@
+Bundesgesetz betreffend die vergleichsweise Bereinigung des Vollzuges des Bundespflegegeldgesetzes für die Jahre 1993 bis 2009 StF: [BGBl. I Nr. 111/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/111>) (NR: GP XXIV [RV 981](<https://www.parlament.gv.at/gegenstand/XXIV/I/981>) [AB 1026](<https://www.parlament.gv.at/gegenstand/XXIV/I/1026>) [S. 90.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/90>) BR: [8437](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8437>) [AB 8439](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8439>) [S. 792.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/792>)) \[CELEX-Nr.: [32010L0012](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32010L0012:DE:HTML>)\]
+
+Der Nationalrat hat beschlossen:

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das neue Emblem der Internationalen Organisation für Fernmeldesatelliten (INTELSAT) StF: [BGBl. Nr. 825/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_825_0/1993_825_0.pdf>)

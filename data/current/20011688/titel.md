@@ -1,0 +1,3 @@
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 30. September 2021, dass § 1 der Verordnung der Bezirkshauptmannschaft Baden vom 9. April 2020, BNA5-I-20151/007, kundgemacht durch Anschlag an der Amtstafel vom 9. April 2020 bis 4. Mai 2020 gesetzwidrig war StF: [BGBl. II Nr. 460/2021](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2021/460>)
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und gemäß § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, [BGBl. Nr. 85/1953](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_85_0/1953_85_0.pdf>), wird kundgemacht:

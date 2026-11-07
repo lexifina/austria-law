@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001992",
+  "short_title": "Registrierungen beim Urheberrechtsbüro der USA",
+  "abbreviation": null,
+  "instrument_type": "Vertrag – USA",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002015",
+    "valid_from": "1960-10-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001992&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:55:53.181152+00:00",
+    "response_sha256": "c2f28777c4030770b10c743ade89e1a25163d4fb3abca2c708c3398575d637a5",
+    "snapshot_sha256": "6f9af4a878c399094abb9305d667655d9ee3916a9487c3ce1728dfd3f5f77b56",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f91fd86dff95454c530aad9ec610ef46a91e5294f21e50ad036718f5380394bd",
+      "sha256": "4541f7b60d2dffb399157fd83a7bd809dfcbd2576a3dcd50a0cab611ceeeca32",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel zwischen der Bundesregierung der Republik Österreich und der Regierung der Vereinigten Staaten von Amerika über die nachträgliche Zulassung von Registrierungen beim Urheberrechtsbüro der Vereinigten Staaten von Amerika. StF: BGBl. Nr. 188/1960"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 188/1960",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1960_188_0/1960_188_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "eb387c2874561aa95305f2c65043e7f2e93fe0e2717491b572d997fa95238716",
+      "sha256": "5c13408a820e40f38fff86fcc2e0fcd13c3dc2e05a17b2200e0617039f7cd3ad",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 111/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=111/1936&SkipToDocumentPage=True"
+        },
+        {
+          "text": "BGBl. Nr. 111/1936",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=111/1936&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

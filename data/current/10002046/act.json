@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002046",
+  "short_title": "Haager Unterhaltsstatutübereinkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002069",
+    "valid_from": "1963-07-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002046&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:57:03.139095+00:00",
+    "response_sha256": "d583a302a6739eedd8800087931d8e1a70bc587ce2a2d7275ab353dcfc70ee2e",
+    "snapshot_sha256": "393c0fef38db81ea0e19897b25f5c1c823d464c9f9fbf29409c59e7bf3920f7d",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "646366891ca79523c881cc36aeb2e1568f83aa99d858ed9b333218a98fdbb06a",
+      "sha256": "aadcd75a7169cd1ffdbbfc4858cd90c1858e4637969e1b65d1994c610dc8b71b",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 18. Juni 1963, betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht durch Frankreich. StF: BGBl. Nr. 152/1963"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 152/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_152_0/1963_152_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "0cfe08d0537eb0dbc23e46860cd8f33d0a17af140a811135f834fe443f5c0f1c",
+      "sha256": "3bd50f4bb50ede55ee485fc5fcd44916e798b19fd2ba70e613bfd438344d27ef",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 293/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_293_0/1961_293_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 98/1963",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1963_98_0/1963_98_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

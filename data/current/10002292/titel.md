@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 1. Feber 1974 betreffend Zeichen der Europäischen Freihandelsassoziation und der Assoziation zwischen deren Mitgliedern und Finnland StF: [BGBl. Nr. 115/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_115_0/1974_115_0.pdf>)

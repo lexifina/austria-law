@@ -1,0 +1,90 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10000357",
+  "short_title": "Schutz der Opfer des Krieges",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11000358",
+    "valid_from": "1961-05-06",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000357&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:28:09.137250+00:00",
+    "response_sha256": "4e02a16ce54e73ea15a636f5df2afe5a33d054baf734fc91d44002c11cb79ad9",
+    "snapshot_sha256": "29745ff39d18c935d699387169985dabc3d754bd406b1607aaf5c5f11e2573ac",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4ab90959ea2cfafb0d8ed3ccdffa5e6a355c35c3af5e9fd06d002674a8b1eb25",
+      "sha256": "b4284f6e3a4d6c503f22804cd2fbd9d08a11bd1549dd0419637b2c1a6ee1f79c",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundeskanzleramtes vom 7. April 1961 über die eine Erklärung der Republik Kongo (Leopoldville) zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: BGBl. Nr. 113/1961"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 113/1961",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1961_113_0/1961_113_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ffb23935ff6320010231ae0166412d68699b28e21f5481475cf7b2ba547ba13d",
+      "sha256": "a4b7c7bbd6fa03bc566ca8b155e35a3068e3bb6ae378fea83f019fd7cb08ef3b",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 155/1959",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1959_155_0/1959_155_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 155/1953",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1953_155_0/1953_155_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

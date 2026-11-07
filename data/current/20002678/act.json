@@ -1,0 +1,402 @@
+{
+  "sample_only": false,
+  "included_provisions": 14,
+  "source_provision_count": 14,
+  "schema_version": 1,
+  "gesetzesnummer": "20002678",
+  "short_title": "Steuerstatistik-Verordnung",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40227322",
+    "valid_from": "2020-11-14",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002678&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T17:50:48.206716+00:00",
+    "response_sha256": "c3c730207227e9fb0c96c091fa20288d3ea485323d2aa493c2ec965023f9385f",
+    "snapshot_sha256": "666fdf6127dabcfd83387e7b372fa1139894effb439dd327ea36e4f223a60d75",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "414a0c03d402d99693389abdaa94820f145434c9e3d0c95c7f2164a454d2e724",
+      "sha256": "ff8641201ba08805905edd0d16f3c443244dc7791429de432621d46a6915ee95",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Finanzen und der Bundesministerin für Arbeit, Familie und Jugend über die Statistik der Lohn-, Einkommen-, Umsatz- und Körperschaftsteuer sowie Transferzahlungen (Steuerstatistik-Verordnung) StF: BGBl. II Nr. 229/2003"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. II Nr. 252/2011 BGBl. II Nr. 477/2020"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 229/2003",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_229_2/2003_229_2.pdf"
+        },
+        {
+          "text": "BGBl. II Nr. 252/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/252"
+        },
+        {
+          "text": "BGBl. II Nr. 477/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/477"
+        },
+        {
+          "text": "BGBl. I Nr. 163/1999",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1999_163_1/1999_163_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 136/2001",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2001_136_1/2001_136_1.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Anordnung der statistischen Erhebungen und Statistiken",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19afdacbe96cb3d3d59cb42dd3230a24e3b8cbbf74479120c54b4cf3d150d9d5",
+      "sha256": "20905941282d8419f0b44d8b18626da5daf5edaa4013def22757948d5d8bf475",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 477/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/477"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Periodizität, Kontinuität, Referenzzeitraum",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a5e1ebb6e1c2f972bbc1fce5427aedf7fc1a74bb55e8b4a0131f0ceda6b0dc6d",
+      "sha256": "a75640019f1ceb2e70b3b99bcb6f310f792ce69123098c61218d70d3c0dae7ea",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Statistische Einheiten, Erhebungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "cd9af6160d045b97a4978e55e61e2af8636684e6429178680ba1cb9b128d53ba",
+      "sha256": "41ac832aaa1cc0253568ca7f9fa9242030c0ade505c62b1da10bbfa7610e8348",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Erhebungsmerkmale",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3f14eae1692098f17c092d8dc99721d7d90b66c0e44df81717d215df698e2843",
+      "sha256": "b40281bf5dffbf42443f6fe7b6e128500da2bcffdbd6cf0cbefc5b692f4a555e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Erhebungsart",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e2c88b1d889e63aa1a5ae82ea4e5dfbad2fede546543291c0b1dd01d09d47581",
+      "sha256": "434c9da80ffbe25960da809450d86935e3b6186e7caa938ab90cfd0f6395d14d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Pflichten der Inhaber von Register- oder Verwaltungsdaten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "65de19a9fe628cd63231dcc0a0fa43983dbd395951356d439aaee2c205ba4800",
+      "sha256": "e65394b57f773bd6db5068138381abec9ec58f977ab2dfabf795a44a1943e2a2",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "§ 7.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "18e26b34f88442eda75d0e5e468dddae8d9706873b6dff5f589428138201a7e4",
+      "sha256": "222428d8e4ee27e890dd6e411fa9e679957f299287eb8778bda1adb33733bfe5",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "§ 8.",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "79c56a03579df3523d8d43437008f449f36c1d5e59c16abccd1a657fb1bcc901",
+      "sha256": "9dc667d40a31cddc28939a320773d986b95db39db1feeeeb5ce30c967330b690",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Datenübermittlung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4118a4d454b49c55e81daafaba741977d875565e9df853bd545f210a7948b6fc",
+      "sha256": "5de904e5d55e878096cff48925bd84f51da18a137938d20232f8254978341a35",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Heranziehung von Daten der Bundesanstalt",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9a032d2952bdc0d2acf7b608a6f7654ac3a751d441ca017febf539eb00694bc0",
+      "sha256": "472ec0726f39471ed321c77eb53fe4a498af358a325a4df352a85f029c055905",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Verweisungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1e87272cea1222d9843d861715938e207ce01da47e1ae036d0dbb5c06ff687f2",
+      "sha256": "17313b887ddb6c31a088429b19dda3332a1ba61ae6a5be0ad714cc3cc87f00ca",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 111/2010",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2010/111"
+        },
+        {
+          "text": "BGBl. Nr. 9/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_9_0/1992_9_0.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 104/2019",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/104"
+        },
+        {
+          "text": "BGBl. I Nr. 33/2006",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/33"
+        },
+        {
+          "text": "BGBl. I Nr. 100/2018",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2018/100"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Inkrafttreten und Übergangsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dc89cc32552ac8a50d869d6550f964c172f1e48b989c816f18bb42262a7a53f1",
+      "sha256": "48c752707efd9fe204158d131b243f56296628f1af17dffa704d3853df7a1912",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 477/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/477"
+        },
+        {
+          "text": "BGBl. II Nr. 252/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/252"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anhang A. Zu erhebende Merkmale für Personen, für die ein Lohnzettel ausgestellt wurde:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aa483935e7dee4b50a6fadef997f3611a4c82a2b1fd534515afede477e5af6fb",
+      "sha256": "5f28badedb87a6a0a780145d70a7d0ff7dfa38c67ea23609e7d554e6796cf021",
+      "notes": [
+        {
+          "kind": "Beachte für folgende Bestimmung",
+          "text": "Ist in der Fassung BGBl. II Nr. 252/2011 für Datenübermittlungen vor dem 1. März 2021 anzuwenden (vgl. § 12 Abs.2)."
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 252/2011",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2011/252"
+        },
+        {
+          "text": "BGBl. II Nr. 477/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2020/477"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

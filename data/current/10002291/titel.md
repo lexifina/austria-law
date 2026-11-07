@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 4. September 1974 betreffend das Zeichen und Siegel, die Bezeichnung und die Abkürzung der Bezeichnung der Weltorganisation für geistiges Eigentum in arabischer Schrift StF: [BGBl. Nr. 609/1974](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_609_0/1974_609_0.pdf>)

@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der A 12 Inntal Autobahn – Anschlussstelle Innsbruck Mitte im Bereich der Stadt Innsbruck StF: [BGBl. II Nr. 71/2005](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2005/71>)
+
+Aufgrund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, in der Fassung des Bundesgesetzes [BGBl. I Nr. 95/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/95>), und des dritten Abschnittes des Umweltverträglichkeitsprüfungsgesetzes (UVP-G 2000), [BGBl. Nr. 697/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_697_0/1993_697_0.pdf>), in der Fassung der Kundmachung [BGBl. I Nr. 84/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/84>), wird verordnet:

@@ -1,0 +1,3 @@
+Verordnung der Bundesregierung vom 19. Dezember 1989, mit der eine Geschäftsordnung für die Kommissionen nach dem Ausschreibungsgesetz 1989 erlassen wird (Geschäftsordnung zum Ausschreibungsgesetz 1989 – AusG-GO) StF: [BGBl. Nr. 635/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_635_0/1989_635_0.pdf>)
+
+Auf Grund der Abschnitte IV bis VI des Ausschreibungsgesetzes 1989 (AusG), BGBl. Nr. 85, und des § 230a des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333, in der Fassung des Bundesgesetzes [BGBl. Nr. 372/1989](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1989_372_0/1989_372_0.pdf>), wird verordnet:

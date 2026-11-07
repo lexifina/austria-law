@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das offizielle visuelle Identifikationszeichen der Französischen Republik für landwirtschaftliche Produkte und Lebensmittel mit kontrollierter Herkunftsbezeichnung, ausgenommen Weine StF: [BGBl. II Nr. 110/2003](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2003_110_2/2003_110_2.pdf>)

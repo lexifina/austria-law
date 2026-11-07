@@ -1,0 +1,3 @@
+Bundesgesetz vom 7. April 1987 über die Änderung der Landesgrenze zwischen dem Land Burgenland und dem Land Steiermark im Bereich des Lafnitzflusses StF: [BGBl. Nr. 159/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_159_0/1987_159_0.pdf>) (NR: GP XVII [RV 18](<https://www.parlament.gv.at/gegenstand/XVII/I/18>) [AB 46](<https://www.parlament.gv.at/gegenstand/XVII/I/46>) [S. 14.](<https://www.parlament.gv.at/gegenstand/XVII/NRSITZ/14>) BR: [AB 3237](<https://www.parlament.gv.at/gegenstand/BR/I-BR/3237>) [S. 486.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/486>))
+
+Der Nationalrat hat beschlossen:

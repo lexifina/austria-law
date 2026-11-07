@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 6. Mai 1972 betreffend die Ratifikation des Übereinkommens über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht vom 24. Oktober 1956 durch die Türkei StF: [BGBl. Nr. 140/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_140_0/1972_140_0.pdf>)

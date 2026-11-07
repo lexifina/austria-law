@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 21. Mai 1964 über die Ratifikation des Zweiten Protokolls zum Allgemeinen Abkommen über die Privilegien und Immunitäten des Europarates durch Belgien. StF: [BGBl. Nr. 121/1964](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1964_121_0/1964_121_0.pdf>)

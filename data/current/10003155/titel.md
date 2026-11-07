@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das (neue) Wappenschild der Republik Ungarn StF: [BGBl. Nr. 731/1993](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1993_731_0/1993_731_0.pdf>)

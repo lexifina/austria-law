@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001217",
+  "short_title": "VfGH-Aufhebung Teile des § 5 RL-BA 1977",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001223",
+    "valid_from": "1992-12-05",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001217&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:43:28.092862+00:00",
+    "response_sha256": "56e48b9b5bf462310db48c757311a22af8903eba3fea7bc40ba005d1c051c008",
+    "snapshot_sha256": "725bcd7b5cb8a9d95f2b3c28bcdb8a2935284383b7a9120cffffc33e8018ae01",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c206f1ee9abd15c4e8e483418cce446110166c0e48ccb78c5cc29c9cc1d85317",
+      "sha256": "e972dd1fbd6db8717f8c73b313768bf2d8ec0824bbd18f7eb9e205c61d96712d",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Justiz über die Aufhebung eines Teiles des § 5 der Richtlinien für die Ausübung des Rechtsanwaltsberufes, für die Überwachung der Pflichten des Rechtsanwaltes und für die Ausbildung der Rechtsanwaltsanwärter (RL-BA 1977) durch den Verfassungsgerichtshof StF: BGBl. Nr. 752/1992"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 752/1992",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_752_0/1992_752_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "19f7d295ea4418e855ece67e01f62c681805649ac4822752ed6169f77f7e926e",
+      "sha256": "7ce5411662a5cc119bb42ae9990ffb4935afabec7ce951249d40cd7aba624c0b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem die Begründung von Vorbelastungen durch den Bundesminister für Wirtschaft, Energie und Tourismus genehmigt wird StF: [BGBl. I Nr. 154/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/154>) (NR: GP XXVII [IA 3656/A](<https://www.parlament.gv.at/gegenstand/XXVII/A/3656>) und [Zu 3656/A](<https://www.parlament.gv.at/gegenstand/XXVII/I/3656>) [AB 2295](<https://www.parlament.gv.at/gegenstand/XXVII/I/2295>) [S. 239.](<https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/239>) BR: [AB 11345](<https://www.parlament.gv.at/gegenstand/BR/I-BR/11345>) [S. 960.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/960>))
+
+Der Nationalrat hat beschlossen:

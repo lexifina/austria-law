@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 27. Juli 1930, betreffend die Hinterlegung der Ratifikationsurkunde der Republik Polen zum Übereinkommen über die Eichung der Binnenschiffe StF: [BGBl. Nr. 250/1930](<https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&amp;Bgblnummer=250/1930&amp;SkipToDocumentPage=True>)

@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10001061",
+  "short_title": "VfGH-Aufhebung Wasserleitungsordnung d. Gemeinde Reith bei Seefeld",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11001064",
+    "valid_from": "1990-05-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001061&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T14:40:45.347464+00:00",
+    "response_sha256": "d8ea5d8210b6537e25b42e06b63ffa93907ef78c66dca89cbaa607c6b4fe1baf",
+    "snapshot_sha256": "8f843afb234c35ae6a1f43d16c0600edbf625868b69d0d3c5d0c270df503e91f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "a0dc08e2895d74a48a5afc107b48d22ca7c63c745b3bc0414832e15e96956c17",
+      "sha256": "4011702298ba4fe86dde346fb09741ad6a2217d9097cee72ce6ed7bff47617e7",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Land- und Forstwirtschaft vom 20. April 1990 über die Aufhebung des § 3 Abs. 2 und des § 9 der Wasserleitungsordnung der Gemeinde Reith bei Seefeld durch den Verfassungsgerichtshof StF: BGBl. Nr. 232/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 232/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_232_0/1990_232_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d1614b0971590d06d4c8d4899927ce1b392d32a3bd5266b759747fd46528c3b5",
+      "sha256": "c6534affb18745277fe672c0c00c7acbb7575f8c15d76d1306b14010268a0e21",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend das Emblem des Prinzen von Wales (ein Staatsemblem des Vereinigten Königreichs) StF: [BGBl. II Nr. 184/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/184>)

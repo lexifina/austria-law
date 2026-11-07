@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "20010372",
+  "short_title": "Verlängerung der Frist zur Geltendmachung von Ansprüchen nach dem Zweiten Rückgabegesetz",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40209164",
+    "valid_from": "1951-11-11",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010372&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T19:54:03.222047+00:00",
+    "response_sha256": "3803b8bbeaf8af59601aed54332019098e60691af8433bf49853c9d627c6ef61",
+    "snapshot_sha256": "401b093c5a748a233b14811002eceb2cb02695e39cf59f53f2d0fbe8ce4b6033",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "4e73d147d7c0269aff3d2576697be3020633cff81ca1623d10963f0a374a6145",
+      "sha256": "7b58f8a6ccf9264bd4bca5b040d43664745ed2bf94ecf1a2deccdb8a45a0fdbc",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministeriums für soziale Verwaltung vom 6. Oktober 1951 über die Verlängerung der Frist zur Geltendmachung von Ansprüchen nach dem Zweiten Rückgabegesetz. BGBl. Nr. 237/1951"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 237/1951",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1951_237_0/1951_237_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f2354fdf81d3bf7b65fc6d31e6db044daf723a8a637e7d16f5fa82635e3ef8f3",
+      "sha256": "8bcbdbc06700a9443f636d9a80bf0f7a7771d30077d2c2be71fc2dbb2b935195",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

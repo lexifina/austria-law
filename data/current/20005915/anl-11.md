@@ -1,0 +1,19 @@
+## ANHANG XI
+
+### Konformität mit der Bauart mit stichprobenartiger Prüfung für Sicherheitsbauteile für Aufzüge
+
+### (Modul C)
+
+1\. Die Überprüfung der Konformität mit der Bauart ist das Verfahren, bei dem der Hersteller der Sicherheitsbauteile oder sein in Österreich, in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums oder in einem anderen gleichgestellten Staat ansässiger Bevollmächtigter sich vergewissert und erklärt, dass die Sicherheitsbauteile der in der EG-Baumusterprüfbescheinigung beschriebenen Bauart entsprechen und die Anforderungen der für sie geltenden Verordnung (bzw. der Aufzüge-Richtlinie) erfüllen sowie dem Aufzug, in den sie sachgemäß eingebaut sind, gestatten, die grundlegenden Sicherheits- und Gesundheitsanforderungen der Verordnung (bzw. der Aufzüge-Richtlinie) zu erfüllen. Der Hersteller der Sicherheitsbauteile oder sein in Österreich, in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums oder in einem anderen gleichgestellten Staat ansässiger Bevollmächtigter bringt an jedem Sicherheitsbauteil die CE-Kennzeichnung an und stellt eine EG-Konformitätserklärung aus.
+
+2\. Der Hersteller der Sicherheitsbauteile trifft alle erforderlichen Maßnahmen, damit der Fertigungsprozess die Übereinstimmung der hergestellten Sicherheitsbauteile mit der in der EG-Baumusterprüfbescheinigung beschriebenen Bauart und mit den für sie geltenden Anforderungen der Verordnung (bzw. der Aufzüge-Richtlinie) gewährleistet.
+
+3\. Der Hersteller der Sicherheitsbauteile oder sein Bevollmächtigter bewahrt eine Kopie der EG-Konformitätserklärung zehn Jahre lang nach Herstellung des letzten Sicherheitsbauteils auf.
+
+Sind weder der Hersteller der Sicherheitsbauteile noch sein Bevollmächtigter in Österreich, in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums oder in einem anderen gleichgestellten Staat ansässig, so fällt diese Verpflichtung zur Bereithaltung der technischen Unterlagen der Person zu, die für das Inverkehrbringen der Sicherheitsbauteile in Österreich, in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums oder in einem anderen gleichgestellten Staat verantwortlich ist.
+
+4\. Eine vom Hersteller der Sicherheitsbauteile gewählte Benannte Stelle führt in beliebigen Abständen stichprobenartige Prüfungen der Sicherheitsbauteile durch oder lässt diese durchführen. Eine von der Benannten Stelle vor Ort entnommene geeignete Probe der fertiggestellten Sicherheitsbauteile wird untersucht; ferner werden geeignete Prüfungen gemäß den in § 5 (Artikel 5 der Aufzüge-Richtlinie) genannten Normen, d.h. den im Anhang XVI aufgeführten harmonisierten Europäischen Normen bzw. den im Anhang XVII aufgeführten österreichischen Normen und technischen Spezifikationen, oder gleichwertige Prüfungen durchgeführt, um die Übereinstimmung der Produktion mit den entsprechenden Anforderungen dieser Verordnung (bzw. der Aufzüge- Richtlinie) sicherzustellen. Stimmen eines oder mehrere der geprüften Sicherheitsbauteile nicht mit diesen überein, so trifft die Benannte Stelle geeignete Maßnahmen.
+
+Die bei der Prüfung der Sicherheitsbauteile zu berücksichtigenden Aspekte werden von allen mit diesem Verfahren befassten Benannten Stellen einvernehmlich unter Berücksichtigung der wesentlichen Merkmale der Sicherheitsbauteile gemäß Anhang IV (Anhang IV der Aufzüge-Richtlinie) festgelegt. Der Hersteller bringt unter der Verantwortlichkeit der Benannten Stelle während des Fertigungsprozesses deren Kennummer an.
+
+5\. Die Unterlagen und der Schriftverkehr in Bezug auf die stichprobenartigen Prüfungen gemäß Nummer 4 sind in einer Amtssprache des Mitgliedstaats, in dem die Benannte Stelle ihren Sitz hat, oder in einer von dieser Stelle akzeptierten Sprache abzufassen.

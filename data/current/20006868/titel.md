@@ -1,0 +1,3 @@
+Bundesgesetz über die Einfuhr und das Verbringen von Arzneiwaren, Blutprodukten und Produkten natürlicher Heilvorkommen (Arzneiwareneinfuhrgesetz 2010 – AWEG 2010) StF: [BGBl. I Nr. 79/2010](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2010/79>) (NR: GP XXIV [RV 773](<https://www.parlament.gv.at/gegenstand/XXIV/I/773>) [AB 852](<https://www.parlament.gv.at/gegenstand/XXIV/I/852>) [S. 74.](<https://www.parlament.gv.at/gegenstand/XXIV/NRSITZ/74>) BR: [AB 8376](<https://www.parlament.gv.at/gegenstand/BR/I-BR/8376>) [S. 787.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/787>))
+
+Der Nationalrat hat beschlossen:

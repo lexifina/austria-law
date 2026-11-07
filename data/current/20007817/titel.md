@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft, Familie und Jugend über den automatisierten Betrieb von Dampfkesseln StF: [BGBl. II Nr. 147/2012](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/147>)
+
+Auf Grund des § 10 Abs. 1 Z 3 des Kesselgesetzes, [BGBl. Nr. 211/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_211_0/1992_211_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 80/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2007/80>), sowie des § 5 Abs. 2 des Dampfkesselbetriebsgesetzes – DKBG, [BGBl. Nr. 212/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_212_0/1992_212_0.pdf>), zuletzt geändert durch [BGBl. I Nr. 96/2009](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/96>), wird verordnet:

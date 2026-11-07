@@ -1,0 +1,3 @@
+Bundesgesetz, mit dem das Bundesgesetz über einen Zweckzuschuss aufgrund der Abschaffung des Zugriffs auf Vermögen bei Unterbringung von Personen in stationären Pflegeeinrichtungen für die Jahre 2019 und 2020 erlassen wird StF: [BGBl. I Nr. 95/2019](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2019/95>) (NR: GP XXVI [AB 689](<https://www.parlament.gv.at/gegenstand/XXVI/I/689>) S. 88. BR: [10236](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10236>) [AB 10248](<https://www.parlament.gv.at/gegenstand/BR/I-BR/10248>) S. [897](<https://www.parlament.gv.at/gegenstand/BR/I-BR/897>).)
+
+Der Nationalrat hat beschlossen:

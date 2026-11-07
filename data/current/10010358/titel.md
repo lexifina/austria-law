@@ -1,0 +1,1 @@
+Verordnung des Bundesministers für Gesundheit und Umweltschutz vom 30. August 1973 über rezeptpflichtige Arzneimittel (Rezeptpflichtverordnung) StF: [BGBl. Nr. 475/1973](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1973_475_0/1973_475_0.pdf>)

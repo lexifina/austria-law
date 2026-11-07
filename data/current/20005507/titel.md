@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Wirtschaft und Arbeit über Emissionserklärung, Anlagenbuch und Befunde (Emissionserklärungsverordnung – EEV) StF: [BGBl. II Nr. 292/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/292>)
+
+Auf Grund der §§ 13 Abs. 2, 14 Abs. 7, 15 Abs. 6 und 17 Abs. 2 des Bundesgesetzes über die integrierte Vermeidung und Verminderung von Emissionen aus Dampfkesselanlagen (Emissionsschutzgesetz für Kesselanlagen – EG-K), [BGBl. I Nr. 150/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/150>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 84/2006](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2006/84>), wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft verordnet:

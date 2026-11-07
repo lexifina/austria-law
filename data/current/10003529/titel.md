@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für wirtschaftliche Angelegenheiten betreffend das Emblem und die Abkürzung der „Asia-Pacific Economic Cooperation“ StF: [BGBl. II Nr. 69/1997](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1997_69_2/1997_69_2.pdf>)

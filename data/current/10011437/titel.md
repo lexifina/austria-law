@@ -1,0 +1,3 @@
+Internationales Übereinkommen von 1960 zum Schutz des menschlichen Lebens auf See StF: [BGBl. Nr. 380/1972](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1972_380_0/1972_380_0.pdf>)
+
+Nachdem die Schlußakte der Internationalen Konferenz von 1960 zum Schutz des menschlichen Lebens auf See: Internationales Übereinkommen 1960 zum Schutz des menschlichen Lebens auf See (Anlage A zur Schlußakte) samt Anhang und den Regeln zur Verhütung von Zusammenstößen auf See (Anlage B zur Schlußakte), welches Vertragswerk also lautet: ...

@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 8. Jänner 1987 betreffend das Emblem, die Flagge, die Bezeichnungen und die Abkürzungen der Bezeichnungen des Zwischenstaatlichen Büros für Informatik StF: [BGBl. Nr. 170/1987](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1987_170_0/1987_170_0.pdf>)

@@ -1,0 +1,86 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10002294",
+  "short_title": "Österreichisch-britisches Rechtshilfeabkommen",
+  "abbreviation": null,
+  "instrument_type": "K (Geltungsbereich)",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002317",
+    "valid_from": "1974-01-30",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002294&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:01:40.103233+00:00",
+    "response_sha256": "db9fd9fddad65d0974d8e53693fc7313f1d255a1cedbe8693a2e4c75bcef6b76",
+    "snapshot_sha256": "3ea0792e0f962a3c5fdac362a041de279a9bc94241bbd347136116289da1fc99",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "409798aa73df9554d32168826e7242c1ca4cb9d5d5baa4fd6e18b11f2964bd98",
+      "sha256": "59ea4c3f0f8739913d8bf1f8bab2cc53a36abbbd9eba1bd76990e5a72ec5e661",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Notenwechsel vom 6. Juni 1973 und 5. Dezember 1973 über die Weitergeltung des Österreichisch-britischen Rechtshilfeabkommens vom 31. März 1931 im Verhältnis zwischen Österreich und Tonga StF: BGBl. Nr. 57/1974"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 57/1974",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1974_57_0/1974_57_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "732caa5ccdf57627b51fa9a42e784041c5b015b0f85ee9d1b8a30011ca2b99d5",
+      "sha256": "aeec3a0de39e6361497ea972200f98cb6b3adc9f8c37ef4830cc809f59b69b2c",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. Nr. 45/1932",
+          "url": "https://ogd.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAlt&Bgblnummer=45/1932&SkipToDocumentPage=True"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

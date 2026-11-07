@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzlers vom 21. Feber 1975 betreffend den Geltungsbereich des Zollabkommens vom 18. Mai 1956 über Behälter StF: [BGBl. Nr. 178/1975](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1975_178_0/1975_178_0.pdf>)

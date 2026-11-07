@@ -1,0 +1,3 @@
+Bundesgesetz vom 10. Dezember 1964 über die Verwendung der zufließenden Mittel aus dem Vertrag zwischen der Republik Österreich und der Rumänischen Volksrepublik zur Regelung offener finanzieller Fragen (Verteilungsgesetz Rumänien) StF: [BGBl. Nr. 71/1965](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1965_71_0/1965_71_0.pdf>) (NR: GP X [RV 541](<https://www.parlament.gv.at/gegenstand/X/I/541>) [AB 571](<https://www.parlament.gv.at/gegenstand/X/I/571>) [S. 67.](<https://www.parlament.gv.at/gegenstand/X/NRSITZ/67>) BR: [S. 222.](<https://www.parlament.gv.at/gegenstand/BR/BRSITZ/222>))
+
+Der Nationalrat hat beschlossen:

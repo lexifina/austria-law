@@ -1,0 +1,1 @@
+Kundmachung des Bundeskanzleramtes vom 30. Mai 1958 über die Ratifikation beziehungsweise den Beitritt weiterer Staaten zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949. StF: [BGBl. Nr. 115/1958](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1958_115_0/1958_115_0.pdf>)

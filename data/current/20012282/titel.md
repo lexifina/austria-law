@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft über die Zuweisung der land- und forstwirtschaftlichen Berufs- und Fachschulen und Leitungsfunktionen zu den Dienstzulagenkategorien für Landesvertragslehrpersonen im Entlohnungsschema pd (PD-Schulleitungs-Zulagenverordnung für land- und forstwirtschaftliche Berufs- und Fachschulen) StF: [BGBl. II Nr. 175/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2023/175>)
+
+Auf Grund des § 21 Abs. 1 des Land- und forstwirtschaftlichen Landesvertragslehrpersonengesetzes, [BGBl. Nr. 244/1969](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1969_244_0/1969_244_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 6/2023](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2023/6>), wird verordnet:

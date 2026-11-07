@@ -1,0 +1,85 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10009723",
+  "short_title": "Gleichwertigkeiten im Hochschulbetrieb",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11009914",
+    "valid_from": "1990-09-19",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009723&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T16:35:51.468312+00:00",
+    "response_sha256": "682ef00cd863a4a886624cb653f821685da9f2def9bc696fdb4d9482244bda66",
+    "snapshot_sha256": "bb1b891de0113e4a15a32590e44e68102b9d40b6e921d8fee14627dc088be477",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "edad72e1ba7b8bb20a0231002d3cac4747095cfb8e059c7198ecddead8477041",
+      "sha256": "4a0352b0932d06ce329c4a82f3a7e64b3909db182dae598a3577ef5b3ee8ea06",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Wissenschaft und Forschung vom 28. August 1990 zum Abkommen zwischen der Republik Österreich und dem Königreich der Niederlande über die Anerkennung von Gleichwertigkeiten im Hochschulbereich samt Notenwechsel StF: BGBl. Nr. 588/1990"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 588/1990",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1990_588_0/1990_588_0.pdf"
+        },
+        {
+          "text": "BGBl. Nr. 662/1986",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1986_662_0/1986_662_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3b23382f627694b6b8e0e4ad5a75f20a90e56250f31885e683c0a5d2fb6df472",
+      "sha256": "02c2f32331d4fd3037649b81bc8f3d259295768450e7406739b6b30cbf95e18f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

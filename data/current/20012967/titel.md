@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur zur Festlegung von Gebühren für die Erbringung der bedarfsgerechten Steuerung der Nachtkennzeichnung von Luftfahrthindernissen (Bedarfsgerechte Nachtkennzeichnung-Gebührenverordnung – BNK-GV) StF: [BGBl. II Nr. 202/2025](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2025/202>)
+
+Auf Grund des § 123a des Luftfahrtgesetzes, [BGBl. Nr. 253/1957](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1957_253_0/1957_253_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 40/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/40>) und die Kundmachung [BGBl. I Nr. 153/2024](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2024/153>), wird verordnet:

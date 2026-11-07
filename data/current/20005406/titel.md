@@ -1,0 +1,1 @@
+Kundmachung des Bundesministers für Verkehr, Innovation und Technologie betreffend den Namen, die Abkürzung und das Emblem des Übereinkommens zum Schutz der Alpen (Alpenkonvention) StF: [BGBl. II Nr. 182/2007](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2007/182>)

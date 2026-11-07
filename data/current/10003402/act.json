@@ -1,0 +1,81 @@
+{
+  "sample_only": false,
+  "included_provisions": 2,
+  "source_provision_count": 2,
+  "schema_version": 1,
+  "gesetzesnummer": "10003402",
+  "short_title": "Errichtung einer Notarstelle in Marchtrenk",
+  "abbreviation": null,
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11003429",
+    "valid_from": "1996-04-13",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003402&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:15:01.546210+00:00",
+    "response_sha256": "0707c683d414012326f59dde0c3ee52d7b265e528561d4e93fc25eb812021d5c",
+    "snapshot_sha256": "37e84983aeec26e73ff556ec315212912324289715d3a160306acfcf93614fdf",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "39e194a3f75db5db4e7abb711843a65912db5e2d518feac6393ebcb6ad6357e0",
+      "sha256": "7be2afc29962db03215360301da198123e71a80e720b4fa582e962004e93dec4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Justiz betreffend die Errichtung einer Notarstelle in Marchtrenk StF: BGBl. Nr. 175/1996"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 175/1996",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1996_175_0/1996_175_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "7c3305f8ae3531af4a5610b83c62a56dc7c1932c9e36aa17cea05c3bd2e34b4b",
+      "sha256": "3a89696ab51b031d35d78b4309274e0cda910449c9202c7d3caad60e154939b6",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

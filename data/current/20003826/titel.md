@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über Maßnahmen der Ausbildung von Diensthunden der Sicherheitsexekutive, des Bundesheeres und der Zollverwaltung (Diensthunde-Ausbildungsverordnung – Diensthunde-AusbV) StF: [BGBl. II Nr. 494/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2004/494>)
+
+Auf Grund des § 5 Abs. 5 Z 2 des Bundesgesetzes über den Schutz der Tiere (Tierschutzgesetz – TSchG), [BGBl. I Nr. 118/2004](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2004/118>) Art. 2, wird im Einvernehmen mit dem Bundesminister für Inneres und dem Bundesminister für Landesverteidigung verordnet:

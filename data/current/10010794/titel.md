@@ -1,0 +1,3 @@
+Verordnung des Bundesministers für Gesundheit, Sport und Konsumentenschutz über tiefgefrorene Lebensmittel StF: [BGBl. Nr. 201/1994](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1994_201_0/1994_201_0.pdf>) \[CELEX-Nr.: [389L0108](<https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0108:DE:HTML>)\]
+
+Auf Grund der §§ 10 Abs. 1 und 19 Abs. 1 des Lebensmittelgesetzes 1975, BGBl. Nr. 86, zuletzt geändert durch das Bundesgesetz [BGBl. Nr. 756/1992](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1992_756_0/1992_756_0.pdf>), wird – hinsichtlich § 6 im Einvernehmen mit dem Bundesminister für wirtschaftliche Angelegenheiten – verordnet:

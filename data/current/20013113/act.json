@@ -1,0 +1,691 @@
+{
+  "sample_only": false,
+  "included_provisions": 15,
+  "source_provision_count": 15,
+  "schema_version": 1,
+  "gesetzesnummer": "20013113",
+  "short_title": "WFA-Klima-Verordnung",
+  "abbreviation": "WFA-KlimaV",
+  "instrument_type": "V",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR40276515",
+    "valid_from": "2026-01-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013113&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T20:52:15.107626+00:00",
+    "response_sha256": "c03940c6aff3a57349a52260175db77fb84782e2b0c79fea9a3e4a4b25fee14c",
+    "snapshot_sha256": "0123f4455cf6a05fda1f2e469551ec3938e8ca01720fda0926a7bc506fdd637f",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "e71e6ab815975109d4b649e59832ea05c4f367713a21b21d4ea0543757c2d23b",
+      "sha256": "90fec40fb82124bd4019b25faa34e183d49ff2a4810e86ca086a4ffa54d846c4",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Verordnung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Abschätzung der Auswirkungen auf das Klima im Rahmen der wirkungsorientierten Folgenabschätzung bei Regelungsvorhaben und sonstigen Vorhaben (WFA-Klima-Verordnung – WFA-KlimaV) StF: BGBl. II Nr. 43/2026"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 43/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/43"
+        },
+        {
+          "text": "BGBl. I Nr. 139/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/139"
+        },
+        {
+          "text": "BGBl. I Nr. 25/2025",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2025/25"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "1. Abschnitt Allgemeine Bestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f0991ea3eaafaa18ce5cc2e4dceb00047ab4cc1e5113835305d2a5d9f919978c",
+      "sha256": "2f6d09bdeda7fd7049d04dd76923824797129be64606376cbcb45f894e1a0299",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "036890a06251f3387af6638874be688bd4b10fdfef4d61ef391f01cf855dbd4f",
+      "sha256": "a7fa71d446e2a1fbd8e7e7446120e1e8566e4efa57f5455892395046a6dd9759",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. II Nr. 489/2012",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2012/489"
+        },
+        {
+          "text": "BGBl. II Nr. 42/2026",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/II/2026/42"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "dbce5bda31f9d65d566526b8649f9263c64e0b360890a18022fc1294ec49ac6c",
+      "sha256": "b1fe7f330c968d661d346fe7848c5cc72ecd79e789bc5d827c64c4e862b1d3e1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "2. Abschnitt Durchführung der Abschätzung der Auswirkungen auf das Klima",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bdb34ce350b21faaefa8258a4b4d4ec5bd9dcc8dd9c09c71a32439401c136d31",
+      "sha256": "5e5580cc008f042680e0a240ee34cd1505dab6e813e519c173da3fc05da6b2bc",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Prüfung der Betroffenheit",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "75e482010b7e719338f0da7549a367db4d00b0f70903b65d9464239f71295f2f",
+      "sha256": "63c2118603e0025f70b4c0b37f0c2aa66f8943404f82c7122a68be18bb5cf4d9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Vereinfachte Abschätzung der Auswirkungen auf das Klima",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "47782e6434473c42739953e34e0e1932222a20221c50439b64cb964fe6d0009a",
+      "sha256": "05283eeba06ba616e894e1d5e289615ca3eb5c0a323bb9f1da75c998309bca6b",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 7",
+      "source_heading": "Vertiefende Abschätzung der Auswirkungen auf das Klima",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0007.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "fb92f77904bdf072da9eba7b372e03b3eb06e66b273079f5cc009a567d8f5ef6",
+      "sha256": "6f381f1b934162909b2a1b4bb99cdd4c4bb63dd06be8a01669294f31dd694a39",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Ergebnisdarstellung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "32263f7838a1666b3801880fffa91a23439f0789da07a3cc80d512ef7af51d35",
+      "sha256": "2d2287b6f3b311e2655200a0b078ec27c3f318a3539cfbaf1744d015ff9426f8",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Zeitpunkt der Durchführung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c254ff5a77efafbaf671c7a46abdc94e4e60d4a1de59fc7f5bbc397ffdb979b5",
+      "sha256": "265e08e8c49028790cfd94234b615051044cbed4963985cb5eefabe2df6171d1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 10",
+      "source_heading": "Klimacheck-Servicestelle und Anwendung methodischer Instrumente",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0010.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2ccefbd70f5144dd51b0d6de0493c1e890409707edfa1771be8125983b648bb7",
+      "sha256": "62b919bc8fd99fcf4ddbbd7894959abd1a00d686c29209e0ebda165ea331fc39",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "3. Abschnitt Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "ba59ef402048e1ec209868538cc92c1546cfda2a5054041213c35f68b42a284c",
+      "sha256": "6ebc400b846a123ba2491fae487dbfd3c229b951956d089d9c0af978c5a51475",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Inkrafttreten",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "8d565b6aceca77fe520e9999370ba0dfe73d02192a1f037c29942a8b2cd5fe39",
+      "sha256": "0cf30a8503c18c030cb44b8beae5c2bc1c94c27459994a2aba547b969f03c488",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": "Anlage 1 zu § 6 Vereinfachte Abschätzung der Auswirkungen auf das Klima Die Abschätzung umfasst die Beantwortung der folgenden Fragen:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "2b057fc12f934de53c6d64349eed8826867f4aeaa52d79c5c86c5b8d04f4dafe",
+      "sha256": "548e169e47a9d263e195283c98c51205643d850c158d2d731f3b4c793bb6e738",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Wirkungsdimension Klima",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Fragen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Treibhausgase",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hat das Vorhaben Auswirkungen auf die zukünftigen Treibhausgasemissionen oder die Kohlenstoffspeicherung in Österreich?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Anpassungsfähigkeit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Hat das Vorhaben Auswirkungen auf die Fähigkeit von Umwelt, Gesellschaft, Arbeitswelt und Wirtschaft sich gegenüber den Folgen des Klimawandels anzupassen? (zB: Hitze, Trockenheit, Überschwemmungen, Extremwetterereignisse)",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    },
+    {
+      "designation": "Anl. 2",
+      "source_heading": "Anlage 2 zu § 7 Vertiefte Abschätzung der Auswirkungen auf das Klima Die Abschätzung der zukünftigen Treibhausgasemissionen und Kohlenstoffspeicherung umfasst die Beantwortung der folgenden Fragen:",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 14,
+        "stable_identity": false
+      },
+      "file": "anl-2.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bdaf10169f498902c3bcc336291e41eb9e304ff9ad8e962352293edcba619aee",
+      "sha256": "19bf9c7b7ed78ab7aa6614358f896e3195ddcfc344fc5f73e3ee7db0ab2c3d4c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": [
+        {
+          "cells": [
+            [
+              {
+                "text": "Treibhausgase",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "a) Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die zukünftigen Treibhausgasemissionen oder die Kohlenstoffspeicherung entsprechend der österreichischen Treibhausgasinventur in jedem einzelnen der nächsten fünf Jahre ab Realisierung des Vorhabens in Tonnen Kohlenstoffdioxid-Äquivalent? b) Wie verteilen sich diese Auswirkungen auf die jeweiligen Sektoren der nationalen Treibhausgasinventur? c) Was sind die zentralen Treiber (Verursacher) der Auswirkung auf die Treibhausgasemissionen oder die Kohlenstoffspeicherung? d) Welche Auswirkungen hat das Vorhaben auf die zukünftigen Treibhausgasemissionen oder die Kohlenstoffspeicherung, die nicht von der österreichischen Treibhausgasinventur umfasst sind? e) Welche Treibhausgas „Lock-in“ Effekte entstehen oder werden durch das Vorhaben verstärkt?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        },
+        {
+          "cells": [
+            [
+              {
+                "text": "Aktivitätsfelder",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Vertiefende Fragen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Unterstützende Fragen",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Landwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit der Landwirtschaft bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit der Landwirtschaft beispielsweise im Zusammenhang mit: a) dem Wasserverbrauch oder -bedarf in der Landwirtschaft und kann es auf Grund der Folgen des Klimawandels (zB Hitze, Trockenheit) zu Nutzungskonflikten um die Ressource Wasser führen? b) Erosion und Bodenverdichtung bzw. auf die Bodenqualität? c) der Wasserhaltekapazität und damit auf die Stärkung bzw. Schwächung der Widerstandsfähigkeit gegenüber den Folgen des Klimawandels? d) dem Biodiversitätsverlust bzw. das Auftreten invasiver Arten? e) Naturgefahren, wie etwa Überflutungen, Hagel oder Dürre, oder das Auftreten neuer Krankheitserreger in der Tierhaltung?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Forstwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit der Forstwirtschaft bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit der Forstwirtschaft bezüglich den Folgen des Klimawandels beispielsweise im Zusammenhang mit: a) Erosion und Bodenverdichtung bzw. Bodenqualität? b) der Wasserhaltekapazität und damit auf die Stärkung bzw. Schwächung der Widerstandsfähigkeit gegenüber den Folgen des Klimawandels? c) dem Biodiversitätsverlust bzw. Auftreten invasiver Arten? d) Naturgefahren wie etwa Überflutungen, Dürre, Brände bzw. Auswirkungen auf die Schutzfunktion des Waldes vor Naturgefahren?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Wasserwirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit der Wasserwirtschaft bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit der Wasserwirtschaft beispielsweise im Zusammenhang mit: a) dem Wasserverbrauch und kann es auf Grund der Folgen des Klimawandels (zB Hitze, Trockenheit) zu Nutzungskonflikten um die Ressource Wasser führen oder derartige Nutzungskonflikte verstärken (zB durch Bewässerung)? b) der sicheren Wasserversorgung und Trinkwasserversorgung insbesondere auch in Notfallzeiten (zB Dürre)? c) der nachhaltigen Bewirtschaftung von Gewässern und die Sicherung von Quellen und Grundwasserkörpern?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Tourismus",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit des Tourismus bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit des Tourismus beispielsweise im Zusammenhang mit: a) klimawandelbedingten Veränderungen im Wintertourismus wie etwa Abnahme der Frosttage, Rückgang der Schneesicherheit oder Gletscherschmelze? b) klimawandelbedingten Veränderungen im Sommertourismus wie etwa Anstieg der Hitzetage, längere Saisonen oder Anstieg der Wassertemperaturen? c) den Sicherheitsgefährdungen von Besucherinnen und Besuchern wie etwa durch Steinschlag, Hangrutschungen, Hitze oder andere Naturgefahren?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Energie",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit des Energiesektors bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit des Energiesektors beispielsweise im Zusammenhang mit: a) klimawandelbedingten Veränderungen wie etwa Niederwasserperioden? b) der Sicherheit von Energieinfrastrukturen gegenüber Extremwetterereignissen und Naturgefahren? c) dem veränderten Energiebedarf (Abnahme der Heizgradtage, dafür Zunahme des Kühlenergiebedarfs)?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Bauen und Wohnen",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit von Gebäuden, insbesondere Wohnraum bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit von Gebäuden, insbesondere Wohnraum beispielsweise im Zusammenhang mit: a) zunehmenden Hitzetagen und Tropennächten? b) zunehmenden Naturgefahren bzw. Extremwetterereignissen?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Schutz vor Naturgefahren",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf den Schutz vor Naturgefahren und Extremwettereignissen?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Krisen- und Katastrophenmanagement",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf das Krisen- und Katastrophenmanagement?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf das Krisen- und Katastrophenmanagement beispielsweise im Zusammenhang mit: a) Kapazitäten von Einsatzorganisationen sowie von Gesundheitsversorgung während oder nach einer Naturkatastrophe? b) der Infrastruktur zur Bewältigung einer Naturkatastrophe, wie zB Straßen zur Erreichbarkeit eines Katastrophengebiets oder der Abwasser- und Kanalisationssysteme? c) der Sicherheit von kritischer Infrastruktur bei Naturkatastrophen?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Gesundheit",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die physische und psychische Gesundheit von Menschen bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben beispielsweise auf: a) die Hitzeanfälligkeit durch Anstieg der Hitzetage bzw. Verlängerung von Hitzeperioden? b) die Anfälligkeit auf verstärkte Ausbreitung von allergenen Tier- und Pflanzenarten sowie von Krankheitsüberträgern und Infektionskrankheiten und das damit im Zusammenhang stehende Risiko für die menschliche Gesundheit? c) die Gesundheitsversorgung der Bevölkerung während und nach extremen Wetterereignissen/Naturkatastrophen?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Ökosysteme",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit von Ökosystemen bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit von Ökosystemen beispielsweise im Zusammenhang mit: a) dem Erhalt oder Erweiterung, Verlust, Verkleinerung oder Zerschneidung von Ökosystemen und damit auf die Stärkung bzw. Schwächung der Widerstandsfähigkeit gegenüber den Folgen des Klimawandels? b) der Biodiversität und damit auf die Stärkung bzw. Schwächung der Widerstandsfähigkeit gegenüber den Folgen des Klimawandels? c) der Versorgung mit natürlichen Rohstoffen, die Bodenqualität oder das Wasserdargebot?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Verkehr",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit des Verkehrssektors und der Mobilität bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit vom Verkehrs- und Mobilitätssektor beispielsweise im Zusammenhang mit: a) der Sicherheit von Verkehrsinfrastrukturen gegenüber zunehmenden Naturgefahren und Extremwetterereignissen? b) dem Schutz von Fahrgästen, Personal und Verkehrsteilnehmern vor Naturgefahren?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Raumordnung",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit von Bereichen der Raumordnung bezüglich den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben beispielsweise auf: a) Nutzungskonflikte von Fläche (zum Beispiel Raumnutzungsansprüche zwischen Energieinfrastruktur, Biodiversität, Retentionsflächen etc.)? b) natürliche Bodenfunktionen und damit auf die Stärkung bzw. Schwächung der Widerstandsfähigkeit gegenüber den Folgen des Klimawandels? c) den Schutz von Siedlungsraum vor Naturgefahren?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Arbeit und Wirtschaft",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit der Wirtschaft sowie der Arbeitswelt gegenüber den Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit der Wirtschaft beispielsweise im Zusammenhang mit: a) Arbeitsbedingungen und -sicherheit bei Hitze? b) der Sicherheit von Wertschöpfungsketten gegenüber den Folgen des Klimawandels? c) der Sicherheit von betrieblicher Infrastruktur gegenüber Extremwetterereignissen und Naturgefahren?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ],
+            [
+              {
+                "text": "Städte",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anpassungsfähigkeit oder die Anfälligkeit von Städten und urbanen Gebieten bezüglich der Folgen des Klimawandels?",
+                "rowspan": 1,
+                "colspan": 1
+              },
+              {
+                "text": "Welche spezifischen Auswirkungen hat das Regelungsvorhaben oder das sonstige Vorhaben auf die Anfälligkeit oder Anpassungsfähigkeit von Städten beispielsweise im Zusammenhang mit: a) der Hitzeanfälligkeit, insbesondere durch Zunahme der Hitzetage und Tropennächte? b) Veränderungen der urbanen Pflanzen- und Tierwelt und Ausbreitung von invasiven Arten? c) dem Risiko von Naturgefahren und Extremwetterereignissen in urbanen Gebieten, insbesondere Starkregenereignissen?",
+                "rowspan": 1,
+                "colspan": 1
+              }
+            ]
+          ],
+          "merged_cells": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "sample_only": false,
+  "included_provisions": 3,
+  "source_provision_count": 3,
+  "schema_version": 1,
+  "gesetzesnummer": "10002416",
+  "short_title": "Emblem, Siegel, Bezeichnung - CERN",
+  "abbreviation": null,
+  "instrument_type": "K",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR11002439",
+    "valid_from": "1978-02-01",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002416&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T15:03:42.373309+00:00",
+    "response_sha256": "9044cd37e851ce949ef7d0a1d12a355ac6067703f0221b039a1890fdb62d9e2e",
+    "snapshot_sha256": "c2dad88e07f8ceb9d1f0fa808aa5439d75e006f4b4e244b4f73d08cf9f65c805",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bcb2f728f23ff6b9da658e3f23e9f04a675e73e41bddc74a0da35c505ff7e005",
+      "sha256": "eee5ddc41b345da181ff497e9444eb5f9b15e5a776a22d32217e75f0813e260f",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 20. Dezember 1977 betreffend die Bezeichnung, das Siegel und das Emblem der Europäischen Organisation für Kernforschung (CERN) StF: BGBl. Nr. 64/1978"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. Nr. 64/1978",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1978_64_0/1978_64_0.pdf"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Art. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "art-001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "bf6986c38ed1f597c42afe7d2e813a2e9250ae92582bc8b4a2297eb174c833e1",
+      "sha256": "32248c3cb865ab66d59fba99dfbff066005778d77554b5ab4e01710ccab0c09c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "Anl. 1",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "anl-1.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "491a3c81d566ca12dfa99852e68c0591e88bb0d3986ffc54ec894d6022760772",
+      "sha256": "e87d043b91f56d0918c8749437892cdc1aad95a77da93f4aaaae2172ed111358",
+      "notes": [],
+      "links": [],
+      "images": [
+        {
+          "url": "https://ogd.ris.bka.gv.at/~/Dokumente/Bundesnormen/NOR12031246/image001.jpg",
+          "alt": "",
+          "status": "linked_only"
+        }
+      ],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

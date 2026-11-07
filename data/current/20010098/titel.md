@@ -1,0 +1,3 @@
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) über Inhalte von Zwischenberichten, Meldungen über Änderungen bedeutender Beteiligungen und die Gleichwertigkeit von vorgeschriebenen Informationen aus Drittländern (Transparenz-Verordnung 2018 – TransV 2018) StF: [BGBl. II Nr. 392/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/II/2017/392>)
+
+Auf Grund des § 122 Abs. 10 Z 1 und 5, des § 125 Abs. 5 Z 3, des § 134 Abs. 5 und des § 136 Z 2 bis 6 des Börsegesetzes 2018 – BörseG 2018, [BGBl. I Nr. 107/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/107>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 149/2017](<https://ogd.ris.bka.gv.at/eli/bgbl/I/2017/149>), wird verordnet:

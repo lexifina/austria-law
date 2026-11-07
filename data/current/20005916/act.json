@@ -1,0 +1,521 @@
+{
+  "sample_only": false,
+  "included_provisions": 14,
+  "source_provision_count": 14,
+  "schema_version": 1,
+  "gesetzesnummer": "20005916",
+  "short_title": "KWK-Gesetz",
+  "abbreviation": null,
+  "instrument_type": "BG",
+  "snapshot_as_of": "2026-11-01",
+  "scope": "Current RIS display; no amendment history reconstructed.",
+  "title_record": {
+    "ris_id": "NOR30006588",
+    "valid_from": "2008-08-09",
+    "valid_to": null,
+    "validity_status": "within_recorded_dates",
+    "notes": null
+  },
+  "source": {
+    "url": "https://ogd.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005916&FassungVom=2026-11-01",
+    "retrieved_at": "2026-11-01T18:37:38.914022+00:00",
+    "response_sha256": "7958945448dae736c2611103f81e5fe6b409aeff95e43d9fba9444cb511cb198",
+    "snapshot_sha256": "65f8723147cc492c9876e7018084f92dfab9f303656160b947771b646b3351ce",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt",
+    "license": "CC-BY-4.0"
+  },
+  "provisions": [
+    {
+      "designation": "§ 0",
+      "source_heading": null,
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 0,
+        "stable_identity": false
+      },
+      "file": "titel.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "3117a6d0bbfe10cb8b99a49554cca6e2747bccf0e5a8f0fd358eb80ea6fbd26f",
+      "sha256": "77b46f961ef6066f3504d6457a30abd5f56037678609153fb9c8569f4d9082b3",
+      "notes": [
+        {
+          "kind": "Langtitel",
+          "text": "Bundesgesetz, mit dem Bestimmungen auf dem Gebiet der Kraft-Wärme-Kopplung neu erlassen werden (KWK-Gesetz) StF: BGBl. I Nr. 111/2008 (NR: GP XXIII RV 554 AB 644 S. 65. BR: AB 7988 S. 759.) [CELEX-Nr.: 32003L0054. 32004L0008]"
+        },
+        {
+          "kind": "Änderung",
+          "text": "BGBl. I Nr. 13/2009 (K über Idat) BGBl. I Nr. 72/2014 (NR: GP XXV RV 182 AB 205 S. 36. BR: 9204 AB 9222 S. 832.) [CELEX-Nr.: 32009L0028, 32009L0072, 32012L0027] BGBl. I Nr. 27/2015 (K über Idat) BGBl. I Nr. 24/2020 (NR: GP XXVII IA 403/A AB 116 S. 22. BR: AB 10292 S. 905.) BGBl. I Nr. 12/2021 (NR: GP XXVII RV 476 AB 594 S. 69. BR: AB 10509 S. 916.)"
+        },
+        {
+          "kind": "Umsetzungshinweis für folgende Bestimmung",
+          "text": "CELEX-Nr.: 32023L1791"
+        }
+      ],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 111/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/111"
+        },
+        {
+          "text": "RV 554",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/554"
+        },
+        {
+          "text": "AB 644",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/I/644"
+        },
+        {
+          "text": "S. 65.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXIII/NRSITZ/65"
+        },
+        {
+          "text": "AB 7988",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/7988"
+        },
+        {
+          "text": "S. 759.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/759"
+        },
+        {
+          "text": "32003L0054",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0054:DE:HTML"
+        },
+        {
+          "text": "32004L0008",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0008:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 13/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/13"
+        },
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        },
+        {
+          "text": "RV 182",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/182"
+        },
+        {
+          "text": "AB 205",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/I/205"
+        },
+        {
+          "text": "S. 36.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXV/NRSITZ/36"
+        },
+        {
+          "text": "9204",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9204"
+        },
+        {
+          "text": "AB 9222",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/9222"
+        },
+        {
+          "text": "S. 832.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/832"
+        },
+        {
+          "text": "32009L0028",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0028:DE:HTML"
+        },
+        {
+          "text": "32009L0072",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0072:DE:HTML"
+        },
+        {
+          "text": "32012L0027",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012L0027:DE:HTML"
+        },
+        {
+          "text": "BGBl. I Nr. 27/2015",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2015/27"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        },
+        {
+          "text": "IA 403/A",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/403"
+        },
+        {
+          "text": "AB 116",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/116"
+        },
+        {
+          "text": "S. 22.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/22"
+        },
+        {
+          "text": "AB 10292",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10292"
+        },
+        {
+          "text": "S. 905.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/905"
+        },
+        {
+          "text": "BGBl. I Nr. 12/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/12"
+        },
+        {
+          "text": "RV 476",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/476"
+        },
+        {
+          "text": "AB 594",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/I/594"
+        },
+        {
+          "text": "S. 69.",
+          "url": "https://www.parlament.gv.at/gegenstand/XXVII/NRSITZ/69"
+        },
+        {
+          "text": "AB 10509",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/I-BR/10509"
+        },
+        {
+          "text": "S. 916.",
+          "url": "https://www.parlament.gv.at/gegenstand/BR/BRSITZ/916"
+        },
+        {
+          "text": "32023L1791",
+          "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32023L1791:DE:HTML"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 1",
+      "source_heading": "Teil 1 Grundsätze",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 1,
+        "stable_identity": false
+      },
+      "file": "par-0001.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "d29c0bd76148c3f67b924805ff0232e7b9ee8116b03dab2e0d65c1f6be6378fa",
+      "sha256": "65d57ff60b5225071982b35722f8746cf6edf4f362175e0f399726590e82d23a",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 2",
+      "source_heading": "Geltungsbereich",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 2,
+        "stable_identity": false
+      },
+      "file": "par-0002.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "31ac11ad3a108d3e5074d33fdaab7e7713b9356c7f6015d3799e8b2d2a01b454",
+      "sha256": "cd0f41348e386a3ff1c88d440a6c5c9ca1db2fa0365601d15ee90ae429bf371c",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 3",
+      "source_heading": "Umsetzung von Unionsrecht",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 3,
+        "stable_identity": false
+      },
+      "file": "par-0003.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "44086c5c20813f7668d29dde36e361207e61229af562b137f8feb056ba818a66",
+      "sha256": "b41803e43e7e04f265d2984d3539dcafc55b6241e8a7593e380602f4aaf6b79d",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 4",
+      "source_heading": "Ziele",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 4,
+        "stable_identity": false
+      },
+      "file": "par-0004.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "1be283eb35ae199a948f673af96e0076a5e0d1738cd7eb65ba99dd6f49821103",
+      "sha256": "73b62ea6b696eef6dedb683b493464952270495f5b73753f7837b576247b1eb4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 5",
+      "source_heading": "Begriffsbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 5,
+        "stable_identity": false
+      },
+      "file": "par-0005.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9d14143d24124d6f3698b7b8dffa9c962584ab8f2ff408758a9b2aab58d93dbb",
+      "sha256": "f8e8a9f61266dbbb10781547b2ff7a325d7d235a96eefc3de90d5b9e2d200111",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        },
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 6",
+      "source_heading": "Herkunftsnachweise",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 6,
+        "stable_identity": false
+      },
+      "file": "par-0006.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "9ebb0907ccc791addfd4774935b8b74ea0647cea5cf31477026a256e2b40dd66",
+      "sha256": "cee1a58bc762a0b6e7503f725736c3c8170e0a08f1cd62062ca37f9c4d258ba4",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 8",
+      "source_heading": "Berechnung der hocheffizienten KWK-Energie",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 7,
+        "stable_identity": false
+      },
+      "file": "par-0008.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "aee567b063ae94f0c659a39dd43d70a5b405650919e0b880329463d08b8e4a1a",
+      "sha256": "1e1e4af8ce0f11229ec528de09a55a728b9ba6aabbd0effa582504f10d260370",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 9",
+      "source_heading": "Abwicklung der Gewährung von Investitionszuschüssen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 8,
+        "stable_identity": false
+      },
+      "file": "par-0009.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b5dfc5355ba9afa960dc9160f05682d351b087bce518a3f7ec29a8076392da6e",
+      "sha256": "a754641449385ca6828ec2dfd04ad36db45742e51dd4491687ec109fac5c321e",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 11",
+      "source_heading": "Teil 3 Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 9,
+        "stable_identity": false
+      },
+      "file": "par-0011.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "016617cd7c469cff57811ee324a76c51238498cd1f1fe2ffbacf394582f48dd1",
+      "sha256": "4675b623d3947c3b10f2889715516d1d1f357a5cb87bd4769dd87ae8e10547df",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 149/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_149_1/2002_149_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 44/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/44"
+        },
+        {
+          "text": "BGBl. I Nr. 149/2002",
+          "url": "https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/2002_149_1/2002_149_1.pdf"
+        },
+        {
+          "text": "BGBl. I Nr. 111/2008",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2008/111"
+        },
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        },
+        {
+          "text": "BGBl. I Nr. 13/2009",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2009/13"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12",
+      "source_heading": "Schlussbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 10,
+        "stable_identity": false
+      },
+      "file": "par-0012.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "863462be3a71988f545c06b55cb024054c5fcf400a391d96660ebf16721ce76c",
+      "sha256": "9e93d5e604c6d03a20b23ca8aea88c661d4314a77d101545b30f9e932d1794f1",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 12a",
+      "source_heading": "Sonderregelung im Zusammenhang mit COVID-19",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 11,
+        "stable_identity": false
+      },
+      "file": "par-0012a.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "c39f9909307ba2682668d834ef5a9a32e02b5bfa43960aa111cc45b3931ca494",
+      "sha256": "09475a675c57787590079dc527500521204efeb2a048a4bbee005ab44b3d4ef9",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 13",
+      "source_heading": "Inkrafttretensbestimmungen",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 12,
+        "stable_identity": false
+      },
+      "file": "par-0013.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "f5f68cd2bd357c946afcd977db6564d26dbc34fca98f61f3b1ad2d2b2cdf88b6",
+      "sha256": "c56e52e715ac114e6eb232d45a815064375d1ca4f2c905aee9b4881e6663e54a",
+      "notes": [],
+      "links": [
+        {
+          "text": "BGBl. I Nr. 72/2014",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2014/72"
+        },
+        {
+          "text": "BGBl. I Nr. 24/2020",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2020/24"
+        },
+        {
+          "text": "BGBl. I Nr. 12/2021",
+          "url": "https://ogd.ris.bka.gv.at/eli/bgbl/I/2021/12"
+        }
+      ],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    },
+    {
+      "designation": "§ 14",
+      "source_heading": "Vollziehung",
+      "source_record_id": null,
+      "source_locator": {
+        "kind": "documentContent_index",
+        "index": 13,
+        "stable_identity": false
+      },
+      "file": "par-0014.md",
+      "source_context": null,
+      "identity_review_required": false,
+      "identity_basis": "source_designation_and_context",
+      "source_fingerprint": "b4b8c7d65515fa2484ba579b62a6bca0d48212c4e64e1563e1dc2c4471dfb4e0",
+      "sha256": "e511f68eddfe37e8a760a9c822ba279e274837bd339c4003e04e3cf6e6856e0f",
+      "notes": [],
+      "links": [],
+      "images": [],
+      "source_extensions": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über die Durchführung der Wahl der Vollversammlungen der Kammern für Arbeiter und Angestellte (Arbeiterkammer-Wahlordnung – AKWO) StF: [BGBl. II Nr. 340/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_340_2/1998_340_2.pdf>)
+
+Auf Grund der §§ 12, 18 bis 45a sowie 47 Abs. 1, 95, 97 und 98 des Arbeiterkammergesetzes 1992 (AKG), [BGBl. Nr. 626/1991](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1991_626_0/1991_626_0.pdf>), zuletzt geändert durch das Bundesgesetz [BGBl. I Nr. 104/1998](<https://ogd.ris.bka.gv.at/Dokumente/BgblPdf/1998_104_1/1998_104_1.pdf>), wird verordnet:
