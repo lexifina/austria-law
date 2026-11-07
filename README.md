@@ -86,6 +86,15 @@ headings of the parts that begin with a provision are `##` lines, its own headin
 - **Which of two laws of one day** made a change, where RIS does not say (above).
 - **The authentic text.** The consolidated text in RIS is for information; only the Federal Law Gazette is authentic.
 
+## Current federal-law catalog
+
+[`CATALOG.md`](CATALOG.md) describes a separate, resumable RIS title-catalog importer and its access rules.
+A catalog lists instruments and source links; it does not expand the two-act legal-text history above.
+[`CURRENT_SYNC.md`](CURRENT_SYNC.md) covers separate current-text snapshots and incremental update checks.
+The current collection uses one readable Markdown file per provision with separate source and validity metadata,
+as specified in [`CURRENT_FORMAT.md`](CURRENT_FORMAT.md). Downloading/checking never publishes a PR;
+validation and a review tied to the exact candidate are required before export.
+
 ## How it is built
 
 `tools/build.py` reads the RIS OGD API and writes this repository from scratch; the same data gives the same hashes.
