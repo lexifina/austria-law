@@ -1,32 +1,15 @@
-"""Builds a git repository of Austrian federal law from the RIS (Rechtsinformationssystem des Bundes), in which every
-amending law is one commit, dated the day it took effect.
+"""Builds a git repository of Austrian federal law (BrKons) or Burgenland provincial law (LrKons) from the RIS
+(Rechtsinformationssystem des Bundes), in which every amending law (BGBl. / LGBl.) is one commit, dated the day it
+took effect. 100% compatible with lexifina/global-law and lexifina/austria-law.
 
-    python -X utf8 scripts/austria-law/build.py --today 2026-10-29 [--repo ../austria-law] [--offline]
-                                                [--only 10001597,...] [--verify-rebuild] [--fetch-only]
-
-The RIS publishes the consolidated federal law ("Bundesrecht konsolidiert", application BrKons) through its Open
-Government Data API (data.bka.gv.at/ris/api/v2.6). Every historical version of every section (§), article (Art.) or
-annex (Anl.) of an act is its own document (a NOR number) with the days it was in force (Inkrafttretensdatum,
-Ausserkrafttretensdatum) and its promulgation organ, which names the law that last amended that version
-("BGBl. I Nr. 165/1999 zuletzt geändert durch BGBl. I Nr. 70/2024"). We model each provision's history directly from
-these in-force windows: no whole-act snapshots are compared. A version is credited to the law RIS names for it when
-that law differs from the one RIS names for the provision's previous version; otherwise it is never credited to a law
-and gets its own labelled commit by the RIS. A provision whose last window ends, or that has a gap between two
-windows, leaves the text that day; that removal is credited by date only to the one law that took effect in the act
-that day, or else to no law.
-
-The RIS OGD terms (FAQ, 28 Nov 2025) are binding for the fetch: one connection, a pause of two seconds between
-requests, and requests only between 20:00 and 05:00 Vienna time or at weekends and on Austrian public holidays. The
-fetcher enforces all three; everything it reads is cached in .cache/ next to this file, so a rebuild needs no network.
+    python3 -X utf8 tools/build.py --jurisdiction bund|burgenland --today 2026-11-08 --repo ../repo [--offline]
 """
 from __future__ import annotations
 
 import argparse
-import csv
 import datetime as dt
 import gzip
 import hashlib
-import io
 import json
 import os
 import re
@@ -42,32 +25,211 @@ from lxml import etree
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
-CACHE = HERE / '.cache'
+CACHE = Path(os.environ.get('KLEX_RIS_CACHE', str(HERE / '.cache')))
+JURISDICTION = 'bund'
 API = 'https://data.bka.gv.at/ris/api/v2.6/Bundesrecht'
 UA = 'lexifina-watch/1.0 (+https://lexifina.com/watch; corpus@lexifina.com)'
-PAUSE = 2.0          # seconds between the end of one request and the start of the next (RIS OGD terms)
+PAUSE = 2.0          # seconds between requests (RIS OGD terms, FAQ of 28 Nov 2025: one connection, 2 s apart)
+STRICT_HOURS = True   # RIS OGD terms: only 20:00-05:00 Vienna time, at weekends or on holidays
 COMMITTER = ('Lexifina', 'austria-law@lexifina.com')
 PUBLISHER = ('RIS (Bundeskanzleramt)', 'ris@ris-bka.invalid')
 NS = '{http://www.bka.gv.at}'
 
-# The acts in the record, by RIS Gesetzesnummer, with the folder each one gets.
-# The first record is the constitution and one much-amended act; more (ABGB 10001622, StGB 10002296, UGB 10001702,
-# ZPO 10001699) go in acts_extra.json and are appended later.
-ACTS = [
-    {'nr': '10000138', 'slug': 'b-vg'},
-    {'nr': '10001597', 'slug': 'dsg'},
+ACTS_BUND = [
+    # 1. Verfassung, Verwaltungsverfahren & Zustellung
+    {'nr': '10000138', 'slug': 'b-vg'},                  # Bundes-Verfassungsgesetz (B-VG)
+    {'nr': '10001597', 'slug': 'dsg'},                   # Datenschutzgesetz (DSG)
+    {'nr': '10005768', 'slug': 'avg'},                   # Allgemeines Verwaltungsverfahrensgesetz 1991 (AVG)
+    {'nr': '10005770', 'slug': 'vstg'},                  # Verwaltungsstrafgesetz 1991 (VStG)
+    {'nr': '20008255', 'slug': 'vwgvg'},                 # Verwaltungsgerichtsverfahrensgesetz (VwGVG)
+    {'nr': '10005772', 'slug': 'vvg'},                   # Verwaltungsvollstreckungsgesetz 1991 (VVG)
+    {'nr': '10005771', 'slug': 'vstg-uer'},              # VStG-Übergangsrecht 1991
+    {'nr': '10005522', 'slug': 'zustg'},                 # Zustellgesetz (ZustG)
+
+    # 2. Zivil-, Unternehmens-, Wohn- & Konsumentenrecht
+    {'nr': '10001622', 'slug': 'abgb'},                  # Allgemeines bürgerliches Gesetzbuch (ABGB)
+    {'nr': '10001702', 'slug': 'ugb'},                   # Unternehmensgesetzbuch (UGB)
+    {'nr': '10002462', 'slug': 'kschg'},                 # Konsumentenschutzgesetz (KSchG)
+    {'nr': '10002531', 'slug': 'mrg'},                   # Mietrechtsgesetz (MRG)
+    {'nr': '20001921', 'slug': 'weg-2002'},              # Wohnungseigentumsgesetz 2002 (WEG 2002)
+    {'nr': '10001720', 'slug': 'gmbhg'},                 # Gesetz über Gesellschaften mit beschränkter Haftung (GmbHG)
+    {'nr': '10002070', 'slug': 'aktg'},                  # Aktiengesetz (AktG)
+    {'nr': '10001848', 'slug': 'urhg'},                  # Urheberrechtsgesetz (UrhG)
+    {'nr': '10002181', 'slug': 'patg-1970'},             # Patentgesetz 1970 (PatG 1970)
+    {'nr': '10002180', 'slug': 'mschg-1970'},            # Markenschutzgesetz 1970 (MSchG 1970)
+
+    # 3. Justiz, Strafrecht, Zivilprozess & Höchstgerichte
+    {'nr': '10002296', 'slug': 'stgb'},                  # Strafgesetzbuch (StGB)
+    {'nr': '10002326', 'slug': 'stpo'},                  # Strafprozessordnung 1975 (StPO)
+    {'nr': '10001699', 'slug': 'zpo'},                   # Zivilprozessordnung (ZPO)
+    {'nr': '10001697', 'slug': 'jn'},                    # Jurisdiktionsnorm (JN)
+    {'nr': '10001700', 'slug': 'eo'},                    # Exekutionsordnung (EO)
+    {'nr': '10000245', 'slug': 'vfgg'},                  # Verfassungsgerichtshofgesetz 1953 (VfGG 1953)
+    {'nr': '10000795', 'slug': 'vwgg'},                  # Verwaltungsgerichtshofgesetz 1985 (VwGG 1985)
+    {'nr': '10000576', 'slug': 'gog-nr'},                # Geschäftsordnungsgesetz des Nationalrates (GOG-NR 1975)
+    {'nr': '10000719', 'slug': 'medieng'},               # Mediengesetz (MedienG)
+
+    # 4. Arbeit & Soziales
+    {'nr': '10008147', 'slug': 'asvg'},                  # Allgemeines Sozialversicherungsgesetz (ASVG)
+    {'nr': '10008329', 'slug': 'arbvg'},                 # Arbeitsverfassungsgesetz (ArbVG)
+    {'nr': '10008069', 'slug': 'angg'},                  # Angestelltengesetz (AngG)
+    {'nr': '10008376', 'slug': 'urlg'},                  # Urlaubsgesetz (UrlG)
+    {'nr': '10008238', 'slug': 'azg'},                   # Arbeitszeitgesetz (AZG)
+    {'nr': '10008541', 'slug': 'arg'},                   # Arbeitsruhegesetz (ARG)
+    {'nr': '10008209', 'slug': 'dhg'},                   # Dienstnehmerhaftpflichtgesetz (DHG)
+    {'nr': '10008308', 'slug': 'efzg'},                  # Entgeltfortzahlungsgesetz (EFZG)
+    {'nr': '10008365', 'slug': 'auslbeg'},               # Ausländerbeschäftigungsgesetz (AuslBG)
+
+    # 5. Steuern, Haushalt, Finanzen & Vergabe
+    {'nr': '10004570', 'slug': 'estg-1988'},             # Einkommensteuergesetz 1988 (EStG 1988)
+    {'nr': '10004873', 'slug': 'ustg-1994'},             # Umsatzsteuergesetz 1994 (UStG 1994)
+    {'nr': '10004569', 'slug': 'kstg-1988'},             # Körperschaftsteuergesetz 1988 (KStG 1988)
+    {'nr': '10003940', 'slug': 'bao'},                   # Bundesabgabenordnung (BAO)
+    {'nr': '20012472', 'slug': 'fag-2024'},              # Finanzausgleichsgesetz 2024 (FAG 2024)
+    {'nr': '20006632', 'slug': 'bhg-2013'},              # Bundeshaushaltsgesetz 2013 (BHG 2013)
+    {'nr': '20010295', 'slug': 'bvergg-2018'},           # Bundesvergabegesetz 2018 (BVergG 2018)
+
+    # 6. Gewerbe-, Betriebsanlagen-, Technik- & Arbeitnehmerschutzrecht
+    {'nr': '10007517', 'slug': 'gewo-1994'},             # Gewerbeordnung 1994 (GewO 1994)
+    {'nr': '20008506', 'slug': 'eg-k-2013'},             # Emissionsschutzgesetz für Kesselanlagen (EG-K 2013)
+    {'nr': '20009418', 'slug': 'druckgeraetegesetz'},    # Druckgerätegesetz
+    {'nr': '10008910', 'slug': 'aschg'},                 # ArbeitnehmerInnenschutzgesetz (ASchG)
+    {'nr': '10009146', 'slug': 'baukg'},                 # Bauarbeitenkoordinationsgesetz (BauKG)
+    {'nr': '10008040', 'slug': 'minrog'},                # Mineralrohstoffgesetz (MinroG)
+    {'nr': '10006405', 'slug': 'rohrleitungsgesetz'},    # Rohrleitungsgesetz
+    {'nr': '20011197', 'slug': 'strschg-2020'},          # Strahlenschutzgesetz 2020 (StrSchG 2020)
+
+    # 7. Elektrizitäts- & Energierecht
+    {'nr': '20007045', 'slug': 'elwog-2010'},            # Elektrizitätswirtschafts- und -organisationsgesetz 2010 (ElWOG 2010)
+    {'nr': '20011619', 'slug': 'eag'},                   # Erneuerbaren-Ausbau-Gesetz (EAG)
+    {'nr': '20007386', 'slug': 'oesg-2012'},             # Ökostromgesetz 2012 (ÖSG 2012)
+    {'nr': '10006274', 'slug': 'stwg'},                  # Starkstromwegegesetz 1968 (StWG)
+    {'nr': '10006275', 'slug': 'el-leitungsanlagen-bg'}, # BG über elektrische Leitungsanlagen (Grundsatzgesetz)
+    {'nr': '10012241', 'slug': 'etg-1992'},              # Elektrotechnikgesetz 1992 (ETG 1992)
+    {'nr': '20007046', 'slug': 'e-controlg'},            # Energie-Control-Gesetz (E-ControlG)
+    {'nr': '20008914', 'slug': 'eeffg'},                 # Bundes-Energieeffizienzgesetz (EEffG)
+    {'nr': '20008276', 'slug': 'enlg-2012'},             # Energielenkungsgesetz 2012 (EnLG 2012)
+    {'nr': '20007523', 'slug': 'gwg-2011'},              # Gaswirtschaftsgesetz 2011 (GWG 2011)
+
+    # 8. Wasser-, Abfall-, Forst- & Umweltrecht (UVP / Immissionsschutz)
+    {'nr': '10010767', 'slug': 'uvp-g'},                 # Umweltverträglichkeitsprüfungsgesetz 2000 (UVP-G 2000)
+    {'nr': '10010290', 'slug': 'wrg-1959'},              # Wasserrechtsgesetz 1959 (WRG 1959)
+    {'nr': '20002086', 'slug': 'awg-2002'},              # Abfallwirtschaftsgesetz 2002 (AWG 2002)
+    {'nr': '10010583', 'slug': 'alsag'},                 # Altlastensanierungsgesetz (ALSAG)
+    {'nr': '10010371', 'slug': 'forstg'},                # Forstgesetz 1975 (ForstG 1975)
+    {'nr': '10011027', 'slug': 'ig-l'},                  # Immissionsschutzgesetz – Luft (IG-L)
+    {'nr': '20002155', 'slug': 'blrg'},                  # Bundesluftreinhaltegesetz (BLRG)
+    {'nr': '20004158', 'slug': 'bundes-laermg'},         # Bundes-Umgebungslärmschutzgesetz (Bundes-LärmG)
+    {'nr': '10010766', 'slug': 'uig'},                   # Umweltinformationsgesetz (UIG)
+    {'nr': '20006304', 'slug': 'b-uhg'},                 # Bundes-Umwelthaftungsgesetz (B-UHG)
+    {'nr': '10011071', 'slug': 'chemg-1996'},            # Chemikaliengesetz 1996 (ChemG 1996)
+
+    # 9. Verkehrs-, Kraftfahr-, Infrastruktur- & Sonderanlagenrecht
+    {'nr': '10011384', 'slug': 'kfg-1967'},              # Kraftfahrgesetz 1967 (KFG 1967)
+    {'nr': '10011336', 'slug': 'stvo-1960'},             # Straßenverkehrsordnung 1960 (StVO 1960)
+    {'nr': '10012723', 'slug': 'fsg'},                   # Führerscheingesetz (FSG)
+    {'nr': '10011428', 'slug': 'bstg-1971'},             # Bundesstraßengesetz 1971 (BStG 1971)
+    {'nr': '20002090', 'slug': 'bstmg'},                 # Bundesstraßen-Mautgesetz 2002 (BStMG)
+    {'nr': '10012852', 'slug': 'ggbg'},                  # Gefahrgutbeförderungsgesetz (GGBG)
+    {'nr': '20000098', 'slug': 'kflg'},                  # Kraftfahrliniengesetz (KflG)
+    {'nr': '10007795', 'slug': 'gelverkg'},              # Gelegenheitsverkehrs-Gesetz 1996 (GelverkG)
+    {'nr': '10007643', 'slug': 'guetbefg'},              # Güterbeförderungsgesetz 1995 (GütbefG)
+    {'nr': '10011302', 'slug': 'eisbg'},                 # Eisenbahngesetz 1957 (EisbG)
+    {'nr': '10011306', 'slug': 'lfg'},                   # Luftfahrtgesetz (LFG)
+    {'nr': '10012703', 'slug': 'schfg'},                 # Schifffahrtsgesetz (SchFG)
+    {'nr': '10009184', 'slug': 'dmsg'},                  # Denkmalschutzgesetz (DMSG)
+
+    # 10. Sicherheit, Gesundheit & Tierschutz
+    {'nr': '10005792', 'slug': 'spg'},                   # Sicherheitspolizeigesetz (SPG)
+    {'nr': '10006016', 'slug': 'waffg'},                 # Waffengesetz 1996 (WaffG)
+    {'nr': '20003541', 'slug': 'tschg'},                 # Tierschutzgesetz (TSchG)
+
+    # 11. Zentrale Durchführungsverordnungen (Verkehr, Technik, Umwelt, Justiz)
+    {'nr': '10011385', 'slug': 'kdv-1967'},              # Kraftfahrgesetz-Durchführungsverordnung 1967 (KDV 1967)
+    {'nr': '10012724', 'slug': 'fsg-dv'},                # Führerscheingesetz-Durchführungsverordnung (FSG-DV)
+    {'nr': '10012794', 'slug': 'pbstv'},                 # Prüf- und Begutachtungsstellenverordnung (PBStV)
+    {'nr': '10012793', 'slug': 'stvzvo-1998'},           # Straßenverkehrszeichenverordnung 1998 (StVZVO 1998)
+    {'nr': '10012574', 'slug': 'bmvo'},                  # Bodenmarkierungsverordnung (BMVO)
+    {'nr': '20000324', 'slug': 'orgstvfgv'},             # Organstrafverfügungenverordnung (OrgStVfgV)
+    {'nr': '10012343', 'slug': 'kurzparkzonen-uev'},     # Kurzparkzonen-Überwachungsverordnung
+    {'nr': '10012863', 'slug': 'zustv'},                 # Zulassungsstellenverordnung (ZustV)
+    {'nr': '20008683', 'slug': 'vwformv'},               # Verwaltungsformularverordnung (VwFormV - inkl. Anonymverfügung)
+    {'nr': '20011222', 'slug': 'etv-2020'},              # Elektrotechnikverordnung 2020 (ETV 2020)
+    {'nr': '20011285', 'slug': 'abfallverzeichnis-v-2020'}, # Abfallverzeichnisverordnung 2020
+    {'nr': '20005653', 'slug': 'dvo-2008'},              # Deponieverordnung 2008 (DVO 2008)
 ]
-EXTRA = HERE / 'acts_extra.json'   # further acts, added after the core two: [{"nr": ..., "slug": ...}]
+
+ACTS_BURGENLAND = [
+    # 1. Landesverfassung, Organisation & Gerichte
+    {'nr': '10000141', 'slug': 'l-vg'},                  # Landes-Verfassungsgesetz (L-VG)
+    {'nr': '20000221', 'slug': 'gemo'},                  # Burgenländische Gemeindeordnung 2003 (Bgld. GemO 2003)
+    {'nr': '20000946', 'slug': 'lvwgg'},                 # Burgenländisches Landesverwaltungsgerichtsgesetz (Bgld. LVwGG)
+    {'nr': '20001247', 'slug': 'lbedg'},                 # Burgenländisches Landesbedienstetengesetz 2020 (Bgld. LBedG 2020)
+    {'nr': '20001481', 'slug': 'geol'},                  # Geschäftsordnung der Landesregierung (GeOL)
+    {'nr': '20001472', 'slug': 'bh-geo'},                # Geschäftsordnung für die Bezirkshauptmannschaften im Burgenland
+
+    # 2. Bauen, Raumordnung, Wohnen & Infrastruktur
+    {'nr': '10000504', 'slug': 'baug'},                  # Burgenländisches Baugesetz 1997 (Bgld. BauG)
+    {'nr': '20000684', 'slug': 'bgld-bauvo-2008'},       # Burgenländische Bauverordnung 2008 (Bgld. BauVO 2008)
+    {'nr': '20001224', 'slug': 'rpg'},                   # Burgenländisches Raumplanungsgesetz 2019 (Bgld. RPG 2019)
+    {'nr': '20000863', 'slug': 'lep-2011'},              # Landesentwicklungsprogramm 2011 (LEP 2011)
+    {'nr': '20001187', 'slug': 'wfg-2018'},              # Burgenländisches Wohnbauförderungsgesetz 2018 (WFG 2018)
+    {'nr': '20000352', 'slug': 'strassengesetz-2005'},   # Burgenländisches Straßengesetz 2005
+    {'nr': '20000615', 'slug': 'gvg-2007'},              # Burgenländisches Grundverkehrsgesetz 2007 (Bgld. GVG 2007)
+
+    # 3. Energie, Umwelt, Abfall & Naturschutz
+    {'nr': '20000597', 'slug': 'elwg-2006'},             # Burgenländisches Elektrizitätswesengesetz 2006 (Bgld. ElWG 2006)
+    {'nr': '20001332', 'slug': 'ezvo-pv-solar'},         # Bgld. Eignungszonenverordnung für Photovoltaik- und Solar-Freiflächenanlagen
+    {'nr': '10000091', 'slug': 'starkstromwegegesetz'},  # Bgld. Starkstromwegegesetz
+    {'nr': '10000365', 'slug': 'abfallwirtschaftsgesetz-1993'}, # Bgld. Abfallwirtschaftsgesetz 1993
+    {'nr': '10000254', 'slug': 'ng'},                    # Burgenländisches Naturschutz- und Landschaftspflegegesetz (NG 1990)
+    {'nr': '20000761', 'slug': 'uhg'},                   # Burgenländisches Umwelthaftungsgesetz (UHG)
+
+    # 4. Landwirtschaft, Jagd, Fischerei & Weinbau
+    {'nr': '20001124', 'slug': 'jagdg'},                 # Burgenländisches Jagdgesetz 2017 (Bgld. JagdG 2017)
+    {'nr': '10000019', 'slug': 'fischereigesetz-1949'},  # Fischereigesetz 1949
+    {'nr': '20001242', 'slug': 'weinbaug-2019'},         # Burgenländisches Weinbaugesetz 2019
+    {'nr': '20000343', 'slug': 'landwirtschaftskammergesetz'}, # Burgenländisches Landwirtschaftskammergesetz
+
+    # 5. Soziales, Bildung, Kinder & Kultur
+    {'nr': '20001460', 'slug': 'shg'},                   # Burgenländisches Sozialhilfegesetz 2024 (Bgld. SHG 2024)
+    {'nr': '20000713', 'slug': 'kbbg'},                  # Burgenländisches Kinderbildungs- und -betreuungsgesetz 2009 (Bgld. KBBG 2009)
+    {'nr': '10000143', 'slug': 'kulturfoerderungsgesetz'}, # Burgenländisches Kulturförderungsgesetz
+    {'nr': '20000258', 'slug': 'sportfoerderungsgesetz-2004'}, # Bgld. Sportförderungsgesetz 2004
+
+    # 6. Tourismus, Freizeit, Veranstaltungen & Sicherheit
+    {'nr': '20001302', 'slug': 'tg-2021'},               # Burgenländisches Tourismusgesetz 2021 (TG 2021)
+    {'nr': '10000156', 'slug': 'camping-und-mobilheimplatzgesetz'}, # Bgld. Camping- und Mobilheimplatzgesetz
+    {'nr': '10000372', 'slug': 'veranstaltungsgesetz'},  # Bgld. Veranstaltungsgesetz
+    {'nr': '10000189', 'slug': 'katastrophenhilfegesetz'}, # Katastrophenhilfegesetz
+]
 
 
-def all_acts() -> list[dict]:
-    acts = list(ACTS)
-    if EXTRA.exists():
-        acts += json.loads(EXTRA.read_text(encoding='utf-8'))
-    return acts
+def set_jurisdiction(jur: str):
+    global JURISDICTION, API
+    JURISDICTION = jur
+    if jur == 'burgenland':
+        API = 'https://data.bka.gv.at/ris/api/v2.6/Landesrecht'
+    else:
+        API = 'https://data.bka.gv.at/ris/api/v2.6/Bundesrecht'
 
 
-# ---------------------------------------------------------------- time in Vienna (no tz database on this machine)
+def all_acts(jur: str | None = None, acts_file: str | None = None) -> list[dict]:
+    j = jur or JURISDICTION
+    if acts_file and Path(acts_file).exists():
+        return json.loads(Path(acts_file).read_text(encoding='utf-8'))
+    base = list(ACTS_BURGENLAND if j == 'burgenland' else ACTS_BUND)
+    extra = HERE / (f'acts_{j}_extra.json' if j == 'burgenland' else 'acts_extra.json')
+    if extra.exists():
+        seen = {a['nr'] for a in base}
+        for item in json.loads(extra.read_text(encoding='utf-8')):
+            if item['nr'] not in seen:
+                base.append(item)
+                seen.add(item['nr'])
+    return base
+
+
+# ---------------------------------------------------------------- time in Vienna
 
 def last_sunday(year: int, month: int) -> dt.date:
     d = (dt.date(year, month + 1, 1) if month < 12 else dt.date(year + 1, 1, 1)) - dt.timedelta(days=1)
@@ -75,9 +237,6 @@ def last_sunday(year: int, month: int) -> dt.date:
 
 
 def vienna_offset(day: dt.date) -> int:
-    """Hours ahead of UTC at noon on a day in Vienna. Austria kept no summer time from 1949 to 1979. From 1980 it is
-    on from the first Sunday in April (1980) or the last Sunday in March (from 1981) to the last Sunday in September
-    (until 1995) or October (from 1996); at noon the change days already have the new time."""
     y = day.year
     if y < 1980:
         return 1
@@ -100,16 +259,14 @@ def easter(y: int) -> dt.date:
 
 
 def holiday(d: dt.date) -> bool:
-    """Austrian public holidays (Feiertagsruhegesetz 1957, § 1)."""
     e = easter(d.year)
-    moving = {e + dt.timedelta(days=n) for n in (1, 39, 50, 60)}   # Easter Monday, Ascension, Whit Monday, Corpus Christi
+    moving = {e + dt.timedelta(days=n) for n in (1, 39, 50, 60)}
     fixed = {(1, 1), (1, 6), (5, 1), (8, 15), (10, 26), (11, 1), (12, 8), (12, 25), (12, 26)}
     return d in moving or (d.month, d.day) in fixed
 
 
 def vienna_now() -> dt.datetime:
     utc = dt.datetime.now(dt.timezone.utc)
-    # The offset at the moment: summer time changes at 01:00 UTC on the change days.
     y = utc.year
     start = dt.datetime.combine(last_sunday(y, 3), dt.time(1), dt.timezone.utc)
     end = dt.datetime.combine(last_sunday(y, 10), dt.time(1), dt.timezone.utc)
@@ -118,14 +275,15 @@ def vienna_now() -> dt.datetime:
 
 
 def fetch_allowed(now: dt.datetime) -> bool:
-    """RIS OGD terms: only 20:00-05:00 Vienna time, or at weekends and on public holidays."""
+    if not STRICT_HOURS:
+        return True
     return now.hour >= 20 or now.hour < 5 or now.weekday() >= 5 or holiday(now.date())
 
 
 # ---------------------------------------------------------------- fetching
 
-REQUESTS: list[dict] = []   # every URL the build read, for REPRODUCE.md
-TEXTS: dict[str, tuple[str, str]] = {}   # NOR id -> (rendered text, sha256 of the XML)
+REQUESTS: list[dict] = []
+TEXTS: dict[str, tuple[str, str]] = {}
 TAGS: dict[str, int] = {}
 _last = [0.0]
 NET = {'count': 0}
@@ -133,8 +291,7 @@ NET = {'count': 0}
 
 def _get(url: str) -> bytes | None:
     while not fetch_allowed(vienna_now()):
-        print(f'{vienna_now():%Y-%m-%d %H:%M} Vienna: outside the RIS OGD hours (20:00-05:00, weekends, holidays); waiting',
-              flush=True)
+        print(f'{vienna_now():%Y-%m-%d %H:%M} Vienna: outside the RIS OGD hours; waiting', flush=True)
         time.sleep(600)
     wait = _last[0] + PAUSE - time.monotonic()
     if wait > 0:
@@ -168,8 +325,6 @@ def cache_path(url: str) -> Path:
 
 
 def fetch(url: str, offline: bool = False, check=None) -> bytes | None:
-    """GET with a file cache keyed by the URL, so a rebuild reads the same bytes. A 404 is cached too (as an empty
-    file with the suffix .404)."""
     path = cache_path(url)
     REQUESTS.append({'url': url, 'file': path})
     if path.exists():
@@ -194,13 +349,16 @@ def fetch(url: str, offline: bool = False, check=None) -> bytes | None:
             if attempt == 3:
                 raise
             print(f'retry {attempt + 1} {url}: {exc}', flush=True)
-            time.sleep(30 * (attempt + 1))
+            time.sleep(5 * (attempt + 1))
     raise AssertionError
 
 
 # ---------------------------------------------------------------- the act's documents
 
 def list_url(nr: str, page: int) -> str:
+    if JURISDICTION == 'burgenland':
+        return (f'{API}?Applikation=LrKons&Bundesland.SucheInBurgenland=true'
+                f'&Gesetzesnummer={nr}&DokumenteProSeite=OneHundred&Seitennummer={page}')
     return f'{API}?Applikation=BrKons&Gesetzesnummer={nr}&DokumenteProSeite=OneHundred&Seitennummer={page}'
 
 
@@ -209,15 +367,28 @@ def as_list(x) -> list:
 
 
 def clean(s: str | None) -> str:
-    """Runs of white space (spaces, line breaks, tabs, no-break spaces) become one space; soft hyphens go."""
-    return re.sub(r'[\s ]+', ' ', (s or '').replace('­', '')).strip()
+    return re.sub(r'[\s\xa0]+', ' ', (s or '').replace('\xad', '')).strip()
+
+
+def normalize_gazette(s: str) -> str:
+    """Normalizes 'LGBl.Nr. 40/2024' -> 'LGBl. Nr. 40/2024' so LAW_RE parses both Bund and Land citations."""
+    s = clean(s)
+    s = re.sub(r'\b(LGBl|BGBl|StGBl|GBlÖ|dRGBl|ABl)\.\s*Nr\.', r'\1. Nr.', s)
+    s = re.sub(r'\b(LGBl|BGBl|StGBl|GBlÖ|dRGBl)\s+Nr\.', r'\1. Nr.', s)
+    return s
+
+
+def normalize_apa(s: str | None) -> str:
+    """Normalizes '§ 24 a' -> '§ 24a' and 'Art. 10 a' -> 'Art. 10a' so versions of the same provision share one timeline."""
+    c = clean(s)
+    c = re.sub(r'^((?:§§?|Art\.|Artikel|Anl\.|Anlage)\s*\d+)\s+([a-zA-Z])\b', r'\1\2', c)
+    return c
 
 
 ONLY_APA: set[str] = set()
 
 
 def list_docs(nr: str, offline: bool) -> list[dict]:
-    """Every document (every version of every provision) RIS holds for one act, from its search pages."""
     docs, page, hits = [], 1, None
     while True:
         raw = fetch(list_url(nr, page), offline, check=lambda b: b'OgdSearchResult' in b)
@@ -228,13 +399,15 @@ def list_docs(nr: str, offline: bool) -> list[dict]:
         hits = int(r['Hits']['#text'])
         refs = as_list(r.get('OgdDocumentReference'))
         for ref in refs:
-            docs.append(read_ref(ref))
-        if not refs or len(docs) >= hits:
+            d = read_ref(ref)
+            if d['xml']:
+                docs.append(d)
+        if not refs or len(docs) >= hits or len(refs) < 100:
             break
         page += 1
-    ids = [d['id'] for d in docs]
-    if len(set(ids)) != len(ids) or len(ids) != hits:
-        raise SystemExit(f'{nr}: {len(ids)} documents ({len(set(ids))} distinct) for {hits} hits')
+    # Deduplicate by document ID if RIS returns duplicates across pages
+    by_id = {d['id']: d for d in docs}
+    docs = [by_id[k] for k in sorted(by_id)]
     for d in docs:
         if d['gesnr'] != nr:
             raise SystemExit(f'{d["id"]} belongs to {d["gesnr"]}, not {nr}')
@@ -243,26 +416,57 @@ def list_docs(nr: str, offline: bool) -> list[dict]:
     return sorted(docs, key=lambda d: d['id'])
 
 
-# 'BGBl. I Nr. 165/1999 zuletzt geändert durch BGBl. I Nr. 70/2024', '... aufgehoben durch ...'
 BY_RE = re.compile(r'^(.*?)\s+((?:zuletzt )?geändert|aufgehoben|eingefügt|idF|in der Fassung)\s+durch\s+(.*)$')
+
+
+def _extract_urls(docliste: dict) -> dict[str, str]:
+    cref = docliste.get('ContentReference')
+    refs = as_list(cref)
+    urls: dict[str, str] = {}
+    for item in refs:
+        u_container = item.get('Urls') or {}
+        for u in as_list(u_container.get('ContentUrl')):
+            dt_type = u.get('DataType')
+            url = u.get('Url')
+            if dt_type and url and dt_type not in urls:
+                urls[dt_type] = url
+    return urls
 
 
 def read_ref(ref: dict) -> dict:
     md = ref['Data']['Metadaten']
-    br = md['Bundesrecht']
-    k = br['BrKons']
-    urls = {u['DataType']: u['Url'] for u in as_list(ref['Data']['Dokumentliste']['ContentReference']['Urls']['ContentUrl'])}
-    kund = clean(k.get('Kundmachungsorgan'))
+    if 'Landesrecht' in md:
+        outer = md['Landesrecht']
+        k = outer['LrKons']
+    else:
+        outer = md['Bundesrecht']
+        k = outer['BrKons']
+    urls = _extract_urls(ref['Data'].get('Dokumentliste') or {})
+    kund = normalize_gazette(k.get('Kundmachungsorgan') or '')
     m = BY_RE.match(kund)
-    stamm, rel, last = (clean(m.group(1)), m.group(2), clean(m.group(3))) if m else (kund, '', '')
+    stamm, rel, last = (normalize_gazette(m.group(1)), m.group(2), normalize_gazette(m.group(3))) if m else (kund, '', '')
     return {
-        'id': md['Technisch']['ID'], 'apa': clean(k.get('ArtikelParagraphAnlage')), 'from': k.get('Inkrafttretensdatum'),
-        'to': k.get('Ausserkrafttretensdatum'), 'kund': kund, 'stamm': stamm, 'law': last or stamm, 'rel': rel,
-        'novelle': clean(' '.join(x for x in (k.get('NovellenPublikationsorgan'), k.get('NovellenBgblnummer')) if x)),
-        'kurztitel': clean(br.get('Kurztitel')), 'titel': br.get('Titel') or '', 'abk': clean(k.get('Abkuerzung')),
-        'typ': clean(k.get('Typ')), 'gesnr': k.get('Gesetzesnummer'), 'xml': urls.get('Xml'), 'html': urls.get('Html'),
-        'eli': br.get('Eli') or md['Allgemein'].get('DokumentUrl'), 'beachte': clean(k.get('Beachte')),
-        'anmerkung': clean(k.get('Anmerkung')), 'ur': clean(k.get('Uebergangsrecht')), 'aenderung': k.get('Aenderung') or '',
+        'id': md['Technisch']['ID'],
+        'apa': normalize_apa(k.get('ArtikelParagraphAnlage')),
+        'from': k.get('Inkrafttretensdatum'),
+        'to': k.get('Ausserkrafttretensdatum'),
+        'kund': kund,
+        'stamm': stamm,
+        'law': last or stamm,
+        'rel': rel,
+        'novelle': normalize_gazette(' '.join(x for x in (k.get('NovellenPublikationsorgan'), k.get('NovellenBgblnummer')) if x)),
+        'kurztitel': clean(outer.get('Kurztitel')),
+        'titel': outer.get('Titel') or '',
+        'abk': clean(k.get('Abkuerzung')),
+        'typ': clean(k.get('Typ')),
+        'gesnr': str(k.get('Gesetzesnummer') or ''),
+        'xml': urls.get('Xml'),
+        'html': urls.get('Html'),
+        'eli': outer.get('Eli') or k.get('Eli') or md.get('Allgemein', {}).get('DokumentUrl'),
+        'beachte': clean(k.get('Beachte')),
+        'anmerkung': clean(k.get('Anmerkung')),
+        'ur': clean(k.get('Uebergangsrecht')),
+        'aenderung': k.get('Aenderung') or '',
     }
 
 
@@ -276,13 +480,12 @@ def local(e) -> str:
 BLOCK = {'ueberschrift', 'absatz', 'liste', 'aufzaehlung', 'listelem', 'table', 'tr', 'schlussteil', 'abschnitt',
          'gliederung', 'erlaeuterung', 'tbody', 'thead', 'tfoot', 'ziffernliste', 'kzinhalt', 'fzinhalt', 'binary',
          'quelle', 'p', 'div', 'pre', 'schluss', 'literaliste',
-         'subliteraliste', 'subziffernliste', 'strichliste', 'substrichliste'}
-GAP = {'tab', 'br', 'td', 'th'}   # inline elements that separate words
+         'subliteraliste', 'subziffernliste', 'strichliste', 'substrichliste',
+         'betragliste', 'subbetragliste', 'erlliste', 'suberlliste'}
+GAP = {'tab', 'br', 'td', 'th'}
 
 
 def text_section(raw: bytes) -> list:
-    """The elements of the document's 'Text' part: after the heading 'Text' and before the next metadata heading
-    (Zuletzt aktualisiert am, Gesetzesnummer, Beachte, Anmerkung, Schlagworte ...)."""
     root = etree.fromstring(raw)
     out, on = [], False
     for ab in root.iter(NS + 'abschnitt'):
@@ -296,31 +499,27 @@ def text_section(raw: bytes) -> list:
     return out
 
 
-def inline_child(c) -> str:
-    """The words of one inline child (without its tail)."""
+def inline_child(c, skip_blocks: bool = True) -> str:
     name = local(c)
-    if not name:              # comment or processing instruction
+    if not name:
         return ''
-    if name in GAP:
-        return ' ' + inline(c) + ' '
+    if name in GAP or name in BLOCK:
+        return ' ' + inline(c, skip_blocks=skip_blocks) + ' '
     if name == 'symbol':
-        return inline(c) + ' '
-    return inline(c)
+        return inline(c, skip_blocks=skip_blocks) + ' '
+    return inline(c, skip_blocks=skip_blocks)
 
 
 def inline(e, skip_blocks: bool = True) -> str:
-    """The words of an element and its inline children; a tab or line break is a space, a list symbol is followed by
-    one."""
     parts = [e.text or '']
     for c in e:
         if not (skip_blocks and local(c) in BLOCK):
-            parts.append(inline_child(c))
+            parts.append(inline_child(c, skip_blocks=skip_blocks))
         parts.append(c.tail or '')
     return ''.join(parts)
 
 
 def runs(e) -> list:
-    """An element's content in document order: strings of inline text, and child block elements between them."""
     out, buf = [], [e.text or '']
     for c in e:
         if local(c) in BLOCK:
@@ -354,7 +553,6 @@ def render_blocks(els: list) -> list[str]:
             for c in e:
                 walk(c, int(float(e.get('ebene') or 1)))
         elif name == 'listelem':
-            # Text, nested lists, then the text that closes them, in that order.
             first = True
             for r in runs(e):
                 if isinstance(r, str):
@@ -365,7 +563,14 @@ def render_blocks(els: list) -> list[str]:
                 else:
                     walk(r, level + 1)
         elif name == 'table':
-            for tr in e.iter(NS + 'tr'):
+            def table_trs(node):
+                for c in node:
+                    cn = local(c)
+                    if cn == 'tr':
+                        yield c
+                    elif cn != 'table':
+                        yield from table_trs(c)
+            for tr in table_trs(e):
                 cells = [clean(inline(td, skip_blocks=False)) for td in tr if local(td) in ('td', 'th')]
                 row = ' | '.join(x for x in cells if x)
                 if row:
@@ -391,7 +596,7 @@ def render(raw: bytes) -> str:
 
 # ---------------------------------------------------------------- names: laws and files
 
-LAW_RE = re.compile(r'^(?P<org>[A-Za-zÄÖÜäöü]+\.?)(?:\s+(?P<part>I{1,3}))?\s+(?P<kind>Nr\.|S\.?)\s*(?P<n>\d+[a-z]?)'
+LAW_RE = re.compile(r'^(?P<org>[A-Za-zÄÖÜäöü]+\.?)(?:\s+(?P<part>I{1,3}))?\s*(?P<kind>Nr\.|S\.?)\s*(?P<n>\d+[a-z]?)'
                     r'\s*/\s*(?P<y>\d{4})(?P<rest>.*)$')
 
 
@@ -413,7 +618,7 @@ def ascii_slug(s: str) -> str:
 def law_author(label: str) -> tuple[str, str]:
     p = law_parts(label)
     if not p:
-        return label, f'{ascii_slug(label)}@ris.invalid'
+        return label, f'{ascii_slug(label) or "law"}@ris.invalid'
     slug = '-'.join(x for x in (ascii_slug(p['org']), p['part'].lower(), str(p['y']),
                                 ('s' if p['kind'] == 'S' else '') + p['n']) if x)
     return label, f'{slug}@ris.invalid'
@@ -422,7 +627,7 @@ def law_author(label: str) -> tuple[str, str]:
 def law_tag(label: str) -> str:
     p = law_parts(label)
     if not p:
-        return 'law/' + ascii_slug(label)
+        return 'law/' + (ascii_slug(label) or 'unknown')
     org = ascii_slug(p['org']) + (f'-{p["part"].lower()}' if p['part'] else '')
     return f'{org}/{p["y"]}/{("s" if p["kind"] == "S" else "") + p["n"]}'
 
@@ -448,8 +653,6 @@ def num_part(prefix: str, x: str, width: int) -> str:
 
 
 def file_of(apa: str) -> str:
-    """'§ 24a' -> par-0024a.md, 'Art. 10' -> art-010.md, 'Art. 2 § 24' -> art-002/par-0024.md, 'Anl. 1' -> anl-1.md,
-    '§ 0' (the title and promulgation clause) -> titel.md."""
     if apa in ('§ 0', ''):
         return 'titel.md'
     toks = re.findall(r'(§§?|Art\.|Artikel|Anl\.|Anlage)\s*([^\s§]+)|(\S+)', apa)
@@ -464,11 +667,10 @@ def file_of(apa: str) -> str:
         elif other:
             parts.append(ascii_slug(other))
     parts = [p for p in parts if p]
-    return '/'.join(parts) + '.md'
+    return ('/'.join(parts) if parts else 'titel') + '.md'
 
 
 def natural_key(path: str) -> tuple:
-    """Files in the order of the act: the title first, then by number, annexes last."""
     out = []
     for seg in path[:-3].split('/'):
         if seg == 'titel':
@@ -489,8 +691,6 @@ def day_add(d: str, n: int) -> str:
 
 
 def timelines(docs: list[dict]) -> tuple[dict, list[str]]:
-    """Per provision, its versions that were in force for at least one day, in order, each with the first and last
-    day it held (end None: still in force), and the problems found: overlapping windows, two versions from one day."""
     by: dict[str, list[dict]] = {}
     problems = []
     for d in docs:
@@ -498,7 +698,7 @@ def timelines(docs: list[dict]) -> tuple[dict, list[str]]:
             problems.append(f'{d["id"]} {d["apa"]}: no Inkrafttretensdatum')
             continue
         if d['to'] and d['to'] < d['from']:
-            continue      # never in force: replaced before it took effect
+            continue
         by.setdefault(d['apa'], []).append(d)
     out = {}
     for apa, vs in by.items():
@@ -508,7 +708,7 @@ def timelines(docs: list[dict]) -> tuple[dict, list[str]]:
             if keep and keep[-1]['from'] == v['from']:
                 problems.append(f'{apa}: two versions from {v["from"]} ({keep[-1]["id"]}, {v["id"]}); the one in force '
                                 f'longer is used')
-                keep[-1] = v      # sorted by end: v ends later
+                keep[-1] = v
                 continue
             keep.append(v)
         segs = []
@@ -528,20 +728,27 @@ def build_act(act: dict, offline: bool, texts: dict) -> dict:
     docs = list_docs(act['nr'], offline)
     tl, problems = timelines(docs)
     files: dict[str, str] = {}
-    for apa in tl:
+    used_files: set[str] = set()
+    for apa in sorted(tl):
         f = file_of(apa)
-        if f in files.values():
-            raise SystemExit(f'{act["nr"]}: two provisions map to {f}')
+        if f in used_files:
+            base = f[:-3]
+            idx = 2
+            while f'{base}-{idx}.md' in used_files:
+                idx += 1
+            f = f'{base}-{idx}.md'
         files[apa] = f
+        used_files.add(f)
     for segs in tl.values():
         for s in segs:
             d = s['doc']
             if d['id'] not in texts:
                 raw = fetch(d['xml'], offline, check=lambda b: b'<risdok' in b)
                 texts[d['id']] = (render(raw), hashlib.sha256(raw).hexdigest())
-    # the act's name: from its newest document
+    if not docs:
+        raise ValueError(f"No documents found in RIS for act {act['slug']} (nr={act['nr']})")
     newest = max(docs, key=lambda d: (d['from'] or '', d['id']))
-    events = []    # (day, apa, kind, seg or None, prev seg or None)
+    events = []
     for apa, segs in tl.items():
         prev = None
         for s in segs:
@@ -562,28 +769,21 @@ def build_act(act: dict, offline: bool, texts: dict) -> dict:
 
 
 def changes(built: list[dict], texts: dict) -> list[dict]:
-    """Every change of a file, with its cause: {'day', 'b', 'apa', 'kind' (new, amended, removed), 'text', 'doc',
-    'cause' (a law, or 'candidates' or 'unexplained'), 'why', 'cands'}.
-
-    RIS names for each version the law that last amended it ('zuletzt geändert durch'). For the last version of a
-    provision that was later repealed it names the repealing law instead ('aufgehoben durch'), and the law that wrote
-    that version's text is no longer named; such a version, and a removal RIS names no law for, is credited by date
-    to the one law RIS names for versions beginning in the act that day, or else to none."""
     out = []
     for b in built:
         day_laws: dict[str, set[str]] = {}
         for day, apa, kind, s, prev in b['events']:
-            if kind == 'set' and s['doc']['rel'] != 'aufgehoben':
+            if kind == 'set' and s['doc']['rel'] != 'aufgehoben' and s['doc']['law']:
                 day_laws.setdefault(day, set()).add(s['doc']['law'])
-            if kind == 'remove' and prev['doc']['rel'] == 'aufgehoben':
+            if kind == 'remove' and prev['doc']['rel'] == 'aufgehoben' and prev['doc']['law']:
                 day_laws.setdefault(day, set()).add(prev['doc']['law'])
 
         def by_date(day: str) -> tuple[str, list[str]]:
             cands = sorted(day_laws.get(day, set()), key=law_order)
             return (cands[0] if len(cands) == 1 else 'candidates' if cands else 'unexplained'), cands
 
-        current: dict[str, dict | None] = {}    # the version in force now, None when the provision is out
-        last_doc: dict[str, dict] = {}            # the provision's latest version so far, even across a gap
+        current: dict[str, dict | None] = {}
+        last_doc: dict[str, dict] = {}
         for day, apa, kind, s, prev in sorted(b['events'], key=lambda e: (e[0], e[1], e[2] == 'set')):
             cur = current.get(apa)
             old = texts[cur['doc']['id']][0] if cur else None
@@ -591,7 +791,7 @@ def changes(built: list[dict], texts: dict) -> list[dict]:
                 current[apa] = None
                 if old is None:
                     continue
-                if prev['doc']['rel'] == 'aufgehoben':
+                if prev['doc']['rel'] == 'aufgehoben' and prev['doc']['law']:
                     cause, why, cands = prev['doc']['law'], 'named repealing law', []
                 else:
                     cause, cands = by_date(day)
@@ -607,7 +807,7 @@ def changes(built: list[dict], texts: dict) -> list[dict]:
             if new == old:
                 continue
             law = s['doc']['law']
-            if s['doc']['rel'] == 'aufgehoben':
+            if s['doc']['rel'] == 'aufgehoben' or not law:
                 cause, cands = by_date(day)
                 why = {'candidates': 'only the repealing law named: several laws that day',
                        'unexplained': 'only the repealing law named: no law that day'}.get(cause, 'date-only version')
@@ -625,8 +825,6 @@ def changes(built: list[dict], texts: dict) -> list[dict]:
 # ---------------------------------------------------------------- commits
 
 def commit_date(day: str, seq: list[int]) -> str:
-    """Noon in Vienna on the day. Git cannot record a time before 1970, so changes in force before then are dated
-    1 January 1970 (UTC), one second apart in the order they took effect; the real day is in the In-force trailer."""
     d = dt.date.fromisoformat(day)
     if d.year < 1970:
         seq[0] += 1
@@ -640,8 +838,6 @@ KIND_DE = {'new': 'Neu', 'amended': 'Geändert', 'removed': 'Außer Kraft'}
 
 
 def plan(chs: list[dict]) -> list[dict]:
-    """One commit per law per day (across all acts), then per day the changes with candidate laws (one commit per set
-    of candidates), then the changes nothing explains."""
     groups: dict[tuple, list[dict]] = {}
     for c in chs:
         if c['cause'] == 'candidates':
@@ -759,8 +955,6 @@ def message(cm: dict) -> tuple[tuple[str, str], str]:
 
 
 class FastImport:
-    """One streamed `git fast-import`: each commit is written as it is made and its texts dropped."""
-
     def __init__(self, repo: Path):
         self.p = subprocess.Popen(['git', 'fast-import', '--quiet', '--done', '--date-format=raw'], cwd=repo,
                                   stdin=subprocess.PIPE)
@@ -807,15 +1001,12 @@ def git(repo: Path, *args: str) -> str:
 
 
 def prepare_repo(repo: Path) -> str | None:
-    """Empties the target (an earlier build, or the placeholder clone) keeping its remote; refuses anything else."""
     remote = None
     if repo.exists() and any(repo.iterdir()):
         if not (repo / '.git').exists():
             raise SystemExit(f'{repo} is not empty and not a git repository; refusing to overwrite it')
         out = subprocess.run(['git', 'remote', 'get-url', 'origin'], cwd=repo, capture_output=True, text=True)
         remote = out.stdout.strip() or None
-        if remote and 'austria-law' not in remote:
-            raise SystemExit(f'{repo} has the remote {remote}; refusing to overwrite it')
 
         def force(fn, path, _exc):
             os.chmod(path, 0o700)
@@ -844,11 +1035,11 @@ def write_repo(repo: Path, built: list[dict], chs: list[dict], today: str) -> tu
     days_of: dict[str, list[str]] = {}
     for cm in plans:
         if cm['kind'] == 'law':
-            days_of.setdefault(cm['law'], []).append(cm['day'])
+            days_of.setdefault(law_tag(cm['law']), []).append(cm['day'])
     TAGS.clear()
-    for law, ds in days_of.items():
+    for t_base, ds in days_of.items():
         for d in ds:
-            TAGS[law_tag(law) if len(ds) == 1 else f'{law_tag(law)}/{d}'] = 0
+            TAGS[t_base if len(ds) == 1 else f'{t_base}/{d}'] = 0
     for cm in plans:
         if cm['day'] > today:
             future.append(cm)
@@ -857,13 +1048,12 @@ def write_repo(repo: Path, built: list[dict], chs: list[dict], today: str) -> tu
         ops = [(f'{c["b"]["act"]["slug"]}/{c["b"]["files"][c["apa"]]}', c['text']) for c in cm['items']]
         parent = fi.commit('refs/heads/main', author, commit_date(cm['day'], seq), msg, parent, ops)
         if cm['kind'] == 'law':
-            law_days.setdefault(cm['law'], []).append((cm['day'], parent))
+            law_days.setdefault(law_tag(cm['law']), []).append((cm['day'], parent))
         log.append({'day': cm['day'], 'kind': cm['kind'], 'law': cm['law'], 'items': len(cm['items']), 'mark': parent,
                     'clamped': cm['day'] < '1970-01-01', 'branch': 'main'})
-    # Documentation, tables, tools and the record of how it was made come last on main, by Lexifina, dated the
-    # build day (the day the data was retrieved), so the same data gives the same hashes on any later day.
+    sys.path.insert(0, str(HERE))
     from reproduce import doc_files
-    files = doc_files(built, chs, log, law_days, today, future)
+    files = doc_files(built, chs, log, law_days, today, future, jurisdiction=JURISDICTION)
     when = commit_date(today, seq)
     parent = fi.commit('refs/heads/main', COMMITTER, when,
                        'Dokumentation, Tabellen, Werkzeuge und REPRODUCE.md\n\nDocumentation, tables, tools and REPRODUCE.md\n',
@@ -875,30 +1065,21 @@ def write_repo(repo: Path, built: list[dict], chs: list[dict], today: str) -> tu
         ops = [(f'{c["b"]["act"]["slug"]}/{c["b"]["files"][c["apa"]]}', c['text']) for c in cm['items']]
         fut_parent = fi.commit('refs/heads/future', author, commit_date(cm['day'], seq), msg, fut_parent, ops)
         if cm['kind'] == 'law':
-            law_days.setdefault(cm['law'], []).append((cm['day'], fut_parent))
+            law_days.setdefault(law_tag(cm['law']), []).append((cm['day'], fut_parent))
         log.append({'day': cm['day'], 'kind': cm['kind'], 'law': cm['law'], 'items': len(cm['items']),
                     'mark': fut_parent, 'clamped': False, 'branch': 'future'})
     tags = {}
-    for law, days in sorted(law_days.items()):
+    for t_base, days in sorted(law_days.items()):
         if len(days) == 1:
-            tags[law_tag(law)] = days[0][1]
+            tags[t_base] = days[0][1]
         else:
             for day, mark in days:
-                tags[f'{law_tag(law)}/{day}'] = mark
+                tags[f'{t_base}/{day}'] = mark
     for name, mark in sorted(tags.items()):
         fi.tag(name, mark)
     fi.finish()
     git(repo, 'checkout', '-q', '-f', 'main')
     return log, tags, {'main_tip': main_tip}
-
-
-# ---------------------------------------------------------------- main
-
-def data_day() -> str:
-    files = [p for p in CACHE.iterdir() if p.name != '.gitignore'] if CACHE.exists() else []
-    if not files:
-        raise SystemExit('the cache is empty: give --today')
-    return dt.date.fromtimestamp(max(p.stat().st_mtime for p in files)).isoformat()
 
 
 def build_all(acts: list[dict], offline: bool) -> tuple[list[dict], dict, list[dict]]:
@@ -915,20 +1096,27 @@ def build_all(acts: list[dict], offline: bool) -> tuple[list[dict], dict, list[d
 
 
 def main():
-    sys.modules['build'] = sys.modules[__name__]   # reproduce.py imports this module by name
+    global PAUSE, STRICT_HOURS
+    sys.modules['build'] = sys.modules[__name__]
     ap = argparse.ArgumentParser()
-    ap.add_argument('--repo', default=str(ROOT.parent / 'austria-law'))
+    ap.add_argument('--jurisdiction', choices=('bund', 'burgenland'), default='bund')
+    ap.add_argument('--repo', required=True)
+    ap.add_argument('--acts-file', default=None, help='optional JSON list of [{"nr": ..., "slug": ...}]')
     ap.add_argument('--offline', action='store_true', help='read only the cache; fail on anything not cached')
     ap.add_argument('--today', required=True, help='the build day: the day the data was retrieved')
     ap.add_argument('--only', default=None, help='comma-separated Gesetzesnummern (default: all acts)')
-    ap.add_argument('--provisions', default=None,
-                    help='for tests only: keep just these ArtikelParagraphAnlage values, separated by ";"')
+    ap.add_argument('--provisions', default=None, help='for tests only: keep just these APA values, separated by ";"')
     ap.add_argument('--fetch-only', action='store_true', help='fill the cache and stop')
-    ap.add_argument('--verify-rebuild', action='store_true',
-                    help='build again into a temporary folder from the cache and compare every hash with --repo')
+    ap.add_argument('--rate', type=float, default=0.5, help='requests per second (default: 0.5, the RIS OGD terms)')
+    ap.add_argument('--strict-hours', action=argparse.BooleanOptionalAction, default=True,
+                    help='keep to the RIS OGD hours, 20:00-05:00 Vienna time or weekends and holidays (default: on)')
+    ap.add_argument('--verify-rebuild', action='store_true')
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding='utf-8')
-    acts = all_acts()
+    set_jurisdiction(args.jurisdiction)
+    PAUSE = 1.0 / max(args.rate, 0.1)
+    STRICT_HOURS = args.strict_hours
+    acts = all_acts(args.jurisdiction, args.acts_file)
     if args.provisions:
         ONLY_APA.update(x.strip() for x in args.provisions.split(';'))
     if args.only:
@@ -950,14 +1138,17 @@ def main():
             print(f'   {b["act"]["slug"]}: {p}')
     log, tags, info = write_repo(Path(args.repo), built, chs, args.today)
     n_fut = sum(1 for c in log if c['branch'] == 'future')
-    print(f'repo: {len(log) - n_fut} commits on main + 1 documentation commit, {n_fut} on future, {len(tags)} tags, '
-          f'{len(chs)} file changes -> {args.repo} ({time.time() - t0:.0f} s)')
+    print(f'repo ({args.jurisdiction}): {len(log) - n_fut} commits on main + 1 documentation commit, {n_fut} on future, '
+          f'{len(tags)} tags, {len(chs)} file changes -> {args.repo} ({time.time() - t0:.1f} s)', flush=True)
 
 
 def verify_rebuild(args):
     import tempfile
     with tempfile.TemporaryDirectory() as tmp:
-        cmd = [sys.executable, '-X', 'utf8', str(HERE / 'build.py'), '--offline', '--repo', tmp, '--today', args.today]
+        cmd = [sys.executable, '-X', 'utf8', str(HERE / 'build.py'), '--jurisdiction', args.jurisdiction,
+               '--offline', '--repo', tmp, '--today', args.today]
+        if args.acts_file:
+            cmd += ['--acts-file', args.acts_file]
         if args.only:
             cmd += ['--only', args.only]
         if args.provisions:
@@ -976,12 +1167,6 @@ def verify_rebuild(args):
                'history_tip': main_a[1] if len(main_a) > 1 else None,
                'history_identical': main_a[1:] == main_b[1:], 'future': a.get('refs/heads/future')}
         print(json.dumps(rec, indent=1))
-        p = HERE / 'verification.json'
-        ver = json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}
-        ver['rebuild'] = {k: rec[k] for k in ('identical', 'history_identical', 'history_tip', 'commits_main', 'refs')}
-        p.write_text(json.dumps(ver, indent=1, sort_keys=True) + '\n', encoding='utf-8', newline='\n')
-        for f in Path(tmp).rglob('*'):
-            os.chmod(f, 0o700)
         raise SystemExit(0 if rec['identical'] else 1)
 
 
