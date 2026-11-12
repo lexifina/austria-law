@@ -1,5 +1,10 @@
 # Austrian federal law (Bundesrecht), change by change
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Austrian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law) and **KLex**: this is Austrian federal law (`AT`), read at `austria/bund/acts/`.
 
 Each amending law is one commit, credited to that law (`BGBl. I Nr. 70/2024`) and dated the day it took effect, at noon in Vienna. The text is the consolidated law published by the Federal Chancellery in the [RIS](https://www.ris.bka.gv.at) (Rechtsinformationssystem des Bundes).
