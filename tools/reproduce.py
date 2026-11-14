@@ -355,7 +355,7 @@ Repository structure, commit history, tables and tools: CC0 1.0 Universal (see [
 
     out_files = {
         'LICENSE': license_str,
-        'README.md': readme_str,
+        # README.md (German) and README.en.md are kept by hand on the serbia-law model since 2026-11-14: not generated
         'REPRODUCE.md': reproduce_str,
         'SOURCES.md': sources_str,
         'corpus.json': corpus_str,

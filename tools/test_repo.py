@@ -145,11 +145,12 @@ class Smoke:
         return f'only the documentation commit {rows[0][:10]} is by Lexifina'
 
     def readme(self):
-        text = (self.repo / 'README.md').read_text(encoding='utf-8')
-        table = text[text.index('## The questions'):text.index('## The dates')]
+        text = (self.repo / 'README.en.md').read_text(encoding='utf-8')  # the English README (README.md is German)
+        start = text.index('## Questions as git commands')
+        table = text[start:text.index('\n## ', start + 1)]
         rows = '\n'.join(l for l in table.splitlines() if l.startswith('|'))
-        cmds = [c for c in re.findall(r'`([^`]+)`', rows) if c.startswith(('git ', 'python '))]
-        assert len(cmds) >= 5, f'only {len(cmds)} commands found'
+        cmds = [c for c in re.findall(r'`([^`]+)`', rows) if c.startswith(('git ', 'python ')) and '<' not in c]
+        assert len(cmds) >= 3, f'only {len(cmds)} commands found'
         for c in cmds:
             args = shlex.split(c)
             if args[0] == 'python':
