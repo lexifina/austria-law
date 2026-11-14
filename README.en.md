@@ -83,8 +83,6 @@ See [`LICENSE`](LICENSE). Laws are not protected by copyright in Austria (§ 7 A
 
 The history, commit messages, tables and tools are released under CC0 1.0, as far as they are ours.
 
-This repository is not legal advice and not an official publication.
-
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

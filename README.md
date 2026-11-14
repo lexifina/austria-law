@@ -83,8 +83,6 @@ Siehe [`LICENSE`](LICENSE). Gesetze genießen in Österreich keinen urheberrecht
 
 Die Historie, die Commit-Nachrichten, die Tabellen und die Werkzeuge werden, soweit sie von uns stammen, unter CC0 1.0 freigegeben.
 
-Dieses Repository ist keine Rechtsberatung und keine amtliche Veröffentlichung.
-
 Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 
 ## Mehr
