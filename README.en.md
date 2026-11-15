@@ -30,7 +30,8 @@ The text is in German, as the RIS publishes it. An English translation is not pa
 
 - **[Ask Claude about Austrian law](https://global-law.lexifina.com/v1/try_claude?country=austria)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=austria)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=Urlaub&jurisdictions=austria)**: a search of Austrian law for "Urlaub", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Austrian law on our site](https://lexifina.com/law?country=austria&q=Urlaub)**: a search for "Urlaub", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=Urlaub&jurisdiction=austria)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in German or in English.
 

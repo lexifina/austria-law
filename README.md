@@ -30,7 +30,8 @@ Der Text ist auf Deutsch, so wie ihn das RIS veröffentlicht. Eine englische Üb
 
 - **[Claude zum österreichischen Recht fragen](https://global-law.lexifina.com/v1/try_claude?country=austria)**: öffnet Claude mit einer vorbereiteten ersten Frage.
 - **[ChatGPT fragen](https://global-law.lexifina.com/v1/try_chatgpt?country=austria)**: dieselbe Frage in ChatGPT.
-- **[Die API im Browser aufrufen](https://global-law.lexifina.com/v1/search_law?query=Urlaub&jurisdictions=austria)**: eine Suche im österreichischen Recht nach „Urlaub“, als JSON. Die Dokumentation finden Sie [hier](https://lexifina.com/api/global-law).
+- **[Im österreichischen Recht auf unserer Website suchen](https://lexifina.com/law?country=austria&q=Urlaub)**: eine Suche nach „Urlaub“, mit dem Text jeder Vorschrift und ihren Fassungen, ohne Konto.
+- **[REST-API für Entwickler](https://global-law.lexifina.com/v1/search_law?query=Urlaub&jurisdiction=austria)**: dieselbe Suche als JSON, ohne Schlüssel. Die Dokumentation finden Sie [hier](https://lexifina.com/api/global-law).
 
 Beide Assistenten lesen den Bestand über den kostenlosen Connector Global law (MCP, `https://global-law.lexifina.com/mcp`); beim ersten Mal gibt Ihnen der Chat den Link, mit dem Sie ihn hinzufügen. Fragen Sie auf Deutsch oder auf Englisch.
 
