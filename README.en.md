@@ -61,6 +61,7 @@ Each change is credited to the law the RIS names for the version ("zuletzt geän
 - `tools/test_repo.py` checks that blame names a law, that `stand_am.py` gives the text before and after an amendment, and that `git log --follow` lists the changes in date order.
 - [`data/fassungen.json`](data/fassungen.json) lists every RIS document used, with the SHA-256 of its XML; [`REPRODUCE.md`](REPRODUCE.md) gives the commands that build and check it again.
 - History is append-only: published commits are never rewritten. The 98 acts after the B-VG and DSG, built by MrKrojer as KLex-Austria ([lexifina/global-law#21](https://github.com/lexifina/global-law/issues/21)), were appended, not merged by date.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Austrian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

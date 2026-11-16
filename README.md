@@ -61,6 +61,7 @@ Jede Änderung wird dem Gesetz zugeschrieben, das das RIS für die Fassung nennt
 - `tools/test_repo.py` prüft, dass `git blame` ein Gesetz nennt, dass `stand_am.py` den Text vor und nach einer Änderung liefert und dass `git log --follow` die Änderungen in zeitlicher Reihenfolge auflistet.
 - [`data/fassungen.json`](data/fassungen.json) führt jedes verwendete RIS-Dokument mit dem SHA-256 seines XML an; [`REPRODUCE.md`](REPRODUCE.md) enthält die Befehle, mit denen der Bestand neu erstellt und geprüft wird.
 - Die Historie wird nur fortgeschrieben: Veröffentlichte Commits werden nie umgeschrieben. Die 98 Gesetze nach B-VG und DSG, von MrKrojer als KLex-Austria erstellt ([lexifina/global-law#21](https://github.com/lexifina/global-law/issues/21)), wurden angehängt, nicht nach Datum eingefügt.
+- [vulnerabilities/](vulnerabilities/): mögliche Redaktionsfehler im österreichischen Recht, von den Detektoren von global-law gefunden und von Hand geprüft.
 
 ## Was es nicht zeigt
 
